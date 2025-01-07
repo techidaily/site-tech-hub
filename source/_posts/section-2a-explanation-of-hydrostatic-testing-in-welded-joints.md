@@ -1,7 +1,7 @@
 ---
 title: "Section 2A: Explanation of Hydrostatic Testing in Welded Joints"
-date: 2024-12-22T10:14:58.951Z
-updated: 2024-12-28T06:36:49.087Z
+date: 2025-01-05T16:47:47.635Z
+updated: 2025-01-06T16:42:08.190Z
 tags:
   - apple
 categories:
@@ -61,7 +61,7 @@ Show less
 ## Microsoft Office
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uzb-0C0xUYA?si=F4MPhdVqyVgx7_8X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Word, Excel, PowerPoint, and more, in one app
@@ -79,10 +79,6 @@ Show less
 [View now at App Store](https://apps.apple.com/us/app/microsoft-onenote/id410395246)
 
 ## Microsoft OneNote
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OFDHJnZLwTA?si=WThcb2h76AnZDzcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### The hidden gem of the Office family
 
@@ -114,11 +110,11 @@ Show less
 
 [View now at App Store](https://apps.apple.com/us/app/microsoft-edge-web-browser/id1288723196)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0nGlyEL5K6Y?si=3KZhTTBvKcPmyS68" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Microsoft Edge
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### For the first time in decades, Microsoft has a serious mobile browser
 
@@ -135,7 +131,7 @@ Show less
 [View now at App Store](https://apps.apple.com/us/app/microsoft-teams/id1113153706)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/umvX4ZdWbxk?si=tPXL0-Kzf9SQaY8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Microsoft Teams
@@ -157,7 +153,7 @@ Show less
 ## Microsoft To Do
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Keep track of Projects and tasks and send reminders to yourself or your team
@@ -174,7 +170,15 @@ Show less
 
 [View now at App Store](https://apps.apple.com/us/app/remote-desktop-mobile/id714464092)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Remote Desktop Mobile
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QRaEdFMU-Xc?si=OjaiTvlogJy5wHhN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Connect to a desktop PC or server from your mobile device
 
@@ -191,7 +195,7 @@ Show less
 [View now at App Store](https://apps.apple.com/us/app/microsoft-lists/id1530637363)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Microsoft Lists
@@ -203,10 +207,6 @@ When you're firmly entrenched in Microsoft's world as a developer or IT pro and 
 Think of Microsoft Lists as OneNote without all the annoying paragraphs. You can use lists to track issues like customer support requests, or assets in your business, or customers or inventory or ... well, you get the idea. The real secret of Microsoft Lists is not creating personal lists but rather in sharing lists with a team, complete with enterprise-grade security and customizable views that can keep everyone on the same extremely orderly page.
 
 Show Expert Take Show less 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##   
 
@@ -240,21 +240,17 @@ Show Expert Take Show less
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-boxes.techidaily.com/new-in-2024-outro-aesthetics-selecting-templates-any-budget/"><u>[New] In 2024, Outro Aesthetics Selecting Templates, Any Budget</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/between-two-tech-giants-determining-the-best-ai-chatbot-experience-with-google-bard-vs-bing-chat/"><u>Between Two Tech Giants: Determining the Best AI Chatbot Experience with Google Bard Vs. Bing Chat</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/effortless-microsoft-word-automation-using-chatgpt/"><u>Effortless Microsoft Word Automation Using ChatGPT</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/game-changing-ai-for-the-diy-industry-gpt-4-is-coming/"><u>Game-Changing AI for the DIY Industry: GPT-4 Is Coming</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/harvest-highs-celebrating-farming-gaming-innovation/"><u>Harvest Highs Celebrating Farming Gaming Innovation</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-remove-google-frp-lock-on-s23-by-drfone-android-unlock-remove-google-frp/"><u>How to remove Google FRP Lock on S23</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-how-do-i-stop-someone-from-tracking-my-vivo-y17s-drfone-by-drfone-virtual-android/"><u>In 2024, How Do I Stop Someone From Tracking My Vivo Y17s? | Dr.fone</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-lock-apps-on-oppo-reno-11f-5g-to-protect-your-individual-information-by-drfone-android/"><u>In 2024, How to Lock Apps on Oppo Reno 11F 5G to Protect Your Individual Information</u></a></li>
-<li><a href="https://extra-support.techidaily.com/in-2024-ranking-premium-free-excellence-the-finest-free-lut-selections/"><u>In 2024, Ranking Premium-Free Excellence The Finest Free LUT Selections</u></a></li>
-<li><a href="https://some-tips.techidaily.com/in-2024-the-ultimate-guide-to-vr-game-engine-picks-2023/"><u>In 2024, The Ultimate Guide to VR Game Engine Picks, 2023</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-ways-to-find-unlocking-codes-for-vivo-s17-pro-phones-by-drfone-android/"><u>In 2024, Ways To Find Unlocking Codes For Vivo S17 Pro Phones</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/innovative-cleansing-companion-the-dreame-bot-l1amooring-and-sweeping-robot-powered-by-lidar-technology-reviewed/"><u>Innovative Cleansing Companion: The Dreame Bot L1amooring and Sweeping Robot Powered by LiDAR Technology Reviewed</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/mastering-the-uses-of-llama-2-for-maximum-efficiency/"><u>Mastering the Uses of Llama 2 for Maximum Efficiency</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/the-quirk-of-machine-learning-discovering-why-chatgpt-cant-detect-its-creations/"><u>The Quirk of Machine Learning: Discovering Why ChatGPT Can't Detect Its Creations</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/trusting-chatgpt-and-bard-in-the-world-of-cash-management/"><u>Trusting ChatGPT & Bard in the World of Cash Management</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/unleashing-potential-with-ai-the-impact-of-chatgpt-on-next-gen-wearable-devices/"><u>Unleashing Potential with AI: The Impact of ChatGPT on Next-Gen Wearable Devices</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-in-2024-discover-the-top-free-platforms-for-youtube-ops/"><u>[Updated] In 2024, Discover the Top Free Platforms for YouTube Ops</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/2024-approved-dissecting-vsdcs-capabilities-in-screen-recording-vs-alternatives/"><u>2024 Approved Dissecting VSDC's Capabilities in Screen Recording vs Alternatives</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/anthropics-ai-transforming-ideas-with-claude-3/"><u>Anthropic's AI: Transforming Ideas with Claude 3</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/expert-tips-to-solve-when-mfc42ddll-is-unavailable-on-your-system/"><u>Expert Tips to Solve When mfc42d.dll Is Unavailable on Your System</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/generative-ai-simplified-for-home-users/"><u>Generative AI Simplified for Home Users</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/how-safe-is-your-data-with-chatgpt-a-deep-dive-into-privacy-concerns/"><u>How Safe Is Your Data with ChatGPT?: A Deep Dive Into Privacy Concerns</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-sdr-vs-hdri-elevating-your-content-with-advanced-color-techniques/"><u>In 2024, SDR Vs. HDRI Elevating Your Content with Advanced Color Techniques</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/24-the-essential-blueprint-to-compiling-youtube-soundscape/"><u>In 2024, The Essential Blueprint to Compiling YouTube Soundscape</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/mastering-digital-vaults-best-cloud-platforms-for-future-success-for-2024/"><u>Mastering Digital Vaults Best Cloud Platforms for Future Success for 2024</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/spotlight-on-differences-how-snapchats-ai-stacks-up-against-bing-in-a-faceoff-on-skype-exploring-key-variances-1-8/"><u>Spotlight on Differences: How Snapchat's AI Stacks Up Against Bing in a Faceoff on Skype - Exploring Key Variances #1-#8</u></a></li>
+<li><a href="https://fox-zaraz.techidaily.com/streamline-your-event-planning-with-advanced-editing-tools-and-features/"><u>Streamline Your Event Planning with Advanced Editing Tools and Features</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/why-security-challenges-for-generative-ai-are-set-to-intensify-an-insightful-list/"><u>Why Security Challenges for Generative AI Are Set to Intensify: An Insightful List</u></a></li>
 </ul></div>
 

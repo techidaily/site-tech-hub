@@ -1,7 +1,7 @@
 ---
 title: "Exploring the Best MS Office Mobile Experience : IPad and iPhone Edition | ZDNET"
-date: 2024-12-21T05:14:22.364Z
-updated: 2024-12-28T02:22:03.837Z
+date: 2024-12-31T01:19:22.188Z
+updated: 2025-01-06T23:58:08.395Z
 tags:
   - apple
 categories:
@@ -39,6 +39,10 @@ _This review was originally published on May 22, 2023, and was updated on Septem
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## ZDNET's buying advice
 
 Months of testing have proved that Apple's standard [iPhone 15 and iPhone 15 Plus](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-iphone%2Fiphone-15%3F&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp) bear more "Pro" features than ever before, including a Dynamic Island for more seamless multitasking, a 48MP camera system that -- when paired with the A16 Bionic chip -- consistently produces eye-catching imagery, and a new satin-finished design that left me with no envy for more expensive iPhone models.
@@ -46,7 +50,7 @@ Months of testing have proved that Apple's standard [iPhone 15 and iPhone 15 Plu
 If you don't see yourself shooting videos in ProRAW, requiring the extra Action button, or drooling over the 5X zoom camera on the [iPhone 15 Pro Max](https://www.zdnet.com/article/iphone-15-pro-review/), you'll be plenty comfortable with the $799 iPhone 15 and $899 iPhone 15 Plus. Between the two, buy the former if you want one of the most compact (yet capable) handsets on the market, and buy the latter if you want a more affordable big-screen iPhone and the best battery life of all the models in the latest lineup.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GyfJUhsz_AY?si=x2HjoLX1B89oEPgZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Specifications
@@ -71,7 +75,7 @@ Whenever I review [the latest iPhones](https://www.zdnet.com/article/best-iphone
 The difference between the two latest iPhone handsets mainly boils down to display size and battery life; unlike the Pro models, there's no camera hardware discrepancy, which means the general user experience of the two is pleasantly similar. That made my life as a phone reviewer a little easier -- and makes the list below all the more applicable to both iPhone models.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What are the iPhone 15's best features?
@@ -129,7 +133,7 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 [See all](https://www.zdnet.com/newsletters/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DEqoiNArwjQ?si=oaL_lgnI-RxY5Qy_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Should I upgrade from my older iPhone?
@@ -146,10 +150,6 @@ It's true that [consumers are now upgrading their smartphones at a slower rate](
 
 ---
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## What I'd like to see in the next model
 
 Kerry Wan/ZDNET
@@ -163,7 +163,7 @@ Is this Apple's way of splitting up the non-Pro and Pro models? Probably. I don'
 **An Action button:** Given how many iPhone 14 Pro features Apple carried over to the iPhone 15, I have my fingers crossed that Apple will replace the alert slider with the Action button this year. Over the course of testing the latest iPhones, I've used the alert slider less than a dozen times. An Action button would give the iPhone much more functionality.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Final thought
@@ -204,24 +204,24 @@ It's easy to call the standard iPhone model the "Best iPhone for most people." T
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-cloud.techidaily.com/new-2024-approved-live-tv-streaming-guide-the-best-ten-and-their-comparison/"><u>[New] 2024 Approved Live TV Streaming Guide The Best Ten and Their Comparison</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/new-saving-your-digital-dialogue-a-quick-guide-to-fb-chat-recordings/"><u>[New] Saving Your Digital Dialogue A Quick Guide to FB Chat Recordings</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/updated-the-ultimate-checklist-finding-videos-on-fb-today/"><u>[Updated] The Ultimate Checklist Finding Videos on FB Today</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/approved-mastering-the-art-of-monetization-with-ajey-carryminati/"><u>2024 Approved Mastering the Art of Monetization with Ajey (CarryMinati)</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/ais-role-in-crafting-healthful-eating/"><u>AI's Role in Crafting Healthful Eating</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/child-friendly-use-of-chatgpt-a-guide-to-five-safe-approaches/"><u>Child-Friendly Use of ChatGPT: A Guide to Five Safe Approaches</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/corrective-message-no-gpt-windows-isnt-dangerous-virus/"><u>Corrective Message: No, GPT-Windows Isn't Dangerous Virus</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/decoding-ais-misinterpretation-phenomena-a-guide-to-recognizing-hallucinatory-output/"><u>Decoding AI's Misinterpretation Phenomena: A Guide to Recognizing Hallucinatory Output</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/diving-deeper-into-chatgpt-enterprise-its-offerings-and-how-it-stands-out/"><u>Diving Deeper Into ChatGPT Enterprise: Its Offerings & How It Stands Out</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/establishing-a-consistent-mindfulness-routine-with-chatgpt/"><u>Establishing a Consistent Mindfulness Routine with ChatGPT</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/how-chatgpt-can-help-you-understand-pdf-content-in-just-four-steps/"><u>How ChatGPT Can Help You Understand PDF Content in Just Four Steps</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/how-to-bypass-xiaomi-redmi-13c-5g-frp-in-3-different-ways-by-drfone-android/"><u>How To Bypass Xiaomi Redmi 13C 5G FRP In 3 Different Ways</u></a></li>
-<li><a href="https://apple-account.techidaily.com/how-to-create-an-apple-developer-account-on-iphone-12-pro-max-by-drfone-ios/"><u>How To Create an Apple Developer Account On iPhone 12 Pro Max</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-fix-excel-2003-formulas-not-working-properly-step-by-step-guide-by-stellar-guide/"><u>How to Fix Excel 2003 Formulas Not Working Properly | Step-by-Step Guide</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/mastering-pcmobile-video-filter-techniques/"><u>Mastering PC/Mobile Video Filter Techniques</u></a></li>
-<li><a href="https://data-recovery.techidaily.com/recover-missing-drives-advanced-tech-to-bring-back-accidentally-erased-computer-sectors/"><u>Recover Missing Drives: Advanced Tech to Bring Back Accidentally Erased Computer Sectors</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/smooth-dvd-playback-tips-mastering-the-art-of-watching-movies-on-your-ipad/"><u>Smooth DVD Playback Tips: Mastering the Art of Watching Movies on Your iPad</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/the-operational-principles-behind-openais-gpt-3-sharing/"><u>The Operational Principles Behind OpenAI's GPT-3 Sharing</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/top-excel-features-unattainable-by-chatgpt/"><u>Top Excel Features Unattainable by ChatGPT</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-2024-approved-facebook-video-extravaganza-the-most-advanced-fire-browser-tools-updated/"><u>[New] 2024 Approved Facebook Video Extravaganza The Most Advanced Fire-Browser Tools, Updated</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-grandiose-know-it-all-challenges-online-for-2024/"><u>[New] Grandiose KNOW-It All Challenges Online for 2024</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-reach-new-heights-on-igtv-top-tactics-for-expanding-your-audience/"><u>[New] Reach New Heights on IGTV Top Tactics for Expanding Your Audience</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-optimize-your-livestream-top-5-best-practices/"><u>[Updated] Optimize Your Livestream Top 5 Best Practices</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/approved-the-ultimate-intro-video-guide-for-iphone-and-android-users/"><u>2024 Approved The Ultimate Intro Video Guide for iPhone and Android Users</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/chatgpt-and-creativity-composing-a-masterpiece-of-verses-in-digital-age/"><u>ChatGPT and Creativity: Composing a Masterpiece of Verses in Digital Age</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/effective-growth-tactic-for-youtube-fanbases/"><u>Cost-Effective Growth Tactic for YouTube Fanbases</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/deciphering-ai-evolution-what-sets-gpt-4-gpt-4-turbo-and-gpt-4o-apart/"><u>Deciphering AI Evolution: What Sets GPT-4, GPT-4 Turbo, and GPT-4o Apart?</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/enhance-your-daily-habits-6-tips-on-integrating-chatgpt-into-your-at-home-productivity/"><u>Enhance Your Daily Habits: 6 Tips on Integrating ChatGPT Into Your At-Home Productivity</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/fraudulent-chrome-helper-harvests-social-media-passwords/"><u>Fraudulent Chrome Helper: Harvests Social Media Passwords</u></a></li>
+<li><a href="https://program-issues.techidaily.com/garrys-mod-continuous-crashes-top-5-fixes/"><u>Garry's Mod Continuous Crashes: Top 5 Fixes</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/how-to-make-chatgpt-work-with-siri-for-a-better-iphone-experience/"><u>How to Make ChatGPT Work with Siri for a Better iPhone Experience</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-expert-analysis-top-10-sports-streaming-tools-for-soccer-enthusiasts/"><u>In 2024, Expert Analysis Top 10 Sports Streaming Tools for Soccer Enthusiasts</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-latest-guide-how-to-bypass-realme-12-5g-frp-without-computer-by-drfone-android/"><u>In 2024, Latest Guide How To Bypass Realme 12 5G FRP Without Computer</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/openais-head-honcho-explains-why-more-robust-ai-control-is-necessary-what-it-signifies/"><u>OpenAI's Head Honcho Explains Why More Robust AI Control Is Necessary – What It Signifies</u></a></li>
+<li><a href="https://win-able.techidaily.com/step-by-step-tutorial-capturing-spotify-tracks-for-free-on-windows-10-or-11/"><u>Step-by-Step Tutorial: Capturing Spotify Tracks for Free on Windows (10 or 11)</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/the-ai-enigma-solved-for-simplicity/"><u>The AI Enigma, Solved for Simplicity</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/top-5-concerns-why-relying-on-chatgpt-for-health-guidance-is-risky/"><u>Top 5 Concerns: Why Relying on ChatGPT for Health Guidance Is Risky</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/unveiling-cgps-accuracy-in-medical-dialogues/"><u>Unveiling CGP's Accuracy in Medical Dialogues</u></a></li>
 </ul></div>
 

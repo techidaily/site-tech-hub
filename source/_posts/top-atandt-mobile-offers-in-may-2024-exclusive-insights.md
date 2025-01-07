@@ -1,7 +1,7 @@
 ---
 title: Top AT&T Mobile Offers in May 2024 - Exclusive Insights
-date: 2024-12-22T13:56:52.318Z
-updated: 2024-12-28T02:48:56.080Z
+date: 2025-01-03T20:16:49.422Z
+updated: 2025-01-06T21:04:27.178Z
 tags:
   - apple
 categories:
@@ -117,7 +117,7 @@ If you order this product via AT&T on a suitable plan, you will receive this mob
 [View now at AT&T](https://www.anrdoezrs.net/links/9041660/type/dlg/sid/zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp/https://www.att.com/buy/phones/motorola-razrplus.html) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/tkpBmccvJ_Q?si=J7ellPL1G1l8Axi_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## More AT&T deals
@@ -134,10 +134,6 @@ If you order this product via AT&T on a suitable plan, you will receive this mob
 
 [Motorola moto g stylus, $2.99/month, no trade-in required View now at AT&T](https://www.anrdoezrs.net/links/9041660/type/dlg/sid/zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp/https://www.att.com/buy/phones/motorola-moto-g-stylus-5g-2023.html)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Accessory and service deals
 
 [Google Pixel Buds A-Series wireless earbuds: Save 50% when you buy a Pixel device View now at AT&T](https://www.anrdoezrs.net/links/9041660/type/dlg/sid/zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp/https://www.att.com/buy/accessories/Headphones/google-pixel-buds-a-series-true-wireless-earbuds-clearly-white.html)
@@ -149,7 +145,7 @@ If you order this product via AT&T on a suitable plan, you will receive this mob
 [BodyGuardz Pure 2 Edge antimicrobial glass screen protector (iPhone 14 range) for $10 (save $35) $10 at AT&T](https://www.anrdoezrs.net/links/9041660/type/dlg/sid/zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp/https://www.att.com/buy/accessories/Screen-Protectors/bodyguardz-pure-2-edge-antimicrobial-tempered-glass-screen-protector-iphone-14-13-13-pro.html)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uzb-0C0xUYA?si=F4MPhdVqyVgx7_8X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tkpBmccvJ_Q?si=J7ellPL1G1l8Axi_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How did we choose these AT&T phone deals?
@@ -167,25 +163,29 @@ When we made our selection for the best AT&T deals, we wanted to include options
 It's true that carriers are the most aggressive with their offers when it's year-end and new customers are shopping around for services to switch to. Still, AT&T has done a fairly balanced job of pushing promotions for new and existing customers, including all the deals we have listed above. If you've been a loyal customer, we'd even recommend reaching out to your local AT&T provider to see if there are any exclusive deals just for you.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9ECz3oZ8NrQ?si=86vkwkDJo9HQXpzt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hZsnjxeSh1U?si=hZIfzQPDNX5KtOCg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Is it cheaper to buy a phone online or in-store?
 
 In general, there is no difference in how much money you save whether you shop online or in stores. Instead, deciding between the two really boils down to your preference for transactions. With how complicated carrier phone deals can be, you may be better off heading down to the local AT&T store and consulting with a product expert to help you navigate the fine print. Otherwise, shopping online can be faster and more convenient.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vPGg53vbOsk?si=CkSEN5HFPS7vDuAa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What are the best deals right now?
 
 ZDNET experts split out the latest and greatest deals for you below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### **Best deals by retailer**
 
 * [The best AT&T deals](https://www.zdnet.com/article/att-deals/)
 * [The best Verizon deals](https://www.zdnet.com/article/verizon-deals/)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### **Best deals by category**
 
@@ -236,20 +236,15 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-zero.techidaily.com/outube-shorts-and-tiktok-which-one-is-better-for-personal-usage/"><u>[New] YouTube Shorts & TikTok Which One Is Better for Personal Usage?</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/solved-errconnectiontimedout-in-chrome/"><u>[SOLVED] ERR_CONNECTION_TIMED_OUT in Chrome</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/solved-how-to-unblock-websites-on-chrome/"><u>[Solved] How to Unblock Websites on Chrome</u></a></li>
-<li><a href="https://fox-links.techidaily.com/updated-in-2024-metaverse-mayhem-top-10-sci-fi-movies-breaking-boundaries/"><u>[Updated] In 2024, Metaverse Mayhem Top 10 Sci-Fi Movies Breaking Boundaries</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/application-ownership-terms/"><u>Application Ownership Terms</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/exclusive-listing-the-elite-selection-of-robot-mop-cleaners-for-202/"><u>Exclusive Listing: The Elite Selection of Robot Mop Cleaners for 202</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-3-ways-to-fake-gps-without-root-on-realme-11-pro-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Ways to Fake GPS Without Root On Realme 11 Pro | Dr.fone</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/in-2024-perfecting-the-live-broadcast-4-tips-for-fb-enthusiasts/"><u>In 2024, Perfecting the Live Broadcast 4 Tips for FB Enthusiasts</u></a></li>
-<li><a href="https://win-answers.techidaily.com/roblox-launching-woes-here-are-5-ways-to-resume-gameplay-swiftly/"><u>Roblox Launching Woes? Here Are 5 Ways to Resume Gameplay Swiftly</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/running-older-programs-seamlessly-compatibility-mode-tips-for-windows-11-users/"><u>Running Older Programs Seamlessly: Compatibility Mode Tips for Windows 11 Users</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/secure-your-internet-with-savings-snag-a-49-discount-on-expressvpn-coupons-today/"><u>Secure Your Internet with Savings: Snag a 49% Discount on ExpressVPN Coupons Today!</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/solutions-to-restore-functionality-of-a-malfunctioning-logitech-c922-camcorder/"><u>Solutions to Restore Functionality of a Malfunctioning Logitech C922 Camcorder</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/solving-installation-media-cant-be-written-to-a-gpt-disk-a-complete-guide/"><u>Solving 'Installation Media Can't Be Written to a GPT Disk': A Complete Guide</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/step-by-step-guide-enabling-remote-access-with-windows-10/"><u>Step-by-Step Guide: Enabling Remote Access with Windows 10</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/troubleshooting-and-fixing-hp-officejet-pro-6978-driver-problems-effectively/"><u>Troubleshooting & Fixing HP OfficeJet Pro 6978 Driver Problems Effectively</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/5-diy-music-production-tutorial-videos-for-home-studios-for-2024/"><u>[New] 15 DIY Music Production Tutorial Videos for Home Studios for 2024</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-comparative-study-vidma-vs-standard-screen-recording/"><u>[Updated] Comparative Study Vidma vs Standard Screen Recording</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/ace-subtitles-conversion-the-best-free-services-listed/"><u>Ace Subtitles Conversion The Best Free Services Listed</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/enhancing-tabletop-adventures-with-chatgpt-tips-for-rpg-gamemasters/"><u>Enhancing Tabletop Adventures with ChatGPT: Tips for RPG Gamemasters</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/how-to-save-moments-recording-your-playstation-4-gaming-experience/"><u>How To Save Moments: Recording Your PlayStation 4 Gaming Experience</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/insta-influence-playbook-the-9-actions-that-build-a-brand/"><u>Insta Influence Playbook The 9 Actions that Build a Brand</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/tackling-chatgpt-sign-in-failures-solutions-and-steps/"><u>Tackling ChatGPT Sign-In Failures: Solutions and Steps</u></a></li>
+<li><a href="https://win-comparisons.techidaily.com/testing-internal-pc-fans-effectively-tips-from-yl-software-experts/"><u>Testing Internal PC Fans Effectively - Tips From YL Software Experts</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/the-future-is-now-with-these-spectacular-additions-to-bard-ai-as-announced-at-google-io-2023/"><u>The Future Is Now with These Spectacular Additions to BARD AI, as Announced at Google I/O 2023!</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/the-stubbornness-of-original-chatgpt-designs/"><u>The Stubbornness of Original ChatGPT Designs</u></a></li>
 </ul></div>
 

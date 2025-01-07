@@ -1,7 +1,7 @@
 ---
 title: Is Courtesy Essential When Interacting with Virtual Assistants Like ChatGPT, Amazon's Alexa, or Apple's Siri?
-date: 2024-08-24T11:28:11.267Z
-updated: 2024-08-25T11:28:11.267Z
+date: 2024-12-31T21:11:08.237Z
+updated: 2025-01-07T02:43:53.444Z
 tags:
   - chatgpt
   - open-ai
@@ -19,9 +19,17 @@ thumbnail: https://thmb.techidaily.com/2dd2e24a58c5be887d5c8f88ca29fd663a35485ed
 
  Like any technology, ChatGPT can be used for nefarious reasons. Hackers, for instance, can use it to create malicious content, like writing phony email messages to get access to your PC or even your bank account.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## ChatGPT Can Help Cybercriminals Hack Your PC
 
 ![Laptop with chatgpt site on screen](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/laptop-with-chatgpt-site-on-screen.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0nGlyEL5K6Y?si=3KZhTTBvKcPmyS68" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Hackers, including script kiddies, can[use ChatGPT to create new malware](https://www.makeuseof.com/can-chatgpt-be-used-malware-creation/) or improve existing ones. Some cybercriminals already use the chatbot, especially its earlier versions, to write code they claim can encrypt files.
 
@@ -33,9 +41,17 @@ thumbnail: https://thmb.techidaily.com/2dd2e24a58c5be887d5c8f88ca29fd663a35485ed
 
  In a separate incident, the researchers prompted ChatGPT to generate malicious VBA code that could be implanted into a Microsoft Excel file that would infect your PC if opened; it successfully did. Plus, there are claims that ChatGPT can code malicious software capable of spying on your keyboard strokes.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=LvxQhsEJoymsM2iZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Can ChatGPT Hack Your Bank Account?
 
 ![An illustration of a customer service chatbot](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/customer-service.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Many data breaches start with[a successful phishing attack](http://www.makeuseof.com/what-is-phishing/) . Phishing attacks often involve a malicious actor sending a recipient an email that contains legitimate-looking documents or links, which, when clicked on, can install malware on their device. In this way, code from ChatGPT doesn't need to hack your bank account directly. Someone only needs to use ChatGPT to help them trick you into giving them access.
 
@@ -50,8 +66,9 @@ thumbnail: https://thmb.techidaily.com/2dd2e24a58c5be887d5c8f88ca29fd663a35485ed
  Another kind of phishing attack involving the use of ChatGPT is where a hacker creates a fake account on a popular chat platform like Discord and pretends to be a customer representative. The fake customer rep then contacts customers who have posted concerns and offers help. If a user falls for the trap, the cybercriminal will redirect them to a bogus website that tricks them into sharing personal information, like their bank login details.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4576829&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9e740b84bb48a64dde25061566299467/products/copy_1_jp_box_big.png" border="0">Jet Profiler for MySQL, Enterprise Version： Jet Profiler for MySQL is real-time query performance and diagnostics tool for the MySQL database server. Its detailed query information, graphical interface and ease of use makes this a great tool for finding performance bottlenecks in your MySQL databases. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HSFNIAYChbA?si=4TIlsUrYmY5vP2il" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Protect Your PC and Bank Account in the AI-Era
 
  ChatGPT is a powerful and valuable tool that can answer many questions you throw its way. But the chatbot can also be used for malicious purposes, like generating phishing messages and creating malware.
@@ -60,14 +77,11 @@ thumbnail: https://thmb.techidaily.com/2dd2e24a58c5be887d5c8f88ca29fd663a35485ed
 
  To minimize the potential dangers of AI chatbots, it’s crucial to know their potential risks and the best possible security measures to protect yourself from hackers.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -76,4 +90,23 @@ thumbnail: https://thmb.techidaily.com/2dd2e24a58c5be887d5c8f88ca29fd663a35485ed
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://video-screen-grab.techidaily.com/new-virtual-reality-top-emulators-for-playing-ps3-games-on-pc/"><u>[New] Virtual Reality Top Emulators for Playing PS3 Games on PC</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-what-does-the-blue-marker-on-fb-chat-reveal-for-2024/"><u>[New] What Does the Blue Marker on FB Chat Reveal for 2024</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-in-2024-best-10-web-based-hd-screen-capture-tools/"><u>[Updated] In 2024, Best 10 Web-Based HD Screen Capture Tools</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-pro-rated-top-8-convertors-for-subtitles-and-srts-for-2024/"><u>[Updated] Pro-Rated Top 8 Convertors for Subtitles & SRTs for 2024</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/2024-approved-compiling-top-iphone-video-apps/"><u>2024 Approved Compiling Top iPhone Video Apps</u></a></li>
+<li><a href="https://driver-download.techidaily.com/1722968213173-asus-z370-e-motherboard-firmware-and-drivers-download-fast/"><u>ASUS Z370-E Motherboard Firmware & Drivers: Download Fast</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/ensuring-child-safety-5-methods-to-use-chatgpt-responsibly/"><u>Ensuring Child Safety: 5 Methods to Use ChatGPT Responsibly</u></a></li>
+<li><a href="https://fox-where.techidaily.com/exploring-file-attributes-through-the-properties-dialog-box/"><u>Exploring File Attributes Through the Properties Dialog Box</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/fight-solitude-with-technology-leveraging-chatgpt-to-feel-less-alone/"><u>Fight Solitude with Technology: Leveraging ChatGPT to Feel Less Alone</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/here-are-some-of-the-best-pokemon-discord-servers-to-join-on-tecno-pova-5-drfone-by-drfone-virtual-android/"><u>Here are Some of the Best Pokemon Discord Servers to Join On Tecno Pova 5 | Dr.fone</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/maximizing-chatgpt-use-without-paying-discover-these-5-clever-workarounds/"><u>Maximizing ChatGPT Use Without Paying: Discover These 5 Clever Workarounds</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/reliability-of-chatgpt-as-a-provider-of-health-information-is-it-valid/"><u>Reliability of ChatGPT as a Provider of Health Information: Is It Valid?</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/techniques-for-rescuing-chatgpt-conversations/"><u>Techniques for Rescuing ChatGPT Conversations</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/the-bright-side-and-flip-side-of-employing-chatgpt-for-creative-literary-works/"><u>The Bright Side & Flip Side of Employing ChatGPT for Creative Literary Works</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/top-10-gestionnaires-de-videos-mkv-selection-exclusive-des-meilleures-logiciels-pour-pc-and-mac-telechargement-direct/"><u>Top 10 Gestionnaires De Vidéos MKV - Sélection Exclusive Des Meilleures Logiciels Pour PC & Mac, Téléchargement Direct</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/top-7-improvements-how-palm-2-enhances-googles-bard-ai/"><u>Top 7 Improvements: How PaLM 2 Enhances Google's BARD AI</u></a></li>
+</ul></div>
 

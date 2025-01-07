@@ -1,7 +1,7 @@
 ---
 title: "Discover the Latest Innovations: Apple's Upcoming Tech Enhancements for iPhone, iPad, Mac, & More in Autumn with Cutting-Edge AI | ZDNet"
-date: 2024-10-25T16:09:03.144Z
-updated: 2024-10-27T17:07:37.674Z
+date: 2025-01-02T03:37:45.997Z
+updated: 2025-01-06T18:24:32.572Z
 tags:
   - apple
 categories:
@@ -38,6 +38,10 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6nvb0775GOM?si=peBB_Mo_4zcZFuci" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Apple Intelligence (AI)
 
 Maria Diaz/ZDNET
@@ -59,6 +63,10 @@ Maria Diaz/ZDNET
 * Apple Intelligence will also upgrade the Photos app with a new **clean-up tool** that removes unwanted objects. **Search in videos** allows users to easily find specific snippets of content, and users can create **Memories** on-demand, using text to edit and organize photos into movies.
 * In the Notes app, users can **record and transcribe audio**, which Apple Intelligence will generate a text summary of. This experience is also available in the Notes phone app.
 * Apple Intelligence is free on iOS 18, iPadOS 18, and MacOS Sequoia, and will be available to try in English only this summer.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Partnership with OpenAI
 
@@ -87,10 +95,7 @@ Adam Breeden/ZDNET
 * The **Calendar app** can now pull from the Reminders app for a more seamless schedule overview.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2036467/19272" target="_top" id="2036467">
-  <img src="//a.impactradius-go.com/display-ad/19272-2036467" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036467/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## WatchOS 11
@@ -116,13 +121,6 @@ Adam Breeden/ZDNET
 * In a long-awaited release, iPads will now have a **[calculator app](https://www.zdnet.com/article/after-14-years-apple-expected-to-unveil-the-ipad-app-weve-all-been-waiting-for-at-wwdc/)** for the first time, complete with the same interface as the one currently found on iPhones. Plus, users can use it with the Apple Pencil through a new **Math Notes** experience, which allows users to write expressions that the calculator app will solve for them once they type the equal sign, in their own handwriting,
 * Handwriting in Notes also got an upgrade with **Smart** **Script**, which refines users' writing to make it more legible while keeping the authenticity of the user's handwriting style. The feature can also match copied and pasted text to the user's handwriting. Typed text was also enhanced, with five new highlight colors and the ability to toggle sections under headings or subheadings.
 * iPadOS 18 supports **screen-sharing via SharePlay** and the same Control Center customizations, Photos app upgrades, Safari updates, and emoji Tapbacks found in **iOS 18.**
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144308/7443" target="_top" id="2144308">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144308" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144308/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## MacOS 15 (Sequoia)
 
@@ -153,10 +151,7 @@ Jason Hiner/ZDNET
 * Apple is also making the Vision Pro available in more countries starting June 28\. You can see the full list [here](https://www.apple.com/newsroom/2024/06/apple-vision-pro-arrives-in-new-countries-and-regions-beginning-june-28/).
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151872/7443" target="_top" id="2151872">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151872" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151872/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tkpBmccvJ_Q?si=J7ellPL1G1l8Axi_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## AirPods
@@ -168,10 +163,7 @@ Jason Hiner/ZDNET
 * Apple is also releasing a **Personalized Spatial Audio API** for game developers to build around the AirPods' audio technology.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1883998/19272" target="_top" id="1883998">
-  <img src="//a.impactradius-go.com/display-ad/19272-1883998" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1883998/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## tvOS 18
@@ -218,17 +210,18 @@ Screenshot by Nina Raemont/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-share.techidaily.com/new-elevate-views-prime-seo-equipment-for-videos-for-2024/"><u>[New] Elevate Views Prime SEO Equipment for Videos for 2024</u></a></li>
-<li><a href="https://fox-http.techidaily.com/new-next-gen-ai-picture-perfection-software-for-2024/"><u>[New] Next-Gen AI Picture Perfection Software for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-the-ultimate-guide-to-boosting-youtube-engagement/"><u>[New] The Ultimate Guide to Boosting YouTube Engagement</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/advanced-methods-save-vimeo-content-for-2024/"><u>Advanced Methods Save Vimeo Content for 2024</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/decoding-instagram-selfies-the-validation-handbook/"><u>Decoding Instagram Selfies The Validation Handbook</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/discover-alternatives-how-to-utilize-chatgpt-without-signing-up-with-openai/"><u>Discover Alternatives: How to Utilize ChatGPT without Signing Up with OpenAI</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/exploring-the-world-of-generative-ai-and-how-it-works/"><u>Exploring the World of Generative AI and How It Works</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/how-to-cast-vivo-s18e-to-computer-for-iphone-and-android-drfone-by-drfone-android/"><u>How to Cast Vivo S18e to Computer for iPhone and Android? | Dr.fone</u></a></li>
-<li><a href="https://review-topics.techidaily.com/how-to-transfer-data-from-iphone-xs-to-other-iphone-11-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From iPhone XS To Other iPhone 11 devices? | Dr.fone</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/innovative-dialogue-strategies-top-20-github-chatgpt-models/"><u>Innovative Dialogue Strategies: Top 20 GitHub ChatGPT Models</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/quick-access-social-media-links-and-customizable-menu-stay-connected-top-recommendations/"><u>Quick Access: Social Media Links & Customizable Menu - Stay Connected | Top Recommendations</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/the-art-of-chatgpt-navigations-a-guide-to-effective-file-use/"><u>The Art of ChatGPT Navigations: A Guide to Effective File Use</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-2024-approved-mastering-the-art-of-audio-blending-in-audacity/"><u>[New] 2024 Approved Mastering the Art of Audio Blending in Audacity</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-leading-voice-to-text-programs/"><u>[New] Leading Voice to Text Programs</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-future-visions-10-sci-fi-metaverse-movies-explore-worlds-anew/"><u>[Updated] Future Visions 10 Sci-Fi Metaverse Movies Explore Worlds Anew</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-the-ultimate-guide-to-magix-mixcrafts-features/"><u>[Updated] The Ultimate Guide to Magix Mixcraft's Features</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/3-solutions-to-find-your-xiaomi-redmi-k70-current-location-of-a-mobile-number-drfone-by-drfone-virtual-android/"><u>3 Solutions to Find Your Xiaomi Redmi K70 Current Location of a Mobile Number | Dr.fone</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/elon-musks-latest-innovation-discovering-the-essentials-of-grok-ai-and-its-cost-structure/"><u>Elon Musk's Latest Innovation: Discovering the Essentials of Grok AI and Its Cost Structure</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/exploring-the-best-substitutes-for-chatgpt-in-autonomous-coding/"><u>Exploring the Best Substitutes for ChatGPT in Autonomous Coding</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/integrating-chatgpt-and-siri-a-step-by-step-guide-for-iphone-users/"><u>Integrating ChatGPT and Siri: A Step-by-Step Guide for iPhone Users</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/savor-the-art-of-cooking-with-chatgpts-7-secrets/"><u>Savor the Art of Cooking with ChatGPT's 7 Secrets</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/step-by-step-guide-mastering-ez-grabber-for-2024/"><u>Step-by-Step Guide Mastering EZ Grabber for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/the-complete-inshot-editors-handbook-to-smoothness-for-2024/"><u>The Complete Inshot Editor's Handbook to Smoothness for 2024</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/troubleshooting-the-chatgpt-body-stream-error-top-7-fixes-you-need-to-know-about/"><u>Troubleshooting the ChatGPT Body Stream Error: Top 7 Fixes You Need to Know About</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-documentaries-about-historic-events-space-or-any-other-topic-that-is-impossible-to-stage-rely-on-the-videos-that-entered-the-public-domain-for-one-r/"><u>Updated Documentaries About Historic Events, Space or Any Other Topic that Is Impossible to Stage Rely on the Videos that Entered the Public Domain for One Reason or the Other. Thats Why in This Article, We for 2024</u></a></li>
 </ul></div>
 

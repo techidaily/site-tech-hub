@@ -1,7 +1,7 @@
 ---
 title: Mastering the Customization of Control Center in iOS 18 for Your iPhone | MobileMastery
-date: 2024-12-24T23:42:56.172Z
-updated: 2024-12-28T14:21:41.921Z
+date: 2025-01-04T20:29:14.307Z
+updated: 2025-01-06T18:12:51.658Z
 tags:
   - apple
 categories:
@@ -28,15 +28,7 @@ If you want to follow along, you'll need to install the iOS 18 public beta on an
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oB9V7rZzotw?si=d4xrCbq1jKHXGAWN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## How to customize your iPhone's new Control Center with iOS 18
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 1\. Access Control Center
 
@@ -45,7 +37,7 @@ To display Control Center, swipe down from the top-right corner of the screen. Y
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/f-yPCh24EsA?si=3z8FAd_lMZeAjug7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Move the available controls
@@ -57,7 +49,7 @@ Screenshot by Lance Whitney/ZDNET
 **Also: [Every iPhone model that can be updated to Apple's iOS 18 (and which ones can't)](https://www.zdnet.com/article/every-iphone-model-that-can-be-updated-to-apples-ios-18-and-which-ones-cant/)**
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hZsnjxeSh1U?si=hZIfzQPDNX5KtOCg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. Resize a control
@@ -65,6 +57,10 @@ Screenshot by Lance Whitney/ZDNET
 After tapping the plus icon, some controls sport a gray curved handle in the lower-right corner. This means you can resize the control's icon. Drag the handle and move it up, down, or diagonally. Release it when the icon is the size you wish.
 
 Screenshot by Lance Whitney/ZDNET
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 4\. Delete a control
 
@@ -81,7 +77,7 @@ Screenshot by Lance Whitney/ZDNET
 **Also: [I did not expect this iOS 18 feature announced at WWDC to be my favorite (and it's not AI)](https://www.zdnet.com/article/i-did-not-expect-this-ios-18-feature-announced-at-wwdc-to-be-my-favorite-and-its-not-ai/)**
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/g6xXIR_Uh1A?si=TMXzklPEY50MUM05" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 6\. Add a control to a new screen
@@ -89,6 +85,10 @@ Screenshot by Lance Whitney/ZDNET
 If the current screens are already filled with icons, you can set up additional screens to hold more controls. Swipe down to the last screen, which shouldn't have any free space. Tap the plus icon and then tap "Add a Control." Again, browse or search for the control you wish to add. Tap that control, and it should appear in a new screen. You can continue adding more controls to the new screen this way. You can create as many as 15 screens, though you'll probably want to stop before you reach that number.
 
 Screenshot by Lance Whitney/ZDNET
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 7\. Power down from Control Center
 
@@ -126,22 +126,20 @@ Screenshot by Lance Whitney/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-share.techidaily.com/new-boost-engagement-innovative-templates-for-your-video-closings-for-2024/"><u>[New] Boost Engagement Innovative Templates for Your Video Closings for 2024</u></a></li>
-<li><a href="https://article-helps.techidaily.com/new-in-2024-mastering-xstudio-complete-video-setup-analysis/"><u>[New] In 2024, Mastering XStudio Complete Video Setup Analysis</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-in-2024-innovative-methods-for-mac-screenshot-format-change/"><u>[Updated] In 2024, Innovative Methods for Mac Screenshot Format Change</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/2024-approved-cutting-edge-5-online-video-capture-applications/"><u>2024 Approved Cutting-Edge 5 Online Video Capture Applications</u></a></li>
-<li><a href="https://win11.techidaily.com/7-ways-to-fix-google-drive-not-syncing-on-windows/"><u>7 Ways to Fix Google Drive Not Syncing on Windows</u></a></li>
-<li><a href="https://solve-helper.techidaily.com/2024vob10/"><u>無料で2024年用ビデオオーディオブロック(VOB)ソフトを活用する上位10選！</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/best-5-elearning-programs-to-excel-in-artificial-intelligence-prompt-design/"><u>Best 5 eLearning Programs to Excel in Artificial Intelligence Prompt Design</u></a></li>
-<li><a href="https://win-webmaster.techidaily.com/diagnosing-failed-storage-devices-expert-tips-from-yl-software-professionals/"><u>Diagnosing Failed Storage Devices: Expert Tips From YL Software Professionals</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-mirror-pc-screen-to-samsung-galaxy-m54-5g-phones-drfone-by-drfone-android/"><u>In 2024, How to Mirror PC Screen to Samsung Galaxy M54 5G Phones? | Dr.fone</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/navigating-career-risks-in-an-age-of-generative-ai-can-chatgpt-replace-human-roles/"><u>Navigating Career Risks in an Age of Generative AI – Can ChatGPT Replace Human Roles?</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/quoras-gateway-for-botsllm-explore-the-tech/"><u>Quora's Gateway for Bots/LLM: Explore the Tech</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/sculpting-serenity-customized-zen-habits-powered-by-gpt/"><u>Sculpting Serenity: Customized Zen Habits Powered by GPT</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/smartphone-face-off-which-is-better-iphone-or-samsung-phone-for-you/"><u>Smartphone Face-Off: Which Is Better? IPhone or Samsung Phone for You</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/the-basics-of-predictive-artificial-intelligence-insights-and-operations/"><u>The Basics of Predictive Artificial Intelligence – Insights and Operations</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/the-most-effective-uses-of-chatgpt-for-self-care/"><u>The Most Effective Uses of ChatGPT for Self-Care</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/top-6-advantages-of-using-chatgpt-on-ios-over-the-web-platform/"><u>Top 6 Advantages of Using ChatGPT on iOS Over the Web Platform</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/top-6-tips-for-crafting-epic-video-game-narratives-with-chatgpt/"><u>Top 6 Tips for Crafting Epic Video Game Narratives with ChatGPT</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-comprehensive-guide-to-free-premium-video-callers/"><u>[New] Comprehensive Guide to Free, Premium Video Callers</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/2024-approved-direct-guide-saving-twitter-videos-on-your-mobile-device/"><u>2024 Approved Direct Guide Saving Twitter Videos on Your Mobile Device</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/2024-approved-ethereal-solution-for-digital-realities/"><u>2024 Approved Ethereal Solution for Digital Realities</u></a></li>
+<li><a href="https://techidaily.com/assessing-and-enhancing-your-rpa-strategy-the-role-of-process-insights/"><u>Assessing and Enhancing Your RPA Strategy: The Role of Process Insights</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/best-ways-on-how-to-unlockbypassswiperemove-honor-80-pro-straight-screen-edition-fingerprint-lock-by-drfone-android/"><u>Best Ways on How to Unlock/Bypass/Swipe/Remove Honor 80 Pro Straight Screen Edition Fingerprint Lock</u></a></li>
+<li><a href="https://fox-that.techidaily.com/camera-capers-on-your-iphone-discover-7-prevalent-problems-and-easy-ways-to-resolve-them/"><u>Camera Capers on Your iPhone? Discover 7 Prevalent Problems & Easy Ways to Resolve Them</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/discover-the-ultimate-list-of-no-cost-streaming-sites-top-7-picks-for-web-series-lovers/"><u>Discover the Ultimate List of No-Cost Streaming Sites - Top 7 Picks for Web Series Lovers</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/diy-dvd/"><u>DIY DVDフェイクリーヴン：破損したディスクの傷を完全に取り除くコツ</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/download-top-notch-youtube-thumbnails-with-these-3-strategies/"><u>Download Top-Notch YouTube Thumbnails with These 3 Strategies</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/easy-conversion-guide-transforming-fla-animations-into-high-def-mp4-formats/"><u>Easy Conversion Guide: Transforming .FLA Animations Into High-Def MP4 Formats</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/effortless-methods-to-transform-videos-into-mobile-friendly-formats-instantly/"><u>Effortless Methods to Transform Videos Into Mobile-Friendly Formats Instantly!</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/guide-how-can-i-put-my-dvd-on-youtube/"><u>Guide: How Can I Put My DVD on YouTube?</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723210989175-resolve-your-valorant-startup-hang-up-steps-to-end-infinite-loading/"><u>Resolve Your Valorant Startup Hang-Up: Steps to End Infinite Loading</u></a></li>
+<li><a href="https://driver-error.techidaily.com/resolving-the-default-radeon-wattman-issue-crashes-fixed-and-system-restored/"><u>Resolving the Default Radeon Wattman Issue: Crashes Fixed & System Restored</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/flvwav/"><u>すぐにFLVビデオをWAV形式に変更する簡単なガイド</u></a></li>
 </ul></div>
 

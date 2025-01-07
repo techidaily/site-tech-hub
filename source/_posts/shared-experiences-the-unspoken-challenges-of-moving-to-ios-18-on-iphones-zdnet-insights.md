@@ -1,7 +1,7 @@
 ---
 title: "Shared Experiences: The Unspoken Challenges of Moving to iOS 18 on iPhones | ZDNET Insights"
-date: 2024-12-21T10:14:36.405Z
-updated: 2024-12-28T10:39:47.978Z
+date: 2024-12-30T22:15:30.457Z
+updated: 2025-01-07T04:07:52.617Z
 tags:
   - apple
 categories:
@@ -60,7 +60,7 @@ Aside from the inferior Photos app navigation, videos in the Photos app no longe
 "The UX is a huge downgrade. It's so bad that I had to submit feedback to Apple via the feedback app in the beta. Never did one of those when it wasn't a technical bug, just pure user experience frustration," another [Redditor said](https://www.reddit.com/r/apple/comments/1e2jtq5/comment/ld1wsjg/?utm%5Fsource=share&utm%5Fmedium=web3x&utm%5Fname=web3xcss&utm%5Fterm=1&utm%5Fcontent=share%5Fbutton).
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kZVDkvMZvP4?si=xAugrCf-Ud6EMMpm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to navigate the iOS 18 Photos app
@@ -109,22 +109,19 @@ I hope a future version of iOS 18 will bring back the Camera Roll or at least to
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-decoding-the-art-of-engaging-in-youtube-short-forms/"><u>[New] 2024 Approved Decoding the Art of Engaging in YouTube Short Forms</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/tep-by-step-guide-to-collab-videos-and-channel-growth/"><u>[New] Step-by-Step Guide to Collab Videos & Channel Growth</u></a></li>
-<li><a href="https://article-posts.techidaily.com/updated-in-2024-how-to-use-zoom-to-stream-facebook-live/"><u>[Updated] In 2024, How to Use Zoom to Stream Facebook Live</u></a></li>
-<li><a href="https://android-location.techidaily.com/10-free-location-spoofers-to-fake-gps-location-on-your-infinix-smart-8-drfone-by-drfone-virtual/"><u>10 Free Location Spoofers to Fake GPS Location on your Infinix Smart 8 | Dr.fone</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/from-chaos-to-clarity-combining-obs-with-zoom/"><u>From Chaos to Clarity Combining OBS with Zoom</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/list-of-10-invisible-stories-watchers-for-2024/"><u>List of 10 Invisible Stories Watchers for 2024</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/mastering-multi-tasking-a-guide-to-splitting-your-ipads-screen/"><u>Mastering Multi-Tasking: A Guide to Splitting Your iPad's Screen</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/mastering-window-10-strategies-for-ultimate-optimization-and-improvement/"><u>Mastering Window 10: Strategies for Ultimate Optimization and Improvement</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/maximizing-your-pcs-bluetooth-connectivity-tips-and-tricks-for-windows-10-and-11/"><u>Maximizing Your PC's Bluetooth Connectivity: Tips & Tricks for Windows 10 and 11</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/optimize-your-privacy-with-chromes-best-vpn-services-instant-easy-configuration/"><u>Optimize Your Privacy with Chrome's Best VPN Services - Instant, Easy Configuration</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/process-of-screen-sharing-realme-11-pro-to-pc-detailed-steps-drfone-by-drfone-android/"><u>Process of Screen Sharing Realme 11 Pro to PC- Detailed Steps | Dr.fone</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/quick-and-simple-guide-reset-your-facebook-password-instantly/"><u>Quick and Simple Guide: Reset Your Facebook Password Instantly</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/quick-fix-for-a-malfunctioning-logitech-k520-keyboard-easy-tips-inside/"><u>Quick Fix for a Malfunctioning Logitech K520 Keyboard – Easy Tips Inside!</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/quick-fix-for-removing-windows-10-lock-screen-a-user-friendly-approach/"><u>Quick Fix for Removing Windows 10 Lock Screen - A User-Friendly Approach</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/quick-guide-identifying-and-verifying-your-windows-10-os-version-instantly/"><u>Quick Guide: Identifying and Verifying Your Windows 10 OS Version Instantly</u></a></li>
-<li><a href="https://article-files.techidaily.com/strategizing-superior-screen-snatchers/"><u>Strategizing Superior Screen-Snatchers</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/top-6-platforms-revolutionizing-business-social-interaction-for-2024/"><u>Top 6 Platforms Revolutionizing Business-Social Interaction for 2024</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-freeze-frame-like-a-pro-easy-steps-to-amazing-slow-mo-videos-on-android/"><u>[New] Freeze Frame Like a Pro Easy Steps to Amazing Slow Mo Videos on Android</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-essential-methods-for-saving-discord-livestreams-on-video/"><u>[Updated] Essential Methods for Saving Discord Livestreams on Video</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-in-2024-frame-by-frame-mastery-in-youtube-no-cost-required/"><u>[Updated] In 2024, Frame by Frame Mastery in YouTube - No Cost Required</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-perfectly-crafted-windows-simulators-for-ps3-games-for-2024/"><u>[Updated] Perfectly Crafted Windows Simulators for PS3 Games for 2024</u></a></li>
+<li><a href="https://win-able.techidaily.com/boost-your-gaming-experience-fixing-frame-rate-drops-and-stuttering-in-avatars-frontiers-of-pandora/"><u>Boost Your Gaming Experience: Fixing Frame Rate Drops & Stuttering in Avatar's Frontiers of Pandora</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/crafting-stunning-visuals-integrating-dall-e-and-chatgpt-4-for-advanced-imagery/"><u>Crafting Stunning Visuals: Integrating DALL-E and ChatGPT-4 for Advanced Imagery</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/decoding-the-contrast-how-does-nlp-differ-from-machine-learning/"><u>Decoding the Contrast: How Does NLP Differ From Machine Learning?</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/effective-strategies-for-implementing-chatgpt-in-cbt-practices/"><u>Effective Strategies for Implementing ChatGPT in CBT Practices</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/in-2024-simplify-your-workflow-incorporating-luts-into-pscc-projects/"><u>In 2024, Simplify Your Workflow Incorporating LUTs Into PSCC Projects</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/mastering-gpt-3-enabling-web-browser-and-plugin-beta/"><u>Mastering GPT-3: Enabling Web Browser & Plugin Beta</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/navigating-senior-mobility-top-cell-plan-picks/"><u>Navigating Senior Mobility - Top Cell Plan Picks</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/revolutionize-your-daily-routine-using-chatgpt/"><u>Revolutionize Your Daily Routine Using ChatGPT</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/top-enhancements-streamlining-the-chatgpt-plugin-directory/"><u>Top Enhancements: Streamlining the ChatGPT Plugin Directory</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/unleash-your-creativity-using-microsofts-copilot-image-generator-a-step-by-journey/"><u>Unleash Your Creativity Using Microsoft's Copilot Image Generator - A Step-by-Journey</u></a></li>
 </ul></div>
 

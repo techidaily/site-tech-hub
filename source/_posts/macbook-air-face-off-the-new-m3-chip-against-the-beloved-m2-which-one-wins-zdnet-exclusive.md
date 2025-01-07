@@ -1,7 +1,7 @@
 ---
 title: "MacBook Air Face-Off: The New M3 Chip Against the Beloved M2 – Which One Wins? | ZDNET Exclusive"
-date: 2024-10-21T17:43:03.698Z
-updated: 2024-10-27T17:10:35.023Z
+date: 2025-01-04T22:29:15.409Z
+updated: 2025-01-07T04:25:19.180Z
 tags:
   - apple
 categories:
@@ -41,6 +41,10 @@ At $649, this is the lowest price for the M1 version of the MacBook Air that we'
 
 The [M1 MacBook Air](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fmacbook-air-13-3-laptop-apple-m1-chip-8gb-memory-256gb-ssd-space-gray-space-gray%2F5721600.p%3FskuId%3D5721600&publisher_slug=itechdaily19598&exclusive=1) first retailed for $999 when it was released, but Apple sells refurbished versions for $799, making these deals even better than anything Apple is offering. The [M1 MacBook Air](https://goto.walmart.com/c/5597632/565706/9383?sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.walmart.com%2Fip%2FApple-MacBook-Air-13-3-inch-Laptop-Silver-M1-Chip-8GB-RAM-256GB-storage%2F609040889&subId1=zd-__COM_CLICK_ID__-dtp) is available in three different colors: gold, space gray, and silver. Snag these savings while you can. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## When will this deal expire?
 
 Walmart's new partnership with Apple allows them to sell computers and laptops directly to customers, a first for the retailer. As such, there's no expiration date for the M1 MacBook Air for $649, but they almost certainly won't stay in stock long at this price. Similarly, Best Buy's $699 price has potential to sell out quick, too. 
@@ -77,25 +81,16 @@ However, deals are subject to sell out or expire at any time, though ZDNET remai
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-skills.techidaily.com/new-premiere-ready-text-configurations/"><u>[New] Premiere-Ready Text Configurations</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/updated-social-media-wiz-how-to-create-captivating-slideshow-stories-for-facebook-for-2024/"><u>[Updated] Social Media Wiz How to Create Captivating Slideshow Stories for Facebook for 2024</u></a></li>
-<li><a href="https://some-tips.techidaily.com/2024-approved-the-definitive-list-of-video-stabilizer-brands-for-content-makers/"><u>2024 Approved The Definitive List of Video Stabilizer Brands for Content Makers</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/denial-gpt-windows-not-a-virus/"><u>Denial: GPT-Windows Not A Virus</u></a></li>
-<li><a href="https://howto.techidaily.com/google-play-services-wont-update-12-fixes-are-here-on-vivo-y27-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Google Play Services Wont Update? 12 Fixes are Here on Vivo Y27 5G | Dr.fone</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/how-to-change-honor-lock-screen-password-by-drfone-android/"><u>How To Change Honor Lock Screen Password?</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/inside-look-is-the-amazon-echo-studio-still-leading-the-pack-in-smart-speakers-insights-by-zdnet/"><u>Inside Look: Is the Amazon Echo Studio Still Leading the Pack in Smart Speakers? | Insights by ZDNET</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/is-ai-powered-humor-by-chatgpt-enough-to-elicit-a-genuine-laugh/"><u>Is AI-Powered Humor by ChatGPT Enough to Elicit a Genuine Laugh?</u></a></li>
-<li><a href="https://windows11.techidaily.com/mastery-awaits-conquering-windows-11-with-group-software-updates-via-winstall/"><u>Mastery Awaits: Conquering Windows 11 with Group Software Updates via Winstall</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/strategies-for-troubleshooting-and-resolving-msvcrtdll-errors-on-your-pc/"><u>Strategies for Troubleshooting and Resolving Msvcrt.dll Errors on Your PC</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/the-ultimate-guide-to-using-chatgpt-and-dall-e-for-dungeons-and-dragons-character-design/"><u>The Ultimate Guide to Using ChatGPT and DALL-E for Dungeons & Dragons Character Design</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/top-3-ai-chatbots-in-the-ring-chatgpt-takes-on-microsoft-bing-and-google-bard/"><u>Top 3 AI Chatbots in the Ring: ChatGPT Takes on Microsoft Bing and Google Bard</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/ultimate-tutorial-integrating-codegpt-with-your-vs-code-environment/"><u>Ultimate Tutorial: Integrating CodeGPT with Your VS Code Environment</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/new-in-2024-master-the-art-of-rapid-tiktok-videos/"><u>[New] In 2024, Master the Art of Rapid TikTok Videos</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/beyond-basic-discovering-pros-and-cons-of-chatgpt-plus/"><u>Beyond Basic - Discovering Pros and Cons of ChatGPT Plus</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/fixing-csgo-start-problems-on-w11/"><u>Fixing CS:GO Start Problems on W11</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/how-to-use-zoom-in-gmail-for-2024/"><u>How to Use Zoom in Gmail for 2024</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-iphone-is-disabled-here-is-the-way-to-unlock-disabled-apple-iphone-12-mini-by-drfone-ios/"><u>In 2024, iPhone Is Disabled? Here Is The Way To Unlock Disabled Apple iPhone 12 mini</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/making-ai-mirror-your-writing-flair-with-chatgpt-customization-tips/"><u>Making AI Mirror Your Writing Flair with ChatGPT Customization Tips</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/swiftly-implementing-codegpt-for-code-development-on-vs-code/"><u>Swiftly Implementing CodeGPT for Code Development on VS Code</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/the-next-gen-hackers-tracking-7-emerging-trends/"><u>The Next-Gen Hackers: Tracking 7 Emerging Trends</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/the-ultimate-key-to-exploring-without-boundaries-through-vr/"><u>The Ultimate Key to Exploring Without Boundaries Through VR</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/three-ways-to-sim-unlock-honor-magic-6-by-drfone-android/"><u>Three Ways to Sim Unlock Honor Magic 6</u></a></li>
+<li><a href="https://fake-location.techidaily.com/what-are-location-permissions-life360-on-vivo-x100-pro-drfone-by-drfone-virtual-android/"><u>What are Location Permissions Life360 On Vivo X100 Pro? | Dr.fone</u></a></li>
 </ul></div>
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123728/7443" target="_top" id="2123728">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123728" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123728/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 

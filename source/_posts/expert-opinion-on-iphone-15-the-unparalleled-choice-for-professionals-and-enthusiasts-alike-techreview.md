@@ -1,7 +1,7 @@
 ---
 title: "Expert Opinion on iPhone 15: The Unparalleled Choice for Professionals & Enthusiasts Alike | TechReview"
-date: 2024-12-23T21:33:03.167Z
-updated: 2024-12-28T01:51:27.769Z
+date: 2025-01-05T01:50:28.277Z
+updated: 2025-01-07T04:14:21.949Z
 tags:
   - apple
 categories:
@@ -39,6 +39,10 @@ _This review was originally published on May 22, 2023, and was updated on Septem
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## ZDNET's buying advice
 
 Months of testing have proved that Apple's standard [iPhone 15 and iPhone 15 Plus](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-iphone%2Fiphone-15%3F&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp) bear more "Pro" features than ever before, including a Dynamic Island for more seamless multitasking, a 48MP camera system that -- when paired with the A16 Bionic chip -- consistently produces eye-catching imagery, and a new satin-finished design that left me with no envy for more expensive iPhone models.
@@ -46,7 +50,7 @@ Months of testing have proved that Apple's standard [iPhone 15 and iPhone 15 Plu
 If you don't see yourself shooting videos in ProRAW, requiring the extra Action button, or drooling over the 5X zoom camera on the [iPhone 15 Pro Max](https://www.zdnet.com/article/iphone-15-pro-review/), you'll be plenty comfortable with the $799 iPhone 15 and $899 iPhone 15 Plus. Between the two, buy the former if you want one of the most compact (yet capable) handsets on the market, and buy the latter if you want a more affordable big-screen iPhone and the best battery life of all the models in the latest lineup.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Specifications
@@ -63,10 +67,6 @@ If you don't see yourself shooting videos in ProRAW, requiring the extra Action 
 | Price        | Starting at $799                                  | Starting at $899                                  |
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## How I tested the iPhone 15 and iPhone 15 Plus
 
@@ -129,7 +129,7 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 [See all](https://www.zdnet.com/newsletters/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/omWG4u39lmE?si=yk1AEo_gzDpGjYbl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Should I upgrade from my older iPhone?
@@ -146,6 +146,10 @@ It's true that [consumers are now upgrading their smartphones at a slower rate](
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What I'd like to see in the next model
 
 Kerry Wan/ZDNET
@@ -159,16 +163,12 @@ Is this Apple's way of splitting up the non-Pro and Pro models? Probably. I don'
 **An Action button:** Given how many iPhone 14 Pro features Apple carried over to the iPhone 15, I have my fingers crossed that Apple will replace the alert slider with the Action button this year. Over the course of testing the latest iPhones, I've used the alert slider less than a dozen times. An Action button would give the iPhone much more functionality.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GFHH14XlFCk?si=2HcjQbDx5eG0ZQAt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Final thought
 
 It's easy to call the standard iPhone model the "Best iPhone for most people." That's been the case since Apple introduced a Pro variant with the iPhone 11 series, and still holds true with the [iPhone 15](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-iphone%2Fiphone-15&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp). Only now, I'm finding myself recommending the non-Pro iPhone to more users than ever before, including folks I've known to be more demanding of their tech. Apple's made just enough feature upgrades (and a few compromises that may be imperceivable to some) to help the latest iPhone model stand out, even when stacked against the generation before it.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Alternatives to consider
 
@@ -204,22 +204,15 @@ It's easy to call the standard iPhone model the "Best iPhone for most people." T
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-clips.techidaily.com/new-how-to-edit-instagram-photos-like-a-pro-for-2024/"><u>[New] How to Edit Instagram Photos Like a Pro for 2024</u></a></li>
-<li><a href="https://article-helps.techidaily.com/new-in-2024-how-to-edit-podcasts-in-garageband/"><u>[New] In 2024, How To Edit Podcasts in GarageBand</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/new-in-2024-pickus-claim-the-ultimate-editor-or-just-another-featured-app-in-android/"><u>[New] In 2024, PickU's Claim – The Ultimate Editor or Just Another Featured App in Android?</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/chatgpt-in-education-best-practices-to-optimize-academic-performance/"><u>ChatGPT in Education: Best Practices to Optimize Academic Performance</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/creating-impactful-user-personalities-using-chatgpt-techniques-for-superior-results/"><u>Creating Impactful User Personalities Using ChatGPT: Techniques for Superior Results</u></a></li>
-<li><a href="https://discover-amazing.techidaily.com/dvd-decrypter-dvd/"><u>DVD Decrypterのワンライフヒッツ: 簡単なDVDコピー複製と書き込みガイド</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/elite-mac-gif-recorders-top-picks-list/"><u>Elite Mac GIF Recorders Top Picks List</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/exploring-the-fusion-of-sci-fi-with-modern-technology-the-wonders-of-ais-role/"><u>Exploring the Fusion of Sci-Fi with Modern Technology: The Wonders of AI's Role</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/exploring-the-limitations-how-chatgpt-fails-to-recognize-its-own-words/"><u>Exploring the Limitations: How ChatGPT Fails to Recognize Its Own Words</u></a></li>
-<li><a href="https://tiktok-video-files.techidaily.com/from-small-heads-to-big-ones-a-tiktok-illusionists-handbook-for-2024/"><u>From Small Heads to Big Ones A TikTok Illusionist's Handbook for 2024</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-can-i-bypass-a-forgotten-phone-password-of-infinix-smart-7-hd-by-drfone-android/"><u>In 2024, Can I Bypass a Forgotten Phone Password Of Infinix Smart 7 HD?</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/should-you-opt-for-an-llm-exploring-9-essential-points-to-consider/"><u>Should You Opt for an LLM? Exploring 9 Essential Points to Consider</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/the-pivotal-role-of-eus-artificial-intelligence-law-on-ai-applications-like-chatgpt/"><u>The Pivotal Role of EU's Artificial Intelligence Law on AI Applications Like ChatGPT</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/top-5-android-clippers-essential-image-editing-apps-for-2024/"><u>Top 5 Android Clippers Essential Image Editing Apps for 2024</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/top-5-strategies-using-chatgpt-to-streamline-daily-hr-operations/"><u>Top 5 Strategies Using ChatGPT to Streamline Daily HR Operations</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/unearth-the-ultimate-collection-of-gpt-powered-query-starters-on-github-20-selections/"><u>Unearth the Ultimate Collection of GPT-Powered Query Starters on GitHub - 20 Selections</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/unveiling-hugging-face-what-it-is-and-how-its-applied/"><u>Unveiling Hugging Face: What It Is & How It's Applied</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-elite-mobile-apps-for-high-quality-android-screenshots/"><u>[Updated] Elite Mobile Apps for High-Quality Android Screenshots</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-innovative-prime-lenses-for-top-tier-film-projects/"><u>[Updated] Innovative Prime Lenses for Top-Tier Film Projects</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/how-secure-are-independent-chatgpt-extensions-and-software/"><u>How Secure Are Independent ChatGPT Extensions and Software?</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/how-to-turnout-video-on-your-android-device/"><u>How to Turnout Video on Your Android Device</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-top-8-free-online-havens-for-3d-text-psdfiles/"><u>In 2024, Top 8 FREE Online Havens for 3D Text PSDFiles</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/smarter-living-starts-here-9-powerful-chatgpt-methods/"><u>Smarter Living Starts Here: 9 Powerful ChatGPT Methods</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/by-step-lyric-video-crafting-with-lyric-video-maker-for-2024/"><u>Step-by-Step Lyric Video Crafting with Lyric Video Maker for 2024</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/the-art-of-ai-comedy-exploring-chatgpts-ability-to-evoke-laughter-like-a-professional-jester/"><u>The Art of AI Comedy: Exploring ChatGPT’s Ability to Evoke Laughter Like a Professional Jester</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/the-synergy-of-ai-elevating-onlyoffice-docspace-capabilities-with-chatgpt/"><u>The Synergy of AI: Elevating ONLYOFFICE DocSpace Capabilities with ChatGPT</u></a></li>
+<li><a href="https://some-tips.techidaily.com/top-4-apple-devices-currently-not-worth-purchasing-insights/"><u>Top 4 Apple Devices Currently Not Worth Purchasing - Insights</u></a></li>
 </ul></div>
 

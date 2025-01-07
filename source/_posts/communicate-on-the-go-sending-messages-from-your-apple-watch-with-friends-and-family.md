@@ -1,7 +1,7 @@
 ---
 title: "Communicate on the Go: Sending Messages From Your Apple Watch with Friends and Family"
-date: 2024-12-21T08:00:24.332Z
-updated: 2024-12-28T04:23:45.409Z
+date: 2024-12-30T21:46:38.595Z
+updated: 2025-01-06T18:26:17.590Z
 tags:
   - apple
 categories:
@@ -26,10 +26,6 @@ New with the latest version of watchOS is a feature called Check In. Accessible 
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## How to check in with a friend or family member from your Apple Watch
 
 **What you'll need**: To use Check In, you have to be running watchOS 11 or higher on your Apple Watch, which requires iOS 18 or higher on your iPhone. [These Apple Watch models](https://www.zdnet.com/article/every-apple-watch-that-will-get-watchos-11-and-which-models-wont-be-supported/) can run watchOS 11.
@@ -44,6 +40,10 @@ Screenshot by Lance Whitney/ZDNET
 
 **Also: [I was on the fence with the Apple Watch 10, but these 3 features changed my mind](https://www.zdnet.com/article/i-was-on-the-fence-with-the-apple-watch-10-but-these-3-features-changed-my-mind/)**
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/j5gTm5KxtQ0?si=onF1rBS2nEM5nLGg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 2\. Send the default Check In through the Messages app
 
 Launch the Messages app on your Apple Watch. Start or continue a conversation with a trusted family member or friend. Tap the + icon to the left of the iMessage field. From the menu, select Check In. By default, the Check In screen will indicate a specific destination, such as home or work, and the estimated time of arrival from your current location. The feature will use a timer to determine how long it will take you to reach the destination. If you wish to share that information as is with the other person, tap Send.
@@ -51,7 +51,7 @@ Launch the Messages app on your Apple Watch. Start or continue a conversation wi
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. View the initial Check In notification
@@ -86,15 +86,15 @@ If you still wish to use a timer for the Check In option but change the amount o
 
 Screenshot by Lance Whitney/ZDNET
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 6\. Send a customized Check In through the Messages app
 
 To further customize the Check In, tap the Edit button at the Check In screen. Tap Check In. You can now set a notification to be sent when you've arrived at your destination, after the timer ends, or when a workout ends. Tap the option for "When I arrive."
 
 Screenshot by Lance Whitney/ZDNET
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zmXpl6irBYk?si=BXjGpQr6PXFcqhCI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 7\. Add a destination and send the text
 
@@ -105,7 +105,7 @@ Screenshot by Lance Whitney/ZDNET
 **Also: [Your Apple Watch is getting an upgrade - here are the best features in WatchOS 11](https://www.zdnet.com/article/your-apple-watch-is-getting-an-upgrade-here-are-the-best-features-in-watchos-11/)**
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9hsPbiic0O8?si=58mZ2Cu6wicQfsUP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 8\. Set a Check In for a workout in the Messages app
@@ -115,7 +115,7 @@ Maybe you're working out at the gym or at home and want to let someone know when
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5FWCFI3f_cs?si=Kt2Onr_E4c616tbH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 9\. Set a Check In for a workout in the Workout app
@@ -154,22 +154,22 @@ Screenshot by Lance Whitney/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://tech-hub.techidaily.com/fixed-windows-7-running-slow-speed-up-windows-7/"><u>[Fixed] Windows 7 Running Slow - Speed up Windows 7</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/full-guide-how-to-change-google-chrome-language/"><u>[FULL GUIDE] How to Change Google Chrome Language</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-transform-viewing-experience-adding-subtitles-on-windows-media-player/"><u>[New] Transform Viewing Experience Adding Subtitles on Windows Media Player</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/updated-leveraging-instagram-for-monetary-success-for-2024/"><u>[Updated] Leveraging Instagram for Monetary Success for 2024</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/2024-approved-optimizing-facebook-videos-for-hd-broadcasts-and-beyond/"><u>2024 Approved Optimizing Facebook Videos for HD Broadcasts and Beyond</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/easy-steps-for-updating-hardware-drivers-on-windows-11-systems/"><u>Easy Steps for Updating Hardware Drivers on Windows 11 Systems</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/efficient-ways-to-refresh-your-windows-11-drivers-without-hassle/"><u>Efficient Ways to Refresh Your Windows 11 Drivers without Hassle</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/ensuring-digital-safety-while-making-purchases-on-the-internet/"><u>Ensuring Digital Safety While Making Purchases on the Internet</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/expert-advice-navigating-to-windows-11s-advanced-boot-configuration-effortlessly/"><u>Expert Advice: Navigating to Windows 11'S Advanced Boot Configuration Effortlessly</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/fixing-windows-10-performance-issues-proven-solutions-and-tips/"><u>Fixing Windows 10 Performance Issues: Proven Solutions & Tips</u></a></li>
-<li><a href="https://techidaily.com/guide-on-how-to-free-up-apple-iphone-15-space-drfone-by-drfone-ios-full-data-eraser-ios-full-data-eraser/"><u>Guide on How To Free Up Apple iPhone 15 Space | Dr.fone</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/guide-setting-up-your-home-network-on-windows-7-wireless-connection-made-easy/"><u>Guide: Setting Up Your Home Network on Windows 7 - Wireless Connection Made Easy</u></a></li>
-<li><a href="https://win-community.techidaily.com/innovative-methods-for-embedding-images-into-audio-files/"><u>Innovative Methods for Embedding Images Into Audio Files</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/1723175665103-toms-tech-insights-a-comprehensive-guide/"><u>Tom's Tech Insights: A Comprehensive Guide</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/top-20-gratista-ip-kamera-apps-movavi-inkludierad-i-besten/"><u>Top 20 Gratista IP-Kamera Apps: Movavi Inkludierad I Besten!</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/1721895341531-unleash-creativity-with-our-top-picks/"><u>Unleash Creativity with Our Top Picks</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/unlock-the-power-of-free-screen-recording-in-win11/"><u>Unlock the Power of Free Screen Recording in Win11</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/new-2024s-best-camera-innovations-explored/"><u>[New] 2024'S Best Camera Innovations Explored</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-exploring-the-world-through-your-camera-lens-a-beginners-roadmap-for-success-for-2024/"><u>[New] Exploring the World Through Your Camera Lens A Beginner's Roadmap for Success for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-maximizing-aerial-excellence-with-optimal-motor-selections/"><u>[New] Maximizing Aerial Excellence with Optimal Motor Selections</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-2024-approved-how-to-use-vlc-for-professional-screen-recording/"><u>[Updated] 2024 Approved How to Use VLC for Professional Screen Recording</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/bring-back-lost-chatgpt-histories-with-these-simple-steps/"><u>Bring Back Lost ChatGPT Histories with These Simple Steps</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/demystifying-nlp-and-its-relation-to-general-machine-learning-concepts/"><u>Demystifying NLP and Its Relation to General Machine Learning Concepts</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/cing-youtube-popularity-editing-and-optimizing-content-metadata-for-2024/"><u>Enhancing YouTube Popularity Editing & Optimizing Content Metadata for 2024</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/experience-enhanced-ai-with-chatgpt-for-iphone-discover-why/"><u>Experience Enhanced AI with ChatGPT for iPhone - Discover Why</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/gptzero-uncovered-identifying-artificial-textual-outputs/"><u>GPTZero Uncovered: Identifying Artificial Textual Outputs</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-transfer-whatsapp-from-iphone-15-pro-max-to-other-iphone-13-pro-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From iPhone 15 Pro Max to other iPhone 13 Pro devices? | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-6-proven-ways-to-unlock-google-pixel-fold-phone-when-you-forget-the-password-by-drfone-android/"><u>In 2024, 6 Proven Ways to Unlock Google Pixel Fold Phone When You Forget the Password</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/mastering-organized-discussions-a-guide-to-utilizing-chatgpt-directories/"><u>Mastering Organized Discussions: A Guide to Utilizing ChatGPT Directories</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/navigating-the-complexities-of-ps4-live-streaming-and-recording-for-2024/"><u>Navigating the Complexities of PS4 Live Streaming and Recording for 2024</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/protect-online-assets-reject-openai-bots/"><u>Protect Online Assets: Reject OpenAI Bots</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/protecting-your-information-safeguarding-against-potential-risks-of-chatgpts-customized-gpt-models/"><u>Protecting Your Information: Safeguarding Against Potential Risks of ChatGPT's Customized GPT Models</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/silent-block-world-tips-and-tricks-to-get-sound-back-in-minecraft-pc-edition/"><u>Silent Block World: Tips and Tricks to Get Sound Back in Minecraft PC Edition</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/unveiling-11-superior-chatgpt-techniques-for-deep-characters/"><u>Unveiling 11 Superior ChatGPT Techniques for Deep Characters</u></a></li>
 </ul></div>
 

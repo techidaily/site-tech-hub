@@ -1,7 +1,7 @@
 ---
 title: - ZDNet Insights
-date: 2024-12-04T17:18:11.487Z
-updated: 2024-12-07T17:38:39.321Z
+date: 2025-01-02T03:53:49.454Z
+updated: 2025-01-07T04:05:44.673Z
 tags:
   - apple
 categories:
@@ -25,7 +25,7 @@ ZDNET rounded up the best holiday deals on Apple iPads you can buy now, but thes
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5FWCFI3f_cs?si=Kt2Onr_E4c616tbH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## The Best iPad Holiday deals
@@ -45,7 +45,7 @@ ZDNET rounded up the best holiday deals on Apple iPads you can buy now, but thes
 * [Apple iPad Pro 12.9-inch (2022)](https://www.anrdoezrs.net/links/9041660/type/dlg/sid/zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp/https://www.att.com/buy/tablets/apple-ipad-pro-12-9-inch-2022.html): $33.34/month ($100 off at AT&T with qualifying service)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## The Best iPad accessory, case deals
@@ -104,6 +104,10 @@ If you would prefer the smaller iPad Mini, Amazon has another deal that might in
 
 [View now at Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2F2021-Apple-iPad-Mini-Wi-Fi%2Fdp%2FB09G9DQDDQ%3Fth%3D1%26tag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C72ea2c00-eaf4-4278-983b-40c54372b4e7%7Cdtp&dtb=1) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ME5-sAQJVE4?si=ZfcvJSnhQevWtjI0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How did we choose these holiday deals?
 
 ZDNET only writes about deals we want to buy -- devices and products we want, need, or would recommend. Our experts looked for deals that were at least 20% off (or are hardly ever on sale), using established price comparison tools and trackers to determine whether the deal is actually on sale and how frequently it drops. 
@@ -111,23 +115,19 @@ ZDNET only writes about deals we want to buy -- devices and products we want, ne
 We also looked over customer reviews to find out what matters to real people who already own and use the deals we're recommending. Our recommendations may also be based on our own testing -- in addition to extensive research and comparison shopping. The goal is to deliver the most accurate advice to help you shop smarter. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What's the best iPad?
 
 ZDNET editors have gone hands-on with every iPad model, and named the latest iPad Pro (2022) the best iPad overall, thanks to its M2 processor and fast performance.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3AGmFrtBLHw?si=VhvpUaXHPBHl6OT6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## What's the best iPad for kids?
 
 If you're looking to buy an iPad as a holiday gift for the child in your life, we'd recommend the latest iPad Air (5th gen., 2022). It's lightweight, but still packs in great performance for the lower price tag. You can find iPad Air models on sale in our list above.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/E3yY7lZ-FKA?si=g8VEuExP8GH59B69" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What are the best holiday deals?
@@ -198,18 +198,16 @@ ZDNET's experts have been searching for holiday deals across sites like Amazon, 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-videos.techidaily.com/new-2024-approved-boosting-video-playback-speed-on-instagram/"><u>[New] 2024 Approved Boosting Video Playback Speed on Instagram</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/new-solutions-to-amplify-iphoneandroid-video-quality-for-2024/"><u>[New] Solutions to Amplify iPhone/Android Video Quality for 2024</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/new-unlock-free-designs-download-banners-for-youtube-creators/"><u>[New] Unlock Free Designs Download Banners for YouTube Creators</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-2024-approved-crafting-immersive-experienences-adding-sounds-to-reels/"><u>[Updated] 2024 Approved Crafting Immersive Experienences Adding Sounds to Reels</u></a></li>
-<li><a href="https://location-social.techidaily.com/4-feasible-ways-to-fake-location-on-facebook-for-your-nubia-z50s-pro-drfone-by-drfone-virtual-android/"><u>4 Feasible Ways to Fake Location on Facebook For your Nubia Z50S Pro | Dr.fone</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/decoding-tech-specs-toms-unbiased-hardware-evaluations/"><u>Decoding Tech Specs: Tom's Unbiased Hardware Evaluations</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/elevating-your-igtv-presence-a-guide-to-effective-hash-tags-for-2024/"><u>Elevating Your IGTV Presence A Guide to Effective Hash Tags for 2024</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/exploring-the-world-of-bingchatgpt-crypto-trickery-tips-for-spotting-sham-tokens-and-protecting-your-investments/"><u>Exploring the World of BingChatGPT Crypto Trickery: Tips for Spotting Sham Tokens and Protecting Your Investments</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/24-decode-the-art-of-youtube-shorts-with-hit-songs/"><u>In 2024, Decode the Art of YouTube Shorts with Hit Songs</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-the-complete-guide-to-vivo-y55s-5g-2023-frp-bypass-everything-you-need-to-know-by-drfone-android/"><u>In 2024, The Complete Guide to Vivo Y55s 5G (2023) FRP Bypass Everything You Need to Know</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/italys-swift-action-against-chatgpt-delving-into-the-causes-and-implications/"><u>Italy's Swift Action Against ChatGPT - Delving Into the Causes and Implications</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/pioneering-intelligent-communication-5-best-ways-for-tailored-chatgpt-interactions/"><u>Pioneering Intelligent Communication: 5 Best Ways for Tailored ChatGPT Interactions</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/your-private-space-in-a-public-domain-the-top-3-bot-privacy-risks/"><u>Your Private Space in a Public Domain: The Top 3 Bot Privacy Risks</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-a-comprehensive-guide-to-achieving-smooth-color-keying/"><u>[Updated] A Comprehensive Guide to Achieving Smooth Color-Keying</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/100-free-windows-screen-capture-guides-and-methods/"><u>100% Free Windows Screen Capture Guides & Methods</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/enhancing-your-feed-with-new-instagram-filters-for-2024/"><u>Enhancing Your Feed with New Instagram Filters for 2024</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/epic-rhyming-duel-poets-ai-and-in-grass-flock-competitors/"><u>Epic Rhyming Duel: Poets, AI & In-Grass Flock Competitors</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/exclusive-list-the-ultimate-linkedin-training-programs-for-professionals/"><u>Exclusive List: The Ultimate LinkedIn Training Programs for Professionals</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-track-whatsapp-messages-on-honor-magic-vs-2-without-them-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, How to Track WhatsApp Messages on Honor Magic Vs 2 Without Them Knowing? | Dr.fone</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/joking-around-with-ai-how-chatgpt-is-learning-the-art-of-comedy/"><u>Joking Around with AI: How ChatGPT Is Learning the Art of Comedy</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/making-the-choice-between-chatgpt-and-snapchats-my-ai-which-fits-your-needs/"><u>Making the Choice Between ChatGPT & Snapchat’s My AI: Which Fits Your Needs?</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/proven-ways-to-fix-there-was-a-problem-parsing-the-package-on-realme-narzo-60-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Proven Ways to Fix There Was A Problem Parsing the Package on Realme Narzo 60 5G | Dr.fone</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/restart-the-route-reviving-an-impaired-ios-chatgpt/"><u>Restart the Route: Reviving an Impaired iOS ChatGPT</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/the-ultimate-walkthrough-for-implementing-gpt-3-features-in-openai-sandbox/"><u>The Ultimate Walkthrough for Implementing GPT-3 Features in OpenAI Sandbox</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Buy These New Apple Features Announced at WWDC Today – Where to Get Them | CNET News
-date: 2024-12-23T02:26:09.562Z
-updated: 2024-12-27T18:03:11.503Z
+date: 2025-01-06T03:42:06.826Z
+updated: 2025-01-06T16:57:40.218Z
 tags:
   - apple
 categories:
@@ -28,6 +28,10 @@ To help you make this decision, we've broken down all of the most important deta
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Specifications
 
 | Specs        | **iPhone 16**                                                                                                                                                                                                    | **iPhone 15**                                                                                                                                                                                                    |
@@ -46,16 +50,12 @@ To help you make this decision, we've broken down all of the most important deta
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  You should buy the iPhone 16 if...
 
 Kerry Wan/ZDNET
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vEYkX2NJgZw?si=IaHqlqJcYipwUOht" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ###  1\. You'd benefit from Apple Intelligence features
 
@@ -66,7 +66,7 @@ Apple is rolling out [multiple AI features to the iPhone 16](https://www.zdnet.c
 There is more to the AI features beyond Siri. Apple Intelligence will be able to summarize notifications and Priority Messages in the Mail app. Like Siri, the feature will be able to understand context. [Apple Intelligence](https://www.zdnet.com/article/what-is-apple-intelligence-everything-to-know-about-ai-features-coming-to-iphones-macs-and-ipads/) will gain additional features later in the year like the ability to create custom emojis and perform multiple actions across apps.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3AGmFrtBLHw?si=VhvpUaXHPBHl6OT6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Wy0uYNNdMDM?si=5ir7EHlr0CkpcYOT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ###  2\. You want a better photography experience
@@ -95,9 +95,17 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 
 [See all](https://www.zdnet.com/newsletters/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  You should buy the iPhone 15 if...
 
 Kerry Wan/ZDNET
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ###  1\. You don't require the generative AI capabilities
 
@@ -107,10 +115,6 @@ All of the bells and whistles on the iPhone 16 are certainly nice, but are they 
 
 Sometimes, it's best to wait until all the bugs have been ironed out. Plus, there's a lot of uncertainty surrounding the chipset. Early impressions indicate the A18 can handle all the AI features, but can it? Or will we see a performance drop once it launches? 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ###  2\. You're on a budget
 
 With the release of a new model, older phones often see a price drop, and that is exactly what we're getting here. Apple has cut the price of the iPhone 15 by about $100 off its digital storefront to entice new adopters. 
@@ -118,10 +122,6 @@ With the release of a new model, older phones often see a price drop, and that i
 It wouldn't be a bad pick-up, either. The camera system of the previous generation is great to this day, the A16 Bionic chip is still plenty powerful, and the Dynamic Island is a welcomed addition. You can enjoy a similar camera performance. Plus, you won't be bogged down by nascent AI features you may or may not ever use. 
 
 [Buy the iPhone 15 $729.99 at Best Buy](https://shop-links.co/link/?url=https%3A%2F%2Fbestbuy.7tiv.net%2Fc%2F376373%2F633495%2F10014%3Fprodsku%3D6417992%26u%3Dhttp%253A%252F%252Fwww.bestbuy.com%252Fsite%252F-%252F6417992.p%253Fcmp%253DRMX&publisher_slug=itechdaily19598&exclusive=1)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  Alternatives to consider
 
@@ -157,24 +157,18 @@ It wouldn't be a bad pick-up, either. The camera system of the previous generati
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-how-to-record-ps4-with-obs-for-2024/"><u>[New] How To Record PS4 with OBS for 2024</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/1-discover-what-an-apple-vision-pro-can-reveal-about-your-marriage-insights-from-a-sales-encounter-featured-on-zdnet/"><u>1. Discover What an Apple Vision Pro Can Reveal About Your Marriage: Insights From a Sales Encounter Featured on ZDNet</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-express-yourself-accessibility-available-for-free/"><u>2024 Approved Express Yourself, Accessibility Available for Free</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/2024-approved-techniques-for-finding-no-cost-image-frame-films/"><u>2024 Approved Techniques for Finding No-Cost Image Frame Films</u></a></li>
-<li><a href="https://fox-that.techidaily.com/comprehensive-fix-for-mobile-network-sim-not-provisioned-mmi-2-glitches/"><u>Comprehensive Fix for Mobile Network SIM Not Provisioned MMI 2 Glitches</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/funnyframeforge-picfunnyfactory-for-2024/"><u>FunnyFrameForge PicFunnyFactory for 2024</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/get-the-latest-eveo-bluetooth-connection-software-and-drivers-click-to-download-now/"><u>Get the Latest Eveo Bluetooth Connection Software & Drivers - Click to Download Now</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/gpt-linguistic-threshold-forbidden-dialogues/"><u>GPT Linguistic Threshold - Forbidden Dialogues</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/guide-to-extending-bluetooth-ranges-tips-for-better-performance-on-windows-operating-systems/"><u>Guide to Extending Bluetooth Ranges: Tips for Better Performance on Windows Operating Systems</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/how-to-connect-beats-wireless-to-windows-1111-solved/"><u>How to Connect Beats Wireless to Windows 11/11 [Solved]</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/how-to-correctly-handle-an-absent-msvcr100dll-dll-error-on-your-computer-issue-resolved/"><u>How to Correctly Handle an Absent MSVCR100.dll DLL Error on Your Computer (Issue Resolved)</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/how-to-craft-a-win10-bootable-repair-usb-a-step-by-step-guide/"><u>How to Craft a Win10 Bootable Repair USB: A Step-by-Step Guide</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/how-to-find-computer-specs-windows-10-easily/"><u>How to Find Computer Specs Windows 10 [Easily]</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/how-to-fix-and-finalize-hard-drive-formatting-when-windows-fails-initially/"><u>How to Fix and Finalize Hard Drive Formatting when Windows Fails Initially</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/how-to-fix-login-issues-with-windows-11-a-step-by-step-solution/"><u>How to Fix Login Issues with Windows 11: A Step-by-Step Solution</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/how-to-reactivate-windows-11-desktop-synchronization-settings-no-longer-disabled/"><u>How to Reactivate Windows 11 Desktop Synchronization Settings (No Longer Disabled)</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/how-to-share-games-on-xbox-one-with-your-friendsfamilies/"><u>How to Share Games on Xbox One with Your Friends/Families</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-5-easy-ways-to-change-location-on-youtube-tv-on-apple-iphone-13-pro-drfone-by-drfone-virtual-ios/"><u>In 2024, 5 Easy Ways to Change Location on YouTube TV On Apple iPhone 13 Pro | Dr.fone</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/1719577943413-quick-lingua-norvegica-grasp-10-mins-a-day/"><u>Quick Lingua Norvegica Grasp, 10-Mins A Day</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/024-approved-from-free-to-paid-the-transition-to-youtubes-elite-service/"><u>[New] 2024 Approved From Free to Paid The Transition to YouTube's Elite Service</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-budget-friendly-pc-video-snippet-creators/"><u>[New] Budget-Friendly PC Video Snippet Creators</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-in-2024-best-video-resolution-converter-for-windowsmaconline/"><u>[New] In 2024, Best Video Resolution Converter [for Windows/Mac/Online]</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-identifying-premium-free-online-tools-for-efficient-srt-translations/"><u>[Updated] Identifying Premium Free Online Tools for Efficient SRT Translations</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/exploring-the-future-of-interactive-headsets/"><u>Exploring the Future of Interactive Headsets</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-best-10-mock-location-apps-worth-trying-on-tecno-spark-10c-drfone-by-drfone-virtual-android/"><u>In 2024, Best 10 Mock Location Apps Worth Trying On Tecno Spark 10C | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-tecno-phantom-v-flip-to-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Tecno Phantom V Flip To Phone | Dr.fone</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/innovative-workflow-planning-with-chatgpt-tips-for-maximizing-efficiency/"><u>Innovative Workflow Planning with ChatGPT: Tips for Maximizing Efficiency</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/launch-into-action-discover-the-power-of-8-prebuilt-gpt-configurations/"><u>Launch Into Action: Discover the Power of 8 Prebuilt GPT Configurations</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-2024-approved-download-now-top-20-premiere-pro-title-templates/"><u>New 2024 Approved Download Now Top 20 Premiere Pro Title Templates</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/predictions-for-gpts-successor-is-gpt-5-coming-soon-and-what-are-its-release-prospects/"><u>Predictions for GPT's Successor: Is GPT-5 Coming Soon, And What Are Its Release Prospects?</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/the-ultimate-guide-to-therapeutic-ai-companions-in-digital-mental-healthcare-platforms/"><u>The Ultimate Guide to Therapeutic AI Companions in Digital Mental Healthcare Platforms</u></a></li>
+<li><a href="https://app-tips.techidaily.com/when-ai-growth-meets-agile-practices-uncovering-challenges-through-latest-studies-zdnet/"><u>When AI Growth Meets Agile Practices: Uncovering Challenges Through Latest Studies | ZDNET</u></a></li>
 </ul></div>
 

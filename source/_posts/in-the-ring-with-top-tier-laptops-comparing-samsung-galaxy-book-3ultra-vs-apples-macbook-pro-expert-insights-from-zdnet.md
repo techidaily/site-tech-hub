@@ -1,7 +1,7 @@
 ---
 title: "In The Ring with Top Tier Laptops: Comparing Samsung Galaxy Book 3Ultra Vs. Apple's MacBook Pro | Expert Insights From ZDNet"
-date: 2024-12-25T00:55:18.424Z
-updated: 2024-12-28T03:33:13.488Z
+date: 2025-01-04T20:08:16.603Z
+updated: 2025-01-06T18:01:24.761Z
 tags:
   - apple
 categories:
@@ -26,6 +26,10 @@ We'll compare the specs of the [Galaxy Book 3 Ultra](https://shop-links.co/link/
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Specifications
 
 | **Samsung Galaxy Book 3 Ultra** | **Apple M2-gen MacBook Pro (16-inch)**                                                                                                                                                                                                                                                                                                                                                                                                                           |                                                                                                                                                                                                   |
@@ -42,6 +46,10 @@ We'll compare the specs of the [Galaxy Book 3 Ultra](https://shop-links.co/link/
 | Price                           | [Starting at $2,199](https://shop-links.co/link/?url=https%3A%2F%2Fwww.samsung.com%2Fus%2Fgalaxybooks%2Fgalaxy-book3-ultra%2F&publisher_slug=itechdaily19598&exclusive=1) | [Starting at $2,499](https://apple.sjv.io/c/159047/435031/7613?&sharedId=zdnet&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-mac%2Fmacbook-pro%2F16-inch&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp) |
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/omWG4u39lmE?si=yk1AEo_gzDpGjYbl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  You should buy Samsung's Galaxy Book 3 Ultra if...
 
@@ -61,13 +69,13 @@ Samsung realized this and included benefits like the options to use a [Galaxy Ta
 
 If you've already got a Galaxy smartphone or tablet, there are definitely practical benefits to functionality that you'll receive by opting for this model. 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9ECz3oZ8NrQ?si=86vkwkDJo9HQXpzt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ###  2\. You expect to do any gaming
 
 Macs have never matched their Windows-based counterparts when it comes to gaming. Despite the massive boost in power provided by Apple's M2 Pro and Max chips, this remains true. Of course there's the issue that a handful of gaming titles are available for MacOS, almost none of which are new or AAA games. But an equally big problem is MacBooks' lack of discrete GPUs. The Galaxy Book 3 Ultra, on the other hand, has options for an [Nvidia RTX 4050 or 4070 GPU](https://www.zdnet.com/article/nvidia-unveils-its-latest-studio-laptop-series-which-showcases-its-fastest-most-powerful-gpu-chip/), either of which should offer frame rates that are playable to exceptional for almost any title. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ###  3\. You want maximum software compatibility
 
@@ -80,7 +88,7 @@ The other factor is Apple's switch to its own silicon. When Apple was using Inte
 [Buy Samsung's Galaxy Book 3 Ultra $2,199 at Samsung](https://shop-links.co/link/?url=https%3A%2F%2Fwww.samsung.com%2Fus%2Fcomputing%2Fgalaxy-book3-ultra%2Fbuy%2F&publisher_slug=itechdaily19598&exclusive=1)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  You should buy Apple's 16-inch M2-gen MacBook Pro if...
@@ -92,10 +100,6 @@ Apple
 ###  1\. You, or your family, are committed to Apple's ecosystem
 
 This is the other side of the coin. Apple was among the first, and might still be the best, at giving you reasons to stay locked into its ecosystem. On an individual level, this includes things like the ability to share screens and inputs across devices and tricks like [Continuity Camera, which lets you use your iPhone as an advanced webcam](https://www.zdnet.com/article/macos-ventura-how-to-use-your-iphone-as-a-webcam-with-continuity-camera/), or Apple's excellent cross-device messaging. 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/VxFUhesNCKo?si=Ti0ui6DXYP12sjSs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### See also
 
@@ -113,16 +117,12 @@ It's an issue that can chafe at times, but it's also one that has led many, myse
 **Also:** [**Samsung Galaxy S23 Ultra vs Google Pixel 7 Pro: Which Android flagship is king?**](https://www.zdnet.com/article/samsung-galaxy-s23-ultra-vs-google-pixel-7-pro/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ###  2\. You're a content creator looking for a mobile desktop replacement
 
 Apple's M1 generation of chips was already more than enough power for most photo editors, and even a large chunk of video editors, including those working in 4K+ formats. Now, with the advent of M2 Pro and M2 Max options, the 16-inch MacBook Pro is like an entire production studio unto itself, especially when combined with the ample variety of RAM and storage configurations now available for both chips and a full-fledged HDMI port, as well as three DisplayPort-capable Thunderbolt ports. 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ###  3\. You need a ton of RAM or storage
 
@@ -185,19 +185,19 @@ Absolutely must have a 16-inch laptop? Lenovo's ThinkPad Z16 is among the most p
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-clips.techidaily.com/updated-finding-icons-a-targeted-approach-to-instas-powerful-voices-for-2024/"><u>[Updated] Finding Icons A Targeted Approach to Insta's Powerful Voices for 2024</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/approved-online-video-arena-showdown-who-wins-vimeo-or-giants-like-youtubeplusdailymotion/"><u>2024 Approved Online Video Arena Showdown Who Wins – Vimeo or Giants Like YouTube+DailyMotion?</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/artificial-intelligence-redefines-work-strategies/"><u>Artificial Intelligence Redefines Work Strategies</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/decoding-the-duality-of-innovation-and-authenticity-with-chatgpt/"><u>Decoding the Duality of Innovation & Authenticity with ChatGPT</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/disabling-data-saving-in-chatgpt-exchanges/"><u>Disabling Data Saving in ChatGPT Exchanges</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/discover-1ndepth-enhancing-conversational-ai-with-these-10-unique-gpt-upgrades/"><u>Discover 1nDepth: Enhancing Conversational AI with These 10 Unique GPT Upgrades</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/1723016408463-fortnite-sounds-down-heres-how-to-turn-up-the-volume-and-win/"><u>Fortnite Sounds Down? Here’s How to Turn Up the Volume and Win!</u></a></li>
-<li><a href="https://change-location.techidaily.com/how-to-use-life360-on-windows-pc-for-meizu-21-drfone-by-drfone-virtual-android/"><u>How to Use Life360 on Windows PC For Meizu 21? | Dr.fone</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/in-2024-the-blueprint-for-virtual-business-growth/"><u>In 2024, The Blueprint for Virtual Business Growth</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/in-2024-the-science-behind-apples-m1-processor-unveiled/"><u>In 2024, The Science Behind Apple’s M1 Processor Unveiled</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/leverage-ai-for-enhanced-mobile-search-via-bing-app/"><u>Leverage AI for Enhanced Mobile Search via Bing App</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/pros-to-follow-vr-industry-trailblazers-for-2024/"><u>Pros to Follow VR Industry Trailblazers for 2024</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/the-ultimate-guide-to-battery-electric-plug-in-hydrogen-and-hybrid-cars-clearing-the-confusion/"><u>The Ultimate Guide to Battery-Electric, Plug-In, Hydrogen and Hybrid Cars: Clearing the Confusion.</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/utilizing-ai-guiding-chatgpt-for-synth-creation-in-daws/"><u>Utilizing AI: Guiding ChatGPT for Synth Creation in DAWs</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-2024-approved-accessing-hidden-reaction-mechanisms-of-youtube-users/"><u>[New] 2024 Approved Accessing Hidden Reaction Mechanisms of YouTube Users</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-achieving-professional-audio-in-home-recording-studios/"><u>[New] Achieving Professional Audio in Home Recording Studios</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-essentials-of-using-igtv-effectively-and-efficiently/"><u>[New] Essentials of Using IGTV Effectively and Efficiently</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-in-2024-elevate-your-videos-the-essential-guide-to-screencasts-today/"><u>[New] In 2024, Elevate Your Videos The Essential Guide to Screencasts Today</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-from-conventional-to-crystal-clear-with-hp-envy-27/"><u>2024 Approved From Conventional to Crystal Clear with HP Envy 27</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/2024-approved-the-ultimate-guide-to-using-sticker-queries-on-instagram/"><u>2024 Approved The Ultimate Guide to Using Sticker Queries on Instagram</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/adaptable-digital-time-stretch-audio-transformer-elevate-your-soundscape/"><u>Adaptable Digital Time Stretch Audio Transformer - Elevate Your Soundscape</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/best-free-and-premium-wav-converter-tools-top-picks-for-superior-audio-quality/"><u>Best Free and Premium WAV Converter Tools: Top Picks for Superior Audio Quality</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/bulk-conversion-guide-upscale-your-soundcloud-tracks-to-high-quality-320kbps-audio/"><u>Bulk Conversion Guide: Upscale Your SoundCloud Tracks to High-Quality 320Kbps Audio</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/bypassing-borderlines-enjoy-canadian-films-worldwide-free-from-region-codes/"><u>Bypassing Borderlines: Enjoy Canadian Films Worldwide, Free From Region Codes</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/comparing-wav-and-mp3-files-a-comprehensive-guide-on-whats-best-for-you/"><u>Comparing WAV and MP3 Files - A Comprehensive Guide on What's Best for You</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/complete-instructions-for-installing-the-tvnsports-plugin-in-kodi-version-19/"><u>Complete Instructions for Installing the TVNSports Plugin in Kodi Version 19</u></a></li>
+<li><a href="https://techidaily.com/is-your-itel-p40-working-too-slow-heres-how-you-can-hard-reset-it-drfone-by-drfone-reset-android-reset-android/"><u>Is your Itel P40 working too slow? Heres how you can hard reset it | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/simplified-video-transferring-techniques-for-youtube-enthusiasts-for-2024/"><u>Simplified Video Transferring Techniques for YouTube Enthusiasts for 2024</u></a></li>
 </ul></div>
 

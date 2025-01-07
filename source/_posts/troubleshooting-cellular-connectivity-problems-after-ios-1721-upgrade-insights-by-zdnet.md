@@ -1,7 +1,7 @@
 ---
 title: Troubleshooting Cellular Connectivity Problems After iOS 17.2.1 Upgrade | Insights by ZDNET
-date: 2024-12-21T11:07:59.234Z
-updated: 2024-12-27T22:51:45.654Z
+date: 2025-01-03T00:45:44.878Z
+updated: 2025-01-06T23:30:23.784Z
 tags:
   - apple
 categories:
@@ -60,7 +60,7 @@ Aside from the inferior Photos app navigation, videos in the Photos app no longe
 "The UX is a huge downgrade. It's so bad that I had to submit feedback to Apple via the feedback app in the beta. Never did one of those when it wasn't a technical bug, just pure user experience frustration," another [Redditor said](https://www.reddit.com/r/apple/comments/1e2jtq5/comment/ld1wsjg/?utm%5Fsource=share&utm%5Fmedium=web3x&utm%5Fname=web3xcss&utm%5Fterm=1&utm%5Fcontent=share%5Fbutton).
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/o-sRtqHdEYY?si=NMTMQVxJsUaoguqh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to navigate the iOS 18 Photos app
@@ -109,17 +109,24 @@ I hope a future version of iOS 18 will bring back the Camera Roll or at least to
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-sure.techidaily.com/n-2024-capture-clarity-high-quality-screen-recordings-for-youtubers-pcmac/"><u>[New] In 2024, Capture Clarity High-Quality Screen Recordings for YouTubers (PC/Mac)</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/new-in-2024-the-ultimate-how-to-for-navigating-old-features-on-fb-mobilepc/"><u>[New] In 2024, The Ultimate How-To for Navigating Old Features on FB, Mobile/PC</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/new-maximizing-gaming-experience-record-games-on-win10/"><u>[New] Maximizing Gaming Experience Record Games on Win10</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/solved-bluetooth-keyboard-stop-working-in-windows-10/"><u>[Solved] Bluetooth Keyboard Stop Working in Windows 10</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/gpt-powered-content-is-it-ses-kryptonite/"><u>GPT-Powered Content: Is It SE's Kryptonite?</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-to-get-and-use-pokemon-go-promo-codes-on-lava-blaze-pro-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Get and Use Pokemon Go Promo Codes On Lava Blaze Pro 5G | Dr.fone</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/recovering-access-steps-to-restore-a-forgotten-ipad-passcode-and-unlock-securely/"><u>Recovering Access: Steps to Restore a Forgotten iPad Passcode and Unlock Securely</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/resolve-excessive-tiworkerexe-cpu-and-memory-consumption-in-windows-11/"><u>Resolve Excessive tiworker.exe CPU and Memory Consumption in Windows 11</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/speed-hacks-supercharge-minecraft-gameplay/"><u>Speed Hacks - Supercharge Minecraft Gameplay!</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/step-by-step-guide-efficiently-clearing-your-entire-google-search-log/"><u>Step-by-Step Guide: Efficiently Clearing Your Entire Google Search Log</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/ised-content-ease-youtube-loop-integration-guide-for-2024/"><u>Televised Content Ease YouTube Loop Integration Guide for 2024</u></a></li>
-<li><a href="https://discover-answers.techidaily.com/top-rated-dell-data-protection-choosing-the-ideal-backup-and-recovery-solution/"><u>Top-Rated Dell Data Protection: Choosing the Ideal Backup & Recovery Solution</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-2024-approved-iphone-under-the-moonlight-photography-tips/"><u>[New] 2024 Approved IPhone Under the Moonlight Photography Tips</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-guide-to-writing-enthralling-videography-content/"><u>[New] Guide to Writing Enthralling Videography Content</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-2024-approved-does-your-channel-benefit-from-regular-youtube-payments/"><u>[Updated] 2024 Approved Does Your Channel Benefit From Regular YouTube Payments?</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/beyond-human-sight-ais-ineffective-blockers/"><u>Beyond Human Sight: AI's Ineffective Blockers</u></a></li>
+<li><a href="https://howto.techidaily.com/bricked-your-motorola-edgeplus-2023-heres-a-full-solution-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Bricked Your Motorola Edge+ (2023)? Heres A Full Solution | Dr.fone</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/chatgpt-showdown-determining-if-a-browser-addon-or-plugin-formats-your-needs-best/"><u>ChatGPT Showdown: Determining if a Browser Addon or Plugin Formats Your Needs Best</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/cybersecurity-alert-how-artificial-intelligence-became-a-criminal-tool-in-5-ways/"><u>Cybersecurity Alert: How Artificial Intelligence Became a Criminal Tool in 5 Ways</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/easy-steps-on-how-to-create-a-new-apple-id-account-on-iphone-x-drfone-by-drfone-ios/"><u>Easy Steps on How To Create a New Apple ID Account On iPhone X | Dr.fone</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/end-juxtaposing-siri-and-chatgpt-discerning-their-divergence/"><u>End Juxtaposing Siri & ChatGPT: Discerning Their Divergence</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/essential-gadgets-for-your-macbook-expert-evaluations-and-picks-zdnet/"><u>Essential Gadgets for Your MacBook : Expert Evaluations and Picks | ZDNet</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/exposing-fraudgpt-schemes-stay-one-step-ahead/"><u>Exposing FraudGPT Schemes: Stay One Step Ahead</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/gpt-and-cybersecurity-risks-to-your-bank-data/"><u>GPT and Cybersecurity: Risks to Your Bank Data?</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-fake-snapchat-location-on-vivo-x-flip-drfone-by-drfone-virtual-android/"><u>How to Fake Snapchat Location on Vivo X Flip | Dr.fone</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/leverage-artificial-intelligence-for-reading-pleasure-top-5-recommender-sites-and-apps-to-choose-your-next-book/"><u>Leverage Artificial Intelligence for Reading Pleasure: Top 5 Recommender Sites and Apps to Choose Your Next Book</u></a></li>
+<li><a href="https://solve-info.techidaily.com/resolving-network-connection-issues-expert-tips-from-yl-computings-best-practices/"><u>Resolving Network Connection Issues: Expert Tips From YL Computing's Best Practices</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/spotting-fraudulent-bingpt-crypto-before-its-too-late/"><u>Spotting Fraudulent BinGPT Crypto Before It's Too Late</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/the-essentials-of-controlling-ai-identifying-potential-regulators-and-frameworks/"><u>The Essentials of Controlling AI: Identifying Potential Regulators and Frameworks</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/top-9-strategies-how-chatgpt-boosts-efficiency-for-content-makers/"><u>Top 9 Strategies: How ChatGPT Boosts Efficiency for Content Makers</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/unlock-the-secret-to-getting-your-hands-on-a-free-macbook-air-m3-at-best-buy-expert-insights-revealed/"><u>Unlock the Secret to Getting Your Hands on a Free MacBook Air M3 at Best Buy - Expert Insights Revealed!</u></a></li>
 </ul></div>
 

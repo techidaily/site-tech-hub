@@ -1,7 +1,7 @@
 ---
 title: "Snapchat's AI Dilemma: MyAI or ChatGPT?"
-date: 2024-08-24T11:29:01.138Z
-updated: 2024-08-25T11:29:01.138Z
+date: 2025-01-01T03:08:58.501Z
+updated: 2025-01-06T17:14:19.617Z
 tags:
   - chatgpt
   - open-ai
@@ -29,11 +29,19 @@ thumbnail: https://thmb.techidaily.com/16e517e86ce5511ef20be02a34a06ee211f62f0d8
 
 ![Snapchat My AI Explaining the Details of an Image of an Object](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/snapchat-my-ai-recognizing-image-of-object.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![Snapchat My AI Explaining the Elements of an Image of a Person](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/my-ai-recognizing-image-of-person.jpg)
 
 Close
 
  That said, these chatbots follow different restrictions. My AI generally has fewer rules than ChatGPT—it might perform a broader range of tasks.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 2\. Conversations Retain the Last 3,000 Words
 
@@ -44,6 +52,10 @@ Close
  Take this conversation as an example. We asked My AI to roleplay a fictional character. It maintained the instructed persona even after receiving 2,000+ words of irrelevant information. Other platforms may have dropped prior instructions by this point.
 
 ![Snapchat My AI Roleplaying as Ash Ketchum from Pokemon](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/snapchat-my-ai-roleplay-request.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![Snapchat My AI Continuing the Roleplay Request to Portray Ash from Pokemon](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/snapchat-my-ai-continuing-roleplay-request.jpg)
 
@@ -57,14 +69,12 @@ Close
 
 ![Asking Snapchat About the Weather Tomorrow in Manila](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/manila-weather-forecast-snapchat.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940317&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
-<!-- affiliate ads end -->
 ![Searching the Weather Forecast for Manila on Google](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/manila-weather-forecast-google.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729642&QTY=1&AFFILIATE=108875&CART=1">Advanced Find and Replace for Google Sheets, Lifetime subscription</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 Close
 
  Try testing the limits of My AI’s accuracy. It pulls updated information from various publications and resources, including those on international events.
@@ -75,9 +85,6 @@ Close
 
 ![Asking Snapchat About Nearby Gas Stations](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/snapchat-location-test.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![Snapchat Suggesting Nearby Gas Stations](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/snapchat-location-suggestions.jpg)
 
 Close
@@ -85,8 +92,9 @@ Close
  Just note that Snapchat also displays your active location if you enable GPS services. But you can turn off this feature to ensure more privacy, Click your avatar on the top-left corner of the screen, then go to >**Settings** \>**Privacy Controls** \>**My Location** . Toggle the Ghost Mode button to hide your location.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087389/7443" target="_top" id="2087389"><img src="//a.impactradius-go.com/display-ad/7443-2087389" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087389/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RvR5PNhspKE?si=uJcMYK9v-_Xq7fAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 5\. My AI Solves Intermediate Word Problems Correctly
 
  A[side-by-side comparison of ChatGPT, Bard AI, and Bing Chat](https://www.makeuseof.com/chatgpt-vs-bing-ai-vs-google-bard/) shows that AI chatbots struggle with math questions. ChatGPT answers intermediate to advanced math problems better than competitors.
@@ -96,8 +104,9 @@ Close
 ![Asking Snapchat a Probability and Statistics Math Problem](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/snapchat-word-problem-probability.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://homestyler.sjv.io/c/5597632/2044747/22993" target="_top" id="2044747"><img src="//a.impactradius-go.com/display-ad/22993-2044747" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2044747/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![Asking Snapchat a Riddle About Family Relatives](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/snapchat-riddle-family-relatives.jpg)
 
 Close
@@ -112,23 +121,17 @@ Close
 
  Snapchat also adds new features consistently. Take My AI’s image prompting feature as an example. The chatbot is getting way better at recognizing images, even ones you take yourself. Meanwhile, other chatbots have yet to adopt image prompting.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082529/7443" target="_top" id="2082529"><img src="//a.impactradius-go.com/display-ad/7443-2082529" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082529/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Try Snapchat’s New AI Assistant
 
  My AI was initially limited to Snapchat+ subscriptions. But Snapchat has made the chatbot available for free users.
 
  Run different prompts once you get access. My AI performs several helpful tasks, like solving math problems, composing essays, and translating foreign languages to English.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -137,4 +140,26 @@ Close
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://novels-ebooks.techidaily.com/210820625-9781476649504-how-tall-are-you/"><u> "How Tall Are You? " | Free Book</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-who-holds-sway-over-youtube-subscribers/"><u>[New] Who Holds Sway Over YouTube Subscribers?</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-game-on-easy-ways-to-record-your-overwatch-experience/"><u>[Updated] Game On! Easy Ways to Record Your Overwatch Experience</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-in-2024-exploring-biggest-fifa-footage-trends-in-graphics/"><u>[Updated] In 2024, Exploring Biggest FIFA Footage Trends in Graphics</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/expert-advice-for-troubleshooting-the-absence-of-nvidia-high-definition-audio-output/"><u>Expert Advice for Troubleshooting the Absence of Nvidia High Definition Audio Output</u></a></li>
+<li><a href="https://program-issues.techidaily.com/how-to-prevent-and-resolve-crashes-in-mount-and-blade-ii-bannerlord/"><u>How to Prevent and Resolve Crashes in Mount & Blade II: Bannerlord</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/24-dream-makers-the-online-marvel-experience/"><u>In 2024, Dream Makers The Online Marvel Experience</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-what-pokemon-evolve-with-a-dawn-stone-for-poco-x6-drfone-by-drfone-virtual-android/"><u>In 2024, What Pokémon Evolve with A Dawn Stone For Poco X6? | Dr.fone</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/italy-enforces-swift-suspension-on-chatgpt-discover-the-motivation/"><u>Italy Enforces Swift Suspension on ChatGPT - Discover the Motivation</u></a></li>
+<li><a href="https://techtrends.techidaily.com/passare-da-ogm-ad-avi-senza-costi-prova-convertoggonline/"><u>Passare Da OGM Ad AVI Senza Costi: Prova ConvertOggOnline</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/1723862679461-score-the-ultimate-deal-lenovos-legion-slim-5-gaming-powerhouse-below-1100-on-newegg/"><u>Score the Ultimate Deal: Lenovo's Legion Slim 5 Gaming Powerhouse Below $1,100 on Newegg</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/top-5-unbeatable-advantages-of-staying-on-facebook-despite-the-exodus/"><u>Top 5 Unbeatable Advantages of Staying on Facebook, Despite the Exodus</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/top-7-hidden-dangers-when-using-shared-computers-online/"><u>Top 7 Hidden Dangers When Using Shared Computers Online</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/top-platforms-offering-unrestricted-access-to-ebooks-and-digital-comics/"><u>Top Platforms Offering Unrestricted Access to eBooks & Digital Comics</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/top-updates-from-the-past-week-bid-farewell-to-free-netflix-discover-advanced-iphone-repair-innovations/"><u>Top Updates From the Past Week: Bid Farewell to Free Netflix, Discover Advanced iPhone Repair Innovations</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/understanding-openais-decision-not-to-distribute-tools-for-identifying-imitation-of-chatgpt-conversations/"><u>Understanding OpenAI's Decision Not to Distribute Tools for Identifying Imitation of ChatGPT Conversations</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/understanding-the-security-measures-behind-reliable-cloud-storage-systems/"><u>Understanding the Security Measures Behind Reliable Cloud Storage Systems</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/unlock-your-creative-chatgpt-side-chrome-extension-advantage/"><u>Unlock Your Creative ChatGPT Side - Chrome Extension Advantage</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/unlocking-insights-from-the-new-york-times-exclusive-june-29th-edition-hot-topic-384/"><u>Unlocking Insights From The New York Times - Exclusive June 29Th Edition, Hot Topic #384</u></a></li>
+</ul></div>
 

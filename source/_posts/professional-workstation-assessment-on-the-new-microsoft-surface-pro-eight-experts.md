@@ -1,7 +1,7 @@
 ---
 title: Professional Workstation Assessment on the New Microsoft Surface Pro Eight Experts
-date: 2024-12-25T08:15:43.924Z
-updated: 2024-12-27T20:40:13.546Z
+date: 2025-01-01T00:51:39.375Z
+updated: 2025-01-07T02:46:27.168Z
 tags:
   - apple
 categories:
@@ -42,10 +42,6 @@ As part of my journey, I've been testing a [Surface Pro 8 with LTE](https://clic
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## A new-look Surface… kind of
 
 Jason Cipriani/ZDNet
@@ -53,7 +49,7 @@ Jason Cipriani/ZDNet
 When Microsoft [announced the Surface Pro 8 in Sept. 2021](https://www.zdnet.com/article/microsoft-refreshes-its-surface-pc-portfolio-including-android-based-duo-2/), it revealed a completely new design for the Surface Pro lineup. Well, it wasn't completely new; it's actually the same overall design of the [Surface Pro X](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fsurface-pro-x-13-touch-screen-microsoft-sq1-8gb-memory-128gb-ssd-device-only-platinum%2F6477106.p%3FskuId%3D6477106&publisher_slug=itechdaily19598&exclusive=1). Placing the Pro X next to the Pro 8, the only noticeable difference is that the Pro 8 is thicker than the Pro X. Otherwise, they look identical. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **ZDNET** Recommends
@@ -79,7 +75,7 @@ You don't have to use a physical SIM card thanks to the Pro 8's support for an e
 **Also:** [**eSIM vs. SIM: What's the difference?**](https://www.zdnet.com/article/esim-vs-sim-whats-the-difference/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **ZDNET** Recommends
@@ -98,10 +94,6 @@ Regardless of which keyboard you pick up, all of them have a slot for a Surface 
 
 Overall, I love the design of the Pro 8\. I've actually found myself using it as a tablet more than I do the iPad Pro simply because the kickstand is built into the housing. There isn't another cover or case I have to manage. It's fantastic. 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## But can it replace an iPad Pro?
 
 Jason Cipriani/ZDNet
@@ -109,10 +101,6 @@ Jason Cipriani/ZDNet
 Inside the Surface Pro 8 I've been testing is an 11th Generation Intel Core i7 processor, 16GB of memory, and a 256GB SSD. It was running Windows 11 Pro out of the box. 
 
 The LTE options range in price from $1,349 for an Intel Core i5, 8GB of memory, and 128GB of storage up to the build I tested, which normally retails for $1,849 but is currently on sale for $1,599\. Again, those prices don't include a keyboard. 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### More Microsoft
 
@@ -137,6 +125,10 @@ The ability to connect a tablet to an external display and have it actually work
 
 When working on my iPad Pro connected to a monitor, whatever's on the iPad's screen is mirrored on the larger display. There are some apps that use Apple's rudimentary API for external displays, but it's not great. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### **ZDNET** Recommends
 
 [The best iPads: Which model should you buy? Apple's tablet lineup has a wide range of prices and capabilities.  Read now](https://www.zdnet.com/article/best-ipad/)
@@ -159,6 +151,10 @@ I prefer to use Apple's Mail app along with my iCloud+ personal domain as oppose
 
 Another thing I love about my iPad Pro is that its performance is reliable and consistent. When using the Pro 8 with multiple apps open, there would be a slight delay or pause before an app would appear after being minimized at times. It wasn't specific to any one app; I frequently experienced it with Thunderbird, Discord, and Slack. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Bottom line
 
 After a few months of the Surface Pro 8 sitting on a shelf, I have gone back to using it as my main device. I'm once again enjoying using multiple windows for multitasking, not having to worry about any extra workarounds, and I still have complete and total portability.
@@ -172,6 +168,10 @@ If you're on the fence about whether to go with the Surface Pro 8 or an iPad Pro
 At the end of the day, however, you're getting a full computer in the Surface Pro 8 and, currently, 80% of one in the iPad Pro.
 
 ## FAQ
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Should I get a Surface Pro 8 or an iPad Pro?
 
@@ -210,15 +210,20 @@ If you're on the fence about whether to go with the Surface Pro 8 or an iPad Pro
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-guidance.techidaily.com/2024-approved-streaming-software-showdown-wirecast-vs-obs-explored/"><u>2024 Approved Streaming Software Showdown Wirecast vs OBS Explored</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/chatgpt-meets-android-revolutionize-your-communication-on-the-go/"><u>ChatGPT Meets Android: Revolutionize Your Communication On-the-Go!</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-9-mind-blowing-tricks-to-hatch-eggs-in-pokemon-go-without-walking-on-gionee-f3-pro-drfone-by-drfone-virtual-android/"><u>In 2024, 9 Mind-Blowing Tricks to Hatch Eggs in Pokemon Go Without Walking On Gionee F3 Pro | Dr.fone</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-change-poco-x6-pro-lock-screen-clock-in-seconds-by-drfone-android/"><u>In 2024, How To Change Poco X6 Pro Lock Screen Clock in Seconds</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-unlock-any-oneplus-phone-password-using-emergency-call-by-drfone-android/"><u>In 2024, How To Unlock Any OnePlus Phone Password Using Emergency Call</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/in-2024-the-cutting-edge-in-photo-framing-techniques-2023-software-guide/"><u>In 2024, The Cutting Edge in Photo Framing Techniques, 2023 Software Guide</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/is-utilizing-tools-like-chatgpt-or-bard-a-smart-move-for-your-money-matters/"><u>Is Utilizing Tools Like ChatGPT or Bard a Smart Move for Your Money Matters?</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/master-the-art-of-deduction-with-these-4-ai-interactive-murder-mystery-adventures-online/"><u>Master the Art of Deduction with These 4 AI Interactive Murder Mystery Adventures Online</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/transform-your-taskbar-easy-ways-to-modify-color-settings-in-windows-10/"><u>Transform Your Taskbar: Easy Ways to Modify Color Settings in Windows 10</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/which-is-better-exploring-the-pros-and-cons-of-chatgpts-browsing-vs-plugin-models/"><u>Which Is Better? Exploring the Pros and Cons of ChatGPT's Browsing Vs. Plugin Models</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-in-2024-vanish-3-battle-disguise-4-steps-up/"><u>[New] In 2024, Vanish 3 Battle Disguise 4 Steps Up</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-navigating-name-change-in-google-meet-laptopmobile-for-2024/"><u>[New] Navigating Name Change in Google Meet (Laptop/Mobile) for 2024</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-state-of-the-art-devices-for-online-live-shows/"><u>[New] State-of-the-Art Devices for Online Live Shows</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-unlocking-fb-the-ultimate-guide-to-downloading-messages-for-2024/"><u>[New] Unlocking FB The Ultimate Guide to Downloading Messages for 2024</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-in-2024-dive-into-high-definition-fb-streaming-in-1080p/"><u>[Updated] In 2024, Dive Into High Definition FB Streaming in 1080P</u></a></li>
+<li><a href="https://fox-access.techidaily.com/2024-approved-perfecting-playback-apply-filters-to-video-content/"><u>2024 Approved Perfecting Playback Apply Filters to Video Content</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/boost-your-efficiency-essential-strategies-for-using-chatgpts-wolfram-feature/"><u>Boost Your Efficiency: Essential Strategies for Using ChatGPT's Wolfram Feature</u></a></li>
+<li><a href="https://discover-forum.techidaily.com/comprehensive-sandisk-data-rescue-manual-effective-techniques-and-procedures/"><u>Comprehensive Sandisk Data Rescue Manual: Effective Techniques and Procedures</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/crafting-marvels-with-chatgpt-pushing-boundaries-in-creativity/"><u>Crafting Marvels with ChatGPT: Pushing Boundaries in Creativity</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/direct-vs-supplemental-which-gpt-suits-you/"><u>Direct Vs. Supplemental: Which GPT Suits You?</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/elevate-health-management-with-chatgpt-discover-these-9-game-changing-approaches/"><u>Elevate Health Management with ChatGPT: Discover These 9 Game-Changing Approaches</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/pro-level-chat-skills-inside-the-world-of-whatsapp-tips/"><u>Pro-Level Chat Skills Inside the World of WhatsApp Tips</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/step-by-step-guide-registering-for-chatgpt-plugin-capabilities/"><u>Step-by-Step Guide: Registering for ChatGPT Plugin Capabilities</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/understanding-chatgpts-temporary-suspension-of-new-sign-ups-and-its-impact-on-access-dates/"><u>Understanding ChatGPT's Temporary Suspension of New Sign-Ups and Its Impact on Access Dates</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/understanding-claude-2s-core-functionality/"><u>Understanding Claude 2'S Core Functionality</u></a></li>
 </ul></div>
 

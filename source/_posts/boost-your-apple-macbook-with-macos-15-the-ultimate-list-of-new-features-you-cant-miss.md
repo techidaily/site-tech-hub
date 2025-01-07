@@ -1,7 +1,7 @@
 ---
 title: "Boost Your Apple MacBook with MacOS 15: The Ultimate List of New Features You Can't Miss"
-date: 2024-12-21T09:51:18.799Z
-updated: 2024-12-27T23:07:49.505Z
+date: 2024-12-31T02:55:44.970Z
+updated: 2025-01-07T01:05:04.629Z
 tags:
   - apple
 categories:
@@ -39,7 +39,7 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/umvX4ZdWbxk?si=tPXL0-Kzf9SQaY8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. Apple Intelligence
@@ -57,7 +57,7 @@ Apple's approach to AI is markedly different from that of its competitors, howev
 This lets Apple disengage from the chaotic rat race to a degree, positioning itself as the careful, more ethical actor when it comes to AI, particularly in light of [recent debilitating security concerns](https://www.zdnet.com/article/after-brutal-critiques-microsoft-recall-will-get-these-major-privacy-and-security-changes/) from Microsoft's Recall feature, which is delaying the release of a host of its new [Copilot+ PCs](https://www.zdnet.com/article/every-copilot-pc-microsoft-just-announced-to-take-on-apples-m3-macbooks/).
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8dH3yHH9IX8?si=geiW5KbIljSFT9pz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Continuity
@@ -72,6 +72,10 @@ The app also streamlines your devices by bringing your iPhone's notifications st
   
 Alternatively, the new standby mode on the iPhone displays a host of at-a-glance (but un-interactable) data like a clock and calendar while you're using the Continuity app on the Mac. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3AGmFrtBLHw?si=VhvpUaXHPBHl6OT6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 3\. Siri 2.0
 
 Screenshot by Nina Raemont
@@ -85,7 +89,7 @@ During the WWDC keynote, Apple showed off Siri's new look as an ever-present AI 
 The new Siri also comes with on-screen awareness, allowing the AI to respond to what you're looking at on the screen without requiring the user to provide specific context with each prompt. This also allows Siri to take in-app actions in a way that wasn't possible before. In MacOS Sequoia, Siri's integration with OpenAI's LLM propels the virtual assistant to the top players in the field alongside [ChatGPT-4o](https://www.zdnet.com/article/how-to-use-chatgpt-plus-from-gpt-4o-to-interactive-tables/) and [Google's Gemini](https://www.zdnet.com/article/what-is-google-gemini/). 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/VxFUhesNCKo?si=Ti0ui6DXYP12sjSs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nWu29cqFjZA?si=TNZyCbPq68PQ0JIb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4\. AI-fueled productivity apps
@@ -100,6 +104,10 @@ Apple Intelligence has been integrated across all of the big productivity apps i
 * **Photos:** AI-based photo editing features in the Photos app allow users to make touch-ups, remove backgrounds, and do editing instantaneously. Additionally, searching for specific photos and videos using natural language will bring up images of specific people or events.
 * **Notes:** Voice functionality is coming to the Notes app, with the ability to add voice memos directly embedded into your notes. AI will also support audio transcription and transcripts of audio recordings. You can record and transcribe audio, and when your recording is finished, the AI will create a summary on its own.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l4R7_qNIQvY?si=2zJOPfEcm6_3udzn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 5\. New and improved Safari
 
 Screenshot by Nina Raemont
@@ -110,10 +118,6 @@ Safari will see a host of improvements powered by AI functionality, including an
 
 Apple demoed Safari's machine learning capability to automatically detect relevant information on a webpage, including things like quick links, directions, and quick summaries with logistical information like phone numbers and addresses. 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 6\. Standalone Passwords app
 
 Screenshot by Nina Raemont
@@ -123,10 +127,6 @@ Aligning with Apple's positioning of its AI features as secure and trustworthy, 
 **Also: [Forget LastPass: Apple unveils 'Passwords' manager app at WWDC 2024](https://www.zdnet.com/article/forget-lastpass-apple-unveils-passwords-manager-app-at-wwdc-2024/)**
 
 This standalone app is an extension of the existing iCloud Keychain, and seeks to simplify password storage by employing Face ID and Touch ID alongside character-string passwords. Much of it is designed to work automatically and seamlessly in an effort to solve what is a huge UX headache that everyone has experienced at one point or another. 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Dn-24B6AURY?si=ErES2KWVnintY6h9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 7\. Gaming
 
@@ -162,18 +162,14 @@ Apple wants to create a "unified gaming platform" across the iPhone, iPad, and M
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-videos.techidaily.com/new-unearthing-timeless-treasures-a-classic-lit-exploration-for-2024/"><u>[New] Unearthing Timeless Treasures A Classic Lit Exploration for 2024</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/updated-2024-approved-asmrs-good-side-benefits-revealed-now/"><u>[Updated] 2024 Approved ASMR's Good Side Benefits Revealed Now</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-tag-and-showcase-a-podcast-episode/"><u>[Updated] Tag and Showcase a Podcast Episode</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/common-puzzles-in-twitch-interaction-a-guide-for-streaming-novices/"><u>Common Puzzles in Twitch Interaction - A Guide for Streaming Novices</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/discovering-7-amazing-updates-the-latest-bard-ai-reveal-from-google-io-2023/"><u>Discovering 7 Amazing Updates: The Latest Bard AI Reveal From Google I/O 2023</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/hack-turn-dall-e-webp-photos-into-standard-jpegpng/"><u>Hack: Turn DALL-E WebP Photos Into Standard JPEG/PNG</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/master-your-own-chatai-blueprint/"><u>Master Your Own ChatAI Blueprint</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/smartphone-face-off-deciding-between-googles-pixel-6-pro-and-apples-iphone-13-pro-for-your-next-professional-device/"><u>Smartphone Face-Off: Deciding Between Google's Pixel 6 Pro and Apple's iPhone 13 Pro for Your Next Professional Device</u></a></li>
-<li><a href="https://howto.techidaily.com/super-easy-ways-to-deal-with-xiaomi-13-ultra-unresponsive-screen-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Super Easy Ways To Deal with Xiaomi 13 Ultra Unresponsive Screen | Dr.fone</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/the-great-chatbot-showdown-pitting-gpt-against-microsoftgoogles-creations/"><u>The Great Chatbot Showdown: Pitting GPT Against Microsoft/Google's Creations</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/the-next-generation-ai-puzzle-why-does-chatgpt-4-take-its-time-when-chatgpt-35-was-faster/"><u>The Next Generation AI Puzzle: Why Does ChatGPT-4 Take Its Time When ChatGPT-3.5 Was Faster?</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/understanding-forefront-ai-vs-chatgpt-which-is-superior/"><u>Understanding Forefront AI Vs. ChatGPT - Which Is Superior?</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/visual-tutorial-effortless-dvd-extraction-via-handbrake-detailed-instructions-and-images/"><u>Visual Tutorial: Effortless DVD Extraction via HandBrake - Detailed Instructions & Images</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-2024-approved-the-gamers-blueprint-effortless-xbox-one-capture-methods/"><u>[Updated] 2024 Approved The Gamer's Blueprint Effortless Xbox One Capture Methods</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/youtubedvd/"><u>「YouTube動画ダウンロードからDVDバーニングまで」 - ステップバイステップガイド</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/1-easy-track-downloads-get-your-favorite-soundcloud-beats-without-cost/"><u>1. Easy Track Downloads: Get Your Favorite SoundCloud Beats Without Cost</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/day-two-highlights-of-ces-2023-top-innovations-unveiled-insights-from-zdnet/"><u>Day Two Highlights of CES 2023: Top Innovations Unveiled - Insights From ZDNet</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-erase-iphone-7-plus-data-permanently-drfone-by-drfone-ios-full-data-eraser-ios-full-data-eraser/"><u>How To Erase iPhone 7 Plus Data Permanently | Dr.fone</u></a></li>
+<li><a href="https://article-posts.techidaily.com/in-2024-top-free-smartphone-photo-enhancers-for-stunning-iphone-selfies/"><u>In 2024, Top FREE Smartphone Photo Enhancers for Stunning iPhone Selfies</u></a></li>
+<li><a href="https://win-blog.techidaily.com/master-the-biomutant-game-no-more-pc-hiccups-2024s-essential-guide-to-continuous-play/"><u>Master the Biomutant Game: No More PC Hiccups – 2024'S Essential Guide to Continuous Play</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/unlocking-commercial-video-content-a-how-to-for-windows-users/"><u>Unlocking Commercial Video Content: A How-To for Windows Users</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/windows-7/"><u>Windows 7スクリーンレコーダー・無料アプリとウェブサイトの推奨 - オススメ</u></a></li>
 </ul></div>
 

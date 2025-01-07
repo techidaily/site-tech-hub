@@ -1,7 +1,7 @@
 ---
 title: "Switching Sides: How the New iPhone 16 Convinced This Android Enthusiast with Its Top 3 Innovative Features"
-date: 2024-10-24T17:20:41.578Z
-updated: 2024-10-27T17:50:27.388Z
+date: 2025-01-04T01:12:14.769Z
+updated: 2025-01-07T00:50:36.874Z
 tags:
   - apple
 categories:
@@ -40,6 +40,10 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. Generative AI for a context-aware Siri
 
 Unfortunately, Siri is arguably Apple's biggest shortcoming when stacking its AI services against competitors. While Siri has become a go-to feature on its own, it lags behind its virtual assistant competitors in intelligence and capability. Mounting consumer frustration over Siri's limitations and generative AI's popularity gives Apple a final push to give the voice assistant generative AI.
@@ -51,10 +55,7 @@ If Apple can give Siri generative AI, iPhone users could ask the voice assistant
 The biggest challenge for Apple will be running large language models (LLMs) on-device, as one would expect it to do after its long-standing focus on consumer privacy. On-device processing means questions and responses won't have to be sent to remote cloud servers, minimizing data exposure.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925468/19272" target="_top" id="1925468">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925468" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925468/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Contextual search through image gallery
@@ -68,10 +69,7 @@ Apple already uses AI for facial recognition to create Memories and organize pho
 Other AI upgrades to photo galleries that could benefit smartphone users include finding and suggesting duplicate photos to free up storage, integrating AI voice assistants to search for photos with voice commands, recommending AI enhancements, and applying edits to photos. 
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148637/16836" target="_top" id="2148637">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148637" border="0" alt="https://techidaily.com" width="125" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148637/16836" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. Personalized text generation
@@ -83,10 +81,7 @@ ChatGPT became popular for its ability to generate text and have conversations t
 This is another instance where Apple trails behind competitors, as AI text generation is available in the [Google Pixel 8](https://www.kqzyfj.com/click-9041660-15823334-1717160402000?sid=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp) and the Samsung [Galaxy S24 lineup](https://shop-links.co/link/?url=https%3A%2F%2Fwww.samsung.com%2Fus%2Fsmartphones%2Fgalaxy-s24%2Fbuy%2Fgalaxy-s24-256gb-unlocked-sm-s921ulbexaa%2F&publisher_slug=itechdaily19598&exclusive=1) of smartphones, as well as Microsoft 365, Gmail, Google Docs, Sheets, and more. 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1959712/19272" target="_top" id="1959712">
-  <img src="//a.impactradius-go.com/display-ad/19272-1959712" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959712/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=EdMRoNAFi0Q6mP7G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4\. AI-powered photo and video editing
@@ -131,24 +126,20 @@ It would be surprising to see Apple incorporate AI video features such as real-t
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-recording.techidaily.com/new-2024-approved-freezing-your-gameplay-xbox-one-screenshot-essentials/"><u>[New] 2024 Approved Freezing Your Gameplay Xbox One Screenshot Essentials</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-in-2024-powerpoint-presentations-enhancing-clarity-with-voiceovers/"><u>[Updated] In 2024, PowerPoint Presentations Enhancing Clarity with Voiceovers</u></a></li>
-<li><a href="https://extra-support.techidaily.com/2024-approved-maximizing-focus-zooming-in-msteams/"><u>2024 Approved Maximizing Focus Zooming In MSTEAMS</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/can-you-trust-onlinevideoconverter-with-your-data-the-alarming-truth-revealed/"><u>Can You Trust OnlineVideoConverter with Your Data? The Alarming Truth Revealed</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/chatgpt-and-privacy-should-you-really-use-it-for-confidential-matters/"><u>ChatGPT and Privacy: Should You Really Use It for Confidential Matters?</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/cutting-edge-analysis-techniques-unlocking-the-potential-of-gpt-3/"><u>Cutting-Edge Analysis Techniques: Unlocking the Potential of GPT-3</u></a></li>
-<li><a href="https://win11.techidaily.com/efficient-methods-closing-several-programs-at-once-in-windows/"><u>Efficient Methods: Closing Several Programs at Once in Windows</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/exploring-huggingchat-the-communitys-chatgpt-equivalent/"><u>Exploring HuggingChat: The Community's ChatGPT Equivalent</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/full-tutorial-to-bypass-your-tecno-spark-20-pro-face-lock-by-drfone-android/"><u>Full Tutorial to Bypass Your Tecno Spark 20 Pro Face Lock?</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/how-does-chatgpt-adapt-through-dialogue-with-users/"><u>How Does ChatGPT Adapt Through Dialogue With Users?</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/in-2024-all-you-need-to-know-about-mega-greninja-for-honor-100-drfone-by-drfone-virtual-android/"><u>In 2024, All You Need To Know About Mega Greninja For Honor 100 | Dr.fone</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/in-2024-piece-by-piece-crafting-the-mosaic-photo-collage-way/"><u>In 2024, Piece-by-Piece Crafting The Mosaic Photo Collage Way</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/limits-of-linguistic-intelligence-in-gpt/"><u>Limits of Linguistic Intelligence in GPT</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/master-your-meals-with-these-top-6-app-tracker-innovations/"><u>Master Your Meals with These Top 6 App Tracker Innovations</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/prompt-engineering-careers-realistic-or-virtual/"><u>Prompt Engineering Careers: Realistic or Virtual?</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/revolution-in-rendering-the-convergence-of-blizzard-microsoft-and-deep-learning-podcast-discussion/"><u>Revolution in Rendering: The Convergence of Blizzard, Microsoft & Deep Learning [Podcast Discussion]</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/revolutionize-your-interaction-the-five-superior-techniques-for-chatgpt-commands/"><u>Revolutionize Your Interaction: The Five Superior Techniques for ChatGPT Commands</u></a></li>
-<li><a href="https://os-tips.techidaily.com/ultimate-guide-how-to-retrieve-accidentally-deleted-phone-numbers-on-ios-and-android-systems/"><u>Ultimate Guide: How to Retrieve Accidentally Deleted Phone Numbers on iOS and Android Systems</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/unlocking-creativity-with-ai-the-chatgpt-guide-to-crafting-stories/"><u>Unlocking Creativity with AI: The ChatGPT Guide to Crafting Stories</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-in-2024-uncovering-the-most-recent-facebook-changes/"><u>[New] In 2024, Uncovering the Most Recent Facebook Changes</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-2024-approved-achieving-profitability-on-youtube-average-view-count-for-success/"><u>[Updated] 2024 Approved Achieving Profitability on YouTube Average View Count for Success</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-2024-approved-sundae-screening-comprehensive-tutorial-on-frozen-camera-app/"><u>[Updated] 2024 Approved Sundae Screening Comprehensive Tutorial on Frozen Camera App</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-mastering-pc-hd-video-viewing-and-editing-with-windows-hdr-support/"><u>[Updated] Mastering PC HD Video Viewing & Editing with Windows HDR Support</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/2024-approved-opening-playing-and-organizing-your-srt-files-efficiently/"><u>2024 Approved Opening, Playing, and Organizing Your SRT Files Efficiently</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/boosting-dungeons-and-dragons-the-ultimate-guide-to-leveraging-chatgpt/"><u>Boosting Dungeons & Dragons: The Ultimate Guide to Leveraging ChatGPT</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/chatgpt-in-the-making-of-cocktails-success-rate/"><u>ChatGPT in the Making of Cocktails: Success Rate?</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/comparing-ipad-pro-and-macbook-air-which-is-the-better-choice-for-you/"><u>Comparing iPad Pro and MacBook Air: Which Is The Better Choice For You?</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/ensure-seamless-connectivity-downloading-the-newest-broadcom-bluetooth-drivers-for-windows-users-1187/"><u>Ensure Seamless Connectivity: Downloading the Newest Broadcom Bluetooth Drivers for Windows Users (11/8/7)</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/identifying-gaps-in-auto-editing-tools/"><u>Identifying Gaps in Auto-Editing Tools</u></a></li>
+<li><a href="https://discover-docs.techidaily.com/identifying-top-tier-blockchain-initiatives-insights-from-yl-computing-and-yl-software/"><u>Identifying Top-Tier Blockchain Initiatives: Insights From YL Computing & YL Software</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-track-imei-number-of-infinix-note-30-vip-racing-edition-through-google-earth-by-drfone-android/"><u>In 2024, How To Track IMEI Number Of Infinix Note 30 VIP Racing Edition Through Google Earth?</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/24-the-studio-sessions-best-practices-15-youtube-production-guides-for-musicians/"><u>In 2024, The Studio Sessions Best Practices - 15 YouTube Production Guides for Musicians</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/unleashing-creativity-how-chatgpts-new-feature-enables-fully-tailored-ai-model-design/"><u>Unleashing Creativity: How ChatGPT's New Feature Enables Fully Tailored AI Model Design</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/what-is-ai-prompt-engineering-and-is-it-a-stable-career-path/"><u>What Is AI Prompt Engineering, and Is It a Stable Career Path?</u></a></li>
 </ul></div>
 

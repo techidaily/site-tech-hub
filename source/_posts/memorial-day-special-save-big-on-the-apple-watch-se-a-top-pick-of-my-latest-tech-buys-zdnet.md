@@ -1,7 +1,7 @@
 ---
 title: "Memorial Day Special: Save Big on the Apple Watch SE - A Top Pick of My Latest Tech Buys | ZDNet"
-date: 2024-10-21T18:10:13.846Z
-updated: 2024-10-27T17:38:41.627Z
+date: 2025-01-02T18:33:01.357Z
+updated: 2025-01-07T03:31:18.080Z
 tags:
   - apple
 categories:
@@ -40,6 +40,10 @@ The Apple Watch SE (2nd gen) does offer some of the same health and safety featu
 During Black Friday sales, I upgraded from the Series 3 Apple Watch to the 40mm SE model, and I've never been happier with a tech purchase. The SE has all the necessary features without the complicated bells and whistles I didn't want (or need) -- yet it still offers a crisp display, fast response rate, and seamless use. It's perfect for tracking my workouts and walks, and for quickly answering texts, emails, and more. 
 
 Grab the [Apple Watch SE (2nd Gen)](https://goto.walmart.com/c/5597632/565706/9383?sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.walmart.com%2Fip%2FApple-Watch-SE-2nd-Gen-GPS-40mm-Starlight-Aluminum-Case-Sport-Band-S-M-Fitness-Sleep-Tracker-Crash-Detection-Heart-Rate-Monitor%2F5033741510%3F&subId1=zd-__COM_CLICK_ID__-dtp) now and upgrade your or a loved one's smartwatch setup this summer. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## When will this deal expire?
 
@@ -85,27 +89,24 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://snapchat-videos.techidaily.com/new-2024-approved-mac-to-snapchat-creating-compact-shareable-content/"><u>[New] 2024 Approved Mac to Snapchat Creating Compact, Shareable Content</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/new-in-2024-mastering-the-art-of-combining-igtv-with-insta-stories/"><u>[New] In 2024, Mastering the Art of Combining IGTV with Insta Stories</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/ed-2024-approved-leading-software-lineup-8-linux-editing-sleuths/"><u>[Updated] 2024 Approved Leading Software Lineup 8 Linux Editing Sleuths</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/android-friendly-guide-to-bings-ai-chatting-capabilities/"><u>Android-Friendly Guide to Bing's AI Chatting Capabilities</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/best-artificial-intelligence-systems-enhancing-web-search/"><u>Best Artificial Intelligence Systems Enhancing Web Search</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/boost-productivity-with-a-simple-chrome-extension-for-easy-chatgpt-prompts/"><u>Boost Productivity with a Simple Chrome Extension for Easy ChatGPT Prompts</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/can-chatgpts-joke-crafting-skills-truly-elicit-genuine-laughter/"><u>Can ChatGPT's Joke-Crafting Skills Truly Elicit Genuine Laughter?</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/exploring-the-solo-efficacy-of-auto-gpt/"><u>Exploring the Solo Efficacy of Auto-GPT</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/in-2024-breaking-down-the-elements-of-a-youtube-shorts-template/"><u>In 2024, Breaking Down the Elements of a YouTube Shorts Template</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/in-2024-comparing-streamlabs-with-obs-for-professional-broadcasts/"><u>In 2024, Comparing Streamlabs with OBS for Professional Broadcasts</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/manage-your-chatgpt-experience-top-4-tools-for-saving-and-sharing-conversations/"><u>Manage Your ChatGPT Experience: Top 4 Tools for Saving & Sharing Conversations</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/overcoming-mingwm10dll-not-detected-issues-effective-solutions/"><u>Overcoming 'mingwm10.dll Not Detected' Issues: Effective Solutions</u></a></li>
-<li><a href="https://driver-install.techidaily.com/refresh-hp-graphics-to-boost-visual-output/"><u>Refresh HP Graphics to Boost Visual Output</u></a></li>
-<li><a href="https://facebook.techidaily.com/socializing-at-speed-learn-and-implement-these-three-dynamic-fb-tag-tactics/"><u>Socializing at Speed: Learn and Implement These Three Dynamic FB Tag Tactics</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/unveiling-the-latest-twists-new-twitter-scheme-exposed-and-innovative-meta-verification-rollout/"><u>Unveiling the Latest Twists: New Twitter Scheme Exposed & Innovative Meta Verification Rollout</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-2024-approved-tech-tutorial-record-on-hangouts/"><u>[Updated] 2024 Approved Tech Tutorial Record on Hangouts</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/approved-essential-8-linux-software-for-editors/"><u>2024 Approved Essential 8 Linux Software for Editors</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/2024-approved-precision-capture-with-videoleaps-zoom-feature/"><u>2024 Approved Precision Capture with Videoleap's Zoom Feature</u></a></li>
+<li><a href="https://fox-tips.techidaily.com/discordwindows-1087/"><u>恢复被删除的Discord照片：为Windows 10、8和7用户提供解决方案（两种不同方法）</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/a-comprehensive-review-of-offworld-trading-company-mastering-the-art-of-digital-domination/"><u>A Comprehensive Review of Offworld Trading Company: Mastering the Art of Digital Domination</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/boosting-efficiency-implementing-chatgpt-for-advanced-functions-in-microsoft-excel/"><u>Boosting Efficiency: Implementing ChatGPT for Advanced Functions in Microsoft Excel</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/decoding-the-importance-of-the-chatgpt-code-interpreter-in-ai-development/"><u>Decoding the Importance of the ChatGPT Code Interpreter in AI Development</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/evaluating-differences-how-google-palm-2-stacks-up-against-openais-gpt-4/"><u>Evaluating Differences: How Google PaLM 2 Stacks Up Against OpenAI's GPT-4</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/freelancers-ai-assistant-showdown-which-language-tool-prevails/"><u>Freelancer's AI Assistant Showdown: Which Language Tool Prevails?</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/getting-started-with-langchain-llm-the-ultimate-starter-kit/"><u>Getting Started with LangChain LLM: The Ultimate Starter Kit</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/how-to-safely-extract-conversation-records-from-chatgpt-best-practices/"><u>How to Safely Extract Conversation Records From ChatGPT: Best Practices</u></a></li>
+<li><a href="https://extra-information.techidaily.com/in-2024-affordable-cloud-vaulting-mass-file-saving-made-cheap/"><u>In 2024, Affordable Cloud Vaulting Mass File Saving Made Cheap</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-the-essential-handheld-guide-to-youtube-production/"><u>In 2024, The Essential Handheld Guide to YouTube Production</u></a></li>
+<li><a href="https://discover-advanced.techidaily.com/marlin-equity-partners-fuels-abbyys-accelerated-expansion-investment-strategy/"><u>Marlin Equity Partners Fuels ABBYY's Accelerated Expansion Investment Strategy</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/meet-your-new-co-pilot-mercedes-benz-equips-cars-with-advanced-ai-chatgpt-voice-controls/"><u>Meet Your New Co-Pilot: Mercedes-Benz Equips Cars with Advanced AI, ChatGPT Voice Controls</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/reinvent-your-day-at-work-with-the-power-of-ai-gpt-companion/"><u>Reinvent Your Day at Work with the Power of AI, GPT Companion</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/snapchats-own-brainchild-my-ai-versus-the-renowned-chatgpt-making-the-best-choice/"><u>Snapchat's Own Brainchild, My AI versus the Renowned ChatGPT: Making the Best Choice</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/steps-for-turning-off-speaking-directions-on-a-samsung-smart-tv/"><u>Steps for Turning Off Speaking Directions on a Samsung Smart TV</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/unlock-smart-note-management-via-mematic/"><u>Unlock Smart Note Management via Mematic</u></a></li>
 </ul></div>
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082530/7443" target="_top" id="2082530">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082530" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082530/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 

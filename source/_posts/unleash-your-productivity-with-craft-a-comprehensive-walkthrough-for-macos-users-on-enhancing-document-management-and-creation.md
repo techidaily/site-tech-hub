@@ -1,7 +1,7 @@
 ---
 title: Unleash Your Productivity with Craft - A Comprehensive Walkthrough for macOS Users on Enhancing Document Management and Creation
-date: 2024-10-25T17:14:02.604Z
-updated: 2024-10-27T18:06:26.477Z
+date: 2025-01-04T16:14:36.475Z
+updated: 2025-01-06T17:38:48.608Z
 tags:
   - apple
 categories:
@@ -26,17 +26,22 @@ So, how do you create this custom Flow? Let me show you. All you'll need to make
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Create a custom Focus
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 1\. Open System Preferences
 
 Click on the Apple menu in the top left corner of your desktop. From the resulting pop-up menu, click System Preferences.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2080312/19272" target="_top" id="2080312">
-  <img src="//a.impactradius-go.com/display-ad/19272-2080312" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080312/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 2\. Access Notifications & Focus
@@ -47,13 +52,6 @@ In the System Preferences window (**Figure 1**), click Notifications & Focus.
 
 Image: Jack Wallen
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/947746/11832" target="_top" id="947746">
-  <img src="//a.impactradius-go.com/display-ad/11832-947746" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/947746/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### 3\. Open the Focus tab
 
 Once Notifications & Focus is opened, click the Focus tab (**Figure 2**).
@@ -61,13 +59,6 @@ Once Notifications & Focus is opened, click the Focus tab (**Figure 2**).
 **Figure 2:** You'll find a single pre-configured Focus for Do Not Disturb already available.
 
 Image: Jack Wallen
-
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139121/17108" target="_top" id="2139121">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139121" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139121/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 4\. Create the new Focus
 
@@ -86,10 +77,7 @@ Image: Jack Wallen
 After naming and selecting a color/icon, click Add to save the new Focus.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111967/7443" target="_top" id="2111967">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111967" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111967/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 5\. Allowing specific notifications
@@ -105,6 +93,10 @@ From the pop-up list, select the contact(s) you want to be allowed to interrupt 
 **Figure 6:** Adding contacts to a Focus in macOS Monterey.
 
 Image: Jack Wallen
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2ipTu54inBo?si=gRegjvtVq5gm_PHo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 6\. Set the Focus to be enabled
 
@@ -148,22 +140,20 @@ Use this new Focus feature wisely, and it will help you be more productive while
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-recording.techidaily.com/new-in-2024-achieve-maximum-impact-in-fb-video-ads-use-free-tools/"><u>[New] In 2024, Achieve Maximum Impact in FB Video Ads - Use Free Tools</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-boosting-your-gaming-footage-on-latest-windows-11-for-2024/"><u>[Updated] Boosting Your Gaming Footage on Latest Windows 11 for 2024</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/ed-in-2024-inquiry-youtubes-payment-scheme-for-creators/"><u>[Updated] In 2024, Inquiry YouTube's Payment Scheme for Creators</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/2024-approved-tips-for-crafting-an-engaging-fb-timeline-memory/"><u>2024 Approved Tips for Crafting an Engaging FB Timeline Memory</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/2024s-biggest-scopes-for-successful-fb-ads/"><u>2024’S Biggest Scopes for Successful FB Ads</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/chatgpt-mastery-8-pro-tips-to-elevate-your-enterprise/"><u>ChatGPT Mastery: 8 Pro Tips to Elevate Your Enterprise</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/connect-and-learn-new-android-app-chatgpt/"><u>Connect and Learn: New Android App, ChatGPT!</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/crosslinked-content-strategy-instagram-plus-tiktok-collaboration/"><u>Crosslinked Content Strategy Instagram + TikTok Collaboration</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/employ-gpt4all-for-low-cost-windows-gpt-clone/"><u>Employ GPT4All for Low-Cost Windows GPT Clone</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/intelligent-mobile-browsing-with-bing-elevate-your-android-and-ios-experience-through-ai-innovation/"><u>Intelligent Mobile Browsing with Bing - Elevate Your Android and iOS Experience Through AI Innovation!</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/is-ai-evolving-faster-the-duel-between-googles-gemini-and-chatgpt/"><u>Is AI Evolving Faster? The Duel Between Google's Gemini and ChatGPT</u></a></li>
-<li><a href="https://windows11.techidaily.com/keeping-apps-fixed-in-task-manager-on-pc/"><u>Keeping Apps Fixed in Task Manager on PC</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/overcoming-chatgpt-hiccups-in-live-transmission/"><u>Overcoming ChatGPT Hiccups in Live Transmission</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/the-future-is-now-microsoft-purchases-blizzard-diving-into-ai-creativity-and-translation-exclusive-podcast-discussion/"><u>The Future Is Now: Microsoft Purchases Blizzard, Diving Into AI Creativity and Translation - Exclusive Podcast Discussion</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/transform-your-routines-with-auto-gtp/"><u>Transform Your Routines with Auto-GTP</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/tutorial-to-change-motorola-moto-g04-imei-without-root-a-comprehensive-guide-by-drfone-android/"><u>Tutorial to Change Motorola Moto G04 IMEI without Root A Comprehensive Guide</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/your-tailored-ai-journey-starts-now-explore-the-custom-gpt-store-by-openai-here/"><u>Your Tailored AI Journey Starts Now: Explore the Custom GPT Store by OpenAI Here</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-in-2024-comprerant-and-reviewed-the-ultimate-list-of-ios-video-edits/"><u>[Updated] In 2024, Compreran't & Reviewed The Ultimate List of iOS Video Edits</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-the-photography-gurus-guide-to-date-stamping/"><u>[Updated] The Photography Guru's Guide to Date Stamping</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/comparative-study-of-premium-video-services-for-2024/"><u>Comparative Study of Premium Video Services for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/complete-collection-every-movavi-software-offered-by-movavi-unlimited/"><u>Complete Collection: Every Movavi Software Offered by Movavi Unlimited</u></a></li>
+<li><a href="https://windows11.techidaily.com/dodgy-deals-understanding-the-threats-of-low-price-windows-licenses/"><u>Dodgy Deals: Understanding the Threats of Low-Price Windows Licenses</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/enhance-connectivity-leading-wi-fi-expanders-for-a-stronger-signal/"><u>Enhance Connectivity: Leading Wi-Fi Expanders for a Stronger Signal</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/experience-swift-and-reliable-wireless-connection-at-bargain-prices-using-g309-lightspeed-technology/"><u>Experience Swift and Reliable Wireless Connection at Bargain Prices Using G309 LIGHTSPEED Technology</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/navigating-auto-gpt-installation-overcoming-6-frequent-hurdles/"><u>Navigating Auto-GPT Installation: Overcoming 6 Frequent Hurdles</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/pioneering-change-with-conversational-ai-in-medicine/"><u>Pioneering Change with Conversational AI in Medicine</u></a></li>
+<li><a href="https://fox-that.techidaily.com/steps-to-conduct-an-iphone-hardware-test-via-apples-online-remote-service/"><u>Steps to Conduct an iPhone Hardware Test via Apple's Online Remote Service</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/top-5-gpt4-techniques-to-simplify-routine-human-resources-duties/"><u>Top 5 GPT4 Techniques to Simplify Routine Human Resources Duties</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/transforming-online-queries-microsoft-elevates-bing-with-cutting-edge-artificebased-technology/"><u>Transforming Online Queries: Microsoft Elevates Bing with Cutting-Edge Artificebased Technology</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/understanding-ai-constraints-the-7-questions-chatgpt-struggles-with/"><u>Understanding AI Constraints: The 7 Questions ChatGPT Struggles With</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/unleash-creative-potential-using-free-dall-e-3-on-bing-by-microsoft/"><u>Unleash Creative Potential: Using Free DALL-E 3 on Bing by Microsoft</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/unlocking-efficient-website-building-with-chatgpt-four-essential-strategies/"><u>Unlocking Efficient Website Building with ChatGPT: Four Essential Strategies</u></a></li>
 </ul></div>
 

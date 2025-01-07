@@ -1,7 +1,7 @@
 ---
 title: "Mastering MacOS with Craft: The Ultimate Guide to Using This Remarkable Document Editor"
-date: 2024-12-22T04:48:19.705Z
-updated: 2024-12-27T16:26:01.394Z
+date: 2024-12-31T02:46:16.675Z
+updated: 2025-01-06T20:09:52.011Z
 tags:
   - apple
 categories:
@@ -21,7 +21,7 @@ But then something sort of magical happened -- I started using the app. Once I u
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What is Craft?
@@ -40,7 +40,7 @@ To help you out, I'm going to walk you through the creation of a document in Cra
 Once you have Craft installed, you're ready to start building your first document.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Create a document in Craft
@@ -64,7 +64,7 @@ Below the cover image, type the title of the page and then start typing addition
 Think of each section of text as a block (similar to that in WordPress). Add new blocks to the document as needed. And that's how you build the basic sections of your document.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_dOmuXhsV6Y?si=aT6vgPbDx4ajjvdr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Adding external sources
@@ -78,7 +78,7 @@ Image: Jack Wallen
 Now we're getting somewhere. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_SbYznUy_zY?si=ThBkP934r3mizi48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Link a document to another
@@ -129,22 +129,19 @@ This free app should be on the radar of anyone who struggles to organize their c
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-sure.techidaily.com/024-approved-crafting-engaging-music-reactions-the-youtube-enthusiasts-blueprint/"><u>[New] 2024 Approved Crafting Engaging Music Reactions The YouTube Enthusiast's Blueprint</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/new-tech-insight-pulling-and-keeping-twitters-vids-in-phone-for-2024/"><u>[New] Tech Insight Pulling and Keeping Twitters Vids in Phone for 2024</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/updated-ace-10-drones-for-photography-and-cinematic-prowess/"><u>[Updated] Ace 10 Drones for Photography & Cinematic Prowess</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/approved-masterpiece-maker-top-free-editors-for-android-devices/"><u>2024 Approved Masterpiece Maker Top Free Editors for Android Devices</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/chatgpt-plus-top-6-advantages-over-the-newly-free-gpt-4-why-you-should-stick-with-premium/"><u>ChatGPT Plus: Top 6 Advantages Over the Newly Free GPT-4 – Why You Should Stick with Premium!</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/comprehensive-walkthrough-accessing-chatgpt-anywhere-even-on-android-and-ios-phones/"><u>Comprehensive Walkthrough: Accessing ChatGPT Anywhere, Even on Android & iOS Phones</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/enhancing-prose-leveraging-gpt-3-in-creative-narratives/"><u>Enhancing Prose: Leveraging GPT-3 in Creative Narratives</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/explore-these-5-tricks-for-no-cost-open-source-ai-access/"><u>Explore These 5 Tricks for No Cost, Open Source AI Access</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/exploring-the-facts-about-truthgpt-coin-not-just-another-crypto-scam/"><u>Exploring the Facts About TruthGPT Coin – Not Just Another Crypto Scam?</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/go-beyond-basic-10-advanced-whatsapp-tips-and-tricks-you-must-try-for-2024/"><u>Go Beyond Basic 10 Advanced WhatsApp Tips and Tricks You Must Try for 2024</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/protect-yourself-discerning-authentic-from-imitation-chatgpt-apps-on-iphone/"><u>Protect Yourself: Discerning Authentic From Imitation ChatGPT Apps on iPhone</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/streamlining-content-designs-using-canva-gpt-at-scale/"><u>Streamlining Content Designs Using Canva, GPT at Scale</u></a></li>
-<li><a href="https://facebook.techidaily.com/the-art-of-choosing-effective-timeline-image-covers/"><u>The Art of Choosing Effective Timeline Image Covers</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/ltimate-format-selection-elevating-your-youtube-content-for-2024/"><u>The Ultimate Format Selection – Elevating Your YouTube Content for 2024</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/unleashing-the-power-of-color-in-final-cut-pro-for-2024/"><u>Unleashing the Power of Color in Final Cut Pro for 2024</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/unveiling-differences-a-closer-look-at-gpt-4-versus-its-counterparts-gpt-4-turbo-and-gpt-4o/"><u>Unveiling Differences: A Closer Look at GPT-4 Versus Its Counterparts, GPT-4 Turbo and GPT-4o</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/win-1011-enforcing-group-policy-on-single-user-profiles/"><u>Win 10/11: Enforcing Group Policy on Single-User Profiles</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-in-2024-sdr-to-hdri-pioneers-expert-tips-and-techniques/"><u>[New] In 2024, SDR to HDRI Pioneers Expert Tips and Techniques</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/approved-best-watched-youtube-film-channels-ranked/"><u>2024 Approved Best-Watched YouTube Film Channels Ranked</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/chatgpt-vs-magazines-future-forecasting-favorites/"><u>ChatGPT Vs. Magazines: Future Forecasting Favorites</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/creative-substitutes-for-windows-video-editing-tools-for-2024/"><u>Creative Substitutes for Windows Video Editing Tools for 2024</u></a></li>
+<li><a href="https://article-helps.techidaily.com/gopro-match-up-ultimate-buyers-analysis/"><u>Gopro Match-Up Ultimate Buyer's Analysis</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/how-effective-is-chatgpt-at-teaching-the-art-of-healthy-cuisine-creation/"><u>How Effective Is ChatGPT at Teaching the Art of Healthy Cuisine Creation?</u></a></li>
+<li><a href="https://discover-docs.techidaily.com/how-to-adjust-your-internet-connection-via-windows-pcs-control-panel-guided-steps-by-yl-computing/"><u>How to Adjust Your Internet Connection via Windows PC's Control Panel - Guided Steps by YL Computing</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/pixelpranks-mememakermarket-for-2024/"><u>PixelPranks MemeMakerMarket for 2024</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/protecting-against-cyber-threats-what-you-need-to-know-about-ai-prompt-injection/"><u>Protecting Against Cyber Threats: What You Need to Know About AI Prompt Injection</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/smooth-out-research-hurdles-perplexity-ais-way/"><u>Smooth Out Research Hurdles: Perplexity AI's Way</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/211441765--the-sacred-mushroom-3rd-ed/"><u>The Sacred Mushroom (3rd ed.) | Free Book</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/the-ultimate-10-final-cut-pro-enhancers-for-2024/"><u>The Ultimate 10 Final Cut Pro Enhancers for 2024</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/troubleshooting-poor-audio-quality-in-airpods-when-connected-to-your-laptop/"><u>Troubleshooting Poor Audio Quality in AirPods When Connected to Your Laptop</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/unleash-powerful-conversational-agents-the-6-superior-chatgpt-extensions-for-visual-studio-code/"><u>Unleash Powerful Conversational Agents: The 6 Superior ChatGPT Extensions for Visual Studio Code</u></a></li>
 </ul></div>
 

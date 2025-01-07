@@ -1,7 +1,7 @@
 ---
 title: IMessage Communication with Windows PCs - Tips & Tricks Unveiled (ZDNet)
-date: 2024-12-22T08:23:59.699Z
-updated: 2024-12-28T12:27:50.520Z
+date: 2025-01-01T23:25:30.988Z
+updated: 2025-01-07T01:25:48.409Z
 tags:
   - apple
 categories:
@@ -56,10 +56,6 @@ Next, confirm that you're running the latest version of Phone Link. To do this, 
 
 Finally, ensure that Bluetooth is enabled on your Windows 11 PC. Go to Settings, select Bluetooth & devices, and turn on the switch for Bluetooth if it's off.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 1\. Open Phone Link
 
 Click the Start button, go to All Apps, and select Phone Link from the list. The first screen prompts you to select your device. Click the button for iPhone.
@@ -67,7 +63,7 @@ Click the Start button, go to All Apps, and select Phone Link from the list. The
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Scan the QR codes
@@ -93,7 +89,7 @@ The Phone Link welcome screen should appear on your PC and ask if you want to op
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9hsPbiic0O8?si=58mZ2Cu6wicQfsUP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l-SCWTWpegY?si=oxTsHQkIu1v4-I6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 5\. Access your recent messages
@@ -101,10 +97,6 @@ Screenshot by Lance Whitney/ZDNET
 To access your iPhone's text messages in Phone Link, tap the Messages heading at the top. You should see any recent messages sent to you since Phone Link has been active. If there are any, type a response to a message and send it. You can then carry on a conversation from either your iPhone or your PC, and the two will sync with each other.
 
 Screenshot by Lance Whitney/ZDNET
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 6\. Start a new chat
 
@@ -134,15 +126,15 @@ At the next screen on your phone, tap the button for "Scan QR code." Scan the co
 
 Screenshot by Lance Whitney/ZDNET
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 3\. Launch the Windows Unison app
 
 At the "Let's get started" screen in the Windows Unison app, click the icon for "Send messages." 
 
 Screenshot by Lance Whitney/ZDNET
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oB9V7rZzotw?si=d4xrCbq1jKHXGAWN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  4\. Go to the Messages screen
 
@@ -150,11 +142,19 @@ At the Messages screen, click the icon for "Compose a new message." Choose the r
 
 Screenshot by Lance Whitney/ZDNET
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UUPt2zKtJ5k?si=LLHdsFDLzVByJsKj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 5\. Send a message
 
 Compose and send your message. Wait for the other person to respond. You can then carry on a conversation in the Windows Unison app or in iMessages on your iPhone as the texts sync between the two apps.
 
 Screenshot by Lance Whitney/ZDNET
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 6\. Receive a message
 
@@ -192,20 +192,18 @@ Screenshot by Lance Whitney/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-videos.techidaily.com/new-2024-approved-optimizing-fb-techniques-for-shooting-and-posting-360-vids/"><u>[New] 2024 Approved Optimizing FB Techniques for Shooting & Posting 360 Vids</u></a></li>
-<li><a href="https://tiktok-clips.techidaily.com/new-unveiling-the-power-of-consistency-in-your-tiktok-clone-journey/"><u>[New] Unveiling the Power of Consistency in Your TikTok Clone Journey</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-step-by-step-guide-for-cutting-edge-editing-in-gopro-studio/"><u>[Updated] Step-by-Step Guide for Cutting-Edge Editing in GoPro Studio</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-the-science-behind-the-best-sized-videos-for-your-instagram-story-for-2024/"><u>[Updated] The Science Behind the Best-Sized Videos for Your Instagram Story for 2024</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/advancing-well-being-with-facebook-campaign-insights-for-2024/"><u>Advancing Well-Being with Facebook Campaign Insights for 2024</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/breaking-free-from-constraints-heres-why-chatgpt-jailbreaking-attempts-are-often-unsuccessful/"><u>Breaking Free From Constraints? Here's Why ChatGPT Jailbreaking Attempts Are Often Unsuccessful</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-unlock-your-realme-gt-3s-potential-the-top-20-lock-screen-apps-you-need-to-try-by-drfone-android/"><u>In 2024, Unlock Your Realme GT 3s Potential The Top 20 Lock Screen Apps You Need to Try</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/in-2024-unpublished-photography-scrutiny-and-complementary-selections/"><u>In 2024, Unpublished Photography Scrutiny & Complementary Selections</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/integrating-chatgpt-into-your-cbt-practice-a-comprehensive-guide/"><u>Integrating ChatGPT Into Your CBT Practice: A Comprehensive Guide</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/protecting-yourself-from-deceptive-ai-malware-the-inside-scoop-on-9-fake-chatgpt-threats-to-data-security/"><u>Protecting Yourself From Deceptive AI Malware: The Inside Scoop on 9 Fake ChatGPT Threats to Data Security</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/revolutionizing-ai-evaluation-post-turing-paradigm-shift/"><u>Revolutionizing AI Evaluation Post-Turing Paradigm Shift</u></a></li>
-<li><a href="https://facebook.techidaily.com/rugby-unions-declare-media-blackout-protest/"><u>Rugby Unions Declare Media Blackout Protest</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/the-workplace-evolved-embracing-ai-for-personal-success/"><u>The Workplace Evolved: Embracing AI for Personal Success</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/transform-how-you-use-google-with-perplexity-the-leading-edge-of-ai-in-search-tools-not-being-utilized-by-most-users/"><u>Transform How You Use Google with Perplexity – The Leading Edge of AI in Search Tools Not Being Utilized by Most Users</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/utilizing-gpt-recognition-for-authenticity-verification/"><u>Utilizing GPT Recognition for Authenticity Verification</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/2024-approved-building-brand-presence-through-strategic-smm/"><u>2024 Approved Building Brand Presence Through Strategic SMM</u></a></li>
+<li><a href="https://discover-amazing.techidaily.com/dvdwindows10112/"><u>最新DVD編集技術ガイド：Windows10/11用の上位2つの編集プログラムを見てみよう</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/crafting-personalized-intelligent-agents-gpt-driven-chatgpt/"><u>Crafting Personalized Intelligent Agents: GPT-Driven ChatGPT</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/138596695-9781452538396-death-divinity/"><u>Death & Divinity... | Free Book</u></a></li>
+<li><a href="https://win-answers.techidaily.com/deathloop-freezing-issues-heres-how-you-can-get-smooth-playback-on-pcps5/"><u>Deathloop Freezing Issues? Here's How You Can Get Smooth Playback on PC/PS5</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/exploring-gpt-bot-and-its-impact-on-online-accessibility/"><u>Exploring GPT Bot & Its Impact on Online Accessibility</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/gpt-enhanced-document-and-pdf-chat-options/"><u>GPT-Enhanced Document & PDF Chat Options</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-fix-pivot-table-field-name-is-not-valid-error-in-excel-2019-by-stellar-guide/"><u>How to fix Pivot Table Field Name is not Valid error in Excel 2019?</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-transfer-whatsapp-from-iphone-6-plus-to-other-iphone-14-pro-max-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From iPhone 6 Plus to other iPhone 14 Pro Max devices? | Dr.fone</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/mastering-audio-on-windows-best-8-podcast-applications-unveiled-for-2024/"><u>Mastering Audio on Windows Best 8 Podcast Applications Unveiled for 2024</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/protect-data-prevent-scraper-hacking/"><u>Protect Data, Prevent Scraper Hacking</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/step-by-step-tutorial-on-cleaning-a-clicker-keep-it-germ-free/"><u>Step-by-Step Tutorial on Cleaning a Clicker - Keep It Germ-Free</u></a></li>
+<li><a href="https://some-skills.techidaily.com/ultimate-underwater-gopro-filter-setup-for-2024/"><u>Ultimate Underwater Gopro Filter Setup for 2024</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Score Your New 2Nd Gen Apple Pencil for Just 95 Dollars! Exclusive Labor Day Offer | CNET Gadgets Deals
-date: 2024-12-25T01:03:35.457Z
-updated: 2024-12-27T22:29:15.484Z
+date: 2025-01-05T18:39:30.091Z
+updated: 2025-01-06T21:59:47.128Z
 tags:
   - apple
 categories:
@@ -34,7 +34,7 @@ By using the Apple Pencil with your iPad (specifically, the iPad Pro 2022 model)
 Get the [Apple Pencil (2nd Gen)](https://goto.walmart.com/c/5597632/565706/9383?sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.walmart.com%2Fip%2FApple-Pencil-2nd-Generation-Pixel-Perfect-Precision-Industry-Leading-Low-Latency-Perfect-Note-Taking-Drawing-Signing-documents-Attaches-Charges-Pairs%2F949679706&subId1=zd-__COM_CLICK_ID__-dtp) with $35 in savings right now if you want to upgrade your iPad stylus. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aG3NRuHrIJg?si=HwzwD0RXmrzIXX1V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## When will this deal expire?
@@ -71,20 +71,22 @@ Deals are subject to sell-out or expire at any time, though ZDNET remains commit
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-best-4-choices-unhackable-video-meetings-for-small-firms-for-2024/"><u>[New] Best 4 Choices Unhackable Video Meetings for Small Firms for 2024</u></a></li>
-<li><a href="https://fox-access.techidaily.com/new-selecting-prime-meme-blueprints-for-2024/"><u>[New] Selecting Prime Meme Blueprints for 2024</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/ed-2024-approved-50-free-youtube-banners-come-see-them-all/"><u>[Updated] 2024 Approved 50 FREE YouTube Banners - Come See Them All!</u></a></li>
-<li><a href="https://article-files.techidaily.com/updated-hidden-whatsapp-gems-top-tricks-to-enhance-your-messaging-experience-for-2024/"><u>[Updated] Hidden WhatsApp Gems Top Tricks to Enhance Your Messaging Experience for 2024</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/chatgpt-for-the-modern-freelancer-six-key-techniques-for-successful-remote-collaboration/"><u>ChatGPT for the Modern Freelancer: Six Key Techniques for Successful Remote Collaboration</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/customize-your-own-gpt-variant-with-the-new-features-in-chatgpts-latest-update/"><u>Customize Your Own GPT Variant with the New Features in ChatGPT's Latest Update</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/how-to-check-if-your-tecno-spark-20-proplus-is-unlocked-by-drfone-android/"><u>How To Check if Your Tecno Spark 20 Pro+ Is Unlocked</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-make-a-digital-signature-for-svd-file-by-ldigisigner-sign-a-word-sign-a-word/"><u>How to make a digital signature for .svd file</u></a></li>
-<li><a href="https://ai-live-streaming.techidaily.com/live-shopping-in-china-major-changes-in-the-industry/"><u>Live Shopping in China Major Changes in the Industry</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/mastering-home-networks-with-the-intelligent-technology-of-the-linksys-ea9500-high-performance-router/"><u>Mastering Home Networks with the Intelligent Technology of the Linksys EA9500 High-Performance Router</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/perfect-prompt-engineering-made-easy-top-7-web-based-tools/"><u>Perfect Prompt Engineering Made Easy: Top 7 Web-Based Tools</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/safeguard-your-info-exiting-chatgpts-service/"><u>Safeguard Your Info - Exiting ChatGPT's Service</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/techniques-to-exceed-gpts-textual-boundary/"><u>Techniques to Exceed GPT's Textual Boundary</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/the-dawn-of-machine-minds-unveiling-the-early-days-of-ai/"><u>The Dawn of Machine Minds: Unveiling the Early Days of AI</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/the-hidden-hazards-of-leveraging-ai-for-windows-codes/"><u>The Hidden Hazards of Leveraging AI for Windows Codes</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-2024-approved-elevate-your-video-editing-skills-with-kinemaster-and-10-leading-alternatives/"><u>[New] 2024 Approved Elevate Your Video Editing Skills with KineMaster & 10 Leading Alternatives</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-top-15-seamless-instagram-downloaders-uncovered/"><u>[New] Top 15 Seamless Instagram Downloaders Uncovered</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/5-ways-to-track-samsung-galaxy-s23-ultra-without-app-drfone-by-drfone-virtual-android/"><u>5 Ways to Track Samsung Galaxy S23 Ultra without App | Dr.fone</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/corsair-void-mic-troubles-effective-solutions-and-fixes/"><u>Corsair Void Mic Troubles: Effective Solutions and Fixes</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/cross-language-communication-with-chatgpt-tips-and-tricks-for-a-global-experience/"><u>Cross-Language Communication with ChatGPT: Tips and Tricks for a Global Experience</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/deciding-on-top-notch-chatbots-an-in-depth-comparison-of-chatgpt-plus-and-perplexity/"><u>Deciding on Top-Notch Chatbots: An In-Depth Comparison of ChatGPT Plus and Perplexity</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/easy-travel-organization-at-your-fingertps-check-out-these-7-free-ai-itinerary-generators/"><u>Easy Travel Organization at Your Fingertps: Check Out These 7 Free AI Itinerary Generators</u></a></li>
+<li><a href="https://discover-great.techidaily.com/effizientes-klonen-von-crucial-ssds-auf-windows-10-losungen-und-tipps/"><u>Effizientes Klonen Von Crucial SSDs Auf Windows 10 - Lösungen Und Tipps</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/elevate-writing-productivity-leveraging-hix-and-gpt-4-technologies-for-automation/"><u>Elevate Writing Productivity: Leveraging HIX and GPT- 4 Technologies for Automation</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/1036966-9780962929557-emotional-clearing/"><u>Emotional Clearing | Free Book</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/get-started-with-open-source-gpt-4-companion-for-zero-costs-on-windows-systems/"><u>Get Started with Open Source GPT-4 Companion for Zero Costs on Windows Systems</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-lens-legends-cutting-edge-camera-choices-1-10/"><u>In 2024, Lens Legends Cutting-Edge Camera Choices #1-10</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/movavi-online-free-file-converter-compatible-with-all-formats/"><u>Movavi Online Free File Converter - Compatible with All Formats</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/navigating-digital-truths-and-lies-how-chatgpt-4-is-revolutionizing-conversations-online/"><u>Navigating Digital Truths and Lies: How ChatGPT-4 Is Revolutionizing Conversations Online</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-future-in-your-pocket-tecnos-latest-unveiling/"><u>The Future in Your Pocket: Tecno’s Latest Unveiling</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/top-10-substitutes-for-chatgpt-enhancing-your-ai-experience/"><u>Top 10 Substitutes for ChatGPT: Enhancing Your AI Experience</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/top-6-unreliable-chatgpt-add-ons-save-yourself-the-hassle/"><u>Top 6 Unreliable ChatGPT Add-Ons: Save Yourself the Hassle</u></a></li>
 </ul></div>
 

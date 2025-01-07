@@ -1,7 +1,7 @@
 ---
 title: "Favorite Phones Spotlighted: The Top Handsets Chosen by ZDNet's Tech Experts"
-date: 2024-11-30T17:57:51.694Z
-updated: 2024-12-07T17:22:06.825Z
+date: 2025-01-03T22:39:16.058Z
+updated: 2025-01-06T21:19:20.506Z
 tags:
   - apple
 categories:
@@ -17,10 +17,6 @@ Curious about the favorite devices and phone buying habits of _ZDNet's_ tech rep
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### **ZDNET** Recommends
 
@@ -53,7 +49,7 @@ Cons
 ## iPhone 12 Pro
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UoBCgLTmznE?si=MXXiGsd2qpd_DrzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Jason Cipriani and Simon Bisson
@@ -114,10 +110,6 @@ Show Expert Take Show less
 
 ## iPhone SE (2020)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Greg Nichols, Aimee Chanthadavong, and David Grober
 
 **Greg Nichols:** I'm stuck in the Apple ecosystem, for better or worse. Mostly for better, and the combo of an aging but reliable MacBook Pro and my humble iPhone SE, a replacement for my last SE (the original!) is really all the computing power I need for reporting and running an on-the-go mobile office from a [sailboat](https://www.zdnet.com/article/sailboat-life-living-and-working-on-the-high-seas-with-kids/) (my usual digs) or the small travel trailer my family and I are currently loping through the Southwest with. For a tech reporter, I guess I'm unusually skeptical about the latest and greatest, and the SE is the best budget phone I can imagine and more than enough for staying connected, posting stories, and taking goofy videos of my kids.
@@ -146,10 +138,6 @@ Cons
 
 ## iPhone 12
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3C51hzX46eY?si=o5qiDSkT7mXUGm3F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Chris Matyszczyk
 
 **Chris Matyszczyk:** My XR became heavy and cumbersome. It had begun to fade. I saw the 12's blue color and thought it might be fetching. And then an Apple store employee took the time to talk me into the 12, just when I was at my weakest.
@@ -166,7 +154,15 @@ Pros
 Cons 
 * Fast performance New camera features Strong battery life
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## iPhone 11 Pro
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Ed Bott
 
@@ -175,10 +171,6 @@ Cons
 **Next phone or dream phone?** Next year I'll probably get an iPhone 12 Pro, gently used, courtesy of some obsessive Apple upgrader who will trade it in shortly after its successor comes out. I do like the camera improvements Apple made in the 12 series, but I'm not tied to Apple's ecosystem in any serious way so maybe I'll get a new Samsung instead.
 
 Show Expert Take Show less 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Ulefone Armor 9
 
@@ -196,11 +188,11 @@ Pros
 Cons 
 * Strong battery life Good performance More affordable
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Google Pixel 2
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/epKTCSREjhI?si=Ez_hObK1FZrmEE7f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Tony Baer
 
@@ -216,11 +208,11 @@ Show less
 
 [View now at Huawei P40 Pro](https://consumer.huawei.com/en/phones/p40-pro/)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Huawei P20 Pro
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Federico Guerrini
 
@@ -260,7 +252,15 @@ Show Expert Take Show less
 
 ###   
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HSFNIAYChbA?si=4TIlsUrYmY5vP2il" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ###   
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## iPhone X
 
@@ -313,13 +313,13 @@ Purchased in 2016, I've had no reason to upgrade in four years. The thing does a
 **Next phone or dream phone?** I have no idea. I get overwhelmed by the amount of choice. It'll be an iPhone I guess. I'm used to them.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Lumia 1520
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HaM818fFKXQ?si=ZZLA4lFSHSgCpSE0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Mary Branscombe
@@ -332,10 +332,6 @@ Show less
 
 ## Samsung Galaxy Note 8
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Charles McLellan
 
 I've been using Samsung's Note 8 for several years now, despite having seen all manner of new and improved flagship phones flow through the reviews system during this period. It's got an excellent 6.3-inch AMOLED display, a 3.5mm headphone slot, MicroSD storage to complement the 64GB on-board, two 12MP cameras at the back, plus an S Pen stylus and IP68 dust/water resistance. It's tough, too: I've broken plenty of phones before, but the Note 8 has survived the longest. Probably reaching the end of the road now, though.
@@ -343,6 +339,10 @@ I've been using Samsung's Note 8 for several years now, despite having seen all 
 **Next phone or dream phone?** A 2021 flagship-class phone with an integrated thermal camera. A thermal camera is a great tool for jobs around the house/office and for seeking out wildlife after dark
 
 Show Expert Take Show less 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ###   
 
@@ -376,24 +376,22 @@ Show Expert Take Show less
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-recording.techidaily.com/updated-in-2024-facebooks-fabulous-video-showcase/"><u>[Updated] In 2024, Facebook's Fabulous Video Showcase</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/updated-in-2024-unleash-the-content-free-movie-player-windowsmac/"><u>[Updated] In 2024, Unleash the Content FREE MOVIE PLAYER (Windows/Mac)</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/approved-top-10-youtube-shorts-video-editing-apps-for-ios-and-android/"><u>2024 Approved Top 10 YouTube Shorts Video Editing Apps for iOS and Android</u></a></li>
-<li><a href="https://howto.techidaily.com/9-solutions-to-fix-vivo-y78t-system-crash-issue-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>9 Solutions to Fix Vivo Y78t System Crash Issue | Dr.fone</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/chatgpt-and-originality-concerns-a-deep-dive-into-its-content-creation/"><u>ChatGPT and Originality Concerns: A Deep Dive Into Its Content Creation</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/emojis-as-a-tool-for-financial-insight-navigating-risks-post-activision-hack-and-chatgpts-job-disruption-potential/"><u>Emojis as a Tool for Financial Insight: Navigating Risks Post-Activision Hack and ChatGPT’s Job Disruption Potential</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/e-with-these-top-10-student-oriented-history-channels/"><u>Engage with These Top 10 Student-Oriented History Channels</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/exploring-distinctions-a-deep-dive-into-gpt-4-versus-gpt-4-turbo-vs-phi/"><u>Exploring Distinctions: A Deep Dive Into GPT-4 Versus GPT-4 Turbo Vs. Phi</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/free-canon-printer-mf743cdw-drivers-and-software-compatible-with-windows-systems/"><u>Free Canon Printer MF743CDW Drivers & Software Compatible with Windows Systems</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/google-unveils-bard-the-advanced-ai-system-competing-with-microsofts-chatgpt/"><u>Google Unveils Bard - The Advanced AI System Competing with Microsoft's ChatGPT</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/how-to-run-a-sports-youtube-chain-on-macos/"><u>How to Run a Sports YouTube Chain on MacOS</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/in-2024-dreaming-through-the-viewfinder-inspiring-photo-ideas/"><u>In 2024, Dreaming Through the Viewfinder Inspiring Photo Ideas</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/in-2024-streamline-your-podcasts-effective-editing-tips-for-garageband-users/"><u>In 2024, Streamline Your Podcasts Effective Editing Tips for GarageBand Users</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/new-ai-contender-is-gemini-superior-to-chatgpt/"><u>New AI Contender: Is Gemini Superior to ChatGPT?</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/openais-head-honcho-demands-tighter-control-over-artificnial-intelligence-why/"><u>OpenAI's Head Honcho Demands Tighter Control Over Artificnial Intelligence - Why?</u></a></li>
-<li><a href="https://facebook.techidaily.com/overcoming-facebooks-inaccessible-profile-issue/"><u>Overcoming Facebook's Inaccessible Profile Issue</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/scrutinizing-codegpt-artificial-intelligence-and-programming/"><u>Scrutinizing CodeGPT: Artificial Intelligence and Programming</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/the-controversy-unveiled-how-openai-meta-and-stars-like-sarah-silverman-clash-over-ai-rights/"><u>The Controversy Unveiled: How OpenAI, Meta, and Stars Like Sarah Silverman Clash Over AI Rights</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/unlocking-serenity-a-guide-to-reducing-anxiety-via-chatgpt/"><u>Unlocking Serenity: A Guide to Reducing Anxiety via ChatGPT</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/new-2024-approved-mastering-text-in-visuals-the-top-5-tips-for-tiktok-captions/"><u>[New] 2024 Approved Mastering Text in Visuals The Top 5 Tips for TikTok Captions</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-in-2024-quick-click-quality-4-simple-steps-to-take-a-chromebook-screenshot/"><u>[Updated] In 2024, Quick Click Quality 4 Simple Steps to Take a Chromebook Screenshot</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-smartest-top-10-free-image-platforms-for-endless-memories/"><u>[Updated] Smartest Top 10 Free Image Platforms for Endless Memories</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/avoid-the-trap-steering-clear-of-6-major-mistakes-with-chatgpt-prompt-creation/"><u>Avoid the Trap: Steering Clear of 6 Major Mistakes with ChatGPT Prompt Creation</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/best-alternatives-to-chatgpt-discover-the-top-7-automatic-coding-platforms/"><u>Best Alternatives to ChatGPT: Discover the Top 7 Automatic Coding Platforms</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/best-anti-tracker-software-for-nokia-130-music-drfone-by-drfone-virtual-android/"><u>Best Anti Tracker Software For Nokia 130 Music | Dr.fone</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/building-your-own-chatai-with-gpt-foundations/"><u>Building Your Own ChatAI with GPT Foundations</u></a></li>
+<li><a href="https://win-premium.techidaily.com/easy-strategies-capturing-and-saving-telegram-video-calls-successfully/"><u>Easy Strategies: Capturing and Saving Telegram Video Calls Successfully</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/24-rethink-your-favorite-films-top-7-replacements/"><u>In 2024, Rethink Your Favorite Films - Top 7 Replacements</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/integrate-smartly-chatgpt-and-its-plugins-guide/"><u>Integrate Smartly: ChatGPT and Its Plugins Guide</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/polyglot-power-expert-techniques-for-operating-chatgpt-in-non-english-languages/"><u>Polyglot Power: Expert Techniques for Operating ChatGPT in Non-English Languages</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/revolutionizing-presentations-7-leading-ai-innovators/"><u>Revolutionizing Presentations: 7 Leading AI Innovators</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/speech-clarity-achieved-by-googles-advanced-conversion/"><u>Speech Clarity Achieved by Google's Advanced Conversion</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/streamline-your-podcasts-effective-editing-tips-for-garageband-users/"><u>Streamline Your Podcasts Effective Editing Tips for GarageBand Users</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/top-7-leading-platforms-for-buying-and-selling-ai-generated-content/"><u>Top 7 Leading Platforms for Buying and Selling AI-Generated Content</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/unlock-the-power-of-numbers-the-ultimate-7-ai-assistants-for-tackling-math-challenges/"><u>Unlock the Power of Numbers: The Ultimate 7 AI Assistants for Tackling Math Challenges</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/unveiling-the-practicality-of-chatgpt-with-these-amazing-7-applications/"><u>Unveiling the Practicality of ChatGPT with These Amazing 7 Applications</u></a></li>
 </ul></div>
 

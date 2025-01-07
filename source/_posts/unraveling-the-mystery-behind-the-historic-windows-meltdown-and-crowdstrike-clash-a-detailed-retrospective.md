@@ -1,7 +1,7 @@
 ---
 title: Unraveling the Mystery Behind the Historic Windows Meltdown and CrowdStrike Clash - A Detailed Retrospective
-date: 2024-10-20T17:45:45.407Z
-updated: 2024-10-27T16:23:13.377Z
+date: 2025-01-03T16:12:56.902Z
+updated: 2025-01-07T03:55:58.621Z
 tags:
   - apple
 categories:
@@ -32,6 +32,10 @@ In this case, the trusted software developer is a firm called CrowdStrike Holdin
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What happened?
 
 CrowdStrike, which sells security software designed to keep systems safe from external attacks, pushed a faulty ["sensor configuration update"](https://www.crowdstrike.com/blog/falcon-update-for-windows-hosts-technical-details/) to the millions of PCs worldwide running its Falcon Sensor software. That update was, according to CrowdStrike, a "Channel File" whose function was to identify newly observed, malicious activity by cyberattackers.
@@ -51,16 +55,7 @@ Repairing the damage from a flaw like this is a painfully tedious process that r
 If you know anyone whose job involves administering Windows PCs in a corporate network that uses the CrowdStrike code, you can be confident they are very busy right now, and will be for days to come.
 
 <!-- affiliate ads begin -->
-<span id="1938136">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1938136.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1938136">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1938136.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1938136%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1938136/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tkpBmccvJ_Q?si=J7ellPL1G1l8Axi_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## We've seen this movie before
@@ -100,10 +95,7 @@ In the You Can't Make This Up Department… CrowdStrike's founder and CEO, Georg
 What makes the 2024 sequel so much worse is that it also affected Windows-based servers running in the cloud, on Microsoft Azure and on AWS. Just as with the many laptops and desktop PCs that were bricked by this faulty update, the cloud-based servers require time-consuming manual interventions to recover.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130891/7443" target="_top" id="2130891">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130891" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130891/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## CrowdStrike's QA failed
@@ -133,10 +125,7 @@ As part of its initial response, CrowdStrike says it plans to take additional me
 Meanwhile, the United States House of Representatives Homeland Security Committee plans to call CrowdStrike's CEO up for hearings on what went wrong, and CrowdStrike's Chief Security Officer, Shawn Henry, [posted an apology on LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:7220983915421806592/), admitting "On Friday, we failed you. ... The confidence we built in drips over the years was lost in buckets within hours, and it was a gut punch."
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/857869/11832" target="_top" id="857869">
-  <img src="//a.impactradius-go.com/display-ad/11832-857869" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/857869/11832" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How much fault should Microsoft shoulder?
@@ -187,21 +176,24 @@ Nonetheless, this incident, which caused many billions of dollars' worth of dama
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-how-to-direct-encouraging-content-for-daily-living-vids/"><u>[New] 2024 Approved How to Direct Encouraging Content for Daily Living Vids</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/new-2024-approved-the-definitive-io-screen-recorder-guidebook/"><u>[New] 2024 Approved The Definitive IO Screen Recorder Guidebook</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/n-2024-essential-insights-for-crafting-youtube-intros-aplusb-methods/"><u>[New] In 2024, Essential Insights for Crafting YouTube Intros A+B Methods</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/new-understanding-and-utilizing-igtv-for-enhanced-engagement/"><u>[New] Understanding and Utilizing IGTV for Enhanced Engagement</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/athletic-advocates-mastering-machine-dialogue/"><u>Athletic Advocates, Mastering Machine Dialogue</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/cyber-seance-how-to-tell-if-youre-chatting-with-a-ghost-or-just-hacked-by-someone-nasty/"><u>Cyber Séance: How to Tell if You're Chatting With a Ghost or Just Hacked by Someone Nasty</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/discovering-how-ios-changes-your-gpt-game/"><u>Discovering How iOS Changes Your GPT Game</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/exploring-accessibility-who-qualifies-for-nvidias-advanced-ai-foundations-services/"><u>Exploring Accessibility: Who Qualifies for NVIDIA's Advanced AI Foundations Services?</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/how-to-resolve-windows-unable-to-find-printer-driver-issue/"><u>How To Resolve 'Windows Unable To Find Printer Driver' Issue</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/in-2024-harness-the-power-of-hashtags-in-instagram-marketing-strategies/"><u>In 2024, Harness the Power of Hashtags in Instagram Marketing Strategies</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/maximizing-your-workouts-with-smart-chatgpt-prompt-techniques-tips-for-health-enthusiasts/"><u>Maximizing Your Workouts with Smart ChatGPT Prompt Techniques - Tips for Health Enthusiasts</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/optimizing-chatgpt-with-new-plugins/"><u>Optimizing ChatGPT with New Plugins</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/overcoming-the-fear-of-artificnial-intelligence-in-education-discover-8-compelling-reasons-why-teachers-should-adapt-to-it/"><u>Overcoming the Fear of Artificnial Intelligence in Education - Discover 8 Compelling Reasons Why Teachers Should Adapt to It</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/step-by-step-tutorial-integrating-chatgpt-into-linux-using-the-bavarder-tool/"><u>Step-by-Step Tutorial: Integrating ChatGPT Into Linux Using the Bavarder Tool</u></a></li>
-<li><a href="https://os-tips.techidaily.com/understanding-airplay-technology-a-comprehensive-guide/"><u>Understanding AirPlay Technology: A Comprehensive Guide</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/updated-free-green-screen-software-for-mobile-top-picks-for-android-and-ios/"><u>Updated Free Green Screen Software for Mobile Top Picks for Android and iOS</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-avoiding-common-pitfalls-in-rl-gameplay-recordings-for-2024/"><u>[New] Avoiding Common Pitfalls in RL Gameplay Recordings for 2024</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/imple-steps-making-your-channels-subscription-button-stand-out-for-2024/"><u>[New] Simple Steps Making Your Channel's Subscription Button Stand Out for 2024</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/easy-installation-guide-downloading-the-latest-samsung-printer-drivers-for-windows/"><u>Easy Installation Guide: Downloading the Latest Samsung Printer Drivers for Windows</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/gpt-series-showdown-unveiling-the-distinctive-features-of-gpt-4-gpt-turbo-and-gpt-x-variants/"><u>GPT-Series Showdown: Unveiling the Distinctive Features of GPT-4, GPT-Turbo & GPT-X Variants</u></a></li>
+<li><a href="https://fox-links.techidaily.com/in-2024-capture-vision-add-movie-maker-to-your-win11-media-suite/"><u>In 2024, Capture Vision Add Movie Maker to Your Win11 Media Suite</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-top-imei-unlokers-for-your-infinix-hot-40i-phone-by-drfone-android/"><u>In 2024, Top IMEI Unlokers for Your Infinix Hot 40i Phone</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/mastering-gif-magic-tips-and-tricks-for-creating-captivating-3d-image-rotations/"><u>Mastering GIF Magic: Tips and Tricks for Creating Captivating 3D Image Rotations</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/microsofts-bing-ai-head-to-head-with-chatgpt-understanding-the-10-key-differences/"><u>Microsoft's Bing AI Head-to-Head with ChatGPT: Understanding the 10 Key Differences</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/per-view-value-to-youtube-star-economy-for-2024/"><u>Per-View Value to YouTube Star Economy for 2024</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/places-near-me/"><u>Places Near Me</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/running-chatgpt-with-windows-sdk/"><u>Running ChatGPT with Windows SDK</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/sequential-watchlist-experience-the-legendary-bond-journey/"><u>Sequential Watchlist: Experience the Legendary Bond Journey</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/step-by-step-instructions-harnessing-the-power-of-openais-exclusive-gpt-platform-today/"><u>Step-by-Step Instructions: Harnessing the Power of OpenAI's Exclusive GPT Platform Today</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/step-by-step-tutorial-on-installing-the-latest-kindle-paperwhite-firmware/"><u>Step-by-Step Tutorial on Installing the Latest Kindle Paperwhite Firmware</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/tech-savvy-signups-how-to-join-chatgpt-whatsapp-and-more-with-alternative-verification-methods/"><u>Tech-Savvy Signups: How to Join ChatGPT, WhatsApp and More with Alternative Verification Methods</u></a></li>
+<li><a href="https://techidaily.com/unveiling-the-concept-of-wrapped-bitcoin-exploring-what-is-wbtc/"><u>Unveiling the Concept of Wrapped Bitcoin: Exploring What Is WBTC?</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/videobreuk-afgebroken-professioneel-video-korting-techniek-met-movavi/"><u>Videobreuk Afgebroken: Professioneel Video Korting Techniek Met Movavi</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/worth-every-penny-why-you-should-consider-upgrading-to-chatgpt-plus/"><u>Worth Every Penny: Why You Should Consider Upgrading to ChatGPT Plus</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/write-smarter-not-harder-revolutionize-your-content-creation-with-hix-ai-powered-by-gpt-4/"><u>Write Smarter, Not Harder: Revolutionize Your Content Creation with HIX AI Powered by GPT-4</u></a></li>
 </ul></div>
 

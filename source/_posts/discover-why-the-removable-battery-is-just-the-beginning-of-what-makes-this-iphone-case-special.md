@@ -1,7 +1,7 @@
 ---
 title: Discover Why the Removable Battery Is Just the Beginning of What Makes This iPhone Case Special
-date: 2024-12-24T01:28:48.320Z
-updated: 2024-12-27T23:01:31.385Z
+date: 2024-12-31T16:01:53.778Z
+updated: 2025-01-07T00:54:56.291Z
 tags:
   - apple
 categories:
@@ -21,7 +21,7 @@ Matthew Miller/ZDNET
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/omWG4u39lmE?si=yk1AEo_gzDpGjYbl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ###  ZDNET's key takeaways
@@ -84,7 +84,7 @@ My biggest challenge now is memorizing all the shortcuts I've created, but the a
 Clicks is available for the two iPhone 14 Pro models and all four models of the iPhone 15\. Availability of the various colors varies, so check back on the website if you don't see the one you want. I would love to hear which shortcuts you created and find the most useful, so leave a comment below.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  ZDNET's buying advice
@@ -123,21 +123,20 @@ If you miss the physical keyboard on devices like the Blackberry, this accessory
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://tiktok-clips.techidaily.com/new-2024-approved-recovering-from-a-mistaken-tiktok-reload/"><u>[New] 2024 Approved Recovering From a Mistaken TikTok Reload</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/new-in-2024-break-free-from-discord-support/"><u>[New] In 2024, Break Free From Discord Support</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/new-uncovering-all-shared-visuals-in-a-message-thread-for-2024/"><u>[New] Uncovering All Shared Visuals in a Message Thread for 2024</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/achieve-excellence-in-fb-video-marketing-essential-free-kit-included-for-2024/"><u>Achieve Excellence in FB Video Marketing - Essential FREE Kit Included for 2024</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/1723808211669-discover-the-top-10-game-torrents-your-guide-to-free-downloads/"><u>Discover the Top 10 Game Torrents: Your Guide to Free Downloads.</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/discover-the-ultimate-travel-gadget-qi2-supported-magsafe-charger-my-latest-must-have-tech-find/"><u>Discover the Ultimate Travel Gadget: Qi2 Supported MagSafe Charger, My Latest Must-Have Tech Find</u></a></li>
-<li><a href="https://win11.techidaily.com/essential-tips-to-rescue-deskanywhere-on-win11/"><u>Essential Tips to Rescue DeskAnywhere on Win11</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/navigating-through-facebook-gif-downloads-across-platforms/"><u>Navigating Through Facebook GIF Downloads Across Platforms</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/1624939-9781444181739-peacefulness-teach-yourself/"><u>Peacefulness: Teach Yourself | Free Book</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/1723808309818-save-big-claim-your-20-off-deal-using-the-official-driver-easy-coupon-start-now/"><u>Save Big: Claim Your 20% Off Deal Using the Official Driver Easy Coupon - Start Now</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/1723808304828-skype-cant-connect-5-ways-to-fix-on-windows-11-easily/"><u>Skype Can't Connect: 5 Ways to Fix on Windows 11 Easily</u></a></li>
-<li><a href="https://media-tips.techidaily.com/top-strategies-for-flawless-conversion-of-audio-files-into-mp3wma-format-without-quality-loss/"><u>Top Strategies for Flawless Conversion of Audio Files Into MP3/WMA Format Without Quality Loss</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/understanding-the-role-of-video-cards-in-computing-an-insightful-guide/"><u>Understanding the Role of Video Cards in Computing: An Insightful Guide</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/unlocking-windows-11-a-simple-guide-to-removing-your-pcs-password/"><u>Unlocking Windows 11: A Simple Guide to Removing Your PC's Password</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/what-is-vpn-tunnel-common-types-of-vpn-tunneling-protocol/"><u>What Is VPN Tunnel: Common Types of VPN Tunneling Protocol</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/windows-11-settings-wont-open-solved/"><u>Windows 11 Settings Won't Open ? [Solved]</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-a-compreayers-guide-to-selecting-a-top-4k-lens-for-2024/"><u>[Updated] A Compreayer's Guide to Selecting a Top 4K Lens for 2024</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/2024-approved-delving-into-vlc-screenshot-technology/"><u>2024 Approved Delving Into VLC Screenshot Technology</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210676438-9781639854042-a-guiding-light-to-the-future/"><u>A Guiding Light To The Future | Free Book</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/avoiding-chatgpt-impostors-tips-for-recognizing-authentic-versions-in-the-app-store/"><u>Avoiding ChatGPT Impostors: Tips for Recognizing Authentic Versions in the App Store</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/coding-aide-comparison-github-copilot-and-chatgpt-face-off/"><u>Coding Aide Comparison: GitHub Copilot and ChatGPT Face-Off</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/discover-chatgpts-funniest-and-funnier-games/"><u>Discover ChatGPT's Funniest & Funnier Games</u></a></li>
+<li><a href="https://common-error.techidaily.com/exploring-ways-to-fix-windows-10-sfc-and-dism-tools-unveiled/"><u>Exploring Ways to Fix Windows 10: SFC and DISM Tools Unveiled</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/how-to-identify-and-respond-if-you-encounter-a-chatgpt-phishing-scheme-online/"><u>How To Identify And Respond If You Encounter A ChatGPT Phishing Scheme Online</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-9-best-free-android-monitoring-apps-to-monitor-phone-remotely-for-your-motorola-razr-40-drfone-by-drfone-virtual/"><u>In 2024, 9 Best Free Android Monitoring Apps to Monitor Phone Remotely For your Motorola Razr 40 | Dr.fone</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-innovative-drone-designs-always-on-your-side/"><u>In 2024, Innovative Drone Designs Always on Your Side</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/inside-influence-a-peek-at-top-25-social-media-icons-on-insta-for-2024/"><u>Inside Influence A Peek at Top 25 Social Media Icons on Insta for 2024</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/navigating-the-use-of-ai-key-points-before-employing-chatgpt-in-therapy/"><u>Navigating the Use of AI: Key Points Before Employing ChatGPT in Therapy</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/separating-the-sincere-from-the-synthetic-in-machine-learning-outputs/"><u>Separating the Sincere From the Synthetic in Machine Learning Outputs</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/the-safety-of-conversing-with-ai-what-are-the-6-main-security-pitfalls-of-chatgpt/"><u>The Safety of Conversing with AI: What Are the 6 Main Security Pitfalls of ChatGPT?</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/truthgpt-coin-explained-myths-facts-and-potential-risks/"><u>TruthGPT Coin Explained - Myths, Facts, and Potential Risks</u></a></li>
 </ul></div>
 

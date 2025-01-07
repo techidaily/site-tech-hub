@@ -1,7 +1,7 @@
 ---
 title: Easy Guide to Activating Slack Alerts on Apple Watch - Tips
-date: 2024-12-21T18:44:06.211Z
-updated: 2024-12-28T07:43:20.141Z
+date: 2025-01-01T22:37:46.463Z
+updated: 2025-01-07T01:34:29.293Z
 tags:
   - apple
 categories:
@@ -44,12 +44,16 @@ Here's how.
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nWu29cqFjZA?si=TNZyCbPq68PQ0JIb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to enable Slack notifications on your Apple Watch
 
 **What you'll need:** Have the latest versions of iOS and watchOS installed on your iPhone and Apple Watch, respectively. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. Install the Slack app on your iPhone
@@ -61,10 +65,6 @@ Once it's installed, go ahead and log into your various Slack channels. Get thos
 ## 2\. Set up Slack notifications in the system settings
 
 Let's make sure iOS is set up to allow Slack notifications. Go to the main Settings app and on the main settings screen, scroll all the way down to Slack. It's a long scroll past many other apps. Tap into Slack.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##   
 
@@ -79,6 +79,10 @@ Screenshot by David Gewirtz/ZDNET
 ## 3\. Set up Slack notifications in the Slack app
 
 Next, open the Slack app. Tap your profile image in the upper right corner of the screen. Then tap Notifications.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jpdGEJJwMLY?si=eKgXOPpNeYvYKcel" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##   
 
@@ -97,10 +101,6 @@ Next, tap Notify Me on Mobile. This will give you a few options.
 Screenshot by David Gewirtz/ZDNET
 
 Set it to "Always, even when I'm active". That way, you'll always get notifications, no matter what you're doing (unless you have Do Not Disturb turned on).
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/omWG4u39lmE?si=yk1AEo_gzDpGjYbl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 4\. Set your notification schedule
 
@@ -122,13 +122,13 @@ So, make sure you set the Start and End times that fit with your schedule.
 
 Recommendation to Slack: Where you put the "Every day" option in that setting, add the times as well (e.g., "Every day 8 a.m. - 11 p.m."). That way, it's clear to users what they might need to change. 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 5\. Enable Slack notifications in the Watch app
 
 We're almost done configuring notifications. Open the Watch app and scroll down to Notifications. Then scroll down to Slack and make sure it's turned on.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RvR5PNhspKE?si=uJcMYK9v-_Xq7fAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##   
 
@@ -179,24 +179,22 @@ _You can follow my day-to-day project updates on social media. Be sure to subscr
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-sure.techidaily.com/024-approved-earnings-explorer-what-you-get-for-watching-one-million-videos/"><u>[New] 2024 Approved Earnings Explorer What You Get for Watching One Million Videos?</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/new-2024-approved-the-ultimate-route-from-obs-broadcast-to-fb-channels/"><u>[New] 2024 Approved The Ultimate Route From OBS Broadcast to FB Channels</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/new-mastering-image-uploads-on-instagram/"><u>[New] Mastering Image Uploads on Instagram</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/2024-approved-ecological-architecture-merging-nature-and-city-planning/"><u>2024 Approved Ecological Architecture Merging Nature and City Planning</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/fast-and-free-dailymotion-to-mp3-converter-online/"><u>Fast and Free Dailymotion to MP3 Converter Online</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/full-guide-to-catch-100-iv-pokemon-using-a-map-on-infinix-smart-8-pro-drfone-by-drfone-virtual-android/"><u>Full Guide to Catch 100 IV Pokémon Using a Map On Infinix Smart 8 Pro | Dr.fone</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/get-started-with-our-exclusive-no-cost-test-drive/"><u>Get Started with Our Exclusive No-Cost Test Drive</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/guide-dutilisation-comment-acceder-et-lire-les-ebooks-de-kindle-sur-ipad/"><u>Guide D'Utilisation: Comment Accéder Et Lire Les eBooks De Kindle Sur iPad</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/guide-converting-your-kindle-library-into-google-play-format-seamlessly/"><u>Guide: Converting Your Kindle Library Into Google Play Format Seamlessly</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/how-to-liberate-your-ebooks-steps-to-remove-digital-rights-management-from-barnes-and-noble-nook/"><u>How to Liberate Your Ebooks: Steps to Remove Digital Rights Management From Barnes & Noble NOOK</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/how-to-transfer-your-downloaded-ebook-collection-from-pc-to-nook-tablet/"><u>How to Transfer Your Downloaded eBook Collection From PC to Nook Tablet?</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/in-2024-revolutionary-q500-the-ultimate-4k-bird/"><u>In 2024, Revolutionary Q500 The Ultimate 4K Bird</u></a></li>
-<li><a href="https://discover-cloud.techidaily.com/losungsweg-wenn-ihre-festplatte-unerklarlich-leer-aussieht-ursachen-and-gegenmassnahmen/"><u>Lösungsweg: Wenn Ihre Festplatte Unerklärlich Leer Aussieht – Ursachen & Gegenmaßnahmen</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/mastering-adobe-epub-reading-on-your-mac-a-guide-to-utilizing-ibooks/"><u>Mastering Adobe ePub Reading on Your Mac: A Guide to Utilizing iBooks</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/mastering-the-move-a-complete-step-by-step-for-converting-epubs-onto-kobo-readers/"><u>Mastering the Move: A Complete Step-by-Step for Converting EPUBs Onto Kobo Readers</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/methods-for-integrating-multiple-ebooks-in-epub-format/"><u>Methods for Integrating Multiple eBooks in EPUB Format</u></a></li>
-<li><a href="https://win11.techidaily.com/microsoft-store-repair-correcting-error-0x00000000-in-windows-10/"><u>Microsoft Store Repair: Correcting Error 0X00000000 in Windows 10</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/revolutionize-your-publishing-with-ipublish-streamlined-online-publication-solutions/"><u>Revolutionize Your Publishing with IPublish: Streamlined Online Publication Solutions</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/whos-been-peeking-discover-how-to-monitor-who-views-your-google-doc-files/"><u>Who's Been Peeking? Discover How to Monitor Who Views Your Google Doc Files</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-gear-selection-guide-for-global-filmmakers/"><u>[New] Gear Selection Guide for Global Filmmakers</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/1716069133296-new-in-2024-essential-game-picks-ghost-of-tsushima-rival-edition/"><u>[New] In 2024, Essential Game Picks Ghost of Tsushima Rival Edition!</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-2024-approved-essence-of-tale-spinning-techniques/"><u>[Updated] 2024 Approved Essence of Tale-Spinning Techniques</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-in-2024-discover-top-10-cost-free-image-format-change-software/"><u>[Updated] In 2024, Discover Top 10 Cost-Free Image Format Change Software</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/2024-approved-essential-skills-for-exceptional-job-interviews/"><u>2024 Approved Essential Skills For Exceptional Job Interviews</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/easy-tutorial-on-transforming-your-videos-for-playback-on-apples-mobile-gadgets-ipadiphoneipod/"><u>Easy Tutorial on Transforming Your Videos for Playback on Apple's Mobile Gadgets (iPad/iPhone/iPod)</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/effortless-bulk-conversion-techniques-for-changing-3gp-videos-into-wmv-on-a-windows-pc/"><u>Effortless Bulk Conversion Techniques for Changing 3GP Videos Into WMV on a Windows PC</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/effortless-guide-transforming-movies-from-mov-to-avi-format-seamlessly/"><u>Effortless Guide: Transforming Movies From MOV to AVI Format Seamlessly</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/effortless-mp4-to-m4a-conversion-discover-three-easy-techniques/"><u>Effortless MP4 to M4A Conversion: Discover Three Easy Techniques</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/effortless-transformation-of-mov-videos-into-mp4-on-any-platform-pcmacweb/"><u>Effortless Transformation of MOV Videos Into MP4 on Any Platform (PC/Mac/Web)</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/effortlessly-correct-silent-avi-files-a-step-by-step-guide-for-restoring-sound/"><u>Effortlessly Correct Silent AVI Files: A Step-by-Step Guide for Restoring Sound</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/excel/"><u>Excel表示範囲の記録方法：操作手順ビデオガイド</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fixing-the-silent-streets-solving-cyberpunk-2077s-audio-issues-in-windows-10/"><u>Fixing the Silent Streets: Solving Cyberpunk 2077'S Audio Issues in Windows 10</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/flacmkv/"><u>FLAC形式でMKV動画からオーディオ抽出手順</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/in-2024-share-sensation-strategies-your-path-to-online-fame/"><u>In 2024, Share Sensation Strategies Your Path to Online Fame</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210707597-9780875169347-living-enlightened/"><u>Living Enlightened | Free Book</u></a></li>
+<li><a href="https://fake-location.techidaily.com/thinking-about-changing-your-netflix-region-without-a-vpn-on-oppo-a79-5g-drfone-by-drfone-virtual-android/"><u>Thinking About Changing Your Netflix Region Without a VPN On Oppo A79 5G? | Dr.fone</u></a></li>
 </ul></div>
 

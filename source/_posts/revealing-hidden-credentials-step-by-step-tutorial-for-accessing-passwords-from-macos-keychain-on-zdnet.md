@@ -1,7 +1,7 @@
 ---
 title: "Revealing Hidden Credentials: Step-by-Step Tutorial for Accessing Passwords From macOS Keychain on ZDNet"
-date: 2024-12-23T10:06:50.034Z
-updated: 2024-12-27T19:42:55.941Z
+date: 2025-01-05T21:41:35.912Z
+updated: 2025-01-06T17:34:30.485Z
 tags:
   - apple
 categories:
@@ -31,13 +31,13 @@ And that, Dear Reader, we will accomplish after much option-flicking, headset-we
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to watch Apple spatial videos on the Meta Quest 3
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### What you'll need to get started
@@ -57,7 +57,7 @@ In theory, you could get away with running the four provided sample spatial vide
 Now that you've gathered your prerequisites, let's move some videos. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KF793jv1LIc?si=fJOogQJ2f8JUfTzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Seriously, RTFM
@@ -97,7 +97,7 @@ As the Facebook poster and I both found out, when Meta says, "If you have an iPh
 Next, I tried it with my wife's iPhone 15 Pro Max. Things went better.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/djPqRkskaBo?si=O6FEI-KVW0HwN417" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Uploading spatial videos from your iPhone
@@ -115,7 +115,7 @@ Once I tapped upload, the images were processed and presumably converted for use
 In any case, it worked. Within a few minutes, the videos were on my Meta Quest 3\. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Playing spatial videos on the Meta Quest 3
@@ -186,24 +186,20 @@ _You can follow my day-to-day project updates on social media. Be sure to subscr
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-files.techidaily.com/new-2024-approved-rapid-growth-on-instagram-the-like-video-duo-power/"><u>[New] 2024 Approved Rapid Growth on Instagram The Like-Video Duo Power</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/updated-in-2024-streammasters-obs-edition/"><u>[Updated] In 2024, StreamMasters OBS Edition</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-the-ultimate-guide-to-efficient-mac-screenshotting-via-keyboard-for-2024/"><u>[Updated] The Ultimate Guide to Efficient Mac Screenshotting via Keyboard for 2024</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/diving-into-galactic-warfare-an-in-depth-analysis-of-star-wars-squadrons/"><u>Diving Into Galactic Warfare: An In-Depth Analysis of Star Wars: Squadrons</u></a></li>
-<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-9-mind-blowing-tricks-to-hatch-eggs-in-pokemon-go-without-walking-on-apple-iphone-6s-plus-drfone-by-drfone-virtual-ios/"><u>In 2024, 9 Mind-Blowing Tricks to Hatch Eggs in Pokemon Go Without Walking On Apple iPhone 6s Plus | Dr.fone</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/master-basic-computing-unveiling-the-potent-miniature-world-of-the-hp-stream-aturgy/"><u>Master Basic Computing: Unveiling the Potent Miniature World of the HP Stream Aturgy</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/pinpointing-your-computers-gpu-made-simple-a-guide-with-five-proven-steps/"><u>Pinpointing Your Computer's GPU Made Simple: A Guide with Five Proven Steps</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/quick-and-simple-guide-secure-your-windows-11-installation-today/"><u>Quick & Simple Guide: Secure Your Windows 11 Installation Today</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/quick-and-simple-methods-for-setting-up-a-bootable-windows-7-drive/"><u>Quick & Simple Methods for Setting Up a Bootable Windows 7 Drive</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/resolving-realtek-hd-audio-manager-problems-in-the-modern-windows-environments/"><u>Resolving Realtek HD Audio Manager Problems in the Modern Windows Environments</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/simple-steps-safeguarding-your-devices-drivers-prior-to-refreshing-with-any-version-of-windows/"><u>Simple Steps: Safeguarding Your Device's Drivers Prior to Refreshing with Any Version of Windows</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/smart-contract-functionality-a-game-changer-for-decentralization/"><u>Smart Contract Functionality: A Game-Changer for Decentralization</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/solved-grayed-out-sync-options-in-windows-10-a-comprehensive-guide/"><u>Solved: Grayed-Out Sync Options in Windows 10 – A Comprehensive Guide</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/solving-issues-with-your-lenovo-laptops-webcam-a-step-by-step-guide/"><u>Solving Issues with Your Lenovo Laptop's Webcam: A Step-by-Step Guide</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/spotify-stuck-top-fixes-for-when-the-application-fails-to-respond-on-your-computer/"><u>Spotify Stuck? Top Fixes for When the Application Fails to Respond on Your Computer</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/step-by-step-guide-adjusting-your-monitors-display-settings-in-windows-11/"><u>Step-by-Step Guide: Adjusting Your Monitor's Display Settings in Windows 11</u></a></li>
-<li><a href="https://extra-information.techidaily.com/swift-sequencing-of-slideshow-videos/"><u>Swift Sequencing of Slideshow Videos</u></a></li>
-<li><a href="https://techidaily.com/things-you-dont-know-about-samsung-galaxy-s24plus-reset-code-drfone-by-drfone-reset-android-reset-android/"><u>Things You Dont Know About Samsung Galaxy S24+ Reset Code | Dr.fone</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/troubleshooting-guide-solving-stardew-valley-pc-game-crashes/"><u>Troubleshooting Guide: Solving Stardew Valley PC Game Crashes</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-efficiency-at-fingertips-swiftly-upload-videos-from-iphoneipad-to-youtube-for-2024/"><u>[New] Efficiency at Fingertips Swiftly Upload Videos From iPhone/iPad to YouTube for 2024</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-elite-e-learning-platforms-beyond-udemy-explored-for-2024/"><u>[Updated] Elite E-Learning Platforms Beyond Udemy Explored for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-unleash-potential-understanding-and-altering-account-numbers/"><u>[Updated] Unleash Potential Understanding and Altering Account Numbers</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-where-to-buy-a-monetized-youtube-channel-a-complete-guide-for-2024/"><u>[Updated] Where to Buy a Monetized YouTube Channel A Complete Guide for 2024</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/2024-approved-elite-livestream-tools-and-solutions/"><u>2024 Approved Elite Livestream Tools & Solutions</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/2024-approved-redesign-twitter-video-header/"><u>2024 Approved Redesign Twitter Video Header</u></a></li>
+<li><a href="https://common-error.techidaily.com/guide-to-repairing-inoperative-scrolling-features-of-a-touchpad-in-windows-11/"><u>Guide to Repairing Inoperative Scrolling Features of a Touchpad in Windows 11</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/harnessing-chatgpts-power-to-transform-remote-job-opportunities/"><u>Harnessing ChatGPT's Power to Transform Remote Job Opportunities</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/how-does-chatgpts-code-interpreter-work-exploring-its-importance/"><u>How Does ChatGPT's Code Interpreter Work? Exploring Its Importance</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-mirror-pc-screen-to-realme-12-proplus-5g-phones-drfone-by-drfone-android/"><u>In 2024, How to Mirror PC Screen to Realme 12 Pro+ 5G Phones? | Dr.fone</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/leveraging-ai-to-optimize-time-and-resources-in-3d-printing/"><u>Leveraging AI to Optimize Time and Resources in 3D Printing</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/mercedes-conversational-drive-gpt-meets-car-technology/"><u>Mercedes Conversational Drive: GPT Meets Car Technology</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/overcoming-chatgpts-body-stream-error-learn-how-with-these-7-powerful-fixes/"><u>Overcoming ChatGPT's Body Stream Error – Learn How with These 7 Powerful Fixes!</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/prevent-ai-content-harvesting-efforts/"><u>Prevent AI Content Harvesting Efforts</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/unlock-the-power-of-bing-chatbot-for-efficient-text-input-on-android-phones/"><u>Unlock the Power of Bing Chatbot for Efficient Text Input on Android Phones</u></a></li>
 </ul></div>
 

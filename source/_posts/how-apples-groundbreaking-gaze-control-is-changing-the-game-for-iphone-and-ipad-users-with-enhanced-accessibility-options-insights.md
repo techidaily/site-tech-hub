@@ -1,7 +1,7 @@
 ---
 title: How Apple's Groundbreaking Gaze Control Is Changing the Game for iPhone & iPad Users with Enhanced Accessibility Options | Insights
-date: 2024-12-25T08:02:49.875Z
-updated: 2024-12-28T07:54:46.903Z
+date: 2025-01-02T18:20:32.162Z
+updated: 2025-01-06T19:58:50.865Z
 tags:
   - apple
 categories:
@@ -31,7 +31,7 @@ Read on for a look at some of the new accessibility features coming to Apple har
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/grbt-5VvbuI?si=qnoirlmljslpqcQj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=LvxQhsEJoymsM2iZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### New eye-tracking features
@@ -49,7 +49,7 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 [See all](https://www.zdnet.com/newsletters/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uzb-0C0xUYA?si=F4MPhdVqyVgx7_8X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Apple Music haptics
@@ -57,7 +57,7 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 For those who are deaf or hard of hearing, Apple plans to offer a Taptic Engine feature in Apple Music. When turned on, the feature will use a series of taps, vibrations, and other tactile responses to sync to a song's audio. Apple says the feature will work "across millions of songs in the Apple Music catalog."
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OdlXe5RELW0?si=Iz1H1QnLQVw-Eu3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3C51hzX46eY?si=o5qiDSkT7mXUGm3F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Addressing motion sickness
@@ -69,7 +69,7 @@ Motion sickness in cars can often be the result of a disconnect between what you
 "Using sensors built into iPhone and iPad, Vehicle Motion Cues recognizes when a user is in a moving vehicle and responds accordingly," Apple said. "The feature can be set to show automatically on iPhone, or can be turned on and off in Control Center."
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QRaEdFMU-Xc?si=OjaiTvlogJy5wHhN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Understanding speech
@@ -79,7 +79,7 @@ A new feature called Voice Shortcuts will let you "assign custom utterances" tha
 Another feature, Listen for Atypical Speech, will use machine learning to understand your speech patterns and your requests on-device, Apple said. The feature "gives users an option for enhancing speech recognition for a wider range of speech," the company said.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8Y-k_3N-0OI?si=1J-aFBXLJl5b3x4h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### New CarPlay features
@@ -122,18 +122,19 @@ Beyond those updates, Apple said that it's launching a range of smaller upgrades
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-files.techidaily.com/new-interactive-features/"><u>[New] Interactive Features</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/new-professional-strategies-for-drone-imagery-editing/"><u>[New] Professional Strategies for Drone Imagery Editing</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/16-unique-metaverse-scenarios-demonstrating-vrs-impact/"><u>16 Unique Metaverse Scenarios Demonstrating VR's Impact</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/decoding-machine-delusions-strategies-for-identifying-artificial-intelligence-ai-hallucinations/"><u>Decoding Machine Delusions: Strategies for Identifying Artificial Intelligence (AI) Hallucinations</u></a></li>
-<li><a href="https://techidaily.com/how-to-perform-hard-reset-on-vivo-y78plus-drfone-by-drfone-reset-android-reset-android/"><u>How to Perform Hard Reset on Vivo Y78+? | Dr.fone</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/local-llm-weighing-the-benefits-vs-drawbacks-is-it-right-for-your-business/"><u>Local LLM: Weighing the Benefits vs Drawbacks - Is It Right for Your Business?</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/maximize-productivity-on-the-go-how-to-implement-chatgpt-into-your-iphone-or-ipad-experience/"><u>Maximize Productivity on the Go: How to Implement ChatGPT Into Your iPhone or iPad Experience</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/multilingual-mastery-unlocking-the-potential-of-chatgpt-across-different-languages/"><u>Multilingual Mastery: Unlocking the Potential of ChatGPT Across Different Languages</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/new-macos-video-editing-made-easy-introducing-ezvid-slideshow-software-for-2024/"><u>New MacOS Video Editing Made Easy Introducing Ezvid Slideshow Software for 2024</u></a></li>
-<li><a href="https://driver-download.techidaily.com/sm-bus-controller-downloads-compatible-drivers-for-windows-users-win-11-win-10-win-8-and-win-7/"><u>SM Bus Controller Downloads: Compatible Drivers for Windows Users (Win 11, Win 10, Win 8 & Win 7)</u></a></li>
-<li><a href="https://win-blog.techidaily.com/spellbreak-stability-enhancements-for-windows-users-no-more-crashes/"><u>Spellbreak Stability Enhancements for Windows Users - No More Crashes</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/srt-mastery-advanced-techniques-for-mac-users/"><u>SRT Mastery Advanced Techniques for Mac Users</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/websites-reimagined-through-ai-the-evolutionary-influence-of-cognitive-technologies-on-search-engine-optimization/"><u>Websites Reimagined Through AI: The Evolutionary Influence of Cognitive Technologies on Search Engine Optimization</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-crafting-a-hit-list-youtubes-way-for-fans/"><u>[Updated] Crafting a Hit-List Youtube's Way for Fans</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-replay-redux-mastering-iphones-videography-backwards/"><u>[Updated] Replay Redux Mastering iPhone's Videography Backwards</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/bypass-iphone-7-plus-activation-lock-with-a-professional-tool-by-drfone-ios-unlock-ios-unlock/"><u>Bypass iPhone 7 Plus activation lock with a professional tool</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/can-ai-powered-chatgpt-develop-customized-healthy-workouts-that-suit-your-fitness-goals-safely/"><u>Can AI-Powered ChatGPT Develop Customized, Healthy Workouts That Suit Your Fitness Goals Safely?</u></a></li>
+<li><a href="https://games-able.techidaily.com/comprehensible-disassembly-decoding-the-xbox-360-slim-console/"><u>Comprehensible Disassembly: Decoding the Xbox 360 Slim Console</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/cookiebot-driven-solutions-for-efficient-web-management/"><u>Cookiebot-Driven Solutions for Efficient Web Management</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/evaluating-chatgpt-for-security-risks-top-6-issues-to-be-aware-of/"><u>Evaluating ChatGPT for Security Risks: Top 6 Issues to Be Aware Of</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/innovative-portable-solution-a-review-of-the-dependable-and-versatile-kensun-air-compressor/"><u>Innovative Portable Solution - A Review of the Dependable and Versatile Kensun Air Compressor</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/navigating-the-landscape-of-nvidias-creativity-service/"><u>Navigating the Landscape of NVIDIA’s Creativity Service</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/secrets-to-keeping-your-chatgpt-messages-private-no-delete-required/"><u>Secrets to Keeping Your ChatGPT Messages Private: No Delete Required</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/-gold-standard-10-ways-to-elevate-home-recordings/"><u>Sonic Gold Standard 10 Ways to Elevate Home Recordings</u></a></li>
+<li><a href="https://win-deluxe.techidaily.com/ssdhddwindows-1110/"><u>SSDをHDDに移行するためのWindows 11/10フリー・チュートリアル【ステップバイステップ】</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/the-risks-of-using-artificial-intelligence-chatbots-for-creating-authentic-windows-11-keycodes/"><u>The Risks of Using Artificial Intelligence Chatbots for Creating Authentic Windows 11 Keycodes</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/unlocking-gpt-4-potential-in-7-cutting-edge-mobile-apps-inside-look/"><u>Unlocking GPT-4 Potential in 7 Cutting-Edge Mobile Apps: Inside Look</u></a></li>
 </ul></div>
 

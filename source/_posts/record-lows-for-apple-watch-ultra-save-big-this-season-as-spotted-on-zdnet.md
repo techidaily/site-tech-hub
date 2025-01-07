@@ -1,7 +1,7 @@
 ---
 title: "Record Lows for Apple Watch Ultra: Save Big This Season as Spotted on ZDNet!"
-date: 2024-10-20T16:11:19.402Z
-updated: 2024-10-27T17:12:51.785Z
+date: 2025-01-03T22:39:53.239Z
+updated: 2025-01-06T17:48:29.401Z
 tags:
   - apple
 categories:
@@ -24,6 +24,10 @@ ZDNET rounded up the best holiday deals on Apple iPads you can buy now, but thes
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## The Best iPad Holiday deals
 
 * [Apple iPad Pro (Wi-Fi, 128GB):](https://affportal.bhphoto.com/dl/redventures/?s=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp&u=https%3A%2F%2Fwww.bhphotovideo.com%2Fc%2Fproduct%2F1731105-REG%2Fapple%5Fmnxd3ll%5Fa%5F11%5Fipad%5Fpro%5Fm2.html) $749 (save $50 at B&H Photo)
@@ -41,10 +45,7 @@ ZDNET rounded up the best holiday deals on Apple iPads you can buy now, but thes
 * [Apple iPad Pro 12.9-inch (2022)](https://www.anrdoezrs.net/links/9041660/type/dlg/sid/zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp/https://www.att.com/buy/tablets/apple-ipad-pro-12-9-inch-2022.html): $33.34/month ($100 off at AT&T with qualifying service)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130871/7443" target="_top" id="2130871">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130871" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130871/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DEqoiNArwjQ?si=oaL_lgnI-RxY5Qy_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## The Best iPad accessory, case deals
@@ -104,10 +105,7 @@ If you would prefer the smaller iPad Mini, Amazon has another deal that might in
 [View now at Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2F2021-Apple-iPad-Mini-Wi-Fi%2Fdp%2FB09G9DQDDQ%3Fth%3D1%26tag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C72ea2c00-eaf4-4278-983b-40c54372b4e7%7Cdtp&dtb=1) 
 
 <!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137975/21526" target="_top" id="2137975">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137975" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137975/21526" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How did we choose these holiday deals?
@@ -116,27 +114,21 @@ ZDNET only writes about deals we want to buy -- devices and products we want, ne
 
 We also looked over customer reviews to find out what matters to real people who already own and use the deals we're recommending. Our recommendations may also be based on our own testing -- in addition to extensive research and comparison shopping. The goal is to deliver the most accurate advice to help you shop smarter. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qbuund2HKOQ?si=NaGHqIrx8hSL7gWV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What's the best iPad?
 
 ZDNET editors have gone hands-on with every iPad model, and named the latest iPad Pro (2022) the best iPad overall, thanks to its M2 processor and fast performance.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948949/19272" target="_top" id="1948949">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948949" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948949/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What's the best iPad for kids?
 
 If you're looking to buy an iPad as a holiday gift for the child in your life, we'd recommend the latest iPad Air (5th gen., 2022). It's lightweight, but still packs in great performance for the lower price tag. You can find iPad Air models on sale in our list above.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111994/7443" target="_top" id="2111994">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111994" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111994/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## What are the best holiday deals?
 
@@ -206,24 +198,19 @@ ZDNET's experts have been searching for holiday deals across sites like Amazon, 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-content.techidaily.com/updated-essential-tips-for-crafting-engaging-facebook-reels/"><u>[Updated] Essential Tips for Crafting Engaging Facebook Reels</u></a></li>
-<li><a href="https://fox-info.techidaily.com/updated-in-2024-detailed-guide-to-capturing-spherical-panoramic-shots/"><u>[Updated] In 2024, Detailed Guide to Capturing Spherical Panoramic Shots</u></a></li>
-<li><a href="https://extra-support.techidaily.com/2024-approved-mastering-close-up-cinematography-essential-guidelines/"><u>2024 Approved Mastering Close-Up Cinematography Essential Guidelines</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/amd-radeon-rx-470-secure-your-download-and-update-graphic-drivers-with-confidence/"><u>AMD Radeon RX 470 - Secure Your Download & Update Graphic Drivers with Confidence</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/bridging-mythos-and-tech-enhancing-dungeons-and-dragons-characters-with-gpt-and-dall-e/"><u>Bridging Mythos and Tech: Enhancing Dungeons & Dragons Characters with GPT & DALL-E</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/choosing-the-right-format-dvd-blu-ray-or-digital-files-whats-your-best-bet/"><u>Choosing the Right Format: DVD, Blu-Ray or Digital Files – What's Your Best Bet?</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/demystifying-gemini-googles-latest-ai-research-venture/"><u>Demystifying Gemini: Google’s Latest AI Research Venture</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/digital-side-hustles-and-console-revival/"><u>Digital Side Hustles & Console Revival</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/discover-the-leading-10-chatbot-options-beyond-chatgpt/"><u>Discover the Leading 10 Chatbot Options Beyond ChatGPT</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/get-your-next-trip-in-order-fast-check-out-these-7-free-ai-and-chatgpt-enabled-itinerary-creators/"><u>Get Your Next Trip in Order Fast: Check Out These 7 FREE AI & ChatGPT Enabled Itinerary Creators</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/google-bard-alert-the-risks-and-reasons-you-should-avoid-downloading-this-app/"><u>Google Bard Alert: The Risks and Reasons You Should Avoid Downloading This App</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/how-to-bypass-icloud-lock-on-apple-iphone-se-2022-by-drfone-ios/"><u>How to Bypass iCloud Lock on Apple iPhone SE (2022)</u></a></li>
-<li><a href="https://program-issues.techidaily.com/how-to-resolve-the-problem-when-call-of-duty-warzone-fails-to-launch/"><u>How to Resolve the Problem When Call of Duty Warzone Fails to Launch</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-preparation-to-beat-giovani-in-pokemon-go-for-zte-nubia-z60-ultra-drfone-by-drfone-virtual-android/"><u>In 2024, Preparation to Beat Giovani in Pokemon Go For ZTE Nubia Z60 Ultra | Dr.fone</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/teaching-chatgpt-to-emulate-your-writing-technique-step-by-step-guide/"><u>Teaching ChatGPT to Emulate Your Writing Technique: Step-by-Step Guide</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/uncharted-territory-5-advanced-gpt-functions-for-enthusiasts/"><u>Uncharted Territory: 5 Advanced GPT Functions for Enthusiasts</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/update-intel-graphics-3000-driver-for-windows-10-easily/"><u>Update Intel Graphics 3000 Driver for Windows 10. Easily</u></a></li>
-<li><a href="https://howto.techidaily.com/what-to-do-when-xiaomi-civi-3-has-black-screen-of-death-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>What To Do When Xiaomi Civi 3 Has Black Screen of Death? | Dr.fone</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/which-conversational-engine-reigns-supreme-chatgpt-versus-claude-ai-showdown/"><u>Which Conversational Engine Reigns Supreme? ChatGPT Versus Claude AI Showdown</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-dive-deep-into-the-world-of-timelapses-with-your-ipad/"><u>[New] Dive Deep Into the World of Timelapses with Your iPad</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-redefining-realities-practical-vr-uses/"><u>[New] Redefining Realities Practical VR Uses</u></a></li>
+<li><a href="https://program-issues.techidaily.com/fixing-connectivity-issues-between-your-astro-a50-headset-and-command-panel/"><u>Fixing Connectivity Issues Between Your Astro A50 Headset and Command Panel</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/free-access-to-cutting-edge-tech-using-gpt-extended-gpt-4-turbo-via-copilot/"><u>Free Access to Cutting-Edge Tech: Using GPT-eXtended (GPT-4 Turbo) via Copilot</u></a></li>
+<li><a href="https://driver-error.techidaily.com/how-to-troubleshoot-and-resolve-the-critical-error-0x0000007e-on-windows-7-systems/"><u>How to Troubleshoot and Resolve the Critical Error 0X0000007E on Windows 7 Systems</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-the-ultimate-guide-how-to-bypass-swipe-screen-to-unlock-on-htc-device-by-drfone-android/"><u>In 2024, The Ultimate Guide How to Bypass Swipe Screen to Unlock on HTC Device</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/masterclass-incorporating-chatgpt-into-your-dandd-game-sessions-for-added-depth-and-fun/"><u>Masterclass: Incorporating ChatGPT Into Your D&D Game Sessions for Added Depth and Fun</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/optimized-ai-dialogues-chatgpt-for-mac-enthusiasts/"><u>Optimized AI Dialogues: ChatGPT for Mac Enthusiasts</u></a></li>
+<li><a href="https://program-issues.techidaily.com/overcoming-system-failures-the-definitive-guide-to-stable-dark-souls-3-play-sessions/"><u>Overcoming System Failures: The Definitive Guide to Stable Dark Souls 3 Play Sessions</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/private-and-safe-ai-interaction-start-using-duckduckgos-chat-for-exclusive-access-to-chatgpt/"><u>Private and Safe AI Interaction: Start Using DuckDuckGo's Chat for Exclusive Access to ChatGPT</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/running-freechat-on-win-a-freedomgpt-guide/"><u>Running FreeChat on Win: A FreedomGPT Guide</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/simplified-steps-for-easy-installation-of-updated-intel-irisplus-graphics-card-driver-v640/"><u>Simplified Steps for Easy Installation of Updated Intel Iris+ Graphics Card Driver V640</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/top-10-best-spy-watches-for-your-vivo-x100-drfone-by-drfone-virtual-android/"><u>Top 10 Best Spy Watches For your Vivo X100 | Dr.fone</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/why-choose-the-chatgpt-desktop-application-over-the-web-version-key-benefits-unveiled/"><u>Why Choose the ChatGPT Desktop Application Over the Web Version: Key Benefits Unveiled</u></a></li>
 </ul></div>
 

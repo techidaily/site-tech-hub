@@ -1,7 +1,7 @@
 ---
 title: Get the Latest iOS 18 Update for Eligible iPhones - Step-by-Step Download Instructions | ZDNet
-date: 2024-12-21T22:41:13.901Z
-updated: 2024-12-28T02:12:18.389Z
+date: 2025-01-03T17:10:42.274Z
+updated: 2025-01-06T19:35:38.963Z
 tags:
   - apple
 categories:
@@ -26,34 +26,38 @@ While the official iOS 18 general release is today, users have already been able
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/grbt-5VvbuI?si=qnoirlmljslpqcQj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to install iOS 18
 
 Jason Hiner/ZDNET
 
 **What you need:** An iPhone running iOS 16.5 or later. Since not all iPhones are compatible with iOS 18, you'll also need a model [newer than the iPhone X](https://www.zdnet.com/article/best-iphone/).
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 1\. Go to General in your iPhone Settings
 
 Go to your iPhone's Settings and select General. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Go to Software Update in Settings
 
 Within General, tap on Software Update. This will show you if the iOS 18 update is available for you to download.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 3\. Download and install
 
 When you tap on Software Update, your iPhone will check for the latest version of iOS available. Then, you'll be able to Download and Install the new update. Your iPhone will begin the download immediately.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4\. Enter your passcode and follow steps to install
@@ -61,6 +65,10 @@ When you tap on Software Update, your iPhone will check for the latest version o
 Enter your passcode, if necessary, to authorize the installation of the new iOS on your iPhone, and follow the prompts to complete the installation.
 
 After installing the latest iOS update, your iPhone will restart.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UcplMvRBulA?si=iBonbwDS1v7RAlHK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## FAQs
 
@@ -74,10 +82,6 @@ Apple released the iOS 18 developer beta during WWDC 2024 in June, and the publi
 
 **Also: [The best iOS 18 features that will make updating your iPhone worthwhile](https://www.zdnet.com/article/the-best-ios-18-features-that-will-make-updating-your-iphone-worthwhile/)**
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oB9V7rZzotw?si=d4xrCbq1jKHXGAWN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Can you still download the iOS 18 public beta?
 
 You can always be part of the Apple Beta program to get the latest beta versions of iOS. Before you download a beta version of an operating system, you should have some housekeeping items in mind:
@@ -85,10 +89,6 @@ You can always be part of the Apple Beta program to get the latest beta versions
 * Back up your device and personal information.
 * Don't download beta software, which will likely have bugs and glitches, on your everyday iPhone.
 * You should go into the experience to test new features and share feedback to improve iOS, which is why beta versions are released.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2ipTu54inBo?si=gRegjvtVq5gm_PHo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### How do I install the iOS 18 beta version?
 
@@ -161,22 +161,22 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-data.techidaily.com/nlock-your-potential-50-free-high-impact-banners-at-your-disposal-for-2024/"><u>[New] Unlock Your Potential 50 FREE, High-Impact Banners at Your Disposal for 2024</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/2024-approved-light-and-color-interplay-for-images/"><u>2024 Approved Light & Color Interplay for Images</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/crafting-soundscapes-with-chatgpt-advanced-techniques-for-digital-audio-workstations/"><u>Crafting Soundscapes with ChatGPT: Advanced Techniques for Digital Audio Workstations</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/diy-installation-of-chatgpt-for-windows-users-a-comprehensive-guide/"><u>DIY Installation of ChatGPT for Windows Users: A Comprehensive Guide</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/essential-iphone-recording-apps-for-2024/"><u>Essential iPhone Recording Apps for 2024</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/expert-advice-on-gadgets-with-tomhardwareguide/"><u>Expert Advice on Gadgets with TomHardwareGuide</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/exploring-generative-ai-search-capabilities-and-industry-leaders-utilizing-them/"><u>Exploring Generative AI Search Capabilities and Industry Leaders Utilizing Them</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/exploring-the-boundaries-what-is-the-maximum-capacity-of-a-chatgpt-exchange/"><u>Exploring the Boundaries: What Is the Maximum Capacity of a ChatGPT Exchange?</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-3-ways-to-change-location-on-facebook-marketplace-for-apple-iphone-8-drfone-by-drfone-virtual-ios/"><u>In 2024, 3 Ways to Change Location on Facebook Marketplace for Apple iPhone 8 | Dr.fone</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/in-2024-can-i-browse-through-all-my-contacts-shared-videos-and-photos/"><u>In 2024, Can I Browse Through All My Contact's Shared Videos & Photos?</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-set-your-preferred-job-location-on-linkedin-app-of-your-apple-iphone-14-pro-drfone-by-drfone-virtual-ios/"><u>In 2024, Set Your Preferred Job Location on LinkedIn App of your Apple iPhone 14 Pro | Dr.fone</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/innovative-writing-with-ai-6-ways-to-utilize-chatgpt-for-creativity/"><u>Innovative Writing with AI: 6 Ways to Utilize ChatGPT for Creativity</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/orbital-offerings-exceptional-content-plus-praise/"><u>Orbital Offerings: Exceptional Content + Praise</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/ranking-the-top-5-instant-frame-recorder-apps/"><u>Ranking the Top 5 Instant Frame Recorder Apps</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/the-next-step-in-smartwear-top-benefits-of-integrating-chatgpt-with-watches/"><u>The Next Step in Smartwear: Top Benefits of Integrating ChatGPT with Watches</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/trouble-free-steps-to-successfully-install-the-latest-ios-17-update/"><u>Trouble-Free Steps to Successfully Install the Latest iOS 17 Update</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/whats-new-with-chatgpt-a-guide-to-its-latest-and-most-impactful-updates/"><u>What's New with ChatGPT? A Guide to Its Latest and Most Impactful Updates</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-gigglegraphyguild-funnyframestudio/"><u>[New] GiggleGraphyGuild FunnyFrameStudio</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-night-shots-pro-tips-for-iphone-enthusiasts/"><u>[New] Night Shots Pro Tips for iPhone Enthusiasts</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-2024-approved-explore-the-highest-rated-virtual-reality-games/"><u>[Updated] 2024 Approved Explore the Highest-Rated Virtual Reality Games</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/chatgpts-body-stream-dilemma-decoded-seven-remedies-for-smooth-operations/"><u>ChatGPT’s Body Stream Dilemma Decoded: Seven Remedies for Smooth Operations</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/conversational-technology-in-every-tick-six-smartwatch-advances-via-gpt/"><u>Conversational Technology in Every Tick: Six Smartwatch Advances via GPT</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/enhance-your-coding-experience-with-these-6-ai-chatgpt-extensions-for-vs-code/"><u>Enhance Your Coding Experience with These 6 AI ChatGPT Extensions for VS Code</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-3-ways-to-fake-gps-without-root-on-vivo-y200e-5g-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Ways to Fake GPS Without Root On Vivo Y200e 5G | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-share-location-in-messenger-on-tecno-camon-30-pro-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Share Location in Messenger On Tecno Camon 30 Pro 5G? | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/life360-learn-how-everything-works-on-realme-12-proplus-5g-drfone-by-drfone-virtual-android/"><u>Life360 Learn How Everything Works On Realme 12 Pro+ 5G | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/methods-to-change-gps-location-on-motorola-moto-g13-drfone-by-drfone-virtual-android/"><u>Methods to Change GPS Location On Motorola Moto G13 | Dr.fone</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/overcoming-msvcrtdll-issues-a-comprehensive-guide-for-windows-users/"><u>Overcoming msvcrt.dll Issues: A Comprehensive Guide for Windows Users</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/seamless-chatgpt-history-syncing-the-best-extensions-you-need/"><u>Seamless ChatGPT History Syncing - The Best Extensions You Need</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/step-by-step-guide-to-compressing-h264-videos-into-smaller-sizes-with-h265-coding-without-loss-of-clarity/"><u>Step-by-Step Guide to Compressing H.264 Videos Into Smaller Sizes with H.265 Coding without Loss of Clarity</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/the-inner-workings-of-large-language-models-llms-a-comprehveiw-for-tech-enthusiasts/"><u>The Inner Workings of Large Language Models (LLMs): A Comprehveiw for Tech Enthusiasts</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/think-twice-before-whispering-confidentials-to-chatgpt/"><u>Think Twice Before Whispering Confidentials to ChatGPT</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/top-10-strategies-how-chatgpt-can-boost-your-linkedin-job-search-success/"><u>Top 10 Strategies: How ChatGPT Can Boost Your LinkedIn Job Search Success</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/understanding-the-limitations-of-ai-why-cant-chatgpt-detect-self-generated-text/"><u>Understanding the Limitations of AI: Why Can't ChatGPT Detect Self-Generated Text?</u></a></li>
 </ul></div>
 

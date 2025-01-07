@@ -1,7 +1,7 @@
 ---
 title: Discovering the Covert Intelligent Communication Chips in Macs and iPads - Do You Own Them? | ZDNET
-date: 2024-12-26T01:24:47.015Z
-updated: 2024-12-28T10:30:01.328Z
+date: 2025-01-01T20:54:35.844Z
+updated: 2025-01-07T01:42:44.566Z
 tags:
   - apple
 categories:
@@ -28,10 +28,14 @@ If you want to follow along, you'll need to install the iOS 18 public beta on an
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GPk8_xpN_rA?si=YbAdgsjAKsCn_UsB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to customize your iPhone's new Control Center with iOS 18
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E3yY7lZ-FKA?si=g8VEuExP8GH59B69" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. Access Control Center
@@ -41,7 +45,7 @@ To display Control Center, swipe down from the top-right corner of the screen. Y
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jnITUsxMz5s?si=ohwRVH6eWhVnC6Xf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Move the available controls
@@ -52,25 +56,21 @@ Screenshot by Lance Whitney/ZDNET
 
 **Also: [Every iPhone model that can be updated to Apple's iOS 18 (and which ones can't)](https://www.zdnet.com/article/every-iphone-model-that-can-be-updated-to-apples-ios-18-and-which-ones-cant/)**
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Hpne0zPsZwU?si=yN5QDsG_WLb_Y3u-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 3\. Resize a control
 
 After tapping the plus icon, some controls sport a gray curved handle in the lower-right corner. This means you can resize the control's icon. Drag the handle and move it up, down, or diagonally. Release it when the icon is the size you wish.
 
 Screenshot by Lance Whitney/ZDNET
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 4\. Delete a control
 
 Next, you can directly delete a control you don't need or want. With the icons in edit mode, tap the minus sign for the icon you want to remove. When the icon is deleted, the surrounding icons should move to fill up the gap.
 
 Screenshot by Lance Whitney/ZDNET
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XA_wP7rS9ww?si=LarMG3sEHAhSoL6q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 5\. Add a control to an existing screen
 
@@ -87,7 +87,7 @@ If the current screens are already filled with icons, you can set up additional 
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 7\. Power down from Control Center
@@ -126,15 +126,20 @@ Screenshot by Lance Whitney/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-videos.techidaily.com/new-2024-approved-turning-views-into-cash-secrets-to-successful-facebook-video-money-making/"><u>[New] 2024 Approved Turning Views Into Cash Secrets to Successful Facebook Video Money-Making</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/new-in-2024-a-guide-to-the-top-12-most-captivating-pc-clickers/"><u>[New] In 2024, A Guide to the Top 12 Most Captivating PC Clickers</u></a></li>
-<li><a href="https://fox-http.techidaily.com/updated-11-best-beginnerwaterproofvlogging-camera-for-kids-easy-to-use/"><u>[Updated] 11 Best Beginner/Waterproof/Vlogging Camera for Kids (Easy-to-Use)</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-how-to-optimize-your-channels-with-youtubes-featured-spotlight/"><u>[Updated] 2024 Approved How to Optimize Your Channels with YouTube’s Featured Spotlight</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/dissecting-distinct-uses-in-ai-technologies/"><u>Dissecting Distinct Uses in AI Technologies</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/how-to-present-ppt-on-google-meet-for-2024/"><u>How to Present PPT on Google Meet for 2024</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-what-does-enter-puk-code-mean-and-why-did-the-sim-get-puk-blocked-on-honor-magic-5-lite-device-by-drfone-android/"><u>In 2024, What Does Enter PUK Code Mean And Why Did The Sim Get PUK Blocked On Honor Magic 5 Lite Device</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/trio-strategies-enhancing-dialogue-with-chatgpt-and-wolframalpha/"><u>Trio Strategies: Enhancing Dialogue with ChatGPT & WolframAlpha</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/unveiling-chatgpts-gaming-side-a-list-of-the-coolest-6-games-you-can-enjoy/"><u>Unveiling ChatGPT's Gaming Side: A List of the Coolest 6 Games You Can Enjoy</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/why-the-chatgpt-desktop-software-surpasses-the-convenience-of-the-online-site/"><u>Why the ChatGPT Desktop Software Surpasses the Convenience of the Online Site</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-in-2024-assessing-the-dominance-of-splitcam-recording/"><u>[New] In 2024, Assessing the Dominance of SplitCam Recording</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-the-platform-face-off-going-live-with-obstwitch/"><u>[New] The Platform Face-Off Going Live with OBS/Twitch</u></a></li>
+<li><a href="https://fox-access.techidaily.com/2024-approved-capturing-the-cosmos-mastering-editing-techniques-for-starry-images/"><u>2024 Approved Capturing the Cosmos Mastering Editing Techniques for Starry Images</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/embracing-the-future-top-8-benefits-of-artificial-intelligence-in-education/"><u>Embracing the Future: Top 8 Benefits of Artificial Intelligence in Education</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/essential-top-7-floodproof-video-cameras-guide/"><u>Essential Top 7 Floodproof Video Cameras Guide</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/giants-in-combat-google-palm-2-vs-openais-gpt-4/"><u>Giants in Combat: Google PaLM 2 Vs. OpenAI's GPT-4</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-forgot-iphone-passcode-again-unlock-apple-iphone-se-2022-without-passcode-now-by-drfone-ios/"><u>In 2024, Forgot iPhone Passcode Again? Unlock Apple iPhone SE (2022) Without Passcode Now</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-top-10-telegram-spy-tools-on-nokia-c32-for-parents-drfone-by-drfone-virtual-android/"><u>In 2024, Top 10 Telegram Spy Tools On Nokia C32 for Parents | Dr.fone</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/inside-truthgpts-revelation-policemen-clash-with-mullvad-vpn-top-no-cost-gaming-for-pcs-and-insights-on-mechanical-typing-peripherals/"><u>Inside TruthGPT's Revelation: Policemen Clash with Mullvad VPN, Top No-Cost Gaming for PCs & Insights on Mechanical Typing Peripherals</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/should-you-opt-for-copilot-pro-a-comprehensive-guide-highlighting-benefits-over-standard-copilot/"><u>Should You Opt for CoPilot Pro? A Comprehensive Guide Highlighting Benefits Over Standard CoPilot</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/the-ultimate-io-scanner-insiders-handbook/"><u>The Ultimate IO Scanner Insider's Handbook</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/top-6-appsservices-to-trace-any-google-pixel-8-pro-location-by-mobile-number-drfone-by-drfone-virtual-android/"><u>Top 6 Apps/Services to Trace Any Google Pixel 8 Pro Location By Mobile Number | Dr.fone</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/unleashing-chatgpts-potential-as-your-ideal-dungeon-master-companion/"><u>Unleashing ChatGPT's Potential as Your Ideal Dungeon Master Companion</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/unlock-business-potential-with-5-must-have-ai-applications-every-owner-needs/"><u>Unlock Business Potential with 5 Must-Have AI Applications Every Owner Needs</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/voices-from-around-the-world-10-tech-leaders-weigh-in-on-ai/"><u>Voices From Around the World: 10 Tech Leaders Weigh In on AI</u></a></li>
 </ul></div>
 

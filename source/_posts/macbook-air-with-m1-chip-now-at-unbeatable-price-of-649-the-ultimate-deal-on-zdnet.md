@@ -1,7 +1,7 @@
 ---
 title: "MacBook Air with M1 Chip Now at Unbeatable Price of $649: The Ultimate Deal on ZDNet"
-date: 2024-12-21T06:57:06.680Z
-updated: 2024-12-28T13:54:15.270Z
+date: 2025-01-03T20:44:25.722Z
+updated: 2025-01-07T02:18:53.510Z
 tags:
   - apple
 categories:
@@ -42,7 +42,7 @@ At $649, this is the lowest price for the M1 version of the MacBook Air that we'
 The [M1 MacBook Air](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fmacbook-air-13-3-laptop-apple-m1-chip-8gb-memory-256gb-ssd-space-gray-space-gray%2F5721600.p%3FskuId%3D5721600&publisher_slug=itechdaily19598&exclusive=1) first retailed for $999 when it was released, but Apple sells refurbished versions for $799, making these deals even better than anything Apple is offering. The [M1 MacBook Air](https://goto.walmart.com/c/5597632/565706/9383?sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.walmart.com%2Fip%2FApple-MacBook-Air-13-3-inch-Laptop-Silver-M1-Chip-8GB-RAM-256GB-storage%2F609040889&subId1=zd-__COM_CLICK_ID__-dtp) is available in three different colors: gold, space gray, and silver. Snag these savings while you can. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## When will this deal expire?
@@ -81,22 +81,20 @@ However, deals are subject to sell out or expire at any time, though ZDNET remai
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-direct.techidaily.com/new-2024-approved-perfecting-iphone-cinematic-work-top-8-tips-for-excellent-pro-video-production/"><u>[New] 2024 Approved Perfecting iPhone Cinematic Work Top 8 Tips for Excellent Pro Video Production</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/updated-2024-approved-effortless-visual-transitions-using-instagram-chroma-keying/"><u>[Updated] 2024 Approved Effortless Visual Transitions Using Instagram Chroma Keying</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/chatgpt-is-it-a-secure-conversationalist-exploring-6-key-cybersecurity-issues-with-openais-innovation/"><u>ChatGPT: Is It a Secure Conversationalist? Exploring 6 Key Cybersecurity Issues with OpenAI's Innovation</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/conversational-gold-how-to-supercharge-chatgpts-interaction/"><u>Conversational Gold: How to Supercharge ChatGPT's Interaction</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/data-driven-discourse-constructing-custom-ai-companions/"><u>Data-Driven Discourse: Constructing Custom AI Companions</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/decoding-truthgpt-a-deep-dive-law-enforcement-cracks-down-on-mullvad-vpn-premier-selection-of-free-pc-gaming-experiences-the-ultimate-guide-to-mechanical-ke33/"><u>Decoding TruthGPT: A Deep Dive | Law Enforcement Cracks Down on Mullvad VPN | Premier Selection of FREE PC Gaming Experiences | The Ultimate Guide to Mechanical Keyboard Setups</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/demystifying-ai-understanding-the-core-concepts-with-a-comprehensive-glossary-of-29-terms/"><u>Demystifying AI: Understanding the Core Concepts with a Comprehensive Glossary of 29 Terms</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/how-to-stream-anything-from-samsung-galaxy-m14-5g-to-apple-tv-drfone-by-drfone-android/"><u>How To Stream Anything From Samsung Galaxy M14 5G to Apple TV | Dr.fone</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/in-2024-4-ways-to-transfer-contacts-from-apple-iphone-6-to-iphone-quickly-drfone-by-drfone-transfer-from-ios/"><u>In 2024, 4 Ways to Transfer Contacts from Apple iPhone 6 to iPhone Quickly | Dr.fone</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-learn-how-to-lock-stolen-your-iphone-15-pro-properly-by-drfone-ios/"><u>In 2024, Learn How To Lock Stolen Your iPhone 15 Pro Properly</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/leverage-powerful-ai-now-eight-customizable-gpt-models-at-your-fingertips/"><u>Leverage Powerful AI Now: Eight Customizable GPT Models at Your Fingertips</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/neatness-noted-navigating-a-tidier-windowed-explore/"><u>Neatness Noted: Navigating a Tidier Windowed Explore</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/pursuing-the-honest-path-with-truthcoin/"><u>Pursuing The Honest Path with TruthCoin?</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/reviving-the-speakers-effective-remedies-for-laptops-with-no-audible-output/"><u>Reviving the Speakers: Effective Remedies for Laptops with No Audible Output</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/smirk-stash-ultimate-guide-to-free-meme-templates-for-2024/"><u>Smirk Stash Ultimate Guide to FREE Meme Templates for 2024</u></a></li>
-<li><a href="https://games-able.techidaily.com/ultimate-value-gaming-motherboard-deals/"><u>Ultimate Value Gaming Motherboard Deals</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/unveiling-the-functions-and-advantages-of-usechatgpts-copilot-extension-for-chromefirefox/"><u>Unveiling the Functions and Advantages of UseChatGPT's Copilot Extension for Chrome/Firefox</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-2024-approved-the-enigma-of-missing-video-suggestions-in-your-feed/"><u>[New] 2024 Approved The Enigma of Missing Video Suggestions in Your Feed</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-creative-techniques-for-incorporating-alternate-shots-for-2024/"><u>[New] Creative Techniques for Incorporating Alternate Shots for 2024</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-drone-visionarys-guide-to-mavic-pro-for-2024/"><u>[New] Drone Visionary's Guide to Mavic Pro for 2024</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-elevate-your-profile-the-complete-guide-to-editing-numbers-on-tiktok/"><u>[Updated] Elevate Your Profile The Complete Guide to Editing Numbers on TikTok</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/iuoajomhloockuimiplusobioobquobjplusobmeociplusodhuocrplusodiplusodgplusocrzog5yuv55s75pku5b2x44gn44k544k44oz44ox44gm6y2144cnig/"><u>「顔を見えなくするテクニック: 動画撮影でスタンプが鍵」</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/approved-gain-viewership-virtuously-expert-guide-to-implementing-youtubes-featured-listings/"><u>2024 Approved Gain Viewership Virtuously Expert Guide to Implementing YouTube's Featured Listings</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/2024-approved-the-essential-guide-to-earnings-monetizing-content-on-vimeo/"><u>2024 Approved The Essential Guide to Earnings Monetizing Content on Vimeo</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/a-guide-nokia-g42-5g-wireless-and-wired-screen-mirroring-drfone-by-drfone-android/"><u>A Guide Nokia G42 5G Wireless and Wired Screen Mirroring | Dr.fone</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/get-your-favorite-songs-as-ios-ringback-tones-for-free-using-these-top-tools-webdesktop/"><u>Get Your Favorite Songs as IOS Ringback Tones for Free Using These Top Tools (Web/Desktop)</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/how-can-you-capture-your-favorite-content-from-peacock-on-any-device/"><u>How Can You Capture Your Favorite Content From Peacock on Any Device?</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/how-to-legally-transfer-films-from-dvds-secure-downloads-guide/"><u>How to Legally Transfer Films From DVDs - Secure Downloads Guide</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-update-or-downgrade-iphone-15-without-itunes-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Update or Downgrade iPhone 15 Without iTunes? | Dr.fone</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/master-the-art-of-downloading-from-newgrounds-discover-three-proven-strategies-for-quick-and-safe-video-extraction/"><u>Master the Art of Downloading From Newgrounds: Discover Three Proven Strategies for Quick and Safe Video Extraction</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/mastering-video-editing-expert-tips-on-using-ffmpeg-and-other-superior-options/"><u>Mastering Video Editing: Expert Tips on Using FFmpeg and Other Superior Options</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/microsoft-os/"><u>Microsoft OSの最新バージョンを使った音楽トリミングテクニック紹介</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Pixel 9 Pro XL vs iPhone 15 Pro: A Detailed Camera Comparison Reveals the Victor & an Unexpected Outcome - ZDNet's In-Depth Analysis"
-date: 2024-10-22T17:26:50.022Z
-updated: 2024-10-27T17:07:30.374Z
+date: 2025-01-05T23:35:19.021Z
+updated: 2025-01-07T04:42:37.153Z
 tags:
   - apple
 categories:
@@ -31,6 +31,10 @@ The Google Pixel 9 Pro and 9 Pro XL come equipped with a 50MP primary camera, a 
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Pixel gets skin tones right
 
@@ -77,10 +81,7 @@ I use the ultrawide camera to take architecture shots or group photos. While I d
 I would prefer the iPhone shot for this particular image, but I can see myself using the wider FoV and fisheye effect on the Pixel 9 Pro when I'm traveling. The Google phone also fared better in low light with the ultrawide camera. That being said, the colors were consistent across three lenses on both phones.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925484/19272" target="_top" id="1925484">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925484" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925484/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## A clear winner in night time
@@ -110,10 +111,7 @@ The iPhone 15 Pro holds up well in indoor and artificial lighting conditions but
 The iPhone 15 Pro shot looks bad, despite the dog not moving, while the Pixel 9 Pro XL was able to capture the subject when it was about to move by the time the shutter was processed. I would pick the new Google phone for night shots unless the iPhone 16 Pro comes with better Night Mode algorithms. 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135357/19272" target="_top" id="2135357">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135357" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135357/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Pixel 9 Pro XL gets good at selfies
@@ -127,10 +125,7 @@ I like the selfie shooter on the iPhone 15 Pro and have found it better than And
 I like the Pixel 9 Pro XL selfie here but the iPhone was able to get more details around the hair. But you can see areas around my forehead and cheeks where the highlights are blown out. However, both look social media worthy and I'm impressed by the selfie camera on the Pixel 9 Pro. It does a better job than the iPhone when the light source is behind you.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049388/7443" target="_top" id="2049388">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049388" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049388/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Pixel 9 Pro XL vs iPhone 15 Pro camera: Which one is better?
@@ -175,22 +170,18 @@ I expect the iPhone 16 Pro to do better in the aspects where the iPhone 15 Pro l
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-share.techidaily.com/new-in-2024-breaking-the-monotony-innovative-yt-playlist-shuffling/"><u>[New] In 2024, Breaking the Monotony Innovative YT Playlist Shuffling</u></a></li>
-<li><a href="https://tiktok-clips.techidaily.com/2024-approved-transform-your-tiktok-avatar-instruction-manual-for-change/"><u>2024 Approved Transform Your TikTok Avatar Instruction Manual for Change</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/a-compreayers-guide-to-capturing-console-games-on-a-computer/"><u>A Compreayer's Guide to Capturing Console Games on a Computer</u></a></li>
-<li><a href="https://fox-info.techidaily.com/abletons-pathway-to-harmonious-declines/"><u>Ableton's Pathway to Harmonious Declines</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/anticipating-cyberspace-7-upcoming-protection-phenomena/"><u>Anticipating Cyberspace: 7 Upcoming Protection Phenomena</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/battle-of-ai-giants-comparing-googles-bard-and-microsofts-bing-chat/"><u>Battle of AI Giants: Comparing Google's Bard and Microsoft's Bing Chat</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/boost-your-writing-process-with-these-8-powerful-ai-assistants/"><u>Boost Your Writing Process with These 8 Powerful AI Assistants</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/chatgpt-breakthrough-unlocking-six-new-frontiers-with-the-code-conductor/"><u>ChatGPT Breakthrough: Unlocking Six New Frontiers with the Code Conductor</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/effortless-installation-a-beginners-guide-to-chatgpt-plug-in-tools/"><u>Effortless Installation: A Beginner's Guide to ChatGPT Plug-In Tools</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/electric-motorcycles-decoded-a-deep-dive-into-their-operation-and-performance/"><u>Electric Motorcycles Decoded: A Deep Dive Into Their Operation & Performance</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/how-and-where-to-find-a-shiny-stone-pokemon-for-nokia-g42-5g-drfone-by-drfone-virtual-android/"><u>How and Where to Find a Shiny Stone Pokémon For Nokia G42 5G? | Dr.fone</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-why-your-whatsapp-live-location-is-not-updating-and-how-to-fix-on-your-motorola-defy-2-drfone-by-drfone-virtual-android/"><u>In 2024, Why Your WhatsApp Live Location is Not Updating and How to Fix on your Motorola Defy 2 | Dr.fone</u></a></li>
-<li><a href="https://ai-video-translation.techidaily.com/new-2024-approved-top-8-multi-subtitles-translators-you-can-use/"><u>New 2024 Approved Top 8 Multi-Subtitles Translators You Can Use</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/optimal-notetaking-top-6-ai-enhanced-software-picks/"><u>Optimal Notetaking: Top 6 AI-Enhanced Software Picks</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/optimal-use-of-gpt-tokens-in-interactive-dialogue/"><u>Optimal Use of GPT Tokens in Interactive Dialogue</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/securely-update-your-proton-vpn-login-details-and-unmask-the-truth-behind-chatgpt-for-windows-users/"><u>Securely Update Your Proton VPN Login Details and Unmask the Truth Behind ChatGPT for Windows Users</u></a></li>
-<li><a href="https://win-docs.techidaily.com/the-essential-role-of-sitemaps-in-seo-success-discover-how/"><u>The Essential Role of Sitemaps in SEO Success - Discover How!</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-2024-approved-mkv-decoding-best-apps-for-mac/"><u>[New] 2024 Approved MKV Decoding Best Apps for Mac</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-2024-approved-rapid-recording-audio-in-action/"><u>[New] 2024 Approved Rapid Recording Audio in Action</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/tep-by-step-guide-to-youtube-video-enhancement-with-wmm-for-2024/"><u>[New] Step-by-Step Guide to YouTube Video Enhancement with WMM for 2024</u></a></li>
+<li><a href="https://article-posts.techidaily.com/2024-approved-elevate-your-virtual-presence-choose-from-these-7-devices/"><u>2024 Approved Elevate Your Virtual Presence Choose From These 7 Devices</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/exploring-chatgpts-text-capacity-overcoming-input-size-restrictions/"><u>Exploring ChatGPT's Text Capacity: Overcoming Input Size Restrictions</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/exploring-the-benefits-of-using-claude-ai-an-in-depth-guide/"><u>Exploring the Benefits of Using Claude AI: An In-Depth Guide</u></a></li>
+<li><a href="https://techidaily.com/hard-resetting-an-htc-u23-pro-device-made-easy-drfone-by-drfone-reset-android-reset-android/"><u>Hard Resetting an HTC U23 Pro Device Made Easy | Dr.fone</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/how-reliable-is-vpn-for-interacting-with-chatgpt-online/"><u>How Reliable Is VPN for Interacting with ChatGPT Online?</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-mirror-pc-screen-to-xiaomi-redmi-note-12r-phones-drfone-by-drfone-android/"><u>How to Mirror PC Screen to Xiaomi Redmi Note 12R Phones? | Dr.fone</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/is-chatgpt-capable-of-advancing-by-analyzing-conversations-with-people/"><u>Is ChatGPT Capable of Advancing by Analyzing Conversations With People?</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/master-the-market-how-chatgpt-enhances-your-crypto-trading-experience/"><u>Master the Market: How ChatGPT Enhances Your Crypto Trading Experience</u></a></li>
+<li><a href="https://fake-location.techidaily.com/prank-your-friends-easy-ways-to-fake-and-share-google-maps-location-on-apple-iphone-13-mini-drfone-by-drfone-virtual-ios/"><u>Prank Your Friends! Easy Ways to Fake and Share Google Maps Location On Apple iPhone 13 mini | Dr.fone</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/transforming-timepieces-top-6-innovative-uses-of-chatgpt-in-smartwatch-technology/"><u>Transforming Timepieces: Top 6 Innovative Uses of ChatGPT in Smartwatch Technology</u></a></li>
 </ul></div>
 

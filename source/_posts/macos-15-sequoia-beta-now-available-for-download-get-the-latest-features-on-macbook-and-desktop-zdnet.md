@@ -1,7 +1,7 @@
 ---
 title: MacOS 15 'Sequoia' Beta Now Available for Download – Get the Latest Features on MacBook & Desktop | ZDNET
-date: 2024-12-22T17:50:12.857Z
-updated: 2024-12-28T12:49:40.644Z
+date: 2024-12-31T21:26:23.311Z
+updated: 2025-01-06T18:57:44.069Z
 tags:
   - apple
 categories:
@@ -26,18 +26,26 @@ While the official iOS 18 general release is today, users have already been able
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to install iOS 18
 
 Jason Hiner/ZDNET
 
 **What you need:** An iPhone running iOS 16.5 or later. Since not all iPhones are compatible with iOS 18, you'll also need a model [newer than the iPhone X](https://www.zdnet.com/article/best-iphone/).
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. Go to General in your iPhone Settings
 
 Go to your iPhone's Settings and select General. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5OmJZ4Z8jgk?si=YIoEaPI8geoiFSYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Go to Software Update in Settings
@@ -47,6 +55,10 @@ Within General, tap on Software Update. This will show you if the iOS 18 update 
 ## 3\. Download and install
 
 When you tap on Software Update, your iPhone will check for the latest version of iOS available. Then, you'll be able to Download and Install the new update. Your iPhone will begin the download immediately.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/g6xXIR_Uh1A?si=TMXzklPEY50MUM05" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 4\. Enter your passcode and follow steps to install
 
@@ -60,15 +72,15 @@ After installing the latest iOS update, your iPhone will restart.
 
 Apple Intelligence, featuring the company's AI tools, will begin to roll out for compatible iPhones over the next few weeks, with more features to join in the coming months. This slew of AI features will be available on the iPhone 16 lineup and the iPhones 15 Pro and Pro Max.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### When was iOS 18 released?
 
 Apple released the iOS 18 developer beta during WWDC 2024 in June, and the public beta version was released on July 15\. The general release of iOS 18 is September 16.
 
 **Also: [The best iOS 18 features that will make updating your iPhone worthwhile](https://www.zdnet.com/article/the-best-ios-18-features-that-will-make-updating-your-iphone-worthwhile/)**
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Can you still download the iOS 18 public beta?
 
@@ -77,10 +89,6 @@ You can always be part of the Apple Beta program to get the latest beta versions
 * Back up your device and personal information.
 * Don't download beta software, which will likely have bugs and glitches, on your everyday iPhone.
 * You should go into the experience to test new features and share feedback to improve iOS, which is why beta versions are released.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/E3yY7lZ-FKA?si=g8VEuExP8GH59B69" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### How do I install the iOS 18 beta version?
 
@@ -92,10 +100,6 @@ You'll need an iPhone running iOS 16.5 or later. Since not all iPhones are compa
 4. Select iOS 18 Public Beta. Then you'll begin receiving automatic software updates to the latest beta version of iOS 18\. Apple currently has four beta versions of iOS: iOS 18 public beta, iOS 18 developer beta, iOS 17 public beta, and iOS 17 developer beta. These four options will soon be reduced to just the two iOS 18 variants. Once you do this, return to the previous page. If an update is available now, your iPhone will prompt you to download and install it.
 
 Screenshot: Maria Diaz/ZDNET
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### How to download the iOS 18 developer beta?
 
@@ -112,10 +116,6 @@ If you can't see this option, go to your **Settings,** select **Privacy & Securi
 **Also: [How to use and customize your iPhone's new Control Center with iOS 18](https://www.zdnet.com/article/how-to-use-and-customize-your-iphones-new-control-center-with-ios-18/)**
 
 If you aren't already a member of the Apple Developer Program, you can sign up to become one in the app. An annual membership costs $99.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_SbYznUy_zY?si=ThBkP934r3mizi48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### What is in iOS 18 beta 3?
 
@@ -161,18 +161,14 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-blog.techidaily.com/024-approved-avoid-common-mistakes-mastering-youtube-tags-wisely/"><u>[New] 2024 Approved Avoid Common Mistakes - Mastering YouTube Tags Wisely</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/updated-2024-approved-breaking-down-discords-report-mechanism-for-clarity-and-action/"><u>[Updated] 2024 Approved Breaking Down Discord’s Report Mechanism for Clarity and Action</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/capture-now-cheap-instant-camera-brands/"><u>Capture Now: Cheap Instant Camera Brands</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/chatgpt-secrets-for-creating-standout-social-media-posts/"><u>ChatGPT Secrets for Creating Standout Social Media Posts</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/deciding-between-chatgpt-and-huggingchat-a-guide-to-the-best-language-model-for-your-needs/"><u>Deciding Between ChatGPT and HuggingChat: A Guide to the Best Language Model for Your Needs</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/how-does-the-stardust-trade-cost-in-pokemon-go-on-oppo-reno-9a-drfone-by-drfone-virtual-android/"><u>How does the stardust trade cost In pokemon go On Oppo Reno 9A? | Dr.fone</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/how-much-money-can-you-score-with-youtube-short-videos-for-2024/"><u>How Much Money Can You Score with YouTube Short Videos for 2024</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/how-to-plan-your-getaway-with-7-free-ai-travel-assistants-and-chatgpt-for-instant-routes/"><u>How to Plan Your Getaway with 7 Free AI Travel Assistants & ChatGPT for Instant Routes</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-fix-my-vivo-y27-5g-location-is-wrong-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fix My Vivo Y27 5G Location Is Wrong | Dr.fone</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/navigating-chatbot-risks-key-privacy-concerns-explored/"><u>Navigating Chatbot Risks: Key Privacy Concerns Explored</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/optimizing-rides-guide-to-requesting-gpt-for-auto-customization/"><u>Optimizing Rides: Guide to Requesting GPT for Auto Customization</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/the-sudden-and-complete-cessation-of-chatgpt-in-italy/"><u>The Sudden and Complete Cessation of ChatGPT in Italy</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/transforming-your-resume-and-cover-letter-the-chatgpt-way-to-employment-success/"><u>Transforming Your Resume and Cover Letter: The ChatGPT Way to Employment Success</u></a></li>
+<li><a href="https://howto.techidaily.com/6-fixes-to-unfortunately-whatsapp-has-stopped-error-popups-on-infinix-smart-8-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>6 Fixes to Unfortunately WhatsApp has stopped Error Popups On Infinix Smart 8 Pro | Dr.fone</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/dvdusb/"><u>動画を取り出せるフリーソフトウェアベスト３: DVDからUSB移行手順</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/best-top-10-free-photography-libraries-offering-premium-quality-images/"><u>Best Top 10 Free Photography Libraries Offering Premium-Quality Images</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/converting-between-ogg-and-mp3-formats-with-audacity-a-comprehensive-guide/"><u>Converting Between Ogg & MP3 Formats with Audacity: A Comprehensive Guide</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/covertly-capturing-screenshots-on-snapchat-top-strategies-and-techniques/"><u>Covertly Capturing Screenshots on Snapchat: Top Strategies and Techniques</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ur-unleashed-comprehensive-youtube-guide-to-elegance/"><u>Glamour Unleashed Comprehensive YouTube Guide to Elegance</u></a></li>
+<li><a href="https://common-error.techidaily.com/solution-guide-when-numbers-wont-press-on-your-keyboard/"><u>Solution Guide: When Numbers Won't Press on Your Keyboard</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/step-by-step-instructions-for-using-telegram-online-professionally-for-2024/"><u>Step-By-Step Instructions For Using Telegram Online Professionally for 2024</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/the-new-era-of-android-audio-devices-samsung-galaxy-buds-pro/"><u>The New Era of Android Audio Devices: Samsung Galaxy Buds Pro</u></a></li>
 </ul></div>
 

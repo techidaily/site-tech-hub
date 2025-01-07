@@ -1,7 +1,7 @@
 ---
 title: "Advancing AI Frontiers with Apple: Discover How New Models Are Changing the Game | Detailed Analysis"
-date: 2024-12-26T11:39:28.356Z
-updated: 2024-12-27T16:08:05.364Z
+date: 2025-01-05T22:37:13.763Z
+updated: 2025-01-07T02:16:09.495Z
 tags:
   - apple
 categories:
@@ -49,7 +49,7 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fo4lNZ84x9Q?si=WdcYPZp-9VJnZEnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## A trained charm offensive
@@ -83,7 +83,7 @@ She began to play a demonstration video that, dare I confess, is quite moving.
 The fact that someone else can see (a digital version of) your eyes is a touchingly humane feature, even if imperfect. But the simple gesturing and the apparent power of that gesturing is, even on video, quite something.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zWYVKFk3yPQ?si=Yu7xsjIYgRiq8zHk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/o-sRtqHdEYY?si=NMTMQVxJsUaoguqh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Suddenly, it's all business
@@ -125,7 +125,7 @@ I asked if she thought this would become the new way of living, where people wan
 (Well, not quite all the apps. Netflix and YouTube [aren't there](https://www.zdnet.com/article/what-apps-will-be-on-apple-vision-pro-not-these-two-major-ones/).)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GFHH14XlFCk?si=2HcjQbDx5eG0ZQAt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Was I sold? Not quite yet
@@ -191,14 +191,16 @@ I asked the female store employee whether she'd be able to try one on before the
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-sure.techidaily.com/our-ultimate-guide-to-downloading-youtube-on-ios/"><u>[New] Your Ultimate Guide to Downloading YouTube on iOS</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/2024-approved-decoding-the-fuzziness-in-facebook-videos/"><u>2024 Approved Decoding the Fuzziness in Facebook Videos</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/exploring-the-inherent-modules-of-chatgpt-functionality-and-applications/"><u>Exploring the Inherent Modules of ChatGPT: Functionality and Applications</u></a></li>
-<li><a href="https://some-tips.techidaily.com/fall-releases-exploring-the-latest-innovations-on-iphone-ipad-mac-and-beyond-from-apple-with-advanced-ai-integration-insights/"><u>Fall Releases: Exploring the Latest Innovations on iPhone, iPad, Mac & Beyond From Apple with Advanced AI Integration Insights</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/how-to-get-llama-2-running-locally-a-comprehensive-tutorial/"><u>How to Get Llama 2 Running Locally – A Comprehensive Tutorial</u></a></li>
-<li><a href="https://discover-fantastic.techidaily.com/step-by-step-guide-to-creating-a-comment-export-email-on-macos/"><u>Step-by-Step Guide to Creating a Comment Export Email on macOS</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/the-ai-evolution-assessing-if-chatgpt-signals-trouble-for-established-search-platforms/"><u>The AI Evolution: Assessing If ChatGPT Signals Trouble for Established Search Platforms</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/transform-media-files-in-a-flash-using-winxvideos-ai-and-gpu-boost-technology/"><u>Transform Media Files in a Flash Using Winxvideo's AI and GPU Boost Technology</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/transform-your-approach-to-math-the-best-7-ai-programs-at-your-fingertnails/"><u>Transform Your Approach to Math: The Best 7 AI Programs at Your Fingertnails</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-2024-approved-integrating-sounds-and-music-into-your-instagram-videos/"><u>[Updated] 2024 Approved Integrating Sounds and Music Into Your Instagram Videos</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-2024-approved-navigating-the-art-of-live-stream-archiving-for-tv-series/"><u>[Updated] 2024 Approved Navigating the Art of Live Stream Archiving for TV Series</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/from-canvas-to-ledger-the-ultimate-list-of-nft-engines-for-artists-for-2024/"><u>From Canvas to Ledger The Ultimate List of NFT Engines for Artists for 2024</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/how-do-you-play-mp4-files-on-xiaomi-13t-pro-by-aiseesoft-video-converter-play-mp4-on-android/"><u>How do you play MP4 files on Xiaomi 13T Pro?</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-optimize-your-startup-programs-in-windows-11-for-improved-performance/"><u>How to Optimize Your Startup Programs in Windows 11 for Improved Performance</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/maitrisez-la-transformation-audio-sur-votre-pc-convertir-facilement-des-fichiers-mp4-en-mp3-avec-notre-outil-convertisseur-gratuitement-integre-a-windows-1013/"><u>Maîtrisez La Transformation Audio Sur Votre PC : Convertir Facilement Des Fichiers MP4 en MP3 Avec Notre Outil Convertisseur Gratuitement Intégré À Windows 10</u></a></li>
+<li><a href="https://win-guides.techidaily.com/sharing-digital-books-easily-made-with-flipbuilder-comprehensive-tips/"><u>Sharing Digital Books Easily Made with FlipBuilder – Comprehensive Tips</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/stepping-into-the-field-a-guide-to-starting-your-journey-as-a-prompt-engineer/"><u>Stepping Into the Field: A Guide to Starting Your Journey as a Prompt Engineer</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/the-etiquette-of-interacting-with-ai-is-politeness-a-must-for-chatgpt-alexa-and-siri/"><u>The Etiquette of Interacting With AI: Is Politeness a Must for ChatGPT, Alexa & Siri?</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/the-new-frontier-of-ai-chatgpt-for-your-android-device/"><u>The New Frontier of AI: ChatGPT for Your Android Device</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/uncovering-next-must-watch-with-chatgpts-suggestions/"><u>Uncovering Next Must-Watch with ChatGPT's Suggestions</u></a></li>
 </ul></div>
 

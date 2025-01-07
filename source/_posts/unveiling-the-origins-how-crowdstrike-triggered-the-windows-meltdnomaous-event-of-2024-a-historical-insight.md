@@ -1,7 +1,7 @@
 ---
 title: "Unveiling the Origins: How CrowdStrike Triggered the Windows Meltdnomaous Event of 2024 – A Historical Insight"
-date: 2024-10-20T16:20:49.593Z
-updated: 2024-10-27T16:01:07.185Z
+date: 2025-01-03T21:00:58.786Z
+updated: 2025-01-06T23:09:44.369Z
 tags:
   - apple
 categories:
@@ -32,6 +32,10 @@ In this case, the trusted software developer is a firm called CrowdStrike Holdin
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What happened?
 
 CrowdStrike, which sells security software designed to keep systems safe from external attacks, pushed a faulty ["sensor configuration update"](https://www.crowdstrike.com/blog/falcon-update-for-windows-hosts-technical-details/) to the millions of PCs worldwide running its Falcon Sensor software. That update was, according to CrowdStrike, a "Channel File" whose function was to identify newly observed, malicious activity by cyberattackers.
@@ -51,10 +55,7 @@ Repairing the damage from a flaw like this is a painfully tedious process that r
 If you know anyone whose job involves administering Windows PCs in a corporate network that uses the CrowdStrike code, you can be confident they are very busy right now, and will be for days to come.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137215/26400" target="_top" id="2137215">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137215" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137215/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## We've seen this movie before
@@ -94,10 +95,7 @@ In the You Can't Make This Up Department… CrowdStrike's founder and CEO, Georg
 What makes the 2024 sequel so much worse is that it also affected Windows-based servers running in the cloud, on Microsoft Azure and on AWS. Just as with the many laptops and desktop PCs that were bricked by this faulty update, the cloud-based servers require time-consuming manual interventions to recover.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134239/18498" target="_top" id="2134239">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134239" border="0" alt="https://techidaily.com" width="721" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134239/18498" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## CrowdStrike's QA failed
@@ -127,10 +125,7 @@ As part of its initial response, CrowdStrike says it plans to take additional me
 Meanwhile, the United States House of Representatives Homeland Security Committee plans to call CrowdStrike's CEO up for hearings on what went wrong, and CrowdStrike's Chief Security Officer, Shawn Henry, [posted an apology on LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:7220983915421806592/), admitting "On Friday, we failed you. ... The confidence we built in drips over the years was lost in buckets within hours, and it was a gut punch."
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037474/7443" target="_top" id="2037474">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037474" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037474/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How much fault should Microsoft shoulder?
@@ -181,18 +176,19 @@ Nonetheless, this incident, which caused many billions of dollars' worth of dama
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-clips.techidaily.com/new-in-2024-avoid-unnecessary-interactions-block-strategies/"><u>[New] In 2024, Avoid Unnecessary Interactions Block Strategies</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/updated-leveraging-temporal-illusions-in-cinematography/"><u>[Updated] Leveraging Temporal Illusions in Cinematography</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/2024-approved-enhancing-detail-in-youtube-clips/"><u>2024 Approved Enhancing Detail in YouTube Clips</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/bypassing-steam-readwrite-errors-with-ease/"><u>Bypassing Steam Read/Write Errors with Ease</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/enhancements-arrive-chatgpt-introduces-top-tier-updates/"><u>Enhancements Arrive: ChatGPT Introduces Top-Tier Updates</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-pictures-files-from-honor-by-fonelab-android-recover-pictures/"><u>How To Restore Missing Pictures Files from Honor .</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/in-2024-top-budget-conscious-video-modification-sites-explored-and-rated/"><u>In 2024, Top Budget-Conscious Video Modification Sites Explored and Rated</u></a></li>
-<li><a href="https://techidaily.com/repair-damaged-unplayable-video-files-of-honor-x50-by-stellar-video-repair-mobile-video-repair/"><u>Repair damaged, unplayable video files of Honor X50</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/skyrocket-traffic-innovative-strategies-for-youtube-backlink-acquisition-for-2024/"><u>Skyrocket Traffic Innovative Strategies for YouTube Backlink Acquisition for 2024</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/troubleshooting-steps-to-resolve-your-chatgpt-sign-in-issues/"><u>Troubleshooting Steps to Resolve Your ChatGPT Sign-In Issues</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/understanding-the-risks-is-chatgpt-being-misused-to-create-viruses-and-trojans/"><u>Understanding the Risks: Is ChatGPT Being Misused to Create Viruses and Trojans?</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/unveiling-the-top-five-catalysts-for-chatgptn-explosive-growth-trajectory/"><u>Unveiling the Top Five Catalysts for ChatGPT'n Explosive Growth Trajectory</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/your-guide-to-youtube-tv-5-essential-reasons-for-membership/"><u>Your Guide to YouTube TV – 5 Essential Reasons for Membership</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-fast-track-your-visuals-the-best-pinterest-downloaders-listed/"><u>[Updated] Fast-Track Your Visuals The Best Pinterest Downloaders Listed</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-in-2024-secrets-to-profit-from-youtube-shorts-fundamentals-and-earning-prospects/"><u>[Updated] In 2024, Secrets to Profit From Youtube Shorts Fundamentals and Earning Prospects</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-transforming-mundane-titles-into-visual-marvels-with-ae-for-2024/"><u>[Updated] Transforming Mundane Titles Into Visual Marvels with AE for 2024</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-from-shopping-lists-to-viral-hauls-video-making-insights/"><u>2024 Approved From Shopping Lists to Viral Hauls Video Making Insights</u></a></li>
+<li><a href="https://fox-shield.techidaily.com/artistdirect-how-to-convert-and-download-your-favorite-music-videos-in-various-formats-mp4-mov-avi/"><u>ArtistDirect: How to Convert and Download Your Favorite Music Videos in Various Formats (MP4, MOV, AVI)</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/beyond-dialogue-6-strategies-to-harness-chatgpts-power-as-a-dm/"><u>Beyond Dialogue: 6 Strategies to Harness ChatGPT's Power as a DM</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/enhancing-productivity-in-human-resources-via-prompts/"><u>Enhancing Productivity in Human Resources via Prompts</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/exploring-elon-musks-project-the-revolutionary-truthgpt-ai/"><u>Exploring Elon Musk’s Project: The Revolutionary TruthGPT AI</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/in-2024-virtual-performances-on-kuaishou/"><u>In 2024, Virtual Performances on Kuaishou</u></a></li>
+<li><a href="https://win-brilliant.techidaily.com/keep-your-work-consistently-updated-with-easy-onedrive-automatic-refresh-tips-for-windows-users/"><u>Keep Your Work Consistently Updated with Easy OneDrive Automatic Refresh Tips for Windows Users</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/maximizing-business-efficiency-top-uses-for-chatgpt/"><u>Maximizing Business Efficiency: Top Uses for ChatGPT</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/outsmarting-fraudgpt-personal-safeguards-explored/"><u>Outsmarting FraudGPT - Personal Safeguards Explored</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/the-hidden-dangers-unveiled-by-advanced-ai-systems/"><u>The Hidden Dangers Unveiled by Advanced AI Systems</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/top-reviews-for-xp-pens-advanced-16-pro-drawing-monitor-features-benefits-and-more/"><u>Top Reviews for XP-Pen's Advanced 16 Pro Drawing Monitor: Features, Benefits & More</u></a></li>
 </ul></div>
 

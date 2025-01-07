@@ -1,7 +1,7 @@
 ---
 title: The Next Big Thing for Apple Vision Pro? Innovative Respiratory Health Tracking on the Horizon
-date: 2024-12-22T10:12:31.231Z
-updated: 2024-12-28T04:44:15.438Z
+date: 2025-01-04T03:34:25.514Z
+updated: 2025-01-06T17:16:20.863Z
 tags:
   - apple
 categories:
@@ -29,7 +29,7 @@ If anything, the latest iOS 18.1 betas with Apple Intelligence features have bee
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## The annual upgrade ritual
@@ -37,10 +37,6 @@ If anything, the latest iOS 18.1 betas with Apple Intelligence features have bee
 Every year, my wife and I eagerly await the release of the new iPhones. Being part of [Apple's Upgrade Program](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fiphone%2Fiphone-upgrade-program&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp), we return our devices, reset our loan with Citizens Bank, and acquire the latest model. Over the past few years, I have opted for the [Pro Max](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2Fiphone-15-pro%2F&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp), and my wife has chosen the [base model](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2Fiphone-15%2F&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp). The expected annual improvements have been incremental but appreciated. 
 
 Despite the buzz around the [iPhone 16's new features](https://www.zdnet.com/article/im-an-android-user-but-these-three-iphone-16-features-would-win-me-over/) and the integration of Apple Intelligence, however, several concerns dampen my enthusiasm for upgrading this year.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Apple Intelligence: A significant, yet incomplete, leap forward
 
@@ -66,6 +62,10 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 [See all](https://www.zdnet.com/newsletters/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oB9V7rZzotw?si=d4xrCbq1jKHXGAWN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## New hardware leaks: what to expect from the iPhone 16
 
 Earlier, I discussed how older -- as well as current generation -- iOS devices [aren't powerful enough to handle on-device Generative AI tasks](https://www.zdnet.com/article/the-expensive-reason-why-apples-upcoming-ai-features-arent-coming-to-your-older-iphone/). The [base iPhone 15](https://www.zdnet.com/article/iphone-15-plus-review/), which has only 6GB of RAM, would struggle to meet the demands of Apple Intelligence as it evolves and becomes more integrated into iOS, core Apple applications, and developer applications. Older iPhones have [6GB of RAM or less](https://iosref.com/ram-processor), and are not eligible to run Apple Intelligence in current iOS 18.1 builds. 
@@ -83,7 +83,7 @@ Interestingly, despite these hardware upgrades, Apple appears to be keeping pric
 Despite these upgrades, the iPhone 16 may still face challenges due to design cycles that didn't fully account for the scope of Apple Intelligence's capabilities. As a result, users may experience suboptimal performance and a less seamless user experience, especially as more AI features roll out in subsequent updates.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_dOmuXhsV6Y?si=aT6vgPbDx4ajjvdr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Why you shouldn't buy the iPhone 16 for Apple Intelligence
@@ -95,7 +95,7 @@ Besides memory concerns, AI processing demands a lot of power and additional com
 For these reasons, I see the iPhone 16 (and potentially even the iPhone 17) as a transitional product in Apple's journey toward on-device AI. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4YCkNXJjC3c?si=9Tn8KiqKGTZi1o7E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How Apple Intelligence will likely evolve
@@ -115,7 +115,7 @@ Enterprises may also employ a mobile device management solution to facilitate ac
 Imagine your iPhone using the unused processing power of your Mac or iPad, all equipped with on-device LLMs, to tackle complex AI tasks. This would increase the accessibility of AI features across Apple's product range.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9ECz3oZ8NrQ?si=86vkwkDJo9HQXpzt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## I'm still optimistic
@@ -158,19 +158,20 @@ _This article was originally published on June 28, 2024, and updated on August 2
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-blog.techidaily.com/nalyzing-why-youtube-features-specific-comments-for-2024/"><u>[New] Analyzing Why YouTube Features Specific Comments for 2024</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/new-integrate-playlist-into-facebook-cross-platform-method-for-2024/"><u>[New] Integrate Playlist Into Facebook - Cross-Platform Method for 2024</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/astery-in-youtube-ads-thumbnails-and-banners/"><u>[New] Mastery in YouTube Ads Thumbnails & Banners</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-a-comprehensive-guide-to-maximizing-channels-earnings-through-trailers/"><u>[Updated] 2024 Approved A Comprehensive Guide to Maximizing Channels' Earnings Through Trailers</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/boosting-your-gaming-experience-solutions-for-higher-frame-rates-in-assassins-creed-valhalla/"><u>Boosting Your Gaming Experience: Solutions for Higher Frame Rates in Assassin's Creed Valhalla</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/focus-on-subjects-methods-for-editing-out-photography-backgrounds-for-2024/"><u>Focus on Subjects Methods for Editing Out Photography Backgrounds for 2024</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-show-wi-fi-password-on-samsung-galaxy-a15-4g-by-drfone-android/"><u>In 2024, How to Show Wi-Fi Password on Samsung Galaxy A15 4G</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-mastering-android-device-manager-the-ultimate-guide-to-unlocking-your-vivo-v29-device-by-drfone-android/"><u>In 2024, Mastering Android Device Manager The Ultimate Guide to Unlocking Your Vivo V29 Device</u></a></li>
-<li><a href="https://win-tricks.techidaily.com/top-rated-black-friday-bargains-get-more-with-your-gift-cards-zdnet-insights/"><u>Top-Rated Black Friday Bargains: Get More with Your Gift Cards | ZDNet Insights</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/1723808150629-unlock-seamless-gaming-mastering-ps4s-remote-play-functionality-on-android-with-a-quick-tutorial/"><u>Unlock Seamless Gaming: Mastering PS4's Remote Play Functionality on Android with a Quick Tutorial!</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/unlock-seamless-screen-mirroring-in-windows-1011-using-miracast-set-up-and-troubleshooting-tips-included/"><u>Unlock Seamless Screen Mirroring in Windows 10/11 Using Miracast – Set Up & Troubleshooting Tips Included</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/unseen-tracks-strategies-for-discreet-online-journeys/"><u>Unseen Tracks: Strategies for Discreet Online Journeys</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/unveiling-hand-trackings-evolution-and-practice-for-2024/"><u>Unveiling Hand Tracking's Evolution and Practice for 2024</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/video-recording-mastery-tips-for-shooting-with-a-pc-camera/"><u>Video Recording Mastery: Tips for Shooting with a PC Camera</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-unlocking-the-value-in-twitters-archives-for-2024/"><u>[New] Unlocking the Value in Twitters Archives for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-live-and-stream-like-a-pro-with-these-best-webcam-software-top-18/"><u>2024 Approved Live and Stream Like a Pro with These Best Webcam Software (Top 18)</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/chatgpt-app-release-on-hold-explore-these-top-notch-free-alternatives-now/"><u>ChatGPT App Release on Hold? Explore These Top-Notch Free Alternatives Now</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/crafting-personalized-experiences-with-chatgpt-the-ultimate-guide-to-building-user-personas-for-success/"><u>Crafting Personalized Experiences with ChatGPT: The Ultimate Guide to Building User Personas for Success</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/discover-the-latest-in-pc-components-with-toms-hardware-hub/"><u>Discover the Latest in PC Components with Tom's Hardware Hub</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/elevate-google-searches-to-new-heights-meet-the-innovative-and-underrated-perplexity-ai-platform/"><u>Elevate Google Searches to New Heights: Meet the Innovative and Underrated Perplexity AI Platform</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/epic-stories-academy-the-premier-8-list/"><u>Epic Stories Academy – The Premier 8 List</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/in-depth-review-of-the-brother-hl-l3295cdw-laser-printer-delivering-expedited-high-resolution-colored-impressions/"><u>In-Depth Review of the Brother HL-L3295CDW Laser Printer – Delivering Expedited, High-Resolution Colored Impressions</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/large-softbox-lighting-from-studiofx-rated-high/"><u>Large Softbox Lighting From StudioFX Rated High</u></a></li>
+<li><a href="https://video-capture.techidaily.com/master-streaming-with-obs-studio-android-edition/"><u>Master Streaming with OBS Studio - Android Edition</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/mastering-narrative-craft-leveraging-chatgpt-for-exceptional-storytelling/"><u>Mastering Narrative Craft: Leveraging ChatGPT for Exceptional Storytelling</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/mastering-the-integration-utilizing-chatgpt-within-google-sheets-docs-and-more/"><u>Mastering the Integration: Utilizing ChatGPT Within Google Sheets, Docs & More</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/stealthy-employee-communication-with-ai-platforms/"><u>Stealthy Employee Communication with AI Platforms</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/top-7-cost-free-ai-travel-organizers-and-chatgpt-tools-for-immediate-trip-outlines/"><u>Top 7 Cost-Free AI Travel Organizers & ChatGPT Tools For Immediate Trip Outlines</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/unlocking-creative-solutions-top-8-applications-of-chatgpt-in-visual-fields/"><u>Unlocking Creative Solutions: Top 8 Applications of ChatGPT in Visual Fields</u></a></li>
 </ul></div>
 

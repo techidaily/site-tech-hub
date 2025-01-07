@@ -1,7 +1,7 @@
 ---
 title: "March Release Anticipated: Exploring the Potential Launch of Apple's Upcoming MacBook Air, iPad Pro & iPad Air - Insights From ZDNet"
-date: 2024-12-23T03:15:15.709Z
-updated: 2024-12-28T11:00:29.854Z
+date: 2025-01-03T01:50:37.526Z
+updated: 2025-01-06T17:43:05.869Z
 tags:
   - apple
 categories:
@@ -39,7 +39,7 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Apple Intelligence (AI)
@@ -64,6 +64,10 @@ Maria Diaz/ZDNET
 * In the Notes app, users can **record and transcribe audio**, which Apple Intelligence will generate a text summary of. This experience is also available in the Notes phone app.
 * Apple Intelligence is free on iOS 18, iPadOS 18, and MacOS Sequoia, and will be available to try in English only this summer.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mK1lEBRm_1w?si=FSaM0OKO0XBCgjtT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Partnership with OpenAI
 
 Jason Hiner/ZDNET
@@ -73,7 +77,7 @@ Jason Hiner/ZDNET
 * The ChatGPT integration will be coming to iOS 18, iPadOS 18, and MacOS Sequoia later this year.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jnITUsxMz5s?si=ohwRVH6eWhVnC6Xf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## iOS 18
@@ -108,6 +112,10 @@ Adam Breeden/ZDNET
 * **Check In** is available on Apple Watch, even during workouts, to help users stay safe. **Translate** is also coming to Apple Watch so users can translate text right from their wrists.
 * Another notable change is that the **double tap gesture** can be used to scroll through apps.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## iPadOS 18
 
 Adam Breeden/ZDNET
@@ -129,10 +137,6 @@ Adam Breeden/ZDNET
 * The **AI summarization** tool will live in Safari to help users process content like web pages and articles more efficiently. Safari will also assist users in discovering more helpful information about a page they are browsing when relevant, such as directions.
 * Apple also launched a new **Viewer experience**, which does for video what Reader does for text.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## VisionOS 2
 
 Jason Hiner/ZDNET
@@ -151,7 +155,7 @@ Jason Hiner/ZDNET
 * Apple is also making the Vision Pro available in more countries starting June 28\. You can see the full list [here](https://www.apple.com/newsroom/2024/06/apple-vision-pro-arrives-in-new-countries-and-regions-beginning-june-28/).
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OdlXe5RELW0?si=Iz1H1QnLQVw-Eu3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## AirPods
@@ -161,10 +165,6 @@ Jason Hiner/ZDNET
 * AirPods Pro are getting **Voice Isolation** to enhance call quality in noisier environments.
 * With the new **Siri Interactions**, users can now **nod or shake their head** "yes" or "no" when responding to Siri.
 * Apple is also releasing a **Personalized Spatial Audio API** for game developers to build around the AirPods' audio technology.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## tvOS 18
 
@@ -210,20 +210,22 @@ Screenshot by Nina Raemont/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-direct.techidaily.com/new-2024-approved-essential-tips-on-choosing-and-using-the-best-6-head-harnesses-for-gopro/"><u>[New] 2024 Approved Essential Tips on Choosing & Using the Best 6 Head Harnesses for GOPRO</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-gopro-hero5-black-vs-gopro-hero4-silver/"><u>[New] GoPro Hero5 Black vs GoPro Hero4 Silver</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/2024-approved-ideal-strategies-for-recording-app-activity/"><u>2024 Approved Ideal Strategies for Recording App Activity</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/3-easy-solutions-to-hard-reset-vivo-y36i-drfone-by-drfone-reset-android-reset-android/"><u>3 Easy Solutions to Hard Reset Vivo Y36i | Dr.fone</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/are-browser-extensions-that-utilize-chatgpt-trustworthy-and-safe-to-use/"><u>Are Browser Extensions that Utilize ChatGPT Trustworthy and Safe to Use?</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/exciting-prospects-for-gpt-5-top-4-improvements-we-hope-to-see/"><u>Exciting Prospects for GPT-5: Top 4 Improvements We Hope to See</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/how-to-come-up-with-the-best-pokemon-team-on-realme-narzo-60-5g-drfone-by-drfone-virtual-android/"><u>How to Come up With the Best Pokemon Team On Realme Narzo 60 5G? | Dr.fone</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-repair-corrupt-excel-2019-workbook-by-stellar-guide/"><u>How to Repair Corrupt Excel 2019 Workbook?</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/kickstarting-your-career-in-crafting-dynamic-chatbots/"><u>Kickstarting Your Career in Crafting Dynamic Chatbots</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/maximize-your-chatgpt-utility-explore-the-top-7-chrome-extensions-that-transform-ai-communication-in-browsers/"><u>Maximize Your ChatGPT Utility: Explore the Top 7 Chrome Extensions That Transform AI Communication in Browsers</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/must-have-elements-of-ai-conversational-platforms/"><u>Must-Have Elements of AI Conversational Platforms</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/navigating-limits-in-ai-conversation-exploring-the-token-threshold-of-chatgpt/"><u>Navigating Limits in AI Conversation: Exploring the Token Threshold of ChatGPT</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/restore-missing-app-icon-on-realme-c53-step-by-step-solutions-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Restore Missing App Icon on Realme C53 Step-by-Step Solutions | Dr.fone</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/y-sounds-discover-role-rhythms-for-2024/"><u>Snappy Sounds Discover Role Rhythms for 2024</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/web-development-simplified-crafting-interactive-sites-with-chatgpt-integration/"><u>Web Development Simplified: Crafting Interactive Sites with ChatGPT Integration</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-in-2024-advanced-5-internet-screen-grabbers/"><u>[New] In 2024, Advanced 5 Internet Screen Grabbers</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-in-2024-instant-ideas-recording-ppts-with-ease/"><u>[New] In 2024, Instant Ideas Recording PPTs with Ease</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-prime-websites-boosting-youtube-video-popularity/"><u>[New] Prime Websites Boosting YouTube Video Popularity</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/1726030061487-dvdusb/"><u>「DVDをコピーする自由な方法：USBメモリに簡単移したい？ここでお得なソフトウェア選び術」</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/2024facebook4/"><u>2024年のトップ！Facebook動画を安全に保管する秘訣：ベスト4ピック</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/1726028286638-dvd/"><u>懐かしいディスクのトラブルシューティング: DVDや古いビデオが再生不能になったときの解決策</u></a></li>
+<li><a href="https://article-posts.techidaily.com/elevate-your-videography-on-tiktok-2-ways-for-2024/"><u>Elevate Your Videography on TikTok (2 Ways) for 2024</u></a></li>
+<li><a href="https://location-social.techidaily.com/fixing-errors-in-nikon-video-files-effectively/"><u>Fixing Errors in Nikon Video Files Effectively</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/get-the-latest-gigabyte-gc-wb867d-i-driver-fast-free-download-links/"><u>Get the Latest Gigabyte GC-WB867D-I Driver - Fast, Free Download Links</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/1726027506252-gopro/"><u>GoProビデオ解像度調整の徹底ガイド</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/1726030405738-mp4/"><u>MP4ファイルの再生修正：テレビに適したプレイヤー設定をご紹介</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/1726028177620-ogg/"><u>Ogg音楽ファイルのプレイバック手順とトラブルシューティング</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/1726026736450-pcmp3/"><u>PCおよびスマートフォンに応じた音楽ファイルをMP3へ変換する詳細ガイド</u></a></li>
+<li><a href="https://fox-ssl.techidaily.com/systemprobleme-leicht-aufgeklart-computerscan-ergab-keine-wiederherstellungssicherung/"><u>Systemprobleme Leicht Aufgeklärt: Computerscan Ergab Keine Wiederherstellungssicherung!</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/the-ultimate-guide-to-achieving-flawless-screens-in-adobe-captivity-for-2024/"><u>The Ultimate Guide to Achieving Flawless Screens in Adobe Captivity for 2024</u></a></li>
+<li><a href="https://apple-account.techidaily.com/tips-and-tricks-for-apple-id-locked-issue-from-apple-iphone-xs-by-drfone-ios/"><u>Tips and Tricks for Apple ID Locked Issue From Apple iPhone XS</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/1726027434579-youtube/"><u>YouTubeやカメラロール動画からオーディオクリップでアラーム設定 - チャレンジ解決</u></a></li>
 </ul></div>
 

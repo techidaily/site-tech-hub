@@ -1,7 +1,7 @@
 ---
 title: "Approach: Calculate the Energy for Full and Half Voltage Scenarios Separately, Then Sum Up."
-date: 2024-12-24T17:05:28.840Z
-updated: 2024-12-27T17:30:26.648Z
+date: 2025-01-04T23:24:17.251Z
+updated: 2025-01-06T17:33:04.747Z
 tags:
   - apple
 categories:
@@ -45,7 +45,7 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bofw6eJA7Bg?si=HM2gKZGH4L1otw3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Hey Siri, let's talk about Microsoft
@@ -77,7 +77,7 @@ Microsoft, on the other hand, is a strong brand -- one that's become both more i
 Meanwhile, Siri connotes the phrase "You cannot be Sirious." 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Hey Siri, say goodbye
@@ -126,22 +126,22 @@ This replacement should have a new name -- Cuper or Cooky anyone? -- that'll mak
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-glue.techidaily.com/new-tailoring-podcast-sharing-for-instagram-enthusiasts-for-2024/"><u>[New] Tailoring Podcast Sharing for Instagram Enthusiasts for 2024</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/approved-harmony-hunt-uncover-the-most-popular-free-downloader-apps-on-youtube-and-android/"><u>2024 Approved Harmony Hunt - Uncover the Most Popular Free Downloader Apps on YouTube and Android</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/1110306-9781780995502-a-deed-without-a-name/"><u>A Deed Without a Name | Free Book</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/chatgpt-vs-google-bard-which-advanced-language-model-reigns-supreme/"><u>ChatGPT Vs. Google Bard – Which Advanced Language Model Reigns Supreme?</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/dissecting-the-inflexible-nature-of-chatgpt/"><u>Dissecting the Inflexible Nature of ChatGPT</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-unlock-iphone-13-pro-max-official-method-to-unlock-your-iphone-13-pro-max-by-drfone-ios/"><u>In 2024, How To Unlock iPhone 13 Pro Max Official Method to Unlock Your iPhone 13 Pro Max</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/in-2024-oceanic-visionaries-selecting-the-top-5-cameras/"><u>In 2024, Oceanic Visionaries Selecting the Top 5 Cameras</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/inspiration-infused-da-vincis-latest-ai-prompts-for-artists/"><u>Inspiration Infused: Da Vinci's Latest AI Prompts for Artists</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/latest-developments-in-ai-ethics-chatgpt-controversies-googles-news-feed-transformation-and-maximizing-mobile-internet-during-holidays/"><u>Latest Developments in AI Ethics: ChatGPT Controversies, Google's News Feed Transformation & Maximizing Mobile Internet During Holidays</u></a></li>
-<li><a href="https://facebook.techidaily.com/mastering-2fa-for-safer-email-security-in-gmail-and-outlook/"><u>Mastering 2FA for Safer Email Security in Gmail & Outlook</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/maximizing-wellness-8-innovative-gpt-integrations/"><u>Maximizing Wellness: 8 Innovative GPT Integrations</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/new-how-to-mix-audio-tracks-into-one-file-for-a-video-for-2024/"><u>New How to Mix Audio Tracks Into One File for A Video for 2024</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/revolutionize-your-recipes-7-essential-uses-of-chatgpt-in-the-kitchen/"><u>Revolutionize Your Recipes: 7 Essential Uses of ChatGPT in the Kitchen</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/top-rated-protectors-the-ultimate-guide-to-iphone-13-mini-cases-in-2nd4/"><u>Top-Rated Protectors: The Ultimate Guide to iPhone 13 Mini Cases in 2nD4</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/ultimate-duo-gemini-max-and-supercharged-gpt/"><u>Ultimate Duo: Gemini Max & Supercharged GPT</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/ultimate-guide-to-android-photo-fixes/"><u>Ultimate Guide to Android Photo Fixes</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/unraveling-and-resolving-top-6-gpt-missteps/"><u>Unraveling & Resolving: Top 6 GPT Missteps</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-maximizing-zoom-top-strategies-for-chromebooks/"><u>[Updated] 2024 Approved Maximizing Zoom Top Strategies for Chromebooks</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-banish-your-flickering-facebook-feeds-for-2024/"><u>[Updated] Banish Your Flickering Facebook Feeds for 2024</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-screen-recorder-apps-for-iphoneipad-users-for-2024/"><u>[Updated] Screen Recorder Apps for iPhone/iPad Users for 2024</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/approved-youtube-edition-expert-advice-on-creating-compelling-video-edits/"><u>2024 Approved Youtube Edition Expert Advice on Creating Compelling Video Edits</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/chatgpt-and-google-gemini-faceoff-determining-the-leading-ai-conversationalist/"><u>ChatGPT and Google Gemini Faceoff: Determining the Leading AI Conversationalist</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/deciding-the-champion-in-depth-comparison-between-microsofts-chatgpt-and-huggingfaces-huggingchat-ai-platforms/"><u>Deciding the Champion: In-Depth Comparison Between Microsoft's ChatGPT and HuggingFace's HuggingChat AI Platforms</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/download-the-best-free-m4v-video-player-codec-suite-enhance-your-streaming-experience/"><u>Download the Best FREE M4V Video Player Codec Suite - Enhance Your Streaming Experience</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/gpt-and-huggingchat-showdown-a-clear-winner/"><u>GPT and HuggingChat Showdown: A Clear Winner?</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-from-infinix-note-30-pro-to-any-ios-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data from Infinix Note 30 Pro to Any iOS Devices | Dr.fone</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/leveraging-chatgpt-for-personal-growth-boosting-emotional-quotient-tactics/"><u>Leveraging ChatGPT for Personal Growth: Boosting Emotional Quotient Tactics</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/macx-ipad-video-transporter-seamlessly-rip-dvds-to-your-apple-tablet-on-macos-devices/"><u>MacX iPad Video Transporter: Seamlessly Rip DVDs to Your Apple Tablet on macOS Devices</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/quick-itinerary-creation-made-easy-with-7-free-ai-travel-planning-services-and-chatgpt-applications/"><u>Quick Itinerary Creation Made Easy with 7 Free AI Travel Planning Services & ChatGPT Applications</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/the-five-pitfalls-of-employing-chatgpt-for-insightful-crypto-market-predictions/"><u>The Five Pitfalls of Employing ChatGPT for Insightful Crypto Market Predictions</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/top-8-ai-powered-bots-and-tools-for-enhanced-cryptocurrency-conversations/"><u>Top 8 AI-Powered Bots & Tools for Enhanced Cryptocurrency Conversations</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/two-screen-titans-is-splitcam-supreme-for-2024/"><u>Two-Screen Titans Is SplitCam Supreme for 2024</u></a></li>
+<li><a href="https://win-deluxe.techidaily.com/understanding-the-risks-of-a-roblox-infection-and-easy-step-by-step-removal-guide/"><u>Understanding the Risks of a Roblox Infection & Easy Step-by-Step Removal Guide</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/unleashing-the-power-of-chatgpt-with-siri-on-ios-devices-tips-and-tricks/"><u>Unleashing the Power of ChatGPT with Siri on iOS Devices - Tips & Tricks</u></a></li>
 </ul></div>
 

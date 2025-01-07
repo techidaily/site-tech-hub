@@ -1,7 +1,7 @@
 ---
 title: Sharing the Top Remorse Moment of Upgrading to iOS 18 – A Common Dilemma Discussed on ZDNet
-date: 2024-12-23T21:21:02.273Z
-updated: 2024-12-27T16:45:24.704Z
+date: 2025-01-04T03:24:31.234Z
+updated: 2025-01-06T20:15:58.845Z
 tags:
   - apple
 categories:
@@ -60,7 +60,7 @@ Aside from the inferior Photos app navigation, videos in the Photos app no longe
 "The UX is a huge downgrade. It's so bad that I had to submit feedback to Apple via the feedback app in the beta. Never did one of those when it wasn't a technical bug, just pure user experience frustration," another [Redditor said](https://www.reddit.com/r/apple/comments/1e2jtq5/comment/ld1wsjg/?utm%5Fsource=share&utm%5Fmedium=web3x&utm%5Fname=web3xcss&utm%5Fterm=1&utm%5Fcontent=share%5Fbutton).
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to navigate the iOS 18 Photos app
@@ -109,17 +109,24 @@ I hope a future version of iOS 18 will bring back the Camera Roll or at least to
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-http.techidaily.com/new-2024-approved-unleashing-clarity-with-eizos-coloredge-cg318-4k/"><u>[New] 2024 Approved Unleashing Clarity with EIZO's ColorEdge CG318-4K</u></a></li>
-<li><a href="https://article-files.techidaily.com/new-in-2024-unveiling-filmoras-most-attractive-edits/"><u>[New] In 2024, Unveiling Filmora's Most Attractive Edits</u></a></li>
-<li><a href="https://fox-info.techidaily.com/updated-detailed-review-and-comparison-with-vlc-successors/"><u>[Updated] Detailed Review and Comparison with VLC Successors</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/comprehve-guide-factory-restore-instructions-for-an-hp-laptop-detailed-steps/"><u>Comprehve Guide: Factory Restore Instructions for an HP Laptop [Detailed Steps]</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/coordinating-your-quest-expert-strategies-for-partnered-gameplay-in-monster-hunter-world/"><u>Coordinating Your Quest: Expert Strategies for Partnered Gameplay in Monster Hunter World</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/diy-tutorial-crafting-an-easy-to-use-windows-7-bootable-flash-drive/"><u>DIY Tutorial: Crafting an Easy-to-Use Windows 7 Bootable Flash Drive</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/diy-wireless-printer-configuration-made-simple-a-step-by-step-guide/"><u>DIY Wireless Printer Configuration Made Simple: A Step-by-Step Guide</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-the-top-5-android-apps-that-use-fingerprint-sensor-to-lock-your-apps-on-oneplus-12-by-drfone-android/"><u>In 2024, The Top 5 Android Apps That Use Fingerprint Sensor to Lock Your Apps On OnePlus 12</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/large-studiofx-light-kit-solid-vibrant-glow/"><u>Large StudioFX Light Kit - Solid, Vibrant Glow</u></a></li>
-<li><a href="https://extra-support.techidaily.com/perfect-precision-with-zoom-your-ultimate-youtube-live-stream-toolkit-for-2024/"><u>Perfect Precision with Zoom Your Ultimate YouTube Live Stream Toolkit for 2024</u></a></li>
-<li><a href="https://win-excellent.techidaily.com/quick-guide-adding-srt-captions-seamlessly-to-mp4-file-format/"><u>Quick Guide: Adding SRT Captions Seamlessly to MP4 File Format</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/updated-in-2024-make-your-own-cartoons-top-rated-mobile-apps/"><u>Updated In 2024, Make Your Own Cartoons Top-Rated Mobile Apps</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-navigating-through-vitas-complete-editor-features-in-detailed-review-2024/"><u>[Updated] Navigating Through Vita's Complete Editor Features in Detailed Review 2024</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-unveiling-the-most-innovative-metaverse-visors-and-wearables/"><u>[Updated] Unveiling the Most Innovative Metaverse Visors & Wearables</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/2024-approved-the-complete-obs-playback-handbook/"><u>2024 Approved The Complete OBS Playback Handbook</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/5-quick-methods-to-bypass-infinix-zero-5g-2023-turbo-frp-by-drfone-android/"><u>5 Quick Methods to Bypass Infinix Zero 5G 2023 Turbo FRP</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/a-step-by-step-guide-integrating-automated-bots-into-your-discord-community/"><u>A Step-by-Step Guide: Integrating Automated Bots Into Your Discord Community</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/acknowledging-setbacks-ekwbs-official-apology-and-resolution-plan-for-delayed-payments-to-workers-and-partners/"><u>Acknowledging Setbacks: EKWB'S Official Apology and Resolution Plan for Delayed Payments to Workers and Partners</u></a></li>
+<li><a href="https://win-dash.techidaily.com/easy-installation-guide-get-the-newest-epson-workforce-ds-30-driver-on-windows-systems-windows-11-8-and-7/"><u>Easy Installation Guide: Get the Newest Epson WorkForce DS 30 Driver on Windows Systems (Windows 11, 8 & 7)</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/elevate-your-persuasion-skills-a-step-by-step-tutorial-on-creating-winning-proposals-with-chatgpt/"><u>Elevate Your Persuasion Skills: A Step-by-Step Tutorial on Creating Winning Proposals with ChatGPT</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/expert-guide-to-leveraging-chatgpt-on-mobile-best-practices-for-android-and-apple-devices/"><u>Expert Guide to Leveraging ChatGPT on Mobile - Best Practices for Android & Apple Devices</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/express-thumbnails-for-epic-battle-royale-for-2024/"><u>Express Thumbnails for Epic Battle Royale for 2024</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/illusory-gpt-plugin-hijacks-fb-accounts/"><u>Illusory GPT Plugin: Hijacks FB Accounts</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/mastering-phone-number-free-signups-unlock-access-to-popular-tools-such-as-chatgpt-whatsapp-and-telegram/"><u>Mastering Phone-Number-Free Signups: Unlock Access to Popular Tools Such as ChatGPT, WhatsApp & Telegram.</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/navigate-crypto-markets-easier-with-these-5-chatgpt-investment-tips/"><u>Navigate Crypto Markets Easier with These 5 ChatGPT Investment Tips</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/the-complete-guide-handling-408-request-timeouts-effectively/"><u>The Complete Guide: Handling 408 Request Timeouts Effectively</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/the-impact-of-advanced-ai-preparing-for-the-arrival-of-gpt-4-in-diy-projects/"><u>The Impact of Advanced AI: Preparing for the Arrival of GPT-4 in DIY Projects</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/the-most-useful-tips-for-pokemon-go-ultra-league-on-itel-p55-drfone-by-drfone-virtual-android/"><u>The Most Useful Tips for Pokemon Go Ultra League On Itel P55 | Dr.fone</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/the-role-of-vector-databases-in-advancing-ai-technologies/"><u>The Role of Vector Databases in Advancing AI Technologies</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/unlock-unlimited-potential-generate-images-using-dall-e-3-on-bing-without-cost/"><u>Unlock Unlimited Potential: Generate Images Using DALL-E 3 on Bing Without Cost</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-2024-approved-adobe-premiere-pro-power-ups-the-best-plugins-free-and-affordable/"><u>Updated 2024 Approved Adobe Premiere Pro Power-Ups The Best Plugins (Free & Affordable)</u></a></li>
 </ul></div>
 

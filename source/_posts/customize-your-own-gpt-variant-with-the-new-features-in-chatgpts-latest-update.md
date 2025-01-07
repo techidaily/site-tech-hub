@@ -1,7 +1,7 @@
 ---
 title: Customize Your Own GPT Variant with the New Features in ChatGPT's Latest Update
-date: 2024-08-24T11:24:29.912Z
-updated: 2024-08-25T11:24:29.912Z
+date: 2024-12-31T17:18:05.399Z
+updated: 2025-01-06T20:38:42.141Z
 tags:
   - chatgpt
   - open-ai
@@ -19,6 +19,10 @@ thumbnail: https://thmb.techidaily.com/fae766879cd08ae756a7af9db37ac778f5fbfa89e
 
  The apps are available now via the Play Store and App Store, although you do have to join the waiting list to try out the chatbot functionality if you don't have access already.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## AI-Powered Bing Comes to Mobile
 
  Microsoft has been going all-in on AI recently. The[ChatGPT-enabled version of Bing](https://www.makeuseof.com/microsoft-bing-gets-chatgpt-ai/) caused a storm online as it threatens to[totally change how we search the internet](https://www.makeuseof.com/is-chatgpt-search-engine-threat/) .
@@ -27,6 +31,10 @@ thumbnail: https://thmb.techidaily.com/fae766879cd08ae756a7af9db37ac778f5fbfa89e
 
 ![bing and skype with chatgpt enhanced](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/bing-and-skype-with-chatgpt-enhanced.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Image Credit:[Microsoft](https://blogs.microsoft.com/blog/2023/02/22/the-new-bing-preview-experience-arrives-on-bing-and-edge-mobile-apps-introducing-bing-now-in-skype/)
 
  The Bing app has a whole new look, and perhaps the most interesting part is that it now supports voice to help make your prompts and searches even more intuitive.
@@ -34,6 +42,10 @@ thumbnail: https://thmb.techidaily.com/fae766879cd08ae756a7af9db37ac778f5fbfa89e
  You get started by tapping the Bing icon at the bottom of the screen to begin a chat session. Your responses come in the form of text, bullet points, or simple replies, and you can use it for more than just search.[Microsoft suggests](https://blogs.microsoft.com/blog/2023/02/22/the-new-bing-preview-experience-arrives-on-bing-and-edge-mobile-apps-introducing-bing-now-in-skype/) you might use it to write emails or poems, for example.
 
  The chatbot is also built into the Edge browser, where you can access it via the homepage.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Skype Gets AI Features
 
@@ -44,8 +56,9 @@ thumbnail: https://thmb.techidaily.com/fae766879cd08ae756a7af9db37ac778f5fbfa89e
  To access this feature, you simply need to add Bing to your group chats as you would any other contact. It's available worldwide and can respond in over 100 languages.
 
 <!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958379/18409" target="_top" id="1958379"><img src="//a.impactradius-go.com/display-ad/18409-1958379" border="0" alt="" width="856" height="508"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958379/18409" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UUPt2zKtJ5k?si=LLHdsFDLzVByJsKj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## How to Use the New ChatGPT Bing Apps
 
  If you haven't already got access to the new Bing chatbot, you'll have to[join the waitlist](https://www.makeuseof.com/try-bing-ai-powered-search-engine/) before you can start using it. To do this, just install one of the apps and follow the on-screen prompts. Microsoft says it has given access to more than a million users across 169 countries so far, with more added every day.
@@ -57,12 +70,9 @@ thumbnail: https://thmb.techidaily.com/fae766879cd08ae756a7af9db37ac778f5fbfa89e
 **Download:** Skype for[Android](https://www.anrdoezrs.net/links/7251228/type/dlg/sid/UUmuoUeUpU2022079/https://play.google.com/store/apps/details?id=com.skype.raider) |[iOS](https://apps.apple.com/us/app/skype/id304878510) (Free, in-app purchases available)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633309&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/3_premium-icon.png" border="0"> Take advantage of PREMIUM features for 12 months. 
-Create your texts / logos without any limitation. 
-No attribution required when downloading. 
-No advertising on the website. 
- TextStudio.com  PREMIUM - Yearly Membership</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RvR5PNhspKE?si=uJcMYK9v-_Xq7fAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Test Out AI Chat on Android and iPhone Today
 
  It was only a matter of time before AI chatbots made the move to mobile. The new version of Bing has certainly shaken up the industry—although it hasn't been without controversy.
@@ -71,14 +81,11 @@ No advertising on the website.
 
  And in its mobile form, it is still very much a search tool, so is not something that's going to be replacing Google Assistant, Siri, Bixby, or any other voice assistant any time soon.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -87,4 +94,26 @@ No advertising on the website.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-video-files.techidaily.com/new-decoding-instagrams-legal-framework-for-musicians/"><u>[New] Decoding Instagram's Legal Framework for Musicians</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-in-2024-simple-steps-to-record-your-youtube-streams/"><u>[New] In 2024, Simple Steps to Record Your YouTube Streams</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-revamping-your-podcasts-identity-leading-ai-tools/"><u>[New] Revamping Your Podcast's Identity Leading AI Tools</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-zany-zooms-iphone-meme-world/"><u>[New] Zany Zooms IPhone Meme World</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-exploring-the-field-gear-vs-lgcam-comparison/"><u>[Updated] Exploring the Field Gear vs LGCam Comparison</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-viewership-victory-surpassing-500-subscriber-mark-for-2024/"><u>[Updated] Viewership Victory Surpassing 500 Subscriber Mark for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/1726222928048-webm-wma-movavi/"><u>直接在線上逆向編碼 WEBM成為 WMA：利用 Movavi 的方法</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/chatgpt-and-the-question-of-openais-continued-oversight/"><u>ChatGPT and the Question of OpenAI's Continued Oversight</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/chatgpt-upgrades-unveiled-enroll-now-for-the-cutting-edge-plugin-platform/"><u>ChatGPT Upgrades Unveiled: Enroll Now for the Cutting-Edge Plugin Platform!</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/essential-tips-preventing-common-pitfalls-in-generative-ai-utilization/"><u>Essential Tips: Preventing Common Pitfalls in Generative AI Utilization</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/exploring-the-restrictions-of-chatgpt-seven-unanswerable-topics/"><u>Exploring the Restrictions of ChatGPT: Seven Unanswerable Topics</u></a></li>
+<li><a href="https://techidaily.com/how-to-reset-oppo-reno-11-pro-5g-without-losing-data-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset Oppo Reno 11 Pro 5G without Losing Data | Dr.fone</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/in-2024-peak-memes-ranking-the-viral-ones-on-both-platforms/"><u>In 2024, Peak Memes Ranking the Viral Ones on Both Platforms</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/in-2024-reclaim-inaccessible-watch-icon/"><u>In 2024, Reclaim Inaccessible Watch Icon</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/in-depth-instructions-integrating-microsoft-copilot-into-your-macos-workflow/"><u>In-Depth Instructions: Integrating Microsoft Copilot Into Your macOS Workflow</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/myai-versus-chatgpt-on-snapchat-which-artificial-intelligence-should-be-your-pick/"><u>MyAI Versus ChatGPT on Snapchat – Which Artificial Intelligence Should Be Your Pick?</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/secure-communication-gateway-gpt-plus-vpn/"><u>Secure Communication Gateway: GPT + VPN?</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/the-rising-trend-of-malicious-incursions-against-chatgpt-users-why-now/"><u>The Rising Trend of Malicious Incursions Against ChatGPT Users: Why Now?</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/why-coin-experts-cant-be-replaced-by-gpt-analysis-tools/"><u>Why Coin Experts Can't Be Replaced by GPT Analysis Tools</u></a></li>
+</ul></div>
 

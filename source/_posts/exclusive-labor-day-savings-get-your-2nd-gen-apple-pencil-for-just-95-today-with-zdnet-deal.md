@@ -1,7 +1,7 @@
 ---
 title: Exclusive Labor Day Savings! Get Your 2Nd Gen Apple Pencil for Just $95 Today with ZDNET Deal
-date: 2024-12-20T19:29:12.622Z
-updated: 2024-12-27T21:03:02.874Z
+date: 2025-01-05T20:05:19.463Z
+updated: 2025-01-06T18:28:32.755Z
 tags:
   - apple
 categories:
@@ -34,7 +34,7 @@ By using the Apple Pencil with your iPad (specifically, the iPad Pro 2022 model)
 Get the [Apple Pencil (2nd Gen)](https://goto.walmart.com/c/5597632/565706/9383?sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.walmart.com%2Fip%2FApple-Pencil-2nd-Generation-Pixel-Perfect-Precision-Industry-Leading-Low-Latency-Perfect-Note-Taking-Drawing-Signing-documents-Attaches-Charges-Pairs%2F949679706&subId1=zd-__COM_CLICK_ID__-dtp) with $35 in savings right now if you want to upgrade your iPad stylus. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RvR5PNhspKE?si=uJcMYK9v-_Xq7fAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## When will this deal expire?
@@ -71,16 +71,24 @@ Deals are subject to sell-out or expire at any time, though ZDNET remains commit
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-videos.techidaily.com/new-frame-your-cinematic-tales-three-paths-for-instagram-borders/"><u>[New] Frame Your Cinematic Tales Three Paths for Instagram Borders</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/updated-fusionflicker-compiling-media-on-sierra-screens/"><u>[Updated] FusionFlicker Compiling Media on Sierra Screens</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/updated-in-2024-learn-to-activate-picture-in-picture-viewing-on-iphones-youtube-app/"><u>[Updated] In 2024, Learn to Activate Picture-in-Picture Viewing on iPhone's Youtube App</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/decoding-ai-variants-how-public-private-and-personal-ai-differentiate-from-each-other/"><u>Decoding AI Variants: How Public, Private, and Personal AI Differentiate From Each Other</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/embrace-free-gpt-4-but-dont-ignore-the-exclusive-perks-available-to-plus-users/"><u>Embrace Free GPT-4; But Don’t Ignore the Exclusive Perks Available to Plus Users.</u></a></li>
-<li><a href="https://driver-install.techidaily.com/epson-printer-compatibility-universal-software-download-for-oss/"><u>Epson Printer Compatibility: Universal Software Download for OSs</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-ultimate-guide-to-get-the-meltan-box-pokemon-go-for-xiaomi-mix-fold-3-drfone-by-drfone-virtual-android/"><u>In 2024, Ultimate guide to get the meltan box pokemon go For Xiaomi Mix Fold 3 | Dr.fone</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/saving-smiles-the-ultimate-list-of-twitvid-tools-for-2024/"><u>Saving Smiles The Ultimate List of TwitVid Tools for 2024</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/shield-site-from-web-scouring-ais/"><u>Shield Site From Web-Scouring AIs</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/the-essentials-of-shap-e-how-openai-is-advancing-model-interpretability/"><u>The Essentials of Shap-E: How OpenAI Is Advancing Model Interpretability</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/understanding-the-risks-can-employees-be-terminated-for-utilizing-chatgpt/"><u>Understanding the Risks: Can Employees Be Terminated for Utilizing ChatGPT?</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-2024-approved-ending-dark-mode-glitches-on-playback/"><u>[New] 2024 Approved Ending Dark Mode Glitches on Playback</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-2024-approved-twitters-crown-jewels-the-most-liked-and-binge-watched-content/"><u>[New] 2024 Approved Twitter's Crown Jewels The Most Liked & Binge-Watched Content</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-2024-approved-unleashing-speed-in-facebook-videos-the-best-tools-and-tips/"><u>[New] 2024 Approved Unleashing Speed in Facebook Videos The Best Tools and Tips</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-curated-list-of-premium-iphone-x7-camera-improvers-for-2024/"><u>[New] Curated List of Premium iPhone X/7 Camera Improvers for 2024</u></a></li>
+<li><a href="https://network-issues.techidaily.com/solution-found-windows-1110-no-amd-adapter-error/"><u>[SOLUTION FOUND] Windows 11/10 No AMD Adapter Error</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/2024-approved-top-mp4-to-facebook-video-converter-2023-edition/"><u>2024 Approved Top MP4-to-Facebook Video Converter 2023 Edition</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/compress-videos-from-h264-to-mp4-smaller-sizes-unchanged-excellence-in-quality/"><u>Compress Videos From H264 to MP4: Smaller Sizes, Unchanged Excellence in Quality</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/convert-your-beloved-ripped-ballet-workout-dvd-into-multiple-digital-versions-for-easy-access/"><u>Convert Your Beloved Ripped Ballet Workout DVD Into Multiple Digital Versions for Easy Access</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/ds-station-converter-transforming-ds2-files-into-mp3/"><u>DS-Station Converter: Transforming DS2 Files Into MP3</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/effortless-video-cropping-tips-for-windows-natives-at-no-cost/"><u>Effortless Video Cropping Tips for Windows Natives at No Cost!</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/free-conversion-transforming-your-dvds-into-mp4-format-on-windows-1011/"><u>Free Conversion: Transforming Your DVDs Into MP4 Format on Windows 10/11</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/free-tips-for-transforming-3gpp-tracks-into-mp3-format-quickly/"><u>Free Tips for Transforming 3GPP Tracks Into MP3 Format Quickly</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/free-wonderfox-download-ultimate-dvd-ripper-and-hd-video-transformation-tool/"><u>Free WonderFox Download - Ultimate DVD Ripper & HD Video Transformation Tool</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/get-the-ultimate-video-editing-tool-for-your-nokia-phones-with-wonderfox-factory-pro/"><u>Get the Ultimate Video Editing Tool for Your Nokia Phones with WonderFox Factory Pro</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/high-definition-dvd-extractor-convert-your-dvds-into-stunning-hd-videos/"><u>High Definition DVD Extractor: Convert Your DVDs Into Stunning HD Videos</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/linguistic-identity-of-israelis-revealed/"><u>Linguistic Identity of Israelis Revealed?</u></a></li>
+<li><a href="https://fox-links.techidaily.com/nature-backdrop-sketches-essential-downloads-for-videographers-for-2024/"><u>Nature Backdrop Sketches Essential Downloads for Videographers for 2024</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ating-nerves-in-10-must-do-vlogs/"><u>Navigating Nerves in 10 Must-Do Vlogs</u></a></li>
+<li><a href="https://media-tips.techidaily.com/optimizing-audio-quality-finding-the-ideal-bitrate-conversion-for-mp3s/"><u>Optimizing Audio Quality: Finding the Ideal Bitrate Conversion for MP3s</u></a></li>
 </ul></div>
 

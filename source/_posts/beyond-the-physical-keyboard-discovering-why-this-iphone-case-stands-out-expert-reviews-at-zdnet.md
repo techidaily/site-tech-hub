@@ -1,7 +1,7 @@
 ---
 title: "Beyond the Physical Keyboard: Discovering Why This iPhone Case Stands Out | Expert Reviews at ZDNet"
-date: 2024-12-27T09:45:57.498Z
-updated: 2024-12-27T22:16:37.069Z
+date: 2025-01-01T01:53:51.281Z
+updated: 2025-01-06T21:44:12.625Z
 tags:
   - apple
 categories:
@@ -21,7 +21,7 @@ Matthew Miller/ZDNET
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ###  ZDNET's key takeaways
@@ -84,7 +84,7 @@ My biggest challenge now is memorizing all the shortcuts I've created, but the a
 Clicks is available for the two iPhone 14 Pro models and all four models of the iPhone 15\. Availability of the various colors varies, so check back on the website if you don't see the one you want. I would love to hear which shortcuts you created and find the most useful, so leave a comment below.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LaGNHfAT92w?si=bvHo1iYK2JBIPtRo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  ZDNET's buying advice
@@ -123,24 +123,24 @@ If you miss the physical keyboard on devices like the Blackberry, this accessory
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-clips.techidaily.com/new-2024-approved-the-editors-playbook-top-tools-to-boost-your-ig-content/"><u>[New] 2024 Approved The Editor's Playbook Top Tools to Boost Your IG Content</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-instagram-upload-recycling-101/"><u>[New] Instagram Upload Recycling 101</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/ed-2024-approved-best-of-the-best-cutting-edge-hiring-videos-1-10/"><u>[Updated] 2024 Approved Best of the Best Cutting-Edge Hiring Videos #1-10</u></a></li>
-<li><a href="https://fox-links.techidaily.com/updated-2024-approved-up-to-date-tips-for-purchasing-top-360-imagers/"><u>[Updated] 2024 Approved Up-to-Date Tips for Purchasing Top 360 Imagers</u></a></li>
-<li><a href="https://fox-http.techidaily.com/updated-comprehensive-analysis-of-samsung-image-editor-for-2024/"><u>[Updated] Comprehensive Analysis of Samsung Image Editor for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-free-video-openings-that-stand-out-today/"><u>[Updated] Free Video Openings That Stand Out Today</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/ed-in-2024-craft-stellar-channels-best-10-apps-for-artistic-banner-design/"><u>[Updated] In 2024, Craft Stellar Channels Best 10 Apps for Artistic Banner Design</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-unlocking-your-potential-in-youtube-video-production-scripts/"><u>[Updated] Unlocking Your Potential in YouTube Video Production Scripts</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/ai-showdown-which-one-wins-in-ease-of-use-and-reliability-claude-or-chatgpt/"><u>AI Showdown: Which One Wins in Ease of Use and Reliability - Claude or ChatGPT?</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/beyond-toys-six-key-points-about-snapchats-my-ai/"><u>Beyond Toys: Six Key Points About Snapchat’s My AI</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/demystifying-chatbots-the-ai-revolution/"><u>Demystifying Chatbots: The AI Revolution</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/empowering-online-teams-with-chatgpts-assistance/"><u>Empowering Online Teams with ChatGPT's Assistance</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/exploring-the-humor-potential-in-artificial-intelligence-plus-an-insight-into-laptop-evolution-and-advancements-in-virtual-private-network-technology/"><u>Exploring the Humor Potential in Artificial Intelligence: Plus, an Insight Into Laptop Evolution & Advancements in Virtual Private Network Technology</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/how-to-empower-your-windows-based-chatgpt/"><u>How to Empower Your Windows-Based ChatGPT</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-enable-usb-debugging-on-a-locked-samsung-galaxy-f14-5g-phone-by-drfone-android/"><u>In 2024, How To Enable USB Debugging on a Locked Samsung Galaxy F14 5G Phone</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/master-the-art-of-cookery-by-leveraging-chatgpts-expertise-top-7-techniques/"><u>Master the Art of Cookery by Leveraging ChatGPT's Expertise: Top 7 Techniques</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/unlocking-creative-potential-transforming-text-to-visual-art-through-chatgpt/"><u>Unlocking Creative Potential: Transforming Text to Visual Art Through ChatGPT</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/why-you-might-want-to-pass-on-a-chatgpt-mobile-app-download/"><u>Why You Might Want to Pass on a ChatGPT Mobile App Download</u></a></li>
-<li><a href="https://discover-advanced.techidaily.com/wie-man-apple-id-von-einem-ipad-loscht-ohne-das-kennwort-zu-kennen/"><u>Wie Man Apple-ID Von Einem iPad Löscht, Ohne Das Kennwort Zu Kennen</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-in-2024-streamlining-audio-addition-in-creative-cloud-suite/"><u>[New] In 2024, Streamlining Audio Addition in Creative Cloud Suite</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-quick-fixes-to-resume-paused-stream-on-facebook-for-2024/"><u>[Updated] Quick Fixes to Resume Paused Stream on Facebook for 2024</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/2024-approved-how-to-screenshot-on-snapchat-5-ways/"><u>2024 Approved How to Screenshot on Snapchat [5 Ways]</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/2024-approved-quickcapture-chromes-screen-recording-feature/"><u>2024 Approved QuickCapture Chrome's Screen Recording Feature</u></a></li>
+<li><a href="https://howto.techidaily.com/4-solutions-to-fix-unfortunately-your-app-has-stopped-error-on-samsung-galaxy-a14-4g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>4 Solutions to Fix Unfortunately Your App Has Stopped Error on Samsung Galaxy A14 4G | Dr.fone</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/can-you-trust-third-party-chatgpt-software-a-safety-guide/"><u>Can You Trust Third-Party ChatGPT Software? A Safety Guide</u></a></li>
+<li><a href="https://fox-zero.techidaily.com/comprehensive-guide-on-utilizing-microsofts-universal-windows-platform-bootstrapper-menu-options/"><u>Comprehensive Guide on Utilizing Microsoft's Universal Windows Platform Bootstrapper Menu Options</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/conversation-contenders-is-claude-ai-leaving-chatgpt-behind-in-the-quest-for-superiority/"><u>Conversation Contenders: Is Claude AI Leaving ChatGPT Behind in the Quest for Superiority?</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/essential-apps-and-extensions-for-archiving-your-chatgpt-interactions/"><u>Essential Apps & Extensions for Archiving Your ChatGPT Interactions</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-fake-the-location-to-get-around-the-mlb-blackouts-on-xiaomi-redmi-note-12t-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Fake the Location to Get Around the MLB Blackouts on Xiaomi Redmi Note 12T Pro | Dr.fone</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-securing-your-youtube-profile-a-guide/"><u>In 2024, Securing Your YouTube Profile A Guide</u></a></li>
+<li><a href="https://win-blog.techidaily.com/inside-the-fixes-for-cod-vanguards-bug-5573-expert-tips-and-advice/"><u>Inside the Fixes for COD Vanguard's Bug #5573 – Expert Tips and Advice</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/leading-innovative-smart-spectacles-2024-edition/"><u>Leading Innovative Smart Spectacles - 2024 Edition</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/maximizing-your-experience-effective-strategies-for-utilizing-chatgpt-from-microsoft/"><u>Maximizing Your Experience: Effective Strategies for Utilizing ChatGPT From Microsoft</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/revolutionize-your-coding-workflow-using-chatgpt-in-vs-code/"><u>Revolutionize Your Coding Workflow: Using ChatGPT in VS Code</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/the-development-journey-how-gpt-1-transformed-into-the-powerful-gpt-4-explained/"><u>The Development Journey: How GPT-1 Transformed Into the Powerful GPT-4 Explained</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/top-traits-for-choosing-ai-assistant-services/"><u>Top Traits for Choosing AI Assistant Services</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/unveiling-googles-ai-gemini-its-potential-and-impact-in-technology/"><u>Unveiling Google's AI Gemini: Its Potential and Impact in Technology</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/website-building-boosted-by-ai-discover-how-chatgpt-contributes-in-4-ways/"><u>Website Building Boosted by AI: Discover How ChatGPT Contributes in 4 Ways</u></a></li>
 </ul></div>
 
