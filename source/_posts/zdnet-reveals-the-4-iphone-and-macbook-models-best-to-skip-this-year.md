@@ -1,7 +1,7 @@
 ---
 title: ZDNet Reveals the 4 iPhone & MacBook Models Best to Skip This Year!
-date: 2025-01-04T19:32:21.719Z
-updated: 2025-01-07T04:29:40.345Z
+date: 2025-01-09T16:23:19.009Z
+updated: 2025-01-13T16:56:45.082Z
 tags:
   - apple
 categories:
@@ -22,15 +22,15 @@ It may surprise you that MP3 players (also known as digital audio players or DAP
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What is the best MP3 player right now?
 
 We rounded up the top MP3 players you can buy by evaluating storage, battery life, media type, and price to deliver this curated list of picks. My top choice for best MP3 player overall is the [Sony NW-A306 Walkman](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fsony-nw-a306-walkman-a-series-black%2F6531351.p%3FskuId%3D6531351&publisher_slug=itechdaily19598&exclusive=1) thanks to its compact design, price, and high-quality audio, but I've rounded up the best MP3 players on the market today that are worth ditching your smartphone for. 
 
 **Also:** [**The best sound systems you can buy**](https://www.zdnet.com/home-and-office/home-entertainment/best-sound-system/)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UCqHbpxQGP4?si=XGkajFHdqyoKNAFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## The best MP3 players of 2024
 
@@ -46,11 +46,11 @@ Pros
 Cons 
 * Can be a bit tricky to use with a Mac
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Sony NW-A306 Walkman
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/e4Nt2xXXtmE?si=CtKwFry4b0AJXnaN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Best MP3 player overall
 
@@ -99,10 +99,14 @@ Show less
 [View now at Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0C5FWM9XD%3FlinkCode%3Dogi%26th%3D1%26psc%3D1%26tag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Ce3db7b21-4f97-4659-9487-95c216f484c1%7Cdtp&dtb=1)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c-BHGGIC0zE?si=FzUQKZa-bx8OlKuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Mighty 3 Spotify Music Player
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/j5gTm5KxtQ0?si=onF1rBS2nEM5nLGg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Best mini MP3 player
 
@@ -129,10 +133,6 @@ Cons
 * Quick charge isn't really that quick
 * Older software and limited memory
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Fiio M11S
 
 ### Best lossless audio MP3 player
@@ -158,6 +158,10 @@ The best MP3 player for most people is the Sony NW-A306 Walkman, based on compat
 | Mighty 3             | $125      | 8GB                                  | 8 hours              |
 | Fiio M11S            | $500      | 32GB                                 | 13 hours             |
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaGNHfAT92w?si=bvHo1iYK2JBIPtRo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Which MP3 player is right for you?
 
 The right MP3 player for you will depend on how much storage you need, what audio files you want to upload, if you need something simple or high-end, and what price you're willing to spend. 
@@ -180,12 +184,16 @@ There are several considerations to keep in mind before purchasing an MP3 player
 * **Battery:** The great thing about modern-day MP3 players is that they will have much better battery lives than the devices of the past. The average battery life for a good MP3 player will be about 12 hours.
 * **Price:** MP3 players vary greatly in price, from budget-friendly picks to expensive ones built for audiophiles.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9hsPbiic0O8?si=58mZ2Cu6wicQfsUP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How did we choose these MP3 players?
 
 When choosing the best MP3 players, we do extensive research into different products and brands, taking into consideration user reviews (both good and bad), competitor analysis, and more.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How many songs does an MP3 player hold?
@@ -197,10 +205,6 @@ This all depends on the amount of storage that is on the MP3 device. The number 
 * 16GB = 4,000 songs
 * 32GB = 8,000 songs
 * 64GB = 16,000 songs
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Is it worth it to buy an MP3 player?
 
@@ -215,10 +219,6 @@ Many MP3 players today support multiple audio files. Here are the most popular o
 * **WMA:** A Windows-based MP3 alternative.
 * **AAC:** Provides high-quality sound thanks to advanced audio coding.
 * **OGG**: A Spotify-specific audio format.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9ECz3oZ8NrQ?si=86vkwkDJo9HQXpzt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Do MP3 players need Wi-Fi?
 
@@ -270,24 +270,20 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-how-regular-are-youtube-monetization-payments/"><u>[New] 2024 Approved How Regular Are YouTube Monetization Payments?</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/new-virtual-reality-capture-heres-the-best-software/"><u>[New] Virtual Reality Capture? Here's the Best Software</u></a></li>
-<li><a href="https://fox-links.techidaily.com/updated-2024-approved-premium-choices-the-best-8-tripods-for-4k-cinematography/"><u>[Updated] 2024 Approved Premium Choices The Best 8 Tripods for 4K Cinematography</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/analyzing-the-art-of-machine-made-dialogues-le-chat-vs-gpt-3/"><u>Analyzing the Art of Machine-Made Dialogues: Le Chat vs GPT-3</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/chatgpt-elite-does-it-pay-off/"><u>ChatGPT Elite: Does It Pay Off?</u></a></li>
-<li><a href="https://discover-cloud.techidaily.com/come-risolvere-il-problema-di-importazione-dei-video-hevc-su-adobe-premiere-pro/"><u>Come Risolvere Il Problema Di Importazione Dei Video HEVC Su Adobe Premiere Pro</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/cracking-cases-digitally-explore-4-innovative-ai-powered-homicide-challenges/"><u>Cracking Cases Digitally: Explore 4 Innovative AI-Powered Homicide Challenges</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/creative-soundscapes-with-chatgpt-a-guide-to-enhancing-daw-projects/"><u>Creative Soundscapes with ChatGPT: A Guide to Enhancing DAW Projects</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/delving-into-automated-gpt-vs-conversational-chatgpt-similarities-and-contrasts/"><u>Delving Into Automated GPT Vs. Conversational ChatGPT: Similarities & Contrasts</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/how-to-find-your-ideal-ai-chatbot-service-check-out-these-critical-7-features-first/"><u>How to Find Your Ideal AI Chatbot Service: Check Out These Critical 7 Features First</u></a></li>
-<li><a href="https://article-files.techidaily.com/in-2024-capture-and-crop-with-ios-top-iphone-apps-reviewed/"><u>In 2024, Capture & Crop with iOS Top iPhone Apps Reviewed</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-share-location-in-messenger-on-samsung-galaxy-f54-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Share Location in Messenger On Samsung Galaxy F54 5G? | Dr.fone</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-simple-and-effective-ways-to-change-your-country-on-youtube-app-of-your-realme-c33-2023-drfone-by-drfone-virtual-android/"><u>In 2024, Simple and Effective Ways to Change Your Country on YouTube App Of your Realme C33 2023 | Dr.fone</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/is-gpts-influence-erasing-students-essay-excellence/"><u>Is GPT's Influence Erasing Students' Essay Excellence?</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/ocean-acidification-the-unseen-consequence-of-carbon-emissions/"><u>Ocean Acidification: The Unseen Consequence of Carbon Emissions</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/piecing-together-memories-your-guide-to-montages/"><u>Piecing Together Memories Your Guide to Montages</u></a></li>
-<li><a href="https://change-location.techidaily.com/the-most-useful-tips-for-pokemon-go-ultra-league-on-vivo-y78plus-t1-edition-drfone-by-drfone-virtual-android/"><u>The Most Useful Tips for Pokemon Go Ultra League On Vivo Y78+ (T1) Edition | Dr.fone</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/trustworthiness-of-ai-enhancements-gpt-apps-reviewed/"><u>Trustworthiness of AI Enhancements: GPT Apps Reviewed</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/ultimate-collection-free-3d-text-psds-galore/"><u>Ultimate Collection FREE 3D Text PSDs Galore</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-elite-10-royal-warfare-games/"><u>[New] Elite 10 Royal Warfare Games</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/nveiling-the-leaders-free-top-6-youtube-snackers/"><u>[New] Unveiling the Leaders Free Top 6 YouTube Snackers</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-unlocking-the-power-of-multiframe-views-in-edge/"><u>[Updated] 2024 Approved Unlocking the Power of Multiframe Views in Edge</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-powerdirector-elite-edition-review-the-ultimate-2024/"><u>[Updated] PowerDirector Elite Edition Review - The Ultimate 2024</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/3-easy-solutions-to-hard-reset-lava-yuva-3-pro-drfone-by-drfone-reset-android-reset-android/"><u>3 Easy Solutions to Hard Reset Lava Yuva 3 Pro | Dr.fone</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/ai-face-off-comparing-notion-and-chatgpt-for-ultimate-productivity/"><u>AI Face-Off: Comparing Notion and ChatGPT for Ultimate Productivity</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/are-costly-advanced-ai-prompt-platforms-a-good-value/"><u>Are Costly Advanced AI Prompt Platforms a Good Value?</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/best-practices-for-privacy-in-work-related-chats/"><u>Best Practices for Privacy in Work-Related Chats</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/beyond-alan-turings-legacy-top-5-contemporary-approaches-for-assessing-artificial-intelligence/"><u>Beyond Alan Turing's Legacy: Top 5 Contemporary Approaches for Assessing Artificial Intelligence</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/boost-productivity-in-9-ways-using-the-power-of-chatgpt/"><u>Boost Productivity in 9 Ways Using the Power of ChatGPT</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/can-i-trust-chatgpt-with-developing-a-custom-workout-plan-that-prioritizes-safety-and-efficiency/"><u>Can I Trust ChatGPT with Developing a Custom Workout Plan That Prioritizes Safety and Efficiency?</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/como-revisar-y-restablecer-el-registro-de-mensajes-de-wechat-en-tu-iphone/"><u>Cómo Revisar Y Restablecer El Registro De Mensajes De WeChat en Tu iPhone</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-frp-hijacker-by-hagard-download-and-bypass-your-tecno-pop-7-pro-frp-locks-by-drfone-android/"><u>In 2024, FRP Hijacker by Hagard Download and Bypass your Tecno Pop 7 Pro FRP Locks</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-unova-stone-pokemon-go-evolution-list-and-how-catch-them-for-samsung-galaxy-f04-drfone-by-drfone-virtual-android/"><u>In 2024, Unova Stone Pokémon Go Evolution List and How Catch Them For Samsung Galaxy F04 | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/will-the-ipogo-get-you-banned-and-how-to-solve-it-on-realme-narzo-n53-drfone-by-drfone-virtual-android/"><u>Will the iPogo Get You Banned and How to Solve It On Realme Narzo N53 | Dr.fone</u></a></li>
 </ul></div>
 

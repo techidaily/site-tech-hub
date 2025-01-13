@@ -1,7 +1,7 @@
 ---
 title: "MacBook Air with M1 Chip Now at Unbeatable Price of $649: The Ultimate Deal on ZDNet"
-date: 2025-01-03T20:44:25.722Z
-updated: 2025-01-07T02:18:53.510Z
+date: 2025-01-12T16:32:10.011Z
+updated: 2025-01-13T16:44:47.730Z
 tags:
   - apple
 categories:
@@ -42,7 +42,7 @@ At $649, this is the lowest price for the M1 version of the MacBook Air that we'
 The [M1 MacBook Air](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fmacbook-air-13-3-laptop-apple-m1-chip-8gb-memory-256gb-ssd-space-gray-space-gray%2F5721600.p%3FskuId%3D5721600&publisher_slug=itechdaily19598&exclusive=1) first retailed for $999 when it was released, but Apple sells refurbished versions for $799, making these deals even better than anything Apple is offering. The [M1 MacBook Air](https://goto.walmart.com/c/5597632/565706/9383?sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.walmart.com%2Fip%2FApple-MacBook-Air-13-3-inch-Laptop-Silver-M1-Chip-8GB-RAM-256GB-storage%2F609040889&subId1=zd-__COM_CLICK_ID__-dtp) is available in three different colors: gold, space gray, and silver. Snag these savings while you can. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## When will this deal expire?
@@ -81,20 +81,19 @@ However, deals are subject to sell out or expire at any time, though ZDNET remai
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-clips.techidaily.com/new-2024-approved-the-enigma-of-missing-video-suggestions-in-your-feed/"><u>[New] 2024 Approved The Enigma of Missing Video Suggestions in Your Feed</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/new-creative-techniques-for-incorporating-alternate-shots-for-2024/"><u>[New] Creative Techniques for Incorporating Alternate Shots for 2024</u></a></li>
-<li><a href="https://article-tips.techidaily.com/new-drone-visionarys-guide-to-mavic-pro-for-2024/"><u>[New] Drone Visionary's Guide to Mavic Pro for 2024</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/updated-elevate-your-profile-the-complete-guide-to-editing-numbers-on-tiktok/"><u>[Updated] Elevate Your Profile The Complete Guide to Editing Numbers on TikTok</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/iuoajomhloockuimiplusobioobquobjplusobmeociplusodhuocrplusodiplusodgplusocrzog5yuv55s75pku5b2x44gn44k544k44oz44ox44gm6y2144cnig/"><u>「顔を見えなくするテクニック: 動画撮影でスタンプが鍵」</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/approved-gain-viewership-virtuously-expert-guide-to-implementing-youtubes-featured-listings/"><u>2024 Approved Gain Viewership Virtuously Expert Guide to Implementing YouTube's Featured Listings</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/2024-approved-the-essential-guide-to-earnings-monetizing-content-on-vimeo/"><u>2024 Approved The Essential Guide to Earnings Monetizing Content on Vimeo</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/a-guide-nokia-g42-5g-wireless-and-wired-screen-mirroring-drfone-by-drfone-android/"><u>A Guide Nokia G42 5G Wireless and Wired Screen Mirroring | Dr.fone</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/get-your-favorite-songs-as-ios-ringback-tones-for-free-using-these-top-tools-webdesktop/"><u>Get Your Favorite Songs as IOS Ringback Tones for Free Using These Top Tools (Web/Desktop)</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/how-can-you-capture-your-favorite-content-from-peacock-on-any-device/"><u>How Can You Capture Your Favorite Content From Peacock on Any Device?</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/how-to-legally-transfer-films-from-dvds-secure-downloads-guide/"><u>How to Legally Transfer Films From DVDs - Secure Downloads Guide</u></a></li>
-<li><a href="https://review-topics.techidaily.com/how-to-update-or-downgrade-iphone-15-without-itunes-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Update or Downgrade iPhone 15 Without iTunes? | Dr.fone</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/master-the-art-of-downloading-from-newgrounds-discover-three-proven-strategies-for-quick-and-safe-video-extraction/"><u>Master the Art of Downloading From Newgrounds: Discover Three Proven Strategies for Quick and Safe Video Extraction</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/mastering-video-editing-expert-tips-on-using-ffmpeg-and-other-superior-options/"><u>Mastering Video Editing: Expert Tips on Using FFmpeg and Other Superior Options</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/microsoft-os/"><u>Microsoft OSの最新バージョンを使った音楽トリミングテクニック紹介</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/n-2024-leveraging-yt-playlist-features-for-site-enhancement/"><u>[New] In 2024, Leveraging YT Playlist Features for Site Enhancement</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-2024-approved-effortless-embedding-techniques-for-streaming-video-in-presentations/"><u>[Updated] 2024 Approved Effortless Embedding Techniques for Streaming Video in Presentations</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-2024-approved-fb-vids-to-mp4-downloader-efficient-and-effective/"><u>[Updated] 2024 Approved FB Vids to MP4 Downloader – Efficient & Effective</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/05232020-updated-elevate-creations-get-free-high-quality-templates-today/"><u>[Updated] Elevate Creations - Get FREE High-Quality Templates Today</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-essential-steps-to-utilizing-azures-speech-to-text-service-effectively-for-2024/"><u>[Updated] Essential Steps to Utilizing Azure's Speech-to-Text Service Effectively for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-inside-track-becoming-an-expert-in-srt-technology/"><u>[Updated] Inside Track Becoming an Expert in SRT Technology</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-quick-guide-initiating-and-managing-android-zoom-calls/"><u>[Updated] Quick Guide Initiating & Managing Android Zoom Calls</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-the-ultimate-gopro-camera-showdown/"><u>2024 Approved The Ultimate GoPro Camera Showdown</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/beyond-boundaries-next-gen-ai-discussions/"><u>Beyond Boundaries: Next Gen AI Discussions</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/boosting-workflow-efficiency-leveraging-onlyoffices-docspace-with-chatgpt/"><u>Boosting Workflow Efficiency: Leveraging ONLYOFFICE's DocSpace with ChatGPT</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/can-you-rely-on-ai-detection-like-zerogpt-see-why-not-through-these-examples/"><u>Can You Rely on AI Detection Like ZeroGPT? See Why Not Through These Examples.</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/chatgpt-beta-unleashed-enabling-and-using-web-browsing-features-and-plugins-for-enhanced-interaction/"><u>ChatGPT Beta Unleashed: Enabling and Using Web Browsing Features and Plugins for Enhanced Interaction</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/chatgpt-a-game-changer-in-the-world-of-advanced-excel-workflows/"><u>ChatGPT: A Game Changer in the World of Advanced Excel Workflows</u></a></li>
+<li><a href="https://windows11.techidaily.com/triggering-windows-calculator-in-version-11/"><u>Triggering Windows Calculator in Version 11</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Discovering the Covert Intelligent Communication Chips in Macs and iPads - Do You Own Them? | ZDNET
-date: 2025-01-01T20:54:35.844Z
-updated: 2025-01-07T01:42:44.566Z
+date: 2025-01-10T16:00:23.626Z
+updated: 2025-01-13T16:28:41.074Z
 tags:
   - apple
 categories:
@@ -29,13 +29,13 @@ If you want to follow along, you'll need to install the iOS 18 public beta on an
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GPk8_xpN_rA?si=YbAdgsjAKsCn_UsB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to customize your iPhone's new Control Center with iOS 18
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/E3yY7lZ-FKA?si=g8VEuExP8GH59B69" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. Access Control Center
@@ -45,7 +45,7 @@ To display Control Center, swipe down from the top-right corner of the screen. Y
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Move the available controls
@@ -62,6 +62,10 @@ After tapping the plus icon, some controls sport a gray curved handle in the low
 
 Screenshot by Lance Whitney/ZDNET
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QRaEdFMU-Xc?si=OjaiTvlogJy5wHhN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 4\. Delete a control
 
 Next, you can directly delete a control you don't need or want. With the icons in edit mode, tap the minus sign for the icon you want to remove. When the icon is deleted, the surrounding icons should move to fill up the gap.
@@ -69,7 +73,7 @@ Next, you can directly delete a control you don't need or want. With the icons i
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XA_wP7rS9ww?si=LarMG3sEHAhSoL6q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 5\. Add a control to an existing screen
@@ -85,10 +89,6 @@ Screenshot by Lance Whitney/ZDNET
 If the current screens are already filled with icons, you can set up additional screens to hold more controls. Swipe down to the last screen, which shouldn't have any free space. Tap the plus icon and then tap "Add a Control." Again, browse or search for the control you wish to add. Tap that control, and it should appear in a new screen. You can continue adding more controls to the new screen this way. You can create as many as 15 screens, though you'll probably want to stop before you reach that number.
 
 Screenshot by Lance Whitney/ZDNET
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 7\. Power down from Control Center
 
@@ -126,20 +126,24 @@ Screenshot by Lance Whitney/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-recording.techidaily.com/new-in-2024-assessing-the-dominance-of-splitcam-recording/"><u>[New] In 2024, Assessing the Dominance of SplitCam Recording</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/new-the-platform-face-off-going-live-with-obstwitch/"><u>[New] The Platform Face-Off Going Live with OBS/Twitch</u></a></li>
-<li><a href="https://fox-access.techidaily.com/2024-approved-capturing-the-cosmos-mastering-editing-techniques-for-starry-images/"><u>2024 Approved Capturing the Cosmos Mastering Editing Techniques for Starry Images</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/embracing-the-future-top-8-benefits-of-artificial-intelligence-in-education/"><u>Embracing the Future: Top 8 Benefits of Artificial Intelligence in Education</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/essential-top-7-floodproof-video-cameras-guide/"><u>Essential Top 7 Floodproof Video Cameras Guide</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/giants-in-combat-google-palm-2-vs-openais-gpt-4/"><u>Giants in Combat: Google PaLM 2 Vs. OpenAI's GPT-4</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-forgot-iphone-passcode-again-unlock-apple-iphone-se-2022-without-passcode-now-by-drfone-ios/"><u>In 2024, Forgot iPhone Passcode Again? Unlock Apple iPhone SE (2022) Without Passcode Now</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-top-10-telegram-spy-tools-on-nokia-c32-for-parents-drfone-by-drfone-virtual-android/"><u>In 2024, Top 10 Telegram Spy Tools On Nokia C32 for Parents | Dr.fone</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/inside-truthgpts-revelation-policemen-clash-with-mullvad-vpn-top-no-cost-gaming-for-pcs-and-insights-on-mechanical-typing-peripherals/"><u>Inside TruthGPT's Revelation: Policemen Clash with Mullvad VPN, Top No-Cost Gaming for PCs & Insights on Mechanical Typing Peripherals</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/should-you-opt-for-copilot-pro-a-comprehensive-guide-highlighting-benefits-over-standard-copilot/"><u>Should You Opt for CoPilot Pro? A Comprehensive Guide Highlighting Benefits Over Standard CoPilot</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/the-ultimate-io-scanner-insiders-handbook/"><u>The Ultimate IO Scanner Insider's Handbook</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/top-6-appsservices-to-trace-any-google-pixel-8-pro-location-by-mobile-number-drfone-by-drfone-virtual-android/"><u>Top 6 Apps/Services to Trace Any Google Pixel 8 Pro Location By Mobile Number | Dr.fone</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/unleashing-chatgpts-potential-as-your-ideal-dungeon-master-companion/"><u>Unleashing ChatGPT's Potential as Your Ideal Dungeon Master Companion</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/unlock-business-potential-with-5-must-have-ai-applications-every-owner-needs/"><u>Unlock Business Potential with 5 Must-Have AI Applications Every Owner Needs</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/voices-from-around-the-world-10-tech-leaders-weigh-in-on-ai/"><u>Voices From Around the World: 10 Tech Leaders Weigh In on AI</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-2024-approved-unlocking-social-connections-facetime-tutorials-for-android/"><u>[New] 2024 Approved Unlocking Social Connections Facetime Tutorials for Android</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-pro-level-text-wonders-discover-the-top-10-for-videos/"><u>[New] Pro-Level Text Wonders - Discover the Top 10 for Videos</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-2024-approved-maximize-your-obs-fb-integration-tips/"><u>[Updated] 2024 Approved Maximize Your OBS-FB Integration Tips</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-5-dreamy-winter-scenes-as-youtube-backdrops/"><u>[Updated] 5 Dreamy Winter Scenes as YouTube Backdrops</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-unleash-your-devices-new-tone-with-top-5-chrome-extensions/"><u>2024 Approved Unleash Your Device's New Tone with Top 5 Chrome Extensions</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/can-i-recover-permanently-deleted-photos-from-x9b-by-stellar-photo-recovery-android-mobile-photo-recover/"><u>Can I recover permanently deleted photos from X9b</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-factory-reset-iphone-15-pro-and-ipad-without-apple-id-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>How to Factory Reset iPhone 15 Pro and iPad Without Apple ID | Stellar</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/leading-edge-unveiling-the-five-key-ai-hardware-breakthroughs/"><u>Leading Edge: Unveiling the Five Key AI Hardware Breakthroughs</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/navigating-language-tech-unpacking-bert-and-gpt/"><u>Navigating Language Tech: Unpacking BERT & GPT</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/navigating-the-new-normal-strategies-for-success-in-ai-times/"><u>Navigating the New Normal: Strategies for Success in AI Times</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/navigating-vpn-use-with-chatgpt-is-it-feasible-and-safe/"><u>Navigating VPN Use with ChatGPT: Is It Feasible and Safe?</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/new-2024-approved-download-edit-and-share-the-complete-online-video-guide/"><u>New 2024 Approved Download, Edit, and Share The Complete Online Video Guide</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/quick-fixes-for-4-major-account-restrictions-on-gpt/"><u>Quick Fixes for 4 Major Account Restrictions on GPT</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/revolutionizing-creation-ten-advances-by-ai/"><u>Revolutionizing Creation: Ten Advances by AI</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/the-art-of-preserving-gpt-conversations/"><u>The Art of Preserving GPT Conversations</u></a></li>
+<li><a href="https://fake-location.techidaily.com/the-best-8-vpn-hardware-devices-reviewed-on-realme-c55-drfone-by-drfone-virtual-android/"><u>The Best 8 VPN Hardware Devices Reviewed On Realme C55 | Dr.fone</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/the-breakthrough-of-contextual-understanding-with-gemini-15-and-its-one-million-token-milestone/"><u>The Breakthrough of Contextual Understanding with Gemini 1.5 and Its One Million Token Milestone</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/top-10-automated-pdf-generators-integrating-with-chatgpt-streamline-your-workflow/"><u>Top 10 Automated PDF Generators Integrating with ChatGPT: Streamline Your Workflow</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-steps-to-repair-non-functional-microphone-on-the-turtle-beach-elite-atlas/"><u>Troubleshooting Steps to Repair Non-Functional Microphone on the Turtle Beach Elite Atlas</u></a></li>
 </ul></div>
 

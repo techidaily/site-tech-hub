@@ -1,7 +1,7 @@
 ---
 title: "Next-Level Image Editing with Apple's Latest Innovation: Photo Transformations Guided by Written Prompts | Explore the Tech Breakdown"
-date: 2024-12-30T16:39:56.527Z
-updated: 2025-01-06T22:42:39.426Z
+date: 2025-01-10T16:00:18.137Z
+updated: 2025-01-13T16:15:42.167Z
 tags:
   - apple
 categories:
@@ -34,7 +34,7 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 [See all](https://www.zdnet.com/newsletters/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What this means for the iPhone and Vision Pro
@@ -93,18 +93,17 @@ Apple tends to shy away from using buzzwords like 'AI' to describe its product f
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://digital-screen-recording.techidaily.com/new-in-2024-cyberlinks-screen-recorder-an-expert-evaluation/"><u>[New] In 2024, Cyberlink's Screen Recorder An Expert Evaluation</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/2024-approved-next-gen-editing-excellence-perfect-for-vimeo-content/"><u>2024 Approved Next-Gen Editing Excellence Perfect for Vimeo Content</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/3-effective-ways-to-bypass-activation-lock-from-apple-iphone-6s-plus-by-drfone-ios/"><u>3 Effective Ways to Bypass Activation Lock from Apple iPhone 6s Plus</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/amp-up-output-7-powerful-chatgpt-techniques-for-peak-performance/"><u>Amp Up Output: 7 Powerful ChatGPT Techniques for Peak Performance</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/chatgpt-and-its-impact-are-student-essays-becoming-redundant/"><u>ChatGPT and Its Impact: Are Student Essays Becoming Redundant?</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/enhance-productivity-with-9-useful-chatgpt-hacks/"><u>Enhance Productivity with 9 Useful ChatGPT Hacks</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/evolving-knowledge-from-chatgpt-to-everyone/"><u>Evolving Knowledge From ChatGPT to Everyone</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/how-does-chatgpt-adapt-through-ongoer-user-dialogue-engagement/"><u>How Does ChatGPT Adapt Through Ongoer User Dialogue Engagement?</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-fundamentals-of-digital-tale-construction/"><u>In 2024, Fundamentals of Digital Tale Construction</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/mastering-the-art-of-troubleshooting-how-to-correct-livekernelevent-error-117/"><u>Mastering the Art of Troubleshooting: How to Correct LiveKernelEvent Error 117</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/motorolas-budget-friendly-gem-an-in-depth-look-at-the-moto-g-stylus-smartphone/"><u>Motorola's Budget-Friendly Gem: An In-Depth Look at the Moto G Stylus Smartphone</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/210006755-9781398701168-self-care-for-self-isolation/"><u>Self-Care for Self-Isolation | Free Book</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/1723862713894-tech-savvy-shoppers-rejoice-grab-the-upgraded-apple-macbook-pro-w-m3-chip-for-less-before-amazon-prime-day/"><u>Tech Savvy Shoppers Rejoice: Grab the Upgraded Apple MacBook Pro W/ M3 Chip for Less Before Amazon Prime Day</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/updated-easy-guide-to-youtube-livestreaming-from-google-meet/"><u>[Updated] Easy Guide to YouTube Livestreaming From Google Meet</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-how-to-remove-background-noise-from-your-youtube-video-for-2024/"><u>[Updated] How To Remove Background Noise From Your YouTube Video for 2024</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-in-2024-harnessing-the-power-of-gratuitous-text-animations/"><u>[Updated] In 2024, Harnessing the Power of Gratuitous Text Animations</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/5-strategies-for-leveraging-chatgpt-in-your-freelance-career/"><u>5 Strategies for Leveraging ChatGPT in Your Freelance Career</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/7-indispensable-qualities-in-selecting-robot-based-support/"><u>7 Indispensable Qualities in Selecting Robot-Based Support</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/a-step-by-step-guide-to-multilingual-chatgpt-use/"><u>A Step-by-Step Guide to Multilingual ChatGPT Use</u></a></li>
+<li><a href="https://discover-guides.techidaily.com/easily-extract-and-transfer-information-from-various-sites-to-your-wordpress-blog-using-yl-web-scraper-innovative-tool-by-yl-computing/"><u>Easily Extract & Transfer Information From Various Sites to Your WordPress Blog Using YL Web Scraper - Innovative Tool by YL Computing</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/extracteur-dvd-and-conversion-video-professionnelle-avec-site-web-officiel-de-winxdvd-solution-transformateur-pour-ios/"><u>Extracteur DVD & Conversion Vidéo Professionnelle Avec Site Web Officiel De WinXDVD - Solution Transformateur Pour iOS</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/1722193330070-gpt-4-universally-accessible-6-reasons-to-persist-with-platinum-plan/"><u>GPT-4 Universally Accessible; 6 Reasons to Persist with Platinum Plan</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/iphone-dvd/"><u>IPhoneへデジタル化: DVD音楽トラック移行ガイド</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/step-by-step-guide-fixing-your-keyboard-with-a-simple-reset/"><u>Step-by-Step Guide: Fixing Your Keyboard with a Simple Reset</u></a></li>
+<li><a href="https://techidaily.com/the-way-to-get-back-lost-messages-from-oppo-a79-5g-by-fonelab-android-recover-messages/"><u>The way to get back lost messages from Oppo A79 5G</u></a></li>
 </ul></div>
 

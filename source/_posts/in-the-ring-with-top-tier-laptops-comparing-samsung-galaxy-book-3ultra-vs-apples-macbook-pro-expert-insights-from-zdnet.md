@@ -1,7 +1,7 @@
 ---
 title: "In The Ring with Top Tier Laptops: Comparing Samsung Galaxy Book 3Ultra Vs. Apple's MacBook Pro | Expert Insights From ZDNet"
-date: 2025-01-04T20:08:16.603Z
-updated: 2025-01-06T18:01:24.761Z
+date: 2025-01-09T16:39:10.558Z
+updated: 2025-01-13T16:15:07.360Z
 tags:
   - apple
 categories:
@@ -27,7 +27,7 @@ We'll compare the specs of the [Galaxy Book 3 Ultra](https://shop-links.co/link/
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Specifications
@@ -47,15 +47,15 @@ We'll compare the specs of the [Galaxy Book 3 Ultra](https://shop-links.co/link/
 
 ---
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/omWG4u39lmE?si=yk1AEo_gzDpGjYbl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##  You should buy Samsung's Galaxy Book 3 Ultra if...
 
 There are definitely some strong MacBook Pro vibes informing Samsung's aesthetic for this device.
 
 Samsung
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ME5-sAQJVE4?si=ZfcvJSnhQevWtjI0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ###  1\. You're committed to Samsung's ecosystem
 
@@ -69,13 +69,13 @@ Samsung realized this and included benefits like the options to use a [Galaxy Ta
 
 If you've already got a Galaxy smartphone or tablet, there are definitely practical benefits to functionality that you'll receive by opting for this model. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RCYs8keh-Vs?si=uDC28-9yh-k6HLj4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ###  2\. You expect to do any gaming
 
 Macs have never matched their Windows-based counterparts when it comes to gaming. Despite the massive boost in power provided by Apple's M2 Pro and Max chips, this remains true. Of course there's the issue that a handful of gaming titles are available for MacOS, almost none of which are new or AAA games. But an equally big problem is MacBooks' lack of discrete GPUs. The Galaxy Book 3 Ultra, on the other hand, has options for an [Nvidia RTX 4050 or 4070 GPU](https://www.zdnet.com/article/nvidia-unveils-its-latest-studio-laptop-series-which-showcases-its-fastest-most-powerful-gpu-chip/), either of which should offer frame rates that are playable to exceptional for almost any title. 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ###  3\. You want maximum software compatibility
 
@@ -86,10 +86,6 @@ Two factors make Samsung's Galaxy Book 3 Ultra more widely compatible: its opera
 The other factor is Apple's switch to its own silicon. When Apple was using Intel chips, it was a piece of cake for developers to port their software to MacOS due to the similar CPU. However, now that Apple relies on its own ARM-based chips, the porting process is far more difficult. Even companies like Adobe, maker of vital tools like Photoshop and Premiere, took months before all of their major titles fully supported Apple's chips. Smaller devs and less resourceful software makers might still lack support for quite some time. 
 
 [Buy Samsung's Galaxy Book 3 Ultra $2,199 at Samsung](https://shop-links.co/link/?url=https%3A%2F%2Fwww.samsung.com%2Fus%2Fcomputing%2Fgalaxy-book3-ultra%2Fbuy%2F&publisher_slug=itechdaily19598&exclusive=1)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  You should buy Apple's 16-inch M2-gen MacBook Pro if...
 
@@ -116,13 +112,13 @@ It's an issue that can chafe at times, but it's also one that has led many, myse
 
 **Also:** [**Samsung Galaxy S23 Ultra vs Google Pixel 7 Pro: Which Android flagship is king?**](https://www.zdnet.com/article/samsung-galaxy-s23-ultra-vs-google-pixel-7-pro/)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ###  2\. You're a content creator looking for a mobile desktop replacement
 
 Apple's M1 generation of chips was already more than enough power for most photo editors, and even a large chunk of video editors, including those working in 4K+ formats. Now, with the advent of M2 Pro and M2 Max options, the 16-inch MacBook Pro is like an entire production studio unto itself, especially when combined with the ample variety of RAM and storage configurations now available for both chips and a full-fledged HDMI port, as well as three DisplayPort-capable Thunderbolt ports. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ###  3\. You need a ton of RAM or storage
 
@@ -131,6 +127,10 @@ The maximum amount of memory and storage you can configure a Galaxy Book 3 Ultra
 **Also: [Apple's new MacBook Pro with M2 Pro chip is a compelling package](https://www.zdnet.com/article/apples-new-macbook-pro-with-m2-pro-chip-is-a-compelling-package/)**
 
 [Buy the 16-inch Apple MacBook Pro $2,499 at Apple](https://apple.sjv.io/c/159047/435031/7613?&sharedId=zdnet&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-mac%2Fmacbook-pro%2F16-inch&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6nvb0775GOM?si=peBB_Mo_4zcZFuci" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Alternatives to consider
 
@@ -185,19 +185,24 @@ Absolutely must have a 16-inch laptop? Lenovo's ThinkPad Z16 is among the most p
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-helps.techidaily.com/new-2024-approved-accessing-hidden-reaction-mechanisms-of-youtube-users/"><u>[New] 2024 Approved Accessing Hidden Reaction Mechanisms of YouTube Users</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-achieving-professional-audio-in-home-recording-studios/"><u>[New] Achieving Professional Audio in Home Recording Studios</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/new-essentials-of-using-igtv-effectively-and-efficiently/"><u>[New] Essentials of Using IGTV Effectively and Efficiently</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/new-in-2024-elevate-your-videos-the-essential-guide-to-screencasts-today/"><u>[New] In 2024, Elevate Your Videos The Essential Guide to Screencasts Today</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-from-conventional-to-crystal-clear-with-hp-envy-27/"><u>2024 Approved From Conventional to Crystal Clear with HP Envy 27</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/2024-approved-the-ultimate-guide-to-using-sticker-queries-on-instagram/"><u>2024 Approved The Ultimate Guide to Using Sticker Queries on Instagram</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/adaptable-digital-time-stretch-audio-transformer-elevate-your-soundscape/"><u>Adaptable Digital Time Stretch Audio Transformer - Elevate Your Soundscape</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/best-free-and-premium-wav-converter-tools-top-picks-for-superior-audio-quality/"><u>Best Free and Premium WAV Converter Tools: Top Picks for Superior Audio Quality</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/bulk-conversion-guide-upscale-your-soundcloud-tracks-to-high-quality-320kbps-audio/"><u>Bulk Conversion Guide: Upscale Your SoundCloud Tracks to High-Quality 320Kbps Audio</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/bypassing-borderlines-enjoy-canadian-films-worldwide-free-from-region-codes/"><u>Bypassing Borderlines: Enjoy Canadian Films Worldwide, Free From Region Codes</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/comparing-wav-and-mp3-files-a-comprehensive-guide-on-whats-best-for-you/"><u>Comparing WAV and MP3 Files - A Comprehensive Guide on What's Best for You</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/complete-instructions-for-installing-the-tvnsports-plugin-in-kodi-version-19/"><u>Complete Instructions for Installing the TVNSports Plugin in Kodi Version 19</u></a></li>
-<li><a href="https://techidaily.com/is-your-itel-p40-working-too-slow-heres-how-you-can-hard-reset-it-drfone-by-drfone-reset-android-reset-android/"><u>Is your Itel P40 working too slow? Heres how you can hard reset it | Dr.fone</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/simplified-video-transferring-techniques-for-youtube-enthusiasts-for-2024/"><u>Simplified Video Transferring Techniques for YouTube Enthusiasts for 2024</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-in-2024-firefox-recording-tools-and-extensions/"><u>[Updated] In 2024, Firefox Recording Tools & Extensions</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-viral-vibrancy-trending-audio-amplifying-your-yt-shorts/"><u>[Updated] Viral Vibrancy Trending Audio Amplifying Your YT Shorts</u></a></li>
+<li><a href="https://video-capture.techidaily.com/2024-approved-arcadearchive-annotator/"><u>2024 Approved ArcadeArchive Annotator</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/comprehensive-guide-on-resolving-difficulties-with-the-realtek-rtl8723be-device-driver/"><u>Comprehensive Guide on Resolving Difficulties with the Realtek RTL8723BE Device Driver</u></a></li>
+<li><a href="https://article-files.techidaily.com/disabling-recommended-podcast-episodes-in-spotify-app/"><u>Disabling Recommended Podcast Episodes in Spotify App</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/diy-ai-assistant-developing-a-chatgpt-clone-using-unique-data-sources/"><u>DIY AI Assistant: Developing a ChatGPT Clone Using Unique Data Sources</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/diy-your-own-open-source-chatgpt-replica-for-windows-discover-how-with-freedomgpts-step-by-step-guide/"><u>DIY Your Own Open Source ChatGPT Replica for Windows: Discover How With FreedomGPT's Step-by-Step Guide</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/efficiently-design-presentations-through-chatgpt-help/"><u>Efficiently Design Presentations Through ChatGPT Help</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/embrace-the-power-of-gpt-4-your-step-by-step-user-manual/"><u>Embrace the Power of GPT-4: Your Step-by-Step User Manual</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/envisioning-virtual-vigilance-projected-trends-in-security/"><u>Envisioning Virtual Vigilance: Projected Trends in Security</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/ethical-guidelines-utilizing-chatgpt-for-wellness/"><u>Ethical Guidelines: Utilizing ChatGPT for Wellness</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/expert-tips-for-managing-chatgpt-save-functionality-glitches-in-your-talks/"><u>Expert Tips for Managing ChatGPT Save Functionality Glitches in Your Talks</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/exploring-the-security-do-privacy-leaks-plague-chatgpt-interactions/"><u>Exploring the Security: Do Privacy Leaks Plague ChatGPT Interactions?</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/from-theory-to-action-implementing-chatgpt-api/"><u>From Theory to Action: Implementing ChatGPT API</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/how-to-get-and-install-newest-toshiba-satellite-p95-laptop-drivers-on-your-windows-machine/"><u>How to Get and Install Newest Toshiba Satellite P95 Laptop Drivers on Your Windows Machine</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-for-people-wanting-to-mock-gps-on-samsung-galaxy-s24plus-devices-drfone-by-drfone-virtual/"><u>In 2024, For People Wanting to Mock GPS on Samsung Galaxy S24+ Devices | Dr.fone</u></a></li>
+<li><a href="https://fox-links.techidaily.com/in-2024-tunes-to-timelapse-crafting-mobile-music-videos/"><u>In 2024, Tunes to Timelapse Crafting Mobile Music Videos</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/midlands-lxt500v3-radio-line-up-critique-stunning-specs-but-letdown-in-usability/"><u>Midland's LXT500V3 Radio Line-Up Critique: Stunning Specs but Letdown in Usability</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/toms-tech-reviews-expert-insights-on-hardware/"><u>Tom's Tech Reviews: Expert Insights on Hardware</u></a></li>
 </ul></div>
 

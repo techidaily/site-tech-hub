@@ -1,7 +1,7 @@
 ---
 title: "Mastering Mac OS MONTEREY: Setting Up Personalized Do Not Disturb Lists for Improved Concentration"
-date: 2025-01-01T19:03:12.870Z
-updated: 2025-01-07T02:15:07.128Z
+date: 2025-01-07T16:30:38.805Z
+updated: 2025-01-13T16:59:23.870Z
 tags:
   - apple
 categories:
@@ -26,19 +26,19 @@ So, how do you create this custom Flow? Let me show you. All you'll need to make
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/h5uImbOWmTg?si=z4kP-R0QbXbBAJTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Create a custom Focus
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/g6xXIR_Uh1A?si=TMXzklPEY50MUM05" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 1\. Open System Preferences
 
 Click on the Apple menu in the top left corner of your desktop. From the resulting pop-up menu, click System Preferences.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Vca--yEhtdo?si=7ijqjyP-oi3LYze1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 2\. Access Notifications & Focus
 
@@ -49,7 +49,7 @@ In the System Preferences window (**Figure 1**), click Notifications & Focus.
 Image: Jack Wallen
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DEqoiNArwjQ?si=oaL_lgnI-RxY5Qy_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 3\. Open the Focus tab
@@ -59,10 +59,6 @@ Once Notifications & Focus is opened, click the Focus tab (**Figure 2**).
 **Figure 2:** You'll find a single pre-configured Focus for Do Not Disturb already available.
 
 Image: Jack Wallen
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 4\. Create the new Focus
 
@@ -80,6 +76,10 @@ Image: Jack Wallen
 
 After naming and selecting a color/icon, click Add to save the new Focus.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 5\. Allowing specific notifications
 
 The next thing to do is to specific contacts or apps that will be allowed when this Focus is enabled. To do that, click + under Allowed Notifications From (**Figure 5**).
@@ -95,7 +95,7 @@ From the pop-up list, select the contact(s) you want to be allowed to interrupt 
 Image: Jack Wallen
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hZsnjxeSh1U?si=hZIfzQPDNX5KtOCg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 6\. Set the Focus to be enabled
@@ -140,20 +140,20 @@ Use this new Focus feature wisely, and it will help you be more productive while
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://snapchat-videos.techidaily.com/new-2024-approved-mastering-the-mechanics-perfecting-every-snaps-boomerang-effect/"><u>[New] 2024 Approved Mastering the Mechanics Perfecting Every Snap's Boomerang Effect</u></a></li>
-<li><a href="https://tiktok-video-recordings.techidaily.com/new-discover-the-hottest-tiktok-reading-trends/"><u>[New] Discover the Hottest TikTok Reading Trends</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/updated-samsungs-visionary-leap-the-ubd-k850-ultrablade-2023/"><u>[Updated] Samsung’s Visionary Leap - The UBD K850 UltraBlade 2023</u></a></li>
-<li><a href="https://article-files.techidaily.com/updated-the-future-in-focus-premium-360-degree-professionals-cameras-2023/"><u>[Updated] The Future in Focus Premium 360-Degree Professionals' Cameras, 2023</u></a></li>
-<li><a href="https://win-dash.techidaily.com/download-and-install-the-latest-netgear-wireless-adapter-drivers/"><u>Download and Install the Latest NETGEAR Wireless Adapter Drivers</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/ring-mukbang-culture-in-live-video-formats/"><u>Exploring Mukbang Culture in Live Video Formats</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-methods-to-change-gps-location-on-vivo-y78plus-drfone-by-drfone-virtual-android/"><u>In 2024, Methods to Change GPS Location On Vivo Y78+ | Dr.fone</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/method-for-identifying-and-contacting-callers-of-anonymous-numbers/"><u>Method for Identifying & Contacting Callers of Anonymous Numbers</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/quick-and-easy-methods-for-transforming-videos-into-mp3-files-without-hassle/"><u>Quick and Easy Methods for Transforming Videos Into MP3 Files Without Hassle</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/quick-and-easy-strategies-to-turn-your-slideshows-into-engaging-videos/"><u>Quick and Easy Strategies to Turn Your Slideshows Into Engaging Videos</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/seamlessly-transform-your-m4a-tracks-into-mp3-for-free-step-by-step-tutorial/"><u>Seamlessly Transform Your M4A Tracks Into MP3 for Free - Step-by-Step Tutorial</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/simple-guide-how-to-change-your-iso-media-into-avi-player-compatible-files/"><u>Simple Guide: How to Change Your ISO Media Into AVI Player Compatible Files</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/solving-your-kindle-fire-video-problem-a-simple-step-by-step-guide/"><u>Solving Your Kindle Fire Video Problem: A Simple Step-by-Step Guide</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/step-by-step-guide-editing-your-screenshots-on-microsofts-latest-os/"><u>Step-by-Step Guide: Editing Your Screenshots on Microsoft's Latest OS</u></a></li>
-<li><a href="https://some-skills.techidaily.com/the-ultimate-guide-to-creating-hdr-in-photoshop-for-2024/"><u>The Ultimate Guide to Creating HDR in Photoshop for 2024</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-crafting-captivating-content-with-screencast-tactics/"><u>[New] Crafting Captivating Content with Screencast Tactics</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-mastering-the-art-of-digital-recording-for-gotomeet-sessions/"><u>[New] Mastering the Art of Digital Recording for GoToMeet Sessions</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-mastering-sims-4-recording-techniques-for-2024/"><u>[Updated] Mastering Sims 4 Recording Techniques for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-bridging-the-gap-between-simple-to-high-tech-hdr-techniques/"><u>2024 Approved Bridging the Gap Between Simple to High-Tech HDR Techniques</u></a></li>
+<li><a href="https://windows11.techidaily.com/enhance-windows-experience-selecting-top-free-car-upgraders/"><u>Enhance Windows Experience: Selecting Top Free Car Upgraders</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-fake-gps-on-oppo-a56s-5g-for-mobile-legends-drfone-by-drfone-virtual-android/"><u>How To Fake GPS On Oppo A56s 5G For Mobile Legends? | Dr.fone</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/introducing-firefox-version-128-a-revolutionary-approach-to-web-page-translation/"><u>Introducing Firefox Version 128: A Revolutionary Approach to Web Page Translation</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/revolutionizing-website-design-with-artifice-intelligence-in-search-engines/"><u>Revolutionizing Website Design with Artifice Intelligence in Search Engines</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/revolutionizing-your-device-the-top-8-ai-apps-androidiphone/"><u>Revolutionizing Your Device: The Top 8 AI Apps (Android/iPhone)</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/seamless-bilingual-interactions-tips-for-implementing-chatgpt-as-a-powerful-language-translation-aid/"><u>Seamless Bilingual Interactions: Tips for Implementing ChatGPT as a Powerful Language Translation Aid</u></a></li>
+<li><a href="https://win-dash.techidaily.com/simplify-your-updates-seamless-driver-installation-for-windows/"><u>Simplify Your Updates: Seamless Driver Installation for Windows</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/taking-mobile-to-new-heights-how-ai-transforms-your-bing-experience-on-android/"><u>Taking Mobile to New Heights: How AI Transforms Your Bing Experience on Android</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/the-balance-of-benefits-and-risks-ais-influence-on-psychological-support-networks/"><u>The Balance of Benefits and Risks: AI's Influence on Psychological Support Networks</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/the-hidden-costs-of-interacting-with-chatgpt/"><u>The Hidden Costs of Interacting with ChatGPT</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/the-potential-threat-of-cybercriminals-using-chatgpt-to-compromise-bank-accounts-and-computers-what-you-need-to-know/"><u>The Potential Threat of Cybercriminals Using ChatGPT to Compromise Bank Accounts and Computers: What You Need to Know</u></a></li>
 </ul></div>
 

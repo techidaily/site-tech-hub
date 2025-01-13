@@ -1,7 +1,7 @@
 ---
 title: Master ChatGPT Queries with This Simple Chrome Plugin
-date: 2024-08-20T11:10:12.776Z
-updated: 2024-08-21T11:10:12.776Z
+date: 2025-01-10T16:46:26.698Z
+updated: 2025-01-13T16:51:54.503Z
 tags:
   - chatgpt
   - open-ai
@@ -18,6 +18,10 @@ thumbnail: https://thmb.techidaily.com/31a47d0813e0a73316845fc7d36338a492235a7e4
  While cooking your favorite dishes can be exciting, it can also sometimes be a daunting process. Finding new recipes, incorporating new techniques, and playing around with different flavors can be difficult if you’re not confident with your cooking skills. But, what if an AI chatbot could help you along the way?
 
  ChatGPT has excellent conversational skills and its versatility makes it a superb tool for various activities. It turns out that being a cooking assistant is one of them. From recommending and creating healthy meal plans to coming up with specific menus for special occasions, there are a lot of ways you can use ChatGPT's help while in the kitchen.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 1\. Recipe Suggestions
 
@@ -39,6 +43,10 @@ thumbnail: https://thmb.techidaily.com/31a47d0813e0a73316845fc7d36338a492235a7e4
 
  The chatbot can also recommend[the best meal prep sites](https://www.makeuseof.com/prompting-techniques-to-improve-chatgpt-responses/) , cookbooks, or cooking classes focusing on the techniques you want to learn.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 3\. Make Healthy Meal Plans
 
 ![ChatGPT meal plan](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/chatgpt-meal-plan.jpg)
@@ -48,15 +56,13 @@ thumbnail: https://thmb.techidaily.com/31a47d0813e0a73316845fc7d36338a492235a7e4
  For your fitness goals, ChatGPT can assist you in creating a meal plan that supports your objectives. You can ask for meal recommendations that are rich in protein, carbohydrates, and healthy fats. ChatGPT can also guide you on how to develop healthy eating habits if you have an eating disorder.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17729331&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 4\. Create a Shopping List
 
 ![Create shopping list with ChatGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/create-shopping-list-with-chatgpt.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Elite.png" border="0"></a>
-<!-- affiliate ads end -->
  If you struggle with remembering all the ingredients needed for a recipe, ChatGPT can help you create a detailed shopping list.[You can then use Instacart for same-day grocery shopping](https://www.makeuseof.com/sir-how-is-instacart-for-same-day-grocery-shopping/) , or any other grocery delivery services available in your area.
 
  This entire process is even better if you have a ChatGPT Plus subscription.[You can install and use plugins](https://www.makeuseof.com/how-install-and-use-chatgpt-plugins/) with the premium service to order ingredients within ChatGPT. For example, once ChatGPT generates a recipe for you, use the InstaCart plugin to order the ingredients and get them delivered to you on the same day.
@@ -67,21 +73,16 @@ thumbnail: https://thmb.techidaily.com/31a47d0813e0a73316845fc7d36338a492235a7e4
 
 ![New flavor combo ideas by ChatGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/new-flavor-combo-ideas-by-chatgpt.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Finding new flavor combinations is arguably the most difficult process involved with cooking. Even if a certain combination is good, you won't really know if it works for you or not. ChatGPT can make this process a bit easier.
 
  Besides simply asking ChatGPT for flavor combinations with chicken, you can get specific and say you don't do well with spices. You can also ask for information on specific seasonings, herbs, or spices.
 
  It can also help you combine ingredients in innovative ways to create unique dishes. For example, you can ask the chatbot for flavor combinations that pair well with coconut milk, and it will then give you relevant recommendations along with some recipes.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4737285&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/b2f83c409ce63012229fb9cd465bdcfe/products/copy_reporting_system.png" border="0">  KoolReport Pro  is an advanced solution for creating data reports and dashboards in PHP. Equipped with all  extended packages , KoolReport Pro is able to connect to various datasources, perform advanced data analysis, construct stunning charts and graphs and export your beautiful work to PDF, Excel, JPG or other formats. Plus, it includes powerful built-in reports such as pivot report and drill-down report which will save your time in building ones. 
-
- It will help you to write dynamic data reports easily, to construct intuitive dashboards or to build a whole business intelligence cockpit. 
-
-  KoolReport Pro  package goes with Full Source Code, Royal Free, ONE (1) Year Priority Support, ONE (1) Year Free Upgrade and 30-Days Money Back Guarantee. 
-
-  Developer License  allows  Single Developer  to create Unlimited Reports, deploy on Unlimited Servers and able deliver the work to Unlimited Clients. </a>
-<!-- affiliate ads end -->
 ## 6\. Recipe Scaling
 
  When you want to make more or less of a dish, you need to adjust the recipe by scaling it. This means adjusting the quantities of ingredients based on the desired number of servings. However, it can be difficult to get the measurements right, and mistakes can result in a disappointing meal.
@@ -89,38 +90,30 @@ thumbnail: https://thmb.techidaily.com/31a47d0813e0a73316845fc7d36338a492235a7e4
  Fortunately, you can use ChatGPT to help you rescale the recipe accurately. Share the recipe with ChatGPT and it will calculate the right quantities of each ingredient needed for your desired serving size. This way you'll retain the delicious flavor while making sure that everyone gets an adequate portion size.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4728277&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/1_iDeviceMessageBox.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 7\. Create a Menu for Special Occasions
 
 ![Special Occasian Recipe](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/special-ocassian-recipe.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958379/18409" target="_top" id="1958379"><img src="//a.impactradius-go.com/display-ad/18409-1958379" border="0" alt="" width="856" height="508"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958379/18409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Creating menus for planning an intimate dinner party, a festive gathering, or a celebratory event is not easy. You have to consider what type of food the people will like and how much time you have to prepare the dishes. While you're on your own with the cooking process, ChatGPT can help you with the menu.
 
  So, if you're planning your kid's birthday party, you can ask ChatGPT to create a menu that includes fun and kid-friendly dishes. You can also specify dietary restrictions and allergies so that the food is safe and enjoyable for everyone.
 
  If you don't feel like cooking, you could just ask ChatGPT for the best restaurants or catering services to order from for the gathering.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068411/7443" target="_top" id="2068411"><img src="//a.impactradius-go.com/display-ad/7443-2068411" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068411/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Level Up Your Cooking Skills With ChatGPT
 
  ChatGPT's versatility proves that it's much more than an AI text generator. It's an intelligent assistant that can help with research, coding, and even cooking. OpenAI continues to improve the chatbot by adding new features and regularly updating the interface. A year or two ago, using AI in the kitchen would have been a foreign concept, yet here we are.
 
  However, there's a lot more to cooking than recipes and meal plans. You'll have to spend a considerable amount in the kitchen if you want to cook healthy and delicious meals. Plus, more advanced techniques, such as sous vide, will require a lot of patience and the right accessories.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -129,4 +122,20 @@ thumbnail: https://thmb.techidaily.com/31a47d0813e0a73316845fc7d36338a492235a7e4
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-hovers.techidaily.com/new-2024-approved-streamline-your-shooting-canons-time-lapse-techniques/"><u>[New] 2024 Approved Streamline Your Shooting Canon's Time-Lapse Techniques</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-2024-approved-crafting-flawless-transcriptions-googles-speech-magic/"><u>[Updated] 2024 Approved Crafting Flawless Transcriptions Google’s Speech Magic</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/airpods-pro-3-revolutionize-fitness-monitoring-with-precision-heart-rate-sensors/"><u>AirPods Pro 3 Revolutionize Fitness Monitoring with Precision Heart Rate Sensors</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/ankers-affordable-20-power-bank-the-ultimate-solution-for-your-portable-charger-woes-insights-from-zdnet/"><u>Anker's Affordable $20 Power Bank: The Ultimate Solution for Your Portable Charger Woes - Insights From ZDNet</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/209527921-9781848508750-back-to-sanity/"><u>Back to Sanity | Free Book</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/breaking-through-default-security-levels/"><u>Breaking Through Default Security Levels</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/development-of-affordable-apple-vision-headset-and-augmented-reality-glasses-in-progress-insights/"><u>Development of Affordable Apple Vision Headset and Augmented Reality Glasses in Progress - Insights</u></a></li>
+<li><a href="https://win11.techidaily.com/dissecting-windows-rule-sets-with-three-methodologies/"><u>Dissecting Windows Rule Sets with Three Methodologies</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/effortless-iphone-data-protection-a-guide-to-using-icloud-and-mac-for-secure-backups/"><u>Effortless iPhone Data Protection: A Guide to Using iCloud and Mac for Secure Backups</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/mac-masterpieces-leading-applications-for-2aturity-with-an-emphasis-on-the-balance-and-harmony-principles/"><u>Mac Masterpieces: Leading Applications for 2Aturity, with an Emphasis on the Balance and Harmony Principles.</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/the-genesis-of-smart-machines-diving-into-when-ai-was-first-conceived/"><u>The Genesis of Smart Machines: Diving Into When AI Was First Conceived</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/ultimate-guide-to-the-highest-quality-ipad-air-cases-of-2-professional-evaluation/"><u>Ultimate Guide to the Highest Quality iPad Air Cases of 2# : Professional Evaluation</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/with-filmora-x-you-can-create-such-transparent-background-reaction-videos-without-such-expensive-material/"><u>With Filmora X, You Can Create Such Transparent Background Reaction Videos without Such Expensive Material</u></a></li>
+</ul></div>
 

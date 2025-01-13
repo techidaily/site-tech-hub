@@ -1,7 +1,7 @@
 ---
 title: "Saving Strategies: How Apple Could Turn the Tide for Frustrated Sonos Owners | Tech Innovations by ZDNet"
-date: 2025-01-03T19:54:49.889Z
-updated: 2025-01-06T21:38:53.978Z
+date: 2025-01-07T16:33:03.488Z
+updated: 2025-01-13T16:14:52.800Z
 tags:
   - apple
 categories:
@@ -44,16 +44,12 @@ And then there's the Apple Watch Series 8 and the Apple Watch Ultra. The watches
 
 ---
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/eMEJvwMM0vk?si=EQF_jo_4u9v5iJ_C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##  You should buy the Apple Watch Ultra if…
 
 Jason Hiner/ZDNET
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UCqHbpxQGP4?si=XGkajFHdqyoKNAFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 1\. You're ready for a new Apple Watch design
@@ -66,6 +62,10 @@ The 49mm housing is also the biggest Apple Watch made to date, and with double t
 
 With a new design comes new bands, as well. There are [three completely new watchband designs](https://www.zdnet.com/article/new-apple-watch-ultra-bands-work-with-other-apple-watch-models-too/), each one designed for different activities such as outdoor adventures, endurance training and water sports. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 2\. You ride, hike or dive… a lot
 
 Speaking of outdoor activities, the Ultra is specifically made for extreme fitness enthusiasts who need longer battery life, a better, brighter display and improved GPS tracking. 
@@ -73,6 +73,10 @@ Speaking of outdoor activities, the Ultra is specifically made for extreme fitne
 Apple touts 36 hours of battery life for the Ultra during normal use, or 60 hours when you activate low power mode. The Ultra is compatible with two different GPS frequencies, L1 and L5, which should provide [accurate and precise location information](https://www.zdnet.com/article/what-is-l5-precision-dual-frequency-gps-why-is-apple-using-it-and-do-you-need-it) regardless of your surroundings. The new compass app will track your route during a hike or bike ride, and then provide waypoints for you to find your way back -- should you get lost. 
 
 Every Apple Watch Ultra comes with LTE capabilities, so as long as you pay your wireless carrier for an additional plan (usually around $10 a month), your watch will always be connected, even if you leave your iPhone behind. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 3\. You need a ruggedized watch
 
@@ -87,7 +91,7 @@ There's even an 86-decibel siren built into the watch should you need emergency 
 [Apple Watch Ultra $799 at Apple](https://apple.sjv.io/c/159047/435031/7613?&sharedId=zdnet&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-watch%2Fapple-watch-ultra&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  You should buy the Apple Watch Series 8 if…
@@ -104,10 +108,6 @@ The Series 8 is available in four aluminum colors this year. There's Starlight, 
 
 **See also:** [**New Apple Watch Ultra bands work with other Apple Watch models, too**](https://www.zdnet.com/article/new-apple-watch-ultra-bands-work-with-other-apple-watch-models-too/)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Wy0uYNNdMDM?si=5ir7EHlr0CkpcYOT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 2\. You're not ready to pay $799 for a watch
 
 The Apple Watch SE is the most affordable watch in Apple's lineup, with models [starting at $249](https://apple.sjv.io/c/159047/435031/7613?&sharedId=zdnet&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-watch%2Fapple-watch-se&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp). However, it lacks some of the key health features that the Series 8 and Ultra have -- such as ECG and blood oxygen level monitoring. 
@@ -117,10 +117,6 @@ The Series 8 [starts at $399](https://apple.sjv.io/c/159047/435031/7613?&sharedI
 For $399 you can get a [41mm Apple Watch Series 8](https://apple.sjv.io/c/159047/435031/7613?&sharedId=zdnet&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-watch%2Fapple-watch&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp), or for $429 you can pick up a [45mm Apple Watch Series 8](https://apple.sjv.io/c/159047/435031/7613?&sharedId=zdnet&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-watch%2Fapple-watch&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp). Both of those prices are for an aluminum body and lack cellular connectivity. If you want to add cellular capabilities, you'll pay a $100 premium -- bringing the total to $499 and $529, respectively. 
 
 Still, those prices are more affordable than the Ultra's price tag and the Series 8 is sure to last a few years, or at least until Apple stops providing software updates to it. 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 3\. Don't need all of the extreme outdoor features
 
@@ -133,6 +129,10 @@ The Series 8 is water resistant, as well, and can be used while swimming or even
 **More: [The best Apple Watch models of 2022](https://www.zdnet.com/article/best-apple-watch/)**
 
 [Apple Watch Series 8 $399 at Apple](https://apple.sjv.io/c/159047/435031/7613?&sharedId=zdnet&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-watch%2Fapple-watch&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/793ViIxl4tI?si=DDBkjPlPX5bZ-f1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Alternatives to consider
 
@@ -170,16 +170,24 @@ Open to other Apple Watch prospects? Consider the also-new Apple Watch SE.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-activity-recording.techidaily.com/new-2024-approved-screencast-o-matic-review-everything-you-need-to-know/"><u>[New] 2024 Approved Screencast-O-Matic Review Everything You Need To Know</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/ed-2024-approved-elevate-your-videography-with-top-seo-gadgets/"><u>[Updated] 2024 Approved Elevate Your Videography with Top SEO Gadgets</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/2024-approved-avoiding-common-pitfalls-in-rl-gameplay-recordings/"><u>2024 Approved Avoiding Common Pitfalls in RL Gameplay Recordings</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/decoding-variants-of-microsofts-ai-contrasting-gpt-4-gpt-4-turbo-and-gpt-4o/"><u>Decoding Variants of Microsoft's AI: Contrasting GPT-4, GPT-4 Turbo & GPT-4o</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/desktop-vs-website-how-the-chatgpt-app-outperforms-its-online-counterpart/"><u>Desktop Vs. Website: How the ChatGPT App Outperforms Its Online Counterpart</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/effortless-visual-stories-through-picshot-collage/"><u>Effortless Visual Stories Through Picshot Collage</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/mastering-professional-correspondence-leveraging-chatgpt-for-crafting-complex-workplace-emails/"><u>Mastering Professional Correspondence: Leveraging ChatGPT for Crafting Complex Workplace Emails</u></a></li>
-<li><a href="https://blog-min.techidaily.com/optimal-techniques-for-converting-h2nt-to-h265-codec-achieve-small-sizes-with-no-loss-in-clarity/"><u>Optimal Techniques for Converting H.2nT to H.265 Codec - Achieve Small Sizes with No Loss in Clarity</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/snapchats-ai-meets-bing-chat-in-a-skype-battle-discover-eight-major-contrasts-between-the-two-tech-giants/"><u>Snapchat's AI Meets Bing Chat in a Skype Battle: Discover Eight Major Contrasts Between the Two Tech Giants</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/top-9-immediate-chatgpt-add-ons-enhance-your-site-today/"><u>Top 9 Immediate ChatGPT Add-Ons: Enhance Your Site Today</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/updated-using-slow-motion-in-adobe-after-effects-a-step-by-step-procession-for-2024/"><u>Updated Using Slow Motion in Adobe After Effects A Step-by-Step Procession for 2024</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/new-construct-a-careerscape-on-camera-by-critiquing-closets/"><u>[New] Construct a Careerscape on Camera by Critiquing Closets</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-mirth-machines-zombie-comedy-constructors/"><u>[New] Mirth Machines Zombie Comedy Constructors</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-2024-approved-snap-into-style-expert-tips-to-outshine-the-competition/"><u>[Updated] 2024 Approved Snap Into Style Expert Tips to Outshine the Competition</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-becoming-a-master-at-the-art-of-engaging-thumbnails/"><u>[Updated] Becoming a Master at the Art of Engaging Thumbnails</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-crafting-engaging-youtube-end-credits/"><u>[Updated] In 2024, Crafting Engaging YouTube End Credits</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-in-2024-no-smudges-on-screens-keeping-your-gopro-crisp/"><u>[Updated] In 2024, No Smudges on Screens Keeping Your GoPro Crisp</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/5-essential-features-for-an-upgraded-chatgpt-plugin-ecosystem/"><u>5 Essential Features for an Upgraded ChatGPT Plugin Ecosystem</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/1722009969452-boost-your-wellbeing-discover-8-must-have-gpt-tools-for-fitness-success/"><u>Boost Your Wellbeing: Discover 8 Must-Have GPT Tools for Fitness Success!</u></a></li>
+<li><a href="https://android-location.techidaily.com/how-to-fake-gps-on-android-without-mock-location-for-your-itel-p55plus-drfone-by-drfone-virtual/"><u>How to Fake GPS on Android without Mock Location For your Itel P55+ | Dr.fone</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/insightful-analysis-of-the-microsoft-surface-studio-2s-premium-pricing/"><u>Insightful Analysis of the Microsoft Surface Studio 2'S Premium Pricing</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/resolving-common-glitches-in-persona-4-golden-gameplay-experience/"><u>Resolving Common Glitches in Persona 4 Golden Gameplay Experience</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/the-top-12-best-mac-screencast-apps-available-at-no-cost-your-complete-list/"><u>The Top 12 Best Mac Screencast Apps Available at No Cost - Your Complete List!</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/top-5-emerging-innovations-in-artifice-intelligence-hardware/"><u>Top 5 Emerging Innovations in Artifice Intelligence Hardware</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/top-8-powerful-plug-ins-enhancing-health-and-fitness-with-gpt/"><u>Top 8 Powerful Plug-Ins Enhancing Health & Fitness with GPT</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/troubleshooting-tips-solving-issues-with-chatgpts-conversation-saving-feature/"><u>Troubleshooting Tips: Solving Issues with ChatGPT's Conversation Saving Feature</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/ultimate-guide-steps-to-erase-your-chatgpt-profile/"><u>Ultimate Guide: Steps to Erase Your ChatGPT Profile</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/unleash-your-pc-potential-gpt-3s-repair-guide/"><u>Unleash Your PC Potential - GPT-3's Repair Guide</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/visual-intelligence-in-action-chatgpts-powerful-use-cases/"><u>Visual Intelligence in Action: ChatGPT's Powerful Use Cases</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/when-tech-fails-the-mind-9-critical-concerns-of-using-ai-in-place-of-trained-therapists/"><u>When Tech Fails the Mind: 9 Critical Concerns of Using AI in Place of Trained Therapists</u></a></li>
 </ul></div>
 

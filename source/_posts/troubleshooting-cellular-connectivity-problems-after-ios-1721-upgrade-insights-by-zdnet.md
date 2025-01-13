@@ -1,7 +1,7 @@
 ---
 title: Troubleshooting Cellular Connectivity Problems After iOS 17.2.1 Upgrade | Insights by ZDNET
-date: 2025-01-03T00:45:44.878Z
-updated: 2025-01-06T23:30:23.784Z
+date: 2025-01-10T16:51:21.556Z
+updated: 2025-01-13T16:49:45.490Z
 tags:
   - apple
 categories:
@@ -60,7 +60,7 @@ Aside from the inferior Photos app navigation, videos in the Photos app no longe
 "The UX is a huge downgrade. It's so bad that I had to submit feedback to Apple via the feedback app in the beta. Never did one of those when it wasn't a technical bug, just pure user experience frustration," another [Redditor said](https://www.reddit.com/r/apple/comments/1e2jtq5/comment/ld1wsjg/?utm%5Fsource=share&utm%5Fmedium=web3x&utm%5Fname=web3xcss&utm%5Fterm=1&utm%5Fcontent=share%5Fbutton).
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/o-sRtqHdEYY?si=NMTMQVxJsUaoguqh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to navigate the iOS 18 Photos app
@@ -109,24 +109,19 @@ I hope a future version of iOS 18 will bring back the Camera Roll or at least to
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-files.techidaily.com/new-2024-approved-iphone-under-the-moonlight-photography-tips/"><u>[New] 2024 Approved IPhone Under the Moonlight Photography Tips</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-guide-to-writing-enthralling-videography-content/"><u>[New] Guide to Writing Enthralling Videography Content</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-2024-approved-does-your-channel-benefit-from-regular-youtube-payments/"><u>[Updated] 2024 Approved Does Your Channel Benefit From Regular YouTube Payments?</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/beyond-human-sight-ais-ineffective-blockers/"><u>Beyond Human Sight: AI's Ineffective Blockers</u></a></li>
-<li><a href="https://howto.techidaily.com/bricked-your-motorola-edgeplus-2023-heres-a-full-solution-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Bricked Your Motorola Edge+ (2023)? Heres A Full Solution | Dr.fone</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/chatgpt-showdown-determining-if-a-browser-addon-or-plugin-formats-your-needs-best/"><u>ChatGPT Showdown: Determining if a Browser Addon or Plugin Formats Your Needs Best</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/cybersecurity-alert-how-artificial-intelligence-became-a-criminal-tool-in-5-ways/"><u>Cybersecurity Alert: How Artificial Intelligence Became a Criminal Tool in 5 Ways</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/easy-steps-on-how-to-create-a-new-apple-id-account-on-iphone-x-drfone-by-drfone-ios/"><u>Easy Steps on How To Create a New Apple ID Account On iPhone X | Dr.fone</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/end-juxtaposing-siri-and-chatgpt-discerning-their-divergence/"><u>End Juxtaposing Siri & ChatGPT: Discerning Their Divergence</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/essential-gadgets-for-your-macbook-expert-evaluations-and-picks-zdnet/"><u>Essential Gadgets for Your MacBook : Expert Evaluations and Picks | ZDNet</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/exposing-fraudgpt-schemes-stay-one-step-ahead/"><u>Exposing FraudGPT Schemes: Stay One Step Ahead</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/gpt-and-cybersecurity-risks-to-your-bank-data/"><u>GPT and Cybersecurity: Risks to Your Bank Data?</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-fake-snapchat-location-on-vivo-x-flip-drfone-by-drfone-virtual-android/"><u>How to Fake Snapchat Location on Vivo X Flip | Dr.fone</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/leverage-artificial-intelligence-for-reading-pleasure-top-5-recommender-sites-and-apps-to-choose-your-next-book/"><u>Leverage Artificial Intelligence for Reading Pleasure: Top 5 Recommender Sites and Apps to Choose Your Next Book</u></a></li>
-<li><a href="https://solve-info.techidaily.com/resolving-network-connection-issues-expert-tips-from-yl-computings-best-practices/"><u>Resolving Network Connection Issues: Expert Tips From YL Computing's Best Practices</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/spotting-fraudulent-bingpt-crypto-before-its-too-late/"><u>Spotting Fraudulent BinGPT Crypto Before It's Too Late</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/the-essentials-of-controlling-ai-identifying-potential-regulators-and-frameworks/"><u>The Essentials of Controlling AI: Identifying Potential Regulators and Frameworks</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/top-9-strategies-how-chatgpt-boosts-efficiency-for-content-makers/"><u>Top 9 Strategies: How ChatGPT Boosts Efficiency for Content Makers</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/unlock-the-secret-to-getting-your-hands-on-a-free-macbook-air-m3-at-best-buy-expert-insights-revealed/"><u>Unlock the Secret to Getting Your Hands on a Free MacBook Air M3 at Best Buy - Expert Insights Revealed!</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-elevating-engagement-with-innovative-techniques-in-fb-lives/"><u>[Updated] Elevating Engagement with Innovative Techniques in FB Lives</u></a></li>
+<li><a href="https://blog-min.techidaily.com/5-techniques-to-transfer-data-from-xiaomi-redmi-a2plus-to-iphone-15141312-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>5 Techniques to Transfer Data from Xiaomi Redmi A2+ to iPhone 15/14/13/12 | Dr.fone</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/are-emojis-the-new-stock-market-tips-unpacking-tech-news-activision-breach-and-ais-impact-on-employment/"><u>Are Emojis the New Stock Market Tips? Unpacking Tech News: Activision Breach & AI's Impact on Employment</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/assessing-the-impact-of-ai-innovations-on-future-search-engine-landscape/"><u>Assessing the Impact of AI Innovations on Future Search Engine Landscape</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/bend-ai-language-to-your-will/"><u>Bend AI Language to Your Will</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/beyond-alan-turing-exploring-modern-replacements-for-the-famous-turing-evaluation/"><u>Beyond Alan Turing: Exploring Modern Replacements for the Famous Turing Evaluation</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/chatgpts-giggle-grind-engineering-emotional-echoes/"><u>ChatGPT's Giggle Grind: Engineering Emotional Echoes</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/choosing-your-champion-in-the-ai-arena-chatgpt-vs-bing-chat-battle/"><u>Choosing Your Champion in the AI Arena: ChatGPT Vs. Bing Chat Battle</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-deal-with-the-realme-narzo-60-5g-screen-black-but-still-works-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Deal With the Realme Narzo 60 5G Screen Black But Still Works? | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-dose-life360-notify-me-when-someone-checks-my-location-on-oppo-find-x7-ultra-drfone-by-drfone-virtual-android/"><u>In 2024, Dose Life360 Notify Me When Someone Checks My Location On Oppo Find X7 Ultra? | Dr.fone</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/in-2024-leading-platforms-mimicking-twitters-network/"><u>In 2024, Leading Platforms Mimicking Twitter's Network</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-still-using-pattern-locks-with-poco-m6-pro-4g-tips-tricks-and-helpful-advice-by-drfone-android/"><u>In 2024, Still Using Pattern Locks with Poco M6 Pro 4G? Tips, Tricks and Helpful Advice</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/steps-to-rectify-0x00709-error-on-pc/"><u>Steps to Rectify 0X00709 Error on PC</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/unlocking-wireless-network-secrets-discover-your-wi-fi-password-with-windows-ebrity-11/"><u>Unlocking Wireless Network Secrets: Discover Your Wi-Fi Password with Windows Ebrity 11</u></a></li>
 </ul></div>
 

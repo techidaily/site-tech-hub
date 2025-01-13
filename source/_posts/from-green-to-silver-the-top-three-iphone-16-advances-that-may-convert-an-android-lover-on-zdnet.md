@@ -1,7 +1,7 @@
 ---
 title: "From Green to Silver: The Top Three iPhone 16 Advances That May Convert an Android Lover on ZDNet."
-date: 2025-01-05T01:57:34.320Z
-updated: 2025-01-06T19:36:37.572Z
+date: 2025-01-11T16:52:13.968Z
+updated: 2025-01-13T16:16:16.049Z
 tags:
   - apple
 categories:
@@ -37,7 +37,7 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RvR5PNhspKE?si=uJcMYK9v-_Xq7fAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. Reducing lens flare with new materials
@@ -49,7 +49,7 @@ When capturing images with the iPhone -- Pro model or not -- bright light source
 As reported by [MacRumors](https://www.macrumors.com/2024/04/15/iphone-16-pro-camera-reduced-lens-flare/), sources close to Apple's supply chain have hinted that the company is testing a new anti-reflective optical coating, made of atomic layer deposition, intended to reduce the camera artifacts previously mentioned. Should Apple introduce the feature with the iPhone 16, it would fix one of the longest-standing complaints about the iPhone camera system.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Higher refresh rate displays on non-Pro models
@@ -61,7 +61,7 @@ Apple did something very courageous last year: It brought the Pro line's Dynamic
 Compared to the Pro model's 120Hz display, which portrays animations in a much flowy, smoother manner, the non-Pro iPhones' 60Hz panels just didn't look as polished, with a noticeable stutter when scrolling through bodies of text. Dialing up the refresh rate, even up to 90Hz, would make the baseline iPhone 16 models more satisfying to look at and interact with.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3UyJuZYzjt0?si=W87GeyzVKVORAk7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. A voice assistant I can take Siri-ously
@@ -104,18 +104,22 @@ Apple has already hinted at an AI-focused [Worldwide Developer Conference](https
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-access-royalty-free-beats-for-your-vlog-and-more-for-2024/"><u>[Updated] Access Royalty-Free Beats for Your Vlog & More for 2024</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/chatgpt-explored-understanding-risks-and-safety/"><u>ChatGPT Explored: Understanding Risks and Safety</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/decoding-digital-echoes-a-comprehensive-guide-to-identifying-your-real-online-interlocutors-and-the-dead-internet-phenomenon/"><u>Decoding Digital Echoes: A Comprehensive Guide to Identifying Your Real Online Interlocutors and the Dead Internet Phenomenon</u></a></li>
-<li><a href="https://some-tips.techidaily.com/decoding-tech-trends-a-comprehensive-look-at-the-surge-and-decline-of-programming-language-preference-since-2016-discoveries-on-zdnet/"><u>Decoding Tech Trends: A Comprehensive Look at the Surge and Decline of Programming Language Preference Since 2016 - Discoveries on ZDNET</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/ensuring-data-security-the-guide-to-opting-out-of-chatgpt/"><u>Ensuring Data Security: The Guide to Opting Out of ChatGPT</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/how-and-where-to-find-a-shiny-stone-pokemon-for-itel-s23plus-drfone-by-drfone-virtual-android/"><u>How and Where to Find a Shiny Stone Pokémon For Itel S23+? | Dr.fone</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-remove-google-frp-lock-on-xiaomi-redmi-k70-pro-by-drfone-android-unlock-remove-google-frp/"><u>How to remove Google FRP Lock on Xiaomi Redmi K70 Pro</u></a></li>
-<li><a href="https://network-issues.techidaily.com/1719974803428-how-to-uninstall-graphics-driver-in-windows-quickly-and-easily/"><u>How To Uninstall Graphics Driver in Windows. Quickly & Easily!</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-how-to-use-snapchat-location-spoofer-to-protect-your-privacy-on-nokia-105-classic-drfone-by-drfone-virtual-android/"><u>In 2024, How to use Snapchat Location Spoofer to Protect Your Privacy On Nokia 105 Classic? | Dr.fone</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-pattern-locks-are-unsafe-secure-your-tecno-spark-10-5g-phone-now-with-these-tips-by-drfone-android/"><u>In 2024, Pattern Locks Are Unsafe Secure Your Tecno Spark 10 5G Phone Now with These Tips</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/the-ultimate-guide-to-9-key-video-file-types-advantages-limitations-and-when-to-use-them/"><u>The Ultimate Guide to 9 Key Video File Types - Advantages, Limitations & When to Use Them</u></a></li>
-<li><a href="https://fox-where.techidaily.com/understanding-the-causes-behind-your-scanners-excessive-sound-during-scan-operations-insights-from-yl-computing/"><u>Understanding the Causes Behind Your Scanner's Excessive Sound During Scan Operations - Insights From YL Computing</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/windowsogvmp4/"><u>Windows上でOGVファイルをMP4形式への変換手順</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-the-essential-guide-to-iphone-reflections-in-landscapes/"><u>2024 Approved The Essential Guide to iPhone Reflections in Landscapes</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/1723862705613-acemagic-x1-dual-screen-laptop-unveiling-pre-launch-secure-your-advance-order/"><u>AceMagic X1 Dual-Screen Laptop: Unveiling Pre-Launch, Secure Your Advance Order</u></a></li>
+<li><a href="https://windows11.techidaily.com/display-number-and-caps-lock-status-in-taskbar-tray-win11/"><u>Display Number and Caps Lock Status in Taskbar Tray Win11</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-remove-google-frp-lock-on-nokia-by-drfone-android-unlock-remove-google-frp/"><u>How to remove Google FRP Lock on Nokia</u></a></li>
+<li><a href="https://win-dash.techidaily.com/improve-connectivity-with-the-latest-tp-link-usb-400-bluetooth-drivers-and-firmware/"><u>Improve Connectivity with the Latest TP-Link USB 400 Bluetooth Drivers and Firmware</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-unlock-sim-cards-of-xiaomi-redmi-note-13-pro-5g-without-puk-codes-by-drfone-android/"><u>In 2024, How To Unlock SIM Cards Of Xiaomi Redmi Note 13 Pro 5G Without PUK Codes</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-m1-dominance-video-editors-rejoice-in-seamless-experience/"><u>In 2024, M1 Dominance Video Editors Rejoice in Seamless Experience</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-pristine-visionary-storytelling-system/"><u>In 2024, Pristine Visionary Storytelling System</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/latest-evga-gpu-drivers-get-them-downloaded-and-installed-for-windows-users/"><u>Latest EVGA GPU Drivers: Get Them Downloaded and Installed for Windows Users</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/top-5-essential-ai-writing-skills-classes-to-excel-in-prompt-engineering/"><u>Top 5 Essential AI Writing Skills Classes to Excel in Prompt Engineering</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/top-5-no-cost-artificial-intelligence-applications-for-crafting-professional-outreach-messages-via-chatgpt-and-streamlining-email-management/"><u>Top 5 No-Cost Artificial Intelligence Applications for Crafting Professional Outreach Messages via ChatGPT and Streamlining Email Management</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/top-5-ultimate-ai-prompt-creation-tools-compatible-with-all-ai-platforms/"><u>Top 5 Ultimate AI Prompt Creation Tools Compatible with All AI Platforms</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/unleash-your-browsers-ai-potential-our-top-7-suggestions/"><u>Unleash Your Browser's AI Potential: Our Top 7 Suggestions</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/unlocking-smart-search-the-ultimate-walkthrough-for-ai-integration-with-the-bing-app-on-android/"><u>Unlocking Smart Search: The Ultimate Walkthrough for AI Integration with the Bing App on Android</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/unveiling-every-detail-the-newest-ai-features-from-the-apple-wwdc-2024/"><u>Unveiling Every Detail: The Newest AI Features From the Apple WWDC 2024</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/unveiling-the-evolution-a-comprehensive-guide-from-gpt-1-to-gpt/"><u>Unveiling the Evolution: A Comprehensive Guide From GPT-1 to GPT-</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/what-exactly-is-the-enigmatic-truthgpt-initiative-led-by-elon-musk/"><u>What Exactly Is the Enigmatic TruthGPT Initiative Led by Elon Musk?</u></a></li>
 </ul></div>
 

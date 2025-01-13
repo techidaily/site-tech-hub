@@ -1,7 +1,7 @@
 ---
 title: "Expert Insights on iPad Air with M2 Chip: The Best Tablet to Invest in According to Apple Enthusiasts"
-date: 2025-01-01T18:15:58.137Z
-updated: 2025-01-07T02:55:07.364Z
+date: 2025-01-07T16:30:35.532Z
+updated: 2025-01-13T16:52:02.058Z
 tags:
   - apple
 categories:
@@ -29,7 +29,7 @@ If anything, the latest iOS 18.1 betas with Apple Intelligence features have bee
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## The annual upgrade ritual
@@ -39,7 +39,7 @@ Every year, my wife and I eagerly await the release of the new iPhones. Being pa
 Despite the buzz around the [iPhone 16's new features](https://www.zdnet.com/article/im-an-android-user-but-these-three-iphone-16-features-would-win-me-over/) and the integration of Apple Intelligence, however, several concerns dampen my enthusiasm for upgrading this year.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Apple Intelligence: A significant, yet incomplete, leap forward
@@ -66,10 +66,6 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 [See all](https://www.zdnet.com/newsletters/)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## New hardware leaks: what to expect from the iPhone 16
 
 Earlier, I discussed how older -- as well as current generation -- iOS devices [aren't powerful enough to handle on-device Generative AI tasks](https://www.zdnet.com/article/the-expensive-reason-why-apples-upcoming-ai-features-arent-coming-to-your-older-iphone/). The [base iPhone 15](https://www.zdnet.com/article/iphone-15-plus-review/), which has only 6GB of RAM, would struggle to meet the demands of Apple Intelligence as it evolves and becomes more integrated into iOS, core Apple applications, and developer applications. Older iPhones have [6GB of RAM or less](https://iosref.com/ram-processor), and are not eligible to run Apple Intelligence in current iOS 18.1 builds. 
@@ -87,7 +83,7 @@ Interestingly, despite these hardware upgrades, Apple appears to be keeping pric
 Despite these upgrades, the iPhone 16 may still face challenges due to design cycles that didn't fully account for the scope of Apple Intelligence's capabilities. As a result, users may experience suboptimal performance and a less seamless user experience, especially as more AI features roll out in subsequent updates.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0nGlyEL5K6Y?si=3KZhTTBvKcPmyS68" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Why you shouldn't buy the iPhone 16 for Apple Intelligence
@@ -97,6 +93,10 @@ Besides memory concerns, AI processing demands a lot of power and additional com
 **Also: [How iOS 18 changes the way you charge your iPhone](https://www.zdnet.com/article/how-ios-18-changes-the-way-you-charge-your-iphone/)**
 
 For these reasons, I see the iPhone 16 (and potentially even the iPhone 17) as a transitional product in Apple's journey toward on-device AI. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GPk8_xpN_rA?si=YbAdgsjAKsCn_UsB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How Apple Intelligence will likely evolve
 
@@ -115,7 +115,7 @@ Enterprises may also employ a mobile device management solution to facilitate ac
 Imagine your iPhone using the unused processing power of your Mac or iPad, all equipped with on-device LLMs, to tackle complex AI tasks. This would increase the accessibility of AI features across Apple's product range.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1rCjQ09iG7s?si=Si1fUBric8MH1VHI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## I'm still optimistic
@@ -158,24 +158,17 @@ _This article was originally published on June 28, 2024, and updated on August 2
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-capture.techidaily.com/new-2024-approved-best-practices-for-sharing-desktopsmobile-screens-in-meet/"><u>[New] 2024 Approved Best Practices for Sharing Desktops/Mobile Screens in Meet</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/updated-2024-approved-flavorful-frames-principles-of-food-filmmaking/"><u>[Updated] 2024 Approved Flavorful Frames Principles of Food Filmmaking</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/updated-2024-approved-how-to-make-slow-motion-videos-for-instagram/"><u>[Updated] 2024 Approved How to Make Slow Motion Videos for Instagram</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/updated-2024-approved-precision-viewing-at-a-glance-quick-minigame-tips/"><u>[Updated] 2024 Approved Precision Viewing at a Glance Quick Minigame Tips</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-optimize-obs-encoding-quick-solutions-for-2024/"><u>[Updated] Optimize OBS Encoding Quick Solutions for 2024</u></a></li>
-<li><a href="https://fox-links.techidaily.com/updated-pinnacle-of-camera-quality-top-18-4k-camcorders/"><u>[Updated] Pinnacle of Camera Quality - Top 18 4K Camcorders</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/how-can-meizu-21-promirror-share-to-pc-drfone-by-drfone-android/"><u>How Can Meizu 21 ProMirror Share to PC? | Dr.fone</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/210268060-9781098065669-laughing-my-way-to-a-better-life/"><u>Laughing My Way to a Better Life! | Free Book</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/save-money-on-video-conversion-transform-vimeo-clips-to-mp4-using-free-tools-5-uncomplicated-techniques/"><u>Save Money on Video Conversion: Transform Vimeo Clips to MP4 Using Free Tools - 5 Uncomplicated Techniques</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/seamless-techniques-for-extracting-videos-from-your-dvds/"><u>Seamless Techniques for Extracting Videos From Your DVDs</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/simple-guide-to-converting-mts-video-format-to-mov-on-your-windows-computer/"><u>Simple Guide to Converting MTS Video Format to MOV on Your Windows Computer</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/slashing-your-webm-file-size-the-ultimate-guide-to-faster-loading-and-free-optimization-tools/"><u>Slashing Your WebM File Size: The Ultimate Guide to Faster Loading and Free Optimization Tools</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/step-by-step-guide-transforming-f4v-video-format-into-mp4/"><u>Step-by-Step Guide: Transforming F4V Video Format Into MP4</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/step-by-step-guide-transforming-mp3-files-into-high-quality-aac-format/"><u>Step-by-Step Guide: Transforming MP3 Files Into High-Quality AAC Format</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/step-by-step-tutorial-on-adjusting-video-playback-from-tv-standards-samsung-lg-sony-apple/"><u>Step-by-Step Tutorial on Adjusting Video Playback From TV Standards (Samsung, LG, Sony, Apple)</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/step-by-step-tutorial-preserving-image-and-sound-integrity-when-changing-from-to-windows-media-video-format/"><u>Step-by-Step Tutorial: Preserving Image and Sound Integrity When Changing From 지오그루피 to Windows Media Video Format</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/step-by-step-tutorial-seamless-sound-removal-from-dvd-media/"><u>Step-by-Step Tutorial: Seamless Sound Removal From DVD Media</u></a></li>
-<li><a href="https://win11.techidaily.com/tackling-the-dilemma-of-error-0x0000004e-in-win11/"><u>Tackling the Dilemma of Error 0X0000004E in Win11</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/unboxing-the-worthiness-of-apple-tv/"><u>Unboxing the Worthiness of Apple TV</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-2024-approved-dissecting-instagrams-per-post-video-quota/"><u>[New] 2024 Approved Dissecting Instagram's Per-Post Video Quota</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-in-depth-slomo-video-software-review-year-2024/"><u>[New] In-Depth SloMo Video Software Review - Year 2024</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-selecting-sounds-for-success-top-microphones-for-multifacited-youtube-professionals/"><u>[Updated] Selecting Sounds for Success Top Microphones for Multifacited YouTube Professionals</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/1-million-token-breakthrough-in-geminis-saga/"><u>$1 Million Token Breakthrough in Gemini's Saga</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/budget-friendly-airborision-top-5-under-500-drone-picks-for-2024/"><u>Budget-Friendly Airborision Top 5 Under $500 Drone Picks for 2024</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-track-samsung-galaxy-s24-ultra-location-without-installing-software-drfone-by-drfone-virtual-android/"><u>In 2024, How to Track Samsung Galaxy S24 Ultra Location without Installing Software? | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/swift-solution-to-try-connection-bluetooth-misfire/"><u>Swift Solution to 'Try Connection' Bluetooth Misfire</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/under-100-video-doorbells-showdown-a-comprehensive-look-at-the-remobell-s/"><u>Under $100 Video Doorbells Showdown - A Comprehensive Look at the RemoBell S</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/unlock-ais-best-performance-5-essential-steps-to-superior-chatgpt-interactions/"><u>Unlock AI's Best Performance: 5 Essential Steps to Superior ChatGPT Interactions</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/unlock-new-potentials-the-best-chatgpt-tools-available-now/"><u>Unlock New Potentials: The Best ChatGPT Tools Available Now</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/unlocking-career-success-how-chatgpt-aids-in-securing-your-ideal-position/"><u>Unlocking Career Success: How ChatGPT Aids in Securing Your Ideal Position</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/your-next-page-turner-found-top-5-ai-tools-for-personalized-reading-experience/"><u>Your Next Page-Turner Found: Top 5 AI Tools for Personalized Reading Experience</u></a></li>
 </ul></div>
 

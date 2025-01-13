@@ -1,7 +1,7 @@
 ---
 title: "March Release Anticipated: Exploring the Potential Launch of Apple's Upcoming MacBook Air, iPad Pro & iPad Air - Insights From ZDNet"
-date: 2025-01-03T01:50:37.526Z
-updated: 2025-01-06T17:43:05.869Z
+date: 2025-01-09T16:02:48.538Z
+updated: 2025-01-13T16:17:17.031Z
 tags:
   - apple
 categories:
@@ -39,7 +39,7 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Apple Intelligence (AI)
@@ -64,10 +64,6 @@ Maria Diaz/ZDNET
 * In the Notes app, users can **record and transcribe audio**, which Apple Intelligence will generate a text summary of. This experience is also available in the Notes phone app.
 * Apple Intelligence is free on iOS 18, iPadOS 18, and MacOS Sequoia, and will be available to try in English only this summer.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mK1lEBRm_1w?si=FSaM0OKO0XBCgjtT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Partnership with OpenAI
 
 Jason Hiner/ZDNET
@@ -77,7 +73,7 @@ Jason Hiner/ZDNET
 * The ChatGPT integration will be coming to iOS 18, iPadOS 18, and MacOS Sequoia later this year.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jnITUsxMz5s?si=ohwRVH6eWhVnC6Xf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## iOS 18
@@ -112,10 +108,6 @@ Adam Breeden/ZDNET
 * **Check In** is available on Apple Watch, even during workouts, to help users stay safe. **Translate** is also coming to Apple Watch so users can translate text right from their wrists.
 * Another notable change is that the **double tap gesture** can be used to scroll through apps.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## iPadOS 18
 
 Adam Breeden/ZDNET
@@ -125,6 +117,10 @@ Adam Breeden/ZDNET
 * In a long-awaited release, iPads will now have a **[calculator app](https://www.zdnet.com/article/after-14-years-apple-expected-to-unveil-the-ipad-app-weve-all-been-waiting-for-at-wwdc/)** for the first time, complete with the same interface as the one currently found on iPhones. Plus, users can use it with the Apple Pencil through a new **Math Notes** experience, which allows users to write expressions that the calculator app will solve for them once they type the equal sign, in their own handwriting,
 * Handwriting in Notes also got an upgrade with **Smart** **Script**, which refines users' writing to make it more legible while keeping the authenticity of the user's handwriting style. The feature can also match copied and pasted text to the user's handwriting. Typed text was also enhanced, with five new highlight colors and the ability to toggle sections under headings or subheadings.
 * iPadOS 18 supports **screen-sharing via SharePlay** and the same Control Center customizations, Photos app upgrades, Safari updates, and emoji Tapbacks found in **iOS 18.**
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## MacOS 15 (Sequoia)
 
@@ -136,6 +132,10 @@ Adam Breeden/ZDNET
 * **Video meetings** are also getting an upgrade, with new backgrounds and a preview experience that allows you to see what you are about to share before sharing it. This feature works with popular video conferencing applications such as FaceTime and Zoom.
 * The **AI summarization** tool will live in Safari to help users process content like web pages and articles more efficiently. Safari will also assist users in discovering more helpful information about a page they are browsing when relevant, such as directions.
 * Apple also launched a new **Viewer experience**, which does for video what Reader does for text.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## VisionOS 2
 
@@ -154,10 +154,6 @@ Jason Hiner/ZDNET
 * Users can **cast content** from their iPhone, iPad, or Mac to the Vision Pro using AirPlay.
 * Apple is also making the Vision Pro available in more countries starting June 28\. You can see the full list [here](https://www.apple.com/newsroom/2024/06/apple-vision-pro-arrives-in-new-countries-and-regions-beginning-june-28/).
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OdlXe5RELW0?si=Iz1H1QnLQVw-Eu3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## AirPods
 
 Jason Hiner/ZDNET
@@ -165,6 +161,10 @@ Jason Hiner/ZDNET
 * AirPods Pro are getting **Voice Isolation** to enhance call quality in noisier environments.
 * With the new **Siri Interactions**, users can now **nod or shake their head** "yes" or "no" when responding to Siri.
 * Apple is also releasing a **Personalized Spatial Audio API** for game developers to build around the AirPods' audio technology.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## tvOS 18
 
@@ -210,22 +210,21 @@ Screenshot by Nina Raemont/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://digital-screen-recording.techidaily.com/new-in-2024-advanced-5-internet-screen-grabbers/"><u>[New] In 2024, Advanced 5 Internet Screen Grabbers</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-in-2024-instant-ideas-recording-ppts-with-ease/"><u>[New] In 2024, Instant Ideas Recording PPTs with Ease</u></a></li>
-<li><a href="https://fox-links.techidaily.com/new-prime-websites-boosting-youtube-video-popularity/"><u>[New] Prime Websites Boosting YouTube Video Popularity</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/1726030061487-dvdusb/"><u>「DVDをコピーする自由な方法：USBメモリに簡単移したい？ここでお得なソフトウェア選び術」</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/2024facebook4/"><u>2024年のトップ！Facebook動画を安全に保管する秘訣：ベスト4ピック</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/1726028286638-dvd/"><u>懐かしいディスクのトラブルシューティング: DVDや古いビデオが再生不能になったときの解決策</u></a></li>
-<li><a href="https://article-posts.techidaily.com/elevate-your-videography-on-tiktok-2-ways-for-2024/"><u>Elevate Your Videography on TikTok (2 Ways) for 2024</u></a></li>
-<li><a href="https://location-social.techidaily.com/fixing-errors-in-nikon-video-files-effectively/"><u>Fixing Errors in Nikon Video Files Effectively</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/get-the-latest-gigabyte-gc-wb867d-i-driver-fast-free-download-links/"><u>Get the Latest Gigabyte GC-WB867D-I Driver - Fast, Free Download Links</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/1726027506252-gopro/"><u>GoProビデオ解像度調整の徹底ガイド</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/1726030405738-mp4/"><u>MP4ファイルの再生修正：テレビに適したプレイヤー設定をご紹介</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/1726028177620-ogg/"><u>Ogg音楽ファイルのプレイバック手順とトラブルシューティング</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/1726026736450-pcmp3/"><u>PCおよびスマートフォンに応じた音楽ファイルをMP3へ変換する詳細ガイド</u></a></li>
-<li><a href="https://fox-ssl.techidaily.com/systemprobleme-leicht-aufgeklart-computerscan-ergab-keine-wiederherstellungssicherung/"><u>Systemprobleme Leicht Aufgeklärt: Computerscan Ergab Keine Wiederherstellungssicherung!</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/the-ultimate-guide-to-achieving-flawless-screens-in-adobe-captivity-for-2024/"><u>The Ultimate Guide to Achieving Flawless Screens in Adobe Captivity for 2024</u></a></li>
-<li><a href="https://apple-account.techidaily.com/tips-and-tricks-for-apple-id-locked-issue-from-apple-iphone-xs-by-drfone-ios/"><u>Tips and Tricks for Apple ID Locked Issue From Apple iPhone XS</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/1726027434579-youtube/"><u>YouTubeやカメラロール動画からオーディオクリップでアラーム設定 - チャレンジ解決</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-in-2024-luminous-transformations-for-android-videos-step-by-step/"><u>[New] In 2024, Luminous Transformations for Android Videos Step by Step</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-2024-approved-best-linux-screen-capture-software-ranked/"><u>[Updated] 2024 Approved Best Linux Screen Capture Software Ranked</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-advanced-hd-screen-documentation-gadgets/"><u>[Updated] Advanced HD Screen Documentation Gadgets</u></a></li>
+<li><a href="https://fake-location.techidaily.com/all-must-knows-to-use-fake-gps-go-location-spoofer-on-xiaomi-mix-fold-3-drfone-by-drfone-virtual-android/"><u>All Must-Knows to Use Fake GPS GO Location Spoofer On Xiaomi Mix Fold 3 | Dr.fone</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/discovering-the-quintessential-5-ai-prompt-creators/"><u>Discovering the Quintessential 5 AI Prompt Creators</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/dive-into-huggingchat-how-it-matches-up-against-chatgpt-for-free/"><u>Dive Into HuggingChat: How It Matches Up Against ChatGPT for Free</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/downloading-samfw-frp-tool-30-for-motorola-edge-40-by-drfone-android/"><u>Downloading SamFw FRP Tool 3.0 for Motorola Edge 40</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/expertly-engineered-solutions-troubleshooting-with-chatai/"><u>Expertly Engineered Solutions: Troubleshooting With ChatAI</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/exploring-ai-types-comparing-the-contrast-of-strong-vs-weak-ai-systems/"><u>Exploring AI Types: Comparing the Contrast of Strong Vs. Weak AI Systems</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/exploring-the-distinctive-features-of-bert-vs-generative-pre-trained-transformer-models/"><u>Exploring the Distinctive Features of BERT Vs. Generative Pre-Trained Transformer Models</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/exploring-the-risks-the-reason-behind-hacker-interests-in-chatgpt-platforms/"><u>Exploring the Risks: The Reason Behind Hacker Interests in ChatGPT Platforms</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/future-proof-ideas-for-enhancing-chatgpts-plugin-storefront/"><u>Future-Proof Ideas for Enhancing ChatGPT's Plugin Storefront</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/in-2024-bridging-the-gap-between-spoken-words-and-text-on-slides-powerpoint-guide/"><u>In 2024, Bridging the Gap Between Spoken Words and Text on Slides PowerPoint Guide</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-quick-start-how-to-preserve-your-favorite-internet-streams/"><u>In 2024, Quick Start How To Preserve Your Favorite Internet Streams</u></a></li>
+<li><a href="https://win-able.techidaily.com/solving-the-issue-how-to-get-roblox-running-expert-strategies/"><u>Solving the Issue: How to Get Roblox Running - Expert Strategies</u></a></li>
+<li><a href="https://win11.techidaily.com/why-and-how-to-choose-effective-encoders-on-your-pc/"><u>Why and How to Choose Effective Encoders on Your PC</u></a></li>
 </ul></div>
 

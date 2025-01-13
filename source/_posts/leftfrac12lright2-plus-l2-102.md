@@ -1,7 +1,7 @@
 ---
 title: \\[ \\Left(\\frac{1}{2}l\\right)^2 + L^2 = 10^2 \\
-date: 2025-01-01T03:40:26.540Z
-updated: 2025-01-07T03:18:25.638Z
+date: 2025-01-07T16:00:55.022Z
+updated: 2025-01-13T16:47:03.077Z
 tags:
   - apple
 categories:
@@ -24,10 +24,6 @@ While the Pixel 6 Pro at time of release was only $100 cheaper ($899) than the $
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##  Specifications
 
 | **Google Pixel 6 Pro** | **iPhone 13 Pro**                                                                                                                                                            |                                                                                                                                                                                                                                                                                                                                                             |
@@ -46,7 +42,7 @@ While the Pixel 6 Pro at time of release was only $100 cheaper ($899) than the $
 | Price                  | [Starting at $899](https://www.anrdoezrs.net/links/9041660/type/dlg/sid/zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp/https://store.google.com/product/pixel%5F6%5Fpro?hl=en-US&pli=1) | [Starting at $999](https://apple.sjv.io/c/159047/435031/7613?&sharedId=zdnet&u=https%3A%2F%2Fwww.apple.com%2Fiphone-13-pro%2Fkey-features%2F%3Fafid%3Dp238%257CsNQZDFTnQ-dc%5Fmtid%5F20925d2q39172%5Fpcrid%5F588006468460%5Fpgrid%5F126654828229%5F%26cid%3Dwwa-us-kwgo-iphone--slid---Brand-iphone13pro-avail-&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp) |
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fHWdQw1gRyI?si=ve9wZnPupiooLThG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5FWCFI3f_cs?si=Kt2Onr_E4c616tbH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 
@@ -63,6 +59,10 @@ One standout camera feature on the Pixel 6 Pro is **Motion Mode,** whichallows u
 
 Another new and useful feature is **Magic Eraser.** Like Photoshop's Content Aware Fill, the software trick allows you to magically erase unwanted objects from a photo. Using the feature is as simple as circling what you'd like to erase from your image, whether that's strangers in the background, stain marks, or signage, and the Pixel 6 Pro does the rest. When done correctly, the image will look like it was perfectly captured in the first place. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/h5uImbOWmTg?si=z4kP-R0QbXbBAJTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ###  2\. You want a bigger battery
 
 While Apple's iPhones have made significant improvements to battery life since the early days, the Google Pixel 6 Pro wins the endurance battle. With 5,003 mAh (versus the iPhone's suggested 3,095 mAh), the Pixel 6 Pro can withstand a day's use with more ease than Apple's Pro phone. Google says the Pixel 6 Pro can support up to 9 hours of YouTube playback with just a single charge, which is close to our in-house experiences. It also helps that the Pixel supports USB-C fast charging, a more standardized method of charging than Apple's proprietary Lightning port. 
@@ -70,10 +70,6 @@ While Apple's iPhones have made significant improvements to battery life since t
 **Also: [One year later, Google Pixel 6 Pro is still Google's best smartphone](https://www.zdnet.com/article/google-pixel-6-pro-review/)**
 
 CNET
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ###  3\. You want a sleek, innovative design
 
@@ -88,7 +84,7 @@ Lastly, the Pixel 6 Pro runs on the latest Android 12 software, with Android 13 
 ##  You should buy the iPhone 13 Pro if...
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ###  1\. You want cinematic camera features
@@ -104,7 +100,7 @@ The iPhone 13 Pro also features new photographic styles. Different from your typ
 Lastly, Cinematic Mode shoots videos with a soft, out-of-focus background so that the subject of interest and the depth map are kept separate. With AI processing, the focus can intelligently shift when the subject turns around and his or her back is then facing the camera. Overall, the special mode gives a more movie-like quality to your iPhone videos 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Dn-24B6AURY?si=ErES2KWVnintY6h9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Wy0uYNNdMDM?si=5ir7EHlr0CkpcYOT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ###  2\. You own other Apple products (AirPods, Apple Watch, iPad, MacBook, etc.)
@@ -114,6 +110,10 @@ There's a reason for Apple's cult following and customer loyalty. Its products h
 While not an actual product, the Apple ecosystem is still very much part of the product you purchase when investing in, say, an iPhone. Your Apple ID credentials serve as the ecosystem's life source, allowing you to manage and protect multiple devices effortlessly. If you already own a pair of AirPods, an Apple Watch, or a MacBook, then buying the iPhone 13 Pro will make more sense usability-wise. 
 
 Image: Apple
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ###  3\. You want the best software and hardware support
 
@@ -153,19 +153,14 @@ This support extends to the many physical Apple storefronts, equipped with custo
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-hovers.techidaily.com/new-2024-approved-top-picks-for-optimal-cloud-space-solutions/"><u>[New] 2024 Approved Top Picks for Optimal Cloud Space Solutions</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/ree-youtube-end-screen-resources-enhance-video-impact/"><u>[New] Free YouTube End Screen Resources - Enhance Video Impact</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/new-step-into-the-world-of-manga-and-anime-with-a-tap-on-snapchat-for-2024/"><u>[New] Step Into the World of Manga & Anime with a Tap on Snapchat for 2024</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/updated-innovative-approaches-to-macos-subtitles-editing-for-2024/"><u>[Updated] Innovative Approaches to macOS Subtitles Editing for 2024</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/2024-approved-discover-hidden-audio-makers-6-stealthy-iosandroid-tools/"><u>2024 Approved Discover Hidden Audio Makers 6 Stealthy iOS/Android Tools</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/seo/"><u>音楽エンコードに秀でたソリューションを発見する：SEO適した選び方ガイド</u></a></li>
-<li><a href="https://extra-information.techidaily.com/a-step-by-step-guide-to-zoom-use-on-windows-pcs-win10-for-2024/"><u>A Step-by-Step Guide to Zoom Use on Windows PCs (Win10) for 2024</u></a></li>
-<li><a href="https://windows11.techidaily.com/eliminate-unmet-windows-11-specifications-warning/"><u>Eliminate Unmet Windows 11 Specifications Warning</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/in-search-of-excellence-top-10-4k-displays/"><u>In Search of Excellence #Top 10 4K Displays</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/quickconvert-pro-change-ogm-files-into-various-formats-mkv-avi-mp3/"><u>QuickConvert Pro: Change OGM Files Into Various Formats (MKV, AVI, MP3)</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/region-free-dvd-player-setup-watch-us-movies-down-under/"><u>Region-Free DVD Player Setup: Watch US Movies Down Under</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/safe-dvd-duplication-can-you-rip-dvds-without-harming-them-and-best-techniques/"><u>Safe DVD Duplication: Can You Rip DVDs Without Harming Them & Best Techniques</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/simple-guide-transforming-mpeg4-files-into-avi-format-with-easy-windows-tutorial/"><u>Simple Guide: Transforming MPEG4 Files Into AVI Format with Easy Windows Tutorial</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/vr-liftoff-top-peripherals-and-their-impacts/"><u>VR Liftoff - Top Peripherals & Their Impacts</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-airborne-awe-the-ultimate-list-of-staying-power-drones/"><u>[Updated] Airborne Awe The Ultimate List of Staying Power Drones</u></a></li>
+<li><a href="https://ios-location-track.techidaily.com/in-2024-ways-to-stop-parent-tracking-your-apple-iphone-8-plus-drfone-by-drfone-virtual-ios/"><u>In 2024, Ways to stop parent tracking your Apple iPhone 8 Plus | Dr.fone</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/leveraging-ai-assistance-how-freelancers-can-benefit-from-chatgpts-power/"><u>Leveraging AI Assistance: How Freelancers Can Benefit From ChatGPT's Power</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/leveraging-gpt-attention-to-expose-fraudulent-agents/"><u>Leveraging GPT Attention to Expose Fraudulent Agents</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/mastering-chatgpt-sidestep-these-6-frequent-prompt-blunders-for-optimal-results/"><u>Mastering ChatGPT: Sidestep These 6 Frequent Prompt Blunders for Optimal Results</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/mastering-open-conversations-windows-freedomgpt/"><u>Mastering Open Conversations: Windows FreedomGPT</u></a></li>
+<li><a href="https://win11.techidaily.com/step-by-step-heic-to-jpeg-batch-process-in-windows-11/"><u>Step-by-Step Heic to JPEG Batch Process in Windows 11</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/step-by-step-instructions-for-downloading-and-setting-up-hp-scanner-on-windows/"><u>Step-by-Step Instructions for Downloading & Setting Up HP Scanner on Windows</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/windows-1110-fails-to-offer-contrast-control/"><u>Windows 11/10 Fails to Offer Contrast Control</u></a></li>
 </ul></div>
 

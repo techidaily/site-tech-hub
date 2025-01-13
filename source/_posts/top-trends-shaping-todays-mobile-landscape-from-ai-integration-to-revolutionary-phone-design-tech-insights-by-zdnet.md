@@ -1,7 +1,7 @@
 ---
 title: Top Trends Shaping Today’s Mobile Landscape - From AI Integration to Revolutionary Phone Design | Tech Insights by ZDNET
-date: 2025-01-03T03:26:35.261Z
-updated: 2025-01-06T23:20:36.574Z
+date: 2025-01-08T16:43:35.966Z
+updated: 2025-01-13T16:40:36.224Z
 tags:
   - apple
 categories:
@@ -31,19 +31,23 @@ Read on for a look at some of the new accessibility features coming to Apple har
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GU08CQVsZz0?si=V-SvPfzRsQysMS0e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### New eye-tracking features
 
 Apple is bringing a new feature to both iOS and iPadOS that will let you navigate your iPhone and iPad with just your eye movements. The feature uses the device's front-facing camera to track your eye movements and let you move through apps. Apple said that its new Eye Tracking feature will work across both its own and third-party apps, and will work with gestures powered solely by eye movements.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8dH3yHH9IX8?si=geiW5KbIljSFT9pz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Apple Music haptics
 
 For those who are deaf or hard of hearing, Apple plans to offer a Taptic Engine feature in Apple Music. When turned on, the feature will use a series of taps, vibrations, and other tactile responses to sync to a song's audio. Apple says the feature will work "across millions of songs in the Apple Music catalog."
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Addressing motion sickness
@@ -55,7 +59,7 @@ Motion sickness in cars can often be the result of a disconnect between what you
 "Using sensors built into iPhone and iPad, Vehicle Motion Cues recognizes when a user is in a moving vehicle and responds accordingly," Apple said. "The feature can be set to show automatically on iPhone, or can be turned on and off in Control Center."
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Understanding speech
@@ -65,7 +69,7 @@ A new feature called Voice Shortcuts will let you "assign custom utterances" tha
 Another feature, Listen for Atypical Speech, will use machine learning to understand your speech patterns and your requests on-device, Apple said. The feature "gives users an option for enhancing speech recognition for a wider range of speech," the company said.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GU08CQVsZz0?si=V-SvPfzRsQysMS0e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### New CarPlay features
@@ -73,10 +77,6 @@ Another feature, Listen for Atypical Speech, will use machine learning to unders
 Apple's in-car CarPlay software is also getting new accessibility features, including the ability for you to navigate CarPlay and engage with apps using only your voice. A new Sound Recognition feature will display alerts on CarPlay's screen when car horns or sirens go off, and Color Filters will make CarPlay easier to use for colorblind users.
 
 **Also: [iOS and Android owners will now be alerted if an unknown tracker is moving with them](https://www.zdnet.com/article/ios-and-android-owners-will-now-be-alerted-if-an-unknown-tracker-is-moving-with-them/)**
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Some other updates
 
@@ -112,21 +112,22 @@ Beyond those updates, Apple said that it's launching a range of smaller upgrades
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-share.techidaily.com/new-2024-approved-cut-to-perfection-premier-android-editing-software/"><u>[New] 2024 Approved Cut to Perfection Premier Android Editing Software</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/ed-in-2024-how-to-be-a-youtube-gamer/"><u>[Updated] In 2024, How To Be a YouTube Gamer</u></a></li>
-<li><a href="https://win-answers.techidaily.com/effective-ways-to-fix-rainbow-six-siege-server-linkage-errors-quickly/"><u>Effective Ways to Fix Rainbow Six Siege Server Linkage Errors Quickly</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/expert-strategies-to-fix-your-games-audio-issues-in-new-world/"><u>Expert Strategies to Fix Your Game's Audio Issues in New World</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/forgot-iphone-passcode-again-unlock-apple-iphone-14-without-passcode-now-by-drfone-ios/"><u>Forgot iPhone Passcode Again? Unlock Apple iPhone 14 Without Passcode Now</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/harness-social-blade-for-profound-youtube-stats-analysis/"><u>Harness Social Blade for Profound YouTube Stats Analysis</u></a></li>
-<li><a href="https://fox-triigers.techidaily.com/how-to-prevent-file-copying-on-an-external-ssd-in-macos-discover-6-effective-methods/"><u>How to Prevent File Copying on an External SSD in macOS - Discover 6 Effective Methods</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/introducing-bard-googles-new-ai-initiative-set-to-challenge-chatgpt/"><u>Introducing 'BARD' - Google's New AI Initiative Set to Challenge ChatGPT</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/navigating-cutting-edge-gadgets-expert-insights-from-digitalpro-hub/"><u>Navigating Cutting Edge Gadgets: Expert Insights From DigitalPro Hub</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/outsmarting-automation-6-tactics-for-excelling-in-a-world-dominated-by-artific/"><u>Outsmarting Automation: 6 Tactics for Excelling in a World Dominated by Artific</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/python-and-ai-synergy-unlocking-the-power-of-gpt-ntegration-techniques/"><u>Python and AI Synergy: Unlocking the Power of GPT-Ntegration Techniques</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/the-complexity-of-conversation-bots-unpacking-the-eight-core-problems-in-gpt/"><u>The Complexity of Conversation Bots: Unpacking the Eight Core Problems in GPT</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/the-intersection-of-vector-data-and-advanced-ai-technologies/"><u>The Intersection of Vector Data & Advanced AI Technologies</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/top-rated-portable-optical-drive-models/"><u>Top-Rated Portable Optical Drive Models</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/updated-2024-approved-mp4-file-editing-on-mavericks-a-step-by-step-tutorial/"><u>Updated 2024 Approved MP4 File Editing on Mavericks A Step-by-Step Tutorial</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/why-ai-plagiarism-checkers-fail-the-growing-challenge-in-originality/"><u>Why AI Plagiarism Checkers Fail: The Growing Challenge in Originality</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-exploring-leading-tools-discover-the-top-9-free-brand-designers/"><u>[Updated] Exploring Leading Tools Discover the Top 9 FREE Brand Designers</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-start-storytelling-through-film-windows-xp-moviemaker-prep/"><u>[Updated] Start Storytelling Through Film Windows XP Moviemaker Prep</u></a></li>
+<li><a href="https://win-able.techidaily.com/fixing-dirt-5-pc-game-freezing-issues-solutions-inside/"><u>Fixing Dirt 5 PC Game Freezing Issues - Solutions Inside</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/free-fix-swiftly-eradicate-unwanted-eyeshine-from-your-iphone-pics/"><u>Free Fix Swiftly Eradicate Unwanted Eyeshine From Your iPhone Pics</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-fix-apple-id-verification-code-not-working-on-iphone-se-2020-by-drfone-ios/"><u>How To Fix Apple ID Verification Code Not Working On iPhone SE (2020)</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-rectify-camera-not-found-in-windows-11/"><u>How to Rectify Camera Not Found in Windows 11</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-top-tips-for-embedding-and-posting-correct-subtitles-on-twitter-instagram/"><u>In 2024, Top Tips for Embedding and Posting Correct Subtitles on Twitter, Instagram</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/inexpensive-ssl-certs-worth-the-savings/"><u>Inexpensive SSL Certs: Worth the Savings?</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/revolutionizing-diy-with-artificial-intelligence-the-arrival-of-gpt-4/"><u>Revolutionizing DIY with Artificial Intelligence: The Arrival of GPT-4</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/revolutionizing-health-care-with-chatgpts-top-9-tactics/"><u>Revolutionizing Health Care with ChatGPT’s Top 9 Tactics</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/revolutionizing-play-the-potential-impacts-of-ai-generated-games-on-industry-trends/"><u>Revolutionizing Play: The Potential Impacts of AI-Generated Games on Industry Trends</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/secure-and-preserve-storing-gpt-chats/"><u>Secure & Preserve: Storing GPT Chats</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/stay-updated-navigating-through-recent-twitter-scam-alerts-introducing-meta-verified-badges-and-breaking-down-how-chatgpt-c-works/"><u>Stay Updated! Navigating Through Recent Twitter Scam Alerts, Introducing Meta Verified Badges and Breaking Down How ChatGPT-C Works</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/step-by-step-instructions-for-activating-new-plugin-functionality-in-chatgpt/"><u>Step-by-Step Instructions for Activating New Plugin Functionality in ChatGPT</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/the-future-of-tech-policy-decoding-who-holds-responsibility-in-ai-regulation/"><u>The Future of Tech Policy: Decoding Who Holds Responsibility in AI Regulation</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/the-ghostly-web-understanding-who-answers-back-online-in-todays-dead-internet-era/"><u>The Ghostly Web: Understanding Who Answers Back Online in Today’s Dead Internet Era</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/the-perfect-tweet-mastering-the-art-of-video-upload-for-2024/"><u>The Perfect Tweet Mastering the Art of Video Upload for 2024</u></a></li>
 </ul></div>
 

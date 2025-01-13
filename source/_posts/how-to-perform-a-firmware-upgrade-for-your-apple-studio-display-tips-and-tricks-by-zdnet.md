@@ -1,7 +1,7 @@
 ---
 title: How to Perform a Firmware Upgrade for Your Apple Studio Display (Tips and Tricks by ZDNet)
-date: 2025-01-02T22:03:53.395Z
-updated: 2025-01-07T03:12:05.578Z
+date: 2025-01-10T16:46:48.147Z
+updated: 2025-01-13T16:53:19.115Z
 tags:
   - apple
 categories:
@@ -24,10 +24,6 @@ If you're going to be one of those people, read on.
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### **ZDNET** Recommends
 
 * [The best smartwatches you can buy: Apple, Samsung, Google, and more compared](https://www.zdnet.com/article/best-smartwatch/)
@@ -36,6 +32,10 @@ If you're going to be one of those people, read on.
 * [The best robot vacuum and mop combos (and if they're worth the money)](https://www.zdnet.com/article/best-robot-vacuum-mop/)
 
 You don't want to mess up this transfer, because not only could you lose data, but the next person could end up being unable to use the iPhone you sold or gave them. Follow these steps for a successful result for both of you. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zWYVKFk3yPQ?si=Yu7xsjIYgRiq8zHk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  1\. Update
 
@@ -57,13 +57,13 @@ These are the iPhones that can run iOS 15:
 
 If your iPhone is one of these and is not running the latest version of iOS 15, then I recommend upgrading to the latest release to get the best experience. 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/l-SCWTWpegY?si=oxTsHQkIu1v4-I6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##  2\. Look out for apps that need additional handholding during a transfer
 
 Next, some apps -- specifically banking apps in my experience -- prefer it if you deactivate or deauthorize them on the old iPhone before moving to a new handset. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GU08CQVsZz0?si=V-SvPfzRsQysMS0e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### read this
 
@@ -88,7 +88,7 @@ Don't have enough iCloud space? Don't worry! Apple will let you borrow some [tem
 **Also:** [**Here's a hidden way to increase your iCloud storage**](https://www.zdnet.com/article/the-secret-hidden-way-you-can-double-apples-maximum-2tb-icloud-storage-limit/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  4\. Get ready for the transfer
@@ -104,10 +104,6 @@ Tap **Get Started** to begin the process of backing up your iPhone and getting r
 Apple has made transferring to a new iPhone easy.
 
 Screenshot/Adrian Kingsley-Hughes
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  5\. Wiping the old iPhone
 
@@ -137,7 +133,7 @@ Remember, once you start this process, there's no going back!
 **Also:** [**iOS 15 privacy and security checklist**](https://www.zdnet.com/article/ios-15-ultimate-privacy-and-security/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### See also
@@ -146,6 +142,10 @@ Remember, once you start this process, there's no going back!
 * [How to clean your Apple Watch in 5 steps](https://www.zdnet.com/article/how-to-clean-your-apple-watch-in-5-steps/)
 * [How to clean and sanitize your AirPods](https://www.zdnet.com/article/how-to-clean-and-sanitize-your-airpods/)
 * [How to clean a mechanical keyboard](https://www.zdnet.com/article/how-to-clean-a-mechanical-keyboard/)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Wy0uYNNdMDM?si=5ir7EHlr0CkpcYOT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  6\. Spring-clean your iPhone
 
@@ -187,20 +187,21 @@ Now you can relax and enjoy your [new iPhone](https://www.zdnet.com/article/here
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://tiktok-clips.techidaily.com/new-guide-to-discovering-your-unique-tiktok-tag-for-2024/"><u>[New] Guide to Discovering Your Unique TikTok Tag for 2024</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/new-how-to-quickly-snap-and-save-mac-desktop/"><u>[New] How to Quickly Snap & Save MAC Desktop</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/new-mastering-the-darkened-skies-with-iphones/"><u>[New] Mastering the Darkened Skies with iPhones</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/updated-2024-approved-easy-integration-merging-igtv-and-instagram-stories/"><u>[Updated] 2024 Approved Easy Integration Merging IGTV & Instagram Stories</u></a></li>
-<li><a href="https://network-issues.techidaily.com/fixed-installer-error-on-nvidia/"><u>Fixed Installer Error on NVIDIA</u></a></li>
-<li><a href="https://fox-info.techidaily.com/navigating-the-world-of-videomosaic-androids-8-freepaid-selection/"><u>Navigating the World of Videomosaic Android's #8-Free/Paid Selection</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/step-by-step-tutorial-on-effortlessly-transforming-flv-videos-into-mov-format/"><u>Step-by-Step Tutorial on Effortlessly Transforming FLV Videos Into MOV Format</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/streamline-your-music-the-ultimate-guide-to-transforming-aac-tracks-into-lossless-flac-format/"><u>Streamline Your Music: The Ultimate Guide to Transforming AAC Tracks Into Lossless FLAC Format</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/the-ultimate-tutorial-using-vlc-player-to-open-and-view-iso-files/"><u>The Ultimate Tutorial: Using VLC Player to Open and View ISO Files</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/top-4-techniques-for-converting-dvds-into-high-quality-mp3-files/"><u>Top 4 Techniques for Converting DVDs Into High-Quality MP3 Files</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/top-rated-handbrake-alternative-seamless-dvd-and-video-conversion/"><u>Top-Rated Handbrake Alternative: Seamless DVD & Video Conversion</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/troubleshooting-top-6-challenges-in-setting-up-auto-gpt-a-comprehensive-guide/"><u>Troubleshooting Top 6 Challenges in Setting Up Auto-GPT: A Comprehensive Guide</u></a></li>
-<li><a href="https://win-news.techidaily.com/umgang-mit-versehentlich-geladener-mullbox-losungen-und-tipps/"><u>Umgang Mit Versehentlich Geladener Müllbox: Lösungen Und Tipps</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/unavailable-microsoft-teams-recordings-discover-effective-remedies/"><u>Unavailable Microsoft Teams Recordings? Discover Effective Remedies!</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/youtube-windows-1011/"><u>YouTube動画の保存方法: Windows 10/11用ガイド</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-in-2024-achieving-youtube-financial-goals-via-viewer-statistics/"><u>[New] In 2024, Achieving Youtube Financial Goals via Viewer Statistics</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-in-2024-finding-the-ultimate-cam-choice-post-manycam/"><u>[New] In 2024, Finding the Ultimate Cam Choice Post-ManyCam</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-2024-approved-making-your-own-youtube-beginnings-and-endings-cheaply/"><u>[Updated] 2024 Approved Making Your Own YouTube Beginnings & Endings Cheaply</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-unlocking-secrets-the-battle-of-biometric-systems-in-phones/"><u>[Updated] Unlocking Secrets The Battle of Biometric Systems in Phones</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/exploring-the-top-features-of-an-iphone-case-with-a-standout-physical-keyboard-beyond-just-typing-techinsights/"><u>Exploring the Top Features of an iPhone Case with a Standout Physical Keyboard: Beyond Just Typing | TechInsights</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-change-gps-location-on-motorola-defy-2-easily-and-safely-drfone-by-drfone-virtual-android/"><u>How to Change GPS Location on Motorola Defy 2 Easily & Safely | Dr.fone</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/how-to-secure-your-data-when-using-tailored-generative-pre-trained-transformer-versions-like-chatgpt/"><u>How to Secure Your Data When Using Tailored Generative Pre-Trained Transformer Versions Like ChatGPT</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/24-craft-a-memorable-first-snap-your-shorts-thumbnail-blueprint/"><u>In 2024, Craft a Memorable First Snap Your Shorts' Thumbnail Blueprint</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-everything-you-need-to-know-about-unlocked-iphone-13-mini-by-drfone-ios/"><u>In 2024, Everything You Need To Know About Unlocked iPhone 13 mini</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/is-artific-intelligence-the-key-to-better-mental-support-or-could-it-lead-us-astray/"><u>Is Artific İntelligence the Key to Better Mental Support, or Could It Lead Us Astray?</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/is-superior-ai-crafting-a-fair-exchange-for-dollars/"><u>Is Superior AI Crafting a Fair Exchange for Dollars?</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/is-using-auto-gpt-without-access-to-gpt-4-worth-your-time-and-resources/"><u>Is Using Auto-GPT Without Access to GPT-4 Worth Your Time and Resources?</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/legal-considerations-when-leveraging-chatgpt-transformative-adjustments-to-googles-news-curation-and-ensuring-premium-mobile-internet-during-travel/"><u>Legal Considerations When Leveraging ChatGPT, Transformative Adjustments to Google's News Curation, & Ensuring Premium Mobile Internet During Travel</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/masterclass-building-dynamic-web-applications-via-chatgpt-integration/"><u>Masterclass: Building Dynamic Web Applications via ChatGPT Integration</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/maximize-your-scholarly-inquiry-with-4-powerful-ai-research-methods/"><u>Maximize Your Scholarly Inquiry with 4 Powerful AI Research Methods</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/streamlined-imagevideo-fx-on-mobile-devices/"><u>Streamlined Image/Video FX on Mobile Devices</u></a></li>
 </ul></div>
 

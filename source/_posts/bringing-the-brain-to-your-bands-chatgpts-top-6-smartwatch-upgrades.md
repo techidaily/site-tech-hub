@@ -1,7 +1,7 @@
 ---
 title: "Bringing the Brain to Your Bands: ChatGPT's Top 6 Smartwatch Upgrades"
-date: 2024-08-20T11:10:31.578Z
-updated: 2024-08-21T11:10:31.578Z
+date: 2025-01-06T16:25:20.649Z
+updated: 2025-01-13T16:46:16.770Z
 tags:
   - chatgpt
   - open-ai
@@ -39,27 +39,20 @@ thumbnail: https://thmb.techidaily.com/41b376d29e85724c5481e57f7a36ad6deb299d08d
 
 ![Image prompting with Bard AI](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/image-prompting-with-bard-ai.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4576829&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9e740b84bb48a64dde25061566299467/products/copy_1_jp_box_big.png" border="0">Jet Profiler for MySQL, Enterprise Version： Jet Profiler for MySQL is real-time query performance and diagnostics tool for the MySQL database server. Its detailed query information, graphical interface and ease of use makes this a great tool for finding performance bottlenecks in your MySQL databases. </a>
-<!-- affiliate ads end -->
  Image Credit:[Google](https://blog.google/technology/ai/google-bard-updates-io-2023/)
 
  OpenAI promised us image prompting with[the release of the highly anticipated GPT-4](https://www.makeuseof.com/openai-launches-gpt-4-artificial-intelligence-model/) . Unfortunately, as of 10th May 2023, even ChatGPT plus users are still fiddling their fingers, waiting to try out the feature. If you've been disappointed, don't be anymore. Image prompting is coming to Bard AI. The feature will be powered by Google Lens, a technology that Google has developed for several years.
 
  In other words, instead of just text prompts, you'll be able to upload images as prompts alongside text. For example, you could upload a picture of a dog and ask Bard which dog breed it is. The specifics of the feature are still a mystery, but if it is well crafted, some compelling use cases could pop up.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 5\. Image Generation With Adobe Firefly
 
 ![Red and orange text that reads Adobe Firefly, surrounded by AI generated images](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/adobe-firefly.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://checkout.mirillis.com/order/checkout.php?PRODS=4704640&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/547a5a56d43f6d40f9a6a2f76501d013/products/1_mirillis_action_boxshot_store_1x.jpg" border="0">
-	Home Use license is dedicated for personal, non-commercial use only. 
-	If Action! is used for commercial gain or to further any commercial purpose, 
-	a Commercial Use license is required. Multi-license (volume discount) is intended for single 
- 
-	company, user or members of the same household. Action! - screen and game recorder</a>
-<!-- affiliate ads end -->
  Image Credit:[Adobe](https://www.adobe.com/sensei/generative-ai/firefly.html)
 
  If you can't[generate images with Midjourney's](https://www.makeuseof.com/how-to-use-midjourney-create-ai-art/) free tier anymore (or more like being force-fed the paid tier), there's hope yet. Bard AI will soon be able to generate images from the Bard AI interface courtesy of Adobe Firefly. If you're unfamiliar with Adobe Firefly, here's a quick[explainer on Adobe Firefly and what you can do with it](https://www.makeuseof.com/what-is-adobe-firefly-generative-ai/) .
@@ -67,32 +60,36 @@ thumbnail: https://thmb.techidaily.com/41b376d29e85724c5481e57f7a36ad6deb299d08d
  Although we aren't exactly sure how deeply integrated Bard AI will be with Abode Firefly, the demo at Google I/O gave a sneak peek at something exciting.
 
 <!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398457/3022" target="_top" id="398457"><img src="//a.impactradius-go.com/display-ad/3022-398457" border="0" alt="www.sentrypc.com" width="980" height="120"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398457/3022" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 6\. Tools for Exporting Generated Content
 
 ![exporting data from Bard AI](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/exporting-data-from-bard-ai.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://modlily.sjv.io/c/5597632/1997817/17059" target="_top" id="1997817"><img src="//a.impactradius-go.com/display-ad/17059-1997817" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997817/17059" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  One thing missing from most[AI chatbots like ChatGPT and Bing AI](https://www.makeuseof.com/chatgpt-vs-bing-ai-chatbot/) is a way to export generated content that preserves its formatting. If you generated a table with ChatGPT, for instance, copying over that table to a word processor with style intact is challenging.
 
  Google is solving this by making content generated by Bard AI cross-compatible with some of its workspace tools like Google Sheets and Docs. So, if you generate data in a tabular format on Bard, you can export it to Sheets, where you can invite your family, friends, or colleagues to collaborate.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729320&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/2_iDeviceMessageBox.png" border="0"></a>
-<!-- affiliate ads end -->
 ## 7\. Improved Code Generation
 
 ![Generating code with Bard AI](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/generating-code-with-bard-ai.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296855&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/recode/Nero_Recode_Screen_2.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GyfJUhsz_AY?si=x2HjoLX1B89oEPgZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  At launch, Bard AI couldn't write code—an embarrassing pitfall considering coding was one of the big hype surrounding the emergence of AI chatbots. However, Bard AI competitors like[ChatGPT have been helping people code](https://www.makeuseof.com/chatgpt-programming-practical-uses/) since its debut. Google has now significantly ramped up Bard's coding abilities—so much so that a lot of precious presentation time was dedicated to discussing it at its Google I/O 2023 event.
 
  Bard AI can now generate code in several programming languages. It can also explain code snippets, debug code, and sometimes point to the origin of the code to give credit to whoever created the original codebase that was used to answer your question.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zWYVKFk3yPQ?si=Yu7xsjIYgRiq8zHk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Google's AI Endgame Is Gemini
 
@@ -100,14 +97,11 @@ thumbnail: https://thmb.techidaily.com/41b376d29e85724c5481e57f7a36ad6deb299d08d
 
  According to Sundar Pichai, Gemini will be a multi-modal LLM, which means it will likely replace Google's use of third-party services like Adobe Firefly or its products like Google Lens within the Bard AI ecosystem. Information about Gemini is still limited, but Google is investing in building a completely different LLM for Bard AI, and it will be worth paying attention to. It's game on for generative AI.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -116,4 +110,24 @@ thumbnail: https://thmb.techidaily.com/41b376d29e85724c5481e57f7a36ad6deb299d08d
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-activity-recording.techidaily.com/new-obs-tutorial-capturing-every-moment-of-gameplay/"><u>[New] OBS Tutorial Capturing Every Moment of Gameplay</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-scriptwriting-secrets-for-docu-films/"><u>[New] Scriptwriting Secrets for Docu-Films</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/ahead-of-the-curve-meta-quest-3-embraces-ai-first-outpacing-apples-vision-pro-activation-tips-revealed/"><u>Ahead of the Curve: Meta Quest 3 Embraces AI First, Outpacing Apple's Vision Pro | Activation Tips Revealed</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/apple-tech-evolution-revolutionary-ai-integration-supercharges-coding-tools-exclusive-update/"><u>Apple Tech Evolution: Revolutionary AI Integration Supercharges Coding Tools - Exclusive Update</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/can-microsoft-surpass-apple-with-optimized-arm-windows-processors-for-enhanced-speed-and-efficiency/"><u>Can Microsoft Surpass Apple with Optimized ARM Windows Processors for Enhanced Speed and Efficiency?</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/crucial-considerations-before-investing-in-a-new-gaming-platform/"><u>Crucial Considerations Before Investing in a New Gaming Platform</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/discover-the-leading-cordless-phone-models-for-202n4/"><u>Discover the Leading Cordless Phone Models for 202N4</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/expert-review-of-the-google-maps-application-on-ios-devices/"><u>Expert Review of the Google Maps Application on iOS Devices</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/explore-apples-vision-pro-unveiled-pricing-capabilities-and-firsthand-experience-your-essential-guide-by-zdnet/"><u>Explore Apple's Vision Pro Unveiled: Pricing, Capabilities & Firsthand Experience - Your Essential Guide by ZDNet</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/heads-up-display-for-cyclists-yes-transforming-biking-experience-with-photochromic-glasses-insights/"><u>Heads-Up Display for Cyclists? Yes! Transforming Biking Experience with Photochromic Glasses | Insights</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/how-a-spur-of-the-moment-urge-led-me-to-buy-an-apple-watch-on-amazon-even-though-i-wasnt-really-looking-for-one-exploring-the-phenomenon-with-zdnet/"><u>How a Spur-of-the-Moment Urge Led Me to Buy an Apple Watch on Amazon Even Though I Wasn't Really Looking for One | Exploring the Phenomenon with ZDNET</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/how-to-unlock-cricket-apple-iphone-15-pro-max-for-free-by-drfone-ios/"><u>How To Unlock Cricket Apple iPhone 15 Pro Max for Free</u></a></li>
+<li><a href="https://fake-location.techidaily.com/in-2024-11-best-location-changers-for-sony-xperia-10-v-drfone-by-drfone-virtual-android/"><u>In 2024, 11 Best Location Changers for Sony Xperia 10 V | Dr.fone</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/market-shift-zdnet-reports-apples-historic-rise-above-samsung-in-worldwide-phone-distribution-numbers/"><u>Market Shift: ZDNet Reports Apple's Historic Rise Above Samsung in Worldwide Phone Distribution Numbers</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/top-phones-endorsed-aficionados-authentic-gadget-testimonials-and-usage-insights/"><u>Top Phones Endorsed Aficionados: Authentic Gadget Testimonials & Usage Insights</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ultimate-selection-of-premium-apple-watch-bands-featuring-professional-assessments/"><u>Ultimate Selection of Premium Apple Watch Bands , Featuring Professional Assessments</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-filmora-promo-code-secrets-4-proven-ways-to-save-big-for-2024/"><u>Updated Filmora Promo Code Secrets 4 Proven Ways to Save Big for 2024</u></a></li>
+</ul></div>
 

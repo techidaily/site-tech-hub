@@ -1,7 +1,7 @@
 ---
 title: "Communicate on the Go: Sending Messages From Your Apple Watch with Friends and Family"
-date: 2024-12-30T21:46:38.595Z
-updated: 2025-01-06T18:26:17.590Z
+date: 2025-01-12T17:01:25.450Z
+updated: 2025-01-13T16:03:35.554Z
 tags:
   - apple
 categories:
@@ -26,6 +26,10 @@ New with the latest version of watchOS is a feature called Check In. Accessible 
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to check in with a friend or family member from your Apple Watch
 
 **What you'll need**: To use Check In, you have to be running watchOS 11 or higher on your Apple Watch, which requires iOS 18 or higher on your iPhone. [These Apple Watch models](https://www.zdnet.com/article/every-apple-watch-that-will-get-watchos-11-and-which-models-wont-be-supported/) can run watchOS 11.
@@ -40,19 +44,11 @@ Screenshot by Lance Whitney/ZDNET
 
 **Also: [I was on the fence with the Apple Watch 10, but these 3 features changed my mind](https://www.zdnet.com/article/i-was-on-the-fence-with-the-apple-watch-10-but-these-3-features-changed-my-mind/)**
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/j5gTm5KxtQ0?si=onF1rBS2nEM5nLGg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 2\. Send the default Check In through the Messages app
 
 Launch the Messages app on your Apple Watch. Start or continue a conversation with a trusted family member or friend. Tap the + icon to the left of the iMessage field. From the menu, select Check In. By default, the Check In screen will indicate a specific destination, such as home or work, and the estimated time of arrival from your current location. The feature will use a timer to determine how long it will take you to reach the destination. If you wish to share that information as is with the other person, tap Send.
 
 Screenshot by Lance Whitney/ZDNET
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 3\. View the initial Check In notification
 
@@ -70,11 +66,19 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 [See all](https://www.zdnet.com/newsletters/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 4\. View the actual Check in alert
 
 When the timer is up to indicate that you should have reached your destination, you'll be prompted to stop the Check In to confirm that you've arrived. You can add more time or cancel the Check In. Otherwise, the recipient will receive your Check In notification. If the confirmation isn't sent, more time will be added. After that, the recipient will be informed that you haven't yet checked in. They can then try to contact you by text or phone call to find out why you haven't yet arrived.
 
 Screenshot by Lance Whitney/ZDNET
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 5\. Change the time for a Check In
 
@@ -92,10 +96,6 @@ To further customize the Check In, tap the Edit button at the Check In screen. T
 
 Screenshot by Lance Whitney/ZDNET
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zmXpl6irBYk?si=BXjGpQr6PXFcqhCI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 7\. Add a destination and send the text
 
 Next, tap the link for "Add a Destination." Start typing the address of the destination. Select the full name when it appears on the screen. Swipe down the Check In screen and select or confirm your mode of transportation -- driving, transit, or walking. Swipe down further. Tap the link for "Add Extra Time" if you need to add more time. When done, tap the yellow checkmark at the top and then tap Send to send the text. Your recipient will then receive the notification when you reach your destination and stop the Check In.
@@ -105,7 +105,7 @@ Screenshot by Lance Whitney/ZDNET
 **Also: [Your Apple Watch is getting an upgrade - here are the best features in WatchOS 11](https://www.zdnet.com/article/your-apple-watch-is-getting-an-upgrade-here-are-the-best-features-in-watchos-11/)**
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9hsPbiic0O8?si=58mZ2Cu6wicQfsUP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 8\. Set a Check In for a workout in the Messages app
@@ -115,7 +115,7 @@ Maybe you're working out at the gym or at home and want to let someone know when
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 9\. Set a Check In for a workout in the Workout app
@@ -154,22 +154,17 @@ Screenshot by Lance Whitney/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-lessons.techidaily.com/new-2024s-best-camera-innovations-explored/"><u>[New] 2024'S Best Camera Innovations Explored</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/new-exploring-the-world-through-your-camera-lens-a-beginners-roadmap-for-success-for-2024/"><u>[New] Exploring the World Through Your Camera Lens A Beginner's Roadmap for Success for 2024</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/new-maximizing-aerial-excellence-with-optimal-motor-selections/"><u>[New] Maximizing Aerial Excellence with Optimal Motor Selections</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-2024-approved-how-to-use-vlc-for-professional-screen-recording/"><u>[Updated] 2024 Approved How to Use VLC for Professional Screen Recording</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/bring-back-lost-chatgpt-histories-with-these-simple-steps/"><u>Bring Back Lost ChatGPT Histories with These Simple Steps</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/demystifying-nlp-and-its-relation-to-general-machine-learning-concepts/"><u>Demystifying NLP and Its Relation to General Machine Learning Concepts</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/cing-youtube-popularity-editing-and-optimizing-content-metadata-for-2024/"><u>Enhancing YouTube Popularity Editing & Optimizing Content Metadata for 2024</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/experience-enhanced-ai-with-chatgpt-for-iphone-discover-why/"><u>Experience Enhanced AI with ChatGPT for iPhone - Discover Why</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/gptzero-uncovered-identifying-artificial-textual-outputs/"><u>GPTZero Uncovered: Identifying Artificial Textual Outputs</u></a></li>
-<li><a href="https://review-topics.techidaily.com/how-to-transfer-whatsapp-from-iphone-15-pro-max-to-other-iphone-13-pro-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From iPhone 15 Pro Max to other iPhone 13 Pro devices? | Dr.fone</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-6-proven-ways-to-unlock-google-pixel-fold-phone-when-you-forget-the-password-by-drfone-android/"><u>In 2024, 6 Proven Ways to Unlock Google Pixel Fold Phone When You Forget the Password</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/mastering-organized-discussions-a-guide-to-utilizing-chatgpt-directories/"><u>Mastering Organized Discussions: A Guide to Utilizing ChatGPT Directories</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/navigating-the-complexities-of-ps4-live-streaming-and-recording-for-2024/"><u>Navigating the Complexities of PS4 Live Streaming and Recording for 2024</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/protect-online-assets-reject-openai-bots/"><u>Protect Online Assets: Reject OpenAI Bots</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/protecting-your-information-safeguarding-against-potential-risks-of-chatgpts-customized-gpt-models/"><u>Protecting Your Information: Safeguarding Against Potential Risks of ChatGPT's Customized GPT Models</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/silent-block-world-tips-and-tricks-to-get-sound-back-in-minecraft-pc-edition/"><u>Silent Block World: Tips and Tricks to Get Sound Back in Minecraft PC Edition</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/unveiling-11-superior-chatgpt-techniques-for-deep-characters/"><u>Unveiling 11 Superior ChatGPT Techniques for Deep Characters</u></a></li>
+<li><a href="https://driver-error.techidaily.com/fixed-trouble-with-nvidia-geforce-experience-and-games/"><u>[Fixed] Trouble with Nvidia GeForce Experience and Games?</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-take-your-online-presence-to-new-heights-with-youtube-edits-in-sony-vegas/"><u>2024 Approved Take Your Online Presence to New Heights with YouTube Edits in Sony Vegas</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/7-ways-to-lock-apps-on-apple-iphone-11-pro-and-ipad-securely-drfone-by-drfone-ios/"><u>7 Ways to Lock Apps on Apple iPhone 11 Pro and iPad Securely | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/guide-to-modify-win11s-network-preferences/"><u>Guide to Modify Win11's Network Preferences</u></a></li>
+<li><a href="https://win-dash.techidaily.com/hp-laserjet-m506-printer-drivers-download-and-version-updates-guide/"><u>HP Laserjet M506 Printer Drivers: Download & Version Updates Guide</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/in-2024-creating-an-impactful-entry-for-your-podcast/"><u>In 2024, Creating an Impactful Entry for Your Podcast</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/online-vrije-converteren-van-mxf-naar-wmv-lekker-zelfs-met-movavi/"><u>Online Vrije Converteren Van MXF Naar WMV - Lekker Zelfs Met Movavi</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/unlocking-the-power-of-ai-10-ways-to-use-chatgpt-for-landing-jobs-on-linkedin/"><u>Unlocking the Power of AI: 10 Ways to Use ChatGPT for Landing Jobs on LinkedIn</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/unlocking-the-secrets-mobile-devices-at-50-and-free-ransomware-removal-tips-plus-the-power-of-chatgpt-in-our-podcast/"><u>Unlocking the Secrets: Mobile Devices at $50 & Free Ransomware Removal Tips + The Power of ChatGPT in Our Podcast</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/unraveling-the-distinctions-nlp-vs-ml-a-comparative-guide/"><u>Unraveling the Distinctions: NLP vs ML - A Comparative Guide</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/unveiling-8-critical-shortcomings-in-openais-ai-language-model-chatgpt/"><u>Unveiling 8 Critical Shortcomings in OpenAI's AI Language Model, ChatGPT</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/utilizing-chatgpt-to-support-cognitive-behavioral-therapy-techniques/"><u>Utilizing ChatGPT to Support Cognitive Behavioral Therapy Techniques</u></a></li>
 </ul></div>
 

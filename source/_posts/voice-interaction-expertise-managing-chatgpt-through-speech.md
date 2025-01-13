@@ -1,7 +1,7 @@
 ---
 title: "Voice Interaction Expertise: Managing ChatGPT Through Speech"
-date: 2024-08-24T11:24:18.661Z
-updated: 2024-08-25T11:24:18.661Z
+date: 2025-01-11T16:50:25.600Z
+updated: 2025-01-13T16:18:29.073Z
 tags:
   - chatgpt
   - open-ai
@@ -38,6 +38,14 @@ So, how do ChatGPT and OpenAI Playground differ?
 3. Once that's done, click**Playground** from the navigation menu at the top of the screen. It will bring you to the**Chat** mode page, with some adjustable settings in the sidebar.  
 ![Screenshot of OpenAI's Playground interface](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/open-ai-playground-interface-gpt3.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 2\. Enter a Prompt
 
  To use GPT-3, you will need to enter what's called a prompt. A prompt could be a question, an instruction, or even an incomplete sentence, to which the model will generate a completion.
@@ -46,9 +54,6 @@ So, how do ChatGPT and OpenAI Playground differ?
 
 ![Screenshot of Complete mode interface in OpenAI Playground](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/open-ai-playground-complete-mode.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://proteahair.pxf.io/c/5597632/1983634/23621" target="_top" id="1983634"><img src="//a.impactradius-go.com/display-ad/23621-1983634" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983634/23621" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  You can also experiment with the**Edit** mode, which you can use to submit a text and check for grammatical errors.
 
  To get the most out of GPT-3, you will need to think of a good prompt. Good prompts are specific and give context to help GPT-3 generate an appropriate answer. As a demonstration, we asked GPT-3 to "list a few names for a small dog."
@@ -62,32 +67,30 @@ So, how do ChatGPT and OpenAI Playground differ?
 ![Screenshot of OpenAI Playground prompt completion listing dog pet names.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/openai-playground-prompt-dog-pet-names.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=194977&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrfactory/images/screensaver-software.png" border="0">Screensaver Factory, Create stunning professional screensavers within minutes. Create screensavers for yourself, for marketing or unlimited royalty-free commercial distribution. Make screensavers from images, video and swf flash, add background music and smooth sprite and transition effects. Screensaver Factory is very easy to use, and it enables you to make self-installing screensaver files and CDs for easy setup and distribution. Screensaver Factory is the most advanced software of its kind.</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 3\. Experiment With Different Ideas and Prompts
 
  Asking GPT-3 to suggest a few names for your pet dog is just the tip of the iceberg; there is so much more you can do with it, including generating content, summarizing information, and translating text. There are plenty of[creative uses for GPT-3](https://www.makeuseof.com/creative-uses-for-gpt-3-openai-playground/) , from writing a bedtime story for your children to creating a social media bio text.
 
 ![Screenshot showing GPT-3 translating a phrase into five languages.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/11/gpt3-translate-language.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4599951&QTY=1&AFFILIATE=108875&CART=1"><iframe width="864" height="500" src="https://www.youtube.com/embed/jVnfr5HudQw" title="The Latest and Easiest Solution to Remove Kindle DRM on Windows (without Degrading)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-Epubor Ultimate for Win：Helps you read books anywhere, including the best eBook Converter + eBook DRM Removal functions.</a>
-<!-- affiliate ads end -->
  These days, AI is finding its way into all sorts of apps. You can check out[all the things you can do with ChatGPT](https://www.makeuseof.com/things-you-can-do-with-chatgpt/) , which, as mentioned, is an AI chatbot built by the same company and developed using the GPT-3 language model.
 
 ## 4\. Keep Track of Your OpenAI Playground Credits
 
 ![Screenshot of usage stats in OpenAI Playground](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/open-ai-playground-usage-stats.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475"><img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Before getting carried away with using OpenAI Playground, quickly look at your usage stats to see how many credits you have to spend. In the top right corner of the page, click on**Personal** \>**Manage account** , then click**Usage** from the navigation bar on the left.
 
  Tokens are used to calculate the fees, and they are based on how many words, or groups of characters, you use in a prompt; this also includes the text result you get from GPT-3\. You can see how many tokens you use each time in the bottom right of the text box area.
 
  Tokens are then translated to dollars, of which you have $5 to spend in the first three months (previously $18). It's a strange pricing model to wrap your head around at first, but what matters is that it's more than enough to play with. When we tested it out over a couple of days, we only used $0.11 from our total.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 5\. Switch to a Different GPT Model
 
@@ -103,6 +106,10 @@ Epubor Ultimate for Win：Helps you read books anywhere, including the best eBoo
 
  Remember that you'll still incur costs for each model you choose, but the cost per token will vary.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mK1lEBRm_1w?si=FSaM0OKO0XBCgjtT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 6\. Improve Your Results
 
  The**Temperature** setting is a key parameter to play with if you want to fine-tune your results. When the temperature is set to**zero** you will get the same answer from GPT-3, even if you resubmit the exact same prompt. Raising this number will result in more varied and unpredictable answers.
@@ -113,17 +120,14 @@ Epubor Ultimate for Win：Helps you read books anywhere, including the best eBoo
 
 ![Three screenshots of GPT-3 generated text offering different answers for the same prompt.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/gpt-3-settings-tempearture.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2048972/16384" target="_top" id="2048972"><img src="//a.impactradius-go.com/display-ad/16384-2048972" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048972/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  This is a great parameter to play around with if you want to use GPT-3 to generate ideas, such as brainstorming video ideas for YouTube or generating new social media posts. Understanding this one setting can help you to fine-tune the results you get from GPT-3.
 
  There are lots of ways that an AI language model can help you in day-to-day tasks. For more handy tools to help you write, check out the[best AI writing extensions for Google Chrome.](https://www.makeuseof.com/best-ai-writing-extensions-chrome/)
 
 <!-- affiliate ads begin -->
-<a href="https://shop.dbschema.com/order/checkout.php?PRODS=19867419&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/176b22bab4e94a28619ca2433b2ef241/products/1_icon256.png" border="0">
-DbSchema database designer for all databases, schema design in the team, schema deployment, interactive diagrams, documentation, data and query tools. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Can You Use GPT-4 in OpenAI Playground?
 
  When OpenAI released GPT-3 to the world, the pace of development drastically picked up in the field of generative AI. Within several months of GPT-3 being open to the public and the launch of GPT-3.5 through ChatGPT,[OpenAI announced GPT-4](https://www.makeuseof.com/openai-launches-gpt-4-artificial-intelligence-model/) , bringing new functions to the artificial intelligence model.
@@ -138,21 +142,15 @@ DbSchema database designer for all databases, schema design in the team, schema 
 
  This is one reason why it's still worth playing around in GPT-3\. There are many people who are curious about generative AI and want to try it out for fun. So, while you wait for the latest model to become available, GPT-3 is your playground.
 
-<!-- affiliate ads begin -->
-<a href="https://tinyland.pxf.io/c/5597632/1793214/19135" target="_top" id="1793214"><img src="//a.impactradius-go.com/display-ad/19135-1793214" border="0" alt="" width="900" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793214/19135" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## OpenAI Playground: Open to Everyone
 
  You don't need special knowledge of machine learning systems to play around with GPT-3\. It's simple to use and easy to fine-tune; all you have to do is start with a prompt.
-
 
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -161,4 +159,21 @@ DbSchema database designer for all databases, schema design in the team, schema 
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-cloud.techidaily.com/new-2024-approved-investing-time-wisely-on-cover-art-creation/"><u>[New] 2024 Approved Investing Time Wisely on Cover Art Creation</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-2024-approved-essential-skills-importing-snapchat-images-into-device-gallery/"><u>[Updated] 2024 Approved Essential Skills Importing Snapchat Images Into Device Gallery</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/avoiding-misdated-memories-with-exact-times/"><u>Avoiding Misdated Memories with Exact Times</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/how-to-use-chatgpt-by-openai/"><u>How to Use ChatGPT by OpenAI</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-can-you-transfer-files-from-lava-blaze-curve-5g-to-iphone-151413-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How Can You Transfer Files From Lava Blaze Curve 5G To iPhone 15/14/13? | Dr.fone</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-innovative-techniques-for-stunning-hdr-photography/"><u>In 2024, Innovative Techniques for Stunning HDR Photography</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/is-gpt-effective-for-math-puzzles/"><u>Is GPT Effective for Math Puzzles?</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/mastering-battery-life-savings-by-disabling-android-background-services/"><u>Mastering Battery Life Savings by Disabling Android Background Services</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/mastering-the-art-of-crafting-presentations-with-chatgpt-a-step-by-step-guide/"><u>Mastering the Art of Crafting Presentations with ChatGPT: A Step-by-Step Guide</u></a></li>
+<li><a href="https://win11.techidaily.com/strategies-for-fixing-non-loading-dll-in-windows-steam/"><u>Strategies for Fixing Non-Loading Dll in Windows Steam</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/talk-to-drive-smart-mercedes-vehicle-ai-and-speech-update/"><u>Talk to Drive Smart: Mercedes Vehicle AI & Speech Update</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/the-power-of-words-in-transforming-realities-to-documentaries/"><u>The Power of Words in Transforming Realities to Documentaries</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/unlocking-large-language-systems-secrets/"><u>Unlocking Large Language Systems' Secrets</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/unlocking-success-with-microsoft-copilot-a-better-choice-over-chatgpt-explained-in-four-ways/"><u>Unlocking Success with Microsoft Copilot - A Better Choice Over ChatGPT Explained in Four Ways</u></a></li>
+</ul></div>
 

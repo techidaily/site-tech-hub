@@ -1,7 +1,7 @@
 ---
 title: The Ultimate Handbook for Llama 2 Enthusiasts
-date: 2024-08-20T11:10:51.486Z
-updated: 2024-08-21T11:10:51.486Z
+date: 2025-01-10T16:42:42.044Z
+updated: 2025-01-13T16:26:26.510Z
 tags:
   - chatgpt
   - open-ai
@@ -55,9 +55,6 @@ thumbnail: https://thmb.techidaily.com/9304676ddebde0491fac069817e2e83439806cdb3
 
 ![SlidesAI on the Google Webstore](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/google-slides-store.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254549&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/8_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
-<!-- affiliate ads end -->
 1. Go to Google Slides.
 2. Create a blank presentation.
 3. Go to the**Extensions** menu.
@@ -67,9 +64,6 @@ thumbnail: https://thmb.techidaily.com/9304676ddebde0491fac069817e2e83439806cdb3
 
  SlidesAI will then ask you to sign in with your Google Account. Follow the instructions and then wait for SlidesAI to finish installing.
 
-<!-- affiliate ads begin -->
-<a href="https://caperobbin.sjv.io/c/5597632/2006118/18460" target="_top" id="2006118"><img src="//a.impactradius-go.com/display-ad/18460-2006118" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006118/18460" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 3\. Compile the Presentation With SlidesAI
 
  With SlidesAI installed, you can now begin creating your presentation. You can do this in the same blank presentation you made in the previous step. SlidesAI will automatically add new slides and fill them with appropriate content.
@@ -78,6 +72,11 @@ thumbnail: https://thmb.techidaily.com/9304676ddebde0491fac069817e2e83439806cdb3
 2. Go to SlidesAI and then click**Generate Slides** .  
 ![Extensions menu in Google Slides](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/slidesai-generate-slides.jpg)
 3. In the new window, paste your text under**Enter text** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OFDHJnZLwTA?si=WThcb2h76AnZDzcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![SlidesAI extension in Google Slides](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/google-slides-slidesai.jpg)
 4. Select the presentation type and the number of slides from the right.
 5. Check whether you want SlidesAI to add images or a title and thank you slides.
@@ -85,22 +84,21 @@ thumbnail: https://thmb.techidaily.com/9304676ddebde0491fac069817e2e83439806cdb3
 7. Go to the**Themes** tab and select a style.  
 ![Choosing a theme in SlidesAI ](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/slides-slidesai-theme.jpg)
 8. When all is set, go back to the**Text** tab and click**Create Slides** .
+
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526"><img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  SlidesAI will now take the text you generated with ChatGPT and use it to automatically create the slides for your presentation. This can take a while, depending on your input.
 
 ![An AI generated presentation in Google Slides](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/google-slides-presentation.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2014/02/Project-Manager-3D-Models-4-800x800.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
-<!-- affiliate ads end -->
  Once the AI is done, you'll get a message saying your slides have been created. Close the SlidesAI window and check them out!
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=32667153&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.coolmuster.com/uploads/image/20201228/feature02.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 4\. Add the Finishing Touches and Export the Presentation
 
  Now you can customize the slides and add the finishing touches. Remember that AI is still prone to making mistakes, so proofread your presentation to ensure there aren't any blunders. If the main content looks good, you can then start making visual improvements like[adding animations to your slides](https://www.makeuseof.com/add-animation-google-slides/) .
@@ -108,8 +106,9 @@ thumbnail: https://thmb.techidaily.com/9304676ddebde0491fac069817e2e83439806cdb3
 ![The Magic Write tool in SlidesAI](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/slides-magic-write.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://bluettieu.pxf.io/c/5597632/2042323/17091" target="_top" id="2042323"><img src="//a.impactradius-go.com/display-ad/17091-2042323" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="3840" height="1600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042323/17091" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qbuund2HKOQ?si=NaGHqIrx8hSL7gWV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  There's a chance that SlidesAI adds irrelevant images to some slides. In that case, you can replace the image with SlideAI's Magic Write tool. This feature considers the slide's content and suggests relevant stock photos.
 
 1. Go to the**Extensions** menu.
@@ -123,6 +122,10 @@ thumbnail: https://thmb.techidaily.com/9304676ddebde0491fac069817e2e83439806cdb3
 
  If you want to use Microsoft PowerPoint, you can export your Google Slides presentation as a PowerPoint slideshow. Head to**File > Download** and then select**Microsoft PowerPoint** .
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Create Efficient Presentations in Minutes
 
  Creating a presentation involves a lot of invisible work. In an ideal world, you would dedicate your precious time to researching and rehearsing, and have someone else do the labor of creating the presentation.
@@ -131,14 +134,11 @@ thumbnail: https://thmb.techidaily.com/9304676ddebde0491fac069817e2e83439806cdb3
 
  You can generate presentation text with ChatGPT by providing basic information about the topic and the main points. Then feed the text to SlidesAI, sit back, and watch as AI does all the work for you. Just remember to proofread it!
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -147,4 +147,24 @@ thumbnail: https://thmb.techidaily.com/9304676ddebde0491fac069817e2e83439806cdb3
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-friendly.techidaily.com/new-in-2024-prime-7-video-software-for-mac/"><u>[New] In 2024, Prime 7 Video Software for Mac</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-stepwise-guide-to-ipad-time-lapse-mastery-for-2024/"><u>[Updated] Stepwise Guide to iPad Time-Lapse Mastery for 2024</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-superior-audio-alerts-prime-pick-pages-for-2024/"><u>[Updated] Superior Audio Alerts Prime Pick Pages for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-unleash-the-potential-latest-win11-applications-and-games/"><u>2024 Approved Unleash the Potential Latest Win11 Applications and Games</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/apple-revitalizes-artificial-intelligence-with-latest-innovations-areas-of-improvement-revealed/"><u>Apple Revitalizes Artificial Intelligence with Latest Innovations – Areas of Improvement Revealed</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/apple-revives-promising-ai-innovation-opportunities-and-areas-for-improvement-insights-from-zdnet/"><u>Apple Revives Promising AI Innovation: Opportunities and Areas for Improvement – Insights From ZDNet</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/expert-tips-and-must-have-apps-for-streamlining-your-day-to-day-task-management-insights-from-zdnet/"><u>Expert Tips & Must-Have Apps for Streamlining Your Day-to-Day Task Management - Insights From ZDNet</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-can-xiaomi-redmi-13c-5gmirror-share-to-pc-drfone-by-drfone-android/"><u>How Can Xiaomi Redmi 13C 5GMirror Share to PC? | Dr.fone</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-how-to-use-pokemon-go-joystick-on-honor-x50-gt-drfone-by-drfone-virtual-android/"><u>In 2024, How to use Pokemon Go Joystick on Honor X50 GT? | Dr.fone</u></a></li>
+<li><a href="https://article-tips.techidaily.com/in-2024-m1-pro-vs-m1-max-a-side-by-side-comparison-of-apple-chip-tech/"><u>In 2024, M1 Pro Vs. M1 Max - A Side-by-Side Comparison of Apple Chip Tech</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/ipad-air-4-vs-ipad-air-5-comparison-is-it-time-to-upgrade-insights/"><u>IPad Air 4 vs iPad Air 5 Comparison: Is It Time to Upgrade? Insights</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/the-qi2-charging-revolution-unveiled-how-this-all-in-one-solution-is-set-to-delight-apple-users-detailed-insights-from-zdnet/"><u>The Qi2 Charging Revolution Unveiled: How This All-in-One Solution Is Set to Delight Apple Users – Detailed Insights From ZDNET</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/top-apple-smartphone-savings-in-july-2024-exclusive-offers-spotted/"><u>Top Apple Smartphone Savings in July 2024: Exclusive Offers Spotted</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/top-rated-apple-watch-accessories-in-depth-analysis-and-reviews-by-tech-experts/"><u>Top-Rated Apple Watch Accessories : In-Depth Analysis & Reviews by Tech Experts</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/transform-your-instagram-vocal-identity-today/"><u>Transform Your Instagram Vocal Identity Today</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-success-speakers-playing-instead-of-headphones-even-with-cable-attached/"><u>Troubleshooting Success: Speakers Playing Instead of Headphones, Even with Cable Attached</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/unleashing-the-full-power-of-the-m4-ipad-pro-how-wwdc-and-artificnial-intelligence-play-a-pivotal-role-insights/"><u>Unleashing the Full Power of the M4 iPad Pro: How WWDC & Artificnial Intelligence Play a Pivotal Role - Insights</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Boost Your Apple Watch's Battery Performance: Top 8 Essential Settings Tweaks Revealed - Tips From ZDNet"
-date: 2025-01-02T16:22:17.995Z
-updated: 2025-01-06T16:29:23.722Z
+date: 2025-01-11T16:29:50.958Z
+updated: 2025-01-13T16:39:03.303Z
 tags:
   - apple
 categories:
@@ -36,10 +36,6 @@ Even with a healthy battery life in my device, I'm not sure when the problem ori
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 1\. Turn off the always-on display
 
 This is the most effective thing you can do to preserve your Apple Watch's battery life. While yes, it can be super inconvenient to ditch the always-on display, it can be the difference between your Apple Watch lasting all day and it dying before dinner time. I turned mine off for a weekend and was surprised to find that it greatly enhances endurance, albeit not to the point of pre-watchOS 10.
@@ -47,7 +43,7 @@ This is the most effective thing you can do to preserve your Apple Watch's batte
 **How to:** On your Apple Watch, head to Settings > Display & Brightness > Always On, then toggle the feature off.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4YCkNXJjC3c?si=9Tn8KiqKGTZi1o7E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Use Low Power Mode when you can
@@ -57,6 +53,10 @@ I don't recommend using Low Power Mode all day since it limits the functionality
 **How to:** Lift your Apple Watch and press the side button to bring up the quick settings menu. Tap your battery percentage, then hit the "Low Power Mode" button. From there, scroll down through the list of features that Apple says the feature will disable. Then, tap the yellow "Turn On" button. You can also schedule it to turn off after a while, if you want.
 
 **Also:** [**Apple Watch Ultra 2 vs. Watch Ultra: Is it time to upgrade?**](https://www.zdnet.com/article/apple-watch-ultra-2-vs-ultra/)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 3\. Disable cellular connectivity
 
@@ -84,15 +84,15 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 
 [See all](https://www.zdnet.com/newsletters/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 5\. Turn off irregular heart rate notifications
 
 With some of the newest Apple Watches, Apple includes a feature that can alert you when your heart rate is beating in irregular intervals and alert you when it may be atrial fibrillation. While that's nice to have for tracking your health over time, it means the heart rate sensor is constantly on collecting your heart rate, which isn't good for battery life.
 
 **How to:** Visit Settings > Heart > Irregular Rhythm Notifications and flick the feature off.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 6\. Reduce the amount of notifications you get
 
@@ -103,7 +103,7 @@ When a notification comes in, it not only plays a "ding!" to alert you, it also 
 **Also:** [**Your Apple Watch is getting an upgrade - here are the best features in WatchOS 11**](https://www.zdnet.com/article/your-apple-watch-is-getting-an-upgrade-here-are-the-best-features-in-watchos-11/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DCARjc5g5VI?si=9OfovbKBrpoJeXTY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 7\. Turn off Siri
@@ -121,7 +121,7 @@ I've heard from many folks who have faced issues with battery life on the Apple 
 **How to:** Go to Settings > General > Reset on your Apple Watch, then choose "Erase All Content and Settings." You won't have to disable Find My or get rid of your cellular plan since you'll be setting it up with your iPhone again, but if you want to get rid of absolutely everything, make sure you disable Find My and dump your cellular plan during the process.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How we test smartwatches
@@ -165,17 +165,22 @@ For a deeper look at our testing process, check out our comprehensive [smartwatc
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-helps.techidaily.com/new-essential-guide-to-8-premium-free-software-apps-windowsmac-for-2024/"><u>[New] Essential Guide to 8 Premium Free Software Apps (Windows/Mac) for 2024</u></a></li>
-<li><a href="https://article-posts.techidaily.com/new-in-2024-prime-10-applications-for-real-time-sporting-events-and-football-games/"><u>[New] In 2024, Prime 10 Applications for Real-Time Sporting Events & Football Games</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/2024-approved-effortless-android-screenshot-and-screen-record/"><u>2024 Approved Effortless Android Screenshot & Screen Record</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/beware-of-these-9-phony-chatgpt-imposters-how-they-could-compromise-your-personal-data/"><u>Beware of These 9 Phony ChatGPT Imposters - How They Could Compromise Your Personal Data</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/chatgpt-and-kids-safety-5-essential-tips-for-parents/"><u>ChatGPT and Kids Safety: 5 Essential Tips for Parents</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/exploring-the-benefits-of-claude-artificial-intelligence-an-in-depth-guide/"><u>Exploring the Benefits of Claude Artificial Intelligence: An In-Depth Guide</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/how-to-track-oppo-find-n3-flip-location-without-installing-software-drfone-by-drfone-virtual-android/"><u>How to Track Oppo Find N3 Flip Location without Installing Software? | Dr.fone</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-how-to-navigate-virtual-realities-without-nausea/"><u>In 2024, How to Navigate Virtual Realities without Nausea</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-top-10-oppo-f23-5g-android-sim-unlock-apk-by-drfone-android/"><u>In 2024, Top 10 Oppo F23 5G Android SIM Unlock APK</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/mastering-youtube-metrics-for-effective-content-strategy/"><u>Mastering YouTube Metrics for Effective Content Strategy</u></a></li>
-<li><a href="https://techtrends.techidaily.com/resolving-the-msstdfmtdll-file-not-found-missing-issue/"><u>Resolving the Msstdfmt.dll File Not Found / Missing Issue</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/unlocking-the-full-spectrum-of-ai-copilots-role-in-turbo-freedom/"><u>Unlocking the Full Spectrum of AI: Copilot's Role in Turbo Freedom</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-sonicsoothsayer-listening-inspection-report-for-2024/"><u>[New] SonicSoothsayer Listening Inspection Report for 2024</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-in-2024-pros-choice-the-ultimate-list-of-7-live-streaming-apps-for-youtube-iosandroid/"><u>[Updated] In 2024, Pro's Choice The Ultimate List of 7 Live Streaming Apps for YouTube (iOS/Android)</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-navigating-through-iphones-persistent-photo-blur-for-2024/"><u>[Updated] Navigating Through iPhone's Persistent Photo Blur for 2024</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-premier-auto-track-cam-mount-for-smooth-shots/"><u>2024 Approved Premier Auto-Track Cam Mount for Smooth Shots</u></a></li>
+<li><a href="https://fox-tls.techidaily.com/beheben-von-raw-disk-partitionsproblemen-in-windows-11-eine-anleitung-zu-funf-losungsansatzen/"><u>Beheben Von RAW-Disk-/Partitionsproblemen in Windows 11: Eine Anleitung Zu Fünf Lösungsansätzen</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/crafting-captivating-captions-elevate-your-pages-popularity-for-2024/"><u>Crafting Captivating Captions Elevate Your Page's Popularity for 2024</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/from-conversation-to-content-my-experience-using-chatgpt-for-a-podcast-script/"><u>From Conversation to Content: My Experience Using ChatGPT for a Podcast Script</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/gaming-evolution-unpacked-the-synergy-of-bz-microsoft-and-cutting-edge-ai-tech-analysis/"><u>Gaming Evolution Unpacked: The Synergy of BZ, Microsoft & Cutting-Edge AI [Tech Analysis]</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/gpt-series-breakdown-what-sets-apart-gpt-4-from-its-turbocharged-cousins-gpt-4turbo-and-gpt-4o/"><u>GPT Series Breakdown: What Sets Apart GPT-4 From Its Turbocharged Cousins GPT-4Turbo & GPT-4o</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/gpt-all-demystified-how-it-functions-and-performs/"><u>GPT-^ All Demystified: How It Functions and Performs?</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-record-audio-on-windows-11/"><u>How to Record Audio on Windows 11</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/in-2024-how-to-transfer-everything-from-apple-iphone-14-to-iphone-drfone-by-drfone-transfer-from-ios/"><u>In 2024, How to Transfer Everything from Apple iPhone 14 to iPhone | Dr.fone</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/is-my-financial-security-at-risk-can-ai-like-chatgpt-be-used-by-hackers/"><u>Is My Financial Security at Risk: Can AI Like ChatGPT Be Used by Hackers?</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/language-assistance-in-the-digital-age-should-you-choose-bing-chat-over-gpt-3/"><u>Language Assistance in the Digital Age: Should You Choose Bing Chat Over GPT-3?</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/mastering-the-art-of-conversation-with-ai-an-introductory-guide-to-chatgpt/"><u>Mastering the Art of Conversation with AI: An Introductory Guide to ChatGPT</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/maximizing-efficiency-leveraging-chatgpt-for-enhanced-workflow-planning/"><u>Maximizing Efficiency: Leveraging ChatGPT for Enhanced Workflow Planning</u></a></li>
+<li><a href="https://techtrends.techidaily.com/solving-the-mystery-of-a-missing-msvcr80dll-file/"><u>Solving the Mystery of a Missing msvcr80.dll File</u></a></li>
 </ul></div>
 

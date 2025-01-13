@@ -1,7 +1,7 @@
 ---
 title: "Leveraging Apple Pay Across Retailers & Websites: Insights on Why It's a Must-Try | Tech Advice"
-date: 2024-12-31T03:26:44.594Z
-updated: 2025-01-06T17:55:15.149Z
+date: 2025-01-06T16:24:48.388Z
+updated: 2025-01-13T16:19:53.164Z
 tags:
   - apple
 categories:
@@ -66,6 +66,10 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 That prescription works fine in my Quest 3, but Apple and ZEISS won't accept it. I had to book an appointment with my local optometrist. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KF793jv1LIc?si=fJOogQJ2f8JUfTzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ###  It's your distance prescription that counts
 
 When you go to see your optometrist, you'll need to get a distance prescription for the lens inserts. Some people think you'll need both close and distance prescriptions, particularly if you need glasses to read a book or your phone. But that's not how it works. 
@@ -81,7 +85,7 @@ Note that Apple specifically states, "Intermediate distance, task distance, or c
 In any case, within a half hour, I had a new distance prescription that was current and official. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qNrOsjUdRz0?si=xGzhmNmtgxNTsRxN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ###  Confirm your prescription can be used
@@ -97,10 +101,6 @@ Fill it out with the relevant data from your current prescription and click Chec
 This is why you need to do all the prescription preparation first. Apple points you to the ZEISS page after the order has been completed, but by that time it's too late. The order has already been placed. It would be extremely inconvenient to find out you can't use the headset, and have to go through all sorts of hoops to either cancel the order or return the device. 
 
 By checking these details first, you can save yourself that annoyance. 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/omWG4u39lmE?si=yk1AEo_gzDpGjYbl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 2\. Get a successful face scan
 
@@ -158,6 +158,10 @@ This process took me a very long time. Not only did I have difficulty trying to 
 
 But the real trick, which I mentioned at the start of this section, is that I turned on all the lights and set the phone down at face height, so I could stand in front of it. Before that, I tried again and again to make it like me. As soon as I used a stable, head-height platform, it took the requisite measurements in less than a minute. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 3\. Pre-order the optical insert lenses
 
 Let's get started. For those keeping track, we're at our third "Get started" prompt:
@@ -202,12 +206,16 @@ And, finally, you're done with the first phase of ordering your optical inserts.
 
 Screenshot by David Gewirtz/ZDNET
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 4\. Order the Vision Pro itself
 
 Now, it's time to decide how much storage you want to have on the Vision Pro. Keep in mind this is very much like choosing the storage on your iPhone or iPad.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##   
@@ -278,17 +286,9 @@ And there you go. You're done. Except: It's time to move on to ZEISS.
 
 Screenshot by David Gewirtz/ZDNET
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 5\. Upload your prescription to ZEISS
 
 Now, it's time to upload your prescription to ZEISS. Apple does let you come back later (like if you didn't read this article and just found out you need a current glasses prescription and have to run to the optometrist). But you are reading this article because you're smart and good-looking.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/f-yPCh24EsA?si=3z8FAd_lMZeAjug7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##   
 
@@ -365,17 +365,21 @@ _You can follow my day-to-day project updates on social media. Be sure to subscr
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-approaches.techidaily.com/new-instantaneously-combine-photos-into-facebook-stories/"><u>[New] Instantaneously Combine Photos Into Facebook Stories</u></a></li>
-<li><a href="https://video-capture.techidaily.com/new-logitechs-4k-webcam-masterclass-a-complete-review-for-2024/"><u>[New] Logitech’s 4K Webcam Masterclass - A Complete Review for 2024</u></a></li>
-<li><a href="https://article-tips.techidaily.com/new-optimal-audio-bridge-for-podcasters-for-2024/"><u>[New] Optimal Audio Bridge for Podcasters for 2024</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-preventing-disorientation-in-virtual-environments/"><u>[Updated] Preventing Disorientation in Virtual Environments</u></a></li>
-<li><a href="https://video-capture.techidaily.com/2024-approved-bandicam-vs-camtasia-which-one-is-better/"><u>2024 Approved Bandicam vs Camtasia, Which One Is Better?</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/approved-unlocking-visual-magic-diy-animation-and-fx-crafts/"><u>2024 Approved Unlocking Visual Magic DIY Animation and FX Crafts</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/deciding-on-your-code-companion-comparing-github-copilot-and-chatgpt-for-developers/"><u>Deciding on Your Code Companion: Comparing GitHub Copilot and ChatGPT for Developers</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/discover-how-to-boost-user-engagement-using-our-top-9-gpt-3-enhancements/"><u>Discover How to Boost User Engagement Using Our Top 9 GPT-3 Enhancements</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/enhance-improve-and-power-your-chatgpt-interaction-top-9-tools/"><u>Enhance, Improve & Power Your ChatGPT Interaction (Top 9 Tools)</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/impact-of-chatgpt-on-modern-healthcare-a-new-era-begins/"><u>Impact of ChatGPT on Modern Healthcare: A New Era Begins</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/improving-dall-e-3-the-latest-addition-of-editing-features-requires-further-development/"><u>Improving DALL-E 3: The Latest Addition of Editing Features Requires Further Development</u></a></li>
-<li><a href="https://fake-location.techidaily.com/what-is-geo-blocking-and-how-to-bypass-it-on-lava-yuva-3-pro-drfone-by-drfone-virtual-android/"><u>What is Geo-Blocking and How to Bypass it On Lava Yuva 3 Pro? | Dr.fone</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-a-close-look-at-t-series-revenue-from-online-channels/"><u>[Updated] A Close Look at T-Series Revenue From Online Channels</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-in-2024-unlocking-whatsapps-secret-capabilities-for-efficiency/"><u>[Updated] In 2024, Unlocking WhatsApp's Secret Capabilities for Efficiency</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/5-ai-powered-book-recommendation-sites-and-apps-to-find-your-next-read/"><u>5 AI-Powered Book Recommendation Sites and Apps to Find Your Next Read</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/5-critical-methods-artificial-intelligence-enables-for-hackers/"><u>5 Critical Methods Artificial Intelligence Enables for Hackers</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/a-glimpse-into-the-past-ancient-crt-hit-remarkable-700hz-lowers-clarity-for-ultra-fast-refresh-rates/"><u>A Glimpse Into the Past: Ancient CRT Hit Remarkable 700Hz, Lowers Clarity for Ultra-Fast Refresh Rates</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/in-2024-free-green-screen-magic-top-android-and-ios-apps/"><u>In 2024, Free Green Screen Magic Top Android and iOS Apps</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-life360-circle-everything-you-need-to-know-on-realme-11-proplus-drfone-by-drfone-virtual-android/"><u>In 2024, Life360 Circle Everything You Need to Know On Realme 11 Pro+ | Dr.fone</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-the-hackers-handbook-advanced-win11-tactics/"><u>In 2024, The Hacker's Handbook Advanced Win11 Tactics</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-top-9-tecno-camon-30-pro-5g-monitoring-apps-for-parental-controls-drfone-by-drfone-virtual-android/"><u>In 2024, Top 9 Tecno Camon 30 Pro 5G Monitoring Apps for Parental Controls | Dr.fone</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/the-10-best-free-dvd-players-compatible-with-windows-10-for-2024/"><u>The 10 Best Free DVD Players Compatible with Windows 10 for 2024</u></a></li>
+<li><a href="https://network-issues.techidaily.com/tighten-monitor-sharpness-settings/"><u>Tighten Monitor Sharpness Settings</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/unleashing-artificnial-intelligence-navigating-bing-app-on-your-android-phone/"><u>Unleashing Artificnial Intelligence: Navigating Bing App on Your Android Phone</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/unlock-the-potential-of-enhanced-communication-crucial-new-features-added-to-chatgpt/"><u>Unlock the Potential of Enhanced Communication: Crucial New Features Added to ChatGPT</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/unlock-the-power-of-conversation-talk-with-chatgpt-today/"><u>Unlock the Power of Conversation: Talk with ChatGPT Today</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/unveiling-truthgpt-coin-a-comprehensive-guide-to-assess-its-authenticity/"><u>Unveiling TruthGPT Coin: A Comprehensive Guide to Assess Its Authenticity</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/what-is-grok-ai-from-elon-musk-inside-look-at-its-potential-and-price-points/"><u>What Is Grok AI From Elon Musk? Inside Look at Its Potential and Price Points</u></a></li>
 </ul></div>
 

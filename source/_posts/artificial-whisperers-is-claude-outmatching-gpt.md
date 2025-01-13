@@ -1,7 +1,7 @@
 ---
 title: "Artificial Whisperers: Is Claude Outmatching GPT?"
-date: 2024-08-20T11:07:22.546Z
-updated: 2024-08-21T11:07:22.546Z
+date: 2025-01-08T16:53:41.537Z
+updated: 2025-01-13T16:01:35.530Z
 tags:
   - chatgpt
   - open-ai
@@ -25,6 +25,10 @@ thumbnail: https://thmb.techidaily.com/964056d5a42fd554adb9e457ea6c862e5065495ad
 * [Trip Planner AI](https://www.makeuseof.com/free-travel-planning-ai-chatgpt-apps/#trip-planner-ai)
 * [Vacay Chatbot](https://www.makeuseof.com/free-travel-planning-ai-chatgpt-apps/#vacay-chatbot)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Key Takeaways
 
 * Layla, Wonderplan, and PLAN by ixigo are AI travel planning apps with customizable itineraries.
@@ -35,9 +39,6 @@ thumbnail: https://thmb.techidaily.com/964056d5a42fd554adb9e457ea6c862e5065495ad
 
  These free travel planning apps use AI and machine-learning tools like ChatGPT to prepare an itinerary for you in a few seconds, and we took them for a spin.
 
-<!-- affiliate ads begin -->
-<a href="https://natural-cycles.sjv.io/c/5597632/2072200/17885" target="_top" id="2072200"><img src="//a.impactradius-go.com/display-ad/17885-2072200" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072200/17885" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 1.[Layla](https://justasklayla.com/)
 
 ![layla ai trip planner](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/layla-ai-trip-planner.png)
@@ -62,16 +63,10 @@ thumbnail: https://thmb.techidaily.com/964056d5a42fd554adb9e457ea6c862e5065495ad
 
  In addition to your itinerary, Wonderplan also shows essential information about the country you're visiting. These include the currency conversion rate, electricity plug type, languages spoken, weather, and popular conveyances.
 
-<!-- affiliate ads begin -->
-<a href="https://uperfect.sjv.io/c/5597632/1246754/15155" target="_top" id="1246754"><img src="//a.impactradius-go.com/display-ad/15155-1246754" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1246754/15155" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 3.[PLAN by ixigo](https://www.ixigo.com/plan)
 
 ![PLAN by ixigo website screenshot](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/06/plan-by-ixigo-screenshot.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399"><img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  PLAN by ixigo starts by asking you about your dream destination. Then, it provides an option to describe the type of experience you want to have. This is just like a ChatGPT prompt, so you can enter anything you wish.
 
  For example, you can specify the duration of your stay, your interests, the kinds of activities you're looking for, whether you have a family with you, and so on.
@@ -95,20 +90,13 @@ thumbnail: https://thmb.techidaily.com/964056d5a42fd554adb9e457ea6c862e5065495ad
 **Download:** iplan.ai for[Android](https://www.anrdoezrs.net/links/7251228/type/dlg/sid/UUmuoUeUpU2021804/https://play.google.com/store/apps/details?id=ai.iplan.app) |[iOS](https://apps.apple.com/app/iplan-ai-travel-planner/id1611716564) (Free, Paid)
 
 <!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BEditor%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/6d3207fd-9f15-4c21-f0ad-59c68e6a7e2a.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 5.[Curiosio](https://curiosio.com/)
 
 ![Curiosio is a roadtrip planning app based on AI that gives you several parameters to refine your journey before plotting a route based on your interests](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/travel-planning-ai-apps-generate-itinerary-curiosio.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://checkout.mirillis.com/order/checkout.php?PRODS=4704640&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/547a5a56d43f6d40f9a6a2f76501d013/products/1_mirillis_action_boxshot_store_1x.jpg" border="0">
-	Home Use license is dedicated for personal, non-commercial use only. 
-	If Action! is used for commercial gain or to further any commercial purpose, 
-	a Commercial Use license is required. Multi-license (volume discount) is intended for single 
- 
-	company, user or members of the same household. Action! - screen and game recorder</a>
-<!-- affiliate ads end -->
  The easiest last-minute travel plan is to get into a car and drive. Curiosio specializes in helping you plan an itinerary for a road trip to several major countries on all continents. It doesn't cover every single place, but the existing collection is impressive enough.
 
  Curiosio uses its own AI engine, Ingeenee, which is trained on several crowdsourced travel-based resources, such as Wikivoyage, Wikipedia, Wikidata, Freebase, DBpedia, GeoNames, OSMNames, and OpenStreetMap. Through this dataset, it can chart an itinerary that meets your requirements across various parameters.
@@ -117,9 +105,17 @@ thumbnail: https://thmb.techidaily.com/964056d5a42fd554adb9e457ea6c862e5065495ad
 
  The itinerary includes a map of your route and a day-wise breakdown of where you'll be going and what you'll be seeing. Each point of interest is clickable to find more information about it. There are easy ways to share your itinerary with co-travelers, print it out, or even export it to Google Maps. Curiosio is one of the[best road trip planners for your next adventure](https://www.makeuseof.com/tag/road-trip-planners/) .
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nl0Z0eth1u4?si=0eecOBNfc--51AJO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 6.[Trip Planner AI](https://tripplanner.ai/)
 
 ![trip planner ai screenshot](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/trip-planner-ai-screenshot.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OdlXe5RELW0?si=Iz1H1QnLQVw-Eu3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Trip Planner AI plans a perfect trip to your dream destination. Begin creating your itinerary by entering the city you wish to visit and traveling dates. You can add multiple destinations here.
 
@@ -130,8 +126,9 @@ thumbnail: https://thmb.techidaily.com/964056d5a42fd554adb9e457ea6c862e5065495ad
  Finally, Trip Planner AI generates a detailed itinerary, a map, and basic information about the city you're visiting. For each destination, it provides the details of the place, expected traveling time, and cost. Though it provides a complete plan for your trip, you can manually add or remove activities from your itinerary. You can also invite your friends to edit the itinerary and download it as a PDF.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3546200&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.binteko.com/sites/default/files/banner01_468x60a.gif" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 7.[Vacay Chatbot](https://www.usevacay.com/chatbot)
 
 ![vacay chatbot screenshot](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/vacay-chatbot-screenshot.png)
@@ -146,14 +143,11 @@ thumbnail: https://thmb.techidaily.com/964056d5a42fd554adb9e457ea6c862e5065495ad
 
  A real human travel agent will still give you a more customized itinerary, but it will cost you a few bucks. If you want a free base guide, more basic[travel planning apps](https://www.makeuseof.com/group-travel-planning-apps/) are a good starting point.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -162,4 +156,21 @@ thumbnail: https://thmb.techidaily.com/964056d5a42fd554adb9e457ea6c862e5065495ad
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-capture.techidaily.com/new-2024-approved-infinite-vision-capture-app/"><u>[New] 2024 Approved Infinite Vision Capture App</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/2024-approved-tiktoks-pfp-explained-a-complete-and-concise-guide/"><u>2024 Approved TikTok's PFP Explained A Complete and Concise Guide</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/apple-laptops-showdown-in-depth-comparison-of-macbook-pro-and-macbook-air-for-optimal-user-satisfaction-zdnet/"><u>Apple Laptops Showdown: In-Depth Comparison of MacBook Pro and MacBook Air for Optimal User Satisfaction | ZDNET</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/discover-when-and-why-moisture-appears-in-iphone-cables-effective-remedies-explored/"><u>Discover When and Why Moisture Appears in iPhone Cables: Effective Remedies Explored</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/exclusive-apple-airtag-deal-save-24-on-a-4-pack-at-walmart-for-labor-day-shop-now-techradar/"><u>Exclusive Apple AirTag Deal: Save $24 on a 4-Pack at Walmart for Labor Day – Shop Now! | TechRadar</u></a></li>
+<li><a href="https://win-dash.techidaily.com/get-your-hp-envy-nv-5055-drives-in-a-flash-secure-download-options/"><u>Get Your HP Envy Nv 5055 Drives in a Flash - Secure Download Options</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-how-pgsharp-save-you-from-ban-while-spoofing-pokemon-go-on-samsung-galaxy-f34-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How PGSharp Save You from Ban While Spoofing Pokemon Go On Samsung Galaxy F34 5G? | Dr.fone</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/quick-fixes-for-when-your-steelseries-arctis-7s-microphone-stops-working/"><u>Quick Fixes for When Your SteelSeries Arctis 7'S Microphone Stops Working</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/save-24-today-transform-your-audio-experience-with-airpods-pro-2-the-latest-to-become-a-hearing-aid-compatible-device-tech-insights/"><u>Save 24% Today: Transform Your Audio Experience with AirPods Pro 2 - The Latest to Become a Hearing Aid Compatible Device | Tech Insights</u></a></li>
+<li><a href="https://solve-help.techidaily.com/step-by-step-guide-mastering-the-art-of-hirens-boot-cd-a-complete-windows-system-wipe-tutorial/"><u>Step-by-Step Guide: Mastering the Art of Hiren's Boot CD - A Complete Windows System Wipe Tutorial</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/the-three-essential-steps-for-apple-to-revamp-and-rejuvenate-the-timeless-vision-pro-zdnet-insights/"><u>The Three Essential Steps for Apple to Revamp and Rejuvenate the Timeless Vision Pro | ZDNet Insights</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/transform-your-memories-into-engaging-facebook-slides/"><u>Transform Your Memories Into Engaging Facebook Slides</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/uncover-the-truth-methods-for-identifying-if-someone-uses-an-airtag-to-trace-your-movements/"><u>Uncover the Truth: Methods for Identifying If Someone Uses an AirTag to Trace Your Movements</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/unveiling-the-top-5-facebook-video-downloaders-today-for-2024/"><u>Unveiling the Top 5 Facebook Video Downloaders Today for 2024</u></a></li>
+</ul></div>
 

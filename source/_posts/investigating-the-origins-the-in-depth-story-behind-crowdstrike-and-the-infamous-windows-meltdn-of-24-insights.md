@@ -1,7 +1,7 @@
 ---
 title: "Investigating the Origins: The In-Depth Story Behind CrowdStrike and the Infamous Windows Meltdn of '24 | Insights"
-date: 2025-01-05T19:13:03.516Z
-updated: 2025-01-06T22:41:13.948Z
+date: 2025-01-10T16:41:33.873Z
+updated: 2025-01-13T16:05:05.629Z
 tags:
   - apple
 categories:
@@ -33,7 +33,7 @@ In this case, the trusted software developer is a firm called CrowdStrike Holdin
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What happened?
@@ -55,7 +55,7 @@ Repairing the damage from a flaw like this is a painfully tedious process that r
 If you know anyone whose job involves administering Windows PCs in a corporate network that uses the CrowdStrike code, you can be confident they are very busy right now, and will be for days to come.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## We've seen this movie before
@@ -95,7 +95,7 @@ In the You Can't Make This Up Department… CrowdStrike's founder and CEO, Georg
 What makes the 2024 sequel so much worse is that it also affected Windows-based servers running in the cloud, on Microsoft Azure and on AWS. Just as with the many laptops and desktop PCs that were bricked by this faulty update, the cloud-based servers require time-consuming manual interventions to recover.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## CrowdStrike's QA failed
@@ -125,7 +125,7 @@ As part of its initial response, CrowdStrike says it plans to take additional me
 Meanwhile, the United States House of Representatives Homeland Security Committee plans to call CrowdStrike's CEO up for hearings on what went wrong, and CrowdStrike's Chief Security Officer, Shawn Henry, [posted an apology on LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:7220983915421806592/), admitting "On Friday, we failed you. ... The confidence we built in drips over the years was lost in buckets within hours, and it was a gut punch."
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5OmJZ4Z8jgk?si=YIoEaPI8geoiFSYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How much fault should Microsoft shoulder?
@@ -176,18 +176,24 @@ Nonetheless, this incident, which caused many billions of dollars' worth of dama
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://tech-hub.techidaily.com/44cm44k544k44k144ox5yuv55s744gu44oa44km44oz44ot44o844oj5oml6acg77ya6kmz57sw44ks44kk44oj44cn/"><u>「スタサプ動画のダウンロード手順：詳細ガイド」</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/15-essential-color-filters-to-elevate-gopro-cinematography/"><u>15 Essential Color Filters to Elevate GoPro Cinematography</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/5gifpng-web/"><u>5効果的な手法でGIF画像を高品質PNGへと変換: Webツールとソフトウェア</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/batch-mp3-conversion-tutorial-transforming-files-to-advanced-audio-codec-aac-format/"><u>Batch MP3 Conversion Tutorial: Transforming Files to Advanced Audio Codec (AAC) Format</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/full-tutorial-to-bypass-your-honor-magic-5-pro-face-lock-by-drfone-android/"><u>Full Tutorial to Bypass Your Honor Magic 5 Pro Face Lock?</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/icgenius-suite-for-2024/"><u>GraphicGenius Suite for 2024</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/how-to-unlock-iphone-xs-max-withwithout-sim-card-by-drfone-ios/"><u>How to Unlock iPhone XS Max with/without SIM Card</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/in-2024-lol-streaming-made-easy-mastering-video-capture-in-3-steps/"><u>In 2024, LOL Streaming Made Easy Mastering Video Capture in 3 Steps</u></a></li>
-<li><a href="https://fox-links.techidaily.com/next-gen-realities-navigating-vrs-future-trajectory/"><u>Next-Gen Realities Navigating VR's Future Trajectory</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/steps-to-fix-file-unplayability-in-windows-os/"><u>Steps to Fix File Unplayability in Windows OS</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/the-sincere-evaluation-of-a-digital-audio-player/"><u>The Sincere Evaluation of a Digital Audio Player</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/winxdvd-dvd-iphone/"><u>WinXDVD 官方解決方案: DVD 修復工具、影像轉移及 iPhone 瀏覽器</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/44ot44oh44kq44gu6zplusz5aow44ks44kk44oj5l2c5oiq5oml6acg77ya44ok44os44o844k344on44oz6lplus95yqg5pa55rov/"><u>ビデオの音声ガイド作成手順：ナレーション追加方法</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/boost-your-farming-skills-with-stardews-top-7-mods/"><u>Boost Your Farming Skills with Stardew's Top 7 Mods</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/free-gpt-4-for-everyone-still-6-benefits-to-staying-with-plus/"><u>Free GPT-4 for Everyone; Still, 6 Benefits to Staying with Plus</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/geoengineerings-promise-or-peril-in-combatting-warming/"><u>Geoengineering's Promise or Peril in Combatting Warming?</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/harness-the-power-of-your-voice-to-direct-chatgpt-a-5-step-guide/"><u>Harness the Power of Your Voice to Direct ChatGPT: A 5-Step Guide</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/how-to-leverage-agentgpt-for-browser-integrated-ai-agent-setup-and-controls/"><u>How to Leverage AgentGPT for Browser-Integrated AI Agent Setup and Controls</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/hugging-face-significance-and-utility/"><u>Hugging Face: Significance & Utility</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/huion-pen-issues-here-are-5-fast-and-effective-solutions-to-get-it-running-again/"><u>Huion Pen Issues? Here Are 5 Fast and Effective Solutions to Get It Running Again</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/impatient-for-chatgpts-release-embrace-this-outstanding-open-source-alternative-right-away/"><u>Impatient for ChatGPT's Release? Embrace This Outstanding Open Source Alternative Right Away!</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-how-to-use-snapchat-location-spoofer-to-protect-your-privacy-on-lava-blaze-2-drfone-by-drfone-virtual-android/"><u>In 2024, How to use Snapchat Location Spoofer to Protect Your Privacy On Lava Blaze 2? | Dr.fone</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/incorporating-your-own-generative-models-into-chatgpt-sessions-a-how-to-approach/"><u>Incorporating Your Own Generative Models Into ChatGPT Sessions: A How-To Approach</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/integrating-gpt-into-your-pcs-os/"><u>Integrating GPT Into Your PC's OS</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/interactive-learning-getting-started-with-nvidias-advanced-chatbot-using-the-rtx-platform/"><u>Interactive Learning: Getting Started with Nvidia's Advanced Chatbot Using the RTX Platform</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/keeping-a-tab-on-chatgpts-operating-health/"><u>Keeping a Tab on ChatGPT's Operating Health</u></a></li>
+<li><a href="https://review-topics.techidaily.com/mkv-playback-issues-on-xiaomi-redmi-note-13-5g-by-aiseesoft-video-converter-play-mkv-on-android/"><u>MKV playback issues on Xiaomi Redmi Note 13 5G</u></a></li>
+<li><a href="https://driver-download.techidaily.com/seamless-setup-of-intels-ac-31n60-wi-fi-adapter-latest-driver-update-tutorial/"><u>Seamless Setup of Intel's AC 31N60 Wi-Fi Adapter - Latest Driver Update Tutorial</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/seaside-and-spa-tech-perfection-guidebook/"><u>Seaside & Spa Tech Perfection Guidebook</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/the-magnificent-art-of-pokemon-go-streaming-on-realme-11x-5g-drfone-by-drfone-virtual-android/"><u>The Magnificent Art of Pokemon Go Streaming On Realme 11X 5G? | Dr.fone</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/unbeatable-vr-savings-alert-secure-metas-last-chance-october-prime-day-quest-3-with-huge-512gb-storage-discount-gadgetguru/"><u>Unbeatable VR Savings Alert: Secure Meta’s Last-Chance October Prime Day Quest 3 with Huge 512GB Storage Discount | GadgetGuru</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ling-the-10-most-reliable-youtube-to-webm-transformers-for-2024/"><u>Unveiling the 10 Most Reliable YouTube-to-WebM Transformers for 2024</u></a></li>
 </ul></div>
 

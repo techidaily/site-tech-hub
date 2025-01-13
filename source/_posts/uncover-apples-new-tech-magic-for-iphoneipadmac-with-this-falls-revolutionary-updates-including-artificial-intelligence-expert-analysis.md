@@ -1,7 +1,7 @@
 ---
 title: Uncover Apple's New Tech Magic for iPhone/iPad/Mac with This Fall’s Revolutionary Updates Including Artificial Intelligence | Expert Analysis
-date: 2025-01-05T03:45:23.264Z
-updated: 2025-01-06T20:19:57.072Z
+date: 2025-01-08T17:05:45.234Z
+updated: 2025-01-13T16:25:33.321Z
 tags:
   - apple
 categories:
@@ -38,6 +38,10 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Apple Intelligence (AI)
 
 Maria Diaz/ZDNET
@@ -61,7 +65,7 @@ Maria Diaz/ZDNET
 * Apple Intelligence is free on iOS 18, iPadOS 18, and MacOS Sequoia, and will be available to try in English only this summer.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zmXpl6irBYk?si=BXjGpQr6PXFcqhCI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Partnership with OpenAI
@@ -73,7 +77,7 @@ Jason Hiner/ZDNET
 * The ChatGPT integration will be coming to iOS 18, iPadOS 18, and MacOS Sequoia later this year.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/l4R7_qNIQvY?si=2zJOPfEcm6_3udzn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iPCr_bxZjMQ?si=ubOsoq5umPEXL9xL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## iOS 18
@@ -109,7 +113,7 @@ Adam Breeden/ZDNET
 * Another notable change is that the **double tap gesture** can be used to scroll through apps.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UUPt2zKtJ5k?si=LLHdsFDLzVByJsKj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## iPadOS 18
@@ -121,10 +125,6 @@ Adam Breeden/ZDNET
 * In a long-awaited release, iPads will now have a **[calculator app](https://www.zdnet.com/article/after-14-years-apple-expected-to-unveil-the-ipad-app-weve-all-been-waiting-for-at-wwdc/)** for the first time, complete with the same interface as the one currently found on iPhones. Plus, users can use it with the Apple Pencil through a new **Math Notes** experience, which allows users to write expressions that the calculator app will solve for them once they type the equal sign, in their own handwriting,
 * Handwriting in Notes also got an upgrade with **Smart** **Script**, which refines users' writing to make it more legible while keeping the authenticity of the user's handwriting style. The feature can also match copied and pasted text to the user's handwriting. Typed text was also enhanced, with five new highlight colors and the ability to toggle sections under headings or subheadings.
 * iPadOS 18 supports **screen-sharing via SharePlay** and the same Control Center customizations, Photos app upgrades, Safari updates, and emoji Tapbacks found in **iOS 18.**
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## MacOS 15 (Sequoia)
 
@@ -154,10 +154,6 @@ Jason Hiner/ZDNET
 * Users can **cast content** from their iPhone, iPad, or Mac to the Vision Pro using AirPlay.
 * Apple is also making the Vision Pro available in more countries starting June 28\. You can see the full list [here](https://www.apple.com/newsroom/2024/06/apple-vision-pro-arrives-in-new-countries-and-regions-beginning-june-28/).
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c-BHGGIC0zE?si=FzUQKZa-bx8OlKuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## AirPods
 
 Jason Hiner/ZDNET
@@ -165,6 +161,10 @@ Jason Hiner/ZDNET
 * AirPods Pro are getting **Voice Isolation** to enhance call quality in noisier environments.
 * With the new **Siri Interactions**, users can now **nod or shake their head** "yes" or "no" when responding to Siri.
 * Apple is also releasing a **Personalized Spatial Audio API** for game developers to build around the AirPods' audio technology.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DEqoiNArwjQ?si=oaL_lgnI-RxY5Qy_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## tvOS 18
 
@@ -210,22 +210,20 @@ Screenshot by Nina Raemont/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-direct.techidaily.com/new-educational-transformation-the-vr-revolution-for-2024/"><u>[New] Educational Transformation The VR Revolution for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-historys-high-fliers-the-most-upvoted-threads-on-reddit/"><u>[New] History’s High-Fliers The Most Upvoted Threads on Reddit</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-2024-approved-fix-successful-non-operational-obs-camera/"><u>[Updated] 2024 Approved Fix Successful Non-Operational OBS Camera</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/updated-maximize-impact-with-custom-icons-and-graphics-on-your-instagram-posts/"><u>[Updated] Maximize Impact with Custom Icons and Graphics on Your Instagram Posts</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/2024-approved-transforming-tweets-into-animated-gifs-a-step-by-step-guide/"><u>2024 Approved Transforming Tweets Into Animated GIFs A Step-by-Step Guide</u></a></li>
-<li><a href="https://windows11.techidaily.com/a-guide-to-uncovering-your-systems-identity-quickly/"><u>A Guide to Uncovering Your System's Identity Quickly</u></a></li>
-<li><a href="https://windows11.techidaily.com/back-to-basics-windows-11-access-re-establishment-guide/"><u>Back to Basics: Windows 11 Access Re-Establishment Guide</u></a></li>
-<li><a href="https://win-net.techidaily.com/cache-optimization-techniques-in-emeditors-text-editing-software/"><u>Cache Optimization Techniques in EmEditor's Text Editing Software</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/claude-ai-vs-chatgpt-showdown-which-might-come-out-on-top-as-the-superior-conversationalist/"><u>Claude AI Vs. ChatGPT Showdown: Which Might Come Out on Top as the Superior Conversationalist?</u></a></li>
-<li><a href="https://solve-news.techidaily.com/complete-winxdvd-operating-procedure-an-ultimate-users-handbook/"><u>Complete WinXDVD Operating Procedure: An Ultimate User's Handbook</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/comprehensive-guide-everything-essential-on-understanding-openai/"><u>Comprehensive Guide: Everything Essential on Understanding OpenAI</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/expert-advice-on-building-your-dream-pc-by-toms-hardware-mastery/"><u>Expert Advice on Building Your Dream PC by Tom's Hardware Mastery</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/exploring-the-features-of-claude-pro-versus-chatgpt-plus-by-microsoft/"><u>Exploring the Features of Claude Pro Versus ChatGPT Plus by Microsoft</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/innovative-sound-crafting-techniques-using-chatgpt-within-your-daw-environment/"><u>Innovative Sound Crafting Techniques Using ChatGPT Within Your DAW Environment</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/openais-chatbot-at-your-fingertips-using-ubuntu-bash-and-shellgpt/"><u>OpenAI's Chatbot at Your Fingertips: Using Ubuntu Bash and ShellGPT</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/the-strategic-decision-behind-prohibiting-chatgpt-unpacking-5-reasons-companies-are-saying-no/"><u>The Strategic Decision Behind Prohibiting ChatGPT: Unpacking 5 Reasons Companies Are Saying No</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/understanding-artificial-intelligence-unveiling-its-risks/"><u>Understanding Artificial Intelligence: Unveiling Its Risks</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-2024-approved-one-ear-beats-troubleshoot-guide/"><u>[New] 2024 Approved One-Ear Beats Troubleshoot Guide</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/024-approved-smartphone-camera-accessories-vloggers-should-try-to-improve-recording/"><u>[New] 2024 Approved Smartphone Camera Accessories Vloggers Should Try to Improve Recording</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-2024-approved-the-virality-vortex-mastering-content-circulation-on-social-media/"><u>[New] 2024 Approved The Virality Vortex Mastering Content Circulation on Social Media</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/n-2024-achieving-visual-excellence-aspect-ratio-mastery-on-youtube/"><u>[New] In 2024, Achieving Visual Excellence ASPECT RATIO Mastery on YOUTUBE</u></a></li>
+<li><a href="https://fox-within.techidaily.com/1-afdl-ttbyk-nskh-alkrs-alshaaa-llttbykat-thkyk-alkfaaaa-maa-aliklaaa/"><u>1. أفضل تطبيق نسخ القرص الشائع للتطبيقات: تحقيق الكفاءة مع الإقلاع</u></a></li>
+<li><a href="https://blog-min.techidaily.com/vobflac-movavi/"><u>無料でVOBからFLACへ直接オンライン変換可能！ Movavi専用ツールチュートリアル</u></a></li>
+<li><a href="https://android-location.techidaily.com/for-people-wanting-to-mock-gps-on-realme-gt-neo-5-se-devices-drfone-by-drfone-virtual/"><u>For People Wanting to Mock GPS on Realme GT Neo 5 SE Devices | Dr.fone</u></a></li>
+<li><a href="https://win-extraordinary.techidaily.com/mastering-the-art-of-web-refresh-insights-on-site-rebrands-and-enhancing-seo-performance-with-expert-techniques/"><u>Mastering the Art of Web Refresh: Insights on Site Rebrands & Enhancing SEO Performance with Expert Techniques</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/pioneering-play-ai-driven-transformations-in-games/"><u>Pioneering Play: AI-Driven Transformations in Games</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/pioneering-progress-chatgpts-revolutionary-feature-set-revealed/"><u>Pioneering Progress: ChatGPT's Revolutionary Feature Set Revealed</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/prospering-amidst-automation-top-6-tactics-to-excel-as-ai-redefines-the-job-landscape/"><u>Prospering Amidst Automation: Top 6 Tactics to Excel as AI Redefines the Job Landscape</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/revolutionize-your-artwork-leveraging-microsofts-copilot-for-customized-ai-image-production/"><u>Revolutionize Your Artwork: Leveraging Microsoft's Copilot for Customized AI Image Production</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/scripting-scenarios-6-gpt-techniques-for-engaging-dandd-adventures/"><u>Scripting Scenarios: 6 GPT Techniques for Engaging D&D Adventures</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/steps-to-detect-and-handle-chatgpt-phishing-attempts-online/"><u>Steps to Detect and Handle ChatGPT Phishing Attempts Online</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/streamlining-communication-integrating-chatgpt-into-virtual-work-sessions/"><u>Streamlining Communication: Integrating ChatGPT Into Virtual Work Sessions</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Customizing & Streamlining Your MacOS Sonoma Menu Bar - Expert Tips
-date: 2025-01-05T03:32:10.856Z
-updated: 2025-01-06T20:15:36.098Z
+date: 2025-01-12T16:15:42.974Z
+updated: 2025-01-13T16:43:15.617Z
 tags:
   - apple
 categories:
@@ -29,14 +29,10 @@ Those sneaky little earbuds can walk away from us, but luckily the AirPods have 
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to find your lost AirPods
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 1\. Set up Find My ASAP
 
@@ -45,7 +41,7 @@ Nina Raemont/ZDNET
 First and foremost, set up Find My. Find My, one of the native apps on your iPhone and iPad, will become your best friend when you begin a search for lost devices like AirPods or Apple Watches. Note: You'll want to set up Find My as soon as possible, because you can't locate your AirPods through Find My _after_ you've lost them. If your AirPods are already set up on Find My, go to the next step. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9ECz3oZ8NrQ?si=86vkwkDJo9HQXpzt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Open Find My
@@ -54,6 +50,10 @@ Nina Raemont/ZDNET
 
 Open the Find My app, then toggle to the Devices tab to select your AirPods, which you've registered on Find My. If your AirPods are nearby, they'll appear on the map. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 3\. Play sound to find AirPods
 
 Nina Raemont/ZDNET
@@ -61,7 +61,7 @@ Nina Raemont/ZDNET
 Click the Play Sound feature to locate your earbuds. You'll hear a ringing sound near you. It's important to know that at least one of the two earbuds must be out of its charging case or it won't play a sound. You can play sound for the left and right earbuds by tapping L or R. Once you've found them, you can hit stop. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zmXpl6irBYk?si=BXjGpQr6PXFcqhCI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Will this work if I've lost my AirPods while they're in the charging case?
@@ -69,7 +69,7 @@ Click the Play Sound feature to locate your earbuds. You'll hear a ringing sound
 If you've lost your AirPods while they're in the charging case, it gets harder to locate them on Find My.The Find My map will show the most recent location where the case was last opened, but won't be updated to their current location if they've been moved since they were last used.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Can you locate AirPods that aren't online?
@@ -106,17 +106,21 @@ Unfortunately, no. They need to be online and connected to Find My to easily loc
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-forging-partnerships-with-brands-5-instagram-strategies-for-growth-for-2024/"><u>[Updated] Forging Partnerships with Brands 5 Instagram Strategies for Growth for 2024</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/adobe-media-encoder-troubleshooting-overcoming-webm-file-integration-problems/"><u>Adobe Media Encoder Troubleshooting: Overcoming WebM File Integration Problems</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/asgard-integration-guide-for-kodi-builds-20x-and-19x/"><u>Asgard Integration Guide for Kodi Builds 20.x and 19.x</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/best-free-streaming-platforms-top-11-sites-for-downloading-tv-shows-and-movies-with-hd-quality/"><u>Best Free Streaming Platforms: Top 11 Sites for Downloading TV Shows & Movies with HD Quality</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/chatgpt-for-freelancers-empowering-self-managed-workflows/"><u>ChatGPT for Freelancers: Empowering Self-Managed Workflows</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/easy-methods-for-converting-mmm-soundtracks-to-mp3-and-various-audio-types/"><u>Easy Methods for Converting MMM Soundtracks to MP3 and Various Audio Types</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/efficient-methods-for-transforming-mp4-files-into-flac-format-a-step-by-step-guide/"><u>Efficient Methods for Transforming MP4 Files Into FLAC Format: A Step-by-Step Guide</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/forgotten-the-voicemail-password-of-xiaomi-redmi-12-try-these-fixes-by-drfone-android/"><u>Forgotten The Voicemail Password Of Xiaomi Redmi 12? Try These Fixes</u></a></li>
-<li><a href="https://win-great.techidaily.com/proceder-a-une-sauvegarde-efficace-de-son-pc-vers-nas-qnap-astuces-detaillees-pour-loptimisation-sous-windows-11/"><u>Procéder À Une Sauvegarde Efficace De Son PC Vers NAS QNAP : Astuces Détaillées Pour L'optimisation Sous Windows 11</u></a></li>
-<li><a href="https://fox-access.techidaily.com/the-fundamentals-of-human-interface-recognition/"><u>The Fundamentals of Human Interface Recognition</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/top-tips-for-obtaining-pristine-photos-without-payment-for-2024/"><u>Top Tips for Obtaining Pristine Photos Without Payment for 2024</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/updated-in-2024-how-to-perform-mask-tracking-discovering-the-best-methods/"><u>Updated In 2024, How to Perform Mask Tracking Discovering the Best Methods</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-2024-approved-leading-likes-best-insta-stories-filter/"><u>[New] 2024 Approved Leading Likes Best Insta Stories Filter</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/n-2024-the-ultimate-guide-to-youtube-thumbnail-sizes/"><u>[New] In 2024, The Ultimate Guide to YouTube Thumbnail Sizes</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/2024-approved-simplifying-media-sharing-how-to-enable-autoplay-in-facebook-video-spaces/"><u>2024 Approved Simplifying Media Sharing How to Enable Autoplay in Facebook Video Spaces</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/experts-take-on-magix-video-pro-x/"><u>Expert's Take on Magix Video Pro X</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/in-2024-dos-and-donts-the-ultimate-fb-cover-video-tutorial/"><u>In 2024, Dos & Don'ts The Ultimate FB Cover Video Tutorial</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/land-your-dream-blink-video-doorbell-for-just-30-this-prime-day-top-picks-revealed-by-tech-experts-at-zdnet/"><u>Land Your Dream Blink Video Doorbell for Just $30 This Prime Day – Top Picks Revealed by Tech Experts at ZDNet!</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/leading-giant-nlp-models-unveiling-the-six-most-powerful-llms/"><u>Leading Giant NLP Models: Unveiling the Six Most Powerful LLMs</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/mastering-chatbot-creation-personalizing-via-gpt-techniques/"><u>Mastering Chatbot Creation: Personalizing via GPT Techniques</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/mastering-crypto-discussions-with-chatgpt-your-go-to-list-of-top-10-prompts/"><u>Mastering Crypto Discussions with ChatGPT: Your Go-To List of Top 10 Prompts</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/microsofts-ai-the-next-level-of-bing/"><u>Microsoft's AI, The Next Level of Bing</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/no-phone-required-how-to-enroll-in-chatgpt-telegram-and-whatsapp-alternatives/"><u>No Phone Required: How to Enroll in ChatGPT, Telegram & WhatsApp Alternatives</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/no-phone-no-problem-how-to-create-accounts-on-popular-platforms-without-a-cellular-number/"><u>No Phone? No Problem! How to Create Accounts on Popular Platforms Without a Cellular Number</u></a></li>
+<li><a href="https://games-able.techidaily.com/nvidias-next-move-must-you-upgrade-to-rtx-now/"><u>Nvidia's Next Move: Must You Upgrade to RTX Now?</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/prompt-engineer-a-legitimate-career-path-evaluate-these-nine-important-points/"><u>Prompt Engineer – A Legitimate Career Path? Evaluate These Nine Important Points</u></a></li>
+<li><a href="https://win11.techidaily.com/unearthing-the-hidden-potential-of-windows-monitoring-systems/"><u>Unearthing the Hidden Potential of Windows Monitoring Systems</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/first-step-designing-attractive-videos-on-a-mac/"><u>Your First Step Designing Attractive Videos on a Mac</u></a></li>
 </ul></div>
 

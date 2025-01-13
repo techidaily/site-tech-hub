@@ -1,7 +1,7 @@
 ---
 title: "Preserving AI Conversations: How to Save Your Chats with ChatGPT"
-date: 2024-08-20T11:08:18.128Z
-updated: 2024-08-21T11:08:18.128Z
+date: 2025-01-11T16:40:23.378Z
+updated: 2025-01-13T16:42:00.271Z
 tags:
   - chatgpt
   - open-ai
@@ -19,6 +19,10 @@ thumbnail: https://thmb.techidaily.com/5f29ab47c82493b144af09fd3ee1e6f095ceaed40
 
  You can use this feature to generate codes, get answers, or have a quick brainstorming session with just your voice.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/omWG4u39lmE?si=yk1AEo_gzDpGjYbl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What You Need to Speak to ChatGPT
 
  ChatGPT's Whisper integration allows you to use your voice to speak with ChatGPT instead of typing. The beauty of this lies in the fact that you can speed up your prompts instead of typing long and descriptive sentences.
@@ -29,6 +33,10 @@ thumbnail: https://thmb.techidaily.com/5f29ab47c82493b144af09fd3ee1e6f095ceaed40
 
 ![ChatGPT App Login](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/chatgpt-app-login.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![ChatGPT app welcome screen](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/chatgpt-app-welcome-screen.jpg)
 
 Close
@@ -36,6 +44,10 @@ Close
  If you're on a Windows PC, you'll need to rely on third-party workarounds like[Whisper Desktop to turn your voice to text in real time](https://www.makeuseof.com/windows-whisper-desktop-guide/) .
 
 **Download:** ChatGPT for[iOS](http://apps.apple.com/app/openai-chatgpt/id6448311069) |[Android](https://www.anrdoezrs.net/links/7251228/type/dlg/sid/UUmuoUeUpU2029654/https://play.google.com/store/apps/details?id=com.openai.chatgpt&hl=en&gl=US) (Free, subscription available)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mMYEK2gtY5c?si=ytxNz_JHZkTrwb4b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How to Send ChatGPT Prompts With Your Voice
 
@@ -52,7 +64,15 @@ Close
 
 ![ChatGPT's mic and speaker on the prompt page on an iPhone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/img_4311.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DEqoiNArwjQ?si=oaL_lgnI-RxY5Qy_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![ChatGPT showing the text generated from the speech on the prompt page on an iPhone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/img_4313.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![The ChatGPT's prompt response generated from the speech on an iPhone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/img_4314.jpg)
 
@@ -60,21 +80,15 @@ Close
 
  Now, all you need to do is wait a couple of seconds for ChatGPT to type out its response. You can test this feature while trying these[ChatGPT crypto prompts](https://www.makeuseof.com/the-best-chatgpt-crypto-prompts/) .
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4742929&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/boxshot(2).png" border="0">Kanto Player Professional</a>
-<!-- affiliate ads end -->
 ## Talk to ChatGPT and Save Time
 
  By speaking to ChatGPT, you can send longer and more descriptive prompts with your voice and have a conversation without manually typing a prompt that could take several minutes. This way, you can be more productive with your task and save time while using ChatGPT.
-
 
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -83,4 +97,19 @@ Close
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-tips.techidaily.com/new-codec-comparison-are-we-better-with-av1-or-vp9-for-2024/"><u>[New] Codec Comparison Are We Better With AV1 or VP9 for 2024</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-transform-your-stories-6-premier-apps-for-snapchat-filters-for-2024/"><u>[New] Transform Your Stories 6 Premier Apps for Snapchat Filters for 2024</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/our-go-to-list-of-international-adventure-vids-for-2024/"><u>[New] Your Go-To List of International Adventure Vids for 2024</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/2024-approved-a-step-by-step-guide-turning-viral-soundtracks-into-personal-ringtones/"><u>2024 Approved A Step-by-Step Guide Turning Viral Soundtracks Into Personal Ringtones</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/advancing-the-future-of-artificial-intelligence-explore-apples-latest-innovations-and-capabilities-insights/"><u>Advancing the Future of Artificial Intelligence: Explore Apple’s Latest Innovations and Capabilities - Insights</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/airpods-pro-review-is-the-latest-version-a-smart-buy-insights-by-your-name/"><u>AirPods Pro Review: Is the Latest Version a Smart Buy? - Insights by [Your Name]</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/how-to-edit-photos-on-snapchat-for-2024/"><u>How to Edit Photos on Snapchat for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/pc-musiker-auf-ihrem-iphone-speichern-ohne-itunes-zu-verwenden-anleitung-fur-windows-und-mac/"><u>PC Musiker Auf Ihrem iPhone Speichern, Ohne iTunes Zu Verwenden - Anleitung Für Windows Und Mac</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/the-compact-guide-to-creating-viral-music-on-youtube-for-2024/"><u>The Compact Guide to Creating Viral Music on YouTube for 2024</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/the-ultimate-guide-to-choosing-a-titanium-band-for-your-apple-watch-expert-advice-from-zdnet/"><u>The Ultimate Guide to Choosing a Titanium Band for Your Apple Watch – Expert Advice From ZDNet</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/top-four-ai-innovations-iphone-must-integrate-in-ios-18-for-competitive-parity-with-android-devices-analysis-by-zdnet/"><u>Top Four AI Innovations iPhone Must Integrate in iOS 18 for Competitive Parity with Android Devices - Analysis by ZDNet</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/top-ranking-mac-software-insights-and-picks-by-zdnet/"><u>Top-Ranking Mac Software - Insights & Picks by ZDNet</u></a></li>
+</ul></div>
 

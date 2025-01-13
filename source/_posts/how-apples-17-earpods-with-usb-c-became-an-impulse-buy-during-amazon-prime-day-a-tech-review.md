@@ -1,7 +1,7 @@
 ---
 title: How Apple's $17 EarPods With USB-C Became an Impulse Buy During Amazon Prime Day - A Tech Review
-date: 2025-01-04T16:00:10.088Z
-updated: 2025-01-07T03:25:06.742Z
+date: 2025-01-08T16:29:39.128Z
+updated: 2025-01-13T16:24:18.021Z
 tags:
   - apple
 categories:
@@ -32,7 +32,7 @@ Secondly, the microphone quality on Apple's wired EarPods is some of the best I'
 It should come as no surprise that I quickly bought another pair of USB-C [Apple EarPods](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FApple-EarPods-Headphones-Built-Control%2Fdp%2FB0CHXC5ZDX%3Fth%3D1%26tag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cd1727d25-62fd-44c1-aba8-20b881a32385%7Cdtp&dtb=1) when they finally went on sale this morning. You can bet I'll be bringing them along for more plane rides and commutes throughout the summer.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zmXpl6irBYk?si=BXjGpQr6PXFcqhCI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## When will this deal expire?
@@ -71,17 +71,22 @@ Deals are subject to sell out or expire at any time, though ZDNET remains commit
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://snapchat-videos.techidaily.com/new-2024-approved-beatniks-guide-to-music-enhanced-snapchats/"><u>[New] 2024 Approved Beatniks' Guide to Music-Enhanced Snapchats</u></a></li>
-<li><a href="https://video-capture.techidaily.com/new-2024-approved-swift-systems-for-securing-presentations/"><u>[New] 2024 Approved Swift Systems for Securing Presentations</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/new-in-2024-evaluating-frame-rates-the-decision-on-30-vs-60hz/"><u>[New] In 2024, Evaluating Frame Rates The Decision on 30 Vs. 60Hz</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/new-three-easy-ways-to-harvest-youtubes-default-iconography/"><u>[New] Three Easy Ways to Harvest Youtube's Default Iconography</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/ed-2024-approved-revolutionize-your-intellect-with-these-15-yt-channels/"><u>[Updated] 2024 Approved Revolutionize Your Intellect with These 15 YT Channels</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-in-2024-your-digital-den-top-12-animal-simulator-games-on-android/"><u>[Updated] In 2024, Your Digital Den Top 12 Animal Simulator Games on Android</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-complete-tutorial-to-use-gps-joystick-to-fake-gps-location-on-nokia-c32-drfone-by-drfone-virtual-android/"><u>In 2024, Complete Tutorial to Use GPS Joystick to Fake GPS Location On Nokia C32 | Dr.fone</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/quickly-rip-thor-the-dark-world-movie-from-dvd-without-compromising-on-quality/"><u>Quickly Rip Thor: The Dark World Movie From DVD without Compromising on Quality</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/save-and-enjoy-your-favorite-coub-videos-with-ease/"><u>Save and Enjoy Your Favorite Coub Videos with Ease</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/securing-virtual-experiences-how-using-a-vpn-enhances-safety-for-xr-headset-users-like-the-vision-pro-according-to-zdnet/"><u>Securing Virtual Experiences: How Using a VPN Enhances Safety for XR Headset Users Like the Vision Pro, According to ZDNet</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/shrink-your-video-files-efficiently-mastering-the-technique-in-windows-media-player/"><u>Shrink Your Video Files Efficiently - Mastering the Technique in Windows Media Player</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/the-top-5-tools-combining-screen-capture-and-video-editing-reviews/"><u>The Top 5 Tools Combining Screen Capture & Video Editing - Reviews</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-streaming-soundscapes-on-your-iphone/"><u>[New] Streaming Soundscapes on Your iPhone</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-2024-approved-dissecting-the-yuneec-typhoon-hs-aerial-capabilities/"><u>[Updated] 2024 Approved Dissecting the Yuneec Typhoon H's Aerial Capabilities</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-edit-like-a-championtop-strategies-for-beginner-youtubers-for-2024/"><u>[Updated] Edit Like a Champion—Top Strategies for Beginner YouTubers for 2024</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/approved-creators-vs-youtubes-profit-policies/"><u>2024 Approved Creators Vs. YouTube's Profit Policies</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/ai-in-software-engineering-predicting-changes-to-developer-routines-and-productivity/"><u>AI in Software Engineering: Predicting Changes to Developer Routines and Productivity</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/ai-driven-solutions-integrating-chatgpt-into-sheets/"><u>AI-Driven Solutions: Integrating ChatGPT Into Sheets</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/bert-vs-gpt-deciphering-the-revolutionary-shifts-in-advanced-language-understanding-models/"><u>BERT Vs. GPT: Deciphering the Revolutionary Shifts in Advanced Language Understanding Models</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/bringing-chatgpt-to-life-explore-the-new-voice-interaction-capability-by-openai/"><u>Bringing ChatGPT to Life: Explore the New Voice Interaction Capability by OpenAI</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/can-i-confidently-use-tech-giants-ai-like-chatgpt-and-bard-for-financial-planning/"><u>Can I Confidently Use Tech Giants' AI Like ChatGPT and Bard for Financial Planning?</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/chatgpt-as-a-chefs-helper-discover-7-helpful-techniques/"><u>ChatGPT as a Chef's Helper: Discover 7 Helpful Techniques</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/chatgpt-games-galore-here-are-6-must-play-titles/"><u>ChatGPT Games Galore! Here Are 6 Must-Play Titles</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/chatgpt-on-your-computer-vs-online-discover-which-delivers-superior-performance/"><u>ChatGPT on Your Computer Vs. Online: Discover Which Delivers Superior Performance</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/how-to-avoid-falling-for-bingchats-pseudo-cryptocurrency-schemes/"><u>How to Avoid Falling for BingChat's Pseudo-Cryptocurrency Schemes</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-transfer-data-from-iphone-15-pro-to-android-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From iPhone 15 Pro To Android? | Dr.fone</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-can-i-use-itools-gpx-file-to-catch-the-rare-pokemon-on-motorola-moto-g84-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Can I use iTools gpx file to catch the rare Pokemon On Motorola Moto G84 5G | Dr.fone</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/transformar-e-gravar-wmv-para-vob-ao-vivo-no-converter-livre-tecnologia-do-movavi/"><u>Transformar E Gravar WMV Para VOB Ao Vivo No Converter Livre - Tecnologia Do Movavi</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/trustworthy-and-resilient-an-in-depth-review-of-the-portable-kensun-tire-inflator/"><u>Trustworthy and Resilient – An In-Depth Review of the Portable Kensun Tire Inflator</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Building Websites Made Easy: How ChatGPT Assists in the Process"
-date: 2024-08-24T11:22:44.292Z
-updated: 2024-08-25T11:22:44.292Z
+date: 2025-01-09T16:04:07.429Z
+updated: 2025-01-13T16:24:24.551Z
 tags:
   - chatgpt
   - open-ai
@@ -20,6 +20,10 @@ thumbnail: https://thmb.techidaily.com/a5249e9b13fd437412102feed5c7841b8ccf98fdf
  For this week's show, we asked ChatGPT to help out with outlining and even writing the show. Here's a bit more information on[how we used ChatGPT to script the podcast](https://www.makeuseof.com/i-used-chatgpt-to-script-a-podcast-heres-what-happened/) .
 
  You can subscribe to the Really Useful Podcast on[Apple Podcasts](https://podcasts.apple.com/gb/podcast/the-really-useful-podcast/id1437847131?mt=2) ,[Spotify](https://open.spotify.com/show/283gDxLd6OTNEpRq6tN7ha) ,[Google Podcasts](https://www.google.com/podcasts?feed=aHR0cHM6Ly9hbmNob3IuZm0vcy8zMWJlNDcwL3BvZGNhc3QvcnNz) ,[Amazon Music and Audible](https://music.amazon.co.uk/podcasts/20ab73d4-5da2-46c7-a17f-dc6eb39bdb48/The-Really-Useful-Podcast) ,[Player FM](https://player.fm/series/the-really-useful-podcast-2491856) , or copy the[RSS feed](https://feeds.transistor.fm/the-really-useful-podcast) into your podcast player.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ITtcSWvS8bo?si=4M4BfMgaabrW6148" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Shownotes
 
@@ -44,14 +48,11 @@ We finish the show with the following recommendations:
 
  Christian Cawley hosts this week's podcast, and is joined by Ben Stegner. You can contact them on Twitter:[@thegadgetmonkey](https://twitter.com/thegadgetmonkey) and[@stegnersaurus](https://twitter.com/stegnersaurus) , with your suggestions for future topics.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -60,8 +61,17 @@ We finish the show with the following recommendations:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-data.techidaily.com/inancial-flourishing-with-glamour-vlogs-for-2024/"><u>[New] Financial Flourishing with Glamour Vlogs for 2024</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-picture-perfect-viewing-the-best-8k-monitors-uncovered/"><u>[New] Picture Perfect Viewing The Best 8K Monitors Uncovered</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-in-2024-streamline-your-content-5-efficient-ways-to-manipulate-vimeo-videos/"><u>[Updated] In 2024, Streamline Your Content 5 Efficient Ways to Manipulate Vimeo Videos</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/bold-and-detailed-studiofx-large-kit-review/"><u>Bold & Detailed StudioFX Large Kit Review</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/dive-into-fun-the-best-chatgpt-games-around/"><u>Dive Into Fun: The Best ChatGPT Games Around</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/exploring-the-potential-of-apples-high-end-vr-is-a-3000-investment-worth-it/"><u>Exploring the Potential of Apple's High-End VR: Is a $3,000 Investment Worth It?</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/hugging-face-unveiling-its-role-in-modern-machine-learning/"><u>Hugging Face: Unveiling Its Role in Modern Machine Learning</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-masterful-zoom-techniques-simple-iphone-solutions/"><u>In 2024, Masterful Zoom Techniques Simple iPhone Solutions</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/the-future-of-employment-transformed-by-ai-seven-pioneering-shifts-brought-by-generative-algorithms/"><u>The Future of Employment Transformed by AI: Seven Pioneering Shifts Brought by Generative Algorithms</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/the-ultimate-guide-to-overpowering-ai-text-generators/"><u>The Ultimate Guide to Overpowering AI Text Generators</u></a></li>
+</ul></div>
 
-
-<!-- affiliate ads begin -->
-<a href="https://bluettieu.pxf.io/c/5597632/2042323/17091" target="_top" id="2042323"><img src="//a.impactradius-go.com/display-ad/17091-2042323" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="3840" height="1600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042323/17091" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->

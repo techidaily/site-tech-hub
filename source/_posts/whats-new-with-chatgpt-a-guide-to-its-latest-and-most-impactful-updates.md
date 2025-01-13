@@ -1,7 +1,7 @@
 ---
 title: What's New with ChatGPT? A Guide to Its Latest and Most Impactful Updates
-date: 2024-08-20T11:10:16.192Z
-updated: 2024-08-21T11:10:16.192Z
+date: 2025-01-08T16:02:10.668Z
+updated: 2025-01-13T16:09:55.665Z
 tags:
   - chatgpt
   - open-ai
@@ -18,6 +18,10 @@ thumbnail: https://thmb.techidaily.com/fb9dc69321147c58e76f643c816e11fbbc732b6fd
  OpenAI's ChatGPT garnered much interest when it publicly debuted in 2022, providing access to troves of information via a simple chat interface—be it travel tips or code-related logic.
 
  People have been looking for simple ways to access the tool ever since it blew up in popularity, but it's finally possible to do so, thanks to its official mobile app.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## ChatGPT Comes to iPhone (and Android)
 
@@ -37,9 +41,21 @@ thumbnail: https://thmb.techidaily.com/fb9dc69321147c58e76f643c816e11fbbc732b6fd
 
 ![ChatGPT's App Store page on an iPhone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/chatgpt-s-app-store-page-on-an-iphone.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iPCr_bxZjMQ?si=ubOsoq5umPEXL9xL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![ChatGPT iOS app welcome screen](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/chatgpt-ios-app-welcome-screen.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![ChatGPT responding to a query in the official app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/chatgpt-responding-to-a-query-in-the-official-app.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Close
 
@@ -48,20 +64,18 @@ Close
 **Download** **:** ChatGPT for[iOS](http://apps.apple.com/app/openai-chatgpt/id6448311069) |[Android](https://www.anrdoezrs.net/links/7251228/type/dlg/sid/UUmuoUeUpU2025542/https://play.google.com/store/apps/details?id=com.openai.chatgpt&hl=en&gl=US) (Free, subscription available)
 
 <!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BEditor%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/6d3207fd-9f15-4c21-f0ad-59c68e6a7e2a.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3AGmFrtBLHw?si=VhvpUaXHPBHl6OT6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Use ChatGPT Seamlessly on Your iPhone
 
  The launch of an official ChatGPT app for mobile devices makes the service convenient to access and significantly increases the ease of use, allowing users to focus more on using ideal prompts and getting a solution to their doubts sooner. It's a welcome development, and we can't wait to see what OpenAI builds next.
-
 
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -70,4 +84,19 @@ Close
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-webster.techidaily.com/024-approved-auditory-artistry-access-to-excellent-dj-video-samples/"><u>[New] 2024 Approved Auditory Artistry Access to Excellent DJ Video Samples</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-2024-approved-hdr-power-play-is-sns-the-best-option/"><u>[New] 2024 Approved HDR Power Play Is SNS the Best Option?</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-quintessential-underwater-accessories-for-gopro-for-2024/"><u>[Updated] Quintessential Underwater Accessories for Gopro for 2024</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/2024-approved-5-must-have-equipment-and-basic-software-to-start-vlogging/"><u>2024 Approved 5 Must-Have Equipment and Basic Software to Start Vlogging</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/discovering-apples-hidden-gem-in-the-latest-iphone-software-update/"><u>Discovering Apple's Hidden Gem in the Latest iPhone Software Update</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/grab-your-apple-watch-series-9ultra-before-the-sale-stops-exclusive-deals-curated-for-savvy-shoppers-zdnet-reviews/"><u>Grab Your Apple Watch Series 9/Ultra Before the Sale Stops: Exclusive Deals Curated for Savvy Shoppers | ZDNET Reviews</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/mastering-the-art-of-instagram-voice-transformation-for-2024/"><u>Mastering the Art of Instagram Voice Transformation for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overcoming-virtualboxs-usb-connectivity-issues-with-ease-for-windows-users/"><u>Overcoming VirtualBox's USB Connectivity Issues with Ease for Windows Users</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/solving-crashes-a-comprehensive-guide-to-stabilizing-playstation-game-horizon-forbidden-west-on-your-computer/"><u>Solving Crashes: A Comprehensive Guide to Stabilizing PlayStation Game 'Horizon Forbidden West' On Your Computer</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/synching-made-simple-combine-the-power-of-oura-and-strava-for-enhanced-health-tracking-step-by-step-setup-instructions/"><u>Synching Made Simple: Combine the Power of Oura and Strava for Enhanced Health Tracking - Step-by-Step Setup Instructions</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/top-11-irresistible-last-minute-shopping-offers-this-festive-season-discover-them/"><u>Top 11 Irresistible Last-Minute Shopping Offers This Festive Season - Discover Them</u></a></li>
+<li><a href="https://some-tips.techidaily.com/your-ultimate-guide-to-the-most-reliable-and-innovative-airtag-devices-as-vetted-by-tech-pros/"><u>Your Ultimate Guide to the Most Reliable & Innovative AirTag Devices , as Vetted by Tech Pros!</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Apple's Latest Innovation Face-Off: Is It Time to Switch From Apple Watch Series 8 to Series E 10? | Expert Analysis by ZDNET"
-date: 2024-12-30T18:22:46.737Z
-updated: 2025-01-06T21:12:19.709Z
+date: 2025-01-08T16:50:08.223Z
+updated: 2025-01-13T16:12:33.253Z
 tags:
   - apple
 categories:
@@ -50,6 +50,10 @@ But should you splurge on Apple's newest mid-range wearable? Is it time for an u
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Specifications
 
 | **Watch model**           | **Apple Watch Series 10**                                                                                                                                                                                       | **Apple Watch Series 8**                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         |
@@ -71,14 +75,10 @@ But should you splurge on Apple's newest mid-range wearable? Is it time for an u
 
 Kerry Wan/ZDNET
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HaM818fFKXQ?si=ZZLA4lFSHSgCpSE0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## You should buy the Apple Watch Series 10 if...
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 1\. You want a thinner design or larger watch sizes
@@ -93,6 +93,10 @@ Sleep tracking is all the rage in tech (seriously, ZDNET readers [frequently pur
 
 Brand new for the Series 10, sleep apnea tracking is now built-in and there's a host of other features, such as [depth gauge](https://www.zdnet.com/article/apple-watch-series-9-vs-series-10-which-smartwatch-is-right-for-you/), for sports like snorkeling and diving.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 3\. You're looking for something future-proof
 
 If you're spending a few hundred dollars on a smartwatch, you want it to last for several years without compromising performance or function. The best way to ensure you're investing in an Apple Watch that's future-proof and compatible with all of Apple's most up-to-date features (and [Apple Intelligence](https://www.zdnet.com/article/apple-delivers-on-hardware-upgrades-but-punts-apple-intelligence-rollout/), of course) is to select the newer model. 
@@ -102,10 +106,6 @@ The Watch Series 10 is the newest Apple Watch you can buy. History suggests it w
 **Also: [Apple Watch Series 9 vs. Series 10: Which smartwatch is right for you?](https://www.zdnet.com/article/apple-watch-series-9-vs-series-10-which-smartwatch-is-right-for-you/)**
 
 Not only does the Watch Series 10 offer new features like sleep apnea detection, temperature sensing, and a depth gauge, but it's also designed to maximize [WatchOS 11](https://www.zdnet.com/article/every-apple-watch-that-will-get-watchos-11-and-which-models-wont-be-supported/) and benefits from a seamless integration with Apple's latest [iPhone 16 models](https://www.zdnet.com/article/every-iphone-16-model-compared-which-new-iphone-should-you-buy/), which run on [iOS 18](https://www.zdnet.com/article/every-iphone-model-that-will-be-updated-to-apples-ios-18-and-which-ones-wont/). 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 4\. It's time to upgrade
 
@@ -124,7 +124,7 @@ If you want top functions and maximum longevity, the new Watch Series 10 is the 
 Jason Hiner/ZDNET
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XA_wP7rS9ww?si=LarMG3sEHAhSoL6q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 1\. You want an affordable option
@@ -135,15 +135,15 @@ If you want to experience the integrated benefits of the Apple ecosystem on your
 
 While the [Series 9](https://www.zdnet.com/article/apple-watch-series-9-review/) has been available for [upwards of $150 off](https://goto.walmart.com/c/5597632/565706/9383?sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.walmart.com%2Fip%2FApple-Watch-Series-9-With-Blood-Oxygen-GPS-Cellular-41mm-Starlight-Aluminum-Case-with-Starlight-Sport-Band-S-M%2F5031676480%3Fwmlspartner%3Dwlpa%26selectedSellerId%3D0%26gclsrc%3Daw.ds%26%26adid%3D222222222275031676480_156221679273_18387865360%26wl0%3D%26wl1%3Dg%26wl2%3Dc%26wl3%3D677785081658%26wl4%3Dpla-2228157757188%26wl5%3D9192199%26wl6%3D%26wl7%3D%26wl8%3D%26wl9%3Dpla%26wl10%3D8175035%26wl11%3Donline%26wl12%3D5031676480%26veh%3Dsem%26gad_source%3D1%26gclid%3DCjwKCAjwufq2BhAmEiwAnZqw8qlhlHZgVBlgIzIofDP3CSyc29wH8YwdGFvBqUfPmphFZr9oKyfkTRoCL_cQAvD_BwE&subId1=zd-__COM_CLICK_ID__-dtp) lately, the Series 8 is often even more affordable. You can find [refurbished options](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0C2VT692T%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cdb8b7dbc-bcc1-47cf-8fc0-13b0b2496459%7Cdtp&dtb=1) for under $250, though a major downside is this model is increasingly hard to find, especially in new condition. 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/h5uImbOWmTg?si=z4kP-R0QbXbBAJTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 2\. You're looking for blood oxygen sensors
 
 A major reason you may be interested in the Series 8, even though it's now a few years old, is the blood oxygen feature. Since the blood oxygen sensor [was banned](https://www.zdnet.com/article/apple-removes-blood-oxygen-sensor-from-new-watches-what-does-this-mean-for-current-users/) for the Series 9, Ultra 2, and as expected, the Series 10, no newer Apple Watch model offers the same capabilities. This situation means the Series 8 is the best option if you're looking for an Apple Watch equipped with blood oxygen sensing. 
 
 [Buy the Apple Watch Series 8 View now at Target](https://shop-links.co/link/?url=https%3A%2F%2Fwww.target.com%2Fp%2Frefurbished-apple-watch-series-8-gps-41mm-midnight-aluminum-case-with-midnight-sport-band-m-l-2022-8th-generation-target-certified-refurbished%2F-%2FA-89776439%3F&publisher_slug=itechdaily19598&exclusive=1)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Alternatives to consider
 
@@ -179,19 +179,16 @@ A major reason you may be interested in the Series 8, even though it's now a few
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-in-2024-top-tools-for-saving-insta-photos-and-videos/"><u>[Updated] In 2024, Top Tools for Saving Insta Photos & Videos</u></a></li>
-<li><a href="https://fox-http.techidaily.com/2024-approved-persuasive-visuals-uncover-the-power-in-6-video-types/"><u>2024 Approved Persuasive Visuals Uncover the Power in 6 Video Types</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/9-strategies-for-stunning-insta-unboxing-vids-for-2024/"><u>9 Strategies for Stunning Insta Unboxing Vids for 2024</u></a></li>
-<li><a href="https://app-tips.techidaily.com/discover-why-aiops-matters-7-key-points-backed-by-zdnets-research/"><u>Discover Why AIOps Matters: 7 Key Points Backed by ZDNet's Research</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/24-elevate-your-vlogs-optimizing-title-description-and-tags/"><u>In 2024, Elevate Your Vlogs Optimizing Title, Description & Tags</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/premium-fourteen-high-res-full-frame-selection/"><u>Premium Fourteen High Res Full Frame Selection</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/simple-steps-to-watch-flv-videos-using-the-popular-vlc-player-a-comprehensive-tutorial/"><u>Simple Steps to Watch FLV Videos Using the Popular VLC Player – A Comprehensive Tutorial</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/slash-the-size-of-webm-videos-for-free-with-these-top-5-techniques/"><u>Slash the Size of WebM Videos for Free with These Top 5 Techniques!</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/speedier-videography-editor-efficient-compression-of-uhd4k-videos-through-advanced-whole-gpu-performance-capabilities/"><u>Speedier Videography Editor: Efficient Compression of UHD/4K Videos Through Advanced Whole-GPU Performance Capabilities</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/the-complete-guide-to-switching-from-gsm-to-wav-best-software-for-pcs-and-online-solutions/"><u>The Complete Guide to Switching From GSM to WAV: Best Software for PCs and Online Solutions</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/the-ultimate-guide-to-tecno-camon-30-pro-5g-pattern-lock-screen-everything-you-need-to-know-by-drfone-android/"><u>The Ultimate Guide to Tecno Camon 30 Pro 5G Pattern Lock Screen Everything You Need to Know</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/top-ranking-software-for-converting-videos-to-high-definition-mp4-hd-full-hd-uhd/"><u>Top-Ranking Software for Converting Videos to High Definition MP4 (HD, Full HD, UHD)</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/ultimate-guide-creating-custom-android-ringtones-step-by-step/"><u>Ultimate Guide: Creating Custom Android Ringtones Step-by-Step</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/ultimate-tutorial-on-how-to-extract-dvd-content-safely-windows-and-mac-steps-unveiled/"><u>Ultimate Tutorial on How to Extract DVD Content Safely - Windows and Mac Steps Unveiled</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-2024-approved-twitter-connect-optimizing-your-tiktok-content/"><u>[New] 2024 Approved Twitter Connect Optimizing Your TikTok Content</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-2024-approved-windows-10-essential-tips-for-video-editing-enthusiasts/"><u>[Updated] 2024 Approved Windows 10 Essential Tips for Video Editing Enthusiasts</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-stepping-up-your-game-understanding-mcns-and-their-impact-on-creators/"><u>[Updated] Stepping Up Your Game Understanding MCNs and Their Impact on Creators</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-insights-into-instagrams-intermittent-video-flow/"><u>2024 Approved Insights Into Instagram's Intermittent Video Flow</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/2024-approved-recorded-speech-retrieval-and-evaluation/"><u>2024 Approved Recorded Speech Retrieval & Evaluation</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-unveiling-the-premium-our-rankings-for-best-gopro-casings/"><u>In 2024, Unveiling the Premium Our Rankings for Best GoPro Casings</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/mastering-the-integration-of-chatgpt-with-google-sheets-a-step-by-step-guide/"><u>Mastering the Integration of ChatGPT with Google Sheets: A Step-by-Step Guide</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/maximizing-productivity-top-6-strategies-for-utilizing-chatgpt-in-telecommuting/"><u>Maximizing Productivity: Top 6 Strategies for Utilizing ChatGPT in Telecommuting</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/musk-revealed-future-ai-breakthrough/"><u>Musk Revealed: Future AI Breakthrough?</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/not-patient-enough-for-chatgpts-official-release-check-out-these-great-open-source-options/"><u>Not Patient Enough for ChatGPT's Official Release? Check Out These Great Open Source Options!</u></a></li>
+<li><a href="https://some-skills.techidaily.com/venturing-into-virtual-studio-technology-vst-world-for-2024/"><u>Venturing Into Virtual Studio Technology (VST) World for 2024</u></a></li>
 </ul></div>
 

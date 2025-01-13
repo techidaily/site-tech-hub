@@ -1,7 +1,7 @@
 ---
 title: "Upcoming Release: Apple Pushes Back Introduction of AI Capabilities to October - Latest News From ZDNet"
-date: 2025-01-04T18:25:48.598Z
-updated: 2025-01-06T22:42:29.327Z
+date: 2025-01-08T16:30:52.109Z
+updated: 2025-01-13T16:17:20.440Z
 tags:
   - apple
 categories:
@@ -69,28 +69,24 @@ This isn't Apple's first go-around with AI models, having released others such a
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-capture.techidaily.com/new-in-2024-diy-iphone-7-screen-recording-techniques/"><u>[New] In 2024, DIY IPhone 7 Screen Recording Techniques</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/new-in-2024-top-10-best-webcam-covers/"><u>[New] In 2024, Top 10 Best Webcam Covers</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ed-innovative-youtube-channel-names-for-the-next-gen-vloggers-and-film-makers-keep-it-under-or-at-156-characters/"><u>[Updated] Innovative YouTube Channel Names for the Next Gen Vloggers and Film Makers (Keep It Under or at 156 Characters)</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/2024-approved-mastering-multiplatform-meeting-logistics-on-zoom/"><u>2024 Approved Mastering Multiplatform Meeting Logistics on Zoom</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/craft-crisp-composites-online-with-top-frameer-tools/"><u>Craft Crisp Composites Online with Top Frameer Tools</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/htful-no-cost-access-to-youtubes-nine-full-length-yule-celebrations-for-2024/"><u>Delightful, No-Cost Access to YouTube's Nine Full-Length Yule Celebrations for 2024</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/five-essential-insights-into-why-companies-limit-employee-access-to-chatgpt/"><u>Five Essential Insights Into Why Companies Limit Employee Access to ChatGPT</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/in-2024-a-comprehensive-look-at-youtuber-snippets/"><u>In 2024, A Comprehensive Look at Youtuber Snippets</u></a></li>
-<li><a href="https://apple-account.techidaily.com/in-2024-how-to-change-credit-card-on-your-apple-iphone-11-pro-max-apple-id-and-apple-pay-by-drfone-ios/"><u>In 2024, How to Change Credit Card on Your Apple iPhone 11 Pro Max Apple ID and Apple Pay</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/mpeg-4mp4m2ts/"><u>MPEG-4(MP4)形式からM2TSに正確に変換するための専門ガイド</u></a></li>
-<li><a href="https://techtrends.techidaily.com/overcoming-mfc42ddll-file-missing-bugs-with-these-proven-steps/"><u>Overcoming 'mfc42d.dll File Missing' Bugs with These Proven Steps</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/pcobsmp4/"><u>PC画面の動画撮影：OBSスタジオとMP4について学ぶ</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/perfect-methods-for-dvd-ripping-mastering-were-the-millers/"><u>Perfect Methods for DVD Ripping: Mastering 'We're The Millers'</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/seamless-viewing-of-flv-videos-on-iphone-and-ipad-a-comprehensive-guide/"><u>Seamless Viewing of FLV Videos on iPhone and iPad - A Comprehensive Guide</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/simple-guide-to-downloading-setting-up-and-keeping-your-vlc-media-players-codecs-current/"><u>Simple Guide to Downloading, Setting Up & Keeping Your VLC Media Player's Codecs Current</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/simplify-the-process-of-transforming-youtube-content-into-lossless-flac-audio/"><u>Simplify the Process of Transforming YouTube Content Into Lossless FLAC Audio</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/solving-dvd-crc-errors-a-step-by-step-guide/"><u>Solving DVD CRC Errors: A Step-by-Step Guide</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/step-by-step-guide-converting-m4v-files-to-mov-format-in-windows/"><u>Step-by-Step Guide: Converting M4V Files to MOV Format in Windows</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/step-by-step-guide-exporting-your-video-as-a-mov-file-from-adobe-premiere-pro/"><u>Step-by-Step Guide: Exporting Your Video as a MOV File From Adobe Premiere Pro</u></a></li>
+<li><a href="https://windows11.techidaily.com/addressing-windows-11-get-support-disruption/"><u>Addressing Windows 11 'Get Support' Disruption</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/beyond-the-basics-enhancing-your-skills-in-board-games-and-art-with-chatgpts-my-gpt-bot-tools/"><u>Beyond the Basics: Enhancing Your Skills in Board Games & Art with ChatGPT's My GPT Bot Tools</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/beyond-the-original-are-there-modern-replacements-for-the-turing-test/"><u>Beyond the Original: Are There Modern Replacements for the Turing Test?</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/big-names-bold-forecasts-what-ai-experts-expect/"><u>Big Names, Bold Forecasts: What AI Experts Expect</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/breaking-down-the-invisible-ai-black-box-functioning/"><u>Breaking Down the Invisible: AI Black Box Functioning</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/chatgpt-makeover-building-with-your-own-insights/"><u>ChatGPT Makeover: Building with Your Own Insights</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/comparing-top-generative-ai-contenders-which-is-superior-chatgpt-or-notion-ai/"><u>Comparing Top Generative AI Contenders: Which Is Superior, ChatGPT or Notion AI?</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/create-custom-chat-experiences/"><u>Create Custom Chat Experiences</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/future-forward-a-look-at-the-leading-3-tech-trends-shaping-tomorrow/"><u>Future Forward: A Look at the Leading 3 Tech Trends Shaping Tomorrow</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-upgrade-or-downgrade-iphone-14-plus-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Upgrade or Downgrade iPhone 14 Plus? | Dr.fone</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-easily-unlock-your-oneplus-12-device-sim-by-drfone-android/"><u>In 2024, Easily Unlock Your OnePlus 12 Device SIM</u></a></li>
+<li><a href="https://fox-info.techidaily.com/in-2024-leading-12-free-video-trimming-apps-for-android-users/"><u>In 2024, Leading 12 Free Video Trimming Apps for Android Users</u></a></li>
+<li><a href="https://review-topics.techidaily.com/insert-signature-in-docx-file-by-ldigisigner-sign-a-word-sign-a-word/"><u>Insert signature in .docx file</u></a></li>
+<li><a href="https://techidaily.com/undelete-lost-contacts-from-infinix-zero-30-5g-by-fonelab-android-recover-contacts/"><u>Undelete lost contacts from Infinix Zero 30 5G.</u></a></li>
+<li><a href="https://windows11.techidaily.com/unraveling-the-printer-dilemma-windows-error-xffffff/"><u>Unraveling the Printer Dilemma: Windows Error XFFFFFF</u></a></li>
 </ul></div>
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 

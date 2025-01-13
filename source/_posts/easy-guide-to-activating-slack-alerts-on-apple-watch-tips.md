@@ -1,7 +1,7 @@
 ---
 title: Easy Guide to Activating Slack Alerts on Apple Watch - Tips
-date: 2025-01-01T22:37:46.463Z
-updated: 2025-01-07T01:34:29.293Z
+date: 2025-01-11T16:51:49.421Z
+updated: 2025-01-13T17:03:10.882Z
 tags:
   - apple
 categories:
@@ -45,16 +45,12 @@ Here's how.
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nWu29cqFjZA?si=TNZyCbPq68PQ0JIb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oB9V7rZzotw?si=d4xrCbq1jKHXGAWN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to enable Slack notifications on your Apple Watch
 
 **What you'll need:** Have the latest versions of iOS and watchOS installed on your iPhone and Apple Watch, respectively. 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 1\. Install the Slack app on your iPhone
 
@@ -62,9 +58,17 @@ There is no dedicated Slack app for the Apple Watch, but there is an iPhone app.
 
 Once it's installed, go ahead and log into your various Slack channels. Get those setup and working as you like before configuring the app for notifications.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0nGlyEL5K6Y?si=3KZhTTBvKcPmyS68" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 2\. Set up Slack notifications in the system settings
 
 Let's make sure iOS is set up to allow Slack notifications. Go to the main Settings app and on the main settings screen, scroll all the way down to Slack. It's a long scroll past many other apps. Tap into Slack.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##   
 
@@ -79,10 +83,6 @@ Screenshot by David Gewirtz/ZDNET
 ## 3\. Set up Slack notifications in the Slack app
 
 Next, open the Slack app. Tap your profile image in the upper right corner of the screen. Then tap Notifications.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jpdGEJJwMLY?si=eKgXOPpNeYvYKcel" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##   
 
@@ -127,7 +127,7 @@ Recommendation to Slack: Where you put the "Every day" option in that setting, a
 We're almost done configuring notifications. Open the Watch app and scroll down to Notifications. Then scroll down to Slack and make sure it's turned on.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RvR5PNhspKE?si=uJcMYK9v-_Xq7fAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##   
@@ -137,7 +137,7 @@ Screenshot by David Gewirtz/ZDNET
 There. You've set up notifications. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  6\. Use the Watch to get Slack notifications
@@ -179,22 +179,19 @@ _You can follow my day-to-day project updates on social media. Be sure to subscr
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-access.techidaily.com/new-gear-selection-guide-for-global-filmmakers/"><u>[New] Gear Selection Guide for Global Filmmakers</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/1716069133296-new-in-2024-essential-game-picks-ghost-of-tsushima-rival-edition/"><u>[New] In 2024, Essential Game Picks Ghost of Tsushima Rival Edition!</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/updated-2024-approved-essence-of-tale-spinning-techniques/"><u>[Updated] 2024 Approved Essence of Tale-Spinning Techniques</u></a></li>
-<li><a href="https://fox-links.techidaily.com/updated-in-2024-discover-top-10-cost-free-image-format-change-software/"><u>[Updated] In 2024, Discover Top 10 Cost-Free Image Format Change Software</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/2024-approved-essential-skills-for-exceptional-job-interviews/"><u>2024 Approved Essential Skills For Exceptional Job Interviews</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/easy-tutorial-on-transforming-your-videos-for-playback-on-apples-mobile-gadgets-ipadiphoneipod/"><u>Easy Tutorial on Transforming Your Videos for Playback on Apple's Mobile Gadgets (iPad/iPhone/iPod)</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/effortless-bulk-conversion-techniques-for-changing-3gp-videos-into-wmv-on-a-windows-pc/"><u>Effortless Bulk Conversion Techniques for Changing 3GP Videos Into WMV on a Windows PC</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/effortless-guide-transforming-movies-from-mov-to-avi-format-seamlessly/"><u>Effortless Guide: Transforming Movies From MOV to AVI Format Seamlessly</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/effortless-mp4-to-m4a-conversion-discover-three-easy-techniques/"><u>Effortless MP4 to M4A Conversion: Discover Three Easy Techniques</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/effortless-transformation-of-mov-videos-into-mp4-on-any-platform-pcmacweb/"><u>Effortless Transformation of MOV Videos Into MP4 on Any Platform (PC/Mac/Web)</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/effortlessly-correct-silent-avi-files-a-step-by-step-guide-for-restoring-sound/"><u>Effortlessly Correct Silent AVI Files: A Step-by-Step Guide for Restoring Sound</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/excel/"><u>Excel表示範囲の記録方法：操作手順ビデオガイド</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/fixing-the-silent-streets-solving-cyberpunk-2077s-audio-issues-in-windows-10/"><u>Fixing the Silent Streets: Solving Cyberpunk 2077'S Audio Issues in Windows 10</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/flacmkv/"><u>FLAC形式でMKV動画からオーディオ抽出手順</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/in-2024-share-sensation-strategies-your-path-to-online-fame/"><u>In 2024, Share Sensation Strategies Your Path to Online Fame</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/210707597-9780875169347-living-enlightened/"><u>Living Enlightened | Free Book</u></a></li>
-<li><a href="https://fake-location.techidaily.com/thinking-about-changing-your-netflix-region-without-a-vpn-on-oppo-a79-5g-drfone-by-drfone-virtual-android/"><u>Thinking About Changing Your Netflix Region Without a VPN On Oppo A79 5G? | Dr.fone</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-streaming-iphone-7-display-like-a-pro/"><u>[New] Streaming iPhone 7 Display Like a Pro</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/our-makeup-maestro-journey-establishing-a-channel-for-beauty-buffs-for-2024/"><u>[New] Your Makeup Maestro Journey Establishing a Channel for Beauty Buffs for 2024</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-effortlessly-stream-mp3-to-youtube-with-3-key-steps/"><u>[Updated] Effortlessly Stream MP3 to YouTube with 3 Key Steps</u></a></li>
+<li><a href="https://article-tips.techidaily.com/acclaimed-mobile-apps-for-gopro-footage-perfection-for-2024/"><u>Acclaimed Mobile Apps for GoPro Footage Perfection for 2024</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/forgotten-the-voicemail-password-of-gionee-try-these-fixes-by-drfone-android/"><u>Forgotten The Voicemail Password Of Gionee? Try These Fixes</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-music-from-samsung-galaxy-a34-5g-to-ipod-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Music from Samsung Galaxy A34 5G to iPod | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-top-5-from-nokia-c12-pro-to-iphone-contacts-transfer-apps-and-software-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Top 5 from Nokia C12 Pro to iPhone Contacts Transfer Apps and Software | Dr.fone</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/lower-volume-level-by-level-with-fl-for-2024/"><u>Lower Volume Level by Level with FL for 2024</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/maximizing-creativity-with-chatgpt-tips-for-enhancing-content-and-artistic-endeavors/"><u>Maximizing Creativity with ChatGPT: Tips for Enhancing Content & Artistic Endeavors</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/maximizing-productivity-6-chatgpt-strategies-for-remote-professionals/"><u>Maximizing Productivity: 6 ChatGPT Strategies for Remote Professionals</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/maximizing-productivity-top-3-techniques-with-chatgpt-and-the-wolfram-add-on/"><u>Maximizing Productivity: Top 3 Techniques with ChatGPT and the Wolfram Add-On</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/my-podcast-blueprint-powered-by-ai/"><u>My Podcast Blueprint, Powered by AI</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/navigating-chatai-for-auto-tailoring-techniques/"><u>Navigating ChatAI for Auto Tailoring Techniques</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/navigating-through-grok-ai-by-elon-musk-what-it-is-how-it-works-and-estimated-price-range/"><u>Navigating Through Grok AI by Elon Musk – What It Is, How It Works, and Estimated Price Range</u></a></li>
 </ul></div>
 

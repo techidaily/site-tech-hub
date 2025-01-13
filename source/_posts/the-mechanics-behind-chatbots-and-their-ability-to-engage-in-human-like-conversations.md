@@ -1,7 +1,7 @@
 ---
 title: The Mechanics Behind Chatbots and Their Ability to Engage in Human-Like Conversations
-date: 2024-08-20T11:10:25.666Z
-updated: 2024-08-21T11:10:25.666Z
+date: 2025-01-12T16:27:59.986Z
+updated: 2025-01-13T16:40:54.908Z
 tags:
   - chatgpt
   - open-ai
@@ -35,6 +35,10 @@ We'll be using Claude 1.3 and Claude 2 in this comparison.
 
  ChatGPT's two most recent versions, GPT-3.5 and GPT-4, can be used, though the latter is only available via ChatGPT Plus. GPT-4 has far more parameters than GPT-3.5 and a higher character input and output limit. Again, both iterations of ChatGPT will be discussed here.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## ChatGPT vs. Claude: a Quick Comparison
 
  Before discussing ChatGPT and Claude's pros and cons in depth, we've provided a simple comparison table that you can use to understand the basics.
@@ -52,8 +56,9 @@ We'll be using Claude 1.3 and Claude 2 in this comparison.
 As you can see, there are several differences to consider.
 
 <!-- affiliate ads begin -->
-<a href="https://turtlebeacheu.sjv.io/c/5597632/1996818/23722" target="_top" id="1996818"><img src="//a.impactradius-go.com/display-ad/23722-1996818" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1996818/23722" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_dOmuXhsV6Y?si=aT6vgPbDx4ajjvdr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## ChatGPT's Pros and Cons
 
  In what ways does ChatGPT outshine Claude? What perks and advantages does it boast?
@@ -93,11 +98,16 @@ Additionally, ChatGPT has a wide range of browser plugins, including:
  Lastly, ChatGPT does not support use via a VPN, which can be tricky if you're a regular VPN user or want to get around your region's geo-restrictions.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940312&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aG3NRuHrIJg?si=HwzwD0RXmrzIXX1V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Claude's Pros and Cons
 
 So, how does Claude compare to ChatGPT?
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Claude's Pros
 
@@ -115,6 +125,10 @@ So, how does Claude compare to ChatGPT?
 
  Lastly, Claude 2 is entirely free to use, with no one-off fees or monthly subscriptions required for use.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Claude's Cons
 
  Claude's biggest limitation is geographical availability. At the time of writing, Claude is only available to US and UK residents, while ChatGPT is available in most countries worldwide.
@@ -123,16 +137,10 @@ So, how does Claude compare to ChatGPT?
 
  Like ChatGPT, Claude is also at risk of hallucinating, which is important to remember.
 
-<!-- affiliate ads begin -->
-<a href="https://lightailing.sjv.io/c/5597632/1725213/17190" target="_top" id="1725213"><img src="//a.impactradius-go.com/display-ad/17190-1725213" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1725213/17190" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## ChatGPT vs. Claude: a Direct Comparison
 
  To further understand how these two AI chatbots and their respective LLMs work, let's provide each with the same prompts to see how they react.
 
-<!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1892107/21290" target="_top" id="1892107"><img src="//a.impactradius-go.com/display-ad/21290-1892107" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892107/21290" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### 1\. Creative Abilities
 
  First, we asked both Claude and ChatGPT to provide us with a poem using the same prompt each time.
@@ -142,8 +150,9 @@ So, how does Claude compare to ChatGPT?
 ![screenshot of chatgpt poem prompt response](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/chatgpt-poem-prompt.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=19080710&QTY=1&AFFILIATE=108875&CART=1"><img src="https://smart-seo-tool.com/images/SmartSEOAuditorBox.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  ChatGPT's poem was a little shorter, highlighting that it followed the requested ABAB rhyming structure.
 
 ![claude poem prompt chat screenshot](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/claude-poem-prompt.jpg)
@@ -158,9 +167,6 @@ So, how does Claude compare to ChatGPT?
 
 ![screenshot of chatgpt trigonometry prompt response](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/chatgpt-trig-1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4631722&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2023/05/frontpage2-2048x588.webp" border="0">EmEditor Professional (Lifetime License, non-store app)</a>
-<!-- affiliate ads end -->
 When given the same problem, Claude gave us the following response:
 
 ![screenshot of claude response to trigonometry prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/claude-trig-1.jpg)
@@ -183,21 +189,15 @@ Claude's interpretation read...
 
  Compared to the original text, Claude did a slightly better job translating from Japanese to English.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37540879&QTY=1&AFFILIATE=108875&CART=1"><img src="https://paperscan.orpalis.com/img/content/You_prefer_to_use.png" border="0">PaperScan Professional： PaperScan Scanner Software is a powerful TWAIN & WIA scanning application centered on one idea: making document acquisition an unparalleled easy task for anyone.</a>
-<!-- affiliate ads end -->
 ## ChatGPT and Claude May Become Close Rivals
 
  While ChatGPT is almost a household name nowadays, competitors like Claude have a lot of potential to knock it from its number-one spot. Who knows, Claude could one day become ChatGPT's biggest competitor!
-
 
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -206,4 +206,24 @@ Claude's interpretation read...
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-videos.techidaily.com/new-a-step-by-step-guide-to-becoming-a-vtuber/"><u>[New] A Step-by-Step Guide to Becoming a Vtuber?</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/new-the-art-of-iphone-photography-shadow-techniques/"><u>[New] The Art of iPhone Photography Shadow Techniques</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-understanding-panoramic-cinema-captures/"><u>[New] Understanding Panoramic Cinema Captures</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/androids-roadmap-to-supremacy-key-areas-of-enhancement-against-ios-identified/"><u>Android's Roadmap to Supremacy: Key Areas of Enhancement Against iOS Identified</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/apple-challenges-gpt-4-with-realm-the-on-device-ai-that-outperforms-rivals-featured/"><u>Apple Challenges GPT-4 with ReaLM: The On-Device AI That Outperforms Rivals, Featured</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/apples-most-outstanding-app-store-releases-featured-on-zdnet/"><u>Apple's Most Outstanding App Store Releases - Featured on ZDNet</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/choosing-the-right-apple-tablet-ipad-pro-vs-ipad-air-a-comprehensive-guide-techadvisor/"><u>Choosing the Right Apple Tablet: IPad Pro Vs. IPad Air - A Comprehensive Guide | TechAdvisor</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/ensuring-legal-compliance-in-skype-recordings-via-obs/"><u>Ensuring Legal Compliance in Skype Recordings via OBS</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/expert-advice-on-resolving-nier-replicant-remaster-not-starting-issue/"><u>Expert Advice on Resolving NieR Replicant Remaster Not Starting Issue</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-use-phone-clone-to-migrate-your-honor-magic-v2-data-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Use Phone Clone to Migrate Your Honor Magic V2 Data? | Dr.fone</u></a></li>
+<li><a href="https://fox-zaraz.techidaily.com/restoring-your-gpu-explore-effective-strategies-with-yl-computing-and-yl-software-solutions/"><u>Restoring Your GPU: Explore Effective Strategies with YL Computing and YL Software Solutions</u></a></li>
+<li><a href="https://techtrends.techidaily.com/the-best-seven-smartphone-alarm-app-selections-unveiled/"><u>The Best Seven Smartphone Alarm App Selections Unveiled</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/transform-your-iphone-into-a-pro-videographers-tool-with-apples-new-final-cut-feature/"><u>Transform Your iPhone Into a Pro Videographer's Tool with Apple's New Final Cut Feature</u></a></li>
+<li><a href="https://win-blog.techidaily.com/troubleshooting-guide-to-prevent-new-world-game-from-keep-stopping-or-crashing-on-pcs/"><u>Troubleshooting Guide to Prevent New World Game From Keep Stopping or Crashing on PCs</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/ultimate-ranking-of-compact-tablets-for-2hren-professional-inspection-and-analysis/"><u>Ultimate Ranking of Compact Tablets for 2Hren: Professional Inspection and Analysis</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/unveiling-the-power-of-iphone-ebox-pros-mixer-mode-for-professional-audio-quality-expert-review-by-zdnet/"><u>Unveiling the Power of iPhone Ebox Pro's Mixer Mode for Professional Audio Quality | Expert Review by ZDNet</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/unveiling-the-upgrades-discover-what-sets-apples-latest-airpods-4-apart-from-previous-generations/"><u>Unveiling the Upgrades: Discover What Sets Apple's Latest AirPods 4 Apart From Previous Generations</u></a></li>
+</ul></div>
 

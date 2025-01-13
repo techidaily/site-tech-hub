@@ -1,7 +1,7 @@
 ---
 title: "Shared Experiences: The Unspoken Challenges of Moving to iOS 18 on iPhones | ZDNET Insights"
-date: 2024-12-30T22:15:30.457Z
-updated: 2025-01-07T04:07:52.617Z
+date: 2025-01-07T16:57:32.448Z
+updated: 2025-01-13T16:10:35.346Z
 tags:
   - apple
 categories:
@@ -60,7 +60,7 @@ Aside from the inferior Photos app navigation, videos in the Photos app no longe
 "The UX is a huge downgrade. It's so bad that I had to submit feedback to Apple via the feedback app in the beta. Never did one of those when it wasn't a technical bug, just pure user experience frustration," another [Redditor said](https://www.reddit.com/r/apple/comments/1e2jtq5/comment/ld1wsjg/?utm%5Fsource=share&utm%5Fmedium=web3x&utm%5Fname=web3xcss&utm%5Fterm=1&utm%5Fcontent=share%5Fbutton).
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to navigate the iOS 18 Photos app
@@ -109,19 +109,21 @@ I hope a future version of iOS 18 will bring back the Camera Roll or at least to
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-cloud.techidaily.com/new-freeze-frame-like-a-pro-easy-steps-to-amazing-slow-mo-videos-on-android/"><u>[New] Freeze Frame Like a Pro Easy Steps to Amazing Slow Mo Videos on Android</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-essential-methods-for-saving-discord-livestreams-on-video/"><u>[Updated] Essential Methods for Saving Discord Livestreams on Video</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/ed-in-2024-frame-by-frame-mastery-in-youtube-no-cost-required/"><u>[Updated] In 2024, Frame by Frame Mastery in YouTube - No Cost Required</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-perfectly-crafted-windows-simulators-for-ps3-games-for-2024/"><u>[Updated] Perfectly Crafted Windows Simulators for PS3 Games for 2024</u></a></li>
-<li><a href="https://win-able.techidaily.com/boost-your-gaming-experience-fixing-frame-rate-drops-and-stuttering-in-avatars-frontiers-of-pandora/"><u>Boost Your Gaming Experience: Fixing Frame Rate Drops & Stuttering in Avatar's Frontiers of Pandora</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/crafting-stunning-visuals-integrating-dall-e-and-chatgpt-4-for-advanced-imagery/"><u>Crafting Stunning Visuals: Integrating DALL-E and ChatGPT-4 for Advanced Imagery</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/decoding-the-contrast-how-does-nlp-differ-from-machine-learning/"><u>Decoding the Contrast: How Does NLP Differ From Machine Learning?</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/effective-strategies-for-implementing-chatgpt-in-cbt-practices/"><u>Effective Strategies for Implementing ChatGPT in CBT Practices</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/in-2024-simplify-your-workflow-incorporating-luts-into-pscc-projects/"><u>In 2024, Simplify Your Workflow Incorporating LUTs Into PSCC Projects</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/mastering-gpt-3-enabling-web-browser-and-plugin-beta/"><u>Mastering GPT-3: Enabling Web Browser & Plugin Beta</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/navigating-senior-mobility-top-cell-plan-picks/"><u>Navigating Senior Mobility - Top Cell Plan Picks</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/revolutionize-your-daily-routine-using-chatgpt/"><u>Revolutionize Your Daily Routine Using ChatGPT</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/top-enhancements-streamlining-the-chatgpt-plugin-directory/"><u>Top Enhancements: Streamlining the ChatGPT Plugin Directory</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/unleash-your-creativity-using-microsofts-copilot-image-generator-a-step-by-journey/"><u>Unleash Your Creativity Using Microsoft's Copilot Image Generator - A Step-by-Journey</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-screen-grab-king-macos-recorder-free/"><u>[New] Screen Grab King MacOS Recorder, Free</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-2024-approved-hearing-beginnings-mastering-volume-control-in-adobe-audition/"><u>[Updated] 2024 Approved Hearing Beginnings Mastering Volume Control in Adobe Audition</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-the-ultimate-plan-for-building-your-ideal-youtube-playlist/"><u>2024 Approved The Ultimate Plan for Building Your Ideal YouTube Playlist</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/5-critical-concerns-why-blind-faith-in-ai-could-be-risky/"><u>5 Critical Concerns: Why Blind Faith in AI Could Be Risky</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/5-diy-ways-to-engage-with-advanced-chatbots/"><u>5 DIY Ways to Engage with Advanced Chatbots</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/accessible-chatgpt-interaction-distribution-techniques/"><u>Accessible ChatGPT Interaction: Distribution Techniques</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/ai-creative-showdown-ranking-three-advanced-chatbots-against-a-common-task/"><u>AI Creative Showdown: Ranking Three Advanced Chatbots Against a Common Task</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/basic-equipment-for-travel-video-creators/"><u>Basic Equipment for Travel Video Creators</u></a></li>
+<li><a href="https://facebook.techidaily.com/navigating-through-total-digital-detox-delete-facebook/"><u>Navigating Through Total Digital Detox: Delete Facebook</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/toms-tech-hub-dive-into-the-latest-computer-components/"><u>Tom's Tech Hub: Dive Into the Latest Computer Components</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/1722027061255-twitters-cleared-of-smileys-linuss-uncovering-trojans-breakdown-and-ai-gpt-issues-displayed/"><u>Twitters Cleared of Smileys, Linus's Uncovering, Trojans Breakdown, & AI GPT Issues Displayed.</u></a></li>
+<li><a href="https://blog-min.techidaily.com/unique-reink-case-c1-color-e-ink-cellphone-sleeve-customize-your-device-with-style/"><u>Unique Reink Case C1 Color E-Ink Cellphone Sleeve - Customize Your Device with Style!</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/unlocking-excel-secrets-features-only-humans-can-utilize-not-chatgpt/"><u>Unlocking Excel Secrets: Features Only Humans Can Utilize (Not ChatGPT)</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/unlocking-potential-8-strategic-ways-to-utilize-chatgpt-vision/"><u>Unlocking Potential: 8 Strategic Ways to Utilize ChatGPT Vision</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/unveiling-powerpoints-voice-command-capabilities-step-by-step-for-2024/"><u>Unveiling PowerPoint's Voice Command Capabilities Step by Step for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/movaviavimpeg/"><u>マルチメディアファイルのためMovaviで無料でAVIからMPEGへ簡単変換</u></a></li>
 </ul></div>
 

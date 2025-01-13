@@ -1,7 +1,7 @@
 ---
 title: "In Parallel Circuits, the Total Capacitance Is the Sum of Individual Capacitances: C_total = C1 + C2 + ... + Cn."
-date: 2025-01-01T21:23:29.274Z
-updated: 2025-01-06T16:55:49.639Z
+date: 2025-01-09T16:15:18.192Z
+updated: 2025-01-13T16:00:41.019Z
 tags:
   - apple
 categories:
@@ -39,7 +39,7 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Apple Intelligence (AI)
@@ -64,6 +64,10 @@ Maria Diaz/ZDNET
 * In the Notes app, users can **record and transcribe audio**, which Apple Intelligence will generate a text summary of. This experience is also available in the Notes phone app.
 * Apple Intelligence is free on iOS 18, iPadOS 18, and MacOS Sequoia, and will be available to try in English only this summer.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kZVDkvMZvP4?si=xAugrCf-Ud6EMMpm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Partnership with OpenAI
 
 Jason Hiner/ZDNET
@@ -71,10 +75,6 @@ Jason Hiner/ZDNET
 * Apple also confirmed its partnership with OpenAI by integrating [ChatGPT](https://www.zdnet.com/article/what-is-chatgpt-and-why-does-it-matter-heres-everything-you-need-to-know/) with Siri. With a user's permission, Siri can send a request to ChatGPT for help. For example, if you ask Siri for assistance on a task it deems better for ChatGPT, Siri will suggest you use the chatbot instead and forward your request. ChatGPT's writing capabilities can also be leveraged within certain writing tasks.
 * Users can access ChatGPT via this integration for free, and OpenAI will not log their data. ChatGPT Plus users can connect their subscriptions to access more advanced features, in which case OpenAI's data usage policies apply.
 * The ChatGPT integration will be coming to iOS 18, iPadOS 18, and MacOS Sequoia later this year.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## iOS 18
 
@@ -109,7 +109,7 @@ Adam Breeden/ZDNET
 * Another notable change is that the **double tap gesture** can be used to scroll through apps.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qbuund2HKOQ?si=NaGHqIrx8hSL7gWV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## iPadOS 18
@@ -123,7 +123,7 @@ Adam Breeden/ZDNET
 * iPadOS 18 supports **screen-sharing via SharePlay** and the same Control Center customizations, Photos app upgrades, Safari updates, and emoji Tapbacks found in **iOS 18.**
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## MacOS 15 (Sequoia)
@@ -154,6 +154,10 @@ Jason Hiner/ZDNET
 * Users can **cast content** from their iPhone, iPad, or Mac to the Vision Pro using AirPlay.
 * Apple is also making the Vision Pro available in more countries starting June 28\. You can see the full list [here](https://www.apple.com/newsroom/2024/06/apple-vision-pro-arrives-in-new-countries-and-regions-beginning-june-28/).
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## AirPods
 
 Jason Hiner/ZDNET
@@ -161,10 +165,6 @@ Jason Hiner/ZDNET
 * AirPods Pro are getting **Voice Isolation** to enhance call quality in noisier environments.
 * With the new **Siri Interactions**, users can now **nod or shake their head** "yes" or "no" when responding to Siri.
 * Apple is also releasing a **Personalized Spatial Audio API** for game developers to build around the AirPods' audio technology.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## tvOS 18
 
@@ -210,22 +210,18 @@ Screenshot by Nina Raemont/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-access.techidaily.com/new-high-speed-media-manipulation-a-practical-approach/"><u>[New] High-Speed Media Manipulation A Practical Approach</u></a></li>
-<li><a href="https://article-helps.techidaily.com/new-how-to-mix-melodies-and-text-powerpoints-unleashed-for-2024/"><u>[New] How to Mix Melodies & Text PowerPoints Unleashed for 2024</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/2024-dat9/"><u>「2024年必見! お得なDATファイルコンバータ9選、すべてのユーザーに最適」</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/1726029688723-youtube/"><u>「車内で音楽再生が難しい時の解決策：YouTubeリンク共有方法」</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/1726028680247-mp4/"><u>「最強無料MP4フォーマッター:アヴィ変換の追いかける方法」</u></a></li>
-<li><a href="https://change-location.techidaily.com/3-ways-for-android-pokemon-go-spoofing-on-vivo-s18e-drfone-by-drfone-virtual-android/"><u>3 Ways for Android Pokemon Go Spoofing On Vivo S18e | Dr.fone</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/202n4windows5/"><u>最新の202n4技術で、Windows上で効果的に音声をキャプチャする方法トップ5</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/1722886049547-accidentally-sent-heres-how-you-can-retrieve-your-emails-in-outlook/"><u>Accidentally Sent? Here's How You Can Retrieve Your Emails in Outlook!</u></a></li>
-<li><a href="https://win-answers.techidaily.com/convert-vts-videos-into-mp4-format-using-the-vts-video-converter-a-comprehensive-guide/"><u>Convert VTS Videos Into MP4 Format Using the VTS Video Converter - A Comprehensive Guide</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/1726030415371-gifpc/"><u>GIFアニメをトリミングするPC方法：長さ制御とスクリーンフィット</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/how-to-activate-chatgpts-latest-beta-features-including-browser-integration-and-plugins/"><u>How To Activate ChatGPT’s Latest Beta Features Including Browser Integration and Plugins</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/how-to-speed-up-vimeo-videos-for-2024/"><u>How to Speed Up Vimeo Videos for 2024</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/1726030484402-line/"><u>LINEで簡単に無制限通話録音 - 全力サポート</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/managing-your-internet-bandwidth-on-windows-11-key-strategies-for-monitoring-data-use/"><u>Managing Your Internet Bandwidth on Windows 11: Key Strategies for Monitoring Data Use</u></a></li>
-<li><a href="https://games-able.techidaily.com/mastering-your-gaming-lifestyle-smart-subscriptions-for-x-boosted-players/"><u>Mastering Your Gaming Lifestyle: Smart Subscriptions for X Boosted Players</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/1726028822139-windowspc/"><u>WindowsPCで音楽を保存するためのダウンロード・レコーディング技術</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/1726029140615-youtubevimeo/"><u>YouTubeやVimeoなど、映像ファイルに他のビデオを組み込む方法</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/est-camera-for-videos-mirrorless-vs-dslr-showdown/"><u>[New] Best Camera for Videos Mirrorless Vs. DSLR Showdown</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/2024-approved-seamless-methodology-for-going-live-with-podcasts/"><u>2024 Approved Seamless Methodology for Going Live with Podcasts</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/exploring-originality-is-chatgpt-prone-to-copying-content/"><u>Exploring Originality: Is ChatGPT Prone to Copying Content?</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/exploring-the-opportunities-of-openais-bug-bounty-a-comprehensive-guide/"><u>Exploring the Opportunities of OpenAI's Bug Bounty: A Comprehensive Guide</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/faceoff-llama-3-and-gpt-4-determining-the-superior-model/"><u>Faceoff: Llama 3 and GPT- 4 – Determining the Superior Model</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/harnessing-chatgpts-power-to-solve-common-pc-problems-quickly/"><u>Harnessing ChatGPT's Power to Solve Common PC Problems Quickly</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/how-to-bypass-frp-from-itel-s23-by-drfone-android/"><u>How to Bypass FRP from Itel S23?</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/identifying-the-top-5-chatgpt-schemes-for-a-secure-ai-experience/"><u>Identifying the Top 5 ChatGPT Schemes for a Secure AI Experience</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/improve-wellness-with-ai-the-7-advantages-of-using-chatgpt-for-health-advice/"><u>Improve Wellness with AI: The 7 Advantages of Using ChatGPT for Health Advice</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-full-guide-to-bypass-vivo-y55s-5g-2023-frp-by-drfone-android/"><u>In 2024, Full Guide to Bypass Vivo Y55s 5G (2023) FRP</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-step-into-leadership-role-comprehensive-guide-and-review-of-powerdirector/"><u>In 2024, Step Into Leadership Role - Comprehensive Guide & Review of PowerDirector</u></a></li>
+<li><a href="https://windows11.techidaily.com/pinpoint-customization-techniques-for-windows-11-search/"><u>Pinpoint Customization Techniques for Windows 11 Search</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/prime-win-os-artistic-solutions-beyond-procreate/"><u>Prime Win OS Artistic Solutions Beyond Procreate</u></a></li>
 </ul></div>
 

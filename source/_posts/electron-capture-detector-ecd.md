@@ -1,7 +1,7 @@
 ---
 title: "Electron Capture Detector (ECD):"
-date: 2024-12-31T21:54:28.249Z
-updated: 2025-01-07T00:06:32.162Z
+date: 2025-01-12T16:34:07.500Z
+updated: 2025-01-13T16:21:58.467Z
 tags:
   - apple
 categories:
@@ -20,6 +20,10 @@ Whether you're trying to demonstrate a bug to a tech support rep or you're demon
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to screen record on any iPhone
 
 * **Materials needed:** Any iPhone running iOS 14.0 or later
@@ -28,10 +32,6 @@ Whether you're trying to demonstrate a bug to a tech support rep or you're demon
 You'll find the necessary setting in the Control Center section of your Settings app
 
 Michael Gariffo
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 1\. Open your Settings app and find "Control Center"
 
@@ -51,10 +51,6 @@ This is the screen recording button we'll use to start the recording.
 
 Michael Gariffo
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bofw6eJA7Bg?si=HM2gKZGH4L1otw3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 3\. Open your Control Center
 
 Next, you'll want to open Control Center. This can be done from your home screen, or from within the vast majority of iPhone apps. For iPhones without a physical Home Button, you can access it by swiping down from the top-right corner of the display. 
@@ -64,10 +60,6 @@ For iPhones with a physical Home Button, you can access it by swiping up from th
 While recording, your Screen Recording button will look like this (minus the red circle we added)
 
 Michael Gariffo
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 4\. Begin screen recording
 
@@ -80,7 +72,7 @@ Your clock will look like this as long as Screen Recording is active.
 Michael Gariffo
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vPGg53vbOsk?si=CkSEN5HFPS7vDuAa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Step 5: Record
@@ -91,10 +83,6 @@ This is the confirmation box that will appear when you stop your recording.
 
 Michael Gariffo
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5FWCFI3f_cs?si=Kt2Onr_E4c616tbH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 5\. End your recording
 
 When you're ready to end your recording, there are two ways to stop it. The first is to tap the red clock in the top left of your screen. This will produce a dialogue box like the one seen above. You'll need to tap "Stop" to end your recording. If you're in a full-screen app that hides the clock, you can also once again pull out your Control Center and tap the Screen Recording button. If you use this second method, the recording will end immediately, with no confirmation required. 
@@ -103,7 +91,15 @@ In both cases, the recording you just produced will immediately be saved to your
 
 **Also:** [How to record a call on your iPhone](https://www.zdnet.com/article/how-to-record-a-phone-call-on-your-iphone/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## FAQs
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## What does the Screen Recording app actually capture?
 
@@ -116,6 +112,10 @@ Unfortunately, the built-in iPhone tool for recording your screen doesn't suppor
 * [Techsmith Capture](https://apps.apple.com/us/app/techsmith-capture/id1266321056) \- A straightforward screen recorder app that works almost identically to the built-in process, but supports adding real-time narration using the iPhone's built-in microphones.
 * [RecordIt!](https://apps.apple.com/us/app/record-it-screen-recorder/id1245356545) \- A slightly more complex option that also allows for real-time narration or post-capture editing. It also supports face cam captures, so you can record your screen and yourself at the same time.
 * [Screen Recorder +](https://apps.apple.com/us/app/screen-recorder/id1380506650) \- A similar option to RecordIt!, Screen Recorder + touts its ability to start up in just one second, for those spur-of-the-moment captures.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fHWdQw1gRyI?si=ve9wZnPupiooLThG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How can I share my captured video?
 
@@ -153,22 +153,20 @@ Be aware that some apps, particularly email and messaging apps that don't rely o
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-screen-grab.techidaily.com/new-epic-virtual-realms-finest-10-budget-friendly-mmorpgs/"><u>[New] Epic Virtual Realms Finest 10 Budget-Friendly MMORPGs</u></a></li>
-<li><a href="https://article-helps.techidaily.com/new-how-to-solve-windows-11-photos-app-crashes-effectively-for-2024/"><u>[New] How to Solve Windows 11 Photos App Crashes Effectively for 2024</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-2024-approved-groundbreaking-6-modern-mc-residentials/"><u>[Updated] 2024 Approved Groundbreaking 6 Modern MC Residentials</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-2024-approved-optimal-mac-screen-capturing-unveiling-the-top-5-strategies/"><u>[Updated] 2024 Approved Optimal Mac Screen Capturing Unveiling The Top 5 Strategies</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/updated-perfect-match-found-the-top-6-hdmi-21-monitors-reviewed/"><u>[Updated] Perfect Match Found The Top 6 HDMI 2.1 Monitors Reviewed</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/bridging-creativity-and-technology-ai-image-making-with-gpt/"><u>Bridging Creativity and Technology: AI Image Making with GPT</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/deciphering-why-openai-leads-the-charge-in-advocacy-for-stricter-ai-oversight/"><u>Deciphering Why OpenAI Leads the Charge in Advocacy for Stricter AI Oversight</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/differentiating-nlp-from-ml-basics/"><u>Differentiating NLP From ML Basics</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/inside-chatgpts-interpretive-powers-why-it-matters-in-ai-conversation-engines/"><u>Inside ChatGPT's Interpretive Powers - Why It Matters in AI Conversation Engines</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/leveraging-chatgpt-to-elevate-your-social-media-engagement/"><u>Leveraging ChatGPT to Elevate Your Social Media Engagement</u></a></li>
-<li><a href="https://fake-location.techidaily.com/methods-to-change-gps-location-on-vivo-y78t-drfone-by-drfone-virtual-android/"><u>Methods to Change GPS Location On Vivo Y78t | Dr.fone</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/overcoming-the-most-frequent-chatgpt-mishaps-a-guide-to-quick-fixes/"><u>Overcoming the Most Frequent ChatGPT Mishaps – A Guide to Quick Fixes</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/safe-practices-utilizing-chatgpt-effectively-in-mental-health-counseling/"><u>Safe Practices: Utilizing ChatGPT Effectively in Mental Health Counseling</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/1722960678438-successful-guide-installing-broadcoms-gige-network-driver-on-windows-10-problem-solved/"><u>Successful Guide: Installing Broadcom's GigE Network Driver on Windows 10 – Problem Solved</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/top-4-choosing-claude-3-over-gpt-3-for-better-results/"><u>Top 4: Choosing Claude 3 Over GPT-3 for Better Results</u></a></li>
-<li><a href="https://win-answers.techidaily.com/troubleshooting-palworld-solutions-for-launch-failures-and-load-issues/"><u>Troubleshooting Palworld: Solutions for Launch Failures and Load Issues</u></a></li>
-<li><a href="https://techidaily.com/undelete-lost-pictures-from-a60-by-fonelab-android-recover-pictures/"><u>Undelete lost pictures from A60.</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-a-complete-breakdown-of-googles-podcast-system/"><u>[New] A Complete Breakdown of Google's Podcast System</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-extended-examination-of-uncomplicated-hdr-photography/"><u>[New] Extended Examination of Uncomplicated HDR Photography</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/breathe-life-into-tweets-animating-insta-story-texts/"><u>Breathe Life Into Tweets Animating Insta Story Texts</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/1722150575954-chatgpt-history-recovery-tips-how-you-can-retrieve-whats-gone-missing/"><u>ChatGPT History Recovery Tips: How You Can Retrieve What's Gone Missing!</u></a></li>
+<li><a href="https://win-alternatives.techidaily.com/comment-passez-facilement-des-fichiers-sans-erreur-sur-windows-11-8-ou-7/"><u>Comment Passez Facilement Des Fichiers Sans Erreur Sur Windows 11, 8 Ou 7?</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-unlock-iphone-6s-without-passcode-or-face-id-drfone-by-drfone-ios/"><u>How to Unlock iPhone 6s without Passcode or Face ID | Dr.fone</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-photo-prospectus-top-10-professional-lens-choices/"><u>In 2024, Photo Prospectus Top 10 Professional Lens Choices</u></a></li>
+<li><a href="https://video-capture.techidaily.com/laptop-guide-conducting-live-calls-on-whatsapp-browser/"><u>Laptop Guide Conducting Live Calls on WhatsApp Browser</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/simplify-digital-organization-unleash-copernics-advanced-search-capabilities-to-streamline-your-files/"><u>Simplify Digital Organization: Unleash Copernic’s Advanced Search Capabilities to Streamline Your Files</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/unveiling-the-reasons-behind-openais-head-pushing-for-enhanced-control-over-ai-development/"><u>Unveiling the Reasons Behind OpenAI's Head Pushing for Enhanced Control Over AI Development</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/unveiling-the-transformation-why-gemini-15-with-one-million-token-context-is-a-breakthrough/"><u>Unveiling the Transformation: Why Gemini 1.5 with One Million Token Context Is a Breakthrough</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/using-a-vpn-is-chatgpt-still-available/"><u>Using a VPN: Is ChatGPT Still Available?</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/utilizing-chatgpt-roadmap-to-enhanced-productivity/"><u>Utilizing ChatGPT: Roadmap to Enhanced Productivity</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/what-sets-generative-ai-apart-insights-shared/"><u>What Sets Generative AI Apart? Insights Shared</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/why-wait-for-chatgpt-on-your-pc-when-you-can-dive-into-our-selection-of-open-source-alternatives/"><u>Why Wait for ChatGPT on Your PC When You Can Dive Into Our Selection of Open Source Alternatives?</u></a></li>
 </ul></div>
 

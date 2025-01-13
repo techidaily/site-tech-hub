@@ -1,7 +1,7 @@
 ---
 title: "Revolutionary Chatbot Therapists: 5 Innovative AI Solutions to Overcome Psychological Struggles"
-date: 2024-08-20T11:06:44.893Z
-updated: 2024-08-21T11:06:44.893Z
+date: 2025-01-08T16:09:19.231Z
+updated: 2025-01-13T16:25:12.878Z
 tags:
   - chatgpt
   - open-ai
@@ -23,6 +23,10 @@ thumbnail: https://thmb.techidaily.com/1e51a070d33ae9b31b39fd46bedbd90cddc68c490
 
  While this isn't entirely a new feature per se, it's refreshing to know that Google has dropped the waitlist for using Bard and opened the chatbot to all. So, if you've been sneaking onto the Bard website using a VPN, it's time to drop the mask. Bard is now open to over 180 countries and territories.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 2\. Dark Theme
 
 ![Bard on Dark theme](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/bard-on-dark-theme.jpg)
@@ -35,17 +39,10 @@ thumbnail: https://thmb.techidaily.com/1e51a070d33ae9b31b39fd46bedbd90cddc68c490
 
  We saw a glimpse of what could be possible. A future where Bard AI integrates with Google Maps, Sheets, and a range of exciting services from third-party developers. This has the potential to be genuinely game-changing. Well, that is if Google doesn't under-deliver, of course.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-spreadsheet-free-excel-editor-online-offline-1x.93e269d.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
-<!-- affiliate ads end -->
 ## 4\. Image Prompting
 
 ![Image prompting with Bard AI](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/image-prompting-with-bard-ai.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://tinyland.pxf.io/c/5597632/1793214/19135" target="_top" id="1793214"><img src="//a.impactradius-go.com/display-ad/19135-1793214" border="0" alt="" width="900" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793214/19135" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Image Credit:[Google](https://blog.google/technology/ai/google-bard-updates-io-2023/)
 
  OpenAI promised us image prompting with[the release of the highly anticipated GPT-4](https://www.makeuseof.com/openai-launches-gpt-4-artificial-intelligence-model/) . Unfortunately, as of 10th May 2023, even ChatGPT plus users are still fiddling their fingers, waiting to try out the feature. If you've been disappointed, don't be anymore. Image prompting is coming to Bard AI. The feature will be powered by Google Lens, a technology that Google has developed for several years.
@@ -53,15 +50,13 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
  In other words, instead of just text prompts, you'll be able to upload images as prompts alongside text. For example, you could upload a picture of a dog and ask Bard which dog breed it is. The specifics of the feature are still a mystery, but if it is well crafted, some compelling use cases could pop up.
 
 <!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1095219&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-20_%281%29.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 5\. Image Generation With Adobe Firefly
 
 ![Red and orange text that reads Adobe Firefly, surrounded by AI generated images](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/adobe-firefly.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
-<!-- affiliate ads end -->
  Image Credit:[Adobe](https://www.adobe.com/sensei/generative-ai/firefly.html)
 
  If you can't[generate images with Midjourney's](https://www.makeuseof.com/how-to-use-midjourney-create-ai-art/) free tier anymore (or more like being force-fed the paid tier), there's hope yet. Bard AI will soon be able to generate images from the Bard AI interface courtesy of Adobe Firefly. If you're unfamiliar with Adobe Firefly, here's a quick[explainer on Adobe Firefly and what you can do with it](https://www.makeuseof.com/what-is-adobe-firefly-generative-ai/) .
@@ -69,15 +64,17 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
  Although we aren't exactly sure how deeply integrated Bard AI will be with Abode Firefly, the demo at Google I/O gave a sneak peek at something exciting.
 
 <!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958374/18409" target="_top" id="1958374"><img src="//a.impactradius-go.com/display-ad/18409-1958374" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958374/18409" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5FWCFI3f_cs?si=Kt2Onr_E4c616tbH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 6\. Tools for Exporting Generated Content
 
 ![exporting data from Bard AI](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/exporting-data-from-bard-ai.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1892108/21290" target="_top" id="1892108"><img src="//a.impactradius-go.com/display-ad/21290-1892108" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892108/21290" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  One thing missing from most[AI chatbots like ChatGPT and Bing AI](https://www.makeuseof.com/chatgpt-vs-bing-ai-chatbot/) is a way to export generated content that preserves its formatting. If you generated a table with ChatGPT, for instance, copying over that table to a word processor with style intact is challenging.
 
  Google is solving this by making content generated by Bard AI cross-compatible with some of its workspace tools like Google Sheets and Docs. So, if you generate data in a tabular format on Bard, you can export it to Sheets, where you can invite your family, friends, or colleagues to collaborate.
@@ -85,6 +82,10 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 ## 7\. Improved Code Generation
 
 ![Generating code with Bard AI](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/generating-code-with-bard-ai.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UoBCgLTmznE?si=MXXiGsd2qpd_DrzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  At launch, Bard AI couldn't write code—an embarrassing pitfall considering coding was one of the big hype surrounding the emergence of AI chatbots. However, Bard AI competitors like[ChatGPT have been helping people code](https://www.makeuseof.com/chatgpt-programming-practical-uses/) since its debut. Google has now significantly ramped up Bard's coding abilities—so much so that a lot of precious presentation time was dedicated to discussing it at its Google I/O 2023 event.
 
@@ -96,14 +97,11 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 
  According to Sundar Pichai, Gemini will be a multi-modal LLM, which means it will likely replace Google's use of third-party services like Adobe Firefly or its products like Google Lens within the Bard AI ecosystem. Information about Gemini is still limited, but Google is investing in building a completely different LLM for Bard AI, and it will be worth paying attention to. It's game on for generative AI.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -112,4 +110,26 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-boxes.techidaily.com/updated-illustrators-playground-navigating-through-top-8-iphone-drawing-tools/"><u>[Updated] Illustrators' Playground Navigating Through Top 8 iPhone Drawing Tools</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-polishing-your-presentations-expert-video-editing-for-instagram/"><u>[Updated] Polishing Your Presentations Expert Video Editing for Instagram</u></a></li>
+<li><a href="https://article-tips.techidaily.com/2024-approved-djis-minis-and-airs-no-cost-luts-for-mixing-pros/"><u>2024 Approved DJI's Minis & Airs No Cost LUTS for Mixing Pros</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-quick-tips-for-professional-adjustments-in-ps/"><u>2024 Approved Quick Tips for Professional Adjustments in PS</u></a></li>
+<li><a href="https://solve-outstanding.techidaily.com/mp410/"><u>無料MP4動画圧縮サイトベスト10:手軽に高品質保持でコンパクト化!</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/choosing-the-ultimate-apple-tablet-a-comparison-of-ipad-pro-models/"><u>Choosing the Ultimate Apple Tablet: A Comparison of iPad Pro Models</u></a></li>
+<li><a href="https://fake-location.techidaily.com/does-life360-notify-when-you-log-out-on-vivo-y56-5g-drfone-by-drfone-virtual-android/"><u>Does Life360 Notify When You Log Out On Vivo Y56 5G? | Dr.fone</u></a></li>
+<li><a href="https://techtrends.techidaily.com/enhance-digital-campaigns-with-cookiebot-technology/"><u>Enhance Digital Campaigns with Cookiebot Technology</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/immediate-purchase-options-for-apples-new-releases-from-wwdc-showcase-where-to-preorder/"><u>Immediate Purchase Options for Apple's New Releases From WWDC Showcase: Where to Preorder</u></a></li>
+<li><a href="https://article-helps.techidaily.com/in-2024-differences-between-vr-ar-and-mr/"><u>In 2024, Differences Between VR, AR and MR</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-peek-through-the-curtain-viewers-disguised-commentaries/"><u>In 2024, Peek Through the Curtain Viewers' Disguised Commentaries</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/master-the-proper-technique-for-handling-iphones-and-airpods-effectively-zdnet-insights/"><u>Master The Proper Technique for Handling iPhones & AirPods Effectively | ZDNet Insights</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/save-on-the-latest-generation-apple-pencil-at-only-95-exclusive-labor-day-sale-offer/"><u>Save on the Latest Generation Apple Pencil at Only $95 - Exclusive Labor Day Sale Offer !</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/sharing-the-top-remorse-moment-of-upgrading-to-ios-18-a-common-dilemma-discussed-on-zdnet/"><u>Sharing the Top Remorse Moment of Upgrading to iOS 18 – A Common Dilemma Discussed on ZDNet</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/smart-wearables-face-off-is-it-time-to-switch-from-an-apple-watch-series-eight-to-a-google-pixel-watch/"><u>Smart Wearables Face-Off: Is It Time to Switch From an Apple Watch Series Eight to a Google Pixel Watch?</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/the-ultimate-guide-to-creating-engaging-video-posts/"><u>The Ultimate Guide to Creating Engaging Video Posts</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/top-rated-ipad-air-protection-gear-comprehensive-review-by-tech-experts-zdnet/"><u>Top-Rated iPad Air Protection Gear - Comprehensive Review by Tech Experts | ZDNET</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/unleash-productivity-and-adventure-with-the-latest-upgrades-of-popular-xr-glasses-exclusive-details-for-savvy-travelers-and-workaholics-innovations/"><u>Unleash Productivity and Adventure with the Latest Upgrades of Popular XR Glasses - Exclusive Details for Savvy Travelers & Workaholics Innovations</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/unlocking-superior-sound-with-tvos-18-upgrade-for-enhanced-listening-on-your-apple-tv-insights-from-zdnet/"><u>Unlocking Superior Sound with tvOS 18 Upgrade for Enhanced Listening on Your Apple TV - Insights From ZDNet</u></a></li>
+</ul></div>
 

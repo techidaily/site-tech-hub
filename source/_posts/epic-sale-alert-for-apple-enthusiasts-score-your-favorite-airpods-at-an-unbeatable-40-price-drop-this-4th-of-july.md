@@ -1,7 +1,7 @@
 ---
 title: Epic Sale Alert for Apple Enthusiasts! Score Your Favorite AirPods at an Unbeatable $40 Price Drop This 4Th of July
-date: 2025-01-01T16:31:36.495Z
-updated: 2025-01-07T00:18:10.708Z
+date: 2025-01-11T16:34:02.378Z
+updated: 2025-01-13T16:38:00.042Z
 tags:
   - apple
 categories:
@@ -30,7 +30,7 @@ The second-generation AirPods come with a Lightning charger case. They offer sol
 Buy the AirPods on sale at [Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FApple-AirPods-Charging-Latest-Model%2Fdp%2FB07PXGQC1Q%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cc897cc8f-f17e-41e6-8410-d72f180f8ed4%7Cdtp&dtb=1) now. You can also check out more [headphone deals](https://www.zdnet.com/article/best-headphone-deals/) and the [top products ZDNET readers bought last month](https://www.zdnet.com/home-and-office/the-25-most-popular-products-zdnet-readers-bought-last-month/).
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## When will this deal expire?
@@ -62,22 +62,17 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vp-tips.techidaily.com/new-2024-approved-snapseed-101-easy-steps-to-photo-perfection/"><u>[New] 2024 Approved Snapseed 101 Easy Steps to Photo Perfection</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-2024-approved-streamline-your-video-projects-using-movie-maker-on-windows-8/"><u>[Updated] 2024 Approved Streamline Your Video Projects Using Movie Maker on Windows 8</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/updated-benq-sw320-4k-315-inch-monitor-review/"><u>[Updated] BenQ SW320 4K 31.5-Inch Monitor Review</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/updated-quick-and-painless-ways-to-screen-record-stories-for-2024/"><u>[Updated] Quick & Painless Ways to Screen Record Stories for 2024</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/dall-e-3-enhanced-with-new-editing-features-room-for-improvement/"><u>DALL-E 3 Enhanced with New Editing Features: Room for Improvement</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/enhance-your-privacy-with-duckduckgos-intelligent-chatbot-experience-including-chatgpt/"><u>Enhance Your Privacy with DuckDuckGo's Intelligent Chatbot Experience, Including ChatGPT</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/how-to-quickly-fix-bluetooth-not-working-on-honor-90-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Quickly Fix Bluetooth Not Working on Honor 90 | Dr.fone</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/in-2024-how-to-make-your-profile-cover-video-more-attractive/"><u>In 2024, How to Make Your Profile Cover Video More Attractive</u></a></li>
-<li><a href="https://driver-error.techidaily.com/patch-usb-interrupt-handling-fault/"><u>Patch USB Interrupt Handling Fault</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/risk-assessment-can-you-get-dismissed-for-chatgpt-usage/"><u>Risk Assessment: Can You Get Dismissed for ChatGPT Usage?</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/the-next-decade-of-defenses-top-cybersecurity-forecasts/"><u>The Next Decade of Defenses: Top Cybersecurity Forecasts</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/transform-personal-datasets-into-an-intelligent-customized-chatbot-learn-how/"><u>Transform Personal Datasets Into an Intelligent, Customized ChatBot – Learn How</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/transform-your-job-search-craft-a-winning-resume-using-chatgpt/"><u>Transform Your Job Search: Craft a Winning Resume Using ChatGPT</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/ultimate-fix-for-when-your-turtle-beach-microphone-wont-work-expert-advice/"><u>Ultimate Fix for When Your Turtle Beach Microphone Won't Work: Expert Advice</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/unleash-your-creative-potential-with-these-4-ai-storytellers/"><u>Unleash Your Creative Potential with These 4 AI Storytellers</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/unmasking-auto-gpt-divergence-from-chatgpt-analysis/"><u>Unmasking Auto-GPT: Divergence From ChatGPT Analysis</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/updated-transform-your-footage-a-cinematic-color-grading-guide-for-fcpx-for-2024/"><u>Updated Transform Your Footage A Cinematic Color Grading Guide for FCPX for 2024</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/024-approved-the-roadmap-for-joining-a-youtube-media-company-mcn/"><u>[New] 2024 Approved The Roadmap for Joining a YouTube Media Company (MCN)</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-2024-approved-premium-portable-switch-game-clones/"><u>[Updated] 2024 Approved Premium Portable Switch Game Clones</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-sky-sprints-guide-to-excellence-plus-ultimate-fpv-drones-for-speed/"><u>[Updated] 2024 Approved Sky Sprints Guide to Excellence + Ultimate FPV Drones for Speed</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-2024-approved-top-30-online-music-venues/"><u>[Updated] 2024 Approved Top 30 Online Music Venues</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-exquisite-film-series-selection-youtube-edition/"><u>[Updated] Exquisite Film Series Selection - YouTube Edition</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-how-to-mix-text-and-video-on-a-shoestring-budget/"><u>[Updated] How to Mix Text & Video on a Shoestring Budget</u></a></li>
+<li><a href="https://games-able.techidaily.com/in-depth-hyperx-alloy-origins-keyboard-analysis-superb-durability-meets-subpar-keycap-design-is-it-worth-the-purchase/"><u>In-Depth HyperX Alloy Origins Keyboard Analysis: Superb Durability Meets Subpar Keycap Design - Is It Worth the Purchase?</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/is-gpt-suitable-for-editing-text/"><u>Is GPT Suitable for Editing Text?</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/is-there-a-preset-character-or-word-quota-for-replies-generated-by-chatgpt/"><u>Is There a Preset Character or Word Quota for Replies Generated by ChatGPT?</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/laughter-algorithm-computing-milestones-and-privacy-in-the-cloud/"><u>Laughter Algorithm: Computing Milestones & Privacy in the Cloud</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/leading-8-gpt-directives-for-diminishing-online-disturbances/"><u>Leading 8 GPT Directives for Diminishing Online Disturbances</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/mastering-creative-thinking-generating-ideas-using-mindmaps-and-chatgpt/"><u>Mastering Creative Thinking: Generating Ideas Using Mindmaps & ChatGPT</u></a></li>
 </ul></div>
 

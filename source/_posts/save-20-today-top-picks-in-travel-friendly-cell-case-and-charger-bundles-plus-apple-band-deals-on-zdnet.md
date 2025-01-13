@@ -1,7 +1,7 @@
 ---
 title: "Save 20%% Today: Top Picks in Travel-Friendly Cell Case & Charger Bundles + Apple Band Deals on ZDNet"
-date: 2024-12-31T22:09:24.156Z
-updated: 2025-01-07T00:18:48.303Z
+date: 2025-01-09T16:30:15.377Z
+updated: 2025-01-13T16:24:05.423Z
 tags:
   - apple
 categories:
@@ -92,7 +92,7 @@ Kyle Kucharski/ZDNET
 * [Apple MacBook Pro (M3) for $1,400 (save $200)](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FApple-MacBook-Laptop-8%E2%80%91core-10%E2%80%91core%2Fdp%2FB0CM5JV268%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Ca9ce9008-3603-459e-8a58-f4457742ba16%7Cdtp&dtb=1): The [MacBook Pro (M3)](https://www.zdnet.com/article/m3-macbook-pro-buying-advice/) is one of the best-performing laptops on the market, and it's $200 off -- make sure you add the coupon offer on the page.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Prime Day HP laptop deals
@@ -109,10 +109,6 @@ Lenovo/ZDNET
 
 * [Lenovo Legion 5i for $1,339 (save $160)](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FLenovo-Display-GeForce-2560x1600-Battery%2Fdp%2FB0CVLFS7WP%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Ca9ce9008-3603-459e-8a58-f4457742ba16%7Cdtp&dtb=1): This 16-inch laptop from Lenovo's gaming PC line features an Intel i7 processor, 32GB of RAM, and a solid selection of ports for all your gaming accessories for just $1,500.
 * [Lenovo ThinkBook 15 for $525 (save $74)](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FLenovo-ThinkBook-15-Business-i7-1165G7%2Fdp%2FB0D1CQPWPG%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Ca9ce9008-3603-459e-8a58-f4457742ba16%7Cdtp&dtb=1): This laptop is a powerhouse for your back-to-school or business needs. Its 8-core AMD Ryzen 7 processor pairs with 16GB of RAM, so any major spec-heavy tasks will perform smoothly.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Best Buy laptop deals during Prime Day
 
@@ -132,13 +128,13 @@ Kyle Kucharski/ZDNET
 * [Asus VivoBook 16 for $479 (save $120)](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FASUS-VivoBook-Laptop-WUXGA-1920%2Fdp%2FB0BT6NKLQR%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Ca9ce9008-3603-459e-8a58-f4457742ba16%7Cdtp&dtb=1): One of the most versatile and well-rounded laptops on the market is also one of the most affordable. The Vivobook 16 is designed to handle a variety of use cases with ease, and for just $479 you can't go wrong with its 1TB of storage, Windows 11, and solid selection of ports.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## FAQs
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### When is Amazon Prime Day 2024?
@@ -146,12 +142,16 @@ Kyle Kucharski/ZDNET
 Amazon Prime Day officially ran from July 16 to July 17, but sometimes deals continue afterward.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iPCr_bxZjMQ?si=ubOsoq5umPEXL9xL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jpdGEJJwMLY?si=eKgXOPpNeYvYKcel" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### What's the best gaming laptop deal on Prime Day?
 
 There are a lot of great gaming laptops on sale right now, but in our opinion, [this deal on the Razer Blade 16](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FRazer-Blade-Gaming-Laptop-4090-13th%2Fdp%2FB0BQP1WCP4%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Ca9ce9008-3603-459e-8a58-f4457742ba16%7Cdtp&dtb=1) is the best. We're talking $1,000 off one of the most high-end gaming laptops on the market, with hardware that is future-proofed to be relevant for years to come. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KF793jv1LIc?si=fJOogQJ2f8JUfTzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Is Amazon Prime Day a good time to buy a laptop?
 
@@ -230,19 +230,18 @@ And the best deals still available from other retailers this week:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-cloud.techidaily.com/new-2024-approved-comedy-crafters-codex-free-to-unleash-humor/"><u>[New] 2024 Approved Comedy Crafters' Codex Free to Unleash Humor</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/ultimate-tutorial-on-capturing-epic-moments-in-valorant-step-by-step/"><u>「Ultimate Tutorial on Capturing Epic Moments in Valorant - Step by Step!」</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/2024-approved-a-guide-to-creating-gentle-sound-cuts-and-fades-with-pp/"><u>2024 Approved A Guide to Creating Gentle Sound Cuts and Fades with PP</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/approved-chuckling-challenge-brainstroming-7-humorous-youtube-videos/"><u>2024 Approved Chuckling Challenge Brainstroming 7 Humorous YouTube Videos</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/webm-wav/"><u>完全な音質維持で WebM をWAVに効果的に変換する手順</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/chatgpts-native-plugins-overview-purposes-and-practical-use-cases/"><u>ChatGPT's Native Plugins Overview: Purposes and Practical Use Cases</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/exploring-the-most-advanced-law-enforcement-wearables/"><u>Exploring the Most Advanced Law Enforcement Wearables</u></a></li>
-<li><a href="https://fox-triigers.techidaily.com/how-can-you-tell-if-your-scanners-driver-is-faulty-insights-from-yl-computing/"><u>How Can You Tell If Your Scanner's Driver Is Faulty? - Insights From YL Computing</u></a></li>
-<li><a href="https://games-able.techidaily.com/how-to-play-fortnite-on-your-iphone-using-geforce-now/"><u>How to Play Fortnite on Your iPhone Using GeForce Now</u></a></li>
-<li><a href="https://win-able.techidaily.com/pc-gamers-rejoice-as-star-wars-jedi-fallen-order-errors-get-fixed/"><u>PC Gamers Rejoice as Star Wars Jedi: Fallen Order Errors Get Fixed</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/ultimate-playlist-perfect-for-pilgrims-party-how-to-download-memorable-thanksgiving-melodies-for-the-seasonal-feast-celebration/"><u>Ultimate Playlist Perfect for Pilgrims' Party: How to Download Memorable Thanksgiving Melodies for the Seasonal Feast Celebration</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/ultimate-step-by-step-tutorial-uploading-videos-on-reddit-from-desktop-and-phone/"><u>Ultimate Step-by-Step Tutorial: Uploading Videos on Reddit From Desktop & Phone</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/vlciso2024/"><u>VLCプレーヤーでISOファイルを読み込めない場合、2024年解決策 - 応用方法</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/webmgifgifwebm/"><u>WebM動画をGIFに、またはGIFをWebMに高品質な変換方法【詳細ガイド】</u></a></li>
+<li><a href="https://extra-information.techidaily.com/updated-beyond-reality-mastering-the-subtleties-of-ps-distortions/"><u>[Updated] Beyond Reality Mastering the Subtleties of PS Distortions</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-creating-composition-magic-leading-lines-on-iphone/"><u>[Updated] Creating Composition Magic Leading Lines on iPhone</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-in-2024-first-footsteps-into-frame-finesse-a-novices-guide-to-hd-content/"><u>[Updated] In 2024, First Footsteps Into Frame Finesse A Novice's Guide to HD Content</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-in-2024-masterclass-in-tv-streaming-the-ultimate-guide/"><u>[Updated] In 2024, Masterclass in TV Streaming The Ultimate Guide</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/chatgpt-body-stream-problem-here-are-seven-fixes-that-work/"><u>ChatGPT Body Stream Problem? Here Are Seven Fixes That Work!</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/chatgpt-desktop-version-top-advantages-over-browser-based-interface/"><u>ChatGPT Desktop Version: Top Advantages Over Browser-Based Interface</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/chatgpt-transforms-commutes-mercedes-integrates-voice-tech/"><u>ChatGPT Transforms Commutes: Mercedes Integrates Voice Tech</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/claude-3-vs-chatgpt-discover-the-top-4-benefits-of-making-the-switch/"><u>Claude 3 Vs. ChatGPT: Discover the Top 4 Benefits of Making The Switch</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/decoding-gemini-the-powerhouse-behind-googles-artificial-intelligence-advancements-what-tasks-is-it-tackling-now/"><u>Decoding Gemini: The Powerhouse Behind Google’s Artificial Intelligence Advancements – What Tasks Is It Tackling Now?</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/discover-the-6-premier-ai-extensions-for-microsofts-powerhouse-ide-vs-code/"><u>Discover the 6 Premier AI Extensions for Microsoft's Powerhouse IDE, VS Code</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-the-magnificent-art-of-pokemon-go-streaming-on-oneplus-ace-2-pro-drfone-by-drfone-virtual-android/"><u>In 2024, The Magnificent Art of Pokemon Go Streaming On OnePlus Ace 2 Pro? | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/pioneering-video-content-creation-via-google-trends-study-for-2024/"><u>Pioneering Video Content Creation via Google Trends Study for 2024</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/revolutionize-your-meta-quest-3-experience-the-must-have-50-eyeglass-companion-insights-from-zdnet/"><u>Revolutionize Your Meta Quest 3 Experience: The Must-Have $50 Eyeglass Companion - Insights From ZDNet</u></a></li>
 </ul></div>
 
