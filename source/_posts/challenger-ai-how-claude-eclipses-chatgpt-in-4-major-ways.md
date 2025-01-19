@@ -1,7 +1,7 @@
 ---
 title: Challenger AI - How Claude Eclipses ChatGPT in 4 Major Ways
-date: 2024-08-20T11:06:26.498Z
-updated: 2024-08-21T11:06:26.498Z
+date: 2025-01-17T16:20:11.670Z
+updated: 2025-01-19T16:34:11.880Z
 tags:
   - chatgpt
   - open-ai
@@ -18,6 +18,10 @@ thumbnail: https://thmb.techidaily.com/494747ec004285de2aadee4c9fc771562b4f42ca2
  AI can now be used for more purposes than ever before. While previously out of reach, tasks such as creating high-quality art and composing web apps are now possible. Many jobs that were formerly unattainable by computers are suddenly at risk of automation.
 
  With advancements increasing at an alarming rate, it’s easy to worry that your job may be at risk of automation. Despite the surprising abilities AI programs like ChatGPT have already shown, there are still places where humans can outshine them. Here are three things you can do using Excel that are still out of reach for ChatGPT.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/grbt-5VvbuI?si=qnoirlmljslpqcQj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 1\. Using Excel for Long-Term Report Storage and Data Entry
 
@@ -39,6 +43,10 @@ thumbnail: https://thmb.techidaily.com/494747ec004285de2aadee4c9fc771562b4f42ca2
 
 ![A laptop sitting on a desk showing a data dashboard. There are several graphs showing and some other various data on screen.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/data-dashboard.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  While a single report is simple to create with ChatGPT, a set of data frozen in time isn’t always beneficial. One of the most potent abilities that Excel gives us the ability to create reports that the reader can instantly customize.
 
  Rather than taking the time to create a separate expense report for each department in your company, you can use Excel to create a single customized company-wide report. Adding a dropdown that filters data by the value in a single column is fast and straightforward to do.
@@ -52,15 +60,17 @@ thumbnail: https://thmb.techidaily.com/494747ec004285de2aadee4c9fc771562b4f42ca2
  Make your reports more useful by adding some[simple Excel features](https://www.makeuseof.com/essential-excel-functions/) . Ensure your reports can pull variable timeframes, highlight potential problems automatically, and sanitize data for long-term storage and flexibility.
 
 <!-- affiliate ads begin -->
-<a href="https://turbotech.pxf.io/c/5597632/1450763/17212" target="_top" id="1450763"><img src="//a.impactradius-go.com/display-ad/17212-1450763" border="0" alt="" width="2560" height="1440"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1450763/17212" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 3\. Easy-to-Use Forms in Excel
 
 ![Man in black suit sitting in front of a computer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/02/pexels-kampus-production-8353777.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2027209/17108" target="_top" id="2027209"><img src="//a.impactradius-go.com/display-ad/17108-2027209" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2027209/17108" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Forms are another great Excel option for those looking for value that ChatGPT can’t provide. Entering information manually can be time-consuming and frustrating. Giving end users the option to enter data independently as it arises frees up time and energy better spent analyzing the results.
 
  AI programs may be able to tell you how to populate all the items in a form, but making it user-friendly is another story. Creating a simple-to-use spreadsheet that analyzes the data that it’s given is a much more streamlined process than having the end user give you the data, only for you to then give it to an AI tool to analyze.
@@ -70,8 +80,9 @@ thumbnail: https://thmb.techidaily.com/494747ec004285de2aadee4c9fc771562b4f42ca2
  For those looking to blend forms and long-term data storage, looking into different ways to export data from Excel is essential. Learning how to take data from an entry form to a SQL database can help insulate your job and keep your work essential.
 
 <!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1821134/17882" target="_top" id="1821134"><img src="//a.impactradius-go.com/display-ad/17882-1821134" border="0" alt="" width="320" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1821134/17882" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=EdMRoNAFi0Q6mP7G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## ChatGPT Isn’t Going to Automate You Out of a Job Yet
 
  Excel has many tasks that are still beyond the range of ChatGPT and its cohort of machine learning-driven knockoffs. With new advancements increasing at an alarming rate, it’s all too easy to worry that automation may be aiming for your job next.
@@ -80,14 +91,11 @@ thumbnail: https://thmb.techidaily.com/494747ec004285de2aadee4c9fc771562b4f42ca2
 
  Learning how to create customizable reports and forms that enable data entry in Excel can help preserve your job. For those concerned that their position may be facing automation, there are still plenty of Excel skills out of AI’s range of ability for the foreseeable future.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -96,4 +104,21 @@ thumbnail: https://thmb.techidaily.com/494747ec004285de2aadee4c9fc771562b4f42ca2
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-docs.techidaily.com/ed-monetizing-youtube-shorts-crucial-requirements-and-potential-income/"><u>[Updated] Monetizing Youtube Shorts Crucial Requirements and Potential Income</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/a-comprehensive-tutorial-for-turning-off-sticky-keys-on-a-windows-computer/"><u>A Comprehensive Tutorial for Turning Off Sticky Keys on a Windows Computer</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/are-costly-advanced-ai-prompts-providing-value-for-your-cash/"><u>Are Costly Advanced AI Prompts Providing Value for Your Cash?</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/automate-your-writing-tasks-with-hix-ai-and-gpt-4/"><u>Automate Your Writing Tasks With HIX AI and GPT-4</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/beyond-the-turing-emerging-evaluation-methods/"><u>Beyond The Turing: Emerging Evaluation Methods</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/bring-ai-conversations-to-your-phone-chatgpt-comes-to-android/"><u>Bring AI Conversations to Your Phone: ChatGPT Comes to Android</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/building-a-wholesome-diet-plan-via-conversations-with-chatgpt/"><u>Building a Wholesome Diet Plan via Conversations with ChatGPT</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/choosing-between-advanced-gemini-and-chatgpt-plus-an-in-depth-review/"><u>Choosing Between Advanced Gemini & ChatGPT Plus: An In-Depth Review</u></a></li>
+<li><a href="https://driver-error.techidaily.com/fixing-the-windows-enter-key-absent-issue/"><u>Fixing the Windows Enter Key Absent Issue</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-identify-missing-hardware-drivers-with-windows-device-manager-in-windows-1110-by-drivereasy-guide/"><u>How to identify missing hardware drivers with Windows Device Manager in Windows 11/10</u></a></li>
+<li><a href="https://program-issues.techidaily.com/how-to-stop-arcadegeddon-from-keeping-on-pc-solutions-inside/"><u>How to Stop Arcadegeddon From Keeping on PC – Solutions Inside!</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/navigate-the-sea-of-books-with-ease-discover-these-best-ai-recommendation-services/"><u>Navigate the Sea of Books with Ease: Discover These Best AI Recommendation Services</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/precision-capturing-for-your-ps3-gaming-adventures/"><u>Precision Capturing for Your PS3 Gaming Adventures</u></a></li>
+<li><a href="https://win-blog.techidaily.com/troubleshooting-tips-solving-starfield-cannot-startup-on-steam-or-xbox/"><u>Troubleshooting Tips: Solving 'Starfield Cannot Startup on Steam or Xbox'</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Electron Capture Detector (ECD):"
-date: 2025-01-12T16:34:07.500Z
-updated: 2025-01-13T16:21:58.467Z
+date: 2025-01-14T19:54:41.259Z
+updated: 2025-01-19T17:57:00.137Z
 tags:
   - apple
 categories:
@@ -19,10 +19,6 @@ Whether you're trying to demonstrate a bug to a tech support rep or you're demon
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## How to screen record on any iPhone
 
@@ -61,6 +57,10 @@ While recording, your Screen Recording button will look like this (minus the red
 
 Michael Gariffo
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nWu29cqFjZA?si=TNZyCbPq68PQ0JIb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 4\. Begin screen recording
 
 When you're ready to begin recording, tap the Screen Recording button. This starts a 3-second countdown. At the end of it, the recording will begin. This countdown time can be used to close the Control Center and get back to the true subject of your Screen Recording before the video capture actually begins. 
@@ -72,7 +72,7 @@ Your clock will look like this as long as Screen Recording is active.
 Michael Gariffo
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vPGg53vbOsk?si=CkSEN5HFPS7vDuAa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/793ViIxl4tI?si=DDBkjPlPX5bZ-f1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Step 5: Record
@@ -91,19 +91,19 @@ In both cases, the recording you just produced will immediately be saved to your
 
 **Also:** [How to record a call on your iPhone](https://www.zdnet.com/article/how-to-record-a-phone-call-on-your-iphone/)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## FAQs
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What does the Screen Recording app actually capture?
 
 It captures everything that goes on across your entire iPhone screen, as well as any sound produced by the iPhone itself while it's recording. This includes any actions you perform, any full-screen videos, and any audio you play via websites, apps, etc. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Can I add narration to my captured videos?
 
@@ -114,7 +114,7 @@ Unfortunately, the built-in iPhone tool for recording your screen doesn't suppor
 * [Screen Recorder +](https://apps.apple.com/us/app/screen-recorder/id1380506650) \- A similar option to RecordIt!, Screen Recorder + touts its ability to start up in just one second, for those spur-of-the-moment captures.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fHWdQw1gRyI?si=ve9wZnPupiooLThG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How can I share my captured video?
@@ -153,20 +153,22 @@ Be aware that some apps, particularly email and messaging apps that don't rely o
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-boxes.techidaily.com/new-a-complete-breakdown-of-googles-podcast-system/"><u>[New] A Complete Breakdown of Google's Podcast System</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/new-extended-examination-of-uncomplicated-hdr-photography/"><u>[New] Extended Examination of Uncomplicated HDR Photography</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/breathe-life-into-tweets-animating-insta-story-texts/"><u>Breathe Life Into Tweets Animating Insta Story Texts</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/1722150575954-chatgpt-history-recovery-tips-how-you-can-retrieve-whats-gone-missing/"><u>ChatGPT History Recovery Tips: How You Can Retrieve What's Gone Missing!</u></a></li>
-<li><a href="https://win-alternatives.techidaily.com/comment-passez-facilement-des-fichiers-sans-erreur-sur-windows-11-8-ou-7/"><u>Comment Passez Facilement Des Fichiers Sans Erreur Sur Windows 11, 8 Ou 7?</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/how-to-unlock-iphone-6s-without-passcode-or-face-id-drfone-by-drfone-ios/"><u>How to Unlock iPhone 6s without Passcode or Face ID | Dr.fone</u></a></li>
-<li><a href="https://extra-support.techidaily.com/in-2024-photo-prospectus-top-10-professional-lens-choices/"><u>In 2024, Photo Prospectus Top 10 Professional Lens Choices</u></a></li>
-<li><a href="https://video-capture.techidaily.com/laptop-guide-conducting-live-calls-on-whatsapp-browser/"><u>Laptop Guide Conducting Live Calls on WhatsApp Browser</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/simplify-digital-organization-unleash-copernics-advanced-search-capabilities-to-streamline-your-files/"><u>Simplify Digital Organization: Unleash Copernic’s Advanced Search Capabilities to Streamline Your Files</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/unveiling-the-reasons-behind-openais-head-pushing-for-enhanced-control-over-ai-development/"><u>Unveiling the Reasons Behind OpenAI's Head Pushing for Enhanced Control Over AI Development</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/unveiling-the-transformation-why-gemini-15-with-one-million-token-context-is-a-breakthrough/"><u>Unveiling the Transformation: Why Gemini 1.5 with One Million Token Context Is a Breakthrough</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/using-a-vpn-is-chatgpt-still-available/"><u>Using a VPN: Is ChatGPT Still Available?</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/utilizing-chatgpt-roadmap-to-enhanced-productivity/"><u>Utilizing ChatGPT: Roadmap to Enhanced Productivity</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/what-sets-generative-ai-apart-insights-shared/"><u>What Sets Generative AI Apart? Insights Shared</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/why-wait-for-chatgpt-on-your-pc-when-you-can-dive-into-our-selection-of-open-source-alternatives/"><u>Why Wait for ChatGPT on Your PC When You Can Dive Into Our Selection of Open Source Alternatives?</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-in-2024-best-in-class-facebook-media-firefox-edition/"><u>[New] In 2024, Best-in-Class Facebook Media FireFox Edition</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-edu-odyssey-journey-through-top-learning-sites-for-2024/"><u>[Updated] Edu-Odyssey Journey Through Top Learning Sites for 2024</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/ai-allies-in-your-quest-implementing-chatgpt-to-enrich-your-dandd-worlds/"><u>AI Allies in Your Quest: Implementing ChatGPT to Enrich Your D&D Worlds</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/ai-chatbots-the-new-frontier-in-human-machine-dialogue/"><u>AI Chatbots: The New Frontier in Human-Machine Dialogue</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/ai-glossary-simplified-essential-terms-for-all-scales/"><u>AI Glossary Simplified: Essential Terms for All Scales</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/ai-showdown-gpt-plus-versus-perplexity/"><u>AI Showdown: GPT Plus Versus Perplexity</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/ai-unveiled-understanding-and-assessing-risks/"><u>AI Unveiled: Understanding & Assessing Risks</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/boosting-response-quality-7-key-methods-for-chatgpt-interaction/"><u>Boosting Response Quality: 7 Key Methods for ChatGPT Interaction</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/clash-of-ai-titans-exploring-distinctive-qualities-between-google-palm-2-and-openais-gpt-4/"><u>Clash of AI Titans: Exploring Distinctive Qualities Between Google PaLM 2 and OpenAI's GPT-4</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/creating-an-engaging-text-based-rpg-with-chatgpt-a-step-by-step-guide/"><u>Creating an Engaging Text-Based RPG with ChatGPT: A Step-by-Step Guide</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/ensuring-effective-integration-with-apples-platform/"><u>Ensuring Effective Integration with Apple's Platform</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-10-free-location-spoofers-to-fake-gps-location-on-your-motorola-moto-g-stylus-5g-2023-drfone-by-drfone-virtual/"><u>In 2024, 10 Free Location Spoofers to Fake GPS Location on your Motorola Moto G Stylus 5G (2023) | Dr.fone</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/in-2024-screen-recording-simplified-review-insights/"><u>In 2024, Screen Recording Simplified Review Insights</u></a></li>
+<li><a href="https://discover-comparisons.techidaily.com/step-by-step-guide-upgrading-your-windows-pc-with-a-new-graphics-card-tips-by-yl-computing/"><u>Step-by-Step Guide: Upgrading Your Windows PC with a New Graphics Card - Tips by YL Computing</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/top-converters-turn-videos-into-live-photos-with-ease-for-2024/"><u>Top Converters Turn Videos Into Live Photos with Ease for 2024</u></a></li>
+<li><a href="https://fox-that.techidaily.com/troubleshooting-your-iphone-screen-uncovering-the-seven-main-culprits-of-non-responsiveness/"><u>Troubleshooting Your iPhone Screen: Uncovering the Seven Main Culprits of Non-Responsiveness</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/updated-in-2024-best-free-video-cutting-tools-for-divx-files-updated-2023/"><u>Updated In 2024, Best Free Video Cutting Tools for Divx Files (Updated 2023)</u></a></li>
 </ul></div>
 

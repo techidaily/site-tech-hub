@@ -1,7 +1,7 @@
 ---
 title: "Boost Your Apple MacBook with MacOS 15: The Ultimate List of New Features You Can't Miss"
-date: 2025-01-11T16:04:48.670Z
-updated: 2025-01-13T16:05:10.624Z
+date: 2025-01-12T20:02:20.994Z
+updated: 2025-01-19T18:40:52.465Z
 tags:
   - apple
 categories:
@@ -39,7 +39,7 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaGNHfAT92w?si=bvHo1iYK2JBIPtRo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. Apple Intelligence
@@ -57,7 +57,7 @@ Apple's approach to AI is markedly different from that of its competitors, howev
 This lets Apple disengage from the chaotic rat race to a degree, positioning itself as the careful, more ethical actor when it comes to AI, particularly in light of [recent debilitating security concerns](https://www.zdnet.com/article/after-brutal-critiques-microsoft-recall-will-get-these-major-privacy-and-security-changes/) from Microsoft's Recall feature, which is delaying the release of a host of its new [Copilot+ PCs](https://www.zdnet.com/article/every-copilot-pc-microsoft-just-announced-to-take-on-apples-m3-macbooks/).
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qbuund2HKOQ?si=NaGHqIrx8hSL7gWV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Continuity
@@ -72,6 +72,10 @@ The app also streamlines your devices by bringing your iPhone's notifications st
   
 Alternatively, the new standby mode on the iPhone displays a host of at-a-glance (but un-interactable) data like a clock and calendar while you're using the Continuity app on the Mac. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 3\. Siri 2.0
 
 Screenshot by Nina Raemont
@@ -85,7 +89,7 @@ During the WWDC keynote, Apple showed off Siri's new look as an ever-present AI 
 The new Siri also comes with on-screen awareness, allowing the AI to respond to what you're looking at on the screen without requiring the user to provide specific context with each prompt. This also allows Siri to take in-app actions in a way that wasn't possible before. In MacOS Sequoia, Siri's integration with OpenAI's LLM propels the virtual assistant to the top players in the field alongside [ChatGPT-4o](https://www.zdnet.com/article/how-to-use-chatgpt-plus-from-gpt-4o-to-interactive-tables/) and [Google's Gemini](https://www.zdnet.com/article/what-is-google-gemini/). 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4\. AI-fueled productivity apps
@@ -100,10 +104,6 @@ Apple Intelligence has been integrated across all of the big productivity apps i
 * **Photos:** AI-based photo editing features in the Photos app allow users to make touch-ups, remove backgrounds, and do editing instantaneously. Additionally, searching for specific photos and videos using natural language will bring up images of specific people or events.
 * **Notes:** Voice functionality is coming to the Notes app, with the ability to add voice memos directly embedded into your notes. AI will also support audio transcription and transcripts of audio recordings. You can record and transcribe audio, and when your recording is finished, the AI will create a summary on its own.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/eMEJvwMM0vk?si=EQF_jo_4u9v5iJ_C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 5\. New and improved Safari
 
 Screenshot by Nina Raemont
@@ -115,7 +115,7 @@ Safari will see a host of improvements powered by AI functionality, including an
 Apple demoed Safari's machine learning capability to automatically detect relevant information on a webpage, including things like quick links, directions, and quick summaries with logistical information like phone numbers and addresses. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 6\. Standalone Passwords app
@@ -162,20 +162,19 @@ Apple wants to create a "unified gaming platform" across the iPhone, iPad, and M
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-hovers.techidaily.com/new-avoiding-common-pitfalls-when-posting-on-instagram-for-2024/"><u>[New] Avoiding Common Pitfalls When Posting on Instagram for 2024</u></a></li>
-<li><a href="https://article-files.techidaily.com/updated-masterpieces-of-modern-mythology-top-youtube-storytellers/"><u>[Updated] Masterpieces of Modern Mythology - Top YouTube Storytellers</u></a></li>
-<li><a href="https://fox-links.techidaily.com/updated-zooming-into-success-livestream-mastery-with-zoom-and-youtube/"><u>[Updated] Zooming Into Success Livestream Mastery with Zoom and YouTube</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/6-reasons-for-skepticism-toward-automated-decision-making/"><u>6 Reasons for Skepticism Toward Automated Decision-Making</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/6-reasons-why-snapchats-my-ai-is-more-than-just-a-cool-toy/"><u>6 Reasons Why Snapchat's My AI Is More Than Just a Cool Toy</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/ace-your-interview-with-chatgpts-guide-to-attaining-the-perfect-job-opportunity/"><u>Ace Your Interview with ChatGPT's Guide to Attaining the Perfect Job Opportunity</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/activate-personalized-nlp-tools-8-ready-to-use-gpt-models/"><u>Activate Personalized NLP Tools: 8 Ready-to-Use GPT Models</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/1722121343411-chatgpt-desktop-awaiting-explore-these-superb-free-community-driven-apps-now/"><u>ChatGPT Desktop Awaiting? Explore These Superb Free, Community-Driven Apps Now!</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/1721953515913-eager-for-chatgpt-on-your-desktop-but-in-limbo-explore-our-top-open-source-substitute-today/"><u>Eager for ChatGPT on Your Desktop but in Limbo? Explore Our Top Open Source Substitute Today</u></a></li>
-<li><a href="https://review-topics.techidaily.com/how-to-changeadd-location-filters-on-snapchat-for-your-honor-x9a-drfone-by-drfone-virtual-android/"><u>How to Change/Add Location Filters on Snapchat For your Honor X9a | Dr.fone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/how-windows-manages-reserved-memory-resources/"><u>How Windows Manages Reserved Memory Resources</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/in-2024-best-4k-gaming-laptops-unleash-game-potential/"><u>In 2024, Best 4K Gaming Laptops - Unleash Game Potential</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-change-location-on-yik-yak-for-your-xiaomi-14-ultra-to-enjoy-more-fun-drfone-by-drfone-virtual-android/"><u>In 2024, Change Location on Yik Yak For your Xiaomi 14 Ultra to Enjoy More Fun | Dr.fone</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/updated-2024-approved-recommended-online-hubs-for-downloading-chill-lofi-imagery-and-harmonies/"><u>Updated 2024 Approved Recommended Online Hubs for Downloading Chill Lofi Imagery & Harmonies</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/why-educators-need-to-welcome-ai-eight-compelling-reasons-for-embracing-technology/"><u>Why Educators Need to Welcome AI: Eight Compelling Reasons for Embracing Technology</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-2024-approved-picsart-app-insights-comprehensive-review-and-walkthrough/"><u>[New] 2024 Approved PicsArt App Insights Comprehensive Review and Walkthrough</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-in-2024-step-into-windows-xp-a-filmmakers-companion/"><u>[New] In 2024, Step Into Windows XP A Filmmaker's Companion</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-2024-approved-transformative-tech-effortlessly-turning-phones-into-vr-gear/"><u>[Updated] 2024 Approved Transformative Tech Effortlessly Turning Phones Into VR Gear</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-asian-miniature-villages-in-creative-sphere-of-mc-for-2024/"><u>[Updated] Asian Miniature Villages in Creative Sphere of MC for 2024</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/2024-approved-a-comprehensive-review-of-the-hp-envy-27s-4k-tech/"><u>2024 Approved A Comprehensive Review of the HP Envy 27'S 4K Tech</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-single-frame-snipping-capturing-stillness-from-videos-in-photos/"><u>2024 Approved Single-Frame Snipping Capturing Stillness From Videos in Photos</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/exclusive-black-friday-offer-grab-the-last-of-our-discounted-79-lenovo-chromebooks-before-cyber-monday-ends/"><u>Exclusive Black Friday Offer: Grab the Last of Our Discounted $79 Lenovo Chromebooks Before Cyber Monday Ends!</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1723202570118-fixing-windows-11-slideshow-and-customized-screen-saver-problems-expert-solutions/"><u>Fixing Windows 11 Slideshow & Customized Screen Saver Problems - Expert Solutions</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/navigating-chatgpt-in-a-portable-world/"><u>Navigating ChatGPT in a Portable World</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/optimizing-your-world-how-chatgpt-can-revolutionize-your-lifestyle/"><u>Optimizing Your World: How ChatGPT Can Revolutionize Your Lifestyle</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/overcoming-6-typical-mishaps-in-chatgpt-conversations/"><u>Overcoming 6 Typical Mishaps in ChatGPT Conversations</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/pioneering-idea-generation-discover-the-leading-5-ai-engines/"><u>Pioneering Idea Generation: Discover the Leading 5 AI Engines</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/preventing-missteps-in-using-chatgpt-to-generate-compelling-content/"><u>Preventing Missteps in Using ChatGPT to Generate Compelling Content</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/privacy-in-dialogue-bot-safeguarding-strategies/"><u>Privacy in Dialogue: Bot Safeguarding Strategies</u></a></li>
 </ul></div>
 

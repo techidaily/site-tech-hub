@@ -1,7 +1,7 @@
 ---
 title: "Qualifying MacBook Buyers Begin Receiving Apple's Compensation: Details on the Class Action Resolution - Tech Insights"
-date: 2025-01-06T16:56:28.554Z
-updated: 2025-01-13T16:56:51.008Z
+date: 2025-01-15T18:56:39.927Z
+updated: 2025-01-19T20:09:10.092Z
 tags:
   - apple
 categories:
@@ -30,6 +30,10 @@ What do I believe Apple needs to reveal -- or, at least, set in motion -- this m
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=EdMRoNAFi0Q6mP7G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. Develop a clear on-device strategy for generative AI and invest in AI-driven developer tools
 
 Apple needs a robust strategy for integrating [gen AI](https://www.zdnet.com/article/what-is-generative-ai-and-why-is-it-so-popular-heres-everything-you-need-to-know/) across its devices. Embedding a small language model into MacOS, iOS, iPadOS, and VisionOS will enable real-time processing, improved responsiveness, and increased privacy by keeping more data on-device. Apple should also provide robust APIs to seamlessly utilize on-device, edge, and cloud processing for natural language understanding and computer vision tasks. 
@@ -48,10 +52,6 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 [See all](https://www.zdnet.com/newsletters/)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 2\. Leverage ethical AI and privacy as a competitive advantage
 
 Emphasizing [ethical AI](https://www.zdnet.com/article/how-we-can-harness-the-power-of-generative-ai-ethically/) development will ensure fairness, transparency, and accountability. Ethical AI involves addressing biases in AI models, ensuring AI decisions are explainable, and adhering to principles that prevent misuse or harm. This approach will help build trust and set a high standard in the AI industry.
@@ -63,6 +63,10 @@ Apple's historical commitment to privacy can also give it a significant advantag
 Providing private or family-specific AI instances would further enhance privacy and personalized interactions. For example, HomePod could recognize individual voices and offer personalized responses, while Apple TV+ could recommend shows tailored to each user. AI can coordinate family schedules, manage activities, and send reminders. Robust privacy controls and advanced parental controls ensure secure and healthy digital environments for children.
 
 By focusing on these principles, Apple can lead by example and set new benchmarks in developing and deploying ethical AI.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 3\. Integrate seamlessly with third-party services and partner with multiple AI providers
 
@@ -78,10 +82,6 @@ Apple should also incorporate [Retrieval-Augmented Generation](https://www.zdnet
 
 Partnering with multiple AI providers, including specialists in natural language processing, computer vision, and machine learning, will bring cutting-edge innovations and accelerate the development of advanced features across Apple's ecosystem. This multi-partner approach reduces the risk of over-reliance on a single provider, increases resilience, and allows Apple to tailor AI solutions to different markets and user segments.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 4\. Deploy AI-accelerated appliances on the edge with dedicated cloud capacity
 
 To meet the growing demand for fast application response times, I believe Apple should consider using AI-accelerated edge devices capable of handling complex AI tasks locally. This would help reduce latency and improve overall performance. Apple's vertically integrated supply chain will likely involve AI servers powered by M2 Ultra and M4 chips, especially within its data centers. This setup would ensure seamless integration with Apple's software and provide greater control over performance and security. Localized processing can be enabled by placing these devices strategically in regional and metropolitan data centers, reducing the reliance on internet bandwidth.
@@ -91,7 +91,7 @@ To meet the growing demand for fast application response times, I believe Apple 
 Additionally, Apple could collaborate with cloud-based AI providers to manage complex AI tasks in the cloud when necessary. Combining edge and cloud resources, this hybrid approach would create a robust and scalable AI infrastructure that supports real-time AI applications such as augmented reality, language translation, and advanced data analytics.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 5\. Enhance proactive assistance and personalization
@@ -105,7 +105,7 @@ AI can enhance contextual awareness by integrating with sensors and data sources
 Proactive health and wellness features could remind users to take medication via the Health app, suggest wellness tips based on activity levels tracked by Apple Watch, and offer mental health support through mindfulness reminders. Personalized routines on Apple devices, like HomePod adjusting lighting based on daily habits, will enhance user experiences.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XA_wP7rS9ww?si=LarMG3sEHAhSoL6q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 6\. Ensure AI shines across all products and services
@@ -125,7 +125,7 @@ Leveraging AI to enhance HomeKit's capabilities is essential, especially since H
 Integrating AI across all devices ensures a seamless user experience. Preferences and data from one device would then inform recommendations on another, creating a unified ecosystem.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/grbt-5VvbuI?si=qnoirlmljslpqcQj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How Apple wins the generative AI race
@@ -170,22 +170,19 @@ For consumers, the AI race is about trust, user experience, and integrating adva
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-record-videos.techidaily.com/new-invigorate-clips-with-top-winter-backdrop-choices/"><u>[New] Invigorate Clips with Top Winter Backdrop Choices</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/ed-from-blogging-to-earning-big-sourav-joshis-youtube-journey-2024/"><u>[Updated] From Blogging to Earning Big Sourav Joshi’s YouTube Journey, 2024</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/updated-in-2024-navigating-powerpoints-voice-recognition-lands-market/"><u>[Updated] In 2024, Navigating PowerPoint's Voice Recognition Lands Market</u></a></li>
-<li><a href="https://article-tips.techidaily.com/2024-approved-dissecting-uav-technology-operation-design-and-use/"><u>2024 Approved Dissecting UAV Technology Operation, Design, and Use</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/2024-approved-the-essence-of-shareable-humorous-content/"><u>2024 Approved The Essence of Shareable Humorous Content</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/capture-vision-add-movie-maker-to-your-win11-media-suite-for-2024/"><u>Capture Vision Add Movie Maker to Your Win11 Media Suite for 2024</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/five-student-driven-uses-for-ai-tutor-chatgpt/"><u>Five Student-Driven Uses for AI Tutor: ChatGPT</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/four-key-methods-governments-use-to-oversee-artificnial-intelligence-technologies/"><u>Four Key Methods Governments Use to Oversee Artificnial Intelligence Technologies</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/from-words-to-artwork-unleashing-the-creative-potential-of-ai-with-dall-e-and-chatgpt-4/"><u>From Words to Artwork: Unleashing the Creative Potential of AI with DALL-E & ChatGPT-4</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/gaming-awaits-top-6-unique-chatgpt-games/"><u>Gaming Awaits: Top 6 Unique ChatGPT Games</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/how-does-predictive-ai-make-its-predictions/"><u>How Does Predictive AI Make Its Predictions?</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/how-i-utilized-chatgpt-for-writing-engaging-podcast-episodes-insights-and-outcomes/"><u>How I Utilized ChatGPT for Writing Engaging Podcast Episodes - Insights and Outcomes</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-change-your-nubia-red-magic-8s-proplus-location-on-twitter-drfone-by-drfone-virtual-android/"><u>How to Change your Nubia Red Magic 8S Pro+ Location on Twitter | Dr.fone</u></a></li>
-<li><a href="https://apple-account.techidaily.com/how-to-reset-apple-id-and-apple-password-on-iphone-xr-by-drfone-ios/"><u>How to Reset Apple ID and Apple Password On iPhone XR</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/innovating-without-constraints-top-gpt-utilities/"><u>Innovating Without Constraints: Top GPT Utilities</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/introducing-chatgpt-your-android-conversation-hub/"><u>Introducing ChatGPT: Your Android Conversation Hub</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/step-by-step-troubleshooting-keep-your-mouse-connected-finally/"><u>Step-by-Step Troubleshooting: Keep Your Mouse Connected, Finally!</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-navigating-the-in-stream-ad-landscape-on-facebook/"><u>[New] Navigating the In-Stream Ad Landscape on Facebook</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-timed-success-organizing-video-conferences-via-slackplusfilmora-for-2024/"><u>[New] Timed Success Organizing Video Conferences via Slack+Filmora for 2024</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-unleash-your-humor-with-excellent-zero-cost-memes-for-2024/"><u>[New] Unleash Your Humor with Excellent Zero-Cost Memes for 2024</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-comparing-profit-potential-dailymovement-and-youtubes-earnings/"><u>[Updated] Comparing Profit Potential DailyMovement and Youtube's Earnings</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/ai-powered-spreadsheet-solutions-via-chatgpt-and-excel/"><u>AI-Powered Spreadsheet Solutions via ChatGPT & Excel</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/all-revealed-delving-into-every-detail-of-apples-artificial-intelligence-at-the-2024-worldwide-developers-conference/"><u>All Revealed: Delving Into Every Detail of Apple's Artificial Intelligence at the 2024 Worldwide Developers Conference</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/anticipating-ai-breakthroughs-expecting-gpt-5s-launch/"><u>Anticipating AI Breakthroughs: Expecting GPT-5's Launch?</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/assessing-chatbot-skills-gpt-versus-huggingface/"><u>Assessing Chatbot Skills: GPT Versus HuggingFace</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/auto-gpt-setup-made-easy-a-comprehensive-tutorial-for-ubuntu-users/"><u>Auto-GPT Setup Made Easy: A Comprehensive Tutorial for Ubuntu Users</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-change-location-on-tiktok-to-see-more-content-on-your-tecno-spark-10-4g-drfone-by-drfone-virtual-android/"><u>How to Change Location on TikTok to See More Content On your Tecno Spark 10 4G | Dr.fone</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-reset-apple-id-and-apple-password-from-apple-iphone-se-2020-by-drfone-ios/"><u>How to Reset Apple ID and Apple Password From Apple iPhone SE (2020)</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-the-ultimate-outro-checklist-for-youtube-success/"><u>In 2024, The Ultimate Outro Checklist for YouTube Success</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/instagrams-hidden-gems-designing-stunning-engaging-puzzle-posts/"><u>Instagram's Hidden Gems Designing Stunning, Engaging Puzzle Posts</u></a></li>
+<li><a href="https://extra-information.techidaily.com/skyrocket-your-storage-top-20-free-cloud-services-to-choose-from-1tbplus/"><u>Skyrocket Your Storage - Top 20 Free Cloud Services to Choose From (1TB+)</u></a></li>
 </ul></div>
 

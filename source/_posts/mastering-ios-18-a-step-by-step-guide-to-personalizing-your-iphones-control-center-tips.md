@@ -1,7 +1,7 @@
 ---
 title: "Mastering iOS 18: A Step-by-Step Guide to Personalizing Your iPhone's Control Center - Tips"
-date: 2025-01-06T16:18:13.525Z
-updated: 2025-01-13T17:03:11.197Z
+date: 2025-01-17T17:02:18.514Z
+updated: 2025-01-19T19:51:21.148Z
 tags:
   - apple
 categories:
@@ -29,10 +29,14 @@ If you want to follow along, you'll need to install the iOS 18 public beta on an
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to customize your iPhone's new Control Center with iOS 18
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1rCjQ09iG7s?si=Si1fUBric8MH1VHI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 1\. Access Control Center
 
@@ -55,7 +59,7 @@ After tapping the plus icon, some controls sport a gray curved handle in the low
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4\. Delete a control
@@ -63,10 +67,6 @@ Screenshot by Lance Whitney/ZDNET
 Next, you can directly delete a control you don't need or want. With the icons in edit mode, tap the minus sign for the icon you want to remove. When the icon is deleted, the surrounding icons should move to fill up the gap.
 
 Screenshot by Lance Whitney/ZDNET
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 5\. Add a control to an existing screen
 
@@ -77,7 +77,7 @@ Screenshot by Lance Whitney/ZDNET
 **Also: [I did not expect this iOS 18 feature announced at WWDC to be my favorite (and it's not AI)](https://www.zdnet.com/article/i-did-not-expect-this-ios-18-feature-announced-at-wwdc-to-be-my-favorite-and-its-not-ai/)**
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 6\. Add a control to a new screen
@@ -87,7 +87,7 @@ If the current screens are already filled with icons, you can set up additional 
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/epKTCSREjhI?si=Ez_hObK1FZrmEE7f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 7\. Power down from Control Center
@@ -126,20 +126,22 @@ Screenshot by Lance Whitney/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-videos.techidaily.com/new-in-2024-ensuring-relevance-and-engagement-with-proper-fb-hashtags/"><u>[New] In 2024, Ensuring Relevance and Engagement with Proper FB Hashtags</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/new-the-best-game-video-recording-and-editing-software-for-beginners/"><u>[New] The Best Game Video Recording and Editing Software for Beginners</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-2024-approved-tailored-techniques-for-logging-high-quality-roblox-sessions-on-a-mac/"><u>[Updated] 2024 Approved Tailored Techniques for Logging High-Quality Roblox Sessions on a Mac</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-in-2024-banishing-unwanted-green-in-mac-recorded-youtube-content/"><u>[Updated] In 2024, Banishing Unwanted Green in Mac-Recorded YouTube Content</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/2024-approved-prime-low-end-pc-capture-programs-reviewed/"><u>2024 Approved Prime Low-End PC Capture Programs Reviewed</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/in-2024-mastering-ps2-replay-on-android-devices-top-picks/"><u>In 2024, Mastering PS2 Replay on Android Devices - Top Picks</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/is-googlen-gemini-the-next-big-thing-or-just-a-shiny-distraction-from-chatgpt/"><u>Is Google'n Gemini the Next Big Thing or Just a Shiny Distraction From ChatGPT?</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/maximizing-therapeutic-impact-through-chatgpt-ai/"><u>Maximizing Therapeutic Impact Through ChatGPT AI</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/navigate-your-neurological-network-9-steps-for-smoother-iphones-and-chatgpt/"><u>Navigate Your Neurological Network: 9 Steps for Smoother iPhones & ChatGPT</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/navigating-through-chatgpts-output-boundaries-can-you-surpass-its-token-limit/"><u>Navigating Through ChatGPT's Output Boundaries: Can You Surpass Its Token Limit?</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/probing-the-efficacy-of-codegpt-could-it-streamline-development/"><u>Probing the Efficacy of CodeGPT: Could It Streamline Development?</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/questioning-zerogpts-credibility-tech-tools-under-fire/"><u>Questioning ZeroGPT's Credibility: Tech Tools Under Fire</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/ready-for-a-challenge-dive-into-chatgpts-selection-of-the-6-greatest-games/"><u>Ready for a Challenge? Dive Into ChatGPT’s Selection of the 6 Greatest Games</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/tweet-titans-social-networks-10-most-shared-posts-for-2024/"><u>Tweet Titans Social Network’s 10 Most Shared Posts for 2024</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/unbeatable-amazon-prime-day-bargains-of-october-2024-top-discounts-you-cant-miss-buyers-guide/"><u>Unbeatable Amazon Prime Day Bargains of October 2024 – Top Discounts You Can't Miss! [Buyer’s Guide]</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-in-2024-polishing-pixels-8-pro-photo-frames-for-images-online/"><u>[Updated] In 2024, Polishing Pixels 8 Pro Photo Frames for Images Online</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/2024-approved-leveraging-frameworks-like-bootstrap-for-rapid-prototyping/"><u>2024 Approved Leveraging Frameworks Like Bootstrap for Rapid Prototyping</u></a></li>
+<li><a href="https://win-blog.techidaily.com/expert-advice-for-a-stable-experience-of-robocop-rogue-city-without-any-crashing-issues/"><u>Expert Advice for a Stable Experience of Robocop: Rogue City Without Any Crashing Issues</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-unlock-a-found-apple-iphone-6-plus-drfone-by-drfone-ios/"><u>In 2024, How To Unlock A Found Apple iPhone 6 Plus? | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-unlock-honor-magic-vs-2-pin-codepattern-lockpassword-by-drfone-android/"><u>In 2024, How to Unlock Honor Magic Vs 2 PIN Code/Pattern Lock/Password</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-unlocking-visual-potential-a-step-by-step-guide-to-video-enhancer-22/"><u>In 2024, Unlocking Visual Potential A Step-by-Step Guide to Video Enhancer 2.2</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/in-depth-look-at-the-samsung-qn55q3u-a-premier-4k-hdr-smart-tv-experience/"><u>In-Depth Look at the Samsung QN55Q3U: A Premier 4K HDR Smart TV Experience</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/navigating-the-speedwave-top-5-reasons-for-gpts-explosion/"><u>Navigating the Speedwave: Top 5 Reasons for GPT's Explosion</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/navigating-through-openais-features-the-complete-user-manual-for-innovative-solutions/"><u>Navigating Through OpenAI's Features: The Complete User Manual for Innovative Solutions</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/revolutionizing-home-improvement-with-gpt-4s-breakthrough-in-ai-technology/"><u>Revolutionizing Home Improvement with GPT-4's Breakthrough in AI Technology</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/should-you-switch-to-copilot-pro-from-copilot-find-out-the-distinct-advantages-here/"><u>Should You Switch to Copilot Pro From Copilot? Find Out the Distinct Advantages Here</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/streamline-workflow-integrating-microsoft-copilot-into-macos/"><u>Streamline Workflow: Integrating Microsoft Copilot Into macOS</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/the-essence-of-claude-3-what-it-does-and-how-to-use-it/"><u>The Essence of Claude 3 – What It Does & How to Use It</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/the-power-of-codegpt-can-this-ai-system-truly-master-the-art-of-programming/"><u>The Power of CodeGPT - Can This AI System Truly Master the Art of Programming?</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/the-price-tag-behind-elon-musks-new-brainchild-understanding-grok-ai-costs/"><u>The Price Tag Behind Elon Musk’s New Brainchild: Understanding Grok AI Costs</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/tips-for-faster-vimeo-video-viewing/"><u>Tips for Faster Vimeo Video Viewing</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-stuck-google-chrome-expert-tactics-to-refresh-and-continue/"><u>Troubleshooting Stuck Google Chrome – Expert Tactics to Refresh and Continue</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: The Next Big Thing for Apple Vision Pro? Innovative Respiratory Health Tracking on the Horizon
-date: 2025-01-06T16:35:28.699Z
-updated: 2025-01-13T16:16:19.646Z
+date: 2025-01-16T19:19:20.607Z
+updated: 2025-01-19T16:56:42.429Z
 tags:
   - apple
 categories:
@@ -28,10 +28,6 @@ If anything, the latest iOS 18.1 betas with Apple Intelligence features have bee
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## The annual upgrade ritual
 
 Every year, my wife and I eagerly await the release of the new iPhones. Being part of [Apple's Upgrade Program](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fiphone%2Fiphone-upgrade-program&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp), we return our devices, reset our loan with Citizens Bank, and acquire the latest model. Over the past few years, I have opted for the [Pro Max](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2Fiphone-15-pro%2F&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp), and my wife has chosen the [base model](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2Fiphone-15%2F&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp). The expected annual improvements have been incremental but appreciated. 
@@ -39,7 +35,7 @@ Every year, my wife and I eagerly await the release of the new iPhones. Being pa
 Despite the buzz around the [iPhone 16's new features](https://www.zdnet.com/article/im-an-android-user-but-these-three-iphone-16-features-would-win-me-over/) and the integration of Apple Intelligence, however, several concerns dampen my enthusiasm for upgrading this year.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/djPqRkskaBo?si=O6FEI-KVW0HwN417" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Apple Intelligence: A significant, yet incomplete, leap forward
@@ -66,6 +62,10 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 [See all](https://www.zdnet.com/newsletters/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## New hardware leaks: what to expect from the iPhone 16
 
 Earlier, I discussed how older -- as well as current generation -- iOS devices [aren't powerful enough to handle on-device Generative AI tasks](https://www.zdnet.com/article/the-expensive-reason-why-apples-upcoming-ai-features-arent-coming-to-your-older-iphone/). The [base iPhone 15](https://www.zdnet.com/article/iphone-15-plus-review/), which has only 6GB of RAM, would struggle to meet the demands of Apple Intelligence as it evolves and becomes more integrated into iOS, core Apple applications, and developer applications. Older iPhones have [6GB of RAM or less](https://iosref.com/ram-processor), and are not eligible to run Apple Intelligence in current iOS 18.1 builds. 
@@ -83,7 +83,7 @@ Interestingly, despite these hardware upgrades, Apple appears to be keeping pric
 Despite these upgrades, the iPhone 16 may still face challenges due to design cycles that didn't fully account for the scope of Apple Intelligence's capabilities. As a result, users may experience suboptimal performance and a less seamless user experience, especially as more AI features roll out in subsequent updates.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Dn-24B6AURY?si=ErES2KWVnintY6h9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Why you shouldn't buy the iPhone 16 for Apple Intelligence
@@ -95,7 +95,7 @@ Besides memory concerns, AI processing demands a lot of power and additional com
 For these reasons, I see the iPhone 16 (and potentially even the iPhone 17) as a transitional product in Apple's journey toward on-device AI. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How Apple Intelligence will likely evolve
@@ -115,7 +115,7 @@ Enterprises may also employ a mobile device management solution to facilitate ac
 Imagine your iPhone using the unused processing power of your Mac or iPad, all equipped with on-device LLMs, to tackle complex AI tasks. This would increase the accessibility of AI features across Apple's product range.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## I'm still optimistic
@@ -158,16 +158,18 @@ _This article was originally published on June 28, 2024, and updated on August 2
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-videos.techidaily.com/new-in-2024-how-can-you-stream-a-pre-recorded-video-live-on-facebook/"><u>[New] In 2024, How Can You Stream A Pre-Recorded Video Live on Facebook?</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/new-in-2024-top-7-economical-options-mac-compatible-tiktok-editors/"><u>[New] In 2024, Top 7 Economical Options Mac-Compatible TikTok Editors</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/updated-how-to-zoom-in-google-meet-best-ways-for-2024/"><u>[Updated] How to Zoom in Google Meet [Best Ways] for 2024</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-in-2024-leveraging-edits-to-captivate-audiences-on-instagram/"><u>[Updated] In 2024, Leveraging Edits to Captivate Audiences on Instagram</u></a></li>
-<li><a href="https://location-fake.techidaily.com/5-best-route-generator-apps-you-should-try-on-poco-x6-pro-drfone-by-drfone-virtual-android/"><u>5 Best Route Generator Apps You Should Try On Poco X6 Pro | Dr.fone</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/essential-dos-and-donts-navigating-generative-ai-successfully/"><u>Essential Dos and Don'ts: Navigating Generative AI Successfully</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/exploring-chatgpt-token-restrictions-insights-on-surpassing-character-constraints/"><u>Exploring ChatGPT Token Restrictions: Insights on Surpassing Character Constraints</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/exploring-the-impact-of-ai-chatbot-content-filtering-what-you-need-to-know/"><u>Exploring the Impact of AI Chatbot Content Filtering: What You Need to Know</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/from-baseline-to-boosted-performance-the-unique-features-of-gpt-4-gpt-4-turbo-and-gpt-n/"><u>From Baseline to Boosted Performance: The Unique Features of GPT-4, GPT-4 Turbo, & GPT-N</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/how-to-sign-up-for-chatgpts-new-plugins-feature/"><u>How to Sign Up for ChatGPT's New Plugins Feature</u></a></li>
-<li><a href="https://ios-location-track.techidaily.com/two-ways-to-track-my-boyfriends-apple-iphone-12-pro-without-him-knowing-drfone-by-drfone-virtual-ios/"><u>Two Ways to Track My Boyfriends Apple iPhone 12 Pro without Him Knowing | Dr.fone</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-2024-approved-premium-serene-pc-games-catalog/"><u>[New] 2024 Approved Premium Serene PC Games Catalog</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/2024-approved-leveraging-visuals-easy-guide-to-integrating-snap-camera-on-teams/"><u>2024 Approved Leveraging Visuals Easy Guide to Integrating Snap Camera on Teams</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/3-facts-you-need-to-know-about-screen-mirroring-honor-90-drfone-by-drfone-android/"><u>3 Facts You Need to Know about Screen Mirroring Honor 90 | Dr.fone</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/in-2024-enhance-visibility-with-any-channel-title-through-free-makers/"><u>In 2024, Enhance Visibility With Any Channel Title Through Free Makers</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-quick-fixes-to-design-delight-canvas-top-10-tips/"><u>In 2024, Quick Fixes to Design Delight Canva's Top 10 Tips</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/must-do-tasks-for-enhanced-podcast-experience/"><u>Must-Do Tasks for Enhanced Podcast Experience</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/the-top-5-differences-between-advanced-language-models-gpt-4-versus-gpt-35-unpacked/"><u>The Top 5 Differences Between Advanced Language Models: GPT-4 Versus GPT-3.5 Unpacked</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/the-ultimate-list-of-the-best-artificial-intelligence-notetakers-for-superior-organization/"><u>The Ultimate List of the Best Artificial Intelligence Notetakers for Superior Organization</u></a></li>
+<li><a href="https://app-tips.techidaily.com/the-ultimate-list-of-top-ranking-lock-screen-enhancers-for-android-devices/"><u>The Ultimate List of Top-Ranking Lock Screen Enhancers for Android Devices</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/top-4-artificial-intelligence-story-creation-tools-to-enhance-your-writing/"><u>Top 4 Artificial Intelligence Story Creation Tools to Enhance Your Writing</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/top-8-innovative-applications-of-chatgpt-vision/"><u>Top 8 Innovative Applications of ChatGPT Vision</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/try-duckduckgos-ai-chat-for-private-chats-with-chatgpt-and-more/"><u>Try DuckDuckGo's AI Chat for Private Chats With ChatGPT and More</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/usb-c-vision-the-new-standard-in-monitors-hp-envy-27-for-2024/"><u>USB-C Vision The New Standard in Monitors - HP Envy 27 for 2024</u></a></li>
 </ul></div>
 

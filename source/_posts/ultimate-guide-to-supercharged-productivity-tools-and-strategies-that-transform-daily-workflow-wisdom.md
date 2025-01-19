@@ -1,7 +1,7 @@
 ---
 title: "Ultimate Guide to Supercharged Productivity: Tools and Strategies That Transform Daily Workflow Wisdom"
-date: 2025-01-06T17:00:30.917Z
-updated: 2025-01-13T16:28:15.787Z
+date: 2025-01-16T17:38:51.811Z
+updated: 2025-01-19T18:06:42.126Z
 tags:
   - apple
 categories:
@@ -32,10 +32,6 @@ Today, I coordinate with teams, rather than manage them. I have students rather 
 
 I use a tremendous number of tools for my projects, and they often change from project to project. But what I'm going to discuss here are the tools I use on a daily basis to manage my "flow". 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## What do I mean by my flow?
 
 I divide my work day into two main chunks of time: Communications and knowledge gathering time, and project time. Every day has pretty much the same communications and knowledge gathering activities, which follows a relatively consistent pattern that has proven to be highly productive for me. These are the daily productivity activities I've been talking about. 
@@ -48,6 +44,10 @@ That whole process is my flow. Over my many various iterations, I've managed to 
 
 The other half of my day is project time. This is when I work on everything from academic papers to the presentations, white papers, and webcasts I do for ZDNet to developing code to most of the projects I write about for DIY-IT. I tend to work on projects in the late afternoon and the late evening, with a break in the early evening for family time and lunch or dinner. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nWu29cqFjZA?si=TNZyCbPq68PQ0JIb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Changes due to the pandemic
 
 The last time I updated this guide was in early 2019\. Obviously, a few things have happened since then. In terms of my daily productivity, I go out a lot less than I used to. Back then, I was often running from place to place and had to build up an everyday carry (EDC) that could allow me to dive into any project or work with any team no matter where I was. I had EDC kits for a coffee shop programming run and EDC kits for week long conference work. I even built an EDC for [emergency evacuation of an indeterminate time](https://www.zdnet.com/article/road-tech-how-i-left-florida-to-escape-irma-and-never-went-back/).
@@ -57,6 +57,10 @@ The last time I updated this guide was in early 2019\. Obviously, a few things h
 Now, [mostly I'm home](https://www.zdnet.com/article/whats-inside-gewirtzs-home-office-20-years-of-refinement-and-evolution/). If I'm out, it's a dedicated out-and-back with a specific purpose. There is no meandering, browsing, or schmoozing. Yes, I know other people may feel comfortable going back to the pre-pandemic normal, but I have reasons for playing it a bit more safe than most might.
 
 In any case, what that means is that instead of my escalating ranking of phones, tablets, Chromebooks and laptops, I just carry my [iPhone 12 Pro Max](https://www.zdnet.com/article/dont-buy-that-expensive-new-iphone-13-how-used-iphones-can-deliver-huge-savings/). It will keep me up to speed until I get back home and can pick up where I left off.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Tools for my daily flow
 
@@ -88,10 +92,6 @@ At this point, I tend to take note of what's in my inbox, but I neither process 
 
 I also take a quick look at my calendar and my to-do list to make sure I know what's on deck for the day. 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Daily must-reads with Pocket
 
 Next up, I hit my daily most-reads. Of course, this starts with [_ZDNet_](https://www.zdnet.com/), then usually [_Drudge_](http://www.drudgereport.com/)and [_Techmeme_](http://www.techmeme.com/). I do a quick headline scan and anything that seems worth reading, I right-click and save to [Pocket](http://getpocket.com/). 
@@ -108,6 +108,10 @@ By this point, I'm somewhere between 30 and 60 minutes into my day, I've had one
 
 Depending on the importance and urgency of the messages in my Gmail inbox, I'll either go straight into my morning email cycle or begin my morning reading. I prefer to do morning reading before email, so I'll discuss that next. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DCARjc5g5VI?si=9OfovbKBrpoJeXTY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## The Pocket-read-post-archive cycle
 
 I read. A lot. I need to keep up to date on a tremendous amount of information, both breaking news related and deep technical or academic information. As a result, a good percentage of my morning is spent reading. I also watch a lot of YouTube videos. I'm almost always learning about new stuff, and many YouTube videos provide great introductions to both how those things work and what they do. Without YouTube, I never would have [gotten my CNC up and running](https://www.zdnet.com/article/hands-on-building-the-next-generation-x-carve-cnc-build-log/) and done [my first successful build](https://www.zdnet.com/article/my-first-big-cnc-project-a-parts-organizer-rack/).
@@ -121,7 +125,7 @@ Part of my morning flow is posting to the social networks. Unfortunately, this h
 But Facebook broke that. Facebook no longer allows tools like Buffer and [Hootsuite](https://hootsuite.com/) to to post to personal Facebook pages. I've spent years building up my personal Facebook page following and don't want to start a corporate page (or orphan all my followers), so when Facebook broke auto-posting, it hurt. Now, I hand post to Twitter and then do it again on Facebook. LinkedIn gets a lot less attention, and, frankly, I post less frequently. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5OmJZ4Z8jgk?si=YIoEaPI8geoiFSYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Featured reviews
@@ -161,10 +165,6 @@ Now, to be fair, I have a slight email fetish, so I do check back in to my inbox
 
 In fact, now that I have email notifications integrated into my watch, I'm finding I'm actually breaking myself of the habit, because unless I hear the notification tone, I don't have any important emails coming in. I have actually gone a few hours without checking my email inbox, which is something of a record for me. 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Managing my daily teaching opportunities
 
 As it turns out, supporting users is a lot like teaching online students.
@@ -180,7 +180,7 @@ I just think of those users like more of my students. If any questions show up i
 By the way, this is also a great way to think about users, which I initially was a bit unhappy about adding to my daily workload. But the reframe is this: I'm an educator and these are more people in need of assistance while they're learning to use these plugins. So, rather than thinking about providing user support as an added workload, I think of the users as more of my students and their questions as simply more teaching opportunities. It's also a great way to keep up on what people are doing out there, and gives me a much more "on the street" dialog with users, which is invaluable as a tech journalist.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/l4R7_qNIQvY?si=2zJOPfEcm6_3udzn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Featured
@@ -191,10 +191,6 @@ By the way, this is also a great way to think about users, which I initially was
 * [Want a programming job? Learn these three languages](https://www.zdnet.com/article/want-a-programming-job-learn-these-three-languages/)
 
 Here's another little trick I use: I get a lot of feature requests (which I call "cool feature ideas") from the plugin users. The go into [the bug tracking system I manage in Notion](https://www.zdnet.com/article/notion-app-review/).
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## To-doing my to-do list
 
@@ -231,6 +227,10 @@ That, by the way, is the entire key to keeping your to-do list under control. If
 [The best 3D printers If you're in the market for a 3D printer, you'll find one here that fits your needs.  Read now](https://www.zdnet.com/article/best-3d-printer/)
 
 I've also set up Notion pages for each 3D printer, and for managing and tracking my reviews and video projects. It's great as a catch-all for lots of details, but unlike previous catch-alls like Evernote, Notion allows you to assign some structure and layout to the stuff you're working with. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Blocking out time for my projects
 
@@ -275,24 +275,21 @@ _You can follow my day-to-day project updates on social media. Be sure to follow
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-support.techidaily.com/updated-laugh-o-matic-crafting-gags-on-the-house-rate/"><u>[Updated] Laugh-O-Matic Crafting Gags on the House Rate</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/updated-quick-tips-efficiently-post-videos-on-igtv/"><u>[Updated] Quick Tips Efficiently Post Videos on IGTV</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/updated-the-ultimate-guide-to-unblocked-video-sharing-for-2024/"><u>[Updated] The Ultimate Guide to Unblocked Video Sharing for 2024</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/diving-into-deep-learning-utilizing-gpt-nate-within-openais-interactive-platform/"><u>Diving Into Deep Learning: Utilizing GPT-Nate Within OpenAI’s Interactive Platform</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/eagerly-anticipating-the-chatgpt-desktop-release-discover-an-amazing-open-source-option/"><u>Eagerly Anticipating the ChatGPT Desktop Release? Discover an Amazing Open Source Option</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/elevating-chatgpt-a-guide-to-10-custom-tweaks/"><u>Elevating ChatGPT: A Guide to 10 Custom Tweaks</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/explore-leading-artificial-intelligence-tools-for-advanced-online-search-experience/"><u>Explore Leading Artificial Intelligence Tools for Advanced Online Search Experience</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/exploring-the-dilemma-how-do-we-ensure-ai-acts-with-human-values/"><u>Exploring the Dilemma: How Do We Ensure AI Acts with Human Values?</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/exploring-variants-how-does-gpt-4-turbo-stack-up-against-standard-gpt-4/"><u>Exploring Variants: How Does GPT- 4 Turbo Stack Up Against Standard GPT-4?</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/harnessing-artifice-intelligence-top-5-mental-health-assistance-apps-with-bot-counselors/"><u>Harnessing Artifice Intelligence: Top 5 Mental Health Assistance Apps with Bot Counselors</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-change-samsung-galaxy-f04-location-on-skout-drfone-by-drfone-virtual-android/"><u>How to Change Samsung Galaxy F04 Location on Skout | Dr.fone</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/how-to-use-chatgpt-as-a-language-translation-tool/"><u>How to Use ChatGPT as a Language Translation Tool</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/in-2024-advanced-3d-shaping-crafting-perfect-mc-circles-and-spheres/"><u>In 2024, Advanced 3D Shaping Crafting Perfect MC Circles & Spheres</u></a></li>
-<li><a href="https://fox-links.techidaily.com/in-2024-assessing-video-broadcast-tools-wirecasts-place/"><u>In 2024, Assessing Video Broadcast Tools WireCast's Place</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/1715859771485-in-2024-how-to-minimize-stress-in-ipad-screen-recordings-heres-a-way/"><u>In 2024, How to Minimize Stress in iPad Screen Recordings? Here's a Way!</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/in-2024-latest-guide-on-ipad-23-and-iphone-15-icloud-activation-lock-bypass-by-drfone-ios/"><u>In 2024, Latest Guide on iPad 2/3 and iPhone 15 iCloud Activation Lock Bypass</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/is-ais-forecast-accurate-can-chatgpt-outshine-traditional-horoscopes-in-predicting-the-future/"><u>Is AI's Forecast Accurate: Can ChatGPT Outshine Traditional Horoscopes in Predicting the Future?</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/lg-stylo-6-review/"><u>LG Stylo 6 Review</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/transformer-gratuitement-un-fichier-mp4-en-m2ts-en-ligne-movavi/"><u>Transformer Gratuitement Un Fichier MP4 en M2TS en Ligne - Movavi</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/new-visual-magic-grading-through-hue-manipulation/"><u>[New] Visual Magic Grading Through Hue Manipulation</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-2024-approved-perfect-bgms-and-images-elevating-remote-conferencing/"><u>[Updated] 2024 Approved Perfect BGMs & Images Elevating Remote Conferencing</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-deciding-on-ideal-vimeo-subscription-plan-for-2024/"><u>[Updated] Deciding on Ideal Vimeo Subscription Plan for 2024</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-in-2024-dynamic-duo-of-collage-and-creativity-light-up-your-world/"><u>[Updated] In 2024, Dynamic Duo of Collage & Creativity Light Up Your World</u></a></li>
+<li><a href="https://win-hot.techidaily.com/expert-tips-for-spotting-and-fixing-registry-problems-insights-from-yl-software-professionals/"><u>Expert Tips for Spotting & Fixing Registry Problems - Insights From YL Software Professionals</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/keeping-the-chuckles-stealing-twitters-gif-content/"><u>Keeping the Chuckles Stealing Twitter's GIF Content</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/pilot-progressions-understanding-copilot-enhancements/"><u>Pilot Progressions: Understanding CoPilot Enhancements</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/top-10-affordable-online-communication-apps-for-video-calls-for-2024/"><u>Top 10 Affordable Online Communication Apps for Video Calls for 2024</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/transform-your-storytelling-with-chatgpt-crafting-immersive-rpg-experiences-via-interactive-dialogues/"><u>Transform Your Storytelling with ChatGPT: Crafting Immersive RPG Experiences via Interactive Dialogues</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/understanding-the-bert-nlp-framework-a-comparison-with-gpt-models/"><u>Understanding the BERT NLP Framework: A Comparison with GPT Models</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/understanding-the-mystery-of-ai-black-boxes-functions-and-mechanisms/"><u>Understanding the Mystery of AI Black Boxes: Functions & Mechanisms</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/unleash-productivity-explore-the-top-6-chatgpt-modules-integrated-in-visual-studio-code/"><u>Unleash Productivity: Explore the Top 6 ChatGPT Modules Integrated in Visual Studio Code</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/unlock-the-potential-of-auto-gpt-with-these-8-strategic-applications/"><u>Unlock the Potential of Auto-GPT with These 8 Strategic Applications</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/unlocking-seamless-wireless-experience-understanding-t-mobiles-partnership-with-metropcs-for-unlimited-data/"><u>Unlocking Seamless Wireless Experience: Understanding T-Mobile's Partnership with MetroPCS for Unlimited Data</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/unpacking-emotional-intelligence-in-machine-learning/"><u>Unpacking Emotional Intelligence in Machine Learning</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/what-to-look-forward-to-as-microsoft-enhances-bing-with-artificnial-intelligence-technology/"><u>What to Look Forward to as Microsoft Enhances Bing with Artificnial Intelligence Technology</u></a></li>
 </ul></div>
 

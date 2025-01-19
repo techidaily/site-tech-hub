@@ -1,7 +1,7 @@
 ---
 title: "Investigating the Origins: The In-Depth Story Behind CrowdStrike and the Infamous Windows Meltdn of '24 | Insights"
-date: 2025-01-10T16:41:33.873Z
-updated: 2025-01-13T16:05:05.629Z
+date: 2025-01-16T18:24:57.825Z
+updated: 2025-01-19T18:00:43.235Z
 tags:
   - apple
 categories:
@@ -33,7 +33,7 @@ In this case, the trusted software developer is a firm called CrowdStrike Holdin
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What happened?
@@ -55,7 +55,7 @@ Repairing the damage from a flaw like this is a painfully tedious process that r
 If you know anyone whose job involves administering Windows PCs in a corporate network that uses the CrowdStrike code, you can be confident they are very busy right now, and will be for days to come.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5FWCFI3f_cs?si=Kt2Onr_E4c616tbH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## We've seen this movie before
@@ -95,7 +95,7 @@ In the You Can't Make This Up Department… CrowdStrike's founder and CEO, Georg
 What makes the 2024 sequel so much worse is that it also affected Windows-based servers running in the cloud, on Microsoft Azure and on AWS. Just as with the many laptops and desktop PCs that were bricked by this faulty update, the cloud-based servers require time-consuming manual interventions to recover.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OdlXe5RELW0?si=Iz1H1QnLQVw-Eu3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## CrowdStrike's QA failed
@@ -125,7 +125,7 @@ As part of its initial response, CrowdStrike says it plans to take additional me
 Meanwhile, the United States House of Representatives Homeland Security Committee plans to call CrowdStrike's CEO up for hearings on what went wrong, and CrowdStrike's Chief Security Officer, Shawn Henry, [posted an apology on LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:7220983915421806592/), admitting "On Friday, we failed you. ... The confidence we built in drips over the years was lost in buckets within hours, and it was a gut punch."
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5OmJZ4Z8jgk?si=YIoEaPI8geoiFSYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How much fault should Microsoft shoulder?
@@ -176,24 +176,22 @@ Nonetheless, this incident, which caused many billions of dollars' worth of dama
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://desktop-recording.techidaily.com/boost-your-farming-skills-with-stardews-top-7-mods/"><u>Boost Your Farming Skills with Stardew's Top 7 Mods</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/free-gpt-4-for-everyone-still-6-benefits-to-staying-with-plus/"><u>Free GPT-4 for Everyone; Still, 6 Benefits to Staying with Plus</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/geoengineerings-promise-or-peril-in-combatting-warming/"><u>Geoengineering's Promise or Peril in Combatting Warming?</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/harness-the-power-of-your-voice-to-direct-chatgpt-a-5-step-guide/"><u>Harness the Power of Your Voice to Direct ChatGPT: A 5-Step Guide</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/how-to-leverage-agentgpt-for-browser-integrated-ai-agent-setup-and-controls/"><u>How to Leverage AgentGPT for Browser-Integrated AI Agent Setup and Controls</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/hugging-face-significance-and-utility/"><u>Hugging Face: Significance & Utility</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/huion-pen-issues-here-are-5-fast-and-effective-solutions-to-get-it-running-again/"><u>Huion Pen Issues? Here Are 5 Fast and Effective Solutions to Get It Running Again</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/impatient-for-chatgpts-release-embrace-this-outstanding-open-source-alternative-right-away/"><u>Impatient for ChatGPT's Release? Embrace This Outstanding Open Source Alternative Right Away!</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-how-to-use-snapchat-location-spoofer-to-protect-your-privacy-on-lava-blaze-2-drfone-by-drfone-virtual-android/"><u>In 2024, How to use Snapchat Location Spoofer to Protect Your Privacy On Lava Blaze 2? | Dr.fone</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/incorporating-your-own-generative-models-into-chatgpt-sessions-a-how-to-approach/"><u>Incorporating Your Own Generative Models Into ChatGPT Sessions: A How-To Approach</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/integrating-gpt-into-your-pcs-os/"><u>Integrating GPT Into Your PC's OS</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/interactive-learning-getting-started-with-nvidias-advanced-chatbot-using-the-rtx-platform/"><u>Interactive Learning: Getting Started with Nvidia's Advanced Chatbot Using the RTX Platform</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/keeping-a-tab-on-chatgpts-operating-health/"><u>Keeping a Tab on ChatGPT's Operating Health</u></a></li>
-<li><a href="https://review-topics.techidaily.com/mkv-playback-issues-on-xiaomi-redmi-note-13-5g-by-aiseesoft-video-converter-play-mkv-on-android/"><u>MKV playback issues on Xiaomi Redmi Note 13 5G</u></a></li>
-<li><a href="https://driver-download.techidaily.com/seamless-setup-of-intels-ac-31n60-wi-fi-adapter-latest-driver-update-tutorial/"><u>Seamless Setup of Intel's AC 31N60 Wi-Fi Adapter - Latest Driver Update Tutorial</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/seaside-and-spa-tech-perfection-guidebook/"><u>Seaside & Spa Tech Perfection Guidebook</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/the-magnificent-art-of-pokemon-go-streaming-on-realme-11x-5g-drfone-by-drfone-virtual-android/"><u>The Magnificent Art of Pokemon Go Streaming On Realme 11X 5G? | Dr.fone</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/unbeatable-vr-savings-alert-secure-metas-last-chance-october-prime-day-quest-3-with-huge-512gb-storage-discount-gadgetguru/"><u>Unbeatable VR Savings Alert: Secure Meta’s Last-Chance October Prime Day Quest 3 with Huge 512GB Storage Discount | GadgetGuru</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/ling-the-10-most-reliable-youtube-to-webm-transformers-for-2024/"><u>Unveiling the 10 Most Reliable YouTube-to-WebM Transformers for 2024</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-insightful-cloud-costs-price-comparison-and-recommendations-for-2024/"><u>[Updated] Insightful Cloud Costs Price, Comparison & Recommendations for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-swiftly-piece-together-a-stunning-google-photo-collage/"><u>[Updated] Swiftly Piece Together a Stunning Google Photo Collage</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/15-plant-health-solution-detect-and-nourish-your-greenery-back-to-life-with-our-expert-tips-zdnet/"><u>$15 Plant Health Solution: Detect & Nourish Your Greenery Back to Life with Our Expert Tips | ZDNET</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/clocking-down-the-big-day-10-best-mobile-apps-revealed/"><u>Clocking Down the Big Day 10 Best Mobile Apps Revealed</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/diy-photography-hack-the-complete-strategy-for-effective-selfie-light-usage/"><u>DIY Photography Hack: The Complete Strategy for Effective Selfie Light Usage</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/edit-your-videos-without-costs-using-windows-11s-top-free-tools/"><u>Edit Your Videos Without Costs Using Windows 11'S Top Free Tools</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/get-a-jump-on-innovation-8-gpt-models-you-can-implement-without-delay/"><u>Get a Jump on Innovation: 8 GPT Models You Can Implement Without Delay</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/gpt-4-demystified-in-verified-social-circles-by-meta/"><u>GPT-4 Demystified in Verified Social Circles by Meta</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/how-does-chatgpts-use-of-recent-data-impact-all-users/"><u>How Does ChatGPT's Use of Recent Data Impact All Users?</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/how-does-claude-ai-transform-user-experience-learn-why-you-need-it-today/"><u>How Does Claude AI Transform User Experience? Learn Why You Need It Today</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-photos-on-itel-s23-by-stellar-photo-recovery-android-mobile-photo-recover/"><u>How to recover deleted photos on Itel S23</u></a></li>
+<li><a href="https://ios-location-track.techidaily.com/in-2024-top-10-telegram-spy-tools-on-apple-iphone-xr-for-parents-drfone-by-drfone-virtual-ios/"><u>In 2024, Top 10 Telegram Spy Tools On Apple iPhone XR for Parents | Dr.fone</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/innovative-techniques-designing-impactful-presentations-through-chatgpt/"><u>Innovative Techniques: Designing Impactful Presentations Through ChatGPT</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/journey-through-quora-to-discover-botsllms/"><u>Journey Through Quora to Discover Bots/LLMs</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/leveraging-chatgpt-to-establish-and-reach-your-personal-health-goals-efficiently/"><u>Leveraging ChatGPT to Establish and Reach Your Personal Health Goals Efficiently</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/making-it-easy-how-to-switch-between-webp-jpg-and-png-using-dall-e-3s-outputs/"><u>Making It Easy: How to Switch Between WebP, JPG, and PNG Using DALL-E 3'S Outputs</u></a></li>
+<li><a href="https://discover-extraordinary.techidaily.com/yl-computings-expert-tips-for-diagnosing-and-fixing-printer-network-errors/"><u>YL Computing's Expert Tips for Diagnosing and Fixing Printer Network Errors</u></a></li>
 </ul></div>
 

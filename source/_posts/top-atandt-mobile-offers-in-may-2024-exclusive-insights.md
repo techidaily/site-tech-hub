@@ -1,7 +1,7 @@
 ---
 title: Top AT&T Mobile Offers in May 2024 - Exclusive Insights
-date: 2025-01-10T16:30:47.075Z
-updated: 2025-01-13T16:48:54.737Z
+date: 2025-01-17T18:56:09.796Z
+updated: 2025-01-19T17:33:43.058Z
 tags:
   - apple
 categories:
@@ -21,10 +21,6 @@ To ensure you know what the best deals are this month, we rounded up the best AT
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Best AT&T deals
 
@@ -121,7 +117,7 @@ If you order this product via AT&T on a suitable plan, you will receive this mob
 [View now at AT&T](https://www.anrdoezrs.net/links/9041660/type/dlg/sid/zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp/https://www.att.com/buy/phones/motorola-razrplus.html) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/r_wWybMqZEM?si=0nPjCQDLS2MCaQbG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## More AT&T deals
@@ -138,6 +134,10 @@ If you order this product via AT&T on a suitable plan, you will receive this mob
 
 [Motorola moto g stylus, $2.99/month, no trade-in required View now at AT&T](https://www.anrdoezrs.net/links/9041660/type/dlg/sid/zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp/https://www.att.com/buy/phones/motorola-moto-g-stylus-5g-2023.html)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Accessory and service deals
 
 [Google Pixel Buds A-Series wireless earbuds: Save 50% when you buy a Pixel device View now at AT&T](https://www.anrdoezrs.net/links/9041660/type/dlg/sid/zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp/https://www.att.com/buy/accessories/Headphones/google-pixel-buds-a-series-true-wireless-earbuds-clearly-white.html)
@@ -147,10 +147,6 @@ If you order this product via AT&T on a suitable plan, you will receive this mob
 [AT&T 15W wireless charging pad: $10 (save $19) $10 at AT&T](https://www.anrdoezrs.net/links/9041660/type/dlg/sid/zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp/https://www.att.com/buy/accessories/Chargers/att-15w-wireless-charging-pad.html)
 
 [BodyGuardz Pure 2 Edge antimicrobial glass screen protector (iPhone 14 range) for $10 (save $35) $10 at AT&T](https://www.anrdoezrs.net/links/9041660/type/dlg/sid/zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp/https://www.att.com/buy/accessories/Screen-Protectors/bodyguardz-pure-2-edge-antimicrobial-tempered-glass-screen-protector-iphone-14-13-13-pro.html)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## How did we choose these AT&T phone deals?
 
@@ -163,20 +159,20 @@ When we made our selection for the best AT&T deals, we wanted to include options
 * **Events**: It's always worth checking retailers after a major event, such as Samsung Unpacked. You will often find that deals will be launched just after, luring customers to agree to preorder their new handset in return for discounts and free storage upgrades.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_SbYznUy_zY?si=ThBkP934r3mizi48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/793ViIxl4tI?si=DDBkjPlPX5bZ-f1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Does AT&T offer deals for existing customers?
 
 It's true that carriers are the most aggressive with their offers when it's year-end and new customers are shopping around for services to switch to. Still, AT&T has done a fairly balanced job of pushing promotions for new and existing customers, including all the deals we have listed above. If you've been a loyal customer, we'd even recommend reaching out to your local AT&T provider to see if there are any exclusive deals just for you.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Is it cheaper to buy a phone online or in-store?
 
 In general, there is no difference in how much money you save whether you shop online or in stores. Instead, deciding between the two really boils down to your preference for transactions. With how complicated carrier phone deals can be, you may be better off heading down to the local AT&T store and consulting with a product expert to help you navigate the fine print. Otherwise, shopping online can be faster and more convenient.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## What are the best deals right now?
 
@@ -186,6 +182,10 @@ ZDNET experts split out the latest and greatest deals for you below.
 
 * [The best AT&T deals](https://www.zdnet.com/article/att-deals/)
 * [The best Verizon deals](https://www.zdnet.com/article/verizon-deals/)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### **Best deals by category**
 
@@ -236,22 +236,24 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-share.techidaily.com/updated-proven-steps-for-effortless-creation-of-youtube-shorts-credits/"><u>[Updated] Proven Steps for Effortless Creation of YouTube Shorts Credits</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/2024-approved-essential-android-mobas-the-ultimate-list/"><u>2024 Approved Essential Android MOBAs The Ultimate List</u></a></li>
-<li><a href="https://techidaily.com/complete-guide-to-hard-reset-your-realme-gt-5-240w-drfone-by-drfone-reset-android-reset-android/"><u>Complete Guide to Hard Reset Your Realme GT 5 (240W) | Dr.fone</u></a></li>
-<li><a href="https://fox-that.techidaily.com/how-to-resolve-facetime-not-working-a-comprehensive-list-of-15-solutions/"><u>How to Resolve FaceTime Not Working: A Comprehensive List of 15 Solutions</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/in-2024-converting-zip-to-subrip-srt-format-a-step-by-step-guide/"><u>In 2024, Converting ZIP to SubRip (SRT) Format A Step-by-Step Guide</u></a></li>
-<li><a href="https://tiktok-clips.techidaily.com/in-2024-global-gastronomy-guide-iconic-dishes-and-recipes/"><u>In 2024, Global Gastronomy Guide Iconic Dishes and Recipes</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/in-2024-how-to-get-the-dragon-scale-and-evolution-enabled-pokemon-on-honor-v-purse-drfone-by-drfone-virtual-android/"><u>In 2024, How to get the dragon scale and evolution-enabled pokemon On Honor V Purse? | Dr.fone</u></a></li>
-<li><a href="https://location-social.techidaily.com/proven-ways-in-how-to-hide-location-on-life360-for-meizu-21-drfone-by-drfone-virtual-android/"><u>Proven Ways in How To Hide Location on Life360 For Meizu 21 | Dr.fone</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/the-future-of-medicine-can-chatgpt-change-everything-we-know-about-healthcare/"><u>The Future of Medicine: Can ChatGPT Change Everything We Know About Healthcare?</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/the-hidden-dangers-of-custom-gpts-strategies-for-keeping-your-sensitive-information-secure/"><u>The Hidden Dangers of Custom GPTs: Strategies for Keeping Your Sensitive Information Secure</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/the-next-decade-leaders-views-on-artificial-intelligence/"><u>The Next Decade: Leaders' Views on Artificial Intelligence</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/top-6-largest-and-most-advanced-language-ai-models/"><u>Top 6 Largest and Most Advanced Language AI Models</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/top-9-benefits-of-switching-to-chatgpt-plus-unlock-your-potential/"><u>Top 9 Benefits of Switching to ChatGPT Plus - Unlock Your Potential</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/transformative-tools-at-your-fingertips-the-significance-of-chatgpt-and-whisper-api-for-modern-companies/"><u>Transformative Tools at Your Fingertips: The Significance of ChatGPT & Whisper API for Modern Companies</u></a></li>
-<li><a href="https://win-deluxe.techidaily.com/transition-securely-how-to-upgrade-from-windows-781-to-windows-10-without-losing-any-files/"><u>Transition Securely: How to Upgrade From Windows 7/8.1 to Windows 10 Without Losing Any Files</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/understanding-prompt-engineering-employment-prospects-and-essential-elements-to-know/"><u>Understanding Prompt Engineering Employment Prospects & Essential Elements to Know</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/understanding-the-turing-test-defining-human-level-intelligence-in-machines/"><u>Understanding the Turing Test: Defining Human-Level Intelligence in Machines</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/updated-blueprinting-breathtaking-cinematic-sketches/"><u>[Updated] Blueprinting Breathtaking Cinematic Sketches</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-in-2024-elevate-your-videos-a-complete-shift-from-sdr-to-hdr/"><u>[Updated] In 2024, Elevate Your Videos A Complete Shift From SDR to HDR</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-in-2024-obs-studio-and-lut-application-guide-for-professional-cinematographers/"><u>[Updated] In 2024, OBS Studio & LUT Application Guide for Professional Cinematographers</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-in-2024-reposting-photosvideos-a-users-manual/"><u>[Updated] In 2024, Reposting Photos/Videos A User's Manual</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-mastering-the-art-of-uplifting-daily-existence-videos/"><u>[Updated] Mastering the Art of Uplifting Daily Existence Videos</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/experience-personalized-ai-assistance-free-and-locally-installed-chatgpt-clone-with-gpt4all-on-windows/"><u>Experience Personalized AI Assistance: Free and Locally Installed ChatGPT Clone with GPT4All on Windows</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/explore-these-exceptional-no-cost-ai-applications-for-producing-stunning-visuals/"><u>Explore These Exceptional No-Cost AI Applications for Producing Stunning Visuals</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/exploring-auto-gpt-versus-chatgpt-uncovering-their-distinct-capabilities/"><u>Exploring Auto-GPT Versus ChatGPT: Uncovering Their Distinct Capabilities</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/forefront-ai-explained-does-it-outshine-chatgpt/"><u>Forefront AI Explained – Does It Outshine ChatGPT?</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/from-zero-to-hero-installing-gpt-on-ubuntu/"><u>From Zero to Hero: Installing GPT on Ubuntu</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/how-does-the-new-ai-regulation-in-europe-influence-chatgpt/"><u>How Does the New AI Regulation in Europe Influence ChatGPT?</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/how-to-train-custom-chatgpt-models-with-company-specific-information/"><u>How to Train Custom ChatGPT Models With Company-Specific Information</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-unlocking-made-easy-the-best-10-apps-for-unlocking-your-nubia-z50-ultra-device-by-drfone-android/"><u>In 2024, Unlocking Made Easy The Best 10 Apps for Unlocking Your Nubia Z50 Ultra Device</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/is-it-worth-exploring-auto-gpt-while-anticipating-the-release-of-gpt-4/"><u>Is It Worth Exploring Auto-GPT While Anticipating the Release of GPT-4?</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/is-truthgpt-coin-genuine-or-fraudulent-uncovering-the-facts/"><u>Is TruthGPT Coin Genuine or Fraudulent? Uncovering the Facts</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-final-cut-pro-color-matching-secrets-expert-tips-for-a-cohesive-look-for-2024/"><u>New Final Cut Pro Color Matching Secrets Expert Tips for a Cohesive Look for 2024</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/s-vital-views-youtubes-quick-hit-list/"><u>Today's Vital Views YouTube’s Quick Hit List</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-the-ultimate-guide-to-animated-text-in-video-best-mobile-apps-for-2024/"><u>Updated The Ultimate Guide to Animated Text in Video Best Mobile Apps for 2024</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/visual-virtuosity-expertly-adding-motion-blur-to-facial-images-via-picsart/"><u>Visual Virtuosity Expertly Adding Motion Blur to Facial Images via Picsart</u></a></li>
 </ul></div>
 

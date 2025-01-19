@@ -1,7 +1,7 @@
 ---
 title: Mastering the Customization of Control Center in iOS 18 for Your iPhone | MobileMastery
-date: 2025-01-10T16:51:30.971Z
-updated: 2025-01-13T16:47:28.376Z
+date: 2025-01-16T16:04:45.497Z
+updated: 2025-01-19T17:34:18.968Z
 tags:
   - apple
 categories:
@@ -28,11 +28,11 @@ If you want to follow along, you'll need to install the iOS 18 public beta on an
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-## How to customize your iPhone's new Control Center with iOS 18
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+## How to customize your iPhone's new Control Center with iOS 18
 
 ## 1\. Access Control Center
 
@@ -41,7 +41,7 @@ To display Control Center, swipe down from the top-right corner of the screen. Y
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zXUt81WsQpI?si=W3DKIAsa2-qbGadJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Move the available controls
@@ -59,7 +59,7 @@ After tapping the plus icon, some controls sport a gray curved handle in the low
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4\. Delete a control
@@ -67,10 +67,6 @@ Screenshot by Lance Whitney/ZDNET
 Next, you can directly delete a control you don't need or want. With the icons in edit mode, tap the minus sign for the icon you want to remove. When the icon is deleted, the surrounding icons should move to fill up the gap.
 
 Screenshot by Lance Whitney/ZDNET
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 5\. Add a control to an existing screen
 
@@ -81,7 +77,7 @@ Screenshot by Lance Whitney/ZDNET
 **Also: [I did not expect this iOS 18 feature announced at WWDC to be my favorite (and it's not AI)](https://www.zdnet.com/article/i-did-not-expect-this-ios-18-feature-announced-at-wwdc-to-be-my-favorite-and-its-not-ai/)**
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 6\. Add a control to a new screen
@@ -89,6 +85,10 @@ Screenshot by Lance Whitney/ZDNET
 If the current screens are already filled with icons, you can set up additional screens to hold more controls. Swipe down to the last screen, which shouldn't have any free space. Tap the plus icon and then tap "Add a Control." Again, browse or search for the control you wish to add. Tap that control, and it should appear in a new screen. You can continue adding more controls to the new screen this way. You can create as many as 15 screens, though you'll probably want to stop before you reach that number.
 
 Screenshot by Lance Whitney/ZDNET
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 7\. Power down from Control Center
 
@@ -126,16 +126,18 @@ Screenshot by Lance Whitney/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-knowledge.techidaily.com/new-2024-approved-trends-in-remote-control-drones-syma-x8c/"><u>[New] 2024 Approved Trends in Remote Control Drones Syma X8C</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/new-instagram-exit-wave-analysis-for-2024/"><u>[New] Instagram Exit Wave Analysis for 2024</u></a></li>
-<li><a href="https://some-tips.techidaily.com/updated-the-art-of-choosing-video-aspect-ratios/"><u>[Updated] The Art of Choosing Video Aspect Ratios</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/approved-mobile-savvy-tailoring-youtube-video-thumbnails-with-phones/"><u>2024 Approved Mobile-Savvy Tailoring YouTube Video Thumbnails with Phones</u></a></li>
-<li><a href="https://howto.techidaily.com/8-solutions-to-solve-youtube-app-crashing-on-realme-v30t-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>8 Solutions to Solve YouTube App Crashing on Realme V30T | Dr.fone</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-what-legendaries-are-in-pokemon-platinum-on-xiaomi-14-drfone-by-drfone-virtual-android/"><u>In 2024, What Legendaries Are In Pokemon Platinum On Xiaomi 14? | Dr.fone</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/top-6-artificial-intelligence-note-taking-solutions-for-enhanced-note-organization/"><u>Top 6 Artificial Intelligence Note-Taking Solutions for Enhanced Note Organization</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/troubleshooting-tips-to-fix-high-demand-error-with-chatgpt-on-windows/"><u>Troubleshooting Tips to Fix High Demand Error with ChatGPT on Windows</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/unleash-creativity-start-with-8-designed-gpts/"><u>Unleash Creativity: Start with 8 Designed GPTs</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/unleashing-chatgpts-potential-for-revolutionizing-video-game-script-creation/"><u>Unleashing ChatGPT's Potential for Revolutionizing Video Game Script Creation</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/unveiling-claude-pros-edge-over-microsofts-upgraded-chatbot-chatgpt-plus/"><u>Unveiling Claude Pro's Edge Over Microsoft’s Upgraded Chatbot, ChatGPT Plus</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-2024-approved-social-soundtrack-top-10-music-videos-on-facebook/"><u>[New] 2024 Approved Social Soundtrack Top 10 Music Videos on Facebook</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-2024-approved-boost-engagement-crafting-effective-thumbnails/"><u>[Updated] 2024 Approved Boost Engagement Crafting Effective Thumbnails</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-fusion-of-video-files-for-ios-devices/"><u>[Updated] Fusion of Video Files for iOS Devices</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-hp-envy-27-review-where-4k-meets-usb-c-tech-for-2024/"><u>[Updated] HP Envy 27 Review - Where 4K Meets USB-C Tech for 2024</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/reevaluating-trust-zerogpt-and-comparable-detection-tech/"><u>Reevaluating Trust: ZeroGPT & Comparable Detection Tech</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/revolutionizing-file-processing-the-6-top-gpt-applications/"><u>Revolutionizing File Processing: The 6 Top GPT Applications</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/should-you-consider-using-auto-gpt-before-gpt-4-becomes-ready/"><u>Should You Consider Using Auto-GPT Before GPT-4 Becomes Ready?</u></a></li>
+<li><a href="https://win-dash.techidaily.com/step-by-step-guide-converting-your-scratch-sb3-file-into-an-mp4-video/"><u>Step-by-Step Guide: Converting Your Scratch (.SB3) File Into an MP4 Video</u></a></li>
+<li><a href="https://discover-hacks.techidaily.com/step-by-step-guide-locating-and-updating-hardware-drivers-in-windows-tips-from-yl-computing/"><u>Step-by-Step Guide: Locating & Updating Hardware Drivers in Windows - Tips From YL Computing</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/step-by-step-tutorial-on-crafting-your-own-version-of-chatgpt-with-user-provided-data/"><u>Step-by-Step Tutorial on Crafting Your Own Version of ChatGPT with User-Provided Data</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/synergizing-machine-intelligence-3-ways-to-leverage-chatgpt-and-wolframalpha/"><u>Synergizing Machine Intelligence: 3 Ways to Leverage ChatGPT & WolframAlpha</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/the-era-of-individual-ai-openais-personalized-gpt-shops/"><u>The Era of Individual AI: OpenAI's Personalized GPT Shops</u></a></li>
+<li><a href="https://blog-min.techidaily.com/web-cam-virtuoso-master-your-broadcasts-with-manycams-cutting-edge-tools/"><u>Web Cam Virtuoso: Master Your Broadcasts with ManyCam's Cutting-Edge Tools</u></a></li>
 </ul></div>
 

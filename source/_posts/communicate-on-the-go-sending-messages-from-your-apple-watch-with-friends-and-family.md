@@ -1,7 +1,7 @@
 ---
 title: "Communicate on the Go: Sending Messages From Your Apple Watch with Friends and Family"
-date: 2025-01-12T17:01:25.450Z
-updated: 2025-01-13T16:03:35.554Z
+date: 2025-01-16T16:36:02.975Z
+updated: 2025-01-19T19:48:34.920Z
 tags:
   - apple
 categories:
@@ -27,12 +27,16 @@ New with the latest version of watchOS is a feature called Check In. Accessible 
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to check in with a friend or family member from your Apple Watch
 
 **What you'll need**: To use Check In, you have to be running watchOS 11 or higher on your Apple Watch, which requires iOS 18 or higher on your iPhone. [These Apple Watch models](https://www.zdnet.com/article/every-apple-watch-that-will-get-watchos-11-and-which-models-wont-be-supported/) can run watchOS 11.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 1\. Update your devices
 
@@ -50,6 +54,10 @@ Launch the Messages app on your Apple Watch. Start or continue a conversation wi
 
 Screenshot by Lance Whitney/ZDNET
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 3\. View the initial Check In notification
 
 The recipient receives a notification alerting them that you sent them a Check In with a specific time. After tapping OK, the recipient is asked if they want to allow critical alerts, which they should do. A text message then displays the time when they'll receive the alert that you reached your destination.
@@ -66,19 +74,11 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 [See all](https://www.zdnet.com/newsletters/)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 4\. View the actual Check in alert
 
 When the timer is up to indicate that you should have reached your destination, you'll be prompted to stop the Check In to confirm that you've arrived. You can add more time or cancel the Check In. Otherwise, the recipient will receive your Check In notification. If the confirmation isn't sent, more time will be added. After that, the recipient will be informed that you haven't yet checked in. They can then try to contact you by text or phone call to find out why you haven't yet arrived.
 
 Screenshot by Lance Whitney/ZDNET
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 5\. Change the time for a Check In
 
@@ -105,7 +105,7 @@ Screenshot by Lance Whitney/ZDNET
 **Also: [Your Apple Watch is getting an upgrade - here are the best features in WatchOS 11](https://www.zdnet.com/article/your-apple-watch-is-getting-an-upgrade-here-are-the-best-features-in-watchos-11/)**
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 8\. Set a Check In for a workout in the Messages app
@@ -115,7 +115,7 @@ Maybe you're working out at the gym or at home and want to let someone know when
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 9\. Set a Check In for a workout in the Workout app
@@ -154,17 +154,24 @@ Screenshot by Lance Whitney/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://driver-error.techidaily.com/fixed-trouble-with-nvidia-geforce-experience-and-games/"><u>[Fixed] Trouble with Nvidia GeForce Experience and Games?</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/2024-approved-take-your-online-presence-to-new-heights-with-youtube-edits-in-sony-vegas/"><u>2024 Approved Take Your Online Presence to New Heights with YouTube Edits in Sony Vegas</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/7-ways-to-lock-apps-on-apple-iphone-11-pro-and-ipad-securely-drfone-by-drfone-ios/"><u>7 Ways to Lock Apps on Apple iPhone 11 Pro and iPad Securely | Dr.fone</u></a></li>
-<li><a href="https://win11.techidaily.com/guide-to-modify-win11s-network-preferences/"><u>Guide to Modify Win11's Network Preferences</u></a></li>
-<li><a href="https://win-dash.techidaily.com/hp-laserjet-m506-printer-drivers-download-and-version-updates-guide/"><u>HP Laserjet M506 Printer Drivers: Download & Version Updates Guide</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/in-2024-creating-an-impactful-entry-for-your-podcast/"><u>In 2024, Creating an Impactful Entry for Your Podcast</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/online-vrije-converteren-van-mxf-naar-wmv-lekker-zelfs-met-movavi/"><u>Online Vrije Converteren Van MXF Naar WMV - Lekker Zelfs Met Movavi</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/unlocking-the-power-of-ai-10-ways-to-use-chatgpt-for-landing-jobs-on-linkedin/"><u>Unlocking the Power of AI: 10 Ways to Use ChatGPT for Landing Jobs on LinkedIn</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/unlocking-the-secrets-mobile-devices-at-50-and-free-ransomware-removal-tips-plus-the-power-of-chatgpt-in-our-podcast/"><u>Unlocking the Secrets: Mobile Devices at $50 & Free Ransomware Removal Tips + The Power of ChatGPT in Our Podcast</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/unraveling-the-distinctions-nlp-vs-ml-a-comparative-guide/"><u>Unraveling the Distinctions: NLP vs ML - A Comparative Guide</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/unveiling-8-critical-shortcomings-in-openais-ai-language-model-chatgpt/"><u>Unveiling 8 Critical Shortcomings in OpenAI's AI Language Model, ChatGPT</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/utilizing-chatgpt-to-support-cognitive-behavioral-therapy-techniques/"><u>Utilizing ChatGPT to Support Cognitive Behavioral Therapy Techniques</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-facebook-live-cutting-edge-strategies-audiences-for-2024/"><u>[New] Facebook Live Cutting-Edge Strategies Audiences for 2024</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-achieving-seamless-background-blurs-in-video-calls/"><u>[Updated] Achieving Seamless Background Blurs in Video Calls</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-photo-visionaries-guide-unveiling-the-best-6-high-res-cameras/"><u>[Updated] Photo Visionaries Guide Unveiling the Best 6 High-Res Cameras</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/1715860817234-2024-approved-snap-and-save-your-android-no-price-tag/"><u>2024 Approved Snap & Save Your Android - No Price Tag!</u></a></li>
+<li><a href="https://android-frp.techidaily.com/a-quick-guide-to-oppo-a1-5g-frp-bypass-instantly-by-drfone-android/"><u>A Quick Guide to Oppo A1 5G FRP Bypass Instantly</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/exploring-the-impact-is-chatgpt-a-game-changer-for-search-engine-markets/"><u>Exploring the Impact: Is ChatGPT a Game-Changer for Search Engine Markets?</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/fraudgpt-explained-identifying-hazards-and-safeguarding-against-chatbot-scams/"><u>FraudGPT Explained: Identifying Hazards and Safeguarding Against Chatbot Scams</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/from-conversation-to-creativity-4-reasons-for-claude-3-preference/"><u>From Conversation to Creativity: 4 Reasons for Claude 3 Preference</u></a></li>
+<li><a href="https://techtrends.techidaily.com/future-tech-uncovered-projecting-googles-next-watch-pricing-launch-date-and-possible-features-explored/"><u>Future Tech Uncovered: Projecting Google's Next Watch – Pricing, Launch Date & Possible Features Explored</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/how-chatgpt-revolutionizes-home-cooking-a-guide-to-7-benefits/"><u>How ChatGPT Revolutionizes Home Cooking: A Guide to 7 Benefits</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/how-to-enable-the-latest-beta-update-on-chatgpt-navigate-online-and-use-plugins-like-never-before/"><u>How to Enable the Latest Beta Update on ChatGPT: Navigate Online & Use Plugins Like Never Before!</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/how-vpns-influence-gpt-point-to-point-engagement/"><u>How VPNs Influence GPT' Point-to-Point Engagement?</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/in-depth-showcase-testing-the-newest-dell-visual-panel-advanced-anc-headset-and-ultrasharp-webcam-unit/"><u>In-Depth Showcase: Testing the Newest Dell Visual Panel, Advanced ANC Headset, & UltraSharp Webcam Unit</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/inside-generative-ai-key-concepts-distilled/"><u>Inside Generative AI: Key Concepts Distilled</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/is-it-normal-investigating-why-chatgpt-4-is-less-rapid-than-chatgpt-35/"><u>Is It Normal? Investigating Why ChatGPT-4 Is Less Rapid Than ChatGPT-3.5</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/mastering-the-art-of-communicating-with-chatgpt-for-car-customization-help/"><u>Mastering the Art of Communicating with ChatGPT for Car Customization Help</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshoot-and-fix-crashes-in-madden-20-on-your-computer-with-ease/"><u>Troubleshoot and Fix Crashes in Madden 20 on Your Computer With Ease</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-tips-resolving-issues-with-an-aoc-monitor-compatibility-on-windows-10/"><u>Troubleshooting Tips: Resolving Issues with an AOC Monitor Compatibility on Windows 10</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/unlock-creativity-idea-driven-youtube-channel-titles-for-2024/"><u>Unlock Creativity Idea-Driven YouTube Channel Titles for 2024</u></a></li>
 </ul></div>
 

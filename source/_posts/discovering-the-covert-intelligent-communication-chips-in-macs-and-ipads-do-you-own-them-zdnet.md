@@ -1,7 +1,7 @@
 ---
 title: Discovering the Covert Intelligent Communication Chips in Macs and iPads - Do You Own Them? | ZDNET
-date: 2025-01-10T16:00:23.626Z
-updated: 2025-01-13T16:28:41.074Z
+date: 2025-01-15T18:58:02.759Z
+updated: 2025-01-19T18:58:23.040Z
 tags:
   - apple
 categories:
@@ -28,14 +28,10 @@ If you want to follow along, you'll need to install the iOS 18 public beta on an
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## How to customize your iPhone's new Control Center with iOS 18
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. Access Control Center
@@ -45,7 +41,7 @@ To display Control Center, swipe down from the top-right corner of the screen. Y
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Move the available controls
@@ -56,6 +52,10 @@ Screenshot by Lance Whitney/ZDNET
 
 **Also: [Every iPhone model that can be updated to Apple's iOS 18 (and which ones can't)](https://www.zdnet.com/article/every-iphone-model-that-can-be-updated-to-apples-ios-18-and-which-ones-cant/)**
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2ipTu54inBo?si=gRegjvtVq5gm_PHo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 3\. Resize a control
 
 After tapping the plus icon, some controls sport a gray curved handle in the lower-right corner. This means you can resize the control's icon. Drag the handle and move it up, down, or diagonally. Release it when the icon is the size you wish.
@@ -63,7 +63,7 @@ After tapping the plus icon, some controls sport a gray curved handle in the low
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QRaEdFMU-Xc?si=OjaiTvlogJy5wHhN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GFHH14XlFCk?si=2HcjQbDx5eG0ZQAt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4\. Delete a control
@@ -72,10 +72,6 @@ Next, you can directly delete a control you don't need or want. With the icons i
 
 Screenshot by Lance Whitney/ZDNET
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 5\. Add a control to an existing screen
 
 You can easily add a control to any screen that has available space. Pick a screen with some empty space at the bottom. After tapping the plus icon, tap the command for "Add a Control." Browse the screens of accessible controls until you find the one you want to add. You can also look for a specific control by name through the Search field at the top. Tap the control, and it should appear in the available space, where you can move or resize it if you wish.
@@ -83,6 +79,10 @@ You can easily add a control to any screen that has available space. Pick a scre
 Screenshot by Lance Whitney/ZDNET
 
 **Also: [I did not expect this iOS 18 feature announced at WWDC to be my favorite (and it's not AI)](https://www.zdnet.com/article/i-did-not-expect-this-ios-18-feature-announced-at-wwdc-to-be-my-favorite-and-its-not-ai/)**
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 6\. Add a control to a new screen
 
@@ -126,24 +126,19 @@ Screenshot by Lance Whitney/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-recording.techidaily.com/new-2024-approved-unlocking-social-connections-facetime-tutorials-for-android/"><u>[New] 2024 Approved Unlocking Social Connections Facetime Tutorials for Android</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/new-pro-level-text-wonders-discover-the-top-10-for-videos/"><u>[New] Pro-Level Text Wonders - Discover the Top 10 for Videos</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-2024-approved-maximize-your-obs-fb-integration-tips/"><u>[Updated] 2024 Approved Maximize Your OBS-FB Integration Tips</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ed-5-dreamy-winter-scenes-as-youtube-backdrops/"><u>[Updated] 5 Dreamy Winter Scenes as YouTube Backdrops</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-unleash-your-devices-new-tone-with-top-5-chrome-extensions/"><u>2024 Approved Unleash Your Device's New Tone with Top 5 Chrome Extensions</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/can-i-recover-permanently-deleted-photos-from-x9b-by-stellar-photo-recovery-android-mobile-photo-recover/"><u>Can I recover permanently deleted photos from X9b</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-factory-reset-iphone-15-pro-and-ipad-without-apple-id-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>How to Factory Reset iPhone 15 Pro and iPad Without Apple ID | Stellar</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/leading-edge-unveiling-the-five-key-ai-hardware-breakthroughs/"><u>Leading Edge: Unveiling the Five Key AI Hardware Breakthroughs</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/navigating-language-tech-unpacking-bert-and-gpt/"><u>Navigating Language Tech: Unpacking BERT & GPT</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/navigating-the-new-normal-strategies-for-success-in-ai-times/"><u>Navigating the New Normal: Strategies for Success in AI Times</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/navigating-vpn-use-with-chatgpt-is-it-feasible-and-safe/"><u>Navigating VPN Use with ChatGPT: Is It Feasible and Safe?</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/new-2024-approved-download-edit-and-share-the-complete-online-video-guide/"><u>New 2024 Approved Download, Edit, and Share The Complete Online Video Guide</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/quick-fixes-for-4-major-account-restrictions-on-gpt/"><u>Quick Fixes for 4 Major Account Restrictions on GPT</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/revolutionizing-creation-ten-advances-by-ai/"><u>Revolutionizing Creation: Ten Advances by AI</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/the-art-of-preserving-gpt-conversations/"><u>The Art of Preserving GPT Conversations</u></a></li>
-<li><a href="https://fake-location.techidaily.com/the-best-8-vpn-hardware-devices-reviewed-on-realme-c55-drfone-by-drfone-virtual-android/"><u>The Best 8 VPN Hardware Devices Reviewed On Realme C55 | Dr.fone</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/the-breakthrough-of-contextual-understanding-with-gemini-15-and-its-one-million-token-milestone/"><u>The Breakthrough of Contextual Understanding with Gemini 1.5 and Its One Million Token Milestone</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/top-10-automated-pdf-generators-integrating-with-chatgpt-streamline-your-workflow/"><u>Top 10 Automated PDF Generators Integrating with ChatGPT: Streamline Your Workflow</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/troubleshooting-steps-to-repair-non-functional-microphone-on-the-turtle-beach-elite-atlas/"><u>Troubleshooting Steps to Repair Non-Functional Microphone on the Turtle Beach Elite Atlas</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/back-4-blood-performance-boost-fixing-and-preventing-high-network-delays-for-smoother-gaming/"><u>'Back 4 Blood' Performance Boost: Fixing and Preventing High Network Delays for Smoother Gaming</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-2024-approved-essential-insights-mastering-youtube-keyword-strategies/"><u>[Updated] 2024 Approved Essential Insights Mastering YouTube Keyword Strategies</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-flutter-free-your-videos-a-selection-of-excellent-converters/"><u>[Updated] 2024 Approved Flutter Free Your Videos A Selection of Excellent Converters</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-2024-approved-leading-digital-image-grabbers/"><u>[Updated] 2024 Approved Leading Digital Image Grabbers</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-in-2024-transform-storytelling-crafting-ig-questions-for-impact/"><u>[Updated] In 2024, Transform Storytelling Crafting IG Questions for Impact</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/best-android-data-recovery-undelete-lost-music-from-poco-x6-pro-by-fonelab-android-recover-music/"><u>Best Android Data Recovery - Undelete Lost Music from Poco X6 Pro</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/quick-guide-to-addressing-lsa-deactivation-issue/"><u>Quick Guide to Addressing LSA Deactivation Issue</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/revolutionizing-biz-strategy-with-chatgpt-whisper-apis/"><u>Revolutionizing Biz Strategy with ChatGPT, Whisper APIs</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/scriptwriting-success-on-youtube-leveraging-chatgpt-for-top-notch-videos/"><u>Scriptwriting Success on YouTube: Leveraging ChatGPT for Top-Notch Videos</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/scrutinizing-the-substance-of-truthgpt-token/"><u>Scrutinizing the Substance of TruthGPT Token</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/secure-your-conversations-with-duckduckgos-privacy-focused-ai-chat-experience-gpt-and-friends/"><u>Secure Your Conversations with DuckDuckGo's Privacy-Focused AI Chat - Experience GPT & Friends!</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/138588892-9781452539034-the-awakening-of-a-warrior-angel/"><u>The Awakening of a Warrior-Angel | Free Book</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/the-genesis-of-machine-minds-chronicles-from-the-birth-of-ai-technology/"><u>The Genesis of Machine Minds: Chronicles From the Birth of AI Technology</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/understanding-the-limits-reasons-to-avoid-using-chatgpt-for-sensitive-communication/"><u>Understanding the Limits: Reasons to Avoid Using ChatGPT for Sensitive Communication</u></a></li>
 </ul></div>
 

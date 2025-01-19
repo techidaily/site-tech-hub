@@ -1,7 +1,7 @@
 ---
 title: Is the Latest AirPower Footage a Sign of Resurrected Qi Wireless Charger by Apple? Exclusive Insights | TechCrunch
-date: 2025-01-08T16:07:03.618Z
-updated: 2025-01-13T16:40:27.221Z
+date: 2025-01-17T16:41:36.101Z
+updated: 2025-01-19T16:27:34.612Z
 tags:
   - apple
 categories:
@@ -30,6 +30,10 @@ What do I believe Apple needs to reveal -- or, at least, set in motion -- this m
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1rCjQ09iG7s?si=Si1fUBric8MH1VHI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. Develop a clear on-device strategy for generative AI and invest in AI-driven developer tools
 
 Apple needs a robust strategy for integrating [gen AI](https://www.zdnet.com/article/what-is-generative-ai-and-why-is-it-so-popular-heres-everything-you-need-to-know/) across its devices. Embedding a small language model into MacOS, iOS, iPadOS, and VisionOS will enable real-time processing, improved responsiveness, and increased privacy by keeping more data on-device. Apple should also provide robust APIs to seamlessly utilize on-device, edge, and cloud processing for natural language understanding and computer vision tasks. 
@@ -49,7 +53,7 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 [See all](https://www.zdnet.com/newsletters/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Leverage ethical AI and privacy as a competitive advantage
@@ -63,10 +67,6 @@ Apple's historical commitment to privacy can also give it a significant advantag
 Providing private or family-specific AI instances would further enhance privacy and personalized interactions. For example, HomePod could recognize individual voices and offer personalized responses, while Apple TV+ could recommend shows tailored to each user. AI can coordinate family schedules, manage activities, and send reminders. Robust privacy controls and advanced parental controls ensure secure and healthy digital environments for children.
 
 By focusing on these principles, Apple can lead by example and set new benchmarks in developing and deploying ethical AI.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/l-SCWTWpegY?si=oxTsHQkIu1v4-I6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 3\. Integrate seamlessly with third-party services and partner with multiple AI providers
 
@@ -83,7 +83,7 @@ Apple should also incorporate [Retrieval-Augmented Generation](https://www.zdnet
 Partnering with multiple AI providers, including specialists in natural language processing, computer vision, and machine learning, will bring cutting-edge innovations and accelerate the development of advanced features across Apple's ecosystem. This multi-partner approach reduces the risk of over-reliance on a single provider, increases resilience, and allows Apple to tailor AI solutions to different markets and user segments.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4\. Deploy AI-accelerated appliances on the edge with dedicated cloud capacity
@@ -95,7 +95,7 @@ To meet the growing demand for fast application response times, I believe Apple 
 Additionally, Apple could collaborate with cloud-based AI providers to manage complex AI tasks in the cloud when necessary. Combining edge and cloud resources, this hybrid approach would create a robust and scalable AI infrastructure that supports real-time AI applications such as augmented reality, language translation, and advanced data analytics.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DCARjc5g5VI?si=9OfovbKBrpoJeXTY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 5\. Enhance proactive assistance and personalization
@@ -125,7 +125,7 @@ Leveraging AI to enhance HomeKit's capabilities is essential, especially since H
 Integrating AI across all devices ensures a seamless user experience. Preferences and data from one device would then inform recommendations on another, creating a unified ecosystem.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qNrOsjUdRz0?si=xGzhmNmtgxNTsRxN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1KKovVi9epE?si=EF7KA7b4KsEpWA-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How Apple wins the generative AI race
@@ -170,22 +170,17 @@ For consumers, the AI race is about trust, user experience, and integrating adva
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-clips.techidaily.com/new-2024-approved-final-cut-pro-x-a-guide-to-instagrams-vertical-preference/"><u>[New] 2024 Approved Final Cut Pro X A Guide to Instagram’s Vertical Preference</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-capturing-the-action-a-twitch-broadcasters-handbook/"><u>[New] Capturing the Action A Twitch Broadcaster's Handbook</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-reviewing-free-screen-recorder-tools-for-pc-for-2024/"><u>[New] Reviewing Free Screen Recorder Tools for PC for 2024</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/new-top-8-software-linux-friendly-editing-tools/"><u>[New] Top 8 Software Linux-Friendly Editing Tools</u></a></li>
-<li><a href="https://win-dash.techidaily.com/download-your-windows-sm-bus-controller-drivers-supported-on-windows-11-10-and-earlier-editions/"><u>Download Your Window's SM Bus Controller Drivers - Supported on Windows 11, 10, and Earlier Editions</u></a></li>
-<li><a href="https://fox-shield.techidaily.com/expert-guide-diagnosing-and-fixing-faulty-hard-drives-tips-by-yl-computing/"><u>Expert Guide: Diagnosing and Fixing Faulty Hard Drives - Tips by YL Computing</u></a></li>
-<li><a href="https://blog-min.techidaily.com/in-2024-how-to-use-life360-on-windows-pc-for-nokia-c110-drfone-by-drfone-virtual-android/"><u>In 2024, How to Use Life360 on Windows PC For Nokia C110? | Dr.fone</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/in-2024-pinnacle-8-webcams-for-high-definition-streaming/"><u>In 2024, Pinnacle 8 Webcams for High-Definition Streaming</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/simplify-data-interpretation-4-ways-with-chatgpt-for-pdfs/"><u>Simplify Data Interpretation: 4 Ways with ChatGPT for PDFs</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/step-by-step-guide-to-enhancing-skills-through-chatgpt-from-classic-board-games-to-modern-graphic-design/"><u>Step-by-Step Guide to Enhancing Skills Through ChatGPT: From Classic Board Games to Modern Graphic Design</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/strategizing-for-secure-interactions-with-adaptive-ai/"><u>Strategizing for Secure Interactions with Adaptive AI</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/the-best-ispoofer-alternative-to-try-on-asus-rog-phone-8-pro-drfone-by-drfone-virtual-android/"><u>The Best iSpoofer Alternative to Try On Asus ROG Phone 8 Pro | Dr.fone</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/the-intersection-of-paperclip-algorithms-and-artificial-intelligence/"><u>The Intersection of Paperclip Algorithms & Artificial Intelligence</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/the-lowdown-on-grok-ai-what-elon-musks-new-tech-can-do-and-how-much-it-will-set-you-back/"><u>The Lowdown on Grok AI - What Elon Musk's New Tech Can Do & How Much It Will Set You Back?</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/the-ultimate-list-of-crypto-chatgpt-bot-enhancements-boosting-interaction-and-engagement/"><u>The Ultimate List of Crypto ChatGPT Bot Enhancements: Boosting Interaction and Engagement</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/transform-your-workday-with-chatgpt-discover-the-seven-secrets-to-supercharged-performance/"><u>Transform Your Workday with ChatGPT: Discover the Seven Secrets to Supercharged Performance</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/understanding-ai-chatbots-how-do-they-work-and-their-rising-popularity/"><u>Understanding AI Chatbots: How Do They Work & Their Rising Popularity</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-revisiting-radeon-review-and-restore-for-2024/"><u>[New] Revisiting Radeon Review and Restore for 2024</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-in-2024-quick-quip-cinema-script/"><u>[Updated] In 2024, Quick Quip Cinema Script</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-inject-energy-into-youtube-snapshots/"><u>[Updated] Inject Energy Into YouTube Snapshots</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-optimal-after-effects-scripting-solutions/"><u>[Updated] Optimal After Effects Scripting Solutions</u></a></li>
+<li><a href="https://article-posts.techidaily.com/2024-approved-experts-guide-to-the-15-top-luts-for-gopro-films/"><u>2024 Approved Expert's Guide to The 15 Top LUTs for GoPro Films</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/discover-the-best-ai-chatbot-tools-for-supporting-psychological-health-and-resilience/"><u>Discover the Best AI Chatbot Tools for Supporting Psychological Health and Resilience</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/elevating-intelligence-discovering-this-years-top-5-technological-frontiers/"><u>Elevating Intelligence: Discovering This Year's Top 5 Technological Frontiers</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/elite-marketplaces-offering-advanced-ai-toolkits-for-content-creation/"><u>Elite Marketplaces Offering Advanced AI Toolkits for Content Creation</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/empowering-researchers-the-role-of-ai-in-advancing-educational-study-methods/"><u>Empowering Researchers: The Role of AI in Advancing Educational Study Methods</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/global-audiences-local-stories-crafting-engaging-instagramcaptions-for-2024/"><u>Global Audiences, Local Stories - Crafting Engaging #InstagramCaptions for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/the-ultimate-fix-for-non-responsive-or-hidden-mouse-cursors-in-windows-11-environments/"><u>The Ultimate Fix for Non-Responsive or Hidden Mouse Cursors in Windows 11 Environments</u></a></li>
+<li><a href="https://win11.techidaily.com/tutorial-achieving-a-trio-of-widget-grids-on-windows-11/"><u>Tutorial: Achieving a Trio of Widget Grids on Windows 11</u></a></li>
 </ul></div>
 

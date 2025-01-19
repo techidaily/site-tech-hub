@@ -1,7 +1,7 @@
 ---
 title: \\[ \\Left(\\frac{1}{2}l\\right)^2 + L^2 = 10^2 \\
-date: 2025-01-07T16:00:55.022Z
-updated: 2025-01-13T16:47:03.077Z
+date: 2025-01-15T16:59:06.215Z
+updated: 2025-01-19T17:45:49.623Z
 tags:
   - apple
 categories:
@@ -41,10 +41,6 @@ While the Pixel 6 Pro at time of release was only $100 cheaper ($899) than the $
 | Colors                 | Cloudy White, Sorta Sunny, Stormy Black                                                                                                                                      | Alpine Green, Silver, Gold, Graphite, Sierra Blue                                                                                                                                                                                                                                                                                                           |
 | Price                  | [Starting at $899](https://www.anrdoezrs.net/links/9041660/type/dlg/sid/zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp/https://store.google.com/product/pixel%5F6%5Fpro?hl=en-US&pli=1) | [Starting at $999](https://apple.sjv.io/c/159047/435031/7613?&sharedId=zdnet&u=https%3A%2F%2Fwww.apple.com%2Fiphone-13-pro%2Fkey-features%2F%3Fafid%3Dp238%257CsNQZDFTnQ-dc%5Fmtid%5F20925d2q39172%5Fpcrid%5F588006468460%5Fpgrid%5F126654828229%5F%26cid%3Dwwa-us-kwgo-iphone--slid---Brand-iphone13pro-avail-&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp) |
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5FWCFI3f_cs?si=Kt2Onr_E4c616tbH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 
 
 ---
@@ -59,10 +55,6 @@ One standout camera feature on the Pixel 6 Pro is **Motion Mode,** whichallows u
 
 Another new and useful feature is **Magic Eraser.** Like Photoshop's Content Aware Fill, the software trick allows you to magically erase unwanted objects from a photo. Using the feature is as simple as circling what you'd like to erase from your image, whether that's strangers in the background, stain marks, or signage, and the Pixel 6 Pro does the rest. When done correctly, the image will look like it was perfectly captured in the first place. 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/h5uImbOWmTg?si=z4kP-R0QbXbBAJTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ###  2\. You want a bigger battery
 
 While Apple's iPhones have made significant improvements to battery life since the early days, the Google Pixel 6 Pro wins the endurance battle. With 5,003 mAh (versus the iPhone's suggested 3,095 mAh), the Pixel 6 Pro can withstand a day's use with more ease than Apple's Pro phone. Google says the Pixel 6 Pro can support up to 9 hours of YouTube playback with just a single charge, which is close to our in-house experiences. It also helps that the Pixel supports USB-C fast charging, a more standardized method of charging than Apple's proprietary Lightning port. 
@@ -70,6 +62,10 @@ While Apple's iPhones have made significant improvements to battery life since t
 **Also: [One year later, Google Pixel 6 Pro is still Google's best smartphone](https://www.zdnet.com/article/google-pixel-6-pro-review/)**
 
 CNET
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ###  3\. You want a sleek, innovative design
 
@@ -81,10 +77,14 @@ Lastly, the Pixel 6 Pro runs on the latest Android 12 software, with Android 13 
 
 [Buy the Google Pixel 6 Pro $418.88 at Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB09HYR2NC8%2Fref%3Dasc%5Fdf%5FB09HYR2NC81727521200000%3Fcreative%3D395261%26creativeASIN%3DB09HYR2NC8%26linkCode%3Dasn%26tag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C7e5b1293-c7f0-4074-bebc-aa1278013569%7Cdtp&dtb=1)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  You should buy the iPhone 13 Pro if...
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ###  1\. You want cinematic camera features
@@ -100,7 +100,7 @@ The iPhone 13 Pro also features new photographic styles. Different from your typ
 Lastly, Cinematic Mode shoots videos with a soft, out-of-focus background so that the subject of interest and the depth map are kept separate. With AI processing, the focus can intelligently shift when the subject turns around and his or her back is then facing the camera. Overall, the special mode gives a more movie-like quality to your iPhone videos 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Wy0uYNNdMDM?si=5ir7EHlr0CkpcYOT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ###  2\. You own other Apple products (AirPods, Apple Watch, iPad, MacBook, etc.)
@@ -112,7 +112,7 @@ While not an actual product, the Apple ecosystem is still very much part of the 
 Image: Apple
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ###  3\. You want the best software and hardware support
@@ -153,14 +153,24 @@ This support extends to the many physical Apple storefronts, equipped with custo
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-glue.techidaily.com/updated-airborne-awe-the-ultimate-list-of-staying-power-drones/"><u>[Updated] Airborne Awe The Ultimate List of Staying Power Drones</u></a></li>
-<li><a href="https://ios-location-track.techidaily.com/in-2024-ways-to-stop-parent-tracking-your-apple-iphone-8-plus-drfone-by-drfone-virtual-ios/"><u>In 2024, Ways to stop parent tracking your Apple iPhone 8 Plus | Dr.fone</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/leveraging-ai-assistance-how-freelancers-can-benefit-from-chatgpts-power/"><u>Leveraging AI Assistance: How Freelancers Can Benefit From ChatGPT's Power</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/leveraging-gpt-attention-to-expose-fraudulent-agents/"><u>Leveraging GPT Attention to Expose Fraudulent Agents</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/mastering-chatgpt-sidestep-these-6-frequent-prompt-blunders-for-optimal-results/"><u>Mastering ChatGPT: Sidestep These 6 Frequent Prompt Blunders for Optimal Results</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/mastering-open-conversations-windows-freedomgpt/"><u>Mastering Open Conversations: Windows FreedomGPT</u></a></li>
-<li><a href="https://win11.techidaily.com/step-by-step-heic-to-jpeg-batch-process-in-windows-11/"><u>Step-by-Step Heic to JPEG Batch Process in Windows 11</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/step-by-step-instructions-for-downloading-and-setting-up-hp-scanner-on-windows/"><u>Step-by-Step Instructions for Downloading & Setting Up HP Scanner on Windows</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/windows-1110-fails-to-offer-contrast-control/"><u>Windows 11/10 Fails to Offer Contrast Control</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-keep-your-digital-treasures-storing-insta-media-on-iphone/"><u>[Updated] Keep Your Digital Treasures Storing Insta Media on iPhone</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/2024-approved-picpinch-a-study-of-micro-recording-tools/"><u>2024 Approved PicPinch A Study of Micro-Recording Tools</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/best-artifice-intelligence-chatbots-showdown-chatgpt-versus-microsofts-bing-and-googles-bard/"><u>Best Artifice Intelligence Chatbots Showdown: ChatGPT Versus Microsoft's Bing and Google's Bard</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/best-chatgpt-suggestions-to-overcome-digital-disruption-a-list-of-top-8-queries/"><u>Best ChatGPT Suggestions To Overcome Digital Disruption: A List of Top 8 Queries</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/caveats-of-con-artist-created-ai-apps-to-watch-out-for/"><u>Caveats of Con Artist-Created AI Apps to Watch Out For</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/chatgpt-showdown-navigating-through-browsing-features-and-plugin-capabilities/"><u>ChatGPT Showdown: Navigating Through Browsing Features and Plugin Capabilities</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/chatgpts-bar-skills-an-accuracy-test/"><u>ChatGPT's Bar Skills: An Accuracy Test</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/chatgpts-role-in-composing-effective-video-scripts/"><u>ChatGPT's Role in Composing Effective Video Scripts</u></a></li>
+<li><a href="https://fake-location.techidaily.com/complete-tutorial-to-use-gps-joystick-to-fake-gps-location-on-itel-p40-drfone-by-drfone-virtual-android/"><u>Complete Tutorial to Use GPS Joystick to Fake GPS Location On Itel P40 | Dr.fone</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/content-evolution-nine-methods-by-ai/"><u>Content Evolution: Nine Methods by AI</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/decoding-the-capabilities-of-claude-2/"><u>Decoding the Capabilities of Claude 2</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/decoding-the-potential-of-emotional-ai-in-accurately-perceiving-emotions/"><u>Decoding the Potential of Emotional AI in Accurately Perceiving Emotions</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/discover-how-you-can-obtain-fcp-gratis-for-2024/"><u>Discover How You Can Obtain FCP Gratis for 2024</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/effortlessly-transform-your-aiff-files-into-ogg-format-at-no-cost/"><u>Effortlessly Transform Your AIFF Files Into Ogg Format at No Cost</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210970336-9781088207543-el-condado-de-lancaster/"><u>El Condado de Lancaster | Free Book</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/-to-screen-partnerships-for-mcns-for-2024/"><u>Scope-to-Screen Partnerships for MCNs for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/spark-business-visibility-affordable-logos-from-template-to-original/"><u>Spark Business Visibility Affordable Logos From Template to Original</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/the-broadcasters-blueprint-step-by-step-windows-pc-guide-to-live-capture-for-2024/"><u>The Broadcaster's Blueprint Step-by-Step Windows PC Guide to Live Capture for 2024</u></a></li>
+<li><a href="https://discover-comparisons.techidaily.com/top-rangige-migrationssoftware-fur-adata-ssds-unter-windows-11-10-8-und-7-ihr-leitfaden/"><u>Top-Rangige Migrationssoftware Für Adata SSDs Unter Windows 11, 10, 8 Und 7: Ihr Leitfaden</u></a></li>
 </ul></div>
 

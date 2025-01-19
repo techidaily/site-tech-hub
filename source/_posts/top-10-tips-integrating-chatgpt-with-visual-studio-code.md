@@ -1,7 +1,7 @@
 ---
 title: "Top 10 Tips: Integrating ChatGPT with Visual Studio Code"
-date: 2024-08-20T11:06:30.025Z
-updated: 2024-08-21T11:06:30.025Z
+date: 2025-01-14T16:20:13.282Z
+updated: 2025-01-19T19:10:24.388Z
 tags:
   - chatgpt
   - open-ai
@@ -15,12 +15,20 @@ thumbnail: https://thmb.techidaily.com/e35da50e74d4ad42a2d4ca6cbb01ed72157240229
 
 ## Discover Secure Chat Options: Engage with DuckDuckGo’s AI, Including ChatGPT
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Quick Links
 
 * [What Is DuckDuckGo AI Chat?](https://www.makeuseof.com/what-is-duckduckgo-private-ai-chat/#what-is-duckduckgo-ai-chat)
 * [How DuckDuckGo AI Chat Keeps Your Chats Private](https://www.makeuseof.com/what-is-duckduckgo-private-ai-chat/#how-duckduckgo-ai-chat-keeps-your-chats-private)
 * [How to Use DuckDuckGo's AI Chat](https://www.makeuseof.com/what-is-duckduckgo-private-ai-chat/#how-to-use-duckduckgo-39-s-ai-chat)
 * [What Are DuckDuckGo's AI Chat Limitations?](https://www.makeuseof.com/what-is-duckduckgo-private-ai-chat/#what-are-duckduckgo-39-s-ai-chat-limitations)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Key Takeaways
 
@@ -38,16 +46,10 @@ thumbnail: https://thmb.techidaily.com/e35da50e74d4ad42a2d4ca6cbb01ed72157240229
 
 ![DuckDuckGo' AI Chat supported language models](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/06/duckduckgo-ai-models.jpeg)
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653808&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
-<!-- affiliate ads end -->
  DuckDuckGo AI Chat is currently free to use within a daily usage limit. However, the company might introduce a paid version with additional features and more language models in the future.
 
  It's a novel idea. Other services combine multiple AI chatbots into a single tool, but DuckDuckGo's AI Chat will make it easier for users to use some of the best AI chatbots while maintaining some privacy.
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2084396/18498" target="_top" id="2084396"><img src="//a.impactradius-go.com/display-ad/18498-2084396" border="0" alt="" width="1920" height="700"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084396/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## How DuckDuckGo AI Chat Keeps Your Chats Private
 
  Privacy is a rare commodity in the digital era, more so when it comes to interacting with AI chatbots. Generative AI chatbots are data-hungry, as they rely on large data sets to continuously train and improve their language models. For instance, ChatGPT stores your chat history for as long as you have an account.
@@ -59,13 +61,15 @@ thumbnail: https://thmb.techidaily.com/e35da50e74d4ad42a2d4ca6cbb01ed72157240229
 ![duckduckgo-ai-privacy-measures](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/06/duckduckgo-ai-privacy-measures.jpeg)
 
 <!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453720/17020" target="_top" id="1453720"><img src="//a.impactradius-go.com/display-ad/17020-1453720" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453720/17020" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  In addition to anonymizing your chats, the company states that it has agreements with model providers that prevent them from using your conversations to develop or train their models and delete your chat history within 30 days. This allows you to engage with AI chatbots without worrying about being identified, making it ideal for sensitive conversations or discussing personal information.
 
 <!-- affiliate ads begin -->
-<a href="https://ancheer.sjv.io/c/5597632/1657301/17326" target="_top" id="1657301"><img src="//a.impactradius-go.com/display-ad/17326-1657301" border="0" alt="" width="1920" height="933"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657301/17326" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PKZUYice-ws?si=L8iMa9T3h7TMSWdQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## How to Use DuckDuckGo's AI Chat
 
  Launch a browser of your choice and visit the[DuckDuckGo AI Chat](https://duckduckgo.com/?q=DuckDuckGo&ia=chat) website. Click****Get Started,** select your preferred AI model from the list, and click****Next**. Read the****Privacy Policy and Terms of Use** and click the****I Agree** button to proceed. You can enter your query or use one of the suggested prompts to start your anonymous conversation with the AI model.
@@ -73,8 +77,9 @@ thumbnail: https://thmb.techidaily.com/e35da50e74d4ad42a2d4ca6cbb01ed72157240229
 ![DuckDuckGo's AI welcome dashboard](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/06/duckduck-ai-chat.jpeg)
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i110150.net/c/5597632/924299/11305" target="_top" id="924299"><img src="//a.impactradius-go.com/display-ad/11305-924299" border="0" alt="" width="520" height="100"/></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  You can pick a different chat model at any time by clicking the name of the current model on the left of the screen and selecting another model from the list. Click****Start New Chat** to begin a conversation with the selected model. The DuckDuckGo AI Chat has a familiar interface, so if you have used other chatbots before, you will find it easy to use. Like other AI chatbots, you can ask questions, summarize text, compose emails, and more.
 
 ## What Are DuckDuckGo's AI Chat Limitations?
@@ -87,23 +92,17 @@ thumbnail: https://thmb.techidaily.com/e35da50e74d4ad42a2d4ca6cbb01ed72157240229
 
 ![duckduckgo-ai-internet-access-1](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/06/duckduckgo-ai-internet-access-1.jpeg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152835&QTY=1&AFFILIATE=108875&CART=1"><img src="https://download.terabyteunlimited.com/banners/ad_800x450_d.jpg" border="0"></a>
-<!-- affiliate ads end -->
  One common limitation with large language models is that they sometimes generate plausible but inaccurate responses, also[known as AI hallucination](https://www.makeuseof.com/what-is-ai-hallucination-and-how-do-you-spot-it/) . While the generative AI integrations from Anthropic, Mistral, and Meta are relatively up-to-date and recent developments, ChatGPT 3.5 Turbo is a little older and is known to suffer issues.
 
  Furthermore, DDG's AI Chat lacks some useful features the main tools for each option include, particularly image creation. For example, Meta's Llama can create images in Meta's AI but not in DuckDuckGo AI Chat.
 
  Despite DuckDuckGo's AI Chat limitations, the ability to interact with various AI chatbots anonymously is a significant advantage for privacy-conscious users. This helps protect your identity while providing an extra layer of security. Moreover, the company may improve its AI capabilities in the future by implementing more advanced language models, thereby addressing some of its limitations.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -112,4 +111,23 @@ thumbnail: https://thmb.techidaily.com/e35da50e74d4ad42a2d4ca6cbb01ed72157240229
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-record-videos.techidaily.com/new-in-2024-discovering-the-secrets-of-asmr-media/"><u>[New] In 2024, Discovering the Secrets of ASMR Media</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-how-to-make-a-thumbnail-for-your-youtube-free-easily-for-2024/"><u>[Updated] How to Make a Thumbnail for Your YouTube Free Easily for 2024</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/2024-approved-ensuring-tiktok-authenticity-pre-upload-rights-confirmation/"><u>2024 Approved Ensuring TikTok Authenticity Pre-Upload Rights Confirmation</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/2024-approved-maximizing-engagement-choosing-your-fb-video-direction/"><u>2024 Approved Maximizing Engagement - Choosing Your FB Video Direction</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/2024-approved-new-photography-these-are-your-cams-in-24/"><u>2024 Approved New Photography? These Are Your Cams in '24</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/easy-steps-to-recover-deleted-videos-from-x50iplus-by-fonelab-android-recover-video/"><u>Easy steps to recover deleted videos from X50i+</u></a></li>
+<li><a href="https://blog-min.techidaily.com/leichtes-handwerk-konvertieren-sie-ihre-dvds-mit-einfachen-schritten-fur-die-bestmogliche-videoklarheit/"><u>Leichtes Handwerk: Konvertieren Sie Ihre DVDs Mit Einfachen Schritten Für Die Bestmögliche Videoklarheit</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/preserving-your-snapchat-moments-beyond-app/"><u>Preserving Your SnapChat Moments Beyond App</u></a></li>
+<li><a href="https://fox-useful.techidaily.com/recover-lost-data-easily-top-5-techniques-for-restoring-deleted-items-in-windows-10/"><u>Recover Lost Data Easily: Top 5 Techniques for Restoring Deleted Items in Windows 10</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/tailored-training-and-nutrition-via-select-8-gpts/"><u>Tailored Training & Nutrition via Select 8 GPTs</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/tailoring-chatgpt-to-your-needs-a-guide-on-implementing-generative-pre-training-gpt/"><u>Tailoring ChatGPT to Your Needs: A Guide on Implementing Generative Pre-Training (GPT)</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/the-ai-faceoff-how-does-google-palm-2-stack-up-next-to-openais-groundbreaking-gpt-4/"><u>The AI Faceoff: How Does Google PaLM 2 Stack Up Next to OpenAI's Groundbreaking GPT-4?</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/the-consequences-of-content-control-by-artificinaset-algorithms/"><u>The Consequences of Content Control by Artificinaset Algorithms</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/the-financial-logic-behind-premium-ai-experiences/"><u>The Financial Logic Behind Premium AI Experiences</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/the-impact-of-ai-on-modern-medicine-exploring-chatgpts-role/"><u>The Impact of AI on Modern Medicine: Exploring ChatGPT's Role</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/the-reasons-behind-skipping-the-chatgpt-mobile-application-install/"><u>The Reasons Behind Skipping the ChatGPT Mobile Application Install</u></a></li>
+</ul></div>
 

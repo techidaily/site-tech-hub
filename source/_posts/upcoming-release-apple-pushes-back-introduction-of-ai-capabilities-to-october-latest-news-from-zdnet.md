@@ -1,7 +1,7 @@
 ---
 title: "Upcoming Release: Apple Pushes Back Introduction of AI Capabilities to October - Latest News From ZDNet"
-date: 2025-01-08T16:30:52.109Z
-updated: 2025-01-13T16:17:20.440Z
+date: 2025-01-14T17:00:38.415Z
+updated: 2025-01-19T17:04:54.290Z
 tags:
   - apple
 categories:
@@ -69,24 +69,28 @@ This isn't Apple's first go-around with AI models, having released others such a
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://windows11.techidaily.com/addressing-windows-11-get-support-disruption/"><u>Addressing Windows 11 'Get Support' Disruption</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/beyond-the-basics-enhancing-your-skills-in-board-games-and-art-with-chatgpts-my-gpt-bot-tools/"><u>Beyond the Basics: Enhancing Your Skills in Board Games & Art with ChatGPT's My GPT Bot Tools</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/beyond-the-original-are-there-modern-replacements-for-the-turing-test/"><u>Beyond the Original: Are There Modern Replacements for the Turing Test?</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/big-names-bold-forecasts-what-ai-experts-expect/"><u>Big Names, Bold Forecasts: What AI Experts Expect</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/breaking-down-the-invisible-ai-black-box-functioning/"><u>Breaking Down the Invisible: AI Black Box Functioning</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/chatgpt-makeover-building-with-your-own-insights/"><u>ChatGPT Makeover: Building with Your Own Insights</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/comparing-top-generative-ai-contenders-which-is-superior-chatgpt-or-notion-ai/"><u>Comparing Top Generative AI Contenders: Which Is Superior, ChatGPT or Notion AI?</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/create-custom-chat-experiences/"><u>Create Custom Chat Experiences</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/future-forward-a-look-at-the-leading-3-tech-trends-shaping-tomorrow/"><u>Future Forward: A Look at the Leading 3 Tech Trends Shaping Tomorrow</u></a></li>
-<li><a href="https://review-topics.techidaily.com/how-to-upgrade-or-downgrade-iphone-14-plus-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Upgrade or Downgrade iPhone 14 Plus? | Dr.fone</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-easily-unlock-your-oneplus-12-device-sim-by-drfone-android/"><u>In 2024, Easily Unlock Your OnePlus 12 Device SIM</u></a></li>
-<li><a href="https://fox-info.techidaily.com/in-2024-leading-12-free-video-trimming-apps-for-android-users/"><u>In 2024, Leading 12 Free Video Trimming Apps for Android Users</u></a></li>
-<li><a href="https://review-topics.techidaily.com/insert-signature-in-docx-file-by-ldigisigner-sign-a-word-sign-a-word/"><u>Insert signature in .docx file</u></a></li>
-<li><a href="https://techidaily.com/undelete-lost-contacts-from-infinix-zero-30-5g-by-fonelab-android-recover-contacts/"><u>Undelete lost contacts from Infinix Zero 30 5G.</u></a></li>
-<li><a href="https://windows11.techidaily.com/unraveling-the-printer-dilemma-windows-error-xffffff/"><u>Unraveling the Printer Dilemma: Windows Error XFFFFFF</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-in-2024-step-by-step-guide-to-perfectly-pair-videos-and-stories/"><u>[Updated] In 2024, Step-by-Step Guide to Perfectly Pair Videos and Stories</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/3-easy-ways-to-factory-reset-a-locked-apple-iphone-12-pro-max-without-itunes-drfone-by-drfone-ios/"><u>3 Easy Ways to Factory Reset a Locked Apple iPhone 12 Pro Max Without iTunes | Dr.fone</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/a-comparative-analysis-of-bings-and-chatgpts-ai-conversational-agents/"><u>A Comparative Analysis of Bing’s and ChatGPT’s AI Conversational Agents</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/a-glimpse-into-history-discovering-when-artificnial-intelligence-emerged/"><u>A Glimpse Into History: Discovering When Artificnial Intelligence Emerged</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/advanced-prompting-secrets-7-ways-to-supercharge-your-chatgpt-interactions/"><u>Advanced Prompting Secrets: 7 Ways to Supercharge Your ChatGPT Interactions</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/ai-evolution-showdown-unveiling-the-distinctive-features-of-gpt-4-vs-gpt-4-turbo-vs-gpt-4o/"><u>AI Evolution Showdown: Unveiling the Distinctive Features of GPT-4 Vs. GPT-4 Turbo Vs. GPT-4o</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/ais-role-in-advancing-cognitive-behavioral-practices/"><u>AI's Role in Advancing Cognitive Behavioral Practices</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/automate-your-writing-workflow-in-ms-word-with-chatgpt-integration/"><u>Automate Your Writing Workflow in MS Word with ChatGPT Integration</u></a></li>
+<li><a href="https://android-frp.techidaily.com/black-ops-cold-war-error-resolved-dealing-with-the-notorious-0xc0000005-code/"><u>Black Ops Cold War Error Resolved! Dealing with the Notorious 0xC0000005 Code</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/boosting-dungeons-and-dragons-leveraging-chatgpt-for-game-improvement/"><u>Boosting Dungeons & Dragons: Leveraging ChatGPT for Game Improvement</u></a></li>
+<li><a href="https://media-tips.techidaily.com/customizing-your-viewing-experience-how-to-bypass-the-built-in-two-hour-timeout-on-plex-streaming-service/"><u>Customizing Your Viewing Experience: How to Bypass the Built-In Two Hour Timeout on Plex Streaming Service</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/in-2024-experts-picks-top-10-budget-friendly-call-apps/"><u>In 2024, Expert's Picks Top 10 Budget-Friendly Call Apps</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-remove-a-previously-synced-google-account-from-your-oppo-a58-4g-by-drfone-android/"><u>In 2024, How to Remove a Previously Synced Google Account from Your Oppo A58 4G</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-apple-iphone-15-pro-max-without-passcode-or-face-id-by-drfone-ios/"><u>In 2024, How to Unlock Apple iPhone 15 Pro Max without Passcode or Face ID</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/1721991999681-no-more-waiting-for-chatgpt-unleash-the-power-of-this-amazing-free-open-source-alternative/"><u>No More Waiting for ChatGPT: Unleash the Power of This Amazing Free Open Source Alternative!</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/the-artisans-path-mastery-of-background-removal-tools-in-photoshop/"><u>The Artisan's Path Mastery of Background Removal Tools in Photoshop</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/the-essentials-of-dynamic-visual-communication/"><u>The Essentials of Dynamic Visual Communication</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/updated-mastering-the-art-of-vocal-modulation-a-guide-to-altering-your-tone-for-2024/"><u>Updated Mastering the Art of Vocal Modulation A Guide to Altering Your Tone for 2024</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/walkthrough-efficiently-downloading-and-implementing-your-own-auto-gpt/"><u>Walkthrough: Efficiently Downloading and Implementing Your Own Auto-GPT</u></a></li>
 </ul></div>
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 

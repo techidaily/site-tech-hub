@@ -1,7 +1,7 @@
 ---
 title: "Leveraging Apple Pay Across Retailers & Websites: Insights on Why It's a Must-Try | Tech Advice"
-date: 2025-01-06T16:24:48.388Z
-updated: 2025-01-13T16:19:53.164Z
+date: 2025-01-15T19:23:17.965Z
+updated: 2025-01-19T19:55:56.683Z
 tags:
   - apple
 categories:
@@ -30,7 +30,15 @@ OK, let's go.
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to order Apple Vision Pro
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 1\. If you wear glasses or contacts
 
@@ -67,7 +75,7 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 That prescription works fine in my Quest 3, but Apple and ZEISS won't accept it. I had to book an appointment with my local optometrist. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KF793jv1LIc?si=fJOogQJ2f8JUfTzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Wy0uYNNdMDM?si=5ir7EHlr0CkpcYOT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ###  It's your distance prescription that counts
@@ -83,10 +91,6 @@ My optometrist didn't know anything about writing a prescription for XR devices 
 Note that Apple specifically states, "Intermediate distance, task distance, or computer distance should not be part of that prescription." 
 
 In any case, within a half hour, I had a new distance prescription that was current and official. 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ###  Confirm your prescription can be used
 
@@ -158,10 +162,6 @@ This process took me a very long time. Not only did I have difficulty trying to 
 
 But the real trick, which I mentioned at the start of this section, is that I turned on all the lights and set the phone down at face height, so I could stand in front of it. Before that, I tried again and again to make it like me. As soon as I used a stable, head-height platform, it took the requisite measurements in less than a minute. 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 3\. Pre-order the optical insert lenses
 
 Let's get started. For those keeping track, we're at our third "Get started" prompt:
@@ -206,16 +206,12 @@ And, finally, you're done with the first phase of ordering your optical inserts.
 
 Screenshot by David Gewirtz/ZDNET
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 4\. Order the Vision Pro itself
 
 Now, it's time to decide how much storage you want to have on the Vision Pro. Keep in mind this is very much like choosing the storage on your iPhone or iPad.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9ECz3oZ8NrQ?si=86vkwkDJo9HQXpzt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##   
@@ -316,6 +312,10 @@ Whew. You're done. Now it's time to sit and wait. In my case, I got a notice the
 
 Screenshot by David Gewirtz/ZDNET
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2ipTu54inBo?si=gRegjvtVq5gm_PHo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 6\. And now you wait for delivery
 
 I have to admit, doing this order was a pretty tedious process. Part of it was made more difficult because I was capturing screenshots and screen recording video along the way so I could write this article. Part was because I had to capture my facial features. And part was because the expense just kind of freaked me out.
@@ -365,21 +365,20 @@ _You can follow my day-to-day project updates on social media. Be sure to subscr
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-blog.techidaily.com/ed-a-close-look-at-t-series-revenue-from-online-channels/"><u>[Updated] A Close Look at T-Series Revenue From Online Channels</u></a></li>
-<li><a href="https://fox-info.techidaily.com/updated-in-2024-unlocking-whatsapps-secret-capabilities-for-efficiency/"><u>[Updated] In 2024, Unlocking WhatsApp's Secret Capabilities for Efficiency</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/5-ai-powered-book-recommendation-sites-and-apps-to-find-your-next-read/"><u>5 AI-Powered Book Recommendation Sites and Apps to Find Your Next Read</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/5-critical-methods-artificial-intelligence-enables-for-hackers/"><u>5 Critical Methods Artificial Intelligence Enables for Hackers</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/a-glimpse-into-the-past-ancient-crt-hit-remarkable-700hz-lowers-clarity-for-ultra-fast-refresh-rates/"><u>A Glimpse Into the Past: Ancient CRT Hit Remarkable 700Hz, Lowers Clarity for Ultra-Fast Refresh Rates</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/in-2024-free-green-screen-magic-top-android-and-ios-apps/"><u>In 2024, Free Green Screen Magic Top Android and iOS Apps</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-life360-circle-everything-you-need-to-know-on-realme-11-proplus-drfone-by-drfone-virtual-android/"><u>In 2024, Life360 Circle Everything You Need to Know On Realme 11 Pro+ | Dr.fone</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/in-2024-the-hackers-handbook-advanced-win11-tactics/"><u>In 2024, The Hacker's Handbook Advanced Win11 Tactics</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-top-9-tecno-camon-30-pro-5g-monitoring-apps-for-parental-controls-drfone-by-drfone-virtual-android/"><u>In 2024, Top 9 Tecno Camon 30 Pro 5G Monitoring Apps for Parental Controls | Dr.fone</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/the-10-best-free-dvd-players-compatible-with-windows-10-for-2024/"><u>The 10 Best Free DVD Players Compatible with Windows 10 for 2024</u></a></li>
-<li><a href="https://network-issues.techidaily.com/tighten-monitor-sharpness-settings/"><u>Tighten Monitor Sharpness Settings</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/unleashing-artificnial-intelligence-navigating-bing-app-on-your-android-phone/"><u>Unleashing Artificnial Intelligence: Navigating Bing App on Your Android Phone</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/unlock-the-potential-of-enhanced-communication-crucial-new-features-added-to-chatgpt/"><u>Unlock the Potential of Enhanced Communication: Crucial New Features Added to ChatGPT</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/unlock-the-power-of-conversation-talk-with-chatgpt-today/"><u>Unlock the Power of Conversation: Talk with ChatGPT Today</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/unveiling-truthgpt-coin-a-comprehensive-guide-to-assess-its-authenticity/"><u>Unveiling TruthGPT Coin: A Comprehensive Guide to Assess Its Authenticity</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/what-is-grok-ai-from-elon-musk-inside-look-at-its-potential-and-price-points/"><u>What Is Grok AI From Elon Musk? Inside Look at Its Potential and Price Points</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-combining-forces-sharing-tweets-on-facebook-networks-for-2024/"><u>[New] Combining Forces Sharing Tweets on Facebook Networks for 2024</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-incorporating-speech-recognition-into-slides/"><u>[New] Incorporating Speech Recognition Into Slides</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-2024-approved-dismantling-the-economics-of-youtubes-ambitious-shorts-fund/"><u>[Updated] 2024 Approved Dismantling the Economics of YouTube's Ambitious Shorts Fund</u></a></li>
+<li><a href="https://extra-information.techidaily.com/updated-ai-driven-high-quality-editing-platform/"><u>[Updated] AI-Driven High-Quality Editing Platform</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-in-2024-conquer-with-titans-top-7-strategic-multiplayer-battles/"><u>[Updated] In 2024, Conquer with Titans Top 7 Strategic Multiplayer Battles</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/2024-approved-tailored-techniques-to-procure-tweets-gifs/"><u>2024 Approved Tailored Techniques to Procure Tweets GIFs</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ing-a-lasting-impression-the-ultimate-youtube-live-thumbnail-guide/"><u>Creating a Lasting Impression The Ultimate YouTube Live Thumbnail Guide</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/enabling-cutting-edge-capabilities-in-chatgpt-master-the-new-beta-web-browsing-and-extension-functions/"><u>Enabling Cutting-Edge Capabilities in ChatGPT – Master the New Beta Web Browsing and Extension Functions</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/essential-ai-toolkits-for-newcomers-insights-from-9-tech-communities/"><u>Essential AI Toolkits for Newcomers - Insights From 9 Tech Communities</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/exciting-news-chatgpt-on-iphone/"><u>Exciting News: ChatGPT on iPhone!</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/exploring-snapchats-my-ai-more-than-just-playful-engagements-top-reasons-why/"><u>Exploring Snapchat's My AI: More Than Just Playful Engagements - Top Reasons Why!</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/exploring-the-bert-model-vs-gpt-for-advanced-text-processing/"><u>Exploring the BERT Model Vs. GPT for Advanced Text Processing</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/exploring-the-world-of-ai-what-sets-public-private-and-personal-applications-apart/"><u>Exploring the World of AI: What Sets Public, Private, and Personal Applications Apart?</u></a></li>
+<li><a href="https://win-answers.techidaily.com/fixing-the-dark-display-issue-in-halo-infinite-simple-strategies-that-work/"><u>Fixing the Dark Display Issue in Halo Infinite: Simple Strategies That Work</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-revealing-hidden-social-exchanges-in-yt-discussions/"><u>In 2024, Revealing Hidden Social Exchanges in YT Discussions</u></a></li>
 </ul></div>
 

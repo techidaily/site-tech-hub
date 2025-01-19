@@ -1,7 +1,7 @@
 ---
 title: ZDNet Reveals the 4 iPhone & MacBook Models Best to Skip This Year!
-date: 2025-01-09T16:23:19.009Z
-updated: 2025-01-13T16:56:45.082Z
+date: 2025-01-13T19:07:58.684Z
+updated: 2025-01-19T18:34:23.676Z
 tags:
   - apple
 categories:
@@ -21,10 +21,6 @@ It may surprise you that MP3 players (also known as digital audio players or DAP
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## What is the best MP3 player right now?
 
@@ -46,11 +42,11 @@ Pros
 Cons 
 * Can be a bit tricky to use with a Mac
 
-## Sony NW-A306 Walkman
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/e4Nt2xXXtmE?si=CtKwFry4b0AJXnaN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+## Sony NW-A306 Walkman
 
 ### Best MP3 player overall
 
@@ -82,6 +78,10 @@ Cons
 
 ## AGPTEK A02X 32GB MP3 Player
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Best budget MP3 player
 
 If you want to spend less than $35 on an MP3 player, this AGPTEK A02X player is a solid option. It has a 1.8-inch display and room for 32GB of storage, with support up to 128GB via a memory card.
@@ -98,15 +98,7 @@ Show less
 
 [View now at Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0C5FWM9XD%3FlinkCode%3Dogi%26th%3D1%26psc%3D1%26tag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Ce3db7b21-4f97-4659-9487-95c216f484c1%7Cdtp&dtb=1)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c-BHGGIC0zE?si=FzUQKZa-bx8OlKuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Mighty 3 Spotify Music Player
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/j5gTm5KxtQ0?si=onF1rBS2nEM5nLGg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Best mini MP3 player
 
@@ -147,6 +139,10 @@ The player comes with Android 10 right out of the box so that you can access the
 
 Show Expert Take Show less 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hZsnjxeSh1U?si=hZIfzQPDNX5KtOCg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What is the best MP3 player?
 
 The best MP3 player for most people is the Sony NW-A306 Walkman, based on compatibility and price. It also has an impressively long battery life of up to 36 hours. 
@@ -157,10 +153,6 @@ The best MP3 player for most people is the Sony NW-A306 Walkman, based on compat
 | AGPTEK A02X          | $30       | 32GB plus microSD                    | Up to 40 hours       |
 | Mighty 3             | $125      | 8GB                                  | 8 hours              |
 | Fiio M11S            | $500      | 32GB                                 | 13 hours             |
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LaGNHfAT92w?si=bvHo1iYK2JBIPtRo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Which MP3 player is right for you?
 
@@ -184,16 +176,12 @@ There are several considerations to keep in mind before purchasing an MP3 player
 * **Battery:** The great thing about modern-day MP3 players is that they will have much better battery lives than the devices of the past. The average battery life for a good MP3 player will be about 12 hours.
 * **Price:** MP3 players vary greatly in price, from budget-friendly picks to expensive ones built for audiophiles.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9hsPbiic0O8?si=58mZ2Cu6wicQfsUP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## How did we choose these MP3 players?
 
 When choosing the best MP3 players, we do extensive research into different products and brands, taking into consideration user reviews (both good and bad), competitor analysis, and more.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How many songs does an MP3 player hold?
@@ -210,6 +198,10 @@ This all depends on the amount of storage that is on the MP3 device. The number 
 
 In 2024, you might wonder if it's even worth buying an MP3 player when you can just listen to music on your smartphone. However, MP3 players are great for kids who want to listen to music but don't yet have a smartphone, people who like to run or hike outside, or those who simply want to listen to music without any distractions from their phones.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/j5gTm5KxtQ0?si=onF1rBS2nEM5nLGg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What are the different audio formats?
 
 Many MP3 players today support multiple audio files. Here are the most popular ones you'll see and what they mean: 
@@ -220,9 +212,17 @@ Many MP3 players today support multiple audio files. Here are the most popular o
 * **AAC:** Provides high-quality sound thanks to advanced audio coding.
 * **OGG**: A Spotify-specific audio format.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Do MP3 players need Wi-Fi?
 
 No. Because MP3 players don't need Wi-Fi to work, you can use them in more situations. However, some MP3 players do have Wi-Fi connection capabilities, such as the Mighty Vibe player.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8dH3yHH9IX8?si=geiW5KbIljSFT9pz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Are there alternative MP3 players worth considering?
 
@@ -270,20 +270,24 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-elite-10-royal-warfare-games/"><u>[New] Elite 10 Royal Warfare Games</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/nveiling-the-leaders-free-top-6-youtube-snackers/"><u>[New] Unveiling the Leaders Free Top 6 YouTube Snackers</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-unlocking-the-power-of-multiframe-views-in-edge/"><u>[Updated] 2024 Approved Unlocking the Power of Multiframe Views in Edge</u></a></li>
-<li><a href="https://extra-support.techidaily.com/updated-powerdirector-elite-edition-review-the-ultimate-2024/"><u>[Updated] PowerDirector Elite Edition Review - The Ultimate 2024</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/3-easy-solutions-to-hard-reset-lava-yuva-3-pro-drfone-by-drfone-reset-android-reset-android/"><u>3 Easy Solutions to Hard Reset Lava Yuva 3 Pro | Dr.fone</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/ai-face-off-comparing-notion-and-chatgpt-for-ultimate-productivity/"><u>AI Face-Off: Comparing Notion and ChatGPT for Ultimate Productivity</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/are-costly-advanced-ai-prompt-platforms-a-good-value/"><u>Are Costly Advanced AI Prompt Platforms a Good Value?</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/best-practices-for-privacy-in-work-related-chats/"><u>Best Practices for Privacy in Work-Related Chats</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/beyond-alan-turings-legacy-top-5-contemporary-approaches-for-assessing-artificial-intelligence/"><u>Beyond Alan Turing's Legacy: Top 5 Contemporary Approaches for Assessing Artificial Intelligence</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/boost-productivity-in-9-ways-using-the-power-of-chatgpt/"><u>Boost Productivity in 9 Ways Using the Power of ChatGPT</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/can-i-trust-chatgpt-with-developing-a-custom-workout-plan-that-prioritizes-safety-and-efficiency/"><u>Can I Trust ChatGPT with Developing a Custom Workout Plan That Prioritizes Safety and Efficiency?</u></a></li>
-<li><a href="https://fox-metric.techidaily.com/como-revisar-y-restablecer-el-registro-de-mensajes-de-wechat-en-tu-iphone/"><u>Cómo Revisar Y Restablecer El Registro De Mensajes De WeChat en Tu iPhone</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-frp-hijacker-by-hagard-download-and-bypass-your-tecno-pop-7-pro-frp-locks-by-drfone-android/"><u>In 2024, FRP Hijacker by Hagard Download and Bypass your Tecno Pop 7 Pro FRP Locks</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-unova-stone-pokemon-go-evolution-list-and-how-catch-them-for-samsung-galaxy-f04-drfone-by-drfone-virtual-android/"><u>In 2024, Unova Stone Pokémon Go Evolution List and How Catch Them For Samsung Galaxy F04 | Dr.fone</u></a></li>
-<li><a href="https://fake-location.techidaily.com/will-the-ipogo-get-you-banned-and-how-to-solve-it-on-realme-narzo-n53-drfone-by-drfone-virtual-android/"><u>Will the iPogo Get You Banned and How to Solve It On Realme Narzo N53 | Dr.fone</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-innovate-your-mobile-photography-with-these-free-overlay-experts-for-2024/"><u>[New] Innovate Your Mobile Photography with These Free Overlay Experts for 2024</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-legacy-linkup-suite-for-2024/"><u>[New] Legacy Linkup Suite for 2024</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-secrets-of-snapping-finding-missing-private-images-for-2024/"><u>[New] Secrets of Snapping Finding Missing Private Images for 2024</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-best-gif-recorder-for-mac/"><u>[Updated] Best Gif Recorder for Mac</u></a></li>
+<li><a href="https://solve-info.techidaily.com/adjust-your-screen-preferences-mastering-windows-display-settings-tutorial-by-yl-computing/"><u>Adjust Your Screen Preferences: Mastering Windows Display Settings - Tutorial by YL Computing</u></a></li>
+<li><a href="https://location-social.techidaily.com/change-location-on-yik-yak-for-your-infinix-hot-30i-to-enjoy-more-fun-drfone-by-drfone-virtual-android/"><u>Change Location on Yik Yak For your Infinix Hot 30i to Enjoy More Fun | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/cloud-technology-rises-to-the-top-navigating-the-new-era-of-security-challenges-expert-analysis-by-zdnet/"><u>Cloud Technology Rises to the Top - Navigating the New Era of Security Challenges | Expert Analysis by ZDNET</u></a></li>
+<li><a href="https://win-trending.techidaily.com/dellhddssd/"><u>DellノートパソコンでHDDからSSDへデータ移行手順【徹底ガイド】</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/innovating-ai-customization-harness-the-potential-of-chatgpts-newest-update-for-personalized-gpt-models/"><u>Innovating AI Customization: Harness the Potential of ChatGPT's Newest Update for Personalized GPT Models</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/keep-your-chatgpt-discussions-handy-strategies-for-later-use/"><u>Keep Your ChatGPT Discussions Handy – Strategies for Later Use</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/leading-5-ai-platforms-to-produce-stunning-visuals-without-spending-a-penny/"><u>Leading 5 AI Platforms to Produce Stunning Visuals Without Spending a Penny</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/maximizing-excel-potential-via-three-chatgpt-techniques/"><u>Maximizing Excel Potential via Three ChatGPT Techniques</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/myth-busters-guide-to-the-worlds-leading-ai-chatbot-misconceptions/"><u>Myth-Buster's Guide to the World's Leading AI Chatbot Misconceptions</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/navigating-generative-ai-with-kids-the-essential-handbook-for-parents-on-chatgpt/"><u>Navigating Generative AI with Kids: The Essential Handbook for Parents on ChatGPT</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/optimize-fitness-coaching-with-chatgpt-expertise/"><u>Optimize Fitness Coaching with ChatGPT Expertise</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/potential-risks-could-chatgpt-be-used-by-hackers-to-infiltrate-banks-and-computers/"><u>Potential Risks: Could ChatGPT Be Used by Hackers to Infiltrate Banks and Computers?</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/revolutionary-ai-dialogue-pivotal-features-of-the-future-gpt-5/"><u>Revolutionary AI Dialogue: Pivotal Features of the Future GPT-5</u></a></li>
+<li><a href="https://blog-min.techidaily.com/ultimate-guide-to-bypassing-drm-for-content-creators-reviews-and-easy-tutorials/"><u>Ultimate Guide to Bypassing DRM for Content Creators: Reviews & Easy Tutorials</u></a></li>
+<li><a href="https://howto.techidaily.com/vivo-y78plus-stuck-on-screen-finding-solutions-for-stuck-on-boot-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Vivo Y78+ Stuck on Screen – Finding Solutions For Stuck on Boot | Dr.fone</u></a></li>
 </ul></div>
 

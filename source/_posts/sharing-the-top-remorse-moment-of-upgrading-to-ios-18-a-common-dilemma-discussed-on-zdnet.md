@@ -1,7 +1,7 @@
 ---
 title: Sharing the Top Remorse Moment of Upgrading to iOS 18 – A Common Dilemma Discussed on ZDNet
-date: 2025-01-08T16:10:30.973Z
-updated: 2025-01-13T16:19:36.321Z
+date: 2025-01-18T17:41:25.280Z
+updated: 2025-01-19T18:10:24.148Z
 tags:
   - apple
 categories:
@@ -60,7 +60,7 @@ Aside from the inferior Photos app navigation, videos in the Photos app no longe
 "The UX is a huge downgrade. It's so bad that I had to submit feedback to Apple via the feedback app in the beta. Never did one of those when it wasn't a technical bug, just pure user experience frustration," another [Redditor said](https://www.reddit.com/r/apple/comments/1e2jtq5/comment/ld1wsjg/?utm%5Fsource=share&utm%5Fmedium=web3x&utm%5Fname=web3xcss&utm%5Fterm=1&utm%5Fcontent=share%5Fbutton).
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RvR5PNhspKE?si=uJcMYK9v-_Xq7fAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to navigate the iOS 18 Photos app
@@ -109,14 +109,24 @@ I hope a future version of iOS 18 will bring back the Camera Roll or at least to
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-data.techidaily.com/024-approved-hack-the-youtube-timeline-increase-or-decrease-sound/"><u>[New] 2024 Approved Hack the YouTube Timeline Increase or Decrease Sound</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/new-new-insight-sony-s6500-bd-reader-update/"><u>[New] New Insight Sony S6500 BD Reader Update</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-2024-approved-ocam-screen-recorder-review-and-alternative/"><u>[Updated] 2024 Approved OCam Screen Recorder Review and Alternative</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/2024youtubemp3top10-youtube/"><u>【限定】2024年に流行る魅力的なYouTubeMP3変換ツールTOP10無料リンク - YouTubeを音楽に生かす！</u></a></li>
-<li><a href="https://change-location.techidaily.com/how-to-deal-with-the-samsung-galaxy-s23-screen-black-but-still-works-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Deal With the Samsung Galaxy S23 Screen Black But Still Works? | Dr.fone</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/understanding-the-impact-of-chatgpt-copilot-on-your-browsing-experience/"><u>Understanding the Impact of ChatGPT Copilot on Your Browsing Experience</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/understanding-why-chatgpt-4-lags-behind-the-speed-of-chatgpt-35/"><u>Understanding Why ChatGPT-4 Lags Behind the Speed of ChatGPT- 3.5</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/unveiling-chatgpts-limits-the-in-depth-guide-on-exceeding-its-token-quota-for-more-comprehensive-responses/"><u>Unveiling ChatGPT's Limits: The In-Depth Guide on Exceeding Its Token Quota for More Comprehensive Responses</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/web-mastery-through-gpt-3-creating-interactive-experiences/"><u>Web Mastery Through GPT-3: Creating Interactive Experiences</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/n-2024-rapid-reference-green-screen-basics/"><u>[New] In 2024, Rapid Reference Green Screen Basics</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-premium-platforms-for-hearing-westeros-tones/"><u>[New] Premium Platforms for Hearing Westeros Tones</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-securing-and-rediscovering-hidden-snaps-for-2024/"><u>[New] Securing and Rediscovering Hidden Snaps for 2024</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-2024-approved-capture-unrooted-sounds-in-android-4-methods/"><u>[Updated] 2024 Approved Capture Unrooted Sounds in Android [4 Methods]</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-sustainable-traffic-growth-ethical-video-marketing-tips-for-2024/"><u>[Updated] Sustainable Traffic Growth Ethical Video Marketing Tips for 2024</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-techniques-to-slow-down-online-video-playback-49-chars/"><u>[Updated] Techniques to Slow Down Online Video Playback (49 Chars)</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/2024-approved-decoding-the-best-free-video-experience-vlc-clashes-with-mpc/"><u>2024 Approved Decoding the Best Free Video Experience VLC Clashes with MPC</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/can-you-trust-chatgpt-to-provide-correct-solutions-for-your-math-questions/"><u>Can You Trust ChatGPT to Provide Correct Solutions for Your Math Questions?</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/cease-siri-vs-chatgpt-unveiling-their-distinct-features/"><u>Cease Siri Vs. ChatGPT: Unveiling Their Distinct Features</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/chat-with-gpt-on-the-go-new-android-app-brings-powerful-language-model-to-phones/"><u>Chat with GPT on the Go – New Android App Brings Powerful Language Model to Phones</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/chatbot-advice-selecting-your-perfect-viewing-experience-with-chatgpt/"><u>Chatbot Advice: Selecting Your Perfect Viewing Experience with ChatGPT</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/counteracting-alienation-through-engaging-with-chatgpt/"><u>Counteracting Alienation Through Engaging With ChatGPT</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/crafting-tales-leveraging-chatgpt-for-epic-narratives/"><u>Crafting Tales: Leveraging ChatGPT for Epic Narratives</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/crucial-factors-to-weigh-before-utilizing-chatgpt-in-therapy-and-counseling-settings/"><u>Crucial Factors to Weigh Before Utilizing ChatGPT in Therapy and Counseling Settings</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/does-chatgpt-have-the-ability-to-tackle-arithmetic-and-algebra-puzzles/"><u>Does ChatGPT Have the Ability to Tackle Arithmetic and Algebra Puzzles?</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/elevate-your-speaking-power-with-these-top-7-tools/"><u>Elevate Your Speaking Power with These Top 7 Tools</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/elevate-your-work-processes-integrating-chatgpt-into-your-daily-operations/"><u>Elevate Your Work Processes: Integrating ChatGPT Into Your Daily Operations</u></a></li>
+<li><a href="https://discover-amazing.techidaily.com/step-by-step-guide-restoring-your-scan-tools-functionality-with-driver-reinstallation-yl-computing/"><u>Step-by-Step Guide: Restoring Your Scan Tool's Functionality with Driver Reinstallation - YL Computing</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/why-is-ipogo-not-working-on-realme-c67-4g-fixed-drfone-by-drfone-virtual-android/"><u>Why is iPogo not working On Realme C67 4G? Fixed | Dr.fone</u></a></li>
 </ul></div>
 

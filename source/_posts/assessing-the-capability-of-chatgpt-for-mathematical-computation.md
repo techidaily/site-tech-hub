@@ -1,7 +1,7 @@
 ---
 title: Assessing the Capability of ChatGPT for Mathematical Computation
-date: 2024-08-20T11:04:48.473Z
-updated: 2024-08-21T11:04:48.473Z
+date: 2025-01-12T19:57:09.216Z
+updated: 2025-01-19T16:12:29.736Z
 tags:
   - chatgpt
   - open-ai
@@ -15,11 +15,19 @@ thumbnail: https://thmb.techidaily.com/a13a6e974ab2cc36089a6059bc5652aa7fea08489
 
 ## Is CodeGPT The Future of Coding? Evaluating Its Capability to Compose Code
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Quick Links
 
 * [What Is CodeGPT?](https://www.makeuseof.com/code-gpt-can-it-really-write-code/#what-is-codegpt)
 * [How Much Does CodeGPT Cost?](https://www.makeuseof.com/code-gpt-can-it-really-write-code/#how-much-does-codegpt-cost)
 * [Can CodeGPT Really Write Code?](https://www.makeuseof.com/code-gpt-can-it-really-write-code/#can-codegpt-really-write-code)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Key Takeaways
 
@@ -30,8 +38,9 @@ thumbnail: https://thmb.techidaily.com/a13a6e974ab2cc36089a6059bc5652aa7fea08489
  If you're looking for an AI-powered assistant to help you write code, chances are you've encountered CodeGPT. It's one of many AI-powered tools you can use to assist you when programming. But can CodeGPT actually write code?
 
 <!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## What Is CodeGPT?
 
  CodeGPT is a dedicated extension that uses different artificial intelligence (AI) models to help programmers write and fix code. It includes various features geared towards faster and easier programming, including auto-completion, code explanation, refactoring, documentation, unit testing, error-checking, and bug-fixing. It also has a ChatGPT-like interface you can access from your code editor.
@@ -41,8 +50,9 @@ thumbnail: https://thmb.techidaily.com/a13a6e974ab2cc36089a6059bc5652aa7fea08489
  While there are several[code editors for Linux](https://www.makeuseof.com/best-ide-code-editors-for-linux/) , macOS, and Windows, CodeGPT is only available in two. Today, you can either[install and use CodeGPT in VS Code](https://www.makeuseof.com/install-use-codegpt-in-vs-code/) or in Cursor, which is a fork of VS Code.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, 12-month subscription</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XA_wP7rS9ww?si=LarMG3sEHAhSoL6q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## How Much Does CodeGPT Cost?
 
  You can download and install CodeGPT for free, but using the extension comes at a cost. CodeGPT offers various subscription packages that you can pay for if you need unlimited access.
@@ -52,8 +62,9 @@ thumbnail: https://thmb.techidaily.com/a13a6e974ab2cc36089a6059bc5652aa7fea08489
  Bear in mind that you'll need to pay for unlimited usage of third-party AI models like OpenAI's GPT-4 model, for example. Although you can[access Open AI's GPT-4 model for free](https://www.makeuseof.com/ways-access-gpt-4-free/) , you cannot do so from within VS Code or Cursor.
 
 <!-- affiliate ads begin -->
-<a href="https://modlily.sjv.io/c/5597632/1997817/17059" target="_top" id="1997817"><img src="//a.impactradius-go.com/display-ad/17059-1997817" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997817/17059" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1KKovVi9epE?si=EF7KA7b4KsEpWA-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Can CodeGPT Really Write Code?
 
  To evaluate this, we'll use the extension to help us generate two different code samples in Python.
@@ -136,14 +147,11 @@ with open('output.csv', 'w', newline='') as output_file:
 
  So: CodeGPT can write code, but you should be careful because it won't always give you the best output. What you get might be error-prone and might not follow the best practices. Whenever you use CodeGPT or any other AI-powered tool to write code, strive to understand what the code does first. Don't just copy and paste.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -152,4 +160,24 @@ with open('output.csv', 'w', newline='') as output_file:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-hovers.techidaily.com/new-10-best-free-luts-with-download-links/"><u>[New] 10 Best Free LUTs with Download Links</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-enhancing-video-call-quality-with-zoom-in-teams/"><u>[New] Enhancing Video Call Quality with ZOOM in Teams</u></a></li>
+<li><a href="https://facebook.techidaily.com/assessing-if-facebook-has-peaked-popularity/"><u>Assessing If Facebook Has Peaked Popularity</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/cultivate-connections-top-10-agrigames-for-gathering-pals/"><u>Cultivate Connections Top 10 AgriGames for Gathering Pals</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-change-vivo-v29-lock-screen-clock-in-seconds-by-drfone-android/"><u>How To Change Vivo V29 Lock Screen Clock in Seconds</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/identifying-potential-vulnerabilities-in-chatgpts-operations/"><u>Identifying Potential Vulnerabilities in ChatGPT's Operations</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/innovative-leap-by-mercedes-benz-with-new-chatgpt-and-voice-commands-integration/"><u>Innovative Leap by Mercedes-Benz with New ChatGPT and Voice Commands Integration</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/integrating-ai-for-wellbeiting-top-9-chatgpt-tips/"><u>Integrating AI for Wellbeiting: Top 9 ChatGPT Tips</u></a></li>
+<li><a href="https://discover-advanced.techidaily.com/lesen-sie-hier-wie-sie-eine-vollstandige-datenubertragung-von-ihrem-iphone-zu-einem-windows-pc-durchfuhren-4-effektive-methoden/"><u>Lesen Sie Hier Wie Sie Eine Vollständige Datenübertragung Von Ihrem iPhone Zu Einem Windows-PC Durchführen: 4 Effektive Methoden</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/master-the-art-of-recognizing-pure-and-impure-token-deals/"><u>Master the Art of Recognizing Pure and Impure Token Deals</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/navigating-ai-censorship-in-chatbots-effects-on-you/"><u>Navigating AI Censorship in Chatbots – Effects on You</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/navigating-apple-for-authentic-chatai-services/"><u>Navigating Apple for Authentic ChatAI Services</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/navigating-the-obstacles-in-harmonizing-human-and-ai-objectives/"><u>Navigating the Obstacles in Harmonizing Human and AI Objectives</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/navigating-the-pros-and-cons-ais-role-in-enhancing-or-compromising-mental-health-services/"><u>Navigating the Pros and Cons: AI's Role in Enhancing or Compromising Mental Health Services</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/protecting-sensitive-business-conversations-on-gpt/"><u>Protecting Sensitive Business Conversations on GPT</u></a></li>
+<li><a href="https://discover-awesome.techidaily.com/step-by-step-tutorial-solving-stutter-and-lag-issues-for-4k-playback-on-vlc-media-player/"><u>Step-by-Step Tutorial: Solving Stutter & Lag Issues for 4K Playback on VLC Media Player</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/unchanged-file-storage-during-startup-navigating-windows-11-with-ease/"><u>Unchanged File Storage During Startup: Navigating Windows 11 with Ease</u></a></li>
+</ul></div>
 

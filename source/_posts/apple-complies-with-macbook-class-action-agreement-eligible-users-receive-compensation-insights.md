@@ -1,7 +1,7 @@
 ---
 title: "Apple Complies with MacBook Class-Action Agreement: Eligible Users Receive Compensation - Insights"
-date: 2025-01-08T16:18:48.452Z
-updated: 2025-01-13T17:00:49.124Z
+date: 2025-01-13T17:30:56.327Z
+updated: 2025-01-19T19:23:48.006Z
 tags:
   - apple
 categories:
@@ -31,10 +31,6 @@ To continue this conversation, I'm going to ask you to hold two competing though
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##  How could Meta possibly beat Apple?
 
 Good, better, best. What does this mean? How can a $500 device from Meta (Facebook, believe it or not) beat Apple's offering?
@@ -60,7 +56,7 @@ During this time, the company focused on providing viable mixed reality and VR e
 Essentially, Meta's focus has been on finding the sweet spot for AR and VR devices using current technology and baking that into its products. In the Quest 3, it has introduced a truly great device at a reasonably affordable price.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GU08CQVsZz0?si=V-SvPfzRsQysMS0e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UCqHbpxQGP4?si=XGkajFHdqyoKNAFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  That old Apple magic
@@ -90,10 +86,6 @@ Bloomberg's Gurman believes Apple is more willing to kill products now than it h
 
 His inference is that it's possible Apple will lose patience with the slow progress of the Vision Pro and kill it off, although he says his sources claim the company is more focused on introducing a cost-cut Vision device that off-loads the processing to a tethered iPhone or Mac. 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OdlXe5RELW0?si=Iz1H1QnLQVw-Eu3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##  Think different?
 
 For Apple to be able to move forward with the Vision Pro, it must answer one simple question: Why should I buy this thing? 
@@ -114,6 +106,10 @@ The virtual Mac screen the Vision Pro now offers doesn't add much. But being abl
 
 There are always reasons for delays. It's certainly possible the company hit technical hurdles. But perhaps it could have moved resources over from circus sideshow projects like converting 2D photos into 3D photos -- a feature _no one_ will use as a justification to buy a Vision Pro -- into something that could and will provide real, tangible value and even a justification for the high purchase price. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Zgwn5kVI5V4?si=1j6j4OuSSndFieXU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  A Vision for the rest of us
 
 Right now, the Quest 3 is the [spatial computing](https://www.zdnet.com/article/what-is-spatial-computing-and-how-does-it-work/) headset for the rest of us. While head-mounted displays are still a challenging sell, the Quest 3 offers enough compelling value ([especially as a theatre-sized Netflix player](https://www.zdnet.com/article/netflix-is-now-meta-quest-3s-killer-app-thanks-to-these-two-new-modes/)) to make it the mainstream, easy-to-adopt solution. 
@@ -128,6 +124,10 @@ In other words, for the Vision to be successful, it has to stop fooling around a
 
 So what, beyond shipping useful software like the ultra-wide Mac display, needs to factor into that probably elusive Apple mindset change? Three things. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. Give the Vision a controller
 
 VisionOS 2 has made some improvements. Beyond a trackpad, the new OS version (coming this fall) will support a mouse for pointing. It will also allow some form of keyboard passthrough, even in immersive environments, enabling you to see your keyboard. 
@@ -139,7 +139,7 @@ The eye tracking and hand gestures interface that are the primary means of opera
 You can see this in action with the [Puzzling Places game](https://www.meta.com/experiences/3931148300302917/). On the Quest 3, the game provides a much richer interface than on the Vision Pro. That's because it's much easier to navigate objects in the 3D space using the Quest controllers. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Stay away from cable tethering
@@ -155,7 +155,7 @@ The idea that a future Vision device might need to be physically tethered to an 
 There might be one compromise, which is to wirelessly offload some processing to an iPhone, similar to the symbiotic relationship the Apple Watch has with the iPhone. That could work. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. Make a tough margin decision
@@ -227,24 +227,17 @@ _You can follow my day-to-day project updates on social media. Be sure to subscr
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-blue.techidaily.com/new-redefining-the-silver-screen-virtual-reality-cinema/"><u>[New] Redefining the Silver Screen Virtual Reality Cinema</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/2024-approved-ghostly-pause-recorder-tutorial/"><u>2024 Approved Ghostly Pause Recorder Tutorial</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/boosting-productivity-with-powerful-plugins-discover-10-options-to-easily-create-pdfs-via-chatgpt-reducing-manual-labor/"><u>Boosting Productivity with Powerful Plugins: Discover 10 Options to Easily Create PDFs via ChatGPT, Reducing Manual Labor</u></a></li>
-<li><a href="https://win-excellent.techidaily.com/easy-guide-to-setting-up-and-testing-audio-configuration-in-windows-tips-from-yl-computing/"><u>Easy Guide to Setting Up & Testing Audio Configuration in Windows - Tips From YL Computing</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/empower-chromeos-creators-through-user-reviews-the-importance-of-sharing-zdnets-exclusive-tips/"><u>Empower ChromeOS Creators Through User Reviews - The Importance of Sharing | ZDNet's Exclusive Tips</u></a></li>
-<li><a href="https://fox-links.techidaily.com/enhancing-meeting-clarity-with-ms-teams-focus/"><u>Enhancing Meeting Clarity with MS Teams Focus</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/evaluating-the-safety-of-chatgpt-understanding-6-potential-cybersecurity-threats/"><u>Evaluating the Safety of ChatGPT: Understanding 6 Potential Cybersecurity Threats</u></a></li>
-<li><a href="https://discover-community.techidaily.com/exploring-the-concept-of-digital-signatures-with-yl-software-solutions-by-yl-computing/"><u>Exploring the Concept of Digital Signatures with YL Software Solutions by YL Computing</u></a></li>
-<li><a href="https://solve-news.techidaily.com/free-techniques-to-change-movie-files-from-mts-to-mp4-compatible-with-both-windows-and-macos-systems/"><u>Free Techniques to Change Movie Files From MTS to MP4 Compatible with Both Windows & macOS Systems</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/gpt-3-vs-translate-best-at-language-conversion/"><u>GPT-3 Vs. Translate: Best at Language Conversion?</u></a></li>
-<li><a href="https://discover-cloud.techidaily.com/handbrake-version-64-bit-fix-compatible-with-vlc-error-resolved/"><u>HandBrake Version 64-Bit Fix - Compatible with VLC, Error Resolved!</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/how-governing-bodies-can-manage-and-supervise-emerging-ai-tools-4-key-approaches/"><u>How Governing Bodies Can Manage and Supervise Emerging AI Tools: 4 Key Approaches</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/how-to-discern-legitimate-chatbot-ios-programs/"><u>How to Discern Legitimate ChatBot iOS Programs</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/improve-responses-quickly-7-dynamic-techniques-for-gpt-optimization/"><u>Improve Responses Quickly: 7 Dynamic Techniques for GPT Optimization</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/instantly-organize-your-journey-7-free-chatgpt-powered-itinerary-assistants-for-savvy-travelers/"><u>Instantly Organize Your Journey: 7 Free ChatGPT-Powered Itinerary Assistants for Savvy Travelers</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/is-ai-laughter-worthy-analyzing-chatgpts-competence-in-joke-creation/"><u>Is AI Laughter-Worthy? Analyzing ChatGPT’s Competence in Joke Creation</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/is-artificer-intelligence-a-gateway-to-novel-methods-in-misleading-the-public/"><u>Is Artificer Intelligence a Gateway to Novel Methods in Misleading the Public?</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/join-the-elite-club-of-bug-detectives-at-openai/"><u>Join the Elite Club of Bug Detectives at OpenAI!</u></a></li>
-<li><a href="https://games-able.techidaily.com/unlocking-your-wallets-potential-on-steam/"><u>Unlocking Your Wallet's Potential on Steam</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-2024-approved-the-classic-questline-versus-the-dynamic-strategy/"><u>[New] 2024 Approved The Classic Questline versus the Dynamic Strategy</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/2024-approved-unlock-full-participant-grid-display-in-meet/"><u>2024 Approved Unlock Full Participant Grid Display in Meet</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/d-the-scenes-how-to-create-youtube-trailers-in-filmora-for-2024/"><u>Behind the Scenes How-To Create YouTube Trailers in Filmora for 2024</u></a></li>
+<li><a href="https://discover-advanced.techidaily.com/enhance-your-site-with-cookiebot-technology/"><u>Enhance Your Site with Cookiebot Technology</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-top-5-vivo-y77t-bypass-frp-tools-for-pc-that-actually-work-by-drfone-android/"><u>In 2024, Top 5 Vivo Y77t Bypass FRP Tools for PC That Actually Work</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/new-mastering-titles-in-fcpx-essential-skills-for-video-editors/"><u>New Mastering Titles in FCPX Essential Skills for Video Editors</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/the-best-android-unlock-software-for-itel-p55plus-device-top-5-picks-to-remove-android-locks-by-drfone-android/"><u>The Best Android Unlock Software For Itel P55+ Device Top 5 Picks to Remove Android Locks</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/unlock-language-diversity-using-chatgpt-as-a-translation-workhorse/"><u>Unlock Language Diversity: Using ChatGPT as a Translation Workhorse</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/unlock-your-culinary-potential-with-chatgpts-cooking-hints-and-tricks/"><u>Unlock Your Culinary Potential with ChatGPT's Cooking Hints & Tricks</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/unpacking-financial-advice-via-emojis-activisions-digital-vulnerability-and-ai-driven-employment-concerns/"><u>Unpacking Financial Advice via Emojis, Activision's Digital Vulnerability and AI-Driven Employment Concerns</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/unveiling-ais-definition-and-potential-threats-for-a-safer-future/"><u>Unveiling AI's Definition & Potential Threats for a Safer Future</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/unveiling-the-latest-a-deep-dive-into-new-twitter-scams-metas-official-verification-rollout-and-insights-on-chatgpt-4/"><u>Unveiling the Latest: A Deep Dive Into New Twitter Scams, Meta's Official Verification Rollout, & Insights on ChatGPT-4</u></a></li>
 </ul></div>
 

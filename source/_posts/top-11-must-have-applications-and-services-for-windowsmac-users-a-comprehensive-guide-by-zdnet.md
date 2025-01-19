@@ -1,7 +1,7 @@
 ---
 title: "Top 11 Must-Have Applications & Services for Windows/Mac Users: A Comprehensive Guide by ZDNet"
-date: 2025-01-09T16:06:26.634Z
-updated: 2025-01-13T16:47:35.182Z
+date: 2025-01-18T19:57:56.458Z
+updated: 2025-01-19T16:29:52.025Z
 tags:
   - apple
 categories:
@@ -18,6 +18,10 @@ One of my most popular posts last year was a [tour of my home office](https://ww
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### **ZDNET** Recommends
 
 [Home Office Tours ZDNet contributors welcome you inside their home-based workspaces and show off the tech gear that drives their productivity.  Read now](https://www.zdnet.com/topic/home-office-tours/)
@@ -31,7 +35,7 @@ Of course, this selection reflects my work habits and my personal preferences. Y
 **See also:** [My five favorite free Windows 10 utilities](https://www.zdnet.com/article/windows-10-my-five-favorite-free-utilities/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Productivity
@@ -43,7 +47,7 @@ Show less
 ## Microsoft 365 apps for Business
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ITtcSWvS8bo?si=4M4BfMgaabrW6148" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### It's not just a bundle anymore
@@ -59,10 +63,6 @@ Show less
 [View now at Tweeten](https://tweetenapp.com/)
 
 ## Tweeten
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### It's TweetDeck on steroids
 
@@ -92,7 +92,15 @@ Show less
 
 [View now at Adobe Acrobat](https://www.adobe.com/products/catalog.html#category=pdf)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/793ViIxl4tI?si=DDBkjPlPX5bZ-f1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Adobe Acrobat Pro DC
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### From the inventor of the PDF standard
 
@@ -108,10 +116,6 @@ Show less
 
 ## Quicken Home and Business
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### I hate it, but I use it
 
 A gazillion years ago, a famous household brand sold a lot of mouthwash with ads whose tagline went something like: "You hate the taste, but you use it twice a day." That, to me, is the perfect description of Quicken for Windows, which is occasionally infuriating to use, comes with a steep learning curve, and includes a virtual guarantee that you will run into some terribly annoying bug roughly once a quarter. Despite all that, it's better than any of the alternatives. I know. I've tried them all.
@@ -119,10 +123,6 @@ A gazillion years ago, a famous household brand sold a lot of mouthwash with ads
 The good news is that Quicken's support staff is responsive and knowledgeable, and the user base is so large that you can quickly find an answer if you run into one of those quarterly bugs. And the $104-a-year subscription is tax-deductible.
 
 Show Expert Take Show less 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Browser and extensions
 
@@ -144,11 +144,11 @@ Show less
 
 [View now at 1Password](https://www.anrdoezrs.net/links/9041660/type/dlg/sid/zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp/https://1password.com/)
 
-## 1Password
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_SbYznUy_zY?si=ThBkP934r3mizi48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+## 1Password
 
 ### Everyone needs a password manager
 
@@ -172,21 +172,17 @@ Because Workona is currently in preview, it's free. After it's officially releas
 
 Show Expert Take Show less 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Media
 
 Show less 
 
 [View now at Spotify](https://www.spotify.com/us/premium/?referral=cbs&utm%5Fcampaign=cbs)
 
-## Spotify Music
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+## Spotify Music
 
 ### No music app is perfect, but Spotify is best all around
 
@@ -202,6 +198,10 @@ Show less
 
 ## VLC Media Player
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Free, open source, handles every format imaginable
 
 This free, open source tool has been around forever. (I wrote about it nearly a decade ago, when it was the best [free alternative DVD player](https://www.zdnet.com/article/if-vlc-can-ship-a-free-dvd-player-why-cant-microsoft/) on the market.) It plays just about every media format (including Blu-ray discs), it doesn't require downloading dodgy codec packs to work, and it runs on every conceivable platform. On Windows 10, make sure to install the [full Windows package](http://www.videolan.org/vlc/download-windows.html), not the limited-feature variant in the Windows Store.
@@ -212,11 +212,11 @@ Show less
 
 [View now at MediaMonkey](https://www.mediamonkey.com/download/)
 
-## MediaMonkey
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zmXpl6irBYk?si=BXjGpQr6PXFcqhCI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+## MediaMonkey
 
 ### A Swiss Army knife for digital media
 
@@ -256,15 +256,20 @@ Show Expert Take Show less
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/new-globes-biggest-video-content-mogul-for-2024/"><u>[New] Globe’s Biggest Video Content Mogul for 2024</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-in-2024-windows-users-take-note-camcorders-guide-ahead/"><u>[Updated] In 2024, Windows Users, Take Note Camcorders Guide Ahead</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/dispelling-myths-the-key-distinctions-between-apples-siri-and-microsofts-chatgpt/"><u>Dispelling Myths: The Key Distinctions Between Apple's Siri and Microsoft's ChatGPT</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/diy-instructions-for-downloading-and-running-llama-2-on-local-systems/"><u>DIY Instructions for Downloading and Running Llama 2 on Local Systems</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/does-chatgpt-learn-from-user-conversations/"><u>Does ChatGPT Learn From User Conversations?</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/empower-your-wrist-tech-discover-chatgpts-revolutionary-effects-on-smartwatches/"><u>Empower Your Wrist Tech: Discover ChatGPT's Revolutionary Effects on Smartwatches</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-does-airplane-mode-turn-off-gps-location-on-oppo-a1x-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Does Airplane Mode Turn off GPS Location On Oppo A1x 5G? | Dr.fone</u></a></li>
-<li><a href="https://video-creation-software.techidaily.com/new-in-2024-easy-video-editor-for-mac-mkvtoolnix-review-and-tutorial-2023/"><u>New In 2024, Easy Video Editor for Mac MKVtoolnix Review and Tutorial 2023</u></a></li>
-<li><a href="https://win-special.techidaily.com/reviving-lost-treasures-the-ultimate-strategy-for-retrieving-games-from-an-accidental-steam-removal/"><u>Reviving Lost Treasures: The Ultimate Strategy for Retrieving Games From an Accidental Steam Removal</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/unova-stone-pokemon-go-evolution-list-and-how-catch-them-for-tecno-spark-go-2024-drfone-by-drfone-virtual-android/"><u>Unova Stone Pokémon Go Evolution List and How Catch Them For Tecno Spark Go (2024) | Dr.fone</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-in-2024-mastering-your-video-projects-with-superior-recorder-software/"><u>[Updated] In 2024, Mastering Your Video Projects with Superior Recorder Software</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-asmr-and-you-understanding-its-healing-power/"><u>2024 Approved ASMR and You Understanding Its Healing Power</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-best-practices-in-converting-videos-for-twitter/"><u>2024 Approved Best Practices in Converting Videos for Twitter</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/boosting-views-mastering-hashtags-in-freefire-vids/"><u>Boosting Views Mastering Hashtags in FreeFire Vids</u></a></li>
+<li><a href="https://driver-download.techidaily.com/download-hp-laserjet-pro-p1102w-printer-software-on-windows/"><u>Download HP LaserJet Pro P1102W Printer Software on Windows</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-fix-the-0x80070490-windows-update-error-successfully/"><u>How to Fix the 0X80070490 Windows Update Error Successfully</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/in-2024-quick-fire-photos-with-iphone-burst-feature/"><u>In 2024, Quick-Fire Photos with iPhone Burst Feature</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/pros-and-cons-why-you-may-want-to-skip-the-chatgpt-app-download/"><u>Pros and Cons: Why You May Want to Skip the ChatGPT App Download</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/sd-card-unseen-solutions-await/"><u>SD Card Unseen? Solutions Await!</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/step-by-step-chatgpt-installation-guide/"><u>Step-by-Step ChatGPT Installation Guide</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/strategic-synergy-how-chatgpt-enhances-analytical-prowess/"><u>Strategic Synergy: How ChatGPT Enhances Analytical Prowess</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/streamline-scriptwriting-for-videos-the-chatgpt-way/"><u>Streamline Scriptwriting for Videos - The ChatGPT Way</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/the-chatgpt-advantage-for-writing-subtly-sensitive-company-emails/"><u>The ChatGPT Advantage for Writing Subtly Sensitive Company Emails</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/the-evolutionary-path-of-ai-analyzing-and-comparing-the-advancements-in-openais-generative-pre-trained-transformer-models-from-gpt-1-to-gpt-4/"><u>The Evolutionary Path of AI: Analyzing and Comparing the Advancements in OpenAI’s Generative Pre-Trained Transformer Models From GPT-1 to GPT-4</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/the-misuse-of-ai-for-cybercrimes-discovering-5-key-tactics/"><u>The Misuse of AI for Cybercrimes - Discovering 5 Key Tactics</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "M3 MacBook Pro Gets Power Boost: Now Supports Two Displays, Just Like the Air Model"
-date: 2025-01-06T16:24:15.482Z
-updated: 2025-01-13T16:58:39.660Z
+date: 2025-01-14T19:59:12.500Z
+updated: 2025-01-19T19:33:21.824Z
 tags:
   - apple
 categories:
@@ -48,13 +48,13 @@ Want a little help deciding? Here's a breakdown of the biggest differences betwe
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  You should buy the M3 MacBook Air if...
 
 Jason Hiner/ZDNET
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ###  1\. You want the fastest Wi-Fi support available
 
@@ -87,7 +87,7 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 [See all](https://www.zdnet.com/newsletters/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l-SCWTWpegY?si=oxTsHQkIu1v4-I6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  You should buy the M2 MacBook Air if...
@@ -95,12 +95,16 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 Cliff Joseph/ZDNET
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DEqoiNArwjQ?si=oaL_lgnI-RxY5Qy_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ###  1\. The $100 price difference means a lot
 
 You don't get too many chances to save money on Apple products, but you have one here by opting for the M2 version of the MacBook Air. With the release of the M3 version. Apple has dropped the M2 MacBook Air's starting price to $999, but that price could drop further later in the year, opening the door for bigger savings. Even though the M2 is slightly older, it's still a perfectly capable laptop that will work fine for most people.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ###  2\. You don't need the latest and greatest features
 
@@ -109,7 +113,7 @@ Will you be mainly using your laptop for web surfing, streaming, listening to mu
 **Also:** [**I recommend this 15-inch MacBook Air to most people, and it's still $250 off**](https://www.zdnet.com/article/i-recommend-this-15-inch-macbook-air-to-most-people-and-its-still-250-off/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OdlXe5RELW0?si=Iz1H1QnLQVw-Eu3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/epKTCSREjhI?si=Ez_hObK1FZrmEE7f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 3\. You're expecting the M3 to be a bigger upgrade
@@ -117,10 +121,6 @@ Will you be mainly using your laptop for web surfing, streaming, listening to mu
 If you were expecting a radical redesign with the latest MacBook, you won't get it from the M3 Air. It looks nearly identical to the M2, and aside from the anodization seal on the midnight color that reduces fingerprints, even the colors aren't anything new. The real changes are on the inside, so if you want something that simply looks like it's the latest thing, you won't get any benefit from picking the M3 over the M2\. 
 
 [Buy the M2 MacBook Air View now at Apple](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-mac%2Fmacbook-air%2F13-inch-m2&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  Alternatives to consider
 
@@ -156,24 +156,18 @@ If you were expecting a radical redesign with the latest MacBook, you won't get 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-http.techidaily.com/new-in-2024-ultimate-aerial-partners-for-perfect-gopro-footage-capture/"><u>[New] In 2024, Ultimate Aerial Partners for Perfect GoPro Footage Capture</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/new-in-2024-unleash-your-inner-animator-easily-share-gifs-on-snapchat/"><u>[New] In 2024, Unleash Your Inner Animator Easily Share Gifs on Snapchat</u></a></li>
-<li><a href="https://article-posts.techidaily.com/updated-the-essence-of-color-in-photography-top-11-tutorials-for-2024/"><u>[Updated] The Essence of Color in Photography (Top 11 Tutorials) for 2024</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/3-facts-you-need-to-know-about-screen-mirroring-honor-magic-vs-2-drfone-by-drfone-android/"><u>3 Facts You Need to Know about Screen Mirroring Honor Magic Vs 2 | Dr.fone</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/achieve-superior-engagement-on-chatgpt-expert-techniques-for-creating-impactful-user-personas/"><u>Achieve Superior Engagement on ChatGPT: Expert Techniques for Creating Impactful User Personas</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/ai-powered-love-deception-unveiling-7-techniques-used-by-fraudsters/"><u>AI-Powered Love Deception: Unveiling 7 Techniques Used by Fraudsters</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/ais-predicted-effect-on-programmer-productivity-and-techniques/"><u>AI's Predicted Effect on Programmer Productivity and Techniques</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/are-there-potential-risks-associated-with-using-chatgpt/"><u>Are There Potential Risks Associated with Using ChatGPT?</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/audiences-choice-in-drama-writings/"><u>Audience's Choice in Drama Writings</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/behind-the-curtain-what-is-truthgpt-and-how-does-it-define-future-ais/"><u>Behind the Curtain: What Is TruthGPT and How Does It Define Future AIs?</u></a></li>
-<li><a href="https://facebook.techidaily.com/beyond-the-clickbait-exposing-truth-in-facebook-lore/"><u>Beyond the Clickbait: Exposing Truth in Facebook Lore</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/building-better-bonds-with-ais-help/"><u>Building Better Bonds with AI's Help</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/can-artificial-intelligence-become-the-next-stand-up-star-unraveling-humor-algorithms-plus-tracing-the-milestones-from-first-laptops-to-vpn-breakthroughs/"><u>Can Artificial Intelligence Become the Next Stand-Up Star? Unraveling Humor Algorithms + Tracing the Milestones From First Laptops to VPN Breakthroughs</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/chatbot-faceoff-evaluating-which-ai-excels-at-coding-chatgpt-versus-gemini-challenge/"><u>Chatbot Faceoff: Evaluating Which AI Excels at Coding - ChatGPT Versus Gemini Challenge</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/chatgpt-as-your-partner-building-an-engaging-web-app-together/"><u>ChatGPT as Your Partner: Building an Engaging Web App Together</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/how-to-mirror-pc-screen-to-xiaomi-redmi-a2plus-phones-drfone-by-drfone-android/"><u>How to Mirror PC Screen to Xiaomi Redmi A2+ Phones? | Dr.fone</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-stop-life360-from-tracking-you-on-lava-yuva-2-drfone-by-drfone-virtual-android/"><u>In 2024, How to Stop Life360 from Tracking You On Lava Yuva 2? | Dr.fone</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/24-syncopating-success-key-points-to-music-short-videos-on-youtube/"><u>In 2024, Syncopating Success Key Points to Music Short Videos on YouTube</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/in-depth-analysis-of-the-keychron-k2-he-special-edition-retro-charm-meets-modern-tech/"><u>In-Depth Analysis of the Keychron K2 HE Special Edition: Retro Charm Meets Modern Tech</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-2024-approved-high-quality-video-webcams-top-5-combos-with-sound/"><u>[New] 2024 Approved High-Quality Video Webcams - Top 5 Combo's With Sound</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/n-2024-creating-a-lasting-impression-the-ultimate-youtube-live-thumbnail-guide/"><u>[New] In 2024, Creating a Lasting Impression The Ultimate YouTube Live Thumbnail Guide</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-in-2024-incremental-movie-moment/"><u>[Updated] In 2024, Incremental Movie Moment</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/experience-cutting-edge-ai-search-on-the-go-with-bings-new-app-support-for-android-and-ios/"><u>Experience Cutting-Edge AI Search on the Go with Bing's New App Support for Android and iOS!</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/exploring-new-horizons-with-chatgpt-enabling-beta-browsing-and-plugin-functions-for-an-upgraded-online-journey/"><u>Exploring New Horizons with ChatGPT: Enabling Beta Browsing and Plugin Functions for an Upgraded Online Journey</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/flavor-and-fitness-ai-powered-meal-prepping-tips/"><u>Flavor & Fitness: AI-Powered Meal Prepping Tips</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/hack-alert-activision-breach-exposed-are-chatgpt-infused-ai-taking-our-jobs/"><u>Hack Alert: Activision Breach Exposed, Are ChatGPT-Infused AI Taking Our Jobs?</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/how-does-gpt-4-differ-from-its-cousins-a-deep-dive-into-gpt-4-vs-gpt-4-turbo-vs-gpt-4o/"><u>How Does GPT-4 Differ From Its Cousins? A Deep Dive Into GPT-4 Vs. GPT-4 Turbo Vs. GPT-4o</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/how-to-fix-iphone-7-plus-could-not-be-activatedreached-issue-by-drfone-ios/"><u>How To Fix iPhone 7 Plus Could Not Be Activated/Reached Issue</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/in-2024-overcoming-inaudibility-in-obs-captured-audio/"><u>In 2024, Overcoming Inaudibility in OBS Captured Audio</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/inside-googles-cutting-edge-initiative-the-gemini-ai-project-explained/"><u>Inside Google's Cutting-Edge Initiative: The Gemini AI Project Explained</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/iphone-15-pro-max-vs-samsung-galaxy-s24-ultra-a-comprehensive-head-to-head-comparison/"><u>IPhone 15 Pro Max Vs. Samsung Galaxy S24 Ultra: A Comprehensive Head-to-Head Comparison</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/leading-spots-for-stunning-3d-metallic-type-creations/"><u>Leading Spots for Stunning 3D Metallic Type Creations</u></a></li>
 </ul></div>
 

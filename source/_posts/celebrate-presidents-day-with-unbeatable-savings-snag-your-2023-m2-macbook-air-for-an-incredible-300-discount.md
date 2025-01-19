@@ -1,7 +1,7 @@
 ---
 title: "Celebrate Presidents' Day with Unbeatable Savings: Snag Your 2023 M2 MacBook Air for an Incredible $300 Discount"
-date: 2025-01-06T16:20:44.349Z
-updated: 2025-01-13T16:29:10.807Z
+date: 2025-01-17T16:39:03.383Z
+updated: 2025-01-19T19:36:21.272Z
 tags:
   - apple
 categories:
@@ -34,7 +34,7 @@ ZDNET editor-in-chief Jason Hiner says the pair are the most easily recommendabl
 If you're ready to replace that old pair of wired earbuds with one of our favorite wireless earbuds, you might as well hop on this [second-generation AirPods Pro deal](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0D1XD1ZV3%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C6a967f3d-7d3f-4fdf-b579-d62f551f1b28%7Cdtp&dtb=1). But act fast -- the discount won't last long. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6nvb0775GOM?si=peBB_Mo_4zcZFuci" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## When will this deal expire?
@@ -81,24 +81,20 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-blue.techidaily.com/new-2024-approved-the-pinnacle-of-immersion-highest-rated-oculus-headsets/"><u>[New] 2024 Approved The Pinnacle of Immersion Highest-Rated Oculus Headsets</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/n-2024-best-livestream-capturing-solutions-for-content-makers/"><u>[New] In 2024, Best Livestream Capturing Solutions for Content Makers</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/n-2024-transforming-views-uncover-the-best-video-hacks-for-success/"><u>[New] In 2024, Transforming Views Uncover the Best Video Hacks for Success</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/ace-your-workflow-implementing-chatgpt-for-enhanced-personal-assistance/"><u>Ace Your Workflow: Implementing ChatGPT for Enhanced Personal Assistance</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/advanced-excel-tricks-chatgpt-simply-cannot-match/"><u>Advanced Excel Tricks ChatGPT Simply Cannot Match</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/ai-battle-royale-determining-the-cutting-edge-between-chatgpt-microsoft-bing-and-google-bard/"><u>AI Battle Royale: Determining The Cutting Edge Between ChatGPT, Microsoft Bing and Google Bard.</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/ai-prompt-injection-explained-threat-modalities-impacts-and-countermeasures/"><u>AI Prompt Injection Explained: Threat Modalities, Impacts & Countermeasures</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/boosting-the-effectiveness-of-your-pointer-on-win11s-system/"><u>Boosting the Effectiveness of Your Pointer on Win11's System</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/boundaries-of-machine-understanding-chatgpts-limits/"><u>Boundaries of Machine Understanding: ChatGPT's Limits</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/chatgpt-for-kids-5-safety-steps-to-follow/"><u>ChatGPT for Kids: 5 Safety Steps to Follow</u></a></li>
-<li><a href="https://techidaily.com/complete-guide-to-hard-reset-your-oneplus-nord-ce-3-5g-drfone-by-drfone-reset-android-reset-android/"><u>Complete Guide to Hard Reset Your OnePlus Nord CE 3 5G | Dr.fone</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/comprehending-artificial-intelligence-and-its-associated-dangers/"><u>Comprehending Artificial Intelligence and Its Associated Dangers</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/cutting-edge-techniques-for-collaborative-creations/"><u>Cutting Edge Techniques for Collaborative Creations</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/decoding-six-common-car-ai-configurations-fails/"><u>Decoding Six Common Car AI Configurations Fails</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/detailed-examination-gopro-silver-hero4-camera-testing/"><u>Detailed Examination GoPro Silver Hero4 Camera Testing</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/discovering-the-ins-and-outs-of-openais-bug-bounty-initiative-a-comprehensive-guide/"><u>Discovering the Ins and Outs of OpenAI's Bug Bounty Initiative - A Comprehensive Guide</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/how-to-remove-and-reset-face-id-on-iphone-8-by-drfone-ios/"><u>How to Remove and Reset Face ID on iPhone 8</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/iphone-call-recording-explained-techniques-and-legal-considerations-by-region-zdnet/"><u>IPhone Call Recording Explained: Techniques & Legal Considerations by Region (ZDNet)</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/ultimate-guide-to-the-best-9-video-call-apps-androidios/"><u>Ultimate Guide to the Best 9 Video Call Apps Android/iOS</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-2024-approved-strategies-to-combat-freezing-in-high-quality-mode/"><u>[New] 2024 Approved Strategies to Combat Freezing in High Quality Mode</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-2024-approved-unleash-creative-potential-with-green-screen-tips/"><u>[Updated] 2024 Approved Unleash Creative Potential with Green Screen Tips</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/2024-approved-from-twitter-video-snippets-to-lively-animated-gifs/"><u>2024 Approved From Twitter Video Snippets to Lively Animated GIFs</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/home-charging-basics-for-electric-vehicles-a-complete-guide/"><u>Home Charging Basics for Electric Vehicles: A Complete Guide</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-share-location-in-messenger-on-realme-12-pro-5g-drfone-by-drfone-virtual-android/"><u>How to Share Location in Messenger On Realme 12 Pro 5G? | Dr.fone</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-android-unlock-code-sim-unlock-your-realme-gt-5-phone-and-remove-locked-screen-by-drfone-android/"><u>In 2024, Android Unlock Code Sim Unlock Your Realme GT 5 Phone and Remove Locked Screen</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-life360-circle-everything-you-need-to-know-on-itel-a60-drfone-by-drfone-virtual-android/"><u>In 2024, Life360 Circle Everything You Need to Know On Itel A60 | Dr.fone</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/is-the-release-of-gpt-5-already-on-the-horizon-estimated-timeline-and-more/"><u>Is the Release of GPT-5 Already on the Horizon? Estimated Timeline & More</u></a></li>
+<li><a href="https://driver-install.techidaily.com/lenovo-thinkpad-edge-drivers-download-for-windows-11/"><u>Lenovo Thinkpad Edge Drivers Download for Windows 11</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/leveraging-chatgpt-for-enhanced-multilingual-acquisition/"><u>Leveraging ChatGPT for Enhanced Multilingual Acquisition</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/mastering-the-art-of-interactive-narratives-in-chatgpt-powered-rpgs/"><u>Mastering the Art of Interactive Narratives in ChatGPT Powered RPGs</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/navigating-chatgpt-blockades-understanding-the-four-reasons-behind-your-disconnect-and-strategies-for-successful-reinstatement/"><u>Navigating ChatGPT Blockades: Understanding the Four Reasons Behind Your Disconnect and Strategies for Successful Reinstatement</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/new-guide-how-to-check-icloud-activation-lock-status-on-your-apple-iphone-xs-by-drfone-ios/"><u>New Guide How To Check iCloud Activation Lock Status On Your Apple iPhone XS</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/not-yet-on-board-with-the-upcoming-chatgpt-desktop-opt-for-this-incredible-free-alternative-now/"><u>Not Yet on Board with the Upcoming ChatGPT Desktop? Opt for This Incredible Free Alternative Now.</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/preserving-conversations-a-guide-to-saving-chatgpt-interactions/"><u>Preserving Conversations: A Guide to Saving ChatGPT Interactions</u></a></li>
 </ul></div>
 
