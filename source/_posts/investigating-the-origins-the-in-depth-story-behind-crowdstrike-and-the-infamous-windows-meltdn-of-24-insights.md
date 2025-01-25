@@ -1,7 +1,7 @@
 ---
 title: "Investigating the Origins: The In-Depth Story Behind CrowdStrike and the Infamous Windows Meltdn of '24 | Insights"
-date: 2025-01-16T18:24:57.825Z
-updated: 2025-01-19T18:00:43.235Z
+date: 2025-01-19T16:17:36.984Z
+updated: 2025-01-25T16:48:51.534Z
 tags:
   - apple
 categories:
@@ -33,7 +33,7 @@ In this case, the trusted software developer is a firm called CrowdStrike Holdin
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What happened?
@@ -55,7 +55,7 @@ Repairing the damage from a flaw like this is a painfully tedious process that r
 If you know anyone whose job involves administering Windows PCs in a corporate network that uses the CrowdStrike code, you can be confident they are very busy right now, and will be for days to come.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5FWCFI3f_cs?si=Kt2Onr_E4c616tbH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/djPqRkskaBo?si=O6FEI-KVW0HwN417" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## We've seen this movie before
@@ -95,7 +95,7 @@ In the You Can't Make This Up Department… CrowdStrike's founder and CEO, Georg
 What makes the 2024 sequel so much worse is that it also affected Windows-based servers running in the cloud, on Microsoft Azure and on AWS. Just as with the many laptops and desktop PCs that were bricked by this faulty update, the cloud-based servers require time-consuming manual interventions to recover.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OdlXe5RELW0?si=Iz1H1QnLQVw-Eu3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## CrowdStrike's QA failed
@@ -125,7 +125,7 @@ As part of its initial response, CrowdStrike says it plans to take additional me
 Meanwhile, the United States House of Representatives Homeland Security Committee plans to call CrowdStrike's CEO up for hearings on what went wrong, and CrowdStrike's Chief Security Officer, Shawn Henry, [posted an apology on LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:7220983915421806592/), admitting "On Friday, we failed you. ... The confidence we built in drips over the years was lost in buckets within hours, and it was a gut punch."
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=LvxQhsEJoymsM2iZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How much fault should Microsoft shoulder?
@@ -176,22 +176,18 @@ Nonetheless, this incident, which caused many billions of dollars' worth of dama
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-tips.techidaily.com/updated-insightful-cloud-costs-price-comparison-and-recommendations-for-2024/"><u>[Updated] Insightful Cloud Costs Price, Comparison & Recommendations for 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-swiftly-piece-together-a-stunning-google-photo-collage/"><u>[Updated] Swiftly Piece Together a Stunning Google Photo Collage</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/15-plant-health-solution-detect-and-nourish-your-greenery-back-to-life-with-our-expert-tips-zdnet/"><u>$15 Plant Health Solution: Detect & Nourish Your Greenery Back to Life with Our Expert Tips | ZDNET</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/clocking-down-the-big-day-10-best-mobile-apps-revealed/"><u>Clocking Down the Big Day 10 Best Mobile Apps Revealed</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/diy-photography-hack-the-complete-strategy-for-effective-selfie-light-usage/"><u>DIY Photography Hack: The Complete Strategy for Effective Selfie Light Usage</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/edit-your-videos-without-costs-using-windows-11s-top-free-tools/"><u>Edit Your Videos Without Costs Using Windows 11'S Top Free Tools</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/get-a-jump-on-innovation-8-gpt-models-you-can-implement-without-delay/"><u>Get a Jump on Innovation: 8 GPT Models You Can Implement Without Delay</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/gpt-4-demystified-in-verified-social-circles-by-meta/"><u>GPT-4 Demystified in Verified Social Circles by Meta</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/how-does-chatgpts-use-of-recent-data-impact-all-users/"><u>How Does ChatGPT's Use of Recent Data Impact All Users?</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/how-does-claude-ai-transform-user-experience-learn-why-you-need-it-today/"><u>How Does Claude AI Transform User Experience? Learn Why You Need It Today</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-photos-on-itel-s23-by-stellar-photo-recovery-android-mobile-photo-recover/"><u>How to recover deleted photos on Itel S23</u></a></li>
-<li><a href="https://ios-location-track.techidaily.com/in-2024-top-10-telegram-spy-tools-on-apple-iphone-xr-for-parents-drfone-by-drfone-virtual-ios/"><u>In 2024, Top 10 Telegram Spy Tools On Apple iPhone XR for Parents | Dr.fone</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/innovative-techniques-designing-impactful-presentations-through-chatgpt/"><u>Innovative Techniques: Designing Impactful Presentations Through ChatGPT</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/journey-through-quora-to-discover-botsllms/"><u>Journey Through Quora to Discover Bots/LLMs</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/leveraging-chatgpt-to-establish-and-reach-your-personal-health-goals-efficiently/"><u>Leveraging ChatGPT to Establish and Reach Your Personal Health Goals Efficiently</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/making-it-easy-how-to-switch-between-webp-jpg-and-png-using-dall-e-3s-outputs/"><u>Making It Easy: How to Switch Between WebP, JPG, and PNG Using DALL-E 3'S Outputs</u></a></li>
-<li><a href="https://discover-extraordinary.techidaily.com/yl-computings-expert-tips-for-diagnosing-and-fixing-printer-network-errors/"><u>YL Computing's Expert Tips for Diagnosing and Fixing Printer Network Errors</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/n-2024-the-ultimate-list-of-8-real-world-youtube-boosters/"><u>[New] In 2024, The Ultimate List of 8 Real-World YouTube Boosters</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/n-2024-transform-your-content-reach-with-strategic-tagging-insight/"><u>[New] In 2024, Transform Your Content Reach with Strategic Tagging Insight</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-in-2024-crafting-new-frontiers-with-webcam-capabilities/"><u>[Updated] In 2024, Crafting New Frontiers with Webcam Capabilities</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/chatgpt-accounts-a-cybercriminals-playground/"><u>ChatGPT Accounts: A Cybercriminal's Playground?</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/how-courteous-should-you-be-with-smart-tech-alexa-siri/"><u>How Courteous Should You Be with Smart Tech? (Alexa, Siri)</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-3-methods-to-mirror-vivo-v29-to-roku-drfone-by-drfone-android/"><u>In 2024, 3 Methods to Mirror Vivo V29 to Roku | Dr.fone</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-top-11-free-apps-to-check-imei-on-infinix-smart-7-phones-by-drfone-android/"><u>In 2024, Top 11 Free Apps to Check IMEI on Infinix Smart 7 Phones</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/new-in-2024-top-10-best-free-mp4-video-editors-2023/"><u>New In 2024, Top 10 Best Free MP4 Video Editors 2023</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/openai-playground-mastery-leveraging-the-power-of-gpt-3-explained/"><u>OpenAI Playground Mastery: Leveraging the Power of GPT-3 Explained</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/romance-fraud-alert-how-cybercriminals-employ-artificial-intelligence-for-manipulation-7-tactics-exposed/"><u>Romance Fraud Alert: How Cybercriminals Employ Artificial Intelligence for Manipulation – 7 Tactics Exposed</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/samsung-galaxy-fit2-the-ultimate-portable-workout-companion/"><u>Samsung Galaxy Fit2: The Ultimate Portable Workout Companion</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/1722857388809-troubleshooting-steps-resolving-client-and-server-side-vpn-error-code-800/"><u>Troubleshooting Steps: Resolving Client & Server-Side VPN Error Code 800</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/updated-is-videopad-the-right-video-editor-for-you-our-expert-review-for-2024/"><u>Updated Is Videopad the Right Video Editor for You? Our Expert Review for 2024</u></a></li>
 </ul></div>
 

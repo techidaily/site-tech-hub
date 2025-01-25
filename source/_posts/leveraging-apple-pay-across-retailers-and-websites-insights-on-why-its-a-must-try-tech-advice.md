@@ -1,7 +1,7 @@
 ---
 title: "Leveraging Apple Pay Across Retailers & Websites: Insights on Why It's a Must-Try | Tech Advice"
-date: 2025-01-15T19:23:17.965Z
-updated: 2025-01-19T19:55:56.683Z
+date: 2025-01-22T17:08:54.459Z
+updated: 2025-01-25T17:49:33.430Z
 tags:
   - apple
 categories:
@@ -30,15 +30,7 @@ OK, let's go.
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## How to order Apple Vision Pro
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 1\. If you wear glasses or contacts
 
@@ -75,7 +67,7 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 That prescription works fine in my Quest 3, but Apple and ZEISS won't accept it. I had to book an appointment with my local optometrist. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Wy0uYNNdMDM?si=5ir7EHlr0CkpcYOT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ###  It's your distance prescription that counts
@@ -105,6 +97,10 @@ Fill it out with the relevant data from your current prescription and click Chec
 This is why you need to do all the prescription preparation first. Apple points you to the ZEISS page after the order has been completed, but by that time it's too late. The order has already been placed. It would be extremely inconvenient to find out you can't use the headset, and have to go through all sorts of hoops to either cancel the order or return the device. 
 
 By checking these details first, you can save yourself that annoyance. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Hpne0zPsZwU?si=yN5QDsG_WLb_Y3u-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 2\. Get a successful face scan
 
@@ -206,13 +202,13 @@ And, finally, you're done with the first phase of ordering your optical inserts.
 
 Screenshot by David Gewirtz/ZDNET
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f-yPCh24EsA?si=3z8FAd_lMZeAjug7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 4\. Order the Vision Pro itself
 
 Now, it's time to decide how much storage you want to have on the Vision Pro. Keep in mind this is very much like choosing the storage on your iPhone or iPad.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9ECz3oZ8NrQ?si=86vkwkDJo9HQXpzt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##   
 
@@ -282,9 +278,17 @@ And there you go. You're done. Except: It's time to move on to ZEISS.
 
 Screenshot by David Gewirtz/ZDNET
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/epKTCSREjhI?si=Ez_hObK1FZrmEE7f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 5\. Upload your prescription to ZEISS
 
 Now, it's time to upload your prescription to ZEISS. Apple does let you come back later (like if you didn't read this article and just found out you need a current glasses prescription and have to run to the optometrist). But you are reading this article because you're smart and good-looking.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/VxFUhesNCKo?si=Ti0ui6DXYP12sjSs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##   
 
@@ -311,10 +315,6 @@ Screenshot by David Gewirtz/ZDNET
 Whew. You're done. Now it's time to sit and wait. In my case, I got a notice the next day that my prescription was approved and the inserts were being made. 
 
 Screenshot by David Gewirtz/ZDNET
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2ipTu54inBo?si=gRegjvtVq5gm_PHo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 6\. And now you wait for delivery
 
@@ -365,20 +365,20 @@ _You can follow my day-to-day project updates on social media. Be sure to subscr
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-recording.techidaily.com/new-combining-forces-sharing-tweets-on-facebook-networks-for-2024/"><u>[New] Combining Forces Sharing Tweets on Facebook Networks for 2024</u></a></li>
-<li><a href="https://article-files.techidaily.com/new-incorporating-speech-recognition-into-slides/"><u>[New] Incorporating Speech Recognition Into Slides</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/ed-2024-approved-dismantling-the-economics-of-youtubes-ambitious-shorts-fund/"><u>[Updated] 2024 Approved Dismantling the Economics of YouTube's Ambitious Shorts Fund</u></a></li>
-<li><a href="https://extra-information.techidaily.com/updated-ai-driven-high-quality-editing-platform/"><u>[Updated] AI-Driven High-Quality Editing Platform</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-in-2024-conquer-with-titans-top-7-strategic-multiplayer-battles/"><u>[Updated] In 2024, Conquer with Titans Top 7 Strategic Multiplayer Battles</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/2024-approved-tailored-techniques-to-procure-tweets-gifs/"><u>2024 Approved Tailored Techniques to Procure Tweets GIFs</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ing-a-lasting-impression-the-ultimate-youtube-live-thumbnail-guide/"><u>Creating a Lasting Impression The Ultimate YouTube Live Thumbnail Guide</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/enabling-cutting-edge-capabilities-in-chatgpt-master-the-new-beta-web-browsing-and-extension-functions/"><u>Enabling Cutting-Edge Capabilities in ChatGPT – Master the New Beta Web Browsing and Extension Functions</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/essential-ai-toolkits-for-newcomers-insights-from-9-tech-communities/"><u>Essential AI Toolkits for Newcomers - Insights From 9 Tech Communities</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/exciting-news-chatgpt-on-iphone/"><u>Exciting News: ChatGPT on iPhone!</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/exploring-snapchats-my-ai-more-than-just-playful-engagements-top-reasons-why/"><u>Exploring Snapchat's My AI: More Than Just Playful Engagements - Top Reasons Why!</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/exploring-the-bert-model-vs-gpt-for-advanced-text-processing/"><u>Exploring the BERT Model Vs. GPT for Advanced Text Processing</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/exploring-the-world-of-ai-what-sets-public-private-and-personal-applications-apart/"><u>Exploring the World of AI: What Sets Public, Private, and Personal Applications Apart?</u></a></li>
-<li><a href="https://win-answers.techidaily.com/fixing-the-dark-display-issue-in-halo-infinite-simple-strategies-that-work/"><u>Fixing the Dark Display Issue in Halo Infinite: Simple Strategies That Work</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-revealing-hidden-social-exchanges-in-yt-discussions/"><u>In 2024, Revealing Hidden Social Exchanges in YT Discussions</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-earning-mastery-youtube-short-video-tips-for-2024/"><u>[Updated] Earning Mastery Youtube Short Video Tips for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-the-complete-beginners-guide-to-utilizing-look-up-tables-luts/"><u>[Updated] The Complete Beginner’s Guide to Utilizing Look-Up Tables (LUTs)</u></a></li>
+<li><a href="https://discover-exclusive.techidaily.com/bitcoins-remarkable-october-ascent-a-26-leap-highlights-autumn-rally-in-depth-analysis-by-yl-computing/"><u>Bitcoin's Remarkable October Ascent: A 26% Leap Highlights Autumn Rally - In-Depth Analysis by YL Computing</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/cut-down-on-manual-work-discover-these-10-innovative-chatgpt-pdf-extensions/"><u>Cut Down on Manual Work: Discover These 10 Innovative ChatGPT PDF Extensions</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/dts-play-fi-unveiled-revolutionizing-wireless-music-sharing/"><u>DTS Play-Fi Unveiled: Revolutionizing Wireless Music Sharing</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/excel-mastery-how-it-surpasses-ai-companions-like-chatgpt-on-three-fronts/"><u>Excel Mastery: How It Surpasses AI Companions Like ChatGPT on Three Fronts</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/inside-the-world-of-openais-vulnerability-rewards-the-pathway-to-contribute-and-earn/"><u>Inside the World of OpenAI's Vulnerability Rewards – The Pathway to Contribute and Earn</u></a></li>
+<li><a href="https://win11.techidaily.com/learn-how-to-use-updated-window-for-choosing-widgets-in-win11/"><u>Learn How to Use Updated Window for Choosing Widgets in Win11</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/optimize-your-research-game-with-perplexity-ai-the-premier-ai-enhanced-tool-for-revolutionary-google-searches/"><u>Optimize Your Research Game with Perplexity AI – The Premier AI-Enhanced Tool for Revolutionary Google Searches.</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/quick-route-to-llm-and-chatbot-with-quoras-poe/"><u>Quick Route to LLM & Chatbot with Quora's POE</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/resolving-chatgpt-body-stream-issues-quickly-learn-from-7-proven-fixes/"><u>Resolving ChatGPT Body Stream Issues Quickly: Learn From 7 Proven Fixes</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/resolving-palworld-not-loading-problems-quickly-guide-and-tips/"><u>Resolving Palworld Not Loading Problems Quickly - Guide & Tips</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/the-leading-ultrawide-screens-dominating-gamers-picks/"><u>The Leading Ultrawide Screens Dominating Gamers' Picks</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ling-mr-beasts-economic-status-for-2024/"><u>Unveiling Mr. Beast's Economic Status for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/unveiling-properties-puzzles-in-windows-os/"><u>Unveiling Properties Puzzles in Windows OS</u></a></li>
 </ul></div>
 

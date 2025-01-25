@@ -1,7 +1,7 @@
 ---
 title: "Celebrate Presidents' Day with Unbeatable Savings: Snag Your 2023 M2 MacBook Air for an Incredible $300 Discount"
-date: 2025-01-17T16:39:03.383Z
-updated: 2025-01-19T19:36:21.272Z
+date: 2025-01-20T17:38:41.821Z
+updated: 2025-01-25T16:35:40.779Z
 tags:
   - apple
 categories:
@@ -34,7 +34,7 @@ ZDNET editor-in-chief Jason Hiner says the pair are the most easily recommendabl
 If you're ready to replace that old pair of wired earbuds with one of our favorite wireless earbuds, you might as well hop on this [second-generation AirPods Pro deal](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0D1XD1ZV3%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C6a967f3d-7d3f-4fdf-b579-d62f551f1b28%7Cdtp&dtb=1). But act fast -- the discount won't last long. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6nvb0775GOM?si=peBB_Mo_4zcZFuci" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## When will this deal expire?
@@ -81,20 +81,20 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://digital-screen-recording.techidaily.com/new-2024-approved-strategies-to-combat-freezing-in-high-quality-mode/"><u>[New] 2024 Approved Strategies to Combat Freezing in High Quality Mode</u></a></li>
-<li><a href="https://fox-links.techidaily.com/updated-2024-approved-unleash-creative-potential-with-green-screen-tips/"><u>[Updated] 2024 Approved Unleash Creative Potential with Green Screen Tips</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/2024-approved-from-twitter-video-snippets-to-lively-animated-gifs/"><u>2024 Approved From Twitter Video Snippets to Lively Animated GIFs</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/home-charging-basics-for-electric-vehicles-a-complete-guide/"><u>Home Charging Basics for Electric Vehicles: A Complete Guide</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-to-share-location-in-messenger-on-realme-12-pro-5g-drfone-by-drfone-virtual-android/"><u>How to Share Location in Messenger On Realme 12 Pro 5G? | Dr.fone</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-android-unlock-code-sim-unlock-your-realme-gt-5-phone-and-remove-locked-screen-by-drfone-android/"><u>In 2024, Android Unlock Code Sim Unlock Your Realme GT 5 Phone and Remove Locked Screen</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-life360-circle-everything-you-need-to-know-on-itel-a60-drfone-by-drfone-virtual-android/"><u>In 2024, Life360 Circle Everything You Need to Know On Itel A60 | Dr.fone</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/is-the-release-of-gpt-5-already-on-the-horizon-estimated-timeline-and-more/"><u>Is the Release of GPT-5 Already on the Horizon? Estimated Timeline & More</u></a></li>
-<li><a href="https://driver-install.techidaily.com/lenovo-thinkpad-edge-drivers-download-for-windows-11/"><u>Lenovo Thinkpad Edge Drivers Download for Windows 11</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/leveraging-chatgpt-for-enhanced-multilingual-acquisition/"><u>Leveraging ChatGPT for Enhanced Multilingual Acquisition</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/mastering-the-art-of-interactive-narratives-in-chatgpt-powered-rpgs/"><u>Mastering the Art of Interactive Narratives in ChatGPT Powered RPGs</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/navigating-chatgpt-blockades-understanding-the-four-reasons-behind-your-disconnect-and-strategies-for-successful-reinstatement/"><u>Navigating ChatGPT Blockades: Understanding the Four Reasons Behind Your Disconnect and Strategies for Successful Reinstatement</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/new-guide-how-to-check-icloud-activation-lock-status-on-your-apple-iphone-xs-by-drfone-ios/"><u>New Guide How To Check iCloud Activation Lock Status On Your Apple iPhone XS</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/not-yet-on-board-with-the-upcoming-chatgpt-desktop-opt-for-this-incredible-free-alternative-now/"><u>Not Yet on Board with the Upcoming ChatGPT Desktop? Opt for This Incredible Free Alternative Now.</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/preserving-conversations-a-guide-to-saving-chatgpt-interactions/"><u>Preserving Conversations: A Guide to Saving ChatGPT Interactions</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-top-youtube-hashtag-strategies-for-boosting-your-contents-visibility/"><u>[Updated] Top Youtube Hashtag Strategies for Boosting Your Content's Visibility</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/fy-your-earnings-universal-strategies-for-youtube-revenue-for-2024/"><u>Amplify Your Earnings Universal Strategies for YouTube Revenue for 2024</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/boost-your-downloads-faster-proven-methods-revealed/"><u>Boost Your Downloads Faster: Proven Methods Revealed</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/easy-steps-for-successfully-uninstalling-software-from-your-windows-11-pc/"><u>Easy Steps for Successfully Uninstalling Software From Your Windows 11 PC</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/effortless-tutorial-update-your-windows-11-operating-system-language-with-these-basic-instructions/"><u>Effortless Tutorial: Update Your Windows 11 Operating System Language with These Basic Instructions</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/from-panoramas-to-pages-uploading-wide-angle-content-online-for-2024/"><u>From Panoramas to Pages Uploading Wide Angle Content Online for 2024</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-what-is-the-best-pokemon-for-pokemon-pvp-ranking-on-apple-iphone-6s-drfone-by-drfone-virtual-ios/"><u>In 2024, What is the best Pokemon for pokemon pvp ranking On Apple iPhone 6s? | Dr.fone</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/reviving-silent-gpu-fans-to-life/"><u>Reviving Silent GPU Fans to Life</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/sparkle-in-a-snap-effortless-stellar-tiktok-videos-with-pre-designed-graphics-for-2024/"><u>Sparkle in a Snap Effortless Stellar TikTok Videos with Pre-Designed Graphics for 2024</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/1723808353305-step-by-step-solution-for-unable-to-launch-application-correctly-with-the-notorious-error-0xc00001/"><u>Step-by-Step Solution for 'Unable to Launch Application Correctly' With the Notorious Error 0xC00001#</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/the-ultimate-checklist-for-timely-and-secure-bios-upgrades-on-personal-computers/"><u>The Ultimate Checklist for Timely & Secure BIOS Upgrades on Personal Computers</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/thermopro-tp67-analysis-great-value-yet-questionable-reliability/"><u>ThermoPro TP67 Analysis: Great Value, Yet Questionable Reliability</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/top-10-techniques-for-youtube-to-mpeg-conversion-for-2024/"><u>Top 10 Techniques for YouTube-to-MPEG Conversion for 2024</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/understanding-hxtsrexe-on-windows-11-identification-and-resolution-steps/"><u>Understanding HxTsr.exe on Windows 11: Identification & Resolution Steps</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/windows-11-installation-issues-how-we-overcame-the-challenge-successfully/"><u>Windows 11 Installation Issues - How We Overcame the Challenge Successfully!</u></a></li>
 </ul></div>
 

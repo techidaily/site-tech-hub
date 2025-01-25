@@ -1,7 +1,7 @@
 ---
 title: How Samsung Galaxy AI Ventures Surge as Google Faces Antitrust Challenges, Redefining the Landscape of Technological Breakthroughs | ZDNet
-date: 2025-01-09T16:42:47.587Z
-updated: 2025-01-13T16:21:50.653Z
+date: 2025-01-19T16:30:39.947Z
+updated: 2025-01-25T18:12:00.985Z
 tags:
   - apple
 categories:
@@ -71,25 +71,22 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-boxes.techidaily.com/new-srt-file-handling-simplified-on-pcmac-for-2024/"><u>[New] SRT File Handling Simplified on PC/Mac for 2024</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-vidvault-screen-recording-review-for-2efficiency-seekers-for-2024/"><u>[Updated] 'VidVault' Screen Recording Review for 2Efficiency Seekers for 2024</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/updated-essential-sites-to-access-multipurpose-text-effects/"><u>[Updated] Essential Sites to Access Multipurpose Text Effects</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-the-palettes-power-in-film-editing-techniques/"><u>2024 Approved The Palette's Power in Film Editing Techniques</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/elevate-design-15-must-have-plugins-for-after-effects-for-2024/"><u>Elevate Design 15 Must-Have Plugins for After Effects for 2024</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/fix-excel-formula-not-showing-result-by-stellar-guide/"><u>Fix Excel formula not showing result</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-unlock-any-xiaomi-redmi-12-5g-phone-password-using-emergency-call-by-drfone-android/"><u>In 2024, How To Unlock Any Xiaomi Redmi 12 5G Phone Password Using Emergency Call</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/in-2024-various-methods-to-transfer-pictures-from-apple-iphone-se-2020-to-pc-drfone-by-drfone-transfer-from-ios/"><u>In 2024, Various Methods to Transfer Pictures from Apple iPhone SE (2020) to PC | Dr.fone</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/mastering-the-art-of-chatgpt-plugin-installation-and-usage/"><u>Mastering the Art of ChatGPT Plugin Installation and Usage</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/navigating-common-pitfalls-of-autogpt-deployment-a-comprehensive-guide/"><u>Navigating Common Pitfalls of AutoGPT Deployment: A Comprehensive Guide</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/next-read-suggestions-powered-by-artificial-intelligence-5-top-picks/"><u>Next Read Suggestions Powered by Artificial Intelligence: 5 Top Picks</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/overcoming-vanishing-folder-icons-in-explore/"><u>Overcoming Vanishing Folder Icons in Explore</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/personalize-your-ais-narrative-a-guide-to-training-chatgpt-for-authentic-copywriting-like-you/"><u>Personalize Your AI's Narrative: A Guide to Training ChatGPT for Authentic Copywriting Like You</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/recognizing-and-avoiding-chatgpt-scam-websites-essential-steps/"><u>Recognizing and Avoiding ChatGPT Scam Websites: Essential Steps</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/scripting-success-integrating-chatgpt-into-video-content-creation/"><u>Scripting Success: Integrating ChatGPT Into Video Content Creation</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/securing-professional-confidentiality-safeguarding-data-with-chatgpt/"><u>Securing Professional Confidentiality: Safeguarding Data with ChatGPT</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-hd-video-recording-for-windows-10-users-for-2024/"><u>[New] HD Video Recording for Windows 10 Users for 2024</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-2024-approved-how-to-use-windows-media-player-to-rip-and-burn-cd/"><u>[Updated] 2024 Approved How to Use Windows Media Player to Rip and Burn Cd</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/beginning-your-italian-journey-top-10-welcoming-phrases/"><u>Beginning Your Italian Journey: Top 10 Welcoming Phrases</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/can-user-exchanges-enhance-chatgpts-knowledge-base/"><u>Can User Exchanges Enhance ChatGPT's Knowledge Base?</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/from-amateur-to-expert-elevating-your-notes-management-using-chatgpt/"><u>From Amateur to Expert: Elevating Your Notes Management Using ChatGPT</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/future-horizons-in-artificial-intelligence-unveiling-the-potential-of-new-age-generative-bots-and-chat-technologies/"><u>Future Horizons in Artificial Intelligence: Unveiling the Potential of New-Age Generative Bots and Chat Technologies</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-all-must-knows-to-use-fake-gps-go-location-spoofer-on-oppo-reno-8t-5g-drfone-by-drfone-virtual-android/"><u>In 2024, All Must-Knows to Use Fake GPS GO Location Spoofer On Oppo Reno 8T 5G | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/in-2024-how-to-watch-facebook-live-on-roku/"><u>In 2024, How to Watch Facebook Live on Roku?</u></a></li>
+<li><a href="https://discover-bytes.techidaily.com/mpgavi-to-flv-converter-by-movavi-quick-and-free-video-format-change-online/"><u>MPG/AVI to FLV Converter by Movavi - Quick & Free Video Format Change Online</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/navigating-the-nuances-how-gpt-and-bert-differ-in-advancing-natural-language-processing/"><u>Navigating the Nuances: How GPT and BERT Differ in Advancing Natural Language Processing</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ize-engagement-and-analytics-harnessing-tubebuddys-insights-for-2024/"><u>Optimize Engagement & Analytics - Harnessing TubeBuddy's Insights for 2024</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/transformative-writing-for-pinterest-descriptions-chatgpt/"><u>Transformative Writing for Pinterest Descriptions (ChatGPT)</u></a></li>
+<li><a href="https://android-frp.techidaily.com/ultimate-guide-from-oppo-find-x7-ultra-frp-bypass-by-drfone-android/"><u>Ultimate Guide from Oppo Find X7 Ultra FRP Bypass</u></a></li>
 </ul></div>
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/sn2STvYRVb8?si=Z-XhJJ1Mc-Em5Kqy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oySc0DiqmKc?si=8pynRzuhlq2RUPZ6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 

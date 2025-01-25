@@ -1,7 +1,7 @@
 ---
 title: "Saving Strategies: How Apple Could Turn the Tide for Frustrated Sonos Owners | Tech Innovations by ZDNet"
-date: 2025-01-16T17:52:27.314Z
-updated: 2025-01-19T17:36:16.164Z
+date: 2025-01-24T17:21:05.513Z
+updated: 2025-01-25T16:24:48.740Z
 tags:
   - apple
 categories:
@@ -30,10 +30,6 @@ And then there's the Apple Watch Series 8 and the Apple Watch Ultra. The watches
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Specifications
 
 | |  Apple Watch Ultra | Apple Watch Series 8                                                            |                                                                         |
@@ -48,9 +44,17 @@ And then there's the Apple Watch Series 8 and the Apple Watch Ultra. The watches
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  You should buy the Apple Watch Ultra if…
 
 Jason Hiner/ZDNET
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 1\. You're ready for a new Apple Watch design
 
@@ -70,10 +74,6 @@ Apple touts 36 hours of battery life for the Ultra during normal use, or 60 hour
 
 Every Apple Watch Ultra comes with LTE capabilities, so as long as you pay your wireless carrier for an additional plan (usually around $10 a month), your watch will always be connected, even if you leave your iPhone behind. 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 3\. You need a ruggedized watch
 
 As for ruggedness, the Ultra has a long list of certifications -- most of which I had no idea existed until now. For instance, the Ultra is EN13319 certified, which is a widely recognized standard for dive computers and depth gauges. There's a depth sensor built into the watch itself so it'll know when you're diving and automatically adjust to the environment. Its water resistance is rated at 100 meters, which goes toe to toe with [actual sport watches](https://www.zdnet.com/article/best-sports-watch/). 
@@ -87,16 +87,12 @@ There's even an 86-decibel siren built into the watch should you need emergency 
 [Apple Watch Ultra $799 at Apple](https://apple.sjv.io/c/159047/435031/7613?&sharedId=zdnet&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-watch%2Fapple-watch-ultra&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  You should buy the Apple Watch Series 8 if…
 
 Jason Hiner/ZDNET
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 1\. You want a traditional Apple Watch design
 
@@ -108,10 +104,6 @@ The Series 8 is available in four aluminum colors this year. There's Starlight, 
 
 **See also:** [**New Apple Watch Ultra bands work with other Apple Watch models, too**](https://www.zdnet.com/article/new-apple-watch-ultra-bands-work-with-other-apple-watch-models-too/)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UCqHbpxQGP4?si=XGkajFHdqyoKNAFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 2\. You're not ready to pay $799 for a watch
 
 The Apple Watch SE is the most affordable watch in Apple's lineup, with models [starting at $249](https://apple.sjv.io/c/159047/435031/7613?&sharedId=zdnet&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-watch%2Fapple-watch-se&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp). However, it lacks some of the key health features that the Series 8 and Ultra have -- such as ECG and blood oxygen level monitoring. 
@@ -121,6 +113,10 @@ The Series 8 [starts at $399](https://apple.sjv.io/c/159047/435031/7613?&sharedI
 For $399 you can get a [41mm Apple Watch Series 8](https://apple.sjv.io/c/159047/435031/7613?&sharedId=zdnet&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-watch%2Fapple-watch&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp), or for $429 you can pick up a [45mm Apple Watch Series 8](https://apple.sjv.io/c/159047/435031/7613?&sharedId=zdnet&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-watch%2Fapple-watch&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp). Both of those prices are for an aluminum body and lack cellular connectivity. If you want to add cellular capabilities, you'll pay a $100 premium -- bringing the total to $499 and $529, respectively. 
 
 Still, those prices are more affordable than the Ultra's price tag and the Series 8 is sure to last a few years, or at least until Apple stops providing software updates to it. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/793ViIxl4tI?si=DDBkjPlPX5bZ-f1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 3\. Don't need all of the extreme outdoor features
 
@@ -133,6 +129,10 @@ The Series 8 is water resistant, as well, and can be used while swimming or even
 **More: [The best Apple Watch models of 2022](https://www.zdnet.com/article/best-apple-watch/)**
 
 [Apple Watch Series 8 $399 at Apple](https://apple.sjv.io/c/159047/435031/7613?&sharedId=zdnet&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-watch%2Fapple-watch&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Alternatives to consider
 
@@ -170,19 +170,16 @@ Open to other Apple Watch prospects? Consider the also-new Apple Watch SE.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-blue.techidaily.com/new-2024-approved-craft-humor-for-giphy-network/"><u>[New] 2024 Approved Craft Humor for Giphy Network</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/new-fresh-set-of-interview-points-for-captivated-ears/"><u>[New] Fresh Set of Interview Points for Captivated Ears</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-in-2024-minecraft-homestead-blueprint-6-10/"><u>[New] In 2024, Minecraft Homestead Blueprint #6-10</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/n-2024-rapidly-crafting-valorant-image-highlights-for-gamers/"><u>[New] In 2024, Rapidly Crafting Valorant Image Highlights for Gamers</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/new-in-2024-the-instagram-gurus-playbook-5-game-changing-strategies-and-outcomes/"><u>[New] In 2024, The Instagram Guru’s Playbook 5 Game Changing Strategies and Outcomes</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/15-top-rated-screen-capture-tools-to-support-education-for-2024/"><u>15 Top-Rated Screen Capture Tools to Support Education for 2024</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/ai-evolution-differentiating-between-gpt-4-gpt-4-turbo-and-gpt-e-models/"><u>AI Evolution: Differentiating Between GPT-4, GPT-4 Turbo & GPT-E Models</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/ai-or-astrology-can-chatgpt-deliver-better-prophecies-than-your-favorite-zodiac-columnist/"><u>AI or Astrology? Can ChatGPT Deliver Better Prophecies than Your Favorite Zodiac Columnist?</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/ai-showdown-on-skype-delving-into-8-major-varianebetween-snapchat-my-ai-and-microsofts-bing-chat/"><u>AI Showdown on Skype: Delving Into 8 Major Varianebetween Snapchat My AI and Microsoft's Bing Chat</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/ai-powered-search-engines-and-their-potential-to-transform-online-visibility/"><u>AI-Powered Search Engines and Their Potential to Transform Online Visibility</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/ais-secret-weapon-unveiling-the-strategy-behind-transfer-learning/"><u>AI's Secret Weapon: Unveiling the Strategy Behind Transfer Learning</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/are-advancements-in-generative-ai-leading-us-towards-an-era-of-digital-deception/"><u>Are Advancements in Generative AI Leading Us Towards an Era of Digital Deception?</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/live-streaming-with-manycam-advanced-virtual-camera-features/"><u>Live Streaming with ManyCam: Advanced Virtual Camera Features</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/simplifying-video-cutting-in-windows-10-a-photoshop-free-guide-for-2024/"><u>Simplifying Video Cutting in Windows 10 A Photoshop-Free Guide for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-comprehensive-guide-to-mastering-your-photos-with-facetune/"><u>2024 Approved Comprehensive Guide to Mastering Your Photos with Facetune</u></a></li>
+<li><a href="https://fox-http.techidaily.com/budget-savvy-gopro-upgrades-for-starters/"><u>Budget Savvy GoPro Upgrades for Starters</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-step-by-step-tutorial-how-to-bypass-tecno-camon-30-pro-5g-frp-by-drfone-android/"><u>In 2024, Step-by-Step Tutorial How To Bypass Tecno Camon 30 Pro 5G FRP</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/in-2024-the-essential-marketing-lexicon-20-pivotal-words-and-phrases/"><u>In 2024, The Essential Marketing Lexicon 20 Pivotal Words & Phrases</u></a></li>
+<li><a href="https://win-hot.techidaily.com/mastering-account-recovery-changing-your-password-with-windows-setup-media/"><u>Mastering Account Recovery: Changing Your Password with Windows Setup Media</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/the-definitive-2024-guide-for-solving-discord-echo-problems-on-windows-and-mac-computers/"><u>The Definitive 2024 Guide for Solving Discord Echo Problems on Windows and Mac Computers</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/turbocharge-your-laptop-proven-tips-to-increase-processing-speed-by-50/"><u>Turbocharge Your Laptop: Proven Tips to Increase Processing Speed by 50%</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/ultimate-guide-successfully-downloading-fortnite-for-windowsmac-os-users/"><u>Ultimate Guide: Successfully Downloading Fortnite for Windows/Mac OS Users</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/understanding-windows-device-drivers-troubleshooting-and-solutions/"><u>Understanding Windows Device Drivers: Troubleshooting & Solutions</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/unlocking-windows-11s-boot-menu-a-step-by-step-guide/"><u>Unlocking Windows 11'S Boot Menu: A Step-by-Step Guide</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/utorrent-free-download-for-windows-10/"><u>UTorrent Free Download For Windows 10</u></a></li>
 </ul></div>
 

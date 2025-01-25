@@ -1,7 +1,7 @@
 ---
 title: How Apple's $17 EarPods With USB-C Became an Impulse Buy During Amazon Prime Day - A Tech Review
-date: 2025-01-08T16:29:39.128Z
-updated: 2025-01-13T16:24:18.021Z
+date: 2025-01-21T18:12:29.075Z
+updated: 2025-01-25T16:18:46.376Z
 tags:
   - apple
 categories:
@@ -32,7 +32,7 @@ Secondly, the microphone quality on Apple's wired EarPods is some of the best I'
 It should come as no surprise that I quickly bought another pair of USB-C [Apple EarPods](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FApple-EarPods-Headphones-Built-Control%2Fdp%2FB0CHXC5ZDX%3Fth%3D1%26tag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cd1727d25-62fd-44c1-aba8-20b881a32385%7Cdtp&dtb=1) when they finally went on sale this morning. You can bet I'll be bringing them along for more plane rides and commutes throughout the summer.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## When will this deal expire?
@@ -71,22 +71,21 @@ Deals are subject to sell out or expire at any time, though ZDNET remains commit
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-approaches.techidaily.com/new-streaming-soundscapes-on-your-iphone/"><u>[New] Streaming Soundscapes on Your iPhone</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/updated-2024-approved-dissecting-the-yuneec-typhoon-hs-aerial-capabilities/"><u>[Updated] 2024 Approved Dissecting the Yuneec Typhoon H's Aerial Capabilities</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-edit-like-a-championtop-strategies-for-beginner-youtubers-for-2024/"><u>[Updated] Edit Like a Champion—Top Strategies for Beginner YouTubers for 2024</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/approved-creators-vs-youtubes-profit-policies/"><u>2024 Approved Creators Vs. YouTube's Profit Policies</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/ai-in-software-engineering-predicting-changes-to-developer-routines-and-productivity/"><u>AI in Software Engineering: Predicting Changes to Developer Routines and Productivity</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/ai-driven-solutions-integrating-chatgpt-into-sheets/"><u>AI-Driven Solutions: Integrating ChatGPT Into Sheets</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/bert-vs-gpt-deciphering-the-revolutionary-shifts-in-advanced-language-understanding-models/"><u>BERT Vs. GPT: Deciphering the Revolutionary Shifts in Advanced Language Understanding Models</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/bringing-chatgpt-to-life-explore-the-new-voice-interaction-capability-by-openai/"><u>Bringing ChatGPT to Life: Explore the New Voice Interaction Capability by OpenAI</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/can-i-confidently-use-tech-giants-ai-like-chatgpt-and-bard-for-financial-planning/"><u>Can I Confidently Use Tech Giants' AI Like ChatGPT and Bard for Financial Planning?</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/chatgpt-as-a-chefs-helper-discover-7-helpful-techniques/"><u>ChatGPT as a Chef's Helper: Discover 7 Helpful Techniques</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/chatgpt-games-galore-here-are-6-must-play-titles/"><u>ChatGPT Games Galore! Here Are 6 Must-Play Titles</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/chatgpt-on-your-computer-vs-online-discover-which-delivers-superior-performance/"><u>ChatGPT on Your Computer Vs. Online: Discover Which Delivers Superior Performance</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/how-to-avoid-falling-for-bingchats-pseudo-cryptocurrency-schemes/"><u>How to Avoid Falling for BingChat's Pseudo-Cryptocurrency Schemes</u></a></li>
-<li><a href="https://review-topics.techidaily.com/how-to-transfer-data-from-iphone-15-pro-to-android-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From iPhone 15 Pro To Android? | Dr.fone</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-can-i-use-itools-gpx-file-to-catch-the-rare-pokemon-on-motorola-moto-g84-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Can I use iTools gpx file to catch the rare Pokemon On Motorola Moto G84 5G | Dr.fone</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/transformar-e-gravar-wmv-para-vob-ao-vivo-no-converter-livre-tecnologia-do-movavi/"><u>Transformar E Gravar WMV Para VOB Ao Vivo No Converter Livre - Tecnologia Do Movavi</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/trustworthy-and-resilient-an-in-depth-review-of-the-portable-kensun-tire-inflator/"><u>Trustworthy and Resilient – An In-Depth Review of the Portable Kensun Tire Inflator</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/new-2024-approved-tasty-tiktoks-worlds-best-food-vloggers/"><u>[New] 2024 Approved Tasty TikToks World's Best Food Vloggers</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-facebook-spotlight-todays-1-10-music-vids/"><u>[Updated] Facebook Spotlight Today’s #1-#10 Music Vids</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-how-to-add-fonts-to-after-effects/"><u>[Updated] How to Add Fonts to After Effects</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-mastering-video-capturing-across-devices-and-platforms-for-2024/"><u>[Updated] Mastering Video Capturing Across Devices and Platforms for 2024</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/brand-protection-effective-techniques-for-instagram-watermarks-for-2024/"><u>Brand Protection Effective Techniques for Instagram Watermarks for 2024</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/common-stock-cs-number-of-common-shares-par-value-per-share/"><u>Common Stock (CS) = Number of Common Shares Par Value per Share</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/decoding-the-digital-realm-revealing-your-hidden-online-personas-and-dissecting-the-intriguing-theory-of-electronic-spirits/"><u>Decoding the Digital Realm: Revealing Your Hidden Online Personas and Dissecting the Intriguing Theory of Electronic Spirits</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/elevate-productivity-with-these-top-8-intelligent-google-chrome-addons-for-power-users/"><u>Elevate Productivity with These Top 8 Intelligent Google Chrome Addons for Power Users</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/futuristic-commute-mercedes-benz-melds-chatgpt-and-voice-control/"><u>Futuristic Commute: Mercedes-Benz Melds ChatGPT & Voice Control</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/1722977529016-get-the-latest-windows-drivers-for-your-hp-spectre-x360-laptop-here/"><u>Get the Latest Windows Drivers for Your HP Spectre X360 Laptop Here</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/insightful-guide-to-understanding-hugging-faces-role-in-machine-learning/"><u>Insightful Guide to Understanding Hugging Face's Role in Machine Learning</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/integrate-conversational-ai-into-your-project-using-the-chatgpt-api/"><u>Integrate Conversational AI Into Your Project Using the ChatGPT API</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/navigating-the-pros-and-cons-of-chatgpt-assistance-for-content-creators/"><u>Navigating the Pros and Cons of ChatGPT Assistance for Content Creators</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/securing-your-childs-online-presence-top-5-safe-uses-of-chatgpt/"><u>Securing Your Child's Online Presence: Top 5 Safe Uses of ChatGPT</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/top-windows-calling-software-8-winner-list-for-2024/"><u>Top Windows Calling Software #8 Winner List for 2024</u></a></li>
+<li><a href="https://ai-video.techidaily.com/updated-in-2024-translate-video-from-japanese-to-english-online-for-free/"><u>Updated In 2024, Translate Video From Japanese to English Online for Free</u></a></li>
 </ul></div>
 

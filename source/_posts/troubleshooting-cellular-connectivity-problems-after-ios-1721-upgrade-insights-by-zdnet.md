@@ -1,7 +1,7 @@
 ---
 title: Troubleshooting Cellular Connectivity Problems After iOS 17.2.1 Upgrade | Insights by ZDNET
-date: 2025-01-16T16:17:48.579Z
-updated: 2025-01-19T18:27:46.127Z
+date: 2025-01-24T17:07:01.906Z
+updated: 2025-01-25T16:50:29.129Z
 tags:
   - apple
 categories:
@@ -60,7 +60,7 @@ Aside from the inferior Photos app navigation, videos in the Photos app no longe
 "The UX is a huge downgrade. It's so bad that I had to submit feedback to Apple via the feedback app in the beta. Never did one of those when it wasn't a technical bug, just pure user experience frustration," another [Redditor said](https://www.reddit.com/r/apple/comments/1e2jtq5/comment/ld1wsjg/?utm%5Fsource=share&utm%5Fmedium=web3x&utm%5Fname=web3xcss&utm%5Fterm=1&utm%5Fcontent=share%5Fbutton).
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to navigate the iOS 18 Photos app
@@ -109,19 +109,18 @@ I hope a future version of iOS 18 will bring back the Camera Roll or at least to
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-approaches.techidaily.com/new-spotlight-podcast-in-one-ig-swipe/"><u>[New] Spotlight Podcast in One IG Swipe</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/ed-enjoy-the-joy-of-joint-youtube-video-experiences-for-2024/"><u>[Updated] Enjoy the Joy of Joint YouTube Video Experiences for 2024</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-kickstarting-your-digital-voice-the-complete-process-of-starting-a-youtube-chanel/"><u>[Updated] Kickstarting Your Digital Voice The Complete Process of Starting a YouTube Chanel</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/2024-approved-zeroing-in-on-the-high-def-spectacle-samsungs-ue590-review/"><u>2024 Approved Zeroing in on the High-Def Spectacle - Samsung's UE590 Review</u></a></li>
-<li><a href="https://apple-account.techidaily.com/apple-id-locked-for-security-reasons-from-iphone-6s-find-the-best-solution-here-by-drfone-ios/"><u>Apple ID Locked for Security Reasons From iPhone 6s? Find the Best Solution Here</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/how-to-access-your-iphone-14-plus-when-you-forget-the-passcode-drfone-by-drfone-ios/"><u>How to Access Your iPhone 14 Plus When You Forget the Passcode? | Dr.fone</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/how-to-unlock-vivo-y36i-phone-without-any-data-loss-by-drfone-android/"><u>How to Unlock Vivo Y36i Phone without Any Data Loss</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/overview-of-the-best-realme-c67-5g-screen-mirroring-app-drfone-by-drfone-android/"><u>Overview of the Best Realme C67 5G Screen Mirroring App | Dr.fone</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/revolutionize-your-approach-learn-about-eight-strategic-uses-for-chatgpts-visual-intelligence/"><u>Revolutionize Your Approach: Learn About Eight Strategic Uses for ChatGPT's Visual Intelligence</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/revolutionizing-data-analysis-3-powerful-applications-of-chatgpt-in-microsoft-excel/"><u>Revolutionizing Data Analysis: 3 Powerful Applications of ChatGPT in Microsoft Excel</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/strategizing-effective-workflows-with-chatgpt-a-comprehensive-guide/"><u>Strategizing Effective Workflows with ChatGPT: A Comprehensive Guide</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/swiftly-saving-time-9-fixes-for-frozen-iphones-chatgpt/"><u>Swiftly Saving Time: 9 Fixes for Frozen iPhones' ChatGPT</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/tackling-path-failure-on-pc-operating-systems/"><u>Tackling PATH Failure on PC Operating Systems</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/the-inaccessibility-of-altering-chatgpt-framework/"><u>The Inaccessibility of Altering ChatGPT Framework</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-immediate-streams-from-obs-to-insta-for-2024/"><u>[New] Immediate Streams From OBS to Insta for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-quick-recovery-methods-for-erased-reddit-topics/"><u>[New] Quick Recovery Methods for Erased Reddit Topics</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/updated-from-still-image-to-live-feed-going-live-on-tiktok-via-computer/"><u>[Updated] From Still Image to Live Feed Going Live on TikTok Via Computer</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-in-2024-maximize-visual-and-auditory-impact-in-windows-10-photos-app/"><u>[Updated] In 2024, Maximize Visual & Auditory Impact in Windows 10 Photos App</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-in-2024-unravel-iphone-tricks-for-repetitive-videos/"><u>[Updated] In 2024, Unravel iPhone Tricks for Repetitive Videos</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/chatgpt-app-for-windows-enthusiasts/"><u>ChatGPT App for Windows Enthusiasts</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/exploring-the-capabilities-of-chatgpt-in-formulating-personalized-low-risk-exercise-plans-for-optimal-results/"><u>Exploring the Capabilities of ChatGPT in Formulating Personalized, Low-Risk Exercise Plans for Optimal Results</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-unlock-disabled-iphone-12-proipad-without-computer-drfone-by-drfone-ios/"><u>How to Unlock Disabled iPhone 12 Pro/iPad Without Computer | Dr.fone</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/is-courtesy-towards-voice-assistants-such-as-chatgpt-amazons-alexa-and-apples-siri-necessary/"><u>Is Courtesy Towards Voice Assistants Such as ChatGPT, Amazon's Alexa, and Apple's Siri Necessary?</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/mouse-mastery-quick-scrolling-secrets/"><u>Mouse Mastery: Quick Scrolling Secrets</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-ultimate-enhancement-kit-for-ps-vr2/"><u>The Ultimate Enhancement Kit for PS VR2</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/top-7-incredible-chatgpt-browser-plugins-to-enhance-your-ai-conversations/"><u>Top 7 Incredible ChatGPT Browser Plugins to Enhance Your AI Conversations</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/understanding-the-safety-concerns-around-alternative-chatgpt-applications/"><u>Understanding the Safety Concerns Around Alternative ChatGPT Applications</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Shared Experiences: The Unspoken Challenges of Moving to iOS 18 on iPhones | ZDNET Insights"
-date: 2025-01-15T16:00:38.047Z
-updated: 2025-01-19T18:55:02.607Z
+date: 2025-01-22T17:05:42.415Z
+updated: 2025-01-25T17:59:57.436Z
 tags:
   - apple
 categories:
@@ -60,7 +60,7 @@ Aside from the inferior Photos app navigation, videos in the Photos app no longe
 "The UX is a huge downgrade. It's so bad that I had to submit feedback to Apple via the feedback app in the beta. Never did one of those when it wasn't a technical bug, just pure user experience frustration," another [Redditor said](https://www.reddit.com/r/apple/comments/1e2jtq5/comment/ld1wsjg/?utm%5Fsource=share&utm%5Fmedium=web3x&utm%5Fname=web3xcss&utm%5Fterm=1&utm%5Fcontent=share%5Fbutton).
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hZsnjxeSh1U?si=hZIfzQPDNX5KtOCg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to navigate the iOS 18 Photos app
@@ -109,24 +109,19 @@ I hope a future version of iOS 18 will bring back the Camera Roll or at least to
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-techniques.techidaily.com/new-explore-top-10-dynamic-picture-background-switchers/"><u>[New] Explore Top 10 Dynamic Picture-Background Switchers</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/new-mac-professionals-recommendations-the-best-of-screenflow-for-2024/"><u>[New] Mac Professionals Recommendations – The Best of ScreenFlow for 2024</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/new-snap-it-right-15-innovative-posting-hacks/"><u>[New] Snap It Right 15 Innovative Posting Hacks</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/ed-in-2024-essential-ios-video-editor-apps-top-10-best-to-know/"><u>[Updated] In 2024, Essential iOS Video Editor Apps Top 10 Best to Know</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/2024-approved-breaking-down-advanced-photographic-modes-for-enhanced-results/"><u>2024 Approved Breaking Down Advanced Photographic Modes for Enhanced Results</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/accelerate-your-fb-video-game-the-top-apps-and-plugins-guide-for-2024/"><u>Accelerate Your FB Video Game The Top Apps & Plugins Guide for 2024</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/connectivity-woes-with-hp-print-on-w7-resolved/"><u>Connectivity Woes with HP Print on W7 Resolved</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/exploring-shapley-values-understanding-the-capabilities-of-openais-shape/"><u>Exploring Shapley Values: Understanding the Capabilities of OpenAI's ShapE</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/exploring-the-evolution-a-detailed-comparison-from-gpt-1-through-gpt-4-by-openai/"><u>Exploring the Evolution: A Detailed Comparison From GPT-1 Through GPT-4 by OpenAI</u></a></li>
-<li><a href="https://games-able.techidaily.com/gpu-face-off-frenzy-4070-super-titan-x-and-4080-supers/"><u>GPU Face-Off Frenzy: 4070 Super, Titan X, and 4080 Supers</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/harnessing-ai-power-in-canva-for-mass-outputs/"><u>Harnessing AI Power in Canva for Mass Outputs</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/how-to-resolve-the-body-stream-problem-with-chatgpt-a-step-by-step-guide/"><u>How to Resolve the 'Body Stream' Problem with ChatGPT: A Step-by-Step Guide</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/in-2024-gaming-evolution-top-7-stardew-valley-enhancements-7/"><u>In 2024, Gaming Evolution Top 7 Stardew Valley Enhancements (#7)</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-top-12-prominent-nubia-z50-ultra-fingerprint-not-working-solutions-by-drfone-android/"><u>In 2024, Top 12 Prominent Nubia Z50 Ultra Fingerprint Not Working Solutions</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/learning-to-cook-healthy-meals-can-chatgpt-be-your-chef-tutor-online/"><u>Learning to Cook Healthy Meals: Can ChatGPT Be Your Chef Tutor Online?</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/maximize-your-creative-projects-the-ultimate-guide-to-leveraging-chatgpt/"><u>Maximize Your Creative Projects: The Ultimate Guide to Leveraging ChatGPT</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/navigating-through-gpt-bot-controversy-why-your-favorite-sites-may-be-blocking-it/"><u>Navigating Through GPT Bot Controversy: Why Your Favorite Sites May Be Blocking It</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/premium-extensions-supercharging-chatgpt-in-vs-code/"><u>Premium Extensions: Supercharging ChatGPT in VS Code</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/real-world-applications-top-7-uses-of-chatgpt-today/"><u>Real-World Applications: Top 7 Uses of ChatGPT Today</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/2024-approved-unlocking-potential-with-top-pixlr-editing-techniques/"><u>2024 Approved Unlocking Potential with Top Pixlr Editing Techniques</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/deciphering-ai-balancing-harmony-and-ethics/"><u>Deciphering AI: Balancing Harmony and Ethics</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/elite-desktopmobile-communication-software-zoom-substitutes/"><u>Elite Desktop/Mobile Communication Software (Zoom Substitutes)</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/exploring-the-authenticity-of-truthgpt-coin-unveiling-its-legitimacy/"><u>Exploring the Authenticity of TruthGPT Coin: Unveiling Its Legitimacy</u></a></li>
+<li><a href="https://apple-account.techidaily.com/icloud-separation-how-to-disconnect-apple-iphone-8-and-ipad-by-drfone-ios/"><u>iCloud Separation How To Disconnect Apple iPhone 8 and iPad</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/in-2024-apex-of-scripting-soundscapes/"><u>In 2024, Apex of Scripting Soundscapes</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/is-it-feasible-to-create-secure-fitness-routines-with-chatgpt/"><u>Is It Feasible to Create Secure Fitness Routines with ChatGPT?</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/launch-your-fortune-on-periscope-live-chats/"><u>Launch Your Fortune on Periscope Live Chats</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/maximize-productivity-unveiling-five-free-tools-leveraging-chatgpt-to-draft-professional-emails-and-summarize-correspondence/"><u>Maximize Productivity: Unveiling Five Free Tools Leveraging ChatGPT to Draft Professional Emails & Summarize Correspondence</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/ps-vr2-game-lineup-every-confirmed-title-to-date/"><u>PS VR2 Game Lineup: Every Confirmed Title to Date</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/strategies-for-superior-tabletop-role-playing-via-gpt-utilization/"><u>Strategies for Superior Tabletop Role-Playing via GPT Utilization</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/superior-spaces-for-ai-driven-innovation-dialogues/"><u>Superior Spaces for AI-Driven Innovation Dialogues</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/the-ultimate-windows-compatibility-list-for-24-laptops/"><u>The Ultimate Windows Compatibility List for '24 Laptops</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/whisking-together-a-perfect-dough-base/"><u>Whisking Together a Perfect Dough Base</u></a></li>
 </ul></div>
 

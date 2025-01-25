@@ -1,7 +1,7 @@
 ---
 title: "In Parallel Circuits, the Total Capacitance Is the Sum of Individual Capacitances: C_total = C1 + C2 + ... + Cn."
-date: 2025-01-09T16:15:18.192Z
-updated: 2025-01-13T16:00:41.019Z
+date: 2025-01-20T17:47:29.744Z
+updated: 2025-01-25T17:43:25.287Z
 tags:
   - apple
 categories:
@@ -39,7 +39,7 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Apple Intelligence (AI)
@@ -63,10 +63,6 @@ Maria Diaz/ZDNET
 * Apple Intelligence will also upgrade the Photos app with a new **clean-up tool** that removes unwanted objects. **Search in videos** allows users to easily find specific snippets of content, and users can create **Memories** on-demand, using text to edit and organize photos into movies.
 * In the Notes app, users can **record and transcribe audio**, which Apple Intelligence will generate a text summary of. This experience is also available in the Notes phone app.
 * Apple Intelligence is free on iOS 18, iPadOS 18, and MacOS Sequoia, and will be available to try in English only this summer.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kZVDkvMZvP4?si=xAugrCf-Ud6EMMpm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Partnership with OpenAI
 
@@ -94,6 +90,10 @@ Adam Breeden/ZDNET
 * The **Safari app** was upgraded to include key information about a webpage. You can read more about the Safari upgrades under the MacOS section of this article.
 * The **Calendar app** can now pull from the Reminders app for a more seamless schedule overview.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zmXpl6irBYk?si=BXjGpQr6PXFcqhCI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## WatchOS 11
 
 Adam Breeden/ZDNET
@@ -108,10 +108,6 @@ Adam Breeden/ZDNET
 * **Check In** is available on Apple Watch, even during workouts, to help users stay safe. **Translate** is also coming to Apple Watch so users can translate text right from their wrists.
 * Another notable change is that the **double tap gesture** can be used to scroll through apps.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qbuund2HKOQ?si=NaGHqIrx8hSL7gWV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## iPadOS 18
 
 Adam Breeden/ZDNET
@@ -121,10 +117,6 @@ Adam Breeden/ZDNET
 * In a long-awaited release, iPads will now have a **[calculator app](https://www.zdnet.com/article/after-14-years-apple-expected-to-unveil-the-ipad-app-weve-all-been-waiting-for-at-wwdc/)** for the first time, complete with the same interface as the one currently found on iPhones. Plus, users can use it with the Apple Pencil through a new **Math Notes** experience, which allows users to write expressions that the calculator app will solve for them once they type the equal sign, in their own handwriting,
 * Handwriting in Notes also got an upgrade with **Smart** **Script**, which refines users' writing to make it more legible while keeping the authenticity of the user's handwriting style. The feature can also match copied and pasted text to the user's handwriting. Typed text was also enhanced, with five new highlight colors and the ability to toggle sections under headings or subheadings.
 * iPadOS 18 supports **screen-sharing via SharePlay** and the same Control Center customizations, Photos app upgrades, Safari updates, and emoji Tapbacks found in **iOS 18.**
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## MacOS 15 (Sequoia)
 
@@ -136,6 +128,10 @@ Adam Breeden/ZDNET
 * **Video meetings** are also getting an upgrade, with new backgrounds and a preview experience that allows you to see what you are about to share before sharing it. This feature works with popular video conferencing applications such as FaceTime and Zoom.
 * The **AI summarization** tool will live in Safari to help users process content like web pages and articles more efficiently. Safari will also assist users in discovering more helpful information about a page they are browsing when relevant, such as directions.
 * Apple also launched a new **Viewer experience**, which does for video what Reader does for text.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tkpBmccvJ_Q?si=J7ellPL1G1l8Axi_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## VisionOS 2
 
@@ -155,7 +151,7 @@ Jason Hiner/ZDNET
 * Apple is also making the Vision Pro available in more countries starting June 28\. You can see the full list [here](https://www.apple.com/newsroom/2024/06/apple-vision-pro-arrives-in-new-countries-and-regions-beginning-june-28/).
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## AirPods
@@ -165,6 +161,10 @@ Jason Hiner/ZDNET
 * AirPods Pro are getting **Voice Isolation** to enhance call quality in noisier environments.
 * With the new **Siri Interactions**, users can now **nod or shake their head** "yes" or "no" when responding to Siri.
 * Apple is also releasing a **Personalized Spatial Audio API** for game developers to build around the AirPods' audio technology.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## tvOS 18
 
@@ -210,18 +210,20 @@ Screenshot by Nina Raemont/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-webster.techidaily.com/est-camera-for-videos-mirrorless-vs-dslr-showdown/"><u>[New] Best Camera for Videos Mirrorless Vs. DSLR Showdown</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/2024-approved-seamless-methodology-for-going-live-with-podcasts/"><u>2024 Approved Seamless Methodology for Going Live with Podcasts</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/exploring-originality-is-chatgpt-prone-to-copying-content/"><u>Exploring Originality: Is ChatGPT Prone to Copying Content?</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/exploring-the-opportunities-of-openais-bug-bounty-a-comprehensive-guide/"><u>Exploring the Opportunities of OpenAI's Bug Bounty: A Comprehensive Guide</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/faceoff-llama-3-and-gpt-4-determining-the-superior-model/"><u>Faceoff: Llama 3 and GPT- 4 – Determining the Superior Model</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/harnessing-chatgpts-power-to-solve-common-pc-problems-quickly/"><u>Harnessing ChatGPT's Power to Solve Common PC Problems Quickly</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/how-to-bypass-frp-from-itel-s23-by-drfone-android/"><u>How to Bypass FRP from Itel S23?</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/identifying-the-top-5-chatgpt-schemes-for-a-secure-ai-experience/"><u>Identifying the Top 5 ChatGPT Schemes for a Secure AI Experience</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/improve-wellness-with-ai-the-7-advantages-of-using-chatgpt-for-health-advice/"><u>Improve Wellness with AI: The 7 Advantages of Using ChatGPT for Health Advice</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-full-guide-to-bypass-vivo-y55s-5g-2023-frp-by-drfone-android/"><u>In 2024, Full Guide to Bypass Vivo Y55s 5G (2023) FRP</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/in-2024-step-into-leadership-role-comprehensive-guide-and-review-of-powerdirector/"><u>In 2024, Step Into Leadership Role - Comprehensive Guide & Review of PowerDirector</u></a></li>
-<li><a href="https://windows11.techidaily.com/pinpoint-customization-techniques-for-windows-11-search/"><u>Pinpoint Customization Techniques for Windows 11 Search</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/prime-win-os-artistic-solutions-beyond-procreate/"><u>Prime Win OS Artistic Solutions Beyond Procreate</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-2024-approved-explore-creativity-the-top-8-iphone-drawing-apps-uncovered/"><u>[New] 2024 Approved Explore Creativity The Top 8 iPhone Drawing Apps Uncovered</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ternal-banishment-of-youtubes-quick-clips-for-2024/"><u>[New] Eternal Banishment of YouTube's Quick Clips for 2024</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-students-gateway-to-history-the-top-10-youtube-archives/"><u>[Updated] Students' Gateway to History The Top 10 Youtube Archives</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/2024-approved-bite-sized-biographical-look/"><u>2024 Approved Bite-Sized Biographical Look</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-speeding-up-slideshow-video-playback/"><u>2024 Approved Speeding Up Slideshow Video Playback</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/dissecting-creativitys-new-ally-vs-enemy-chatgpt-review/"><u>Dissecting Creativity’s New Ally vs Enemy: ChatGPT Review</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/explore-the-best-4-ai-storytelling-apps-to-unleash-your-imagination/"><u>Explore the Best 4 AI Storytelling Apps to Unleash Your Imagination</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/1723175653241-get-quality-refreshment-the-top-value-pick-thermalright-phantom-spirit-120-se-for-just-35/"><u>Get Quality Refreshment: The Top Value Pick - Thermalright Phantom Spirit 120 SE for Just $35!</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/has-the-advent-of-chatgpt-transformed-student-writing-techniques-absolve-traditional-papers/"><u>Has the Advent of ChatGPT Transformed Student Writing Techniques Absolve Traditional Papers?</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/next-level-design-ideas-8-expertly-crafted-dall-e-3-artistic-prompts-for-imagery/"><u>Next Level Design Ideas: 8 Expertly Crafted DALL-E 3 Artistic Prompts for Imagery</u></a></li>
+<li><a href="https://blog-min.techidaily.com/riproduci-rapidamente-i-tuoi-dvd-con-conversione-errori-e-correzioni-da-dvd-a-mp4hevc/"><u>Riproduci Rapidamente I Tuoi DVD Con Conversione Errori E Correzioni Da DVD a MP4/HEVC</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/step-by-step-guide-installing-nvme-drivers-in-windows-operating-system/"><u>Step-by-Step Guide: Installing NVMe Drivers in Windows Operating System</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/the-impact-of-ai-conversational-agents-on-future-search-engine-dominance/"><u>The Impact of AI Conversational Agents on Future Search Engine Dominance</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/unlocking-pdf-knowledge-a-guide-to-empower-chatgpt-with-document-reading/"><u>Unlocking PDF Knowledge: A Guide to Empower ChatGPT with Document Reading</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/unveiling-distinctions-how-does-gpt-4-stand-against-its-variants/"><u>Unveiling Distinctions: How Does GPT-4 Stand Against Its Variants?</u></a></li>
 </ul></div>
 

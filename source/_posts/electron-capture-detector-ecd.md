@@ -1,7 +1,7 @@
 ---
 title: "Electron Capture Detector (ECD):"
-date: 2025-01-14T19:54:41.259Z
-updated: 2025-01-19T17:57:00.137Z
+date: 2025-01-22T16:40:18.665Z
+updated: 2025-01-25T16:47:50.261Z
 tags:
   - apple
 categories:
@@ -29,6 +29,10 @@ You'll find the necessary setting in the Control Center section of your Settings
 
 Michael Gariffo
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 1\. Open your Settings app and find "Control Center"
 
 Apple added a quick, easy way to record your screen with [iOS 14 in 2020](https://www.zdnet.com/article/apple-launches-ios-14-aims-for-siri-overhaul-better-app-organization/), but you'll need to enable it before you can use it. To do this, open your Settings app and find Control Center (as seen above in the red rectangle).
@@ -36,6 +40,10 @@ Apple added a quick, easy way to record your screen with [iOS 14 in 2020](https:
 This is the Screen Recording option we'll be adding to Control Center
 
 Michael Gariffo
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 2\. Add the Screen Recording button to your Control Center
 
@@ -57,10 +65,6 @@ While recording, your Screen Recording button will look like this (minus the red
 
 Michael Gariffo
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nWu29cqFjZA?si=TNZyCbPq68PQ0JIb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 4\. Begin screen recording
 
 When you're ready to begin recording, tap the Screen Recording button. This starts a 3-second countdown. At the end of it, the recording will begin. This countdown time can be used to close the Control Center and get back to the true subject of your Screen Recording before the video capture actually begins. 
@@ -72,7 +76,7 @@ Your clock will look like this as long as Screen Recording is active.
 Michael Gariffo
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/793ViIxl4tI?si=DDBkjPlPX5bZ-f1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Step 5: Record
@@ -94,7 +98,7 @@ In both cases, the recording you just produced will immediately be saved to your
 ## FAQs
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What does the Screen Recording app actually capture?
@@ -102,7 +106,7 @@ In both cases, the recording you just produced will immediately be saved to your
 It captures everything that goes on across your entire iPhone screen, as well as any sound produced by the iPhone itself while it's recording. This includes any actions you perform, any full-screen videos, and any audio you play via websites, apps, etc. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Can I add narration to my captured videos?
@@ -112,10 +116,6 @@ Unfortunately, the built-in iPhone tool for recording your screen doesn't suppor
 * [Techsmith Capture](https://apps.apple.com/us/app/techsmith-capture/id1266321056) \- A straightforward screen recorder app that works almost identically to the built-in process, but supports adding real-time narration using the iPhone's built-in microphones.
 * [RecordIt!](https://apps.apple.com/us/app/record-it-screen-recorder/id1245356545) \- A slightly more complex option that also allows for real-time narration or post-capture editing. It also supports face cam captures, so you can record your screen and yourself at the same time.
 * [Screen Recorder +](https://apps.apple.com/us/app/screen-recorder/id1380506650) \- A similar option to RecordIt!, Screen Recorder + touts its ability to start up in just one second, for those spur-of-the-moment captures.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## How can I share my captured video?
 
@@ -153,22 +153,14 @@ Be aware that some apps, particularly email and messaging apps that don't rely o
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-videos.techidaily.com/new-in-2024-best-in-class-facebook-media-firefox-edition/"><u>[New] In 2024, Best-in-Class Facebook Media FireFox Edition</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-edu-odyssey-journey-through-top-learning-sites-for-2024/"><u>[Updated] Edu-Odyssey Journey Through Top Learning Sites for 2024</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/ai-allies-in-your-quest-implementing-chatgpt-to-enrich-your-dandd-worlds/"><u>AI Allies in Your Quest: Implementing ChatGPT to Enrich Your D&D Worlds</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/ai-chatbots-the-new-frontier-in-human-machine-dialogue/"><u>AI Chatbots: The New Frontier in Human-Machine Dialogue</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/ai-glossary-simplified-essential-terms-for-all-scales/"><u>AI Glossary Simplified: Essential Terms for All Scales</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/ai-showdown-gpt-plus-versus-perplexity/"><u>AI Showdown: GPT Plus Versus Perplexity</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/ai-unveiled-understanding-and-assessing-risks/"><u>AI Unveiled: Understanding & Assessing Risks</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/boosting-response-quality-7-key-methods-for-chatgpt-interaction/"><u>Boosting Response Quality: 7 Key Methods for ChatGPT Interaction</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/clash-of-ai-titans-exploring-distinctive-qualities-between-google-palm-2-and-openais-gpt-4/"><u>Clash of AI Titans: Exploring Distinctive Qualities Between Google PaLM 2 and OpenAI's GPT-4</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/creating-an-engaging-text-based-rpg-with-chatgpt-a-step-by-step-guide/"><u>Creating an Engaging Text-Based RPG with ChatGPT: A Step-by-Step Guide</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/ensuring-effective-integration-with-apples-platform/"><u>Ensuring Effective Integration with Apple's Platform</u></a></li>
-<li><a href="https://android-location.techidaily.com/in-2024-10-free-location-spoofers-to-fake-gps-location-on-your-motorola-moto-g-stylus-5g-2023-drfone-by-drfone-virtual/"><u>In 2024, 10 Free Location Spoofers to Fake GPS Location on your Motorola Moto G Stylus 5G (2023) | Dr.fone</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/in-2024-screen-recording-simplified-review-insights/"><u>In 2024, Screen Recording Simplified Review Insights</u></a></li>
-<li><a href="https://discover-comparisons.techidaily.com/step-by-step-guide-upgrading-your-windows-pc-with-a-new-graphics-card-tips-by-yl-computing/"><u>Step-by-Step Guide: Upgrading Your Windows PC with a New Graphics Card - Tips by YL Computing</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/top-converters-turn-videos-into-live-photos-with-ease-for-2024/"><u>Top Converters Turn Videos Into Live Photos with Ease for 2024</u></a></li>
-<li><a href="https://fox-that.techidaily.com/troubleshooting-your-iphone-screen-uncovering-the-seven-main-culprits-of-non-responsiveness/"><u>Troubleshooting Your iPhone Screen: Uncovering the Seven Main Culprits of Non-Responsiveness</u></a></li>
-<li><a href="https://video-ai-editor.techidaily.com/updated-in-2024-best-free-video-cutting-tools-for-divx-files-updated-2023/"><u>Updated In 2024, Best Free Video Cutting Tools for Divx Files (Updated 2023)</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-in-2024-movie-buffs-secret-2023-recommendations/"><u>[Updated] In 2024, Movie Buffs' Secret 2023 Recommendations</u></a></li>
+<li><a href="https://facebook.techidaily.com/meta-reignites-trumps-fb-and-insta-access/"><u>Meta Reignites Trump’s FB & Insta Access</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/rhythmic-resonance-harmony-for-visuals-for-2024/"><u>Rhythmic Resonance Harmony for Visuals for 2024</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/tech-savvy-tips-boot-into-bios-for-your-windows-107-system-easily/"><u>Tech Savvy Tips: Boot Into BIOS for Your Windows 10/7 System Easily</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/the-future-of-high-resolution-viewing-an-overview-of-asuss-proart-pa-329q-monitor/"><u>The Future of High-Resolution Viewing An Overview of Asus's ProArt PA 329Q Monitor</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/the-ultimate-10-plugin-power-duo-for-final-cut-pro-for-2024/"><u>The Ultimate 10 Plugin Power Duo for Final Cut Pro for 2024</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/the-ultimate-guide-to-determining-real-time-ram-speeds-on-latest-windows-platforms/"><u>The Ultimate Guide to Determining Real-Time RAM Speeds on Latest Windows Platforms</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/the-ultimate-guide-to-enhancing-gameplay-speed-in-windows-11-systems/"><u>The Ultimate Guide to Enhancing Gameplay Speed in Windows 11 Systems</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/troubleshooting-guide-fixing-your-logitech-wireless-mouse-issues/"><u>Troubleshooting Guide: Fixing Your Logitech Wireless Mouse Issues</u></a></li>
 </ul></div>
 

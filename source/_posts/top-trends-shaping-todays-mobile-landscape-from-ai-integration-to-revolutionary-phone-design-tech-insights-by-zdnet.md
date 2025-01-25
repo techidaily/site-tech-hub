@@ -1,7 +1,7 @@
 ---
 title: Top Trends Shaping Today’s Mobile Landscape - From AI Integration to Revolutionary Phone Design | Tech Insights by ZDNET
-date: 2025-01-12T16:32:28.151Z
-updated: 2025-01-19T17:14:29.963Z
+date: 2025-01-22T17:10:25.754Z
+updated: 2025-01-25T17:29:13.197Z
 tags:
   - apple
 categories:
@@ -31,7 +31,7 @@ Read on for a look at some of the new accessibility features coming to Apple har
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### New eye-tracking features
@@ -39,16 +39,12 @@ Read on for a look at some of the new accessibility features coming to Apple har
 Apple is bringing a new feature to both iOS and iPadOS that will let you navigate your iPhone and iPad with just your eye movements. The feature uses the device's front-facing camera to track your eye movements and let you move through apps. Apple said that its new Eye Tracking feature will work across both its own and third-party apps, and will work with gestures powered solely by eye movements.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Apple Music haptics
 
 For those who are deaf or hard of hearing, Apple plans to offer a Taptic Engine feature in Apple Music. When turned on, the feature will use a series of taps, vibrations, and other tactile responses to sync to a song's audio. Apple says the feature will work "across millions of songs in the Apple Music catalog."
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oB9V7rZzotw?si=d4xrCbq1jKHXGAWN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Addressing motion sickness
 
@@ -58,6 +54,10 @@ Motion sickness in cars can often be the result of a disconnect between what you
 
 "Using sensors built into iPhone and iPad, Vehicle Motion Cues recognizes when a user is in a moving vehicle and responds accordingly," Apple said. "The feature can be set to show automatically on iPhone, or can be turned on and off in Control Center."
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Understanding speech
 
 A new feature called Voice Shortcuts will let you "assign custom utterances" that Apple's virtual personal assistant Siri will save. When Siri hears those utterances, it'll perform whatever action was assigned to it, including launching apps or engaging in more complex tasks on the device.
@@ -65,7 +65,7 @@ A new feature called Voice Shortcuts will let you "assign custom utterances" tha
 Another feature, Listen for Atypical Speech, will use machine learning to understand your speech patterns and your requests on-device, Apple said. The feature "gives users an option for enhancing speech recognition for a wider range of speech," the company said.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### New CarPlay features
@@ -75,7 +75,7 @@ Apple's in-car CarPlay software is also getting new accessibility features, incl
 **Also: [iOS and Android owners will now be alerted if an unknown tracker is moving with them](https://www.zdnet.com/article/ios-and-android-owners-will-now-be-alerted-if-an-unknown-tracker-is-moving-with-them/)**
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/C3cJe7Wgn6I?si=EckDFML-VJ_2sYz8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Some other updates
@@ -112,19 +112,19 @@ Beyond those updates, Apple said that it's launching a range of smaller upgrades
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-posts.techidaily.com/new-in-2024-understanding-your-srt-equipment-like-a-pro/"><u>[New] In 2024, Understanding Your SRT Equipment Like a Pro</u></a></li>
-<li><a href="https://article-tips.techidaily.com/new-redefining-engagement-virtual-reality-in-education-for-2024/"><u>[New] Redefining Engagement Virtual Reality in Education for 2024</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/new-viral-video-round-up-a-list-of-todays-favorites-on-fb-for-2024/"><u>[New] Viral Video Round-Up A List of Today's Favorites on FB for 2024</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-2024-approved-techniques-for-high-quality-xbox-game-recordings/"><u>[Updated] 2024 Approved Techniques for High-Quality Xbox Game Recordings</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/enhancing-tabletop-adventure-with-ai-create-dandd-heroes-using-chatgpt-and-dall-e/"><u>Enhancing Tabletop Adventure with AI: Create D&D Heroes Using ChatGPT and DALL-E</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/ensuring-ethical-use-of-chatgpt-when-providing-mental-health-guidance/"><u>Ensuring Ethical Use of ChatGPT When Providing Mental Health Guidance</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/envisioning-a-safer-tomorrow-with-four-governmental-ai-laws/"><u>Envisioning a Safer Tomorrow with Four Governmental AI Laws</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/essential-features-upgrades-for-chatgpt-plugin-hub/"><u>Essential Features Upgrades for ChatGPT Plugin Hub</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/tial-guide-to-writing-click-worthy-youtube-titles/"><u>Essential Guide to Writing Click-Worthy Youtube Titles</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/excel-ai-transformation-via-chatgpt-expertise/"><u>Excel AI Transformation via ChatGPT Expertise</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/expert-analysis-top-picks-of-the-best-5-slow-motion-cams-for-2024/"><u>Expert Analysis Top Picks of the Best 5 Slow Motion Cams for 2024</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/expert-tips-for-efficient-note-management-with-chatgpt/"><u>Expert Tips for Efficient Note Management with ChatGPT</u></a></li>
-<li><a href="https://apple-account.techidaily.com/in-2024-how-to-fix-locked-apple-id-on-iphone-14-by-drfone-ios/"><u>In 2024, How to Fix Locked Apple ID on iPhone 14</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/top-5-friend-finder-apps-connect-and-expand-your-social-circle/"><u>Top 5 Friend-Finder Apps: Connect and Expand Your Social Circle</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-exploring-versatility-in-vsco-imagery/"><u>[New] Exploring Versatility in VSCO Imagery</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-exercise-innovations-6-youtube-ideas-for-movement-focused-viewers-for-2024/"><u>[Updated] Exercise Innovations 6 YouTube Ideas for Movement-Focused Viewers for 2024</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/capture-comprehensive-screen-shot/"><u>Capture Comprehensive Screen Shot</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/chatgpt-and-confidentiality-are-we-overlooking-a-major-threat-to-our-online-security/"><u>ChatGPT and Confidentiality: Are We Overlooking a Major Threat to Our Online Security?</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/chatgpt-for-business-unique-value-proposition/"><u>ChatGPT for Business: Unique Value Proposition</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/comparing-different-ais-how-does-public-ai-stand-against-private-and-personal-variants/"><u>Comparing Different AIs - How Does Public AI Stand Against Private and Personal Variants?</u></a></li>
+<li><a href="https://solve-manuals.techidaily.com/conversione-gratuita-online-da-vob-a-3gp-con-movavi/"><u>Conversione Gratuita Online Da VOB a 3GP Con Movavi</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/dall-e-3-unveiled-edit-functionality-analyzing-the-strengths-and-room-for-enhancement/"><u>DALL-E 3 Unveiled Edit Functionality – Analyzing the Strengths and Room for Enhancement</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/dissecting-godfall-for-playstation-5-the-promising-debut-that-ends-in-narrative-confusion/"><u>Dissecting Godfall for PlayStation 5 - The Promising Debut that Ends in Narrative Confusion</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/evaluating-ais-craft-in-cocktail-creation/"><u>Evaluating AI's Craft in Cocktail Creation</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/intuitive-design-meets-quality-with-the-z-edge-z3-plus-dashcam/"><u>Intuitive Design Meets Quality with the Z-Edge Z3 Plus Dashcam</u></a></li>
+<li><a href="https://fox-shield.techidaily.com/step-by-step-guide-sending-your-created-ebooks-via-email-on-flipbuilder/"><u>Step-by-Step Guide: Sending Your Created eBooks via Email on FlipBuilder</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/unlock-a-healthier-you-the-ultimate-list-of-8-fitness-and-wellness-apps-featuring-chatgpt-technology/"><u>Unlock a Healthier You: The Ultimate List of 8 Fitness and Wellness Apps Featuring ChatGPT Technology</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/zdnet-exclusive-apples-recent-ai-presentation-omits-key-developments-could-they-be-coming-soon/"><u>ZDNet Exclusive: Apple's Recent AI Presentation Omits Key Developments - Could They Be Coming Soon?</u></a></li>
 </ul></div>
 

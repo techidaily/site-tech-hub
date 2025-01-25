@@ -1,7 +1,7 @@
 ---
 title: Top AT&T Mobile Offers in May 2024 - Exclusive Insights
-date: 2025-01-17T18:56:09.796Z
-updated: 2025-01-19T17:33:43.058Z
+date: 2025-01-20T17:42:26.428Z
+updated: 2025-01-25T16:33:19.537Z
 tags:
   - apple
 categories:
@@ -117,7 +117,7 @@ If you order this product via AT&T on a suitable plan, you will receive this mob
 [View now at AT&T](https://www.anrdoezrs.net/links/9041660/type/dlg/sid/zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp/https://www.att.com/buy/phones/motorola-razrplus.html) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/r_wWybMqZEM?si=0nPjCQDLS2MCaQbG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## More AT&T deals
@@ -135,7 +135,7 @@ If you order this product via AT&T on a suitable plan, you will receive this mob
 [Motorola moto g stylus, $2.99/month, no trade-in required View now at AT&T](https://www.anrdoezrs.net/links/9041660/type/dlg/sid/zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp/https://www.att.com/buy/phones/motorola-moto-g-stylus-5g-2023.html)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Accessory and service deals
@@ -148,6 +148,10 @@ If you order this product via AT&T on a suitable plan, you will receive this mob
 
 [BodyGuardz Pure 2 Edge antimicrobial glass screen protector (iPhone 14 range) for $10 (save $35) $10 at AT&T](https://www.anrdoezrs.net/links/9041660/type/dlg/sid/zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp/https://www.att.com/buy/accessories/Screen-Protectors/bodyguardz-pure-2-edge-antimicrobial-tempered-glass-screen-protector-iphone-14-13-13-pro.html)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OFDHJnZLwTA?si=WThcb2h76AnZDzcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How did we choose these AT&T phone deals?
 
 When we made our selection for the best AT&T deals, we wanted to include options based on the following criteria: 
@@ -158,21 +162,21 @@ When we made our selection for the best AT&T deals, we wanted to include options
 * **Free products**: Devices drop in value over time, and to offload excess stock, some carriers will launch time-sensitive deals, giving subscribers free products in exchange for signing up for a new contract.
 * **Events**: It's always worth checking retailers after a major event, such as Samsung Unpacked. You will often find that deals will be launched just after, luring customers to agree to preorder their new handset in return for discounts and free storage upgrades.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/793ViIxl4tI?si=DDBkjPlPX5bZ-f1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Does AT&T offer deals for existing customers?
 
 It's true that carriers are the most aggressive with their offers when it's year-end and new customers are shopping around for services to switch to. Still, AT&T has done a fairly balanced job of pushing promotions for new and existing customers, including all the deals we have listed above. If you've been a loyal customer, we'd even recommend reaching out to your local AT&T provider to see if there are any exclusive deals just for you.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Is it cheaper to buy a phone online or in-store?
 
 In general, there is no difference in how much money you save whether you shop online or in stores. Instead, deciding between the two really boils down to your preference for transactions. With how complicated carrier phone deals can be, you may be better off heading down to the local AT&T store and consulting with a product expert to help you navigate the fine print. Otherwise, shopping online can be faster and more convenient.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## What are the best deals right now?
 
@@ -182,10 +186,6 @@ ZDNET experts split out the latest and greatest deals for you below.
 
 * [The best AT&T deals](https://www.zdnet.com/article/att-deals/)
 * [The best Verizon deals](https://www.zdnet.com/article/verizon-deals/)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### **Best deals by category**
 
@@ -236,24 +236,20 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-lessons.techidaily.com/updated-blueprinting-breathtaking-cinematic-sketches/"><u>[Updated] Blueprinting Breathtaking Cinematic Sketches</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/updated-in-2024-elevate-your-videos-a-complete-shift-from-sdr-to-hdr/"><u>[Updated] In 2024, Elevate Your Videos A Complete Shift From SDR to HDR</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/updated-in-2024-obs-studio-and-lut-application-guide-for-professional-cinematographers/"><u>[Updated] In 2024, OBS Studio & LUT Application Guide for Professional Cinematographers</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-in-2024-reposting-photosvideos-a-users-manual/"><u>[Updated] In 2024, Reposting Photos/Videos A User's Manual</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/ed-mastering-the-art-of-uplifting-daily-existence-videos/"><u>[Updated] Mastering the Art of Uplifting Daily Existence Videos</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/experience-personalized-ai-assistance-free-and-locally-installed-chatgpt-clone-with-gpt4all-on-windows/"><u>Experience Personalized AI Assistance: Free and Locally Installed ChatGPT Clone with GPT4All on Windows</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/explore-these-exceptional-no-cost-ai-applications-for-producing-stunning-visuals/"><u>Explore These Exceptional No-Cost AI Applications for Producing Stunning Visuals</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/exploring-auto-gpt-versus-chatgpt-uncovering-their-distinct-capabilities/"><u>Exploring Auto-GPT Versus ChatGPT: Uncovering Their Distinct Capabilities</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/forefront-ai-explained-does-it-outshine-chatgpt/"><u>Forefront AI Explained – Does It Outshine ChatGPT?</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/from-zero-to-hero-installing-gpt-on-ubuntu/"><u>From Zero to Hero: Installing GPT on Ubuntu</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/how-does-the-new-ai-regulation-in-europe-influence-chatgpt/"><u>How Does the New AI Regulation in Europe Influence ChatGPT?</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/how-to-train-custom-chatgpt-models-with-company-specific-information/"><u>How to Train Custom ChatGPT Models With Company-Specific Information</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-unlocking-made-easy-the-best-10-apps-for-unlocking-your-nubia-z50-ultra-device-by-drfone-android/"><u>In 2024, Unlocking Made Easy The Best 10 Apps for Unlocking Your Nubia Z50 Ultra Device</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/is-it-worth-exploring-auto-gpt-while-anticipating-the-release-of-gpt-4/"><u>Is It Worth Exploring Auto-GPT While Anticipating the Release of GPT-4?</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/is-truthgpt-coin-genuine-or-fraudulent-uncovering-the-facts/"><u>Is TruthGPT Coin Genuine or Fraudulent? Uncovering the Facts</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/new-final-cut-pro-color-matching-secrets-expert-tips-for-a-cohesive-look-for-2024/"><u>New Final Cut Pro Color Matching Secrets Expert Tips for a Cohesive Look for 2024</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/s-vital-views-youtubes-quick-hit-list/"><u>Today's Vital Views YouTube’s Quick Hit List</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/updated-the-ultimate-guide-to-animated-text-in-video-best-mobile-apps-for-2024/"><u>Updated The Ultimate Guide to Animated Text in Video Best Mobile Apps for 2024</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/visual-virtuosity-expertly-adding-motion-blur-to-facial-images-via-picsart/"><u>Visual Virtuosity Expertly Adding Motion Blur to Facial Images via Picsart</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/new-analyzing-video-storage-efficiency-in-high-capacity-formats-64128gb/"><u>[New] Analyzing Video Storage Efficiency in High-Capacity Formats (64/128GB)</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-reinstate-disappearing-watch-thumbnail-for-2024/"><u>[Updated] Reinstate Disappearing Watch Thumbnail for 2024</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/2024-approved-magical-image-maker-turning-pictures-into-cartoons-on-devices/"><u>2024 Approved Magical Image Maker Turning Pictures Into Cartoons on Devices</u></a></li>
+<li><a href="https://techtrends.techidaily.com/apples-most-recent-advancement-in-tablet-technology-a-closer-look-at-the-new-ipad-generation/"><u>Apple's Most Recent Advancement in Tablet Technology: A Closer Look at the New iPad Generation</u></a></li>
+<li><a href="https://fox-making.techidaily.com/guide-to-rebooting-devices-how-to-clear-everything-from-start-to-finish/"><u>Guide to Rebooting Devices: How to Clear Everything From Start to Finish</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-music-from-samsung-galaxy-z-flip-5-to-ipod-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Music from Samsung Galaxy Z Flip 5 to iPod | Dr.fone</u></a></li>
+<li><a href="https://extra-information.techidaily.com/mastering-the-mark-crafting-unique-podcast-graphics/"><u>Mastering the Mark Crafting Unique Podcast Graphics</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/quick-and-simple-guide-reset-your-facebook-password-instantly/"><u>Quick and Simple Guide: Reset Your Facebook Password Instantly</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/quick-fix-for-a-malfunctioning-logitech-k520-keyboard-easy-tips-inside/"><u>Quick Fix for a Malfunctioning Logitech K520 Keyboard – Easy Tips Inside!</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/quick-fix-for-removing-windows-10-lock-screen-a-user-friendly-approach/"><u>Quick Fix for Removing Windows 10 Lock Screen - A User-Friendly Approach</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/quick-guide-identifying-and-verifying-your-windows-10-os-version-instantly/"><u>Quick Guide: Identifying and Verifying Your Windows 10 OS Version Instantly</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/recovering-access-steps-to-restore-a-forgotten-ipad-passcode-and-unlock-securely/"><u>Recovering Access: Steps to Restore a Forgotten iPad Passcode and Unlock Securely</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/resolve-excessive-tiworkerexe-cpu-and-memory-consumption-in-windows-11/"><u>Resolve Excessive tiworker.exe CPU and Memory Consumption in Windows 11</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/step-by-step-applying-color-grading-and-keying/"><u>Step-by-Step Applying Color Grading and Keying</u></a></li>
+<li><a href="https://driver-error.techidaily.com/windows-cuick-fix-for-non-responsive-qualcomm-atheros-bluetooth-devices/"><u>Windows Cuick Fix for Non-Responsive Qualcomm Atheros Bluetooth Devices</u></a></li>
 </ul></div>
 

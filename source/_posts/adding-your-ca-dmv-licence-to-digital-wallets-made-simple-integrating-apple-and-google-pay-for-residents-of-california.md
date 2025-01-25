@@ -1,7 +1,7 @@
 ---
 title: "Adding Your CA DMV Licence to Digital Wallets Made Simple: Integrating Apple & Google Pay for Residents of California"
-date: 2025-01-12T17:10:28.735Z
-updated: 2025-01-19T18:35:55.305Z
+date: 2025-01-23T16:38:48.867Z
+updated: 2025-01-25T16:58:40.242Z
 tags:
   - apple
 categories:
@@ -38,6 +38,10 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Reputation botched by a software rollout
 
 Founded in 2002, Sonos revolutionized home audio with its wireless, multiroom speaker systems. The company became a household name known for high-quality sound and seamless integration with music services. 
@@ -59,10 +63,6 @@ My own experiences have also not been positive. I find the web-based user interf
 The Sonos S2 firmware, which requires additional memory and relies more on cloud connections than previous versions, makes the response time from the new apps sluggish, particularly with the web interface.
 
 It's not hard to imagine that [Play:3, Play:1, Play:5 Gen2, and Sub Gen1 speakers](https://support.sonos.com/en-us/article/sonos-app-version-compatibility) that have been in the wild for more than 10 years will become obsolete in the next year or so when Sonos introduces a revised S2 or S3 firmware. These speakers will likely need to be run [on legacy networks and controlled separately](https://support.sonos.com/en-us/article/set-up-separate-s1-and-s2-sonos-systems), like the S1 components were when Sonos initially rolled out S2 in August 2020.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## A lack of competitors
 
@@ -88,6 +88,10 @@ Apple has the resources to make this move, and now is the right time for HomePod
 
 A set-top box, whether an updated Apple TV or a centralized processor unit for Apple TV and HomePod, could be the central control unit for a multiroom and surround sound audio system. In addition to providing the expected [artificial intelligence](https://www.zdnet.com/article/what-is-ai-heres-everything-you-need-to-know-about-artificial-intelligence/) (AI) features of a more intelligent Siri and orchestrating home automation functions, the unit could transform Apple Music into a highly personalized and interactive experience.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Personalized music experiences
 
 Imagine an AI processor with built-in [Apple Foundation Model LLM](https://www.zdnet.com/article/apple-builds-a-slimmed-down-ai-model-using-stanford-google-innovations/) and [ChatGPT](https://www.zdnet.com/article/what-is-chatgpt-and-why-does-it-matter-heres-everything-you-need-to-know/) integration that offers dynamic playlists tailored to your real-time preferences, activities, and moods. This AI could provide context-aware music suggestions based on your current activity, location in your home, or time of day, seamlessly enhancing your environment whether you're working out, hosting a party, or relaxing.
@@ -97,23 +101,19 @@ Imagine an AI processor with built-in [Apple Foundation Model LLM](https://www.z
 With interactive music discovery, you could converse with Siri to explore new music, uncover interesting facts about songs and artists, and receive personalized insights and trivia while listening. Customized listening sessions would adapt to your feedback, setting goals like discovering new artists and curating sessions to meet those objectives.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5FWCFI3f_cs?si=Kt2Onr_E4c616tbH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Social and collaborative features
 
 Social and collaborative features could facilitate the creation of collaborative playlists with friends and family, allowing real-time voting on songs and interactive chats about playlist content. Personalized messages generated by the new Apple Intelligence-powered Siri could help with custom recommendations for friends based on shared listening habits.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Vca--yEhtdo?si=7ijqjyP-oi3LYze1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Smart home integration
 
 Smart home integration could allow voice-controlled music management across HomePod and other devices, setting up multiroom audio experiences with personalized settings for different rooms and family members. Event-based playlists could be automatically generated for scheduled events, syncing with other Apple devices to create immersive audio experiences tailored to specific activities.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Learning and adaptation
@@ -123,7 +123,7 @@ The AI's adaptive learning capabilities could continuously refine music recommen
 **Also: [LG TVs are getting a free audio upgrade that Apple users will absolutely love](https://www.zdnet.com/home-and-office/home-entertainment/lg-tvs-are-getting-a-free-audio-upgrade-that-apple-users-will-absolutely-love/)**
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Is Sonos cooked, and can Apple step in?
@@ -160,18 +160,17 @@ The recent missteps by Sonos have left a void in the multiroom audio market, pre
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-information.techidaily.com/new-creating-a-professional-periscope-presence/"><u>[New] Creating a Professional Periscope Presence</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/avoiding-imposter-chatbots-a-guide-to-authenticating-gpt-apps-for-apple-devices/"><u>Avoiding Imposter Chatbots: A Guide to Authenticating GPT Apps for Apple Devices</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/can-ai-like-chatgpt-tackle-complex-math-questions/"><u>Can AI Like ChatGPT Tackle Complex Math Questions?</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/chatgpt-as-your-secret-weapon-for-stunning-presentations/"><u>ChatGPT as Your Secret Weapon for Stunning Presentations</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/chatgpt-plus-revolutionizing-the-way-you-learn-languages-today/"><u>ChatGPT Plus: Revolutionizing the Way You Learn Languages Today</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/coding-excellence-face-off-which-is-superior-chatgpt-or-gemini/"><u>Coding Excellence Face-Off: Which Is Superior, ChatGPT or Gemini?</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/combating-solitude-leveraging-chatgpt-to-ease-loneliness/"><u>Combating Solitude: Leveraging ChatGPT to Ease Loneliness</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/creating-custom-notifications-setting-your-own-gmail-sounds/"><u>Creating Custom Notifications: Setting Your Own Gmail Sounds</u></a></li>
-<li><a href="https://discover-forum.techidaily.com/easy-to-follow-instructions-restoring-unintentionally-erased-files-on-your-computer-windows/"><u>Easy-to-Follow Instructions: Restoring Unintentionally Erased Files on Your Computer (Windows)</u></a></li>
-<li><a href="https://ios-pokemon-go.techidaily.com/how-to-fix-pokemon-go-route-not-working-on-apple-iphone-se-2022-drfone-by-drfone-virtual-ios/"><u>How to Fix Pokemon Go Route Not Working On Apple iPhone SE (2022)? | Dr.fone</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/in-2024-effects-mastery-transform-your-videos-with-cutting-edge-techniques/"><u>In 2024, Effects Mastery Transform Your Videos with Cutting-Edge Techniques</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/leading-cable-modems-available-now-2024-edition/"><u>Leading Cable Modems Available Now - 2024 Edition</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/unveiling-the-high-res-sky-scenes-with-mi-drone/"><u>Unveiling the High-Res Sky Scenes with Mi Drone</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-2024-approved-mc-homestead-plans-the-top-6/"><u>[New] 2024 Approved MC Homestead Plans The Top 6</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-get-to-grips-with-final-cut-pro-step-by-step-tutorial-for-2024/"><u>[Updated] Get to Grips with Final Cut Pro – Step by Step Tutorial for 2024</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-in-2024-experience-legendary-ps3-gaming-on-your-pc-today/"><u>[Updated] In 2024, Experience Legendary PS3 Gaming on Your PC Today</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024s-leading-cloud-services-pricing-ranked/"><u>2024'S Leading Cloud Services Pricing Ranked</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/compattelrunnerexe-high-disk-usage-in-windows-11-and-7-solved/"><u>CompatTelRunner.exe High Disk Usage in Windows 11 & 7 [Solved]</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/comprehensive-troubleshooting-making-the-logitech-g923-functional-again/"><u>Comprehensive Troubleshooting: Making the Logitech G923 Functional Again</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/continuous-video-streaming-on-youtube-master-the-art-of-automatic-playback-and-repetitions/"><u>Continuous Video Streaming on YouTube: Master the Art of Automatic Playback and Repetitions</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/counter-cold-war-pc-lag-and-frame-drops-with-these-proven-techniques-2024-game-optimization-guide/"><u>Counter Cold War PC Lag and Frame Drops with These Proven Techniques - 2024 Game Optimization Guide</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/diy-youtube-intros-and-ends-without-breaking-the-bank/"><u>DIY YouTube Intros & Ends Without Breaking the Bank</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-fix-unresponsive-phone-touchscreen-of-poco-m6-pro-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Fix Unresponsive Phone Touchscreen Of Poco M6 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-solutions-to-spy-on-xiaomi-redmi-note-13-5g-with-and-without-jailbreak-drfone-by-drfone-virtual-android/"><u>In 2024, Solutions to Spy on Xiaomi Redmi Note 13 5G with and without jailbreak | Dr.fone</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/unleashing-creativity-quick-lens-building-on-snapchat/"><u>Unleashing Creativity Quick Lens Building on Snapchat</u></a></li>
 </ul></div>
 

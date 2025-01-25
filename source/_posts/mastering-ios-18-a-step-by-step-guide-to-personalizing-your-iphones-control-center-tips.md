@@ -1,7 +1,7 @@
 ---
 title: "Mastering iOS 18: A Step-by-Step Guide to Personalizing Your iPhone's Control Center - Tips"
-date: 2025-01-17T17:02:18.514Z
-updated: 2025-01-19T19:51:21.148Z
+date: 2025-01-21T16:34:32.147Z
+updated: 2025-01-25T17:07:54.445Z
 tags:
   - apple
 categories:
@@ -29,13 +29,13 @@ If you want to follow along, you'll need to install the iOS 18 public beta on an
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to customize your iPhone's new Control Center with iOS 18
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1rCjQ09iG7s?si=Si1fUBric8MH1VHI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. Access Control Center
@@ -58,15 +58,15 @@ After tapping the plus icon, some controls sport a gray curved handle in the low
 
 Screenshot by Lance Whitney/ZDNET
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 4\. Delete a control
 
 Next, you can directly delete a control you don't need or want. With the icons in edit mode, tap the minus sign for the icon you want to remove. When the icon is deleted, the surrounding icons should move to fill up the gap.
 
 Screenshot by Lance Whitney/ZDNET
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 5\. Add a control to an existing screen
 
@@ -77,7 +77,7 @@ Screenshot by Lance Whitney/ZDNET
 **Also: [I did not expect this iOS 18 feature announced at WWDC to be my favorite (and it's not AI)](https://www.zdnet.com/article/i-did-not-expect-this-ios-18-feature-announced-at-wwdc-to-be-my-favorite-and-its-not-ai/)**
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 6\. Add a control to a new screen
@@ -87,7 +87,7 @@ If the current screens are already filled with icons, you can set up additional 
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 7\. Power down from Control Center
@@ -126,22 +126,18 @@ Screenshot by Lance Whitney/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-cloud.techidaily.com/updated-in-2024-polishing-pixels-8-pro-photo-frames-for-images-online/"><u>[Updated] In 2024, Polishing Pixels 8 Pro Photo Frames for Images Online</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/2024-approved-leveraging-frameworks-like-bootstrap-for-rapid-prototyping/"><u>2024 Approved Leveraging Frameworks Like Bootstrap for Rapid Prototyping</u></a></li>
-<li><a href="https://win-blog.techidaily.com/expert-advice-for-a-stable-experience-of-robocop-rogue-city-without-any-crashing-issues/"><u>Expert Advice for a Stable Experience of Robocop: Rogue City Without Any Crashing Issues</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-unlock-a-found-apple-iphone-6-plus-drfone-by-drfone-ios/"><u>In 2024, How To Unlock A Found Apple iPhone 6 Plus? | Dr.fone</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-unlock-honor-magic-vs-2-pin-codepattern-lockpassword-by-drfone-android/"><u>In 2024, How to Unlock Honor Magic Vs 2 PIN Code/Pattern Lock/Password</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-unlocking-visual-potential-a-step-by-step-guide-to-video-enhancer-22/"><u>In 2024, Unlocking Visual Potential A Step-by-Step Guide to Video Enhancer 2.2</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/in-depth-look-at-the-samsung-qn55q3u-a-premier-4k-hdr-smart-tv-experience/"><u>In-Depth Look at the Samsung QN55Q3U: A Premier 4K HDR Smart TV Experience</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/navigating-the-speedwave-top-5-reasons-for-gpts-explosion/"><u>Navigating the Speedwave: Top 5 Reasons for GPT's Explosion</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/navigating-through-openais-features-the-complete-user-manual-for-innovative-solutions/"><u>Navigating Through OpenAI's Features: The Complete User Manual for Innovative Solutions</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/revolutionizing-home-improvement-with-gpt-4s-breakthrough-in-ai-technology/"><u>Revolutionizing Home Improvement with GPT-4's Breakthrough in AI Technology</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/should-you-switch-to-copilot-pro-from-copilot-find-out-the-distinct-advantages-here/"><u>Should You Switch to Copilot Pro From Copilot? Find Out the Distinct Advantages Here</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/streamline-workflow-integrating-microsoft-copilot-into-macos/"><u>Streamline Workflow: Integrating Microsoft Copilot Into macOS</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/the-essence-of-claude-3-what-it-does-and-how-to-use-it/"><u>The Essence of Claude 3 – What It Does & How to Use It</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/the-power-of-codegpt-can-this-ai-system-truly-master-the-art-of-programming/"><u>The Power of CodeGPT - Can This AI System Truly Master the Art of Programming?</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/the-price-tag-behind-elon-musks-new-brainchild-understanding-grok-ai-costs/"><u>The Price Tag Behind Elon Musk’s New Brainchild: Understanding Grok AI Costs</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/tips-for-faster-vimeo-video-viewing/"><u>Tips for Faster Vimeo Video Viewing</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-stuck-google-chrome-expert-tactics-to-refresh-and-continue/"><u>Troubleshooting Stuck Google Chrome – Expert Tactics to Refresh and Continue</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/new-2024-approved-navigating-the-nuances-of-premieres-fullscreen-mode/"><u>[New] 2024 Approved Navigating the Nuances of Premiere's Fullscreen Mode</u></a></li>
+<li><a href="https://techtrends.techidaily.com/customizing-your-desktop-a-step-by-step-guide-to-changing-taskbar-colors-on-windows-10/"><u>Customizing Your Desktop: A Step-by-Step Guide to Changing Taskbar Colors on Windows 10</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/free-download-of-updated-killer-network-drivers-now-available-for-windows-systems-10-8-and-7/"><u>Free Download of Updated Killer Network Drivers Now Available for Windows Systems: 10, 8, & 7</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/how-to-fix-ghosting-on-monitor-easy-steps/"><u>How to Fix Ghosting on Monitor [Easy Steps]</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/how-to-reduce-and-repair-maxed-out-cpu-performance-issues/"><u>How to Reduce and Repair Maxed Out CPU Performance Issues</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/how-to-troubleshoot-and-eliminate-latency-problems-for-wireless-keyboards-on-windows-systems/"><u>How to Troubleshoot and Eliminate Latency Problems for Wireless Keyboards on Windows Systems</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/how-to-unify-device-sync-options-in-windows-11/"><u>How to Unify Device Sync Options in Windows 11</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/improve-bluetooth-stability-and-increase-range-a-step-by-step-guide-for-pcs-with-windows-1011/"><u>Improve Bluetooth Stability and Increase Range: A Step-by-Step Guide for PCs with Windows 10/11</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/improving-multi-monitor-setup-performance-for-gamers-fixing-delays-on-windows-operating-systems/"><u>Improving Multi-Monitor Setup Performance for Gamers: Fixing Delays on Windows Operating Systems</u></a></li>
+<li><a href="https://win-dash.techidaily.com/mpow-bluetooth-drivers-free-downloads-and-updates-for-windows-11-8-and-7-users/"><u>MPOW Bluetooth Drivers: Free Downloads and Updates for Windows 11, 8 & 7 Users</u></a></li>
+<li><a href="https://os-tips.techidaily.com/step-by-step-guide-retrieving-images-from-your-itunes-data-backup/"><u>Step-by-Step Guide: Retrieving Images From Your iTunes Data Backup</u></a></li>
+<li><a href="https://some-skills.techidaily.com/synchronizing-soundscapes-a-guide-to-multi-service-moves-for-2024/"><u>Synchronizing Soundscapes A Guide to Multi-Service Moves for 2024</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-free-video-looping-software-top-10-picks-for-2024/"><u>Updated Free Video Looping Software Top 10 Picks for 2024</u></a></li>
 </ul></div>
 

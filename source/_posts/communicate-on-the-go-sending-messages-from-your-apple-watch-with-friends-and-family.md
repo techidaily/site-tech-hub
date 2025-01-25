@@ -1,7 +1,7 @@
 ---
 title: "Communicate on the Go: Sending Messages From Your Apple Watch with Friends and Family"
-date: 2025-01-16T16:36:02.975Z
-updated: 2025-01-19T19:48:34.920Z
+date: 2025-01-20T17:57:58.469Z
+updated: 2025-01-25T16:58:46.979Z
 tags:
   - apple
 categories:
@@ -27,7 +27,7 @@ New with the latest version of watchOS is a feature called Check In. Accessible 
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to check in with a friend or family member from your Apple Watch
@@ -35,7 +35,7 @@ New with the latest version of watchOS is a feature called Check In. Accessible 
 **What you'll need**: To use Check In, you have to be running watchOS 11 or higher on your Apple Watch, which requires iOS 18 or higher on your iPhone. [These Apple Watch models](https://www.zdnet.com/article/every-apple-watch-that-will-get-watchos-11-and-which-models-wont-be-supported/) can run watchOS 11.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/o-sRtqHdEYY?si=NMTMQVxJsUaoguqh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. Update your devices
@@ -48,15 +48,15 @@ Screenshot by Lance Whitney/ZDNET
 
 **Also: [I was on the fence with the Apple Watch 10, but these 3 features changed my mind](https://www.zdnet.com/article/i-was-on-the-fence-with-the-apple-watch-10-but-these-3-features-changed-my-mind/)**
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 2\. Send the default Check In through the Messages app
 
 Launch the Messages app on your Apple Watch. Start or continue a conversation with a trusted family member or friend. Tap the + icon to the left of the iMessage field. From the menu, select Check In. By default, the Check In screen will indicate a specific destination, such as home or work, and the estimated time of arrival from your current location. The feature will use a timer to determine how long it will take you to reach the destination. If you wish to share that information as is with the other person, tap Send.
 
 Screenshot by Lance Whitney/ZDNET
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 3\. View the initial Check In notification
 
@@ -74,11 +74,19 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 [See all](https://www.zdnet.com/newsletters/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 4\. View the actual Check in alert
 
 When the timer is up to indicate that you should have reached your destination, you'll be prompted to stop the Check In to confirm that you've arrived. You can add more time or cancel the Check In. Otherwise, the recipient will receive your Check In notification. If the confirmation isn't sent, more time will be added. After that, the recipient will be informed that you haven't yet checked in. They can then try to contact you by text or phone call to find out why you haven't yet arrived.
 
 Screenshot by Lance Whitney/ZDNET
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 5\. Change the time for a Check In
 
@@ -104,19 +112,11 @@ Screenshot by Lance Whitney/ZDNET
 
 **Also: [Your Apple Watch is getting an upgrade - here are the best features in WatchOS 11](https://www.zdnet.com/article/your-apple-watch-is-getting-an-upgrade-here-are-the-best-features-in-watchos-11/)**
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 8\. Set a Check In for a workout in the Messages app
 
 Maybe you're working out at the gym or at home and want to let someone know when you've finished. You can do this a couple of ways. In the Messages app on your watch, start or continue a conversation with the recipient. Tap the Add icon, select Check In, and then tap Edit. Tap the option for Check In and change it to "When workout ends." Start your workout. When you're done, swipe the screen to the right and tap End. The other person will then receive the notification.
 
 Screenshot by Lance Whitney/ZDNET
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 9\. Set a Check In for a workout in the Workout app
 
@@ -154,24 +154,21 @@ Screenshot by Lance Whitney/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-clips.techidaily.com/new-facebook-live-cutting-edge-strategies-audiences-for-2024/"><u>[New] Facebook Live Cutting-Edge Strategies Audiences for 2024</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/updated-achieving-seamless-background-blurs-in-video-calls/"><u>[Updated] Achieving Seamless Background Blurs in Video Calls</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-photo-visionaries-guide-unveiling-the-best-6-high-res-cameras/"><u>[Updated] Photo Visionaries Guide Unveiling the Best 6 High-Res Cameras</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/1715860817234-2024-approved-snap-and-save-your-android-no-price-tag/"><u>2024 Approved Snap & Save Your Android - No Price Tag!</u></a></li>
-<li><a href="https://android-frp.techidaily.com/a-quick-guide-to-oppo-a1-5g-frp-bypass-instantly-by-drfone-android/"><u>A Quick Guide to Oppo A1 5G FRP Bypass Instantly</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/exploring-the-impact-is-chatgpt-a-game-changer-for-search-engine-markets/"><u>Exploring the Impact: Is ChatGPT a Game-Changer for Search Engine Markets?</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/fraudgpt-explained-identifying-hazards-and-safeguarding-against-chatbot-scams/"><u>FraudGPT Explained: Identifying Hazards and Safeguarding Against Chatbot Scams</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/from-conversation-to-creativity-4-reasons-for-claude-3-preference/"><u>From Conversation to Creativity: 4 Reasons for Claude 3 Preference</u></a></li>
-<li><a href="https://techtrends.techidaily.com/future-tech-uncovered-projecting-googles-next-watch-pricing-launch-date-and-possible-features-explored/"><u>Future Tech Uncovered: Projecting Google's Next Watch – Pricing, Launch Date & Possible Features Explored</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/how-chatgpt-revolutionizes-home-cooking-a-guide-to-7-benefits/"><u>How ChatGPT Revolutionizes Home Cooking: A Guide to 7 Benefits</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/how-to-enable-the-latest-beta-update-on-chatgpt-navigate-online-and-use-plugins-like-never-before/"><u>How to Enable the Latest Beta Update on ChatGPT: Navigate Online & Use Plugins Like Never Before!</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/how-vpns-influence-gpt-point-to-point-engagement/"><u>How VPNs Influence GPT' Point-to-Point Engagement?</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/in-depth-showcase-testing-the-newest-dell-visual-panel-advanced-anc-headset-and-ultrasharp-webcam-unit/"><u>In-Depth Showcase: Testing the Newest Dell Visual Panel, Advanced ANC Headset, & UltraSharp Webcam Unit</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/inside-generative-ai-key-concepts-distilled/"><u>Inside Generative AI: Key Concepts Distilled</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/is-it-normal-investigating-why-chatgpt-4-is-less-rapid-than-chatgpt-35/"><u>Is It Normal? Investigating Why ChatGPT-4 Is Less Rapid Than ChatGPT-3.5</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/mastering-the-art-of-communicating-with-chatgpt-for-car-customization-help/"><u>Mastering the Art of Communicating with ChatGPT for Car Customization Help</u></a></li>
-<li><a href="https://win-able.techidaily.com/troubleshoot-and-fix-crashes-in-madden-20-on-your-computer-with-ease/"><u>Troubleshoot and Fix Crashes in Madden 20 on Your Computer With Ease</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-tips-resolving-issues-with-an-aoc-monitor-compatibility-on-windows-10/"><u>Troubleshooting Tips: Resolving Issues with an AOC Monitor Compatibility on Windows 10</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/unlock-creativity-idea-driven-youtube-channel-titles-for-2024/"><u>Unlock Creativity Idea-Driven YouTube Channel Titles for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-how-to-upload-your-music-to-youtube/"><u>[New] 2024 Approved How to Upload Your Music to YouTube</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-in-2024-pro-rated-list-the-best-5-hd-webcams-with-capture-microphones/"><u>[New] In 2024, Pro-Rated List The Best 5 HD Webcams with Capture Microphones</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/new-in-2024-upgrading-made-simple-a-compreomedmacsierra-guide/"><u>[New] In 2024, Upgrading Made Simple A CompreomedmacSierra Guide</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-perfecting-the-art-of-capturing-spoken-words-digitally/"><u>[New] Perfecting the Art of Capturing Spoken Words Digitally</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/chatgpts-role-a-trustworthy-or-a-speculative-guide-to-health/"><u>ChatGPT’s Role: A Trustworthy or a Speculative Guide to Health?</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/discover-7-amazing-free-travel-planning-apps-with-ai-and-chatgpt-features-for-instant-trip-organization/"><u>Discover 7 Amazing Free Travel Planning Apps with AI and ChatGPT Features for Instant Trip Organization</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/exploring-the-reliability-of-ai-powered-workouts-can-they-provide-safe-options-for-your-needs/"><u>Exploring the Reliability of AI-Powered Workouts: Can They Provide Safe Options for Your Needs?</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/exploring-the-use-of-chatgpt-is-it-effective-for-proofreading/"><u>Exploring the Use of ChatGPT: Is It Effective for Proofreading?</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/gratuitamente-converti-file-multimediali-con-il-trasformatore-on-line-di-qt-da-movavi/"><u>Gratuitamente Converti File Multimediali Con Il Trasformatore On-Line Di QT Da Movavi</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-getting-the-pokemon-go-gps-signal-not-found-11-error-in-infinix-note-30-pro-drfone-by-drfone-virtual/"><u>In 2024, Getting the Pokemon Go GPS Signal Not Found 11 Error in Infinix Note 30 Pro | Dr.fone</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-hassle-free-ways-to-remove-frp-lock-on-lava-yuva-2-pro-phones-withwithout-a-pc-by-drfone-android/"><u>In 2024, Hassle-Free Ways to Remove FRP Lock on Lava Yuva 2 Pro Phones with/without a PC</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/navigating-the-pitfalls-a-guide-to-why-you-shouldnt-use-chatgpt-from-your-macs-software-marketplace/"><u>Navigating the Pitfalls: A Guide to Why You Shouldn't Use ChatGPT From Your Mac’s Software Marketplace</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/reducing-ai-misconceptions-six-key-prompting-methods-explored/"><u>Reducing AI Misconceptions: Six Key Prompting Methods Explored</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/the-best-android-unlock-software-for-realme-11x-5g-device-top-5-picks-to-remove-android-locks-by-drfone-android/"><u>The Best Android Unlock Software For Realme 11X 5G Device Top 5 Picks to Remove Android Locks</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/unleash-a-local-ai-chatbot-free-gpt-4-imitation-on-your-windows-machine-with-gpt4all/"><u>Unleash a Local AI Chatbot: Free GPT-4 Imitation on Your Windows Machine with GPT4All</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/unveiling-gptzeros-role-in-spotting-ai-content/"><u>Unveiling GPTZero's Role in Spotting AI Content</u></a></li>
 </ul></div>
 

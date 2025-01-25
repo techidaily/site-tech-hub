@@ -1,7 +1,7 @@
 ---
 title: Top 6 Advantages of Using the ChatGPT Mobile App over Its Desktop Counterpart
-date: 2024-08-20T10:59:32.694Z
-updated: 2024-08-21T10:59:32.694Z
+date: 2025-01-23T16:41:39.716Z
+updated: 2025-01-25T17:54:58.698Z
 tags:
   - chatgpt
   - open-ai
@@ -30,9 +30,6 @@ thumbnail: https://thmb.techidaily.com/f6b900a7e2a78e7ffb6b0f28d526eebcba1c857a7
 
  In the AI chatbot space, ChatGPT has been the undisputed leader since its launch in November 2022\. However, with the release of Claude 3, it is increasingly looking like ChatGPT might be losing that title. Here are four reasons you should consider switching from ChatGPT to Claude.
 
-<!-- affiliate ads begin -->
-<a href="https://store.iobit.com/order/checkout.php?PRODS=1468905&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_728x90.png" border="0"></a>
-<!-- affiliate ads end -->
 ## 1 Claude Is Better at Creative Writing
 
  Besides occasional science homework, programming tasks, and fun games, one of the most popular use cases of AI chatbots is creative writing. Most users use[AI chatbots to help draft an email](https://www.makeuseof.com/use-chatgpt-write-work-emails/) , cover letter, resume, article, or song lyrics—basically one creative write-up or another. While ChatGPT has clearly been the favored option owing mostly to its brand name and publicity, Claude has consistently delivered top-notch results even in earlier iterations of the AI chatbots. But it's not just about providing top-notch results. Claude, especially backed by the latest[Claude 3 model](https://www.makeuseof.com/what-is-claude-3/) , outperforms ChatGPT in a wide range of creative writing tasks.
@@ -46,12 +43,13 @@ thumbnail: https://thmb.techidaily.com/f6b900a7e2a78e7ffb6b0f28d526eebcba1c857a7
 1. Sample 1  
 ![chatgpt using cliche writing style example](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/chatgpt-flaws-1.jpg)
 2. Sample 2  
-<!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1611407/17882" target="_top" id="1611407"><img src="//a.impactradius-go.com/display-ad/17882-1611407" border="0" alt="" width="300" height="485"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1611407/17882" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![chatgpt using cliche writing style example-1](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/chatgpt-flaws-2.jpg)
 3. Sample 3  
 ![chatgpt using cliche writing style example-2](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/chatgpt-flaws-3.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Claude, on the other hand, produced varying results four times out of five trials, avoiding the cliche on the first trial:
 
@@ -67,26 +65,29 @@ Here's ChatGPT's take:
 
 ![Coconut to wealth by ChatGPT writing example song lyrics](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/coconut-to-wealth-by-chatgpt.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=38709260&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (2-PC)  Free upgrade. No monthly fees ever. </a>
-<!-- affiliate ads end -->
 And here's Claude's take:
 
 ![Coconut to wealth by Claude writing example song lyrics](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/coconut-to-wealth-by-claude.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4531356&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8fdd149fcaa7058caccc9c4ad5b0d89a/products/tss-box.JPG" border="0">The Tube Sites Submitter is a fast and efficient tool for anyone who needs to upload videos quickly, easily and automatically to hundreds of tube sites in mere minutes . </a>
-<!-- affiliate ads end -->
  Early adopters of ChatGPT probably have a deep-rooted preference for the AI chatbot, but when it comes to creative writing, ChatGPT has some serious catching up to do in many areas.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4728277&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/1_iDeviceMessageBox.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oB9V7rZzotw?si=d4xrCbq1jKHXGAWN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 2 Claude Offers Multimodality for Free
 
 ![screengrab of the claude ai homepage](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/claude-screengrab.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Besides Google's Gemini AI chatbot, there are hardly any major AI chatbots in the market that offer Claude's multimodal features for free. With the free version of ChatGPT, all you get is text generation abilities, and that's it. No file uploads for analysis, no image processing, nothing else! On the other hand, Claude offers these premium features on its free tier. So, you can use image prompting or upload files for analysis on the chatbot for free if you use the free beta version of the bot.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 3 Larger Context Window
 
@@ -99,8 +100,9 @@ And here's Claude's take:
  Why does this even matter? Well, the larger the context window, the more text data you can process at a time without the AI chatbot making things up. Claude's 200k context window is equivalent to around 150,000 words. Yep, it means you'll theoretically be able to process 150,000 words simultaneously with Claude, while ChatGPT could cap you out at 24,000 words even on its premium tier. You see? The difference is like night and day—at least in theory.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B300x600%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-300x600.gif" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_dOmuXhsV6Y?si=aT6vgPbDx4ajjvdr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 4 More Messages Per Hour
 
  Rate limits can be a pain. You're in the middle of an interesting prompting session, you get an alert that you've reached your limit and have to wait (sometimes hours!) to get a reset. It's a huge joy killer and can set your work back hours. However, this happens both on ChatGPT and Claude, so it's an even ground on that point.
@@ -115,14 +117,11 @@ And here's Claude's take:
 
  While early adopters may have a sentimental attachment to ChatGPT, it's becoming increasingly clear that Claude is a force to be reckoned with. As the AI landscape continues to evolve, it will be fascinating to see how these titans of conversational AI push each other to new heights, ultimately benefiting users with ever-improving and more capable chatbots. The future of AI-powered interactions has never been more exciting.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -131,4 +130,23 @@ And here's Claude's take:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-webster.techidaily.com/ed-conquer-and-cease-the-unremovable-guide-to-youtube-shorts-for-2024/"><u>[Updated] Conquer & Cease The Unremovable Guide to Youtube Shorts for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-natural-vs-artificial-balancing-your-sets-illumination/"><u>[Updated] Natural Vs. Artificial Balancing Your Set's Illumination</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/5-reasons-you-cannot-use-chatgpt-for-crypto-analysis/"><u>5 Reasons You Cannot Use ChatGPT for Crypto Analysis</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/6-recurring-chatbot-hiccups-and-how-to-resolve-them-with-ease/"><u>6 Recurring Chatbot Hiccups and How To Resolve Them with Ease</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/7-key-factors-preventing-effective-chatgpt-jailbreak-strategies-from-thriving/"><u>7 Key Factors Preventing Effective ChatGPT Jailbreak Strategies From Thriving</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/a-comprehensive-guide-the-6-primary-criteria-you-must-review-when-using-chatgpt-for-mental-care/"><u>A Comprehensive Guide: The 6 Primary Criteria You Must Review When Using ChatGPT for Mental Care</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/a-detailed-breakdown-of-chatgpt-vs-huggingchat-who-wins-out/"><u>A Detailed Breakdown of ChatGPT Vs. HuggingChat - Who Wins Out?</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/accelerating-your-h2265-hevc-encode-tips-and-techniques-for-faster-performance/"><u>Accelerating Your H.2([[265) HEVC Encode - Tips and Techniques for Faster Performance</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/ace-your-conversations-is-google-bard-or-bing-chat-the-top-contender/"><u>Ace Your Conversations: Is Google Bard or Bing Chat the Top Contender?</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/advantages-unveiled-picking-microsoft-copilot-over-chatgpt-explained-in-4-key-points/"><u>Advantages Unveiled: Picking Microsoft Copilot Over ChatGPT Explained in 4 Key Points</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ting-your-valorant-videos-with-impressive-thumbnails-for-2024/"><u>Elevating Your Valorant Videos with Impressive Thumbnails for 2024</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/exploring-the-depths-of-galactic-warfare-a-thorough-review-of-star-wars-squadrons/"><u>Exploring the Depths of Galactic Warfare - A Thorough Review of Star Wars: Squadrons.</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-5-most-effective-methods-to-unlock-apple-iphone-11-pro-in-lost-mode-by-drfone-ios/"><u>In 2024, 5 Most Effective Methods to Unlock Apple iPhone 11 Pro in Lost Mode</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-eye-popping-360-cameras-deciding-the-best/"><u>In 2024, Eye-Popping 360 Cameras Deciding the Best</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210877456-9781959224976-make-your-dream-come-true/"><u>Make Your Dream Come True! | Free Book</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/scripting-a-compelling-tiktok-parting-message/"><u>Scripting a Compelling TikTok Parting Message</u></a></li>
+</ul></div>
 

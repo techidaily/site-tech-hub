@@ -1,7 +1,7 @@
 ---
 title: MacOS 15 'Sequoia' Beta Now Available for Download – Get the Latest Features on MacBook & Desktop | ZDNET
-date: 2025-01-08T16:08:32.157Z
-updated: 2025-01-13T16:44:36.975Z
+date: 2025-01-21T17:13:35.279Z
+updated: 2025-01-25T16:37:37.398Z
 tags:
   - apple
 categories:
@@ -33,12 +33,16 @@ Jason Hiner/ZDNET
 **What you need:** An iPhone running iOS 16.5 or later. Since not all iPhones are compatible with iOS 18, you'll also need a model [newer than the iPhone X](https://www.zdnet.com/article/best-iphone/).
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/o-sRtqHdEYY?si=NMTMQVxJsUaoguqh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. Go to General in your iPhone Settings
 
 Go to your iPhone's Settings and select General. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zmXpl6irBYk?si=BXjGpQr6PXFcqhCI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 2\. Go to Software Update in Settings
 
@@ -49,7 +53,7 @@ Within General, tap on Software Update. This will show you if the iOS 18 update 
 When you tap on Software Update, your iPhone will check for the latest version of iOS available. Then, you'll be able to Download and Install the new update. Your iPhone will begin the download immediately.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2ipTu54inBo?si=gRegjvtVq5gm_PHo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4\. Enter your passcode and follow steps to install
@@ -57,6 +61,10 @@ When you tap on Software Update, your iPhone will check for the latest version o
 Enter your passcode, if necessary, to authorize the installation of the new iOS on your iPhone, and follow the prompts to complete the installation.
 
 After installing the latest iOS update, your iPhone will restart.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## FAQs
 
@@ -70,10 +78,6 @@ Apple released the iOS 18 developer beta during WWDC 2024 in June, and the publi
 
 **Also: [The best iOS 18 features that will make updating your iPhone worthwhile](https://www.zdnet.com/article/the-best-ios-18-features-that-will-make-updating-your-iphone-worthwhile/)**
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Can you still download the iOS 18 public beta?
 
 You can always be part of the Apple Beta program to get the latest beta versions of iOS. Before you download a beta version of an operating system, you should have some housekeeping items in mind:
@@ -81,10 +85,6 @@ You can always be part of the Apple Beta program to get the latest beta versions
 * Back up your device and personal information.
 * Don't download beta software, which will likely have bugs and glitches, on your everyday iPhone.
 * You should go into the experience to test new features and share feedback to improve iOS, which is why beta versions are released.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### How do I install the iOS 18 beta version?
 
@@ -114,7 +114,7 @@ If you can't see this option, go to your **Settings,** select **Privacy & Securi
 If you aren't already a member of the Apple Developer Program, you can sign up to become one in the app. An annual membership costs $99.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GyfJUhsz_AY?si=x2HjoLX1B89oEPgZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3UyJuZYzjt0?si=W87GeyzVKVORAk7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### What is in iOS 18 beta 3?
@@ -161,16 +161,22 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-lab.techidaily.com/024-approved-direct-from-spotify-to-youtube-best-apps-for-streaming-conversions/"><u>[New] 2024 Approved Direct From Spotify to YouTube Best Apps for Streaming Conversions</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-in-2024-capture-every-detail-exploring-apowersofts-pc-tool/"><u>[New] In 2024, Capture Every Detail Exploring Apowersoft’s PC Tool</u></a></li>
-<li><a href="https://video-capture.techidaily.com/new-in-2024-pro-tips-record-your-macs-display/"><u>[New] In 2024, Pro Tips Record Your Mac's Display</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/enabling-autodoc-chatgpts-role-in-office-productivity/"><u>Enabling AutoDoc: ChatGPT's Role in Office Productivity</u></a></li>
-<li><a href="https://games-able.techidaily.com/enhance-xbox-experience-with-a-step-to-game-pass-ultimate/"><u>Enhance Xbox Experience with a Step to Game Pass Ultimate</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/enhancing-iphone-productivity-how-to-connect-chatgpt-to-siri/"><u>Enhancing iPhone Productivity: How to Connect ChatGPT to Siri</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/envisioned-visions-painting-with-chatgpt-and-ai-magic/"><u>Envisioned Visions: Painting with ChatGPT & AI Magic</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/essential-tips-to-kickstart-a-career-in-prompt-engineering/"><u>Essential Tips to Kickstart a Career in Prompt Engineering</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/evolutionary-leap-in-online-browsing-how-artificial-intelligence-reshapes-site-visibility/"><u>Evolutionary Leap in Online Browsing: How Artificial Intelligence Reshapes Site Visibility</u></a></li>
-<li><a href="https://fox-http.techidaily.com/iconic-lecture-labels-maker-pro-for-2024/"><u>Iconic Lecture Labels Maker Pro for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-importing-audio-steps-for-inshot-video-editing/"><u>In 2024, Importing Audio Steps for InShot Video Editing</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-in-2024-the-joyride-collection-for-young-ones/"><u>[New] In 2024, The Joyride Collection for Young Ones</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-football-film-breakdown-premier-insights-on-youtube-for-2024/"><u>[Updated] Football Film Breakdown Premier Insights on YouTube for 2024</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-navigating-zoom-video-conferencing-via-email-client/"><u>[Updated] Navigating Zoom Video Conferencing via Email Client</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/dive-into-chapters-of-suspense-with-amazons-kindle-serial-novels/"><u>Dive Into Chapters of Suspense with Amazon's Kindle Serial Novels!</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/effortless-conversion-from-pdf-to-word-on-macos-discover-the-best-free-tools-that-preserve-original-layout/"><u>Effortless Conversion From PDF to Word on macOS: Discover the Best Free Tools That Preserve Original Layout</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/effortless-conversion-of-aax-formats-to-mp3-on-your-pc-running-windows-10-or-11/"><u>Effortless Conversion of AAX Formats to MP3 on Your PC Running Windows 10 or 11</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/elevate-your-space-with-stylish-and-secure-hanging-solutions/"><u>Elevate Your Space with Stylish and Secure Hanging Solutions</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/enjoy-endless-benefits-at-no-charge-discover-top-quality-free-offerings-today/"><u>Enjoy Endless Benefits at No Charge: Discover Top-Quality Free Offerings Today!</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/enjoy-endless-stories-read-kobo-titles-on-ios-devices/"><u>Enjoy Endless Stories - Read Kobo Titles on iOS Devices</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/exploring-the-comprehensive-faqs-of-epubor-your-ultimate-resource-guide/"><u>Exploring the Comprehensive FAQs of Epubor: Your Ultimate Resource Guide</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/facing-difficulties-in-turning-books-into-ebooks-discover-how-to-overcome-common-ebook-conversion-challenges/"><u>Facing Difficulties in Turning Books Into eBooks? Discover How to Overcome Common EBook Conversion Challenges!</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-9-mind-blowing-tricks-to-hatch-eggs-in-pokemon-go-without-walking-on-xiaomi-redmi-note-12-pro-5g-drfone-by-drfone-virtual-android/"><u>In 2024, 9 Mind-Blowing Tricks to Hatch Eggs in Pokemon Go Without Walking On Xiaomi Redmi Note 12 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-how-does-the-stardust-trade-cost-in-pokemon-go-on-apple-iphone-xs-max-drfone-by-drfone-virtual-ios/"><u>In 2024, How does the stardust trade cost In pokemon go On Apple iPhone XS Max? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/is-your-honor-x9a-working-too-slow-heres-how-you-can-hard-reset-it-drfone-by-drfone-reset-android-reset-android/"><u>Is your Honor X9a working too slow? Heres how you can hard reset it | Dr.fone</u></a></li>
+<li><a href="https://techtrends.techidaily.com/understanding-and-checking-your-data-plan-utilization/"><u>Understanding and Checking Your Data Plan Utilization</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/unlocking-seamless-communication-with-top-tier-free-and-paid-zoom-applications/"><u>Unlocking Seamless Communication with Top-Tier Free & Paid Zoom Applications</u></a></li>
+<li><a href="https://techidaily.com/xiaomi-redmi-k70e-won-t-play-mp4-files-by-aiseesoft-video-converter-play-mp4-on-android/"><u>Xiaomi Redmi K70E won’t play MP4 files</u></a></li>
 </ul></div>
 

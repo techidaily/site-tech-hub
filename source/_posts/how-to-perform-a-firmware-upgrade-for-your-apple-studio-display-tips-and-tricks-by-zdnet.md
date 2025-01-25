@@ -1,7 +1,7 @@
 ---
 title: How to Perform a Firmware Upgrade for Your Apple Studio Display (Tips and Tricks by ZDNet)
-date: 2025-01-10T16:46:48.147Z
-updated: 2025-01-13T16:53:19.115Z
+date: 2025-01-22T16:44:19.336Z
+updated: 2025-01-25T17:01:20.206Z
 tags:
   - apple
 categories:
@@ -24,6 +24,10 @@ If you're going to be one of those people, read on.
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### **ZDNET** Recommends
 
 * [The best smartwatches you can buy: Apple, Samsung, Google, and more compared](https://www.zdnet.com/article/best-smartwatch/)
@@ -32,10 +36,6 @@ If you're going to be one of those people, read on.
 * [The best robot vacuum and mop combos (and if they're worth the money)](https://www.zdnet.com/article/best-robot-vacuum-mop/)
 
 You don't want to mess up this transfer, because not only could you lose data, but the next person could end up being unable to use the iPhone you sold or gave them. Follow these steps for a successful result for both of you. 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zWYVKFk3yPQ?si=Yu7xsjIYgRiq8zHk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  1\. Update
 
@@ -62,7 +62,7 @@ If your iPhone is one of these and is not running the latest version of iOS 15, 
 Next, some apps -- specifically banking apps in my experience -- prefer it if you deactivate or deauthorize them on the old iPhone before moving to a new handset. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GU08CQVsZz0?si=V-SvPfzRsQysMS0e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### read this
@@ -74,6 +74,10 @@ It's not that you can't still get the service to work, but you may have to jump 
 I'd definitely check any banking and financial apps for any special process involved in moving them to a new handset and take care of that up front. 
 
 **Also:** [**The 5 best payment apps (Venmo isn't your only option)**](https://www.zdnet.com/article/best-payment-app/)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  3\. Protect your data
 
@@ -88,7 +92,7 @@ Don't have enough iCloud space? Don't worry! Apple will let you borrow some [tem
 **Also:** [**Here's a hidden way to increase your iCloud storage**](https://www.zdnet.com/article/the-secret-hidden-way-you-can-double-apples-maximum-2tb-icloud-storage-limit/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  4\. Get ready for the transfer
@@ -132,10 +136,6 @@ Remember, once you start this process, there's no going back!
 
 **Also:** [**iOS 15 privacy and security checklist**](https://www.zdnet.com/article/ios-15-ultimate-privacy-and-security/)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### See also
 
 * [6 things you can do to give your devices a spring cleaning](https://www.zdnet.com/article/6-things-you-can-do-to-give-your-devices-a-spring-cleaning/)
@@ -144,7 +144,7 @@ Remember, once you start this process, there's no going back!
 * [How to clean a mechanical keyboard](https://www.zdnet.com/article/how-to-clean-a-mechanical-keyboard/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Wy0uYNNdMDM?si=5ir7EHlr0CkpcYOT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fo4lNZ84x9Q?si=WdcYPZp-9VJnZEnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  6\. Spring-clean your iPhone
@@ -187,21 +187,15 @@ Now you can relax and enjoy your [new iPhone](https://www.zdnet.com/article/here
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-share.techidaily.com/new-in-2024-achieving-youtube-financial-goals-via-viewer-statistics/"><u>[New] In 2024, Achieving Youtube Financial Goals via Viewer Statistics</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/new-in-2024-finding-the-ultimate-cam-choice-post-manycam/"><u>[New] In 2024, Finding the Ultimate Cam Choice Post-ManyCam</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/ed-2024-approved-making-your-own-youtube-beginnings-and-endings-cheaply/"><u>[Updated] 2024 Approved Making Your Own YouTube Beginnings & Endings Cheaply</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/updated-unlocking-secrets-the-battle-of-biometric-systems-in-phones/"><u>[Updated] Unlocking Secrets The Battle of Biometric Systems in Phones</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/exploring-the-top-features-of-an-iphone-case-with-a-standout-physical-keyboard-beyond-just-typing-techinsights/"><u>Exploring the Top Features of an iPhone Case with a Standout Physical Keyboard: Beyond Just Typing | TechInsights</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-change-gps-location-on-motorola-defy-2-easily-and-safely-drfone-by-drfone-virtual-android/"><u>How to Change GPS Location on Motorola Defy 2 Easily & Safely | Dr.fone</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/how-to-secure-your-data-when-using-tailored-generative-pre-trained-transformer-versions-like-chatgpt/"><u>How to Secure Your Data When Using Tailored Generative Pre-Trained Transformer Versions Like ChatGPT</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/24-craft-a-memorable-first-snap-your-shorts-thumbnail-blueprint/"><u>In 2024, Craft a Memorable First Snap Your Shorts' Thumbnail Blueprint</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-everything-you-need-to-know-about-unlocked-iphone-13-mini-by-drfone-ios/"><u>In 2024, Everything You Need To Know About Unlocked iPhone 13 mini</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/is-artific-intelligence-the-key-to-better-mental-support-or-could-it-lead-us-astray/"><u>Is Artific İntelligence the Key to Better Mental Support, or Could It Lead Us Astray?</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/is-superior-ai-crafting-a-fair-exchange-for-dollars/"><u>Is Superior AI Crafting a Fair Exchange for Dollars?</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/is-using-auto-gpt-without-access-to-gpt-4-worth-your-time-and-resources/"><u>Is Using Auto-GPT Without Access to GPT-4 Worth Your Time and Resources?</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/legal-considerations-when-leveraging-chatgpt-transformative-adjustments-to-googles-news-curation-and-ensuring-premium-mobile-internet-during-travel/"><u>Legal Considerations When Leveraging ChatGPT, Transformative Adjustments to Google's News Curation, & Ensuring Premium Mobile Internet During Travel</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/masterclass-building-dynamic-web-applications-via-chatgpt-integration/"><u>Masterclass: Building Dynamic Web Applications via ChatGPT Integration</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/maximize-your-scholarly-inquiry-with-4-powerful-ai-research-methods/"><u>Maximize Your Scholarly Inquiry with 4 Powerful AI Research Methods</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/streamlined-imagevideo-fx-on-mobile-devices/"><u>Streamlined Image/Video FX on Mobile Devices</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-how-to-capture-computer-screens-and-webcam-video-simultaneously-on-windows10-in-2024/"><u>[New] How to Capture Computer Screens and Webcam Video Simultaneously on Windows10, In 2024</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/chatgpts-role-in-establishing-a-sustainable-meditation-regimen/"><u>ChatGPT's Role in Establishing a Sustainable Meditation Regimen</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/comparing-conversational-ai-giants-chatgpt-vs-googles-bard-who-wins/"><u>Comparing Conversational AI Giants: ChatGPT Vs. Google's Bard – Who Wins?</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/comparison-unveiled-can-llamas-3-outperform-gpt-4/"><u>Comparison Unveiled: Can Llamas 3 Outperform GPT-4?</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/effortless-conversion-guide-transforming-swf-files-into-avi-videos/"><u>Effortless Conversion Guide: Transforming SWF Files Into AVI Videos</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/explore-the-premier-5-software-solutions-for-crafting-effective-ai-prompts-across-different-technologies/"><u>Explore the Premier 5 Software Solutions for Crafting Effective AI Prompts Across Different Technologies</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/les-convertisseurs-video-gratuits-en-ligne-les-plus-performants-pour-le-format-mp4-guide-rapide-des-meilleurs-choix/"><u>Les Convertisseurs Vidéo Gratuits en Ligne Les Plus Performants Pour Le Format MP4 - Guide Rapide Des Meilleurs Choix</u></a></li>
+<li><a href="https://win-fantastic.techidaily.com/rapid-file-retrieval-strategies-bouncing-back-from-unexpected-system-halts/"><u>Rapid File Retrieval Strategies: Bouncing Back From Unexpected System Halts</u></a></li>
+<li><a href="https://review-topics.techidaily.com/set-your-preferred-job-location-on-linkedin-app-of-your-infinix-gt-10-pro-drfone-by-drfone-virtual-android/"><u>Set Your Preferred Job Location on LinkedIn App of your Infinix GT 10 Pro | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/youtube-gaming-pros-choice-of-5-microphones-for-2024/"><u>YouTube Gaming Pros' Choice of 5 Microphones for 2024</u></a></li>
 </ul></div>
 

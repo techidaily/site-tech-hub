@@ -1,7 +1,7 @@
 ---
 title: Sharing the Top Remorse Moment of Upgrading to iOS 18 – A Common Dilemma Discussed on ZDNet
-date: 2025-01-18T17:41:25.280Z
-updated: 2025-01-19T18:10:24.148Z
+date: 2025-01-19T17:24:14.728Z
+updated: 2025-01-25T16:23:29.179Z
 tags:
   - apple
 categories:
@@ -60,7 +60,7 @@ Aside from the inferior Photos app navigation, videos in the Photos app no longe
 "The UX is a huge downgrade. It's so bad that I had to submit feedback to Apple via the feedback app in the beta. Never did one of those when it wasn't a technical bug, just pure user experience frustration," another [Redditor said](https://www.reddit.com/r/apple/comments/1e2jtq5/comment/ld1wsjg/?utm%5Fsource=share&utm%5Fmedium=web3x&utm%5Fname=web3xcss&utm%5Fterm=1&utm%5Fcontent=share%5Fbutton).
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to navigate the iOS 18 Photos app
@@ -109,24 +109,18 @@ I hope a future version of iOS 18 will bring back the Camera Roll or at least to
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-tips.techidaily.com/n-2024-rapid-reference-green-screen-basics/"><u>[New] In 2024, Rapid Reference Green Screen Basics</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/new-premium-platforms-for-hearing-westeros-tones/"><u>[New] Premium Platforms for Hearing Westeros Tones</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/new-securing-and-rediscovering-hidden-snaps-for-2024/"><u>[New] Securing and Rediscovering Hidden Snaps for 2024</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-2024-approved-capture-unrooted-sounds-in-android-4-methods/"><u>[Updated] 2024 Approved Capture Unrooted Sounds in Android [4 Methods]</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/ed-sustainable-traffic-growth-ethical-video-marketing-tips-for-2024/"><u>[Updated] Sustainable Traffic Growth Ethical Video Marketing Tips for 2024</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ed-techniques-to-slow-down-online-video-playback-49-chars/"><u>[Updated] Techniques to Slow Down Online Video Playback (49 Chars)</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/2024-approved-decoding-the-best-free-video-experience-vlc-clashes-with-mpc/"><u>2024 Approved Decoding the Best Free Video Experience VLC Clashes with MPC</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/can-you-trust-chatgpt-to-provide-correct-solutions-for-your-math-questions/"><u>Can You Trust ChatGPT to Provide Correct Solutions for Your Math Questions?</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/cease-siri-vs-chatgpt-unveiling-their-distinct-features/"><u>Cease Siri Vs. ChatGPT: Unveiling Their Distinct Features</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/chat-with-gpt-on-the-go-new-android-app-brings-powerful-language-model-to-phones/"><u>Chat with GPT on the Go – New Android App Brings Powerful Language Model to Phones</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/chatbot-advice-selecting-your-perfect-viewing-experience-with-chatgpt/"><u>Chatbot Advice: Selecting Your Perfect Viewing Experience with ChatGPT</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/counteracting-alienation-through-engaging-with-chatgpt/"><u>Counteracting Alienation Through Engaging With ChatGPT</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/crafting-tales-leveraging-chatgpt-for-epic-narratives/"><u>Crafting Tales: Leveraging ChatGPT for Epic Narratives</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/crucial-factors-to-weigh-before-utilizing-chatgpt-in-therapy-and-counseling-settings/"><u>Crucial Factors to Weigh Before Utilizing ChatGPT in Therapy and Counseling Settings</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/does-chatgpt-have-the-ability-to-tackle-arithmetic-and-algebra-puzzles/"><u>Does ChatGPT Have the Ability to Tackle Arithmetic and Algebra Puzzles?</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/elevate-your-speaking-power-with-these-top-7-tools/"><u>Elevate Your Speaking Power with These Top 7 Tools</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/elevate-your-work-processes-integrating-chatgpt-into-your-daily-operations/"><u>Elevate Your Work Processes: Integrating ChatGPT Into Your Daily Operations</u></a></li>
-<li><a href="https://discover-amazing.techidaily.com/step-by-step-guide-restoring-your-scan-tools-functionality-with-driver-reinstallation-yl-computing/"><u>Step-by-Step Guide: Restoring Your Scan Tool's Functionality with Driver Reinstallation - YL Computing</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/why-is-ipogo-not-working-on-realme-c67-4g-fixed-drfone-by-drfone-virtual-android/"><u>Why is iPogo not working On Realme C67 4G? Fixed | Dr.fone</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/updated-bold-broadcasters-on-a-budget-youtube-live-not-1000plus-supporters/"><u>[Updated] Bold Broadcasters on a Budget YouTube LIVE, Not 1000+ Supporters</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/1722205360116-create-stunning-visuals-in-minutes-top-7-ai-driven-presentation-tools-revealed/"><u>Create Stunning Visuals in Minutes: Top 7 AI-Driven Presentation Tools Revealed!</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/decoding-digital-gestures-understanding-what-swipe-left-and-swipe-right-really-signify/"><u>Decoding Digital Gestures: Understanding What 'Swipe Left' And 'Swipe Right' Really Signify</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/enhance-remote-working-efficiency-using-chatgpt-a-guide-to-6-key-methods/"><u>Enhance Remote Working Efficiency Using ChatGPT - A Guide to 6 Key Methods</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/enhancing-your-studies-with-chatgpt-best-practices-for-students/"><u>Enhancing Your Studies with ChatGPT: Best Practices for Students</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/experience-top-value-with-our-detailed-fossil-sports-watch-evaluation/"><u>Experience Top Value with Our Detailed Fossil Sports Watch Evaluation</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/exploring-the-cutting-edge-advantage-the-transformative-power-of-one-million-tokens-in-gemini-15-for-ai-contexts/"><u>Exploring the Cutting-Edge Advantage: The Transformative Power of One Million Tokens in Gemini 1.5 for AI Contexts</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/generate-stunning-visuals-with-dall-e-3-on-microsoft-bing-free-tutorial/"><u>Generate Stunning Visuals with DALL-E 3 on Microsoft Bing - Free Tutorial</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/getting-your-sound-blaster-microphone-back-on-track-a-comprehensive-guide/"><u>Getting Your Sound Blaster Microphone Back on Track: A Comprehensive Guide</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-sharefake-location-on-whatsapp-for-tecno-spark-20c-drfone-by-drfone-virtual-android/"><u>How to Share/Fake Location on WhatsApp for Tecno Spark 20C | Dr.fone</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-the-most-useful-tips-for-pokemon-go-ultra-league-on-oppo-reno-8t-5g-drfone-by-drfone-virtual-android/"><u>In 2024, The Most Useful Tips for Pokemon Go Ultra League On Oppo Reno 8T 5G | Dr.fone</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/master-quick-gpt-automation-setup-download-and-install-instructions-unveiled/"><u>Master Quick GPT Automation Setup: Download & Install Instructions Unveiled</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/zero-in-on-the-problem-discover-these-5-ways-to-help-your-canon-printer-print/"><u>Zero in on the Problem: Discover These 5 Ways to Help Your Canon Printer Print</u></a></li>
 </ul></div>
 

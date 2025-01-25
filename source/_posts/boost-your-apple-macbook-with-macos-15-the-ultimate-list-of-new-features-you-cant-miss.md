@@ -1,7 +1,7 @@
 ---
 title: "Boost Your Apple MacBook with MacOS 15: The Ultimate List of New Features You Can't Miss"
-date: 2025-01-12T20:02:20.994Z
-updated: 2025-01-19T18:40:52.465Z
+date: 2025-01-24T17:13:12.294Z
+updated: 2025-01-25T16:56:17.448Z
 tags:
   - apple
 categories:
@@ -39,7 +39,7 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LaGNHfAT92w?si=bvHo1iYK2JBIPtRo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. Apple Intelligence
@@ -57,7 +57,7 @@ Apple's approach to AI is markedly different from that of its competitors, howev
 This lets Apple disengage from the chaotic rat race to a degree, positioning itself as the careful, more ethical actor when it comes to AI, particularly in light of [recent debilitating security concerns](https://www.zdnet.com/article/after-brutal-critiques-microsoft-recall-will-get-these-major-privacy-and-security-changes/) from Microsoft's Recall feature, which is delaying the release of a host of its new [Copilot+ PCs](https://www.zdnet.com/article/every-copilot-pc-microsoft-just-announced-to-take-on-apples-m3-macbooks/).
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qbuund2HKOQ?si=NaGHqIrx8hSL7gWV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Continuity
@@ -73,7 +73,7 @@ The app also streamlines your devices by bringing your iPhone's notifications st
 Alternatively, the new standby mode on the iPhone displays a host of at-a-glance (but un-interactable) data like a clock and calendar while you're using the Continuity app on the Mac. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. Siri 2.0
@@ -88,10 +88,6 @@ During the WWDC keynote, Apple showed off Siri's new look as an ever-present AI 
 
 The new Siri also comes with on-screen awareness, allowing the AI to respond to what you're looking at on the screen without requiring the user to provide specific context with each prompt. This also allows Siri to take in-app actions in a way that wasn't possible before. In MacOS Sequoia, Siri's integration with OpenAI's LLM propels the virtual assistant to the top players in the field alongside [ChatGPT-4o](https://www.zdnet.com/article/how-to-use-chatgpt-plus-from-gpt-4o-to-interactive-tables/) and [Google's Gemini](https://www.zdnet.com/article/what-is-google-gemini/). 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 4\. AI-fueled productivity apps
 
 Screenshot by Nina Raemont
@@ -104,6 +100,10 @@ Apple Intelligence has been integrated across all of the big productivity apps i
 * **Photos:** AI-based photo editing features in the Photos app allow users to make touch-ups, remove backgrounds, and do editing instantaneously. Additionally, searching for specific photos and videos using natural language will bring up images of specific people or events.
 * **Notes:** Voice functionality is coming to the Notes app, with the ability to add voice memos directly embedded into your notes. AI will also support audio transcription and transcripts of audio recordings. You can record and transcribe audio, and when your recording is finished, the AI will create a summary on its own.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 5\. New and improved Safari
 
 Screenshot by Nina Raemont
@@ -115,7 +115,7 @@ Safari will see a host of improvements powered by AI functionality, including an
 Apple demoed Safari's machine learning capability to automatically detect relevant information on a webpage, including things like quick links, directions, and quick summaries with logistical information like phone numbers and addresses. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 6\. Standalone Passwords app
@@ -162,19 +162,22 @@ Apple wants to create a "unified gaming platform" across the iPhone, iPad, and M
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-tips.techidaily.com/new-2024-approved-picsart-app-insights-comprehensive-review-and-walkthrough/"><u>[New] 2024 Approved PicsArt App Insights Comprehensive Review and Walkthrough</u></a></li>
-<li><a href="https://fox-links.techidaily.com/new-in-2024-step-into-windows-xp-a-filmmakers-companion/"><u>[New] In 2024, Step Into Windows XP A Filmmaker's Companion</u></a></li>
-<li><a href="https://fox-http.techidaily.com/updated-2024-approved-transformative-tech-effortlessly-turning-phones-into-vr-gear/"><u>[Updated] 2024 Approved Transformative Tech Effortlessly Turning Phones Into VR Gear</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-asian-miniature-villages-in-creative-sphere-of-mc-for-2024/"><u>[Updated] Asian Miniature Villages in Creative Sphere of MC for 2024</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/2024-approved-a-comprehensive-review-of-the-hp-envy-27s-4k-tech/"><u>2024 Approved A Comprehensive Review of the HP Envy 27'S 4K Tech</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/2024-approved-single-frame-snipping-capturing-stillness-from-videos-in-photos/"><u>2024 Approved Single-Frame Snipping Capturing Stillness From Videos in Photos</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/exclusive-black-friday-offer-grab-the-last-of-our-discounted-79-lenovo-chromebooks-before-cyber-monday-ends/"><u>Exclusive Black Friday Offer: Grab the Last of Our Discounted $79 Lenovo Chromebooks Before Cyber Monday Ends!</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/1723202570118-fixing-windows-11-slideshow-and-customized-screen-saver-problems-expert-solutions/"><u>Fixing Windows 11 Slideshow & Customized Screen Saver Problems - Expert Solutions</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/navigating-chatgpt-in-a-portable-world/"><u>Navigating ChatGPT in a Portable World</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/optimizing-your-world-how-chatgpt-can-revolutionize-your-lifestyle/"><u>Optimizing Your World: How ChatGPT Can Revolutionize Your Lifestyle</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/overcoming-6-typical-mishaps-in-chatgpt-conversations/"><u>Overcoming 6 Typical Mishaps in ChatGPT Conversations</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/pioneering-idea-generation-discover-the-leading-5-ai-engines/"><u>Pioneering Idea Generation: Discover the Leading 5 AI Engines</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/preventing-missteps-in-using-chatgpt-to-generate-compelling-content/"><u>Preventing Missteps in Using ChatGPT to Generate Compelling Content</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/privacy-in-dialogue-bot-safeguarding-strategies/"><u>Privacy in Dialogue: Bot Safeguarding Strategies</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-2024-approved-styling-your-content-a-compreran-guide-to-insta-photo-watermarks/"><u>[New] 2024 Approved Styling Your Content A Compreran Guide to Insta Photo Watermarks</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-in-2024-the-fleeting-feed-of-fb-shorts/"><u>[New] In 2024, The Fleeting Feed of FB Shorts</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-twitter-video-requirements-how-to-upload-a-video-on-twitter/"><u>[New] Twitter Video Requirements | How to Upload a Video on Twitter?</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/8-safe-and-effective-methods-to-unlock-your-iphone-6-without-a-passcode-by-drfone-ios/"><u>8 Safe and Effective Methods to Unlock Your iPhone 6 Without a Passcode</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/1723807883558-calcineurin-inhibitors-are-an-experimental-option-for-treatment-resistant-lupus-nephritis-and-should-be-considered-based-on-clinical-evidence/"><u>Calcineurin Inhibitors Are an Experimental Option for Treatment-Resistant Lupus Nephritis and Should Be Considered Based on Clinical Evidence</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/1723807875667-find-out-what-motherboard-you-have-easily/"><u>Find Out What Motherboard You Have Easily!</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-changefake-your-samsung-galaxy-a15-4g-location-on-viber-drfone-by-drfone-virtual-android/"><u>How to Change/Fake Your Samsung Galaxy A15 4G Location on Viber | Dr.fone</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/o-reverse-a-youtube-playlist/"><u>How to Reverse a YouTube Playlist</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-unlock-honor-x50-phone-password-without-factory-reset-by-drfone-android/"><u>In 2024, How to Unlock Honor X50 Phone Password Without Factory Reset?</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/seamless-driver-download-for-hp-officejet-5740-a-step-by-step-tutorial/"><u>Seamless Driver Download for HP OfficeJet 5740: A Step-by-Step Tutorial</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/unleash-creativity-with-these-15-amazing-free-themes-for-windows-11-systems/"><u>Unleash Creativity with These 15 Amazing Free Themes for Windows 11 Systems</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/upgrading-your-pc-a-comprehensive-guide-to-the-latest-windows-11-update/"><u>Upgrading Your PC: A Comprehensive Guide to the Latest Windows 11 Update</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/what-version-of-windows-do-i-have-1-step-to-find-out/"><u>What Version of Windows Do I Have? 1 Step to Find Out!</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/windows-10-cleanup-tutorial-how-to-remove-unnecessary-temp-files-permanently/"><u>Windows 10 Cleanup Tutorial: How to Remove Unnecessary Temp Files Permanently</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/windows-11-installation-hurdles-cleared-strategies-that-worked-for-us/"><u>Windows 11 Installation Hurdles Cleared - Strategies That Worked for Us</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/winning-strategies-how-to-adjust-mouse-sensitivity-for-dominating-fortnite-games/"><u>Winning Strategies: How to Adjust Mouse Sensitivity for Dominating Fortnite Games</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/wireless-printing-made-simple-on-windows-11-systems/"><u>Wireless Printing Made Simple on Windows 11 Systems</u></a></li>
 </ul></div>
 

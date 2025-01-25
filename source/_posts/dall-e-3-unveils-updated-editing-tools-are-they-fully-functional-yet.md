@@ -1,7 +1,7 @@
 ---
 title: DALL-E 3 Unveils Updated Editing Tools – Are They Fully Functional Yet?
-date: 2024-08-20T10:59:22.192Z
-updated: 2024-08-21T10:59:22.192Z
+date: 2025-01-19T17:45:10.478Z
+updated: 2025-01-25T17:10:07.624Z
 tags:
   - chatgpt
   - open-ai
@@ -17,6 +17,10 @@ thumbnail: https://thmb.techidaily.com/1f3c8cd99c8239124d3f11907b2c70b41c033994f
 
  OpenAI has officially launched its long-awaited ChatGPT Plugins to ChatGPT Plus users.After months of speculation regarding the internet-connected Plugins, OpenAI has pushed its Plugins live, allowing Plus users to choose whether to turn them on or not using a new Beta feature.Connecting ChatGPT to the internet has been a long-standing request for millions of ChatGPT users, and now, the moment is here.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## OpenAI Rolls Out Web Browsing and Plugins to ChatGPT Plus Users
 
  Late on May 12, 2023, an[OpenAI blog post revealed](https://help.openai.com/en/articles/6825453-chatgpt-release-notes) that ChatGPT's Plugin feature would become available to ChatGPT Plus users.
@@ -24,6 +28,10 @@ thumbnail: https://thmb.techidaily.com/1f3c8cd99c8239124d3f11907b2c70b41c033994f
  Up until this point, users could only[gain access to ChatGPT Plugins by signing up](https://www.makeuseof.com/how-sign-up-chatgpt-plugins/) and waiting for access.
 
 > If you are a ChatGPT Plus user, enjoy early access to experimental new features, which may change during development. We’ll be making these features accessible via a new beta panel in your settings, which is rolling out to all Plus users over the course of the next week.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/g6xXIR_Uh1A?si=TMXzklPEY50MUM05" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## What Are ChatGPT Plugins?
 
@@ -37,9 +45,6 @@ thumbnail: https://thmb.techidaily.com/1f3c8cd99c8239124d3f11907b2c70b41c033994f
 
  Unfortunately, my ChatGPT Plus account doesn't have access to any Plugins yet.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17729331&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
-<!-- affiliate ads end -->
 ## ChatGPT Can Browse the Web
 
 That's not all, though.
@@ -55,13 +60,11 @@ That's not all, though.
 ![chatgpt web browsing search may 2023 looking for examples](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/chatgpt-web-browsing-search-may-2023-looking-for-examples.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532"><img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![chatgpt web browsing search may 2023 results with source](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/chatgpt-web-browsing-search-may-2023-results-with-source.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37540879&QTY=1&AFFILIATE=108875&CART=1"><img src="https://paperscan.orpalis.com/img/content/You_prefer_to_use.png" border="0">PaperScan Professional： PaperScan Scanner Software is a powerful TWAIN & WIA scanning application centered on one idea: making document acquisition an unparalleled easy task for anyone.</a>
-<!-- affiliate ads end -->
 Close
 
  As you can see from the images above, ChatGPT Plus correctly identified Max Verstappen—though I did need to prompt the tool to continue.
@@ -70,12 +73,13 @@ Close
 
 ![chatgpt web browsing search may 2023 f1 world champs](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/chatgpt-web-browsing-search-may-2023-f1-world-champs.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453719/17020" target="_top" id="1453719"><img src="//a.impactradius-go.com/display-ad/17020-1453719" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453719/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  On both occasions, ChatGPT provided a source for its information, and on both occasions, it was accurate.
 
  Now, these aren't the most challenging data searches, but it shows that ChatGPT's Web Browsing tool is up and running proper.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How to Enable ChatGPT Plugins and Web Browsing
 
@@ -83,9 +87,6 @@ Close
 
 ![chatgpt beta tools may 2023](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/chatgpt-beta-tools-may-2023.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4691139&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/SU-200-1.png" border="0">Software Update Pro - Check and update software installed on your computer. </a>
-<!-- affiliate ads end -->
 1. Head to your**Settings** in the bottom left-hand corner of the ChatGPT screen
 2. Select**Settings**
 3. Select**Beta features**
@@ -96,8 +97,9 @@ Close
  From here, you can select either Web Browsing to enable web-connected search or select**Plugin Store** to begin installing and enabling Plugins.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267"><img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## ChatGPT Is Finally Connected to the Internet
 
  Internet-connected ChatGPT is finally here. Although the Web Browsing and Plugins are limited to ChatGPT Plus currently, it won't be long until regular ChatGPT users can gain access to internet-powered generative AI.
@@ -106,14 +108,11 @@ Close
 
  The generative AI wars are truly underway, and the rapid development will bring tools to the consumer faster than ever. The only question is whether humans can keep up.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -122,4 +121,21 @@ Close
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-lab.techidaily.com/024-approved-angles-of-perspective-youtubes-path-to-dynamic-video-editing/"><u>[New] 2024 Approved Angles of Perspective YouTube's Path to Dynamic Video Editing</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/new-2024-approved-carving-a-path-individuality-in-the-face-of-tiktok-influencers/"><u>[New] 2024 Approved Carving a Path Individuality in the Face of TikTok Influencers</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/n-2024-from-clicks-to-cash-the-systematic-triple-pathway-for-youtube-revenue-tracking/"><u>[New] In 2024, From Clicks to Cash The Systematic Triple Pathway for YouTube Revenue Tracking</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-slick-quick-fades-in-premiere/"><u>[New] Slick Quick Fades in Premiere</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-fps-titans-ranking-gamings-elite-shooters/"><u>[Updated] FPS Titans Ranking Gaming's Elite Shooters</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-professional-video-editing-does-m1-macbook-air-hold-up-for-2024/"><u>[Updated] Professional Video Editing Does M1 MacBook Air Hold Up for 2024</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/a-guide-to-the-openai-api-and-what-you-can-do-with-it/"><u>A Guide to the OpenAI API and What You Can Do With It</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/ace-your-pitches-tips-on-creating-persuasive-proposals-with-the-help-of-chaturbate/"><u>Ace Your Pitches: Tips on Creating Persuasive Proposals with the Help of Chaturbate</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/1721780775795-ai-chatbot-pitfalls-for-writers-understand-the-top-8-risks/"><u>AI Chatbot Pitfalls for Writers - Understand the Top 8 Risks</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/ai-for-everyone-start-your-journey-with-our-top-9-online-spaces/"><u>AI for Everyone: Start Your Journey with Our Top 9 Online Spaces</u></a></li>
+<li><a href="https://techidaily.com/how-to-factory-reset-honor-x50i-without-losing-data-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Honor X50i without Losing Data | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-use-life360-on-windows-pc-for-samsung-galaxy-a15-4g-drfone-by-drfone-virtual-android/"><u>How to Use Life360 on Windows PC For Samsung Galaxy A15 4G? | Dr.fone</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/1722210782294-no-membership-necessary-gpt-4-available-to-all-with-platinum-benefits-still-worth-it/"><u>No Membership Necessary: GPT-4 Available to All, with Platinum Benefits Still Worth It.</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/photo-edit-pro-tips-hide-identities-effectively/"><u>Photo Edit Pro Tips Hide Identities Effectively</u></a></li>
+</ul></div>
 

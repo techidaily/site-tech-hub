@@ -1,7 +1,7 @@
 ---
 title: Essential AI Tools for Accurate and Convenient Notes Recording
-date: 2024-08-20T11:02:02.529Z
-updated: 2024-08-21T11:02:02.529Z
+date: 2025-01-24T16:27:09.222Z
+updated: 2025-01-25T17:00:57.386Z
 tags:
   - chatgpt
   - open-ai
@@ -15,11 +15,19 @@ thumbnail: https://thmb.techidaily.com/c3ba901f926249b24c063d003163e0cc5d148f077
 
 ## DALL-E 3 Reveals Integrated Editing Tools - Time to Polish and Perfect Them
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3C51hzX46eY?si=o5qiDSkT7mXUGm3F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Quick Links
 
 * [What Are DALL-E 3's Editing Tools?](https://www.makeuseof.com/how-dalle-3-editing-tools-work/#what-are-dall-e-3-39-s-editing-tools)
 * [How to Use DALL-E 3's Editing Tool](https://www.makeuseof.com/how-dalle-3-editing-tools-work/#how-to-use-dall-e-3-39-s-editing-tool)
 * [DALL-E's Editing Tools Are Useful, But Need Work (and a Little Persistence)](https://www.makeuseof.com/how-dalle-3-editing-tools-work/#dall-e-39-s-editing-tools-are-useful-but-need-work-and-a-little-persistence)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Key Takeaways
 
@@ -33,6 +41,10 @@ thumbnail: https://thmb.techidaily.com/c3ba901f926249b24c063d003163e0cc5d148f077
 
  The only issue is that they don't do what OpenAI advertises, and it's a mixed bag as to whether you'll get the edits you want. But still, it's a start of what's to come for DALL-E 3 editing, and this is how they work.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What Are DALL-E 3's Editing Tools?
 
  They've been a while coming, but OpenAI has finally added editing functionality to DALL-E 3 in ChatGPT Plus. Prior to this, you could attempt to make edits to your DALL-E 3 creations, but it would typically always result in a completely fresh image being generated. Even if the prompts used to create the edited image were extremely similar to the first prompt, due to the very nature of generative AI, the output could be significantly different.
@@ -41,9 +53,6 @@ thumbnail: https://thmb.techidaily.com/c3ba901f926249b24c063d003163e0cc5d148f077
 
 ![dalle 3 editing tools example](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/06/dalle-3-editing-tools-example.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i110150.net/c/5597632/924299/11305" target="_top" id="924299"><img src="//a.impactradius-go.com/display-ad/11305-924299" border="0" alt="" width="520" height="100"/></a>
-<!-- affiliate ads end -->
 However, it's a mixed bag.
 
 [OpenAI's official blog](https://help.openai.com/en/articles/9055440-editing-your-images-with-dall-e) example shows DALL-E adding cherry blossoms to a Ukiyo-e-style image of cat, and it working perfectly. In my experience, DALL-E's editing tools struggle to add such detailed imagery to an existing image and, for the most part, can't process requests of this nature.
@@ -54,9 +63,6 @@ However, it's a mixed bag.
 
  The best way to show you what DALL-E 3's editing tool can do is with some proper examples.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BOutlook%2BRecovery"><img src="https://www.systoolsgroup.com/box/outlook-recovery.png" border="0"></a>
-<!-- affiliate ads end -->
 ### Removing and Erasing
 
  DALL-E 3's editing tools can erase some small features, but it definitely struggles. In the following image, I'd asked DALL-E to create "A robotic hand holding a glowing, transparent square chip with 'AI Accelerated' written on it. The background is dark blue, creating a futuristic and high-tech atmosphere."
@@ -69,9 +75,6 @@ Close
 
 Close
 
-<!-- affiliate ads begin -->
-<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254762&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/11_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
-<!-- affiliate ads end -->
 ### Adding and Changing
 
  DALL-E 3 can make some changes to images, but again, it depends on the scale of what you're asking. Small additions and changes are possible, but most of the time, DALL-E's editing tool can't process what is asked.
@@ -84,9 +87,6 @@ Close
 
 ![dalle 3 editing tools close up human eye changed colour](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/06/dalle-3-editing-tools-close-up-human-eye-changed-colour.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793237/19578" target="_top" id="1793237"><img src="//a.impactradius-go.com/display-ad/19578-1793237" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793237/19578" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  The color is slightly dull but unchanged, and some features are warped slightly.
 
  Next up, I prompted DALL-E to "create a 4k 2:1 claymation style image of a person wearing a tiger onesie skiing down a slope with a yeti background."
@@ -98,8 +98,9 @@ Close
 ![dalle 3 editing tools yeti removed from image](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/06/dalle-3-editing-tools-yeti-removed-from-image.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075482/7443" target="_top" id="2075482"><img src="//a.impactradius-go.com/display-ad/7443-2075482" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075482/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5OmJZ4Z8jgk?si=YIoEaPI8geoiFSYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Instead of swapping the yeti for a different animal, it's just completely gone. Instead, I returned to the original image and asked it to add another yeti, which it failed to do. It similarly failed when asked to add more trees to the image.
 
 ### Adding Text
@@ -113,22 +114,20 @@ Close
 Close
 
 <!-- affiliate ads begin -->
-<a href="https://mindmanager.sjv.io/c/5597632/1787667/20231" target="_top" id="1787667"><img src="//a.impactradius-go.com/display-ad/20231-1787667" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1787667/20231" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## DALL-E's Editing Tools Are Useful, But Need Work (and a Little Persistence)
 
  I've found that DALL-E's editing tools are useful for certain tasks, but it takes some time to get the editing right. At other times, it just won't work, and you're probably better off taking your original prompt and tweaking that to create a new image.
 
  DALL-E's editing tools will likely improve over time, but until then, you might be better off editing your image with an image editing tool rather than going through multiple time-consuming rounds of conversation with DALL-E. When it works, it's good; when it doesn't understand or doesn't make the edit at all, it's frustrating.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -137,4 +136,26 @@ Close
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://desktop-recording.techidaily.com/new-in-2024-instantgrabbed-extendedcapture/"><u>[New] In 2024, InstantGrabbed ExtendedCapture</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-photo-frenzy-stories-of-popularity/"><u>[New] Photo Frenzy Stories of Popularity</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-multiplying-joy-sharing-a-pile-of-photos-and-videos-with-instagram-for-2024/"><u>[Updated] Multiplying Joy Sharing a Pile of Photos & Videos with Instagram for 2024</u></a></li>
+<li><a href="https://blog-min.techidaily.com/4-ways-to-transfer-music-from-vivo-y27s-to-iphone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>4 Ways to Transfer Music from Vivo Y27s to iPhone | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/full-guide-on-mirroring-your-poco-c65-to-your-pcmac-drfone-by-drfone-android/"><u>Full Guide on Mirroring Your Poco C65 to Your PC/Mac | Dr.fone</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/how-does-chatgpts-token-restriction-work-and-what-are-your-options/"><u>How Does ChatGPT's Token Restriction Work, and What Are Your Options?</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-reset-a-locked-xiaomi-redmi-note-12-5g-phone-by-drfone-android/"><u>In 2024, How to Reset a Locked Xiaomi Redmi Note 12 5G Phone</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/inside-knowledge-exploring-elon-musks-ambitious-truthgpt-project/"><u>Inside Knowledge: Exploring Elon Musk's Ambitious TruthGPT Project</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/leading-6-giant-nlp-language-models-on-the-market/"><u>Leading 6 Giant NLP Language Models on the Market</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/mac-users-guide-mastering-chatgpt-integration-and-usage/"><u>Mac Users Guide: Mastering ChatGPT Integration and Usage</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/maintaining-privacy-techniques-to-avoid-chatgpt-from-remembering-our-dialogues/"><u>Maintaining Privacy: Techniques to Avoid ChatGPT From Remembering Our Dialogues</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/master-the-art-of-text-based-roleplay-games-using-chatgpt-for-enhanced-user-experience/"><u>Master the Art of Text-Based Roleplay Games Using ChatGPT for Enhanced User Experience</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/microsoft-integrates-artificial-intelligence-into-bing-anticipated-outcomes/"><u>Microsoft Integrates Artificial Intelligence Into Bing: Anticipated Outcomes</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/my-experience-crafting-a-podcast-episode-with-chatgpt-a-step-by-step-journey/"><u>My Experience Crafting a Podcast Episode with ChatGPT - A Step-by-Step Journey</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/navigating-openais-tools-a-user-friendly-exploration/"><u>Navigating OpenAI's Tools: A User-Friendly Exploration</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/pattern-locks-are-unsafe-secure-your-oppo-find-x6-pro-phone-now-with-these-tips-by-drfone-android/"><u>Pattern Locks Are Unsafe Secure Your Oppo Find X6 Pro Phone Now with These Tips</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/resolving-rust-issues-effective-solutions-to-wake-up-non-responsive-projects/"><u>Resolving Rust Issues: Effective Solutions to Wake Up Non-Responsive Projects</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/ultimate-guide-to-modern-mojave-dwellings-for-2024/"><u>Ultimate Guide to Modern Mojave Dwellings for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/unpredictable-shutdowns-in-w11/"><u>Unpredictable Shutdowns in W11</u></a></li>
+</ul></div>
 

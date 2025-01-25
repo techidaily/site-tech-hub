@@ -1,7 +1,7 @@
 ---
 title: "Mastering Mac OS MONTEREY: Setting Up Personalized Do Not Disturb Lists for Improved Concentration"
-date: 2025-01-16T16:41:20.866Z
-updated: 2025-01-19T17:29:32.566Z
+date: 2025-01-18T16:54:30.082Z
+updated: 2025-01-25T17:15:24.633Z
 tags:
   - apple
 categories:
@@ -27,13 +27,13 @@ So, how do you create this custom Flow? Let me show you. All you'll need to make
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RCYs8keh-Vs?si=uDC28-9yh-k6HLj4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ITtcSWvS8bo?si=4M4BfMgaabrW6148" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Create a custom Focus
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 1\. Open System Preferences
@@ -49,7 +49,7 @@ In the System Preferences window (**Figure 1**), click Notifications & Focus.
 Image: Jack Wallen
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8Y-k_3N-0OI?si=1J-aFBXLJl5b3x4h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 3\. Open the Focus tab
@@ -77,7 +77,7 @@ Image: Jack Wallen
 After naming and selecting a color/icon, click Add to save the new Focus.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Hpne0zPsZwU?si=yN5QDsG_WLb_Y3u-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/epKTCSREjhI?si=Ez_hObK1FZrmEE7f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 5\. Allowing specific notifications
@@ -95,7 +95,7 @@ From the pop-up list, select the contact(s) you want to be allowed to interrupt 
 Image: Jack Wallen
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XA_wP7rS9ww?si=LarMG3sEHAhSoL6q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 6\. Set the Focus to be enabled
@@ -140,22 +140,24 @@ Use this new Focus feature wisely, and it will help you be more productive while
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-guidance.techidaily.com/new-snippets-from-cinema-to-skillful-editors-arsenal/"><u>[New] Snippets From Cinema to Skillful Editors' Arsenal</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/ed-2024-approved-unearthing-popular-user-generated-speeches/"><u>[Updated] 2024 Approved Unearthing Popular User-Generated Speeches</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/updated-perfected-audio-for-windows/"><u>[Updated] Perfected Audio for Windows</u></a></li>
-<li><a href="https://techidaily.com/complete-tutorial-for-honor-70-lite-5g-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>Complete Tutorial for Honor 70 Lite 5G Hard Reset | Dr.fone</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/demystifying-transfer-learning-within-ai-technologies-what-you-need-to-know/"><u>Demystifying Transfer Learning Within AI Technologies: What You Need to Know</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/discover-the-ultimate-ai-powered-note-taking-tools-the-leading-six-picks/"><u>Discover the Ultimate AI-Powered Note-Taking Tools: The Leading Six Picks</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/effortless-integration-of-chatgpt-into-your-linux-environment/"><u>Effortless Integration of ChatGPT Into Your Linux Environment</u></a></li>
-<li><a href="https://win-tricks.techidaily.com/enhancing-performance-key-configuration-tweaks-for-speed-and-efficiency-with-yl-computings-solutions/"><u>Enhancing Performance: Key Configuration Tweaks for Speed & Efficiency with YL Computing's Solutions</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/enhancing-your-aerial-journey-top-10-drone-extras-and-parts/"><u>Enhancing Your Aerial Journey Top 10 Drone Extras and Parts</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/gaining-an-edge-in-the-marketplace-with-ai-companion-gpt/"><u>Gaining an Edge in the Marketplace with AI Companion, GPT</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/googles-gemini-initiative-unveiling-the-mystery-behind-its-current-objectives/"><u>Google's Gemini Initiative: Unveiling the Mystery Behind Its Current Objectives</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/gpt-powered-strategies-for-ei-development/"><u>GPT-Powered Strategies for EI Development</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/how-to-activate-accounts-on-chatgpt-telegram-and-whatsapp-without-providing-a-mobile-number/"><u>How To Activate Accounts on ChatGPT, Telegram, and WhatsApp Without Providing a Mobile Number</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/how-to-spot-a-chatgpt-phishing-siteand-what-to-do-if-you-spot-one/"><u>How to Spot a ChatGPT Phishing Site—And What to Do if You Spot One</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-trouble-with-apple-iphone-se-2020-swipe-up-try-these-11-solutions-drfone-by-drfone-ios/"><u>In 2024, Trouble with Apple iPhone SE (2020) Swipe-Up? Try These 11 Solutions | Dr.fone</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/top-10-fingerprint-lock-apps-to-lock-your-nokia-g22-phone-by-drfone-android/"><u>Top 10 Fingerprint Lock Apps to Lock Your Nokia G22 Phone</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/two-ways-to-sync-contacts-from-honor-80-pro-straight-screen-edition-to-gmail-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Two Ways to Sync Contacts from Honor 80 Pro Straight Screen Edition to Gmail | Dr.fone</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/uash-unwanted-youtube-suggested-videos-for-2024/"><u>[New] Quash Unwanted YouTube Suggested Videos for 2024</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-a-comprehensive-guide-to-instagrams-music-copyright-rules-for-2024/"><u>[Updated] A Comprehensive Guide to Instagram's Music Copyright Rules for 2024</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-srt-deep-dive-knowledge-at-your-fingertips-for-2024/"><u>[Updated] SRT Deep Dive Knowledge at Your Fingertips for 2024</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/dueling-masters-topping-10-royale-clashes-for-2024/"><u>Dueling Masters Topping 10 Royale Clashes for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/flawless-pixel-processor-windowsmac-for-2024/"><u>Flawless Pixel Processor (Windows/Mac) for 2024</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/how-to-invert-colors-in-digital-photos-for-2024/"><u>How to Invert Colors in Digital Photos for 2024</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-reset-a-realme-c67-5g-phone-that-is-locked-by-drfone-android/"><u>In 2024, How to Reset a Realme C67 5G Phone that is Locked?</u></a></li>
+<li><a href="https://program-issues.techidaily.com/maximizing-performance-unlocking-the-best-fps-settings-for-modern-warfare/"><u>Maximizing Performance: Unlocking the Best FPS Settings for Modern Warfare</u></a></li>
+<li><a href="https://fox-zero.techidaily.com/resepsi-pilihan-terbaik-dan-proses-memulihkan-partisi-dihilang-ke-dalam-cmd/"><u>Resepsi Pilihan Terbaik Dan Proses Memulihkan Partisi Dihilang Ke Dalam CMD</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/solving-installation-media-cant-be-written-to-a-gpt-disk-a-complete-guide/"><u>Solving 'Installation Media Can't Be Written to a GPT Disk': A Complete Guide</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/step-by-step-guide-enabling-remote-access-with-windows-10/"><u>Step-by-Step Guide: Enabling Remote Access with Windows 10</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/step-by-step-guide-setting-up-and-troubleshooting-miracast-on-windows-11/"><u>Step-by-Step Guide: Setting Up and Troubleshooting Miracast on Windows 11</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/step-by-step-solution-to-restore-snipping-tool-functionality-on-windows-1011/"><u>Step-by-Step Solution to Restore Snipping Tool Functionality on Windows 10/11</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/step-by-step-troubleshooting-resolving-system-locks-on-windows-11/"><u>Step-by-Step Troubleshooting: Resolving System Locks on Windows 11</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/step-by-step-tutorial-for-downloading-and-setting-up-your-google-usb-drive-support/"><u>Step-by-Step Tutorial for Downloading & Setting Up Your Google USB Drive Support</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/the-ultimate-list-of-worlds-largest-and-most-preferred-torrent-sites-top-10/"><u>The Ultimate List of World's Largest & Most Preferred Torrent Sites (Top 10)</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/toms-tech-reviews-unveiling-the-latest-in-computer-components-t17239718670261/"><u>Tom's Tech Reviews: Unveiling the Latest in Computer Components</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/top-techniques-for-enhancing-fps-in-gaming-insider-tips-and-tricks/"><u>Top Techniques for Enhancing FPS in Gaming - Insider Tips & Tricks</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/troubleshooting-guide-how-to-get-oculus-software-installed-on-windows-11-or-10-systems/"><u>Troubleshooting Guide: How to Get Oculus Software Installed on Windows 11 or 10 Systems</u></a></li>
 </ul></div>
 

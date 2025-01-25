@@ -1,7 +1,7 @@
 ---
 title: "Top 11 Must-Have Applications & Services for Windows/Mac Users: A Comprehensive Guide by ZDNet"
-date: 2025-01-18T19:57:56.458Z
-updated: 2025-01-19T16:29:52.025Z
+date: 2025-01-20T16:15:48.405Z
+updated: 2025-01-25T16:53:59.146Z
 tags:
   - apple
 categories:
@@ -19,7 +19,7 @@ One of my most popular posts last year was a [tour of my home office](https://ww
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **ZDNET** Recommends
@@ -34,10 +34,6 @@ Of course, this selection reflects my work habits and my personal preferences. Y
 
 **See also:** [My five favorite free Windows 10 utilities](https://www.zdnet.com/article/windows-10-my-five-favorite-free-utilities/)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Productivity
 
 Show less 
@@ -45,10 +41,6 @@ Show less
 [View now at Microsoft](https://microsoft-us.evyy.net/c/159047/434427/3327?u=https://www.microsoft.com/en-us/microsoft-365/business//&subid1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp&sharedId=zdnet)
 
 ## Microsoft 365 apps for Business
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### It's not just a bundle anymore
 
@@ -92,14 +84,10 @@ Show less
 
 [View now at Adobe Acrobat](https://www.adobe.com/products/catalog.html#category=pdf)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/793ViIxl4tI?si=DDBkjPlPX5bZ-f1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Adobe Acrobat Pro DC
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vPGg53vbOsk?si=CkSEN5HFPS7vDuAa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### From the inventor of the PDF standard
@@ -114,6 +102,10 @@ Show less
 
 [View now at Quicken](https://go.shopyourlikes.com/pi/de0d8ba2852fb0f3e2424bb37baf8478e8f2e34e?afId=614548&afCampaignId=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp&afCreativeId=2993&afPlacementId=2)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Quicken Home and Business
 
 ### I hate it, but I use it
@@ -123,6 +115,10 @@ A gazillion years ago, a famous household brand sold a lot of mouthwash with ads
 The good news is that Quicken's support staff is responsive and knowledgeable, and the user base is so large that you can quickly find an answer if you run into one of those quarterly bugs. And the $104-a-year subscription is tax-deductible.
 
 Show Expert Take Show less 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Browser and extensions
 
@@ -145,10 +141,14 @@ Show less
 [View now at 1Password](https://www.anrdoezrs.net/links/9041660/type/dlg/sid/zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp/https://1password.com/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1Password
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jnITUsxMz5s?si=ohwRVH6eWhVnC6Xf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Everyone needs a password manager
 
@@ -178,11 +178,11 @@ Show less
 
 [View now at Spotify](https://www.spotify.com/us/premium/?referral=cbs&utm%5Fcampaign=cbs)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Spotify Music
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fHWdQw1gRyI?si=ve9wZnPupiooLThG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### No music app is perfect, but Spotify is best all around
 
@@ -196,11 +196,11 @@ Show less
 
 [View now at VLC Media Player](https://www.videolan.org/vlc/)
 
-## VLC Media Player
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+## VLC Media Player
 
 ### Free, open source, handles every format imaginable
 
@@ -213,7 +213,7 @@ Show less
 [View now at MediaMonkey](https://www.mediamonkey.com/download/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zmXpl6irBYk?si=BXjGpQr6PXFcqhCI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## MediaMonkey
@@ -256,20 +256,16 @@ Show Expert Take Show less
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-video-capture.techidaily.com/updated-in-2024-mastering-your-video-projects-with-superior-recorder-software/"><u>[Updated] In 2024, Mastering Your Video Projects with Superior Recorder Software</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/2024-approved-asmr-and-you-understanding-its-healing-power/"><u>2024 Approved ASMR and You Understanding Its Healing Power</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/2024-approved-best-practices-in-converting-videos-for-twitter/"><u>2024 Approved Best Practices in Converting Videos for Twitter</u></a></li>
-<li><a href="https://youtube-video-recordings.techidaily.com/boosting-views-mastering-hashtags-in-freefire-vids/"><u>Boosting Views Mastering Hashtags in FreeFire Vids</u></a></li>
-<li><a href="https://driver-download.techidaily.com/download-hp-laserjet-pro-p1102w-printer-software-on-windows/"><u>Download HP LaserJet Pro P1102W Printer Software on Windows</u></a></li>
-<li><a href="https://common-error.techidaily.com/how-to-fix-the-0x80070490-windows-update-error-successfully/"><u>How to Fix the 0X80070490 Windows Update Error Successfully</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/in-2024-quick-fire-photos-with-iphone-burst-feature/"><u>In 2024, Quick-Fire Photos with iPhone Burst Feature</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/pros-and-cons-why-you-may-want-to-skip-the-chatgpt-app-download/"><u>Pros and Cons: Why You May Want to Skip the ChatGPT App Download</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/sd-card-unseen-solutions-await/"><u>SD Card Unseen? Solutions Await!</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/step-by-step-chatgpt-installation-guide/"><u>Step-by-Step ChatGPT Installation Guide</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/strategic-synergy-how-chatgpt-enhances-analytical-prowess/"><u>Strategic Synergy: How ChatGPT Enhances Analytical Prowess</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/streamline-scriptwriting-for-videos-the-chatgpt-way/"><u>Streamline Scriptwriting for Videos - The ChatGPT Way</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/the-chatgpt-advantage-for-writing-subtly-sensitive-company-emails/"><u>The ChatGPT Advantage for Writing Subtly Sensitive Company Emails</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/the-evolutionary-path-of-ai-analyzing-and-comparing-the-advancements-in-openais-generative-pre-trained-transformer-models-from-gpt-1-to-gpt-4/"><u>The Evolutionary Path of AI: Analyzing and Comparing the Advancements in OpenAI’s Generative Pre-Trained Transformer Models From GPT-1 to GPT-4</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/the-misuse-of-ai-for-cybercrimes-discovering-5-key-tactics/"><u>The Misuse of AI for Cybercrimes - Discovering 5 Key Tactics</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-lightning-fast-windows-evaluation-path/"><u>[New] Lightning-Fast Windows Evaluation Path</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/effective-group-meetings-googles-top-solutions-4-for-2024/"><u>Effective Group Meetings Google's Top Solutions (#4) for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/emulator-showdown-on-the-pi-retropie-vs-batocera/"><u>Emulator Showdown on the Pi: RetroPie Vs. Batocera</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/epson-printer-installation-guide-step-by-step-tutorial-for-smooth-setup/"><u>Epson Printer Installation Guide: Step-by-Step Tutorial for Smooth Setup</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/expert-recommended-6-online-apps-to-delete-background-perfectly-for-2024/"><u>Expert-Recommended 6 Online Apps to Delete Background Perfectly for 2024</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/fortnite-mastery-a-step-by-step-tutorial-for-newbies-starting-on-pc/"><u>Fortnite Mastery: A Step-by-Step Tutorial for Newbies Starting on PC</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/how-to-connect-an-xbox-one-controller-to-a-pc-2024-guide/"><u>How to Connect an Xbox One Controller to a PC - 2024 Guide</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/how-to-fix-windows-store-unresponsive-issues-in-windows-11-a-step-by-step-guide/"><u>How to Fix 'Windows Store Unresponsive' Issues in Windows 11: A Step-by-Step Guide</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/in-2024-action-avalon-10-thrilling-titles-comparable-to-gta-v/"><u>In 2024, Action Avalon 10 Thrilling Titles Comparable To GTA V</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/24-unlocking-youtube-success-seo-strategies-for-videos/"><u>In 2024, Unlocking YouTube Success SEO Strategies for Videos</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/quick-fix-turn-off-your-pcs-lock-screen-with-these-simple-tips-windows-10/"><u>Quick Fix: Turn Off Your PC's Lock Screen with These Simple Tips (Windows 10)</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Tailored Screen Time: ChatGPT's Film Recommendations"
-date: 2024-08-20T11:00:30.044Z
-updated: 2024-08-21T11:00:30.044Z
+date: 2025-01-23T17:29:38.717Z
+updated: 2025-01-25T17:25:35.811Z
 tags:
   - chatgpt
   - open-ai
@@ -16,6 +16,10 @@ thumbnail: https://thmb.techidaily.com/ffbb96c8d953d28715e16575f4499f83aab0539bb
 ## GPT-4 and Copilot Unite: Revolutionize Your Tech Skills for Free
 
  With AI chatbots becoming mainstream, companies are locking their most powerful features behind subscription paywalls. However, some companies allow free users to do more things than others. As such, if you'd like to give GPT-4 Turbo a try, using Microsoft's Copilot tool is the best way to do it.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## What Is GPT-4 Turbo?
 
@@ -34,44 +38,41 @@ thumbnail: https://thmb.techidaily.com/ffbb96c8d953d28715e16575f4499f83aab0539bb
  To get started with GPT-4 Turbo, just boot up Copilot and start talking with it. At the time of writing, Copilot will use GPT-4 Turbo by default when talking to a user on the free tier. Paid users can go back to previous models if they wish, but you don't need to worry about that if you just want to use the latest and greatest model.
 
 <!-- affiliate ads begin -->
-<a href="https://natural-cycles.sjv.io/c/5597632/2072199/17885" target="_top" id="2072199"><img src="//a.impactradius-go.com/display-ad/17885-2072199" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072199/17885" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### How to Use GPT-4 Turbo for Free on Windows 10 and 11
 
 ![Copilot prompt on Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/copilot-prompt-on-windows-11.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=12730965&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/w5/03_WBSX5_728x90_red_CTA.jpg" border="0"></a>
-<!-- affiliate ads end -->
  If you're a Windows 10 or 11 user, there's a very good chance you have a Copilot button on your taskbar. To get started with GPT-4 Turbo, just click this button and begin chatting with the chatbot when it appears.
 
  If you want to bring Copilot up faster, you can do so by pressing**Win + C** . Or, if you're lucky enough to own a[laptop with a dedicated Copilot button](https://www.makeuseof.com/microsofts-copilot-key-windows-11-pc/) , just press that to bring up the assistant at any time.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-writer-free-word-processor-1x.3d9c80d.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### How to Use GPT-4 Turbo for Free on Other Devices
 
 ![microsoft copilot answering question jan 2024](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/microsoft-copilot-answering-question-jan-2024.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713324&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVTV1.90-300x188.jpg" border="0">OtsAV TV Webcaster</a>
-<!-- affiliate ads end -->
  If you don't have a Copilot button yet or use a different operating system, you can still use the[Copilot website](https://copilot.microsoft.com/) . Open it up, start talking, and it will automatically use GPT-4 Turbo to parse your prompts.
 
  If you're on mobile, you can download the[Copilot app for Android](https://www.anrdoezrs.net/links/7251228/type/dlg/sid/UUmuoUeUpU2032122/https://play.google.com/store/apps/details?id=com.microsoft.copilot&hl=en&gl=US) or[iOS](https://apps.apple.com/us/app/microsoft-copilot/id6472538445) . The app has a toggle when you open it that enables or disables GPT-4\. It may not be the Turbo version, but it should still be powerful enough to handle your queries.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541"><img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E3yY7lZ-FKA?si=g8VEuExP8GH59B69" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## How to Get the Most Out of GPT-4 Turbo
 
 ![GPT 4 graphic with digital patterns](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/gpt-4-graphic-with-digital-patterns.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2097467/26400?prodsku=B700" target="_top" id="2097467"><img src="//a.impactradius-go.com/display-ad/26400-2097467" border="0" alt="" width="640" height="640"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097467/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/djPqRkskaBo?si=O6FEI-KVW0HwN417" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  GPT-4 Turbo is very powerful, but it's only as good as what you feed it. Here are a few tips to get the most out of GPT-4 Turbo and Copilot.
 
  Always remember that Copilot currently doesn't process its queries locally; everything gets sent back to Microsoft's servers so it can generate your answer. Be careful and avoid telling Copilot anything private or something that could identify you.
@@ -80,14 +81,11 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 
  GPT-4 Turbo is a very powerful tool, and fortunately, you don't have to pay a cent to use it. Now you know how to use the popular chatbot model for free, whether you're on a Windows PC or otherwise.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -96,4 +94,24 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://digital-screen-recording.techidaily.com/new-collaborative-screen-recording/"><u>[New] Collaborative Screen Recording</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-standout-moments-of-snowspeedcross-22-for-2024/"><u>[Updated] Standout Moments of Snowspeedcross '22 for 2024</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-top-tier-mobile-and-desktop-player-for-avis-for-2024/"><u>[Updated] Top-Tier Mobile and Desktop Player for AVIs for 2024</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-uncover-the-best-10-online-vectors-collections/"><u>[Updated] Uncover the Best 10 Online Vectors Collections</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/2024-approved-enhancing-synchronization-between-cameras-and-obs/"><u>2024 Approved Enhancing Synchronization Between Cameras and OBS</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/decoding-the-worthiness-of-apples-advanced-vision-pro/"><u>Decoding the Worthiness of Apple's Advanced Vision Pro</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/diy-dialogue-dynamics-building-custom-conversational-bots/"><u>DIY Dialogue Dynamics: Building Custom Conversational Bots</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/elevate-your-dating-game-the-impact-of-ai-companionship-via-chatgpt/"><u>Elevate Your Dating Game: The Impact of AI Companionship via ChatGPT</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/entrepreneurs-guide-navigating-through-essential-ai-applications/"><u>Entrepreneur's Guide: Navigating Through Essential AI Applications</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/essentials-unpacked-functioning-of-gpt4all/"><u>Essentials Unpacked: Functioning of GPT4All</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/exploring-chatgpt-an-introduction-to-generative-ais-capabilities/"><u>Exploring ChatGPT: An Introduction to Generative AI's Capabilities</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/exploring-significant-limitations-of-openais-chatgpt-technology/"><u>Exploring Significant Limitations of OpenAI's ChatGPT Technology</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/exploring-the-drawbacks-the-9-critical-concerns-of-using-artificial-intelligence-as-a-psychotherapist-substitute/"><u>Exploring the Drawbacks: The 9 Critical Concerns of Using Artificial Intelligence as a Psychotherapist Substitute</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/from-words-to-wisdom-distinguishing-natural-language-processing-from-machine-learning/"><u>From Words to Wisdom: Distinguishing Natural Language Processing From Machine Learning</u></a></li>
+<li><a href="https://win-cloud.techidaily.com/reviving-your-sound-card-essential-troubleshooting-tips-from-yl-tech-experts-yl-computing-support/"><u>Reviving Your Sound Card: Essential Troubleshooting Tips From YL Tech Experts | YL Computing Support</u></a></li>
+<li><a href="https://fox-http.techidaily.com/revolutionize-how-you-interact-with-tech-best-mac-tts-programs-reviewed-for-2024/"><u>Revolutionize How You Interact with Tech Best Mac TTS Programs Reviewed for 2024</u></a></li>
+<li><a href="https://video-capture.techidaily.com/unveiling-the-most-compelling-ios-apps-for-psp-gaming-for-2024/"><u>Unveiling the Most Compelling iOS Apps for PSP Gaming for 2024</u></a></li>
+</ul></div>
 

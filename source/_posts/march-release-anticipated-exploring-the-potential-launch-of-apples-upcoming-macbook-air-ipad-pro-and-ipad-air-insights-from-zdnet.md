@@ -1,7 +1,7 @@
 ---
 title: "March Release Anticipated: Exploring the Potential Launch of Apple's Upcoming MacBook Air, iPad Pro & iPad Air - Insights From ZDNet"
-date: 2025-01-09T16:02:48.538Z
-updated: 2025-01-13T16:17:17.031Z
+date: 2025-01-19T16:42:22.738Z
+updated: 2025-01-25T16:14:46.464Z
 tags:
   - apple
 categories:
@@ -39,7 +39,7 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Apple Intelligence (AI)
@@ -71,10 +71,6 @@ Jason Hiner/ZDNET
 * Apple also confirmed its partnership with OpenAI by integrating [ChatGPT](https://www.zdnet.com/article/what-is-chatgpt-and-why-does-it-matter-heres-everything-you-need-to-know/) with Siri. With a user's permission, Siri can send a request to ChatGPT for help. For example, if you ask Siri for assistance on a task it deems better for ChatGPT, Siri will suggest you use the chatbot instead and forward your request. ChatGPT's writing capabilities can also be leveraged within certain writing tasks.
 * Users can access ChatGPT via this integration for free, and OpenAI will not log their data. ChatGPT Plus users can connect their subscriptions to access more advanced features, in which case OpenAI's data usage policies apply.
 * The ChatGPT integration will be coming to iOS 18, iPadOS 18, and MacOS Sequoia later this year.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## iOS 18
 
@@ -119,7 +115,7 @@ Adam Breeden/ZDNET
 * iPadOS 18 supports **screen-sharing via SharePlay** and the same Control Center customizations, Photos app upgrades, Safari updates, and emoji Tapbacks found in **iOS 18.**
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Zgwn5kVI5V4?si=1j6j4OuSSndFieXU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## MacOS 15 (Sequoia)
@@ -134,7 +130,7 @@ Adam Breeden/ZDNET
 * Apple also launched a new **Viewer experience**, which does for video what Reader does for text.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c-BHGGIC0zE?si=FzUQKZa-bx8OlKuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## VisionOS 2
@@ -154,6 +150,10 @@ Jason Hiner/ZDNET
 * Users can **cast content** from their iPhone, iPad, or Mac to the Vision Pro using AirPlay.
 * Apple is also making the Vision Pro available in more countries starting June 28\. You can see the full list [here](https://www.apple.com/newsroom/2024/06/apple-vision-pro-arrives-in-new-countries-and-regions-beginning-june-28/).
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OFDHJnZLwTA?si=WThcb2h76AnZDzcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## AirPods
 
 Jason Hiner/ZDNET
@@ -163,7 +163,7 @@ Jason Hiner/ZDNET
 * Apple is also releasing a **Personalized Spatial Audio API** for game developers to build around the AirPods' audio technology.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/r_wWybMqZEM?si=0nPjCQDLS2MCaQbG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## tvOS 18
@@ -210,21 +210,20 @@ Screenshot by Nina Raemont/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-http.techidaily.com/new-in-2024-luminous-transformations-for-android-videos-step-by-step/"><u>[New] In 2024, Luminous Transformations for Android Videos Step by Step</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-2024-approved-best-linux-screen-capture-software-ranked/"><u>[Updated] 2024 Approved Best Linux Screen Capture Software Ranked</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-advanced-hd-screen-documentation-gadgets/"><u>[Updated] Advanced HD Screen Documentation Gadgets</u></a></li>
-<li><a href="https://fake-location.techidaily.com/all-must-knows-to-use-fake-gps-go-location-spoofer-on-xiaomi-mix-fold-3-drfone-by-drfone-virtual-android/"><u>All Must-Knows to Use Fake GPS GO Location Spoofer On Xiaomi Mix Fold 3 | Dr.fone</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/discovering-the-quintessential-5-ai-prompt-creators/"><u>Discovering the Quintessential 5 AI Prompt Creators</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/dive-into-huggingchat-how-it-matches-up-against-chatgpt-for-free/"><u>Dive Into HuggingChat: How It Matches Up Against ChatGPT for Free</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/downloading-samfw-frp-tool-30-for-motorola-edge-40-by-drfone-android/"><u>Downloading SamFw FRP Tool 3.0 for Motorola Edge 40</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/expertly-engineered-solutions-troubleshooting-with-chatai/"><u>Expertly Engineered Solutions: Troubleshooting With ChatAI</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/exploring-ai-types-comparing-the-contrast-of-strong-vs-weak-ai-systems/"><u>Exploring AI Types: Comparing the Contrast of Strong Vs. Weak AI Systems</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/exploring-the-distinctive-features-of-bert-vs-generative-pre-trained-transformer-models/"><u>Exploring the Distinctive Features of BERT Vs. Generative Pre-Trained Transformer Models</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/exploring-the-risks-the-reason-behind-hacker-interests-in-chatgpt-platforms/"><u>Exploring the Risks: The Reason Behind Hacker Interests in ChatGPT Platforms</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/future-proof-ideas-for-enhancing-chatgpts-plugin-storefront/"><u>Future-Proof Ideas for Enhancing ChatGPT's Plugin Storefront</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/in-2024-bridging-the-gap-between-spoken-words-and-text-on-slides-powerpoint-guide/"><u>In 2024, Bridging the Gap Between Spoken Words and Text on Slides PowerPoint Guide</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-quick-start-how-to-preserve-your-favorite-internet-streams/"><u>In 2024, Quick Start How To Preserve Your Favorite Internet Streams</u></a></li>
-<li><a href="https://win-able.techidaily.com/solving-the-issue-how-to-get-roblox-running-expert-strategies/"><u>Solving the Issue: How to Get Roblox Running - Expert Strategies</u></a></li>
-<li><a href="https://win11.techidaily.com/why-and-how-to-choose-effective-encoders-on-your-pc/"><u>Why and How to Choose Effective Encoders on Your PC</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-in-2024-essential-retro-filters-to-polish-video-pieces/"><u>[New] In 2024, Essential Retro Filters to Polish Video Pieces</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-creative-conceptions-selecting-the-finest-10-free-macdrawers-for-2024/"><u>[Updated] Creative Conceptions Selecting the Finest 10 FREE MacDrawers for 2024</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/updated-get-into-a-friends-live-showcase-effortlessly/"><u>[Updated] Get Into a Friend's Live Showcase Effortlessly</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/chatbot-revolution-for-ubuntu-users-crafting-ai-interactions-via-the-terminal-and-shellgpt-tools/"><u>Chatbot Revolution for Ubuntu Users: Crafting AI Interactions via the Terminal and ShellGPT Tools</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/digital-vigilance-compromised-by-ai-limitations/"><u>Digital Vigilance Compromised by AI Limitations</u></a></li>
+<li><a href="https://techtrends.techidaily.com/discover-the-ultimate-list-of-10-premium-free-email-accounts/"><u>Discover the Ultimate List of 10 Premium Free Email Accounts</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/effortless-conversion-turning-avis-into-gifs-with-filmora-software/"><u>Effortless Conversion Turning AVIs Into GIFs with Filmora Software</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-use-group-policy-for-msi-service-adjustment/"><u>How to Use Group Policy for MSI Service Adjustment</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/ideal-add-ons-maximizing-chatgpt-in-vs-code-environment/"><u>Ideal Add-Ons: Maximizing ChatGPT in VS Code Environment</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/in-2024-amplify-your-contents-reach-with-optimal-publishing-days/"><u>In 2024, Amplify Your Content's Reach with Optimal Publishing Days</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/language-model-face-off-comparative-insights-into-gpt-and-bert/"><u>Language Model Face-Off: Comparative Insights Into GPT and BERT</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/protect-yourself-from-fake-chatgpt-websites-detection-techniques/"><u>Protect Yourself From Fake ChatGPT Websites: Detection Techniques</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/skeptics-playlist-free-pc-games-reviewed/"><u>Skeptic's Playlist: Free PC Games Reviewed</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/top-12-prominent-honor-magic-5-lite-fingerprint-not-working-solutions-by-drfone-android/"><u>Top 12 Prominent Honor Magic 5 Lite Fingerprint Not Working Solutions</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/top-popular-meme-ideas-for-every-occasion/"><u>Top Popular Meme Ideas for Every Occasion</u></a></li>
 </ul></div>
 

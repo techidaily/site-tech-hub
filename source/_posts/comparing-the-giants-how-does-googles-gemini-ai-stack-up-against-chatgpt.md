@@ -1,7 +1,7 @@
 ---
 title: "Comparing the Giants: How Does Google's Gemini AI Stack Up Against ChatGPT?"
-date: 2024-08-20T11:02:35.633Z
-updated: 2024-08-21T11:02:35.633Z
+date: 2025-01-22T16:45:01.943Z
+updated: 2025-01-25T16:20:34.657Z
 tags:
   - chatgpt
   - open-ai
@@ -43,11 +43,16 @@ There are currently three variations of the model:
  You can now access all three GPT-4 models by subscribing to OpenAI’s API services, interacting with ChatGPT, or through services such as Descript, Perplexity AI, and the[various copilots from Microsoft](https://www.makeuseof.com/microsoft-ai-copilot-which-you-should-use/) .
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4665597&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pcclean.io/wp-content/uploads/2018/03/winutilities-box-130521.png" border="0">WinUtilities Pro</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## What Is Llama 3?
 
 ![Asking Llama 3 using chat](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/06/28948759-e06d-4eca-9dc6-df6a41cf888a.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Llama 3 is an open-source LLM developed by Meta AI (parent company of Facebook, Instagram, and WhatsApp), trained using a combination of supervised fine-tuning, rejection sampling, and policy optimization with a diverse dataset including millions of human-annotated examples. Its training focused on high-quality prompts and preference rankings, aiming to create a versatile and capable AI model.
 
@@ -55,10 +60,6 @@ There are currently three variations of the model:
 
  You can access Llama 3 through[Meta AI](https://www.meta.ai/) , its generative AI chatbot. Alternatively, you can run the LLMs locally on your computer by downloading Llama 3 models and loading them through Ollama, Open WebUI, or LM Studio.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4599951&QTY=1&AFFILIATE=108875&CART=1"><iframe width="864" height="500" src="https://www.youtube.com/embed/jVnfr5HudQw" title="The Latest and Easiest Solution to Remove Kindle DRM on Windows (without Degrading)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-Epubor Ultimate for Win：Helps you read books anywhere, including the best eBook Converter + eBook DRM Removal functions.</a>
-<!-- affiliate ads end -->
 ## Multimodality
 
  The release of GPT-4o has finally delivered on the initial marketing of GPT-4 having multimodal capabilities. These multimodal features can now be accessed by interacting with ChatGPT using the GPT-4o model. As of June 2024, GPT-4o doesn’t have any integrated way of generating video and audio. However, it does have capabilities to generate text and images based on video and audio inputs.
@@ -66,10 +67,9 @@ Epubor Ultimate for Win：Helps you read books anywhere, including the best eBoo
  Llama 3 is also planning to provide a multimodal model for the upcoming Llama 3 400B. It will most likely integrate similar technologies to CLIP (Contrast Language-Imager Pre-Training) to generate images using[zero-shot learning](https://www.makeuseof.com/what-is-zero-shot-learning-can-it-improve-ai/) techniques. But since Llama 400B is still in training, the only way for the 8B and 70B models to generate images is to use extensions such as the LLaVa, Visual-LLaMA, and LLaMA-VID. As of now, Llama 3 is purely a language-based model that can take text, image, and audio as inputs for generating text.
 
 <!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296685&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2022/video-pp/ScreenshotSlider/Nero-Video-Advanced-editing.JPG" border="0">Simple and intuitive video editing
-🎬 Nero Video:
-The powerful video editing program for your Windows PC</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Context Length
 
  Context length refers to the amount of text a model can process at once. It is an important factor when considering an LLM’s capability as it dictates the amount of context the model can work with when interacting with users. In general, a higher context length makes an LLM better as it provides a higher level of coherence, continuity, and can reduce repetitions of errors during interactions.
@@ -112,17 +112,15 @@ Here’s what each criterion evaluates:
  The recent benchmarks highlight the performance difference between GPT-4 and Llama 3 models. Though the Llama 3 8B model seems to lag significantly behind, the 70B and 400B models provide lower but similar results to both GPT-4o and GPT-4 Turbo models in terms of academic and general knowledge, reading and comprehension, reasoning and logic, and coding. However, no Llama 3 model is yet to come close to the performance of GPT-4 in terms of pure mathematics.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Cost
 
  Cost is a critical factor for many users. OpenAI's GPT-4o model is available to all ChatGPT users for free at a 16-message limit every 3 hours. If you need more, then you'll have to subscribe to ChatGPT Plus, which costs $20 USD per month to expand GPT-4o's message limit to 80 while also having access to the other GPT-4 models.
 
  On the other hand, both Llama 3 8B and 70B models are free and open-source, which can be a significant advantage for developers and researchers looking for a cost-effective solution without compromising on performance.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4599952&QTY=1&AFFILIATE=108875&CART=1"><iframe width="864" height="500" src="https://www.youtube.com/embed/jVnfr5HudQw" title="The Latest and Easiest Solution to Remove Kindle DRM on Windows (without Degrading)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>Epubor Ultimate for Mac:Helps you read books anywhere, including the best eBook Converter + eBook DRM Removal functions.</a>
-<!-- affiliate ads end -->
 ## Accessibility
 
  GPT-4 models are widely accessible through OpenAI's ChatGPT generative AI chatbot and through its API. You can also use GPT-4 on Microsoft Copilot, which is[one way you can use GPT-4 for free](https://www.makeuseof.com/ways-access-gpt-4-free/) . This widespread availability ensures that users can easily leverage its capabilities across different use cases. In contrast, Llama 3 is an open-source project that provides model flexibility and encourages broader experimentation and collaboration within the AI community. This open-access approach can democratize AI technology, making it available to a much wider audience.
@@ -130,8 +128,9 @@ Here’s what each criterion evaluates:
  Although both models are readily available, GPT-4 is much easier to use because it is integrated into popular productivity tools and services. On the other hand, Llama 3 is mainly integrated into research and business platforms like Amazon Bedrock, Ollama, and DataBricks (except for Meta AI chat assist), which doesn't appeal to the larger market of non-technical users.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/300__250banner.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jf0JvOqiAXc?si=kHEHQGC_PhBv4xij" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## GPT-4 vs. Llama 3: Which Is Better?
 
  So, which LLM is better? I would have to say that GPT-4 is the better LLM. GPT-4 excels in multimodality with advanced capabilities in handling text, image, and audio inputs, while Llama 3's similar features are still in development. GPT-4 also offers a much larger context length and better performance and is widely accessible through popular tools and services, making it more user-friendly.
@@ -140,14 +139,11 @@ Here’s what each criterion evaluates:
 
  In conclusion, although GPT-4 stands out for its advanced multimodal capabilities, larger context length, and seamless integration into widely used tools, Llama 3 offers a valuable alternative with its open-source nature, allowing for greater customization and cost savings. So, in terms of application, GPT-4 is ideal for those seeking ease of use and comprehensive features in a model, while Llama 3 is well-suited for developers and researchers looking for flexibility and adaptability.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -156,4 +152,24 @@ Here’s what each criterion evaluates:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-footage.techidaily.com/new-15-youtube-financial-experts-you-can-trust-for-2024/"><u>[New] 15 YouTube Financial Experts You Can Trust for 2024</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-2024-approved-speedy-streams-optimizing-fb-videos-essential-extensions-and-apps-guide/"><u>[New] 2024 Approved Speedy Streams Optimizing FB Videos - Essential Extensions and Apps Guide</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-access-top-shorter-video-downloads-for-free-online-for-2024/"><u>[Updated] Access Top Shorter Video Downloads for FREE Online for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-in-2024-bebop-2s-aviary-artistry-reviewed/"><u>[Updated] In 2024, Bebop 2’S Aviary Artistry Reviewed</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-in-2024-photoshops-powerful-tool-image-curving-techniques/"><u>[Updated] In 2024, Photoshop's Powerful Tool Image Curving Techniques</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/10-key-strategies-for-employing-chatgpt-within-visual-studio-code-environment/"><u>10 Key Strategies for Employing ChatGPT Within Visual Studio Code Environment</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/a-step-by-step-guide-to-overcoming-chatgpts-memory-glitches/"><u>A Step-by-Step Guide to Overcoming ChatGPT's Memory Glitches</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/ai-command-mastery-elite-educational-sessions/"><u>AI Command Mastery: Elite Educational Sessions</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/ai-dialogues-and-the-risk-of-data-leakage/"><u>AI Dialogues and the Risk of Data Leakage</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/1722149717168-cleared-twitter-of-checkmarks-linuss-revelations-trojan-analysis-and-ai-shortcom-writes/"><u>Cleared Twitter of Checkmarks, Linus’s Revelations, Trojan Analysis, & AI Shortcom Writes.</u></a></li>
+<li><a href="https://common-error.techidaily.com/expert-tips-fixing-failed-update-problems-on-your-warframe-game/"><u>Expert Tips: Fixing Failed Update Problems on Your Warframe Game</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/1722195840734-how-chatgpt-can-transform-your-daily-schedule-discover-four-key-tips/"><u>How ChatGPT Can Transform Your Daily Schedule - Discover Four Key Tips</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/in-2024-tiktok-earnings-gurus-choice-top-6-tools/"><u>In 2024, TikTok Earnings Gurus' Choice Top 6 Tools</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/1722194150285-personalizing-chatgpt-encounters-using-tailored-gpt-mentions-strategies-inside/"><u>Personalizing ChatGPT Encounters Using Tailored GPT Mentions – Strategies Inside!</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/1722139152914-step-by-step-guide-activating-gpt-ns-power-in-chatgpt-instantly/"><u>Step-by-Step Guide: Activating GPT-N's Power in ChatGPT Instantly</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/top-ranking-windows-ultrabooks-and-gaming-laptops-comprehensive-tests-by-tech-experts/"><u>Top-Ranking Windows Ultrabooks & Gaming Laptops - Comprehensive Tests by Tech Experts</u></a></li>
+<li><a href="https://techidaily.com/will-xperia-10-v-play-avchd-mts-files-by-aiseesoft-video-converter-play-mts-on-android/"><u>Will Xperia 10 V play AVCHD mts files?</u></a></li>
+</ul></div>
 

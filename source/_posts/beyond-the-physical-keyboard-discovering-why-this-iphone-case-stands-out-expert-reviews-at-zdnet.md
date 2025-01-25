@@ -1,7 +1,7 @@
 ---
 title: "Beyond the Physical Keyboard: Discovering Why This iPhone Case Stands Out | Expert Reviews at ZDNet"
-date: 2025-01-07T17:06:40.204Z
-updated: 2025-01-13T16:37:29.991Z
+date: 2025-01-22T16:32:37.283Z
+updated: 2025-01-25T17:05:17.536Z
 tags:
   - apple
 categories:
@@ -21,7 +21,7 @@ Matthew Miller/ZDNET
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_SbYznUy_zY?si=ThBkP934r3mizi48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qbuund2HKOQ?si=NaGHqIrx8hSL7gWV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ###  ZDNET's key takeaways
@@ -84,7 +84,7 @@ My biggest challenge now is memorizing all the shortcuts I've created, but the a
 Clicks is available for the two iPhone 14 Pro models and all four models of the iPhone 15\. Availability of the various colors varies, so check back on the website if you don't see the one you want. I would love to hear which shortcuts you created and find the most useful, so leave a comment below.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DEqoiNArwjQ?si=oaL_lgnI-RxY5Qy_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  ZDNET's buying advice
@@ -123,18 +123,21 @@ If you miss the physical keyboard on devices like the Blackberry, this accessory
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-access.techidaily.com/new-2024-approved-unveiling-the-future-of-marketing/"><u>[New] 2024 Approved Unveiling the Future of Marketing</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/new-in-2024-practical-guide-to-swapping-gender-representation-online-from-basics-to-expertise/"><u>[New] In 2024, Practical Guide to Swapping Gender Representation Online From Basics to Expertise</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-2024-approved-flavorful-filmmaking-made-easy-the-best-tips-for-food-videography/"><u>[Updated] 2024 Approved Flavorful Filmmaking Made Easy The Best Tips for Food Videography</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/2024-approved-windows-10-meeting-mastery-with-zoom-tools/"><u>2024 Approved Windows 10 Meeting Mastery with Zoom Tools</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/building-an-engaged-community-techniques-to-expand-your-instagram-presence/"><u>Building an Engaged Community: Techniques to Expand Your Instagram Presence</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/master-multi-monitor-configurations-joining-3-displays-with-one-pc/"><u>Master Multi-Monitor Configurations: Joining 3 Displays with One PC</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/milestones-in-a-decade-mondlybacks-button-innovations/"><u>Milestones in a Decade: MondlyBack’s Button Innovations</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/unlocking-the-power-of-voice-assistants-using-chatgpt-with-siri-on-ios-devices/"><u>Unlocking the Power of Voice Assistants: Using ChatGPT with Siri on iOS Devices</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/unveiling-the-motivation-why-do-cybercriminals-focus-on-chatgpt/"><u>Unveiling the Motivation: Why Do Cybercriminals Focus on ChatGPT?</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/unveiling-the-shortcomings-of-automated-copy-detection-tools-in-ai-systems/"><u>Unveiling the Shortcomings of Automated Copy Detection Tools in AI Systems</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/unveiling-the-superior-benefits-of-the-chatgpt-desktop-application-compared-to-its-web-counterpart/"><u>Unveiling the Superior Benefits of the ChatGPT Desktop Application Compared to Its Web Counterpart</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/voices-of-the-future-leveraging-chatgpt-for-dynamic-game-dialogues/"><u>Voices of the Future: Leveraging ChatGPT for Dynamic Game Dialogues</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/what-is-the-turing-test-and-will-it-ever-be-beaten/"><u>What Is The Turing Test And Will It Ever Be Beaten?</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-cutting-edge-chrome-vocal-transforming-apps-top-5-choices-for-2024/"><u>[New] Cutting-Edge Chrome Vocal Transforming Apps Top 5 Choices for 2024</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-master-screen-grabbing-tech-list-1-8-for-2024/"><u>[Updated] Master Screen Grabbing Tech List #1-8 for 2024</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-precision-and-savings-combined-top-asmr-microphones-within-reach-for-2024/"><u>[Updated] Precision & Savings Combined Top ASMR Microphones Within Reach for 2024</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/chatgpt-powered-interview-readiness-expert-strategies-for-candidates/"><u>ChatGPT-Powered Interview Readiness: Expert Strategies for Candidates</u></a></li>
+<li><a href="https://win-trending.techidaily.com/effortlessly-restore-fragments-a-simple-guide-to-retrieving-broken-files/"><u>Effortlessly Restore Fragments: A Simple Guide to Retrieving Broken Files</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/ethical-boundaries-4-ways-governments-regulate-ai/"><u>Ethical Boundaries: 4 Ways Governments Regulate AI</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/from-writers-block-to-success-top-ai-assistants-unveiled/"><u>From Writer's Block to Success: Top AI Assistants Unveiled</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-complete-guide-on-unlocking-iphone-11-pro-max-with-a-broken-screen-drfone-by-drfone-ios/"><u>In 2024, Complete Guide on Unlocking iPhone 11 Pro Max with a Broken Screen? | Dr.fone</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-planning-to-use-a-pokemon-go-joystick-on-tecno-spark-10c-drfone-by-drfone-virtual-android/"><u>In 2024, Planning to Use a Pokemon Go Joystick on Tecno Spark 10C? | Dr.fone</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/overcoming-daily-stressors-with-chatgpt-proven-methods-for-calmness/"><u>Overcoming Daily Stressors with ChatGPT: Proven Methods for Calmness</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/recovering-deleted-chatgpt-conversations-a-comprehensive-guide/"><u>Recovering Deleted ChatGPT Conversations: A Comprehensive Guide</u></a></li>
+<li><a href="https://discover-awesome.techidaily.com/simple-guide-recording-a-live-broadcast-on-your-computer/"><u>Simple Guide: Recording a Live Broadcast on Your Computer</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/the-next-generation-of-wrist-tech-unveiling-six-game-changing-integrations-of-chatgpt-with-smartwatches/"><u>The Next Generation of Wrist Tech: Unveiling Six Game-Changing Integrations of ChatGPT with Smartwatches</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/to-monterey-or-not-on-my-mac/"><u>To Monterey, or Not on My Mac?</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/uncover-new-favorite-stories-through-smart-algorithms-discover-our-pick-of-5-ai-book-recommender-tools/"><u>Uncover New Favorite Stories Through Smart Algorithms: Discover Our Pick of 5 AI Book Recommender Tools</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/eling-youtubes-ranks-the-deciding-elements/"><u>Unraveling YouTube's Ranks The Deciding Elements</u></a></li>
 </ul></div>
 

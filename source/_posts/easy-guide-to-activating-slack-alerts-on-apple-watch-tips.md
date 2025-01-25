@@ -1,7 +1,7 @@
 ---
 title: Easy Guide to Activating Slack Alerts on Apple Watch - Tips
-date: 2025-01-15T18:15:25.293Z
-updated: 2025-01-19T18:11:47.930Z
+date: 2025-01-18T17:33:39.285Z
+updated: 2025-01-25T16:33:14.228Z
 tags:
   - apple
 categories:
@@ -44,16 +44,12 @@ Here's how.
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jf0JvOqiAXc?si=kHEHQGC_PhBv4xij" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## How to enable Slack notifications on your Apple Watch
 
 **What you'll need:** Have the latest versions of iOS and watchOS installed on your iPhone and Apple Watch, respectively. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PKZUYice-ws?si=L8iMa9T3h7TMSWdQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E3yY7lZ-FKA?si=g8VEuExP8GH59B69" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. Install the Slack app on your iPhone
@@ -66,10 +62,6 @@ Once it's installed, go ahead and log into your various Slack channels. Get thos
 
 Let's make sure iOS is set up to allow Slack notifications. Go to the main Settings app and on the main settings screen, scroll all the way down to Slack. It's a long scroll past many other apps. Tap into Slack.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##   
 
 Screenshot by David Gewirtz/ZDNET
@@ -80,12 +72,16 @@ Now, back out to the top of the Settings app and tap the red Notifications icon.
 
 Screenshot by David Gewirtz/ZDNET
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 3\. Set up Slack notifications in the Slack app
 
 Next, open the Slack app. Tap your profile image in the upper right corner of the screen. Then tap Notifications.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Zgwn5kVI5V4?si=1j6j4OuSSndFieXU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##   
@@ -105,10 +101,6 @@ Next, tap Notify Me on Mobile. This will give you a few options.
 Screenshot by David Gewirtz/ZDNET
 
 Set it to "Always, even when I'm active". That way, you'll always get notifications, no matter what you're doing (unless you have Do Not Disturb turned on).
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mK1lEBRm_1w?si=FSaM0OKO0XBCgjtT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 4\. Set your notification schedule
 
@@ -130,6 +122,10 @@ So, make sure you set the Start and End times that fit with your schedule.
 
 Recommendation to Slack: Where you put the "Every day" option in that setting, add the times as well (e.g., "Every day 8 a.m. - 11 p.m."). That way, it's clear to users what they might need to change. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Wy0uYNNdMDM?si=5ir7EHlr0CkpcYOT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 5\. Enable Slack notifications in the Watch app
 
 We're almost done configuring notifications. Open the Watch app and scroll down to Notifications. Then scroll down to Slack and make sure it's turned on.
@@ -139,6 +135,10 @@ We're almost done configuring notifications. Open the Watch app and scroll down 
 Screenshot by David Gewirtz/ZDNET
 
 There. You've set up notifications. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  6\. Use the Watch to get Slack notifications
 
@@ -179,17 +179,19 @@ _You can follow my day-to-day project updates on social media. Be sure to subscr
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-knowledge.techidaily.com/updated-canvas-mastery-top-10-editing-strategies-unveiled-for-2024/"><u>[Updated] Canvas Mastery Top 10 Editing Strategies Unveiled for 2024</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-in-2024-sonic-sculpture-how-to-mold-soundscapes-with-cost-free-effect-tools/"><u>[Updated] In 2024, Sonic Sculpture How to Mold Soundscapes with Cost-Free Effect Tools</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/updated-in-2024-step-into-reflection-editing-your-facebook-past-videos/"><u>[Updated] In 2024, Step Into Reflection Editing Your Facebook Past Videos</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/2024-approved-pinnacle-of-recording-quality-9-mic-devices-rated-best/"><u>2024 Approved Pinnacle of Recording Quality 9 Mic Devices Rated Best</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/anticipated-tesla-automaton-price-estimates-projected-debut-and-performance-specs-revealed/"><u>Anticipated Tesla Automaton: Price Estimates, Projected Debut, and Performance Specs Revealed</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/crafting-winning-cover-letters-in-minutes-using-chatgpts-power/"><u>Crafting Winning Cover Letters in Minutes Using ChatGPT's Power</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/discover-the-chatgpt-mobile-app-now-available-on-ios/"><u>Discover the ChatGPT Mobile App Now Available on iOS</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/discover-the-possibilities-with-advanced-ai-claude-3-demystified/"><u>Discover the Possibilities with Advanced AI, Claude 3 Demystified</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/dissecting-the-enterprise-applications-of-gpt/"><u>Dissecting the Enterprise Applications of GPT</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-play-mp4-files-on-motorola-edge-40-neo-by-aiseesoft-video-converter-play-mp4-on-android/"><u>How to play MP4 files on Motorola Edge 40 Neo?</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-contacts-files-from-samsung-galaxy-xcover-7-by-fonelab-android-recover-contacts/"><u>How To Restore Missing Contacts Files from Samsung Galaxy XCover 7.</u></a></li>
-<li><a href="https://os-tips.techidaily.com/simplified-mobile-experience-operating-android-directly-from-your-desktop-no-jailbreaking-needed/"><u>Simplified Mobile Experience: Operating Android Directly From Your Desktop, No Jailbreaking Needed!</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-saving-your-precious-obs-video-source-from-failure/"><u>[Updated] Saving Your Precious OBS Video Source From Failure</u></a></li>
+<li><a href="https://facebook.techidaily.com/bypass-facebooks-tracking-utilizing-off-fb-tool/"><u>Bypass Facebook's Tracking - Utilizing Off-FB Tool</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/discover-alternatives-how-to-utilize-chatgpt-without-signing-up-with-openai/"><u>Discover Alternatives: How to Utilize ChatGPT without Signing Up with OpenAI</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/diving-into-digital-dialogue-googles-groundbreayer-palm-2/"><u>Diving Into Digital Dialogue: Google's Groundbreayer, PaLM 2</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/exploring-the-world-of-generative-ai-and-how-it-works/"><u>Exploring the World of Generative AI and How It Works</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-fix-it-infinix-smart-8-pro-wont-turn-on-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix It Infinix Smart 8 Pro Wont Turn On | Dr.fone</u></a></li>
+<li><a href="https://techtrends.techidaily.com/how-to-perfectly-save-your-moments-screenshot-guide-for-the-xbox-one/"><u>How to Perfectly Save Your Moments: Screenshot Guide for the Xbox One</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-a-guide-oppo-a79-5g-wireless-and-wired-screen-mirroring-drfone-by-drfone-android/"><u>In 2024, A Guide Oppo A79 5G Wireless and Wired Screen Mirroring | Dr.fone</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/innovative-dialogue-strategies-top-20-github-chatgpt-models/"><u>Innovative Dialogue Strategies: Top 20 GitHub ChatGPT Models</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/mastering-presentations-with-chatgpt-a-step-by-step-guide/"><u>Mastering Presentations with ChatGPT: A Step-by-Step Guide</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/simple-solutions-to-fix-android-systemui-has-stopped-error-for-honor-magic-6-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Simple Solutions to Fix Android SystemUI Has Stopped Error For Honor Magic 6 | Dr.fone</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/stop-screen-flashback-on-lenovo-laptops/"><u>Stop Screen Flashback on Lenovo Laptops</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/the-art-of-chatgpt-navigations-a-guide-to-effective-file-use/"><u>The Art of ChatGPT Navigations: A Guide to Effective File Use</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/updated-2024-approved-top-free-gif-animation-creators/"><u>Updated 2024 Approved Top Free GIF Animation Creators</u></a></li>
 </ul></div>
 

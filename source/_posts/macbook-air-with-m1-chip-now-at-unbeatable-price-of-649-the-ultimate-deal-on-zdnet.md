@@ -1,7 +1,7 @@
 ---
 title: "MacBook Air with M1 Chip Now at Unbeatable Price of $649: The Ultimate Deal on ZDNet"
-date: 2025-01-12T16:32:10.011Z
-updated: 2025-01-13T16:44:47.730Z
+date: 2025-01-23T16:58:41.164Z
+updated: 2025-01-25T16:18:19.305Z
 tags:
   - apple
 categories:
@@ -42,7 +42,7 @@ At $649, this is the lowest price for the M1 version of the MacBook Air that we'
 The [M1 MacBook Air](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fmacbook-air-13-3-laptop-apple-m1-chip-8gb-memory-256gb-ssd-space-gray-space-gray%2F5721600.p%3FskuId%3D5721600&publisher_slug=itechdaily19598&exclusive=1) first retailed for $999 when it was released, but Apple sells refurbished versions for $799, making these deals even better than anything Apple is offering. The [M1 MacBook Air](https://goto.walmart.com/c/5597632/565706/9383?sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.walmart.com%2Fip%2FApple-MacBook-Air-13-3-inch-Laptop-Silver-M1-Chip-8GB-RAM-256GB-storage%2F609040889&subId1=zd-__COM_CLICK_ID__-dtp) is available in three different colors: gold, space gray, and silver. Snag these savings while you can. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## When will this deal expire?
@@ -81,19 +81,16 @@ However, deals are subject to sell out or expire at any time, though ZDNET remai
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-data.techidaily.com/n-2024-leveraging-yt-playlist-features-for-site-enhancement/"><u>[New] In 2024, Leveraging YT Playlist Features for Site Enhancement</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/updated-2024-approved-effortless-embedding-techniques-for-streaming-video-in-presentations/"><u>[Updated] 2024 Approved Effortless Embedding Techniques for Streaming Video in Presentations</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/updated-2024-approved-fb-vids-to-mp4-downloader-efficient-and-effective/"><u>[Updated] 2024 Approved FB Vids to MP4 Downloader – Efficient & Effective</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/05232020-updated-elevate-creations-get-free-high-quality-templates-today/"><u>[Updated] Elevate Creations - Get FREE High-Quality Templates Today</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/updated-essential-steps-to-utilizing-azures-speech-to-text-service-effectively-for-2024/"><u>[Updated] Essential Steps to Utilizing Azure's Speech-to-Text Service Effectively for 2024</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/updated-inside-track-becoming-an-expert-in-srt-technology/"><u>[Updated] Inside Track Becoming an Expert in SRT Technology</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/updated-quick-guide-initiating-and-managing-android-zoom-calls/"><u>[Updated] Quick Guide Initiating & Managing Android Zoom Calls</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-the-ultimate-gopro-camera-showdown/"><u>2024 Approved The Ultimate GoPro Camera Showdown</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/beyond-boundaries-next-gen-ai-discussions/"><u>Beyond Boundaries: Next Gen AI Discussions</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/boosting-workflow-efficiency-leveraging-onlyoffices-docspace-with-chatgpt/"><u>Boosting Workflow Efficiency: Leveraging ONLYOFFICE's DocSpace with ChatGPT</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/can-you-rely-on-ai-detection-like-zerogpt-see-why-not-through-these-examples/"><u>Can You Rely on AI Detection Like ZeroGPT? See Why Not Through These Examples.</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/chatgpt-beta-unleashed-enabling-and-using-web-browsing-features-and-plugins-for-enhanced-interaction/"><u>ChatGPT Beta Unleashed: Enabling and Using Web Browsing Features and Plugins for Enhanced Interaction</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/chatgpt-a-game-changer-in-the-world-of-advanced-excel-workflows/"><u>ChatGPT: A Game Changer in the World of Advanced Excel Workflows</u></a></li>
-<li><a href="https://windows11.techidaily.com/triggering-windows-calculator-in-version-11/"><u>Triggering Windows Calculator in Version 11</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/024-approved-streamline-your-shoots-top-lenses-recommended-by-professionals/"><u>[New] 2024 Approved Streamline Your Shoots Top Lenses Recommended by Professionals</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-the-art-of-adding-gifs-to-instagram-posts-4-easy-steps/"><u>[Updated] The Art of Adding GIFs to Instagram Posts (4 Easy Steps)</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/discover-the-most-attractive-atandt-mobile-plans-for-may-2e-2024-in-depth-analysis/"><u>Discover the Most Attractive AT&T Mobile Plans for May 2E 2024 - In-Depth Analysis</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/exploring-the-top-7-gpt-4-powered-applications-a-deep-dive-into-their-functionality/"><u>Exploring the Top 7 GPT-4 Powered Applications: A Deep Dive Into Their Functionality</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-unlock-apple-id-activation-lock-on-apple-iphone-12-pro-max-by-drfone-ios/"><u>In 2024, How to Unlock Apple ID Activation Lock On Apple iPhone 12 Pro Max?</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/mastering-chatgpts-default-addons/"><u>Mastering ChatGPT's Default Addons</u></a></li>
+<li><a href="https://driver-install.techidaily.com/nvidia-gtx-970-drivers-now-available-for-win10/"><u>Nvidia GTX 970 Drivers Now Available for Win10</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/online-wma-naar-m4v-verzamelen-vrije-converteertool-via-movavi/"><u>Online WMA Naar M4V Verzamelen - Vrije Converteertool via Movavi</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/should-we-treat-ai-personalities-such-as-chatgpt-amazons-alexa-and-apples-siri-with-politeness/"><u>Should We Treat AI Personalities Such as ChatGPT, Amazon's Alexa, and Apple's Siri With Politeness?</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/skyrocketing-results-with-7-innovative-ai-methods/"><u>Skyrocketing Results with 7 Innovative AI Methods</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/the-future-of-love-betrayal-7-ai-strategies-employed-in-cyberromance-swindles/"><u>The Future of Love Betrayal: 7 AI Strategies Employed in Cyberromance Swindles</u></a></li>
 </ul></div>
 

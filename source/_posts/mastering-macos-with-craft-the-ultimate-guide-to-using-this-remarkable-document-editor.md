@@ -1,7 +1,7 @@
 ---
 title: "Mastering MacOS with Craft: The Ultimate Guide to Using This Remarkable Document Editor"
-date: 2025-01-06T16:36:06.446Z
-updated: 2025-01-13T16:50:44.603Z
+date: 2025-01-18T17:27:48.273Z
+updated: 2025-01-25T16:28:34.714Z
 tags:
   - apple
 categories:
@@ -21,7 +21,7 @@ But then something sort of magical happened -- I started using the app. Once I u
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fHWdQw1gRyI?si=ve9wZnPupiooLThG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What is Craft?
@@ -40,7 +40,7 @@ To help you out, I'm going to walk you through the creation of a document in Cra
 Once you have Craft installed, you're ready to start building your first document.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Create a document in Craft
@@ -64,7 +64,7 @@ Below the cover image, type the title of the page and then start typing addition
 Think of each section of text as a block (similar to that in WordPress). Add new blocks to the document as needed. And that's how you build the basic sections of your document.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/VxFUhesNCKo?si=Ti0ui6DXYP12sjSs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Adding external sources
@@ -78,7 +78,7 @@ Image: Jack Wallen
 Now we're getting somewhere. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mMYEK2gtY5c?si=ytxNz_JHZkTrwb4b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/epKTCSREjhI?si=Ez_hObK1FZrmEE7f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Link a document to another
@@ -129,18 +129,24 @@ This free app should be on the radar of anyone who struggles to organize their c
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-hovers.techidaily.com/new-in-2024-transform-your-photos-into-masterpieces-with-top-pixlr-techniques/"><u>[New] In 2024, Transform Your Photos Into Masterpieces with Top Pixlr Techniques</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/new-loop-creator-pro/"><u>[New] Loop Creator Pro</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-maximizing-impact-10-indispentic-instagram-editors-apps-for-2024/"><u>[Updated] Maximizing Impact 10 Indispentic Instagram Editors' Apps for 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-the-art-of-auditory-branding-logo-insights-for-podcasters/"><u>2024 Approved The Art of Auditory Branding Logo Insights for Podcasters</u></a></li>
-<li><a href="https://blog-min.techidaily.com/conversione-free-di-video-3g2-su-mp4-online-con-il-metodo-effiziente-di-movavi-scopri-come/"><u>Conversione FREE Di Video 3G2 Su MP4 Online Con Il Metodo Effiziente Di Movavi: Scopri Come</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-a-complete-guide-to-oem-unlocking-on-infinix-note-30-pro-by-drfone-android/"><u>In 2024, A Complete Guide To OEM Unlocking on Infinix Note 30 Pro</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/the-art-of-simplicity-chatgpts-top-9-techniques/"><u>The Art of Simplicity: ChatGPT's Top 9 Techniques</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/the-beginners-path-to-generate-exclusive-ai-visuals-via-microsofts-copilot-tool/"><u>The Beginner's Path to Generate Exclusive AI Visuals via Microsoft's Copilot Tool</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/the-future-on-your-wrist-enhancing-smartwatches-with-chatgpts-technology/"><u>The Future on Your Wrist: Enhancing Smartwatches with ChatGPT's Technology</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/the-newest-player-in-ai-chatter-googles-bard-poses-serious-competition-for-chatgpt/"><u>The Newest Player in AI Chatter: Google's Bard Poses Serious Competition for ChatGPT</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/the-push-for-regulatory-measures-in-ai-perspectives-from-openais-top-dog/"><u>The Push for Regulatory Measures in AI - Perspectives From OpenAI's Top Dog</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/the-role-of-ai-in-advancing-or-deteriorating-mental-health-care-services/"><u>The Role of AI in Advancing or Deteriorating Mental Health Care Services</u></a></li>
-<li><a href="https://fox-zero.techidaily.com/une-solution-simple-pour-retrouver-vos-documents-supprimes-en-utilisant-le-logiciel-de-restauration-de-fichier-de-windows/"><u>Une Solution Simple Pour Retrouver Vos Documents Supprimés en Utilisant Le Logiciel De Restauration De Fichier De Windows</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-ace-your-youtube-finances-secrets-for-profits-at-the-500-subscriber-milestone-for-2024/"><u>[New] Ace Your Youtube Finances Secrets for Profits at the 500-Subscriber Milestone for 2024</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-channel-command-center-mastering-your-digital-domain-for-2024/"><u>[Updated] Channel Command Center Mastering Your Digital Domain for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-prime-list-of-affordable-high-definition-cameras/"><u>[Updated] Prime List of Affordable High Definition Cameras</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-zooming-into-the-details-with-team-meetings-for-2024/"><u>[Updated] Zooming Into the Details with Team Meetings for 2024</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/2024-approved-accessing-and-saving-tweets-visuals-in-your-android-device/"><u>2024 Approved Accessing and Saving Tweets' Visuals in Your Android Device</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/beware-of-ais-eager-listener-protect-your-secrets/"><u>Beware of AI's Eager Listener: Protect Your Secrets</u></a></li>
+<li><a href="https://win-answers.techidaily.com/comprehensive-fixes-for-the-notorious-acrocefexeexe-error-message/"><u>Comprehensive Fixes for the Notorious acrocefexe.exe Error Message</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/exploring-free-access-leveraging-dall-e-3-on-microsofts-bing-platform/"><u>Exploring Free Access: Leveraging DALL-E 3 on Microsoft's Bing Platform</u></a></li>
+<li><a href="https://win11.techidaily.com/fixing-disappeared-battery-life-meter-for-windows-11-computers/"><u>Fixing Disappeared Battery Life Meter for Windows 11 Computers</u></a></li>
+<li><a href="https://extra-information.techidaily.com/haunting-shots-next-gen-action-hddc/"><u>Haunting Shots Next-Gen Action HDDC</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/how-to-set-up-codegpt-extension-for-efficient-coding-in-vs-code/"><u>How to Set Up CodeGPT Extension for Efficient Coding in VS Code</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-3-solutions-to-find-your-oppo-a78-5g-current-location-of-a-mobile-number-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Solutions to Find Your Oppo A78 5G Current Location of a Mobile Number | Dr.fone</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/leveraging-gpt-based-communication-to-deter-solitude/"><u>Leveraging GPT-Based Communication to Deter Solitude</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/mastering-chatgpt-on-linux-a-straightforward-tutorial/"><u>Mastering ChatGPT on Linux: A Straightforward Tutorial</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/seamless-typing-with-bing-ai-on-your-android-device-how-to-set-it-up/"><u>Seamless Typing with Bing AI on Your Android Device – How to Set It Up</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/the-evolution-of-theme-through-chatgpts-novel-writing-insights/"><u>The Evolution of Theme Through ChatGPT’s Novel-Writing Insights</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/top-8-major-issues-you-should-know-about-openais-chatgpt/"><u>Top 8 Major Issues You Should Know About OpenAI's ChatGPT</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/unlocking-creativity-with-ai-how-writers-can-benefit-from-chatgpt/"><u>Unlocking Creativity with AI: How Writers Can Benefit From ChatGPT</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/unlocking-made-easy-the-best-10-apps-for-unlocking-your-honor-90-device-by-drfone-android/"><u>Unlocking Made Easy The Best 10 Apps for Unlocking Your Honor 90 Device</u></a></li>
 </ul></div>
 

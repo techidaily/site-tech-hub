@@ -1,7 +1,7 @@
 ---
 title: Buy These New Apple Features Announced at WWDC Today – Where to Get Them | CNET News
-date: 2025-01-14T19:58:20.288Z
-updated: 2025-01-19T17:03:40.193Z
+date: 2025-01-21T16:07:17.417Z
+updated: 2025-01-25T16:45:13.916Z
 tags:
   - apple
 categories:
@@ -49,10 +49,6 @@ To help you make this decision, we've broken down all of the most important deta
 
 Kerry Wan/ZDNET
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ###  1\. You'd benefit from Apple Intelligence features
 
 Apple is rolling out [multiple AI features to the iPhone 16](https://www.zdnet.com/article/apple-delivers-on-hardware-upgrades-but-punts-apple-intelligence-rollout/). Chief among them is the long-awaited Siri upgrade. The iOS assistant is much smarter than before as it is now aware of on-screen content, can better understand commands even if you stumble over your words, and can switch between text and voice inputs. This is just the tip of the iceberg, too, as Siri will fully integrate itself with [ChatGPT](https://www.zdnet.com/article/what-is-chatgpt-the-worlds-most-popular-ai-chatbot-explained/#link={) later in the year.
@@ -60,6 +56,10 @@ Apple is rolling out [multiple AI features to the iPhone 16](https://www.zdnet.c
 **Also: [Your AIrPods Pro 2 can soon double as over-the-counter hearing aids. Here's how](https://www.zdnet.com/article/your-airpods-pro-2-can-soon-double-as-over-the-counter-hearing-aids-heres-how/)**
 
 There is more to the AI features beyond Siri. Apple Intelligence will be able to summarize notifications and Priority Messages in the Mail app. Like Siri, the feature will be able to understand context. [Apple Intelligence](https://www.zdnet.com/article/what-is-apple-intelligence-everything-to-know-about-ai-features-coming-to-iphones-macs-and-ipads/) will gain additional features later in the year like the ability to create custom emojis and perform multiple actions across apps.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ###  2\. You want a better photography experience
 
@@ -70,7 +70,7 @@ The [iPhone 16](https://www.zdnet.com/article/every-iphone-16-model-compared-whi
 On the side below the [Power Button is the new Camera Control](https://www.zdnet.com/article/every-iphone-16-model-features-a-new-camera-button-heres-what-it-can-do/). It's a tactile switch with a special sensor that can perform unique actions with a light touch. For example, pressing it quickly launches the Camera app for taking quick snapshots or recording a video. It even introduces a preview feature to help you frame the shot. And if that wasn't enough, it'll work with third-party apps.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/sn2STvYRVb8?si=Z-XhJJ1Mc-Em5Kqy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ###  3\. You want "next-level performance"
@@ -91,12 +91,16 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 
 [See all](https://www.zdnet.com/newsletters/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  You should buy the iPhone 15 if...
 
 Kerry Wan/ZDNET
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GyfJUhsz_AY?si=x2HjoLX1B89oEPgZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ###  1\. You don't require the generative AI capabilities
@@ -108,7 +112,7 @@ All of the bells and whistles on the iPhone 16 are certainly nice, but are they 
 Sometimes, it's best to wait until all the bugs have been ironed out. Plus, there's a lot of uncertainty surrounding the chipset. Early impressions indicate the A18 can handle all the AI features, but can it? Or will we see a performance drop once it launches? 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ###  2\. You're on a budget
@@ -118,10 +122,6 @@ With the release of a new model, older phones often see a price drop, and that i
 It wouldn't be a bad pick-up, either. The camera system of the previous generation is great to this day, the A16 Bionic chip is still plenty powerful, and the Dynamic Island is a welcomed addition. You can enjoy a similar camera performance. Plus, you won't be bogged down by nascent AI features you may or may not ever use. 
 
 [Buy the iPhone 15 $729.99 at Best Buy](https://shop-links.co/link/?url=https%3A%2F%2Fbestbuy.7tiv.net%2Fc%2F376373%2F633495%2F10014%3Fprodsku%3D6417992%26u%3Dhttp%253A%252F%252Fwww.bestbuy.com%252Fsite%252F-%252F6417992.p%253Fcmp%253DRMX&publisher_slug=itechdaily19598&exclusive=1)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6X24fPKs6AE?si=YtQy-8zy7GifgfA7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  Alternatives to consider
 
@@ -157,22 +157,17 @@ It wouldn't be a bad pick-up, either. The camera system of the previous generati
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-clips.techidaily.com/new-2024-approved-the-hidden-layer-capturing-chats-as-fb-media-files/"><u>[New] 2024 Approved The Hidden Layer Capturing Chats as FB Media Files</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/new-breaking-barriers-in-text-animation-with-no-cost-tools/"><u>[New] Breaking Barriers in Text Animation with No-Cost Tools</u></a></li>
-<li><a href="https://extra-support.techidaily.com/updated-quick-cash-no-experience-required-the-ultimate-guide-to-earning-money-on-reddit/"><u>[Updated] Quick Cash, No Experience Required The Ultimate Guide to Earning Money on Reddit</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/updated-social-network-showdown-tiktok-vs-snap/"><u>[Updated] Social Network Showdown TikTok Vs Snap</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/2024-approved-instantaneous-photographic-view-in-win11/"><u>2024 Approved Instantaneous Photographic View in Win11</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/best-free-high-definition-movies-downloads-top-15-1080p-and-720p-mp4-websites/"><u>Best FREE High-Definition Movies Downloads: Top 15 1080P & 720P MP4 Websites</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/elevate-your-video-watchlist-activate-av1-on-youtube-for-2024/"><u>Elevate Your Video Watchlist - Activate AV1 on YouTube for 2024</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-fix-auto-lock-greyed-out-on-apple-iphone-12-by-drfone-ios/"><u>In 2024, How To Fix Auto Lock Greyed Out on Apple iPhone 12</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/navigating-ai-language-essential-vocabulary-for-enthusiasts/"><u>Navigating AI Language: Essential Vocabulary for Enthusiasts</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/navigating-the-best-8-chatgpt-crypto-upgrades-unveiled/"><u>Navigating the Best 8 ChatGPT Crypto Upgrades Unveiled</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/navigating-the-pre-owned-ipad-market-a-buyers-top-five-guide/"><u>Navigating the Pre-Owned iPad Market: A Buyer's Top Five Guide</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/optimizing-presentation-outcomes-with-smart-ai-integration-chatgpt/"><u>Optimizing Presentation Outcomes with Smart AI Integration: ChatGPT</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/replicating-human-like-dialogue-with-ai/"><u>Replicating Human-Like Dialogue with AI</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/securely-navigating-the-deletion-of-your-chatgpt-records/"><u>Securely Navigating the Deletion of Your ChatGPT Records</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/step-by-step-guide-integrating-and-utilizing-chatgpt-add-ons/"><u>Step-by-Step Guide: Integrating & Utilizing ChatGPT Add-Ons</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/step-by-step-guide-setting-up-local-llama-2-installs/"><u>Step-by-Step Guide: Setting Up Local Llama 2 Installs</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/survival-guide-for-ai-dominated-professions-six-essentials/"><u>Survival Guide for AI-Dominated Professions: Six Essentials</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-top-charting-tracks-on-spotify/"><u>[New] Top Charting Tracks on Spotify</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/updated-how-to-add-friends-on-discord/"><u>[Updated] How to Add Friends on Discord</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/2024-approved-mastering-the-shadows-crafting-discreet-snaps/"><u>2024 Approved Mastering the Shadows Crafting Discreet Snaps</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/artistic-alchemy-at-play-top-imagery-ideas-by-ais-brilliance/"><u>Artistic Alchemy at Play: Top Imagery Ideas by AI's Brilliance</u></a></li>
+<li><a href="https://win-lab.techidaily.com/guide-simple-pour-retrouver-des-fichiers-effaces-accidentellement-par-le-pare-feu-windows-defender/"><u>Guide Simple Pour Retrouver Des Fichiers Effacés Accidentellement Par Le Pare-Feu Windows Defender</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-from-motorola-moto-g-5g-2023-to-other-android-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data from Motorola Moto G 5G (2023) to Other Android Devices? | Dr.fone</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/in-2024-master-your-first-steps-in-using-tiktok-macpc-edition/"><u>In 2024, Master Your First Steps in Using TikTok Mac/PC Edition</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/masterclass-crafting-custom-web-applications-with-the-ai-assistant-chatgpt/"><u>Masterclass: Crafting Custom Web Applications With the AI Assistant ChatGPT</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/mastering-podcast-beginnings-eye-catching-strategies/"><u>Mastering Podcast Beginnings Eye-Catching Strategies</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/navigating-conversation-limits-the-ins-and-outs-of-chatgpts-input-capacity/"><u>Navigating Conversation Limits: The Ins and Outs of ChatGPT's Input Capacity</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/outsmarting-ai-clones-securing-authenticity-for-your-artwork-with-nightshade-solutions/"><u>Outsmarting AI Clones: Securing Authenticity for Your Artwork with Nightshade Solutions</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-the-absence-of-an-audio-device-error-on-windows-11-systems/"><u>Troubleshooting the Absence of an Audio Device Error on Windows 11 Systems</u></a></li>
 </ul></div>
 
