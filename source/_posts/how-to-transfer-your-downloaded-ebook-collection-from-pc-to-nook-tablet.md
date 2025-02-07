@@ -1,7 +1,7 @@
 ---
 title: How to Transfer Your Downloaded eBook Collection From PC to Nook Tablet?
-date: 2024-08-20T10:52:09.118Z
-updated: 2024-08-21T10:52:09.118Z
+date: 2025-02-04T18:47:18.126Z
+updated: 2025-02-07T01:51:46.334Z
 categories:
   - epubor
 thumbnail: https://thmb.techidaily.com/cf912511c25f50537db88a8b568a9135cf27701df4689d69a4823381023d4752.jpg
@@ -15,15 +15,21 @@ Posted by [Ada Wang](https://plus.google.com/+AdaWang/posts) on 5/11/2020 3:10:4
 
 4.6 [(9 comments)](http://www.epubor.com/#comment-area) 
 
-
-
 ![follow](http://www.epubor.com/images/follow.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UcplMvRBulA?si=iBonbwDS1v7RAlHK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Question**: I downloaded several ebooks onto my computer and now I do not know how to put them onto my Nook Tablet.
 
 There are three programs we teach you how to use. They are all free: **Calibre**, **Adobe Digital Editions** and **Windows Explorer**.
 
 Before transferring your downloaded eBooks from computer to a Nook tablet, first make sure that the prepared **[eBooks are DRM free ePub or PDF format](https://tools.techidaily.com/epubor/ultimate/)**(compatible with Nook).
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Method 1: Windows Explorer
 
@@ -35,9 +41,6 @@ Before transferring your downloaded eBooks from computer to a Nook tablet, first
 
 4 Un-plug the USB cable, Turn on your Nook, find the book in the "My Documents" folder. Or you can also do a search job for the book title.
 
-<!-- affiliate ads begin -->
-<a href="https://uperfect.sjv.io/c/5597632/1246754/15155" target="_top" id="1246754"><img src="//a.impactradius-go.com/display-ad/15155-1246754" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1246754/15155" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Method 2: Calibre
 
 **Calibre** is a free software and supports for almost all the major e-readers and tablets on the market. We give you an overview of what the program is all about and how to make simple edits to your book and then transfer it to your Nook Tablet.
@@ -52,17 +55,12 @@ Before transferring your downloaded eBooks from computer to a Nook tablet, first
 
 ![send to device calibre](http://www.epubor.com/images/uppic/send-to-nook-calibre.png)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4631056&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/997e65474a248252883b485717f7d098/products/buy-windows.png" border="0">Allavsoft Batch Download Online Videos, Music Offline to MP4, MP3, MOV, etc format </a>
-<!-- affiliate ads end -->
-<!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713324&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVTV1.90-300x188.jpg" border="0">OtsAV TV Webcaster</a>
-<!-- affiliate ads end -->
 ### Video Guide for Method 1&2
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=35038891&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.dupinout.com/wp-content/uploads/2021/12/DupInOut-New-Duplicate-Scan-Tab.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Method 3: Adobe Digital Editions (read protected books on Nook)
 
 **Adobe Digital Editions** is a program primarily used for managing eBooks and transferring ebooks you have purchased from ePub eBookStores to your device. You also have the ability to copy over books you have borrowed from the library.  
@@ -71,9 +69,9 @@ What's more, even if your book has DRM protection, you can use this program to t
 ![transfer book to nook via ade](http://www.epubor.com/images/uppic/transfer-to-nook-via-ade.png)
 
 <!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=39694080&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/nbr/fire/Screenshot_1red_gb.jpg" border="0">Nero Burning ROM:
-The ultimate burning program for all your needs!</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 Step 1 Click on the Library View within Adobe Digital Editions. Titles you have downloaded are listed on the right blank.
 
 Step 2 You will see the file copied to the nook. The title is now transferred to the device. On a PC, click “Safely Remove Hardware” icon on the lower right of your monitor. Then click the “Safely Remove USB Mass Storage Device” box.
@@ -89,8 +87,9 @@ If the book's format you want to transfer is not supported by Nook Tablet, and i
 ![author](https://www.epubor.com/images/uppic/1-22-2013 12-03-06 AM.png)
 
 <!-- affiliate ads begin -->
-<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254549&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/8_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 [Ada Wang](https://plus.google.com/+AdaWang/posts) works for Epubor and writes articles for a collection of blogs such as ebookconverter.blogspot.com.
 
 SHARING IS GREAT!
@@ -98,8 +97,6 @@ SHARING IS GREAT!
 [Tweet](https://twitter.com/share) 
 
 [SAVE PAGE AS PDF](https://tools.techidaily.com/epubor/transfer/) 
-
-
 
 9 Comments
 
@@ -221,8 +218,6 @@ Leave a comment
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -230,4 +225,17 @@ Leave a comment
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-guidance.techidaily.com/updated-reel-in-your-audience-with-professional-ipadiphone-podcasting-hacks/"><u>[Updated] Reel in Your Audience with Professional IPad/iPhone Podcasting Hacks</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/are-you-curious-if-chatgpt-can-design-personalized-exercise-routines-that-prioritize-safety-and-results/"><u>Are You Curious If ChatGPT Can Design Personalized Exercise Routines That Prioritize Safety and Results?</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/chatgpt-by-openai-an-in-depth-look-at-its-top-8-limitations-and-problems/"><u>ChatGPT by OpenAI: An In-Depth Look at Its Top 8 Limitations and Problems</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/dissecting-the-5-main-arguments-companies-cite-for-banning-ai/"><u>Dissecting the 5 Main Arguments Companies Cite for Banning AI</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-change-motorola-g54-5g-lock-screen-password-by-drfone-android/"><u>In 2024, How To Change Motorola G54 5G Lock Screen Password?</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/resolving-chatgpt-access-issues-a-step-by-step-guide/"><u>Resolving ChatGPT Access Issues: A Step-by-Step Guide</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/spark-creativity-mindmapping-and-ai-enhanced-ideas/"><u>Spark Creativity: Mindmapping & AI-Enhanced Ideas</u></a></li>
+<li><a href="https://games-able.techidaily.com/taming-xbox-audio-alerts-a-step-by-step-guide/"><u>Taming Xbox Audio Alerts: A Step-by-Step Guide</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/top-rated-protective-sleeves-for-iphone-12-and-12-pro-2023-edition-techreview/"><u>Top-Rated Protective Sleeves for iPhone 12 & 12 Pro - 2023 Edition | TechReview</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/unraveling-linguistic-algorithms-nlp-vs-ml/"><u>Unraveling Linguistic Algorithms: NLP vs ML</u></a></li>
+</ul></div>
 

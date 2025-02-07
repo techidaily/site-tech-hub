@@ -1,7 +1,7 @@
 ---
 title: "Shared Experiences: The Unspoken Challenges of Moving to iOS 18 on iPhones | ZDNET Insights"
-date: 2025-01-22T17:05:42.415Z
-updated: 2025-01-25T17:59:57.436Z
+date: 2025-02-06T01:17:50.240Z
+updated: 2025-02-07T05:42:59.011Z
 tags:
   - apple
 categories:
@@ -60,7 +60,7 @@ Aside from the inferior Photos app navigation, videos in the Photos app no longe
 "The UX is a huge downgrade. It's so bad that I had to submit feedback to Apple via the feedback app in the beta. Never did one of those when it wasn't a technical bug, just pure user experience frustration," another [Redditor said](https://www.reddit.com/r/apple/comments/1e2jtq5/comment/ld1wsjg/?utm%5Fsource=share&utm%5Fmedium=web3x&utm%5Fname=web3xcss&utm%5Fterm=1&utm%5Fcontent=share%5Fbutton).
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to navigate the iOS 18 Photos app
@@ -109,19 +109,15 @@ I hope a future version of iOS 18 will bring back the Camera Roll or at least to
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-direct.techidaily.com/2024-approved-unlocking-potential-with-top-pixlr-editing-techniques/"><u>2024 Approved Unlocking Potential with Top Pixlr Editing Techniques</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/deciphering-ai-balancing-harmony-and-ethics/"><u>Deciphering AI: Balancing Harmony and Ethics</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/elite-desktopmobile-communication-software-zoom-substitutes/"><u>Elite Desktop/Mobile Communication Software (Zoom Substitutes)</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/exploring-the-authenticity-of-truthgpt-coin-unveiling-its-legitimacy/"><u>Exploring the Authenticity of TruthGPT Coin: Unveiling Its Legitimacy</u></a></li>
-<li><a href="https://apple-account.techidaily.com/icloud-separation-how-to-disconnect-apple-iphone-8-and-ipad-by-drfone-ios/"><u>iCloud Separation How To Disconnect Apple iPhone 8 and iPad</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/in-2024-apex-of-scripting-soundscapes/"><u>In 2024, Apex of Scripting Soundscapes</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/is-it-feasible-to-create-secure-fitness-routines-with-chatgpt/"><u>Is It Feasible to Create Secure Fitness Routines with ChatGPT?</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/launch-your-fortune-on-periscope-live-chats/"><u>Launch Your Fortune on Periscope Live Chats</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/maximize-productivity-unveiling-five-free-tools-leveraging-chatgpt-to-draft-professional-emails-and-summarize-correspondence/"><u>Maximize Productivity: Unveiling Five Free Tools Leveraging ChatGPT to Draft Professional Emails & Summarize Correspondence</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/ps-vr2-game-lineup-every-confirmed-title-to-date/"><u>PS VR2 Game Lineup: Every Confirmed Title to Date</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/strategies-for-superior-tabletop-role-playing-via-gpt-utilization/"><u>Strategies for Superior Tabletop Role-Playing via GPT Utilization</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/superior-spaces-for-ai-driven-innovation-dialogues/"><u>Superior Spaces for AI-Driven Innovation Dialogues</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/the-ultimate-windows-compatibility-list-for-24-laptops/"><u>The Ultimate Windows Compatibility List for '24 Laptops</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/whisking-together-a-perfect-dough-base/"><u>Whisking Together a Perfect Dough Base</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-in-2024-navigating-legalities-in-skype-call-audio-preservation/"><u>[Updated] In 2024, Navigating Legalities in Skype Call Audio Preservation</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-in-2024-the-editors-playbook-top-tools-to-boost-your-ig-content/"><u>[Updated] In 2024, The Editor's Playbook Top Tools to Boost Your IG Content</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/2024-approved-discover-the-best-15-free-image-editing-programs-for-now/"><u>2024 Approved Discover the Best 15 FREE Image Editing Programs for Now</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/elite-d-class-dungeons-topping-the-list/"><u>Elite D-Class Dungeons Topping the List</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/establishing-a-consistent-mindfulness-routine-leveraging-chatgpt/"><u>Establishing a Consistent Mindfulness Routine: Leveraging ChatGPT</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/explore-chatgpts-best-for-document-insights/"><u>Explore ChatGPT's Best for Document Insights</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fix-windows-media-player-volume-issues-ultimate-guide-with-solutions/"><u>Fix Windows Media Player Volume Issues: Ultimate Guide with Solutions</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/navigating-chatgpt-with-apple-devices/"><u>Navigating ChatGPT with Apple Devices</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/premier-8-windows-audio-apps-compared/"><u>Premier 8-Windows Audio Apps Compared</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/vocal-command-mastering-chatgpt-through-speech/"><u>Vocal Command: Mastering ChatGPT Through Speech</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Mastering Mac OS MONTEREY: Setting Up Personalized Do Not Disturb Lists for Improved Concentration"
-date: 2025-01-18T16:54:30.082Z
-updated: 2025-01-25T17:15:24.633Z
+date: 2025-02-02T08:09:19.610Z
+updated: 2025-02-07T10:36:39.364Z
 tags:
   - apple
 categories:
@@ -27,18 +27,18 @@ So, how do you create this custom Flow? Let me show you. All you'll need to make
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ITtcSWvS8bo?si=4M4BfMgaabrW6148" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vEYkX2NJgZw?si=IaHqlqJcYipwUOht" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Create a custom Focus
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 1\. Open System Preferences
 
 Click on the Apple menu in the top left corner of your desktop. From the resulting pop-up menu, click System Preferences.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 2\. Access Notifications & Focus
 
@@ -48,10 +48,6 @@ In the System Preferences window (**Figure 1**), click Notifications & Focus.
 
 Image: Jack Wallen
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 3\. Open the Focus tab
 
 Once Notifications & Focus is opened, click the Focus tab (**Figure 2**).
@@ -59,6 +55,10 @@ Once Notifications & Focus is opened, click the Focus tab (**Figure 2**).
 **Figure 2:** You'll find a single pre-configured Focus for Do Not Disturb already available.
 
 Image: Jack Wallen
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/C3cJe7Wgn6I?si=EckDFML-VJ_2sYz8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 4\. Create the new Focus
 
@@ -77,7 +77,7 @@ Image: Jack Wallen
 After naming and selecting a color/icon, click Add to save the new Focus.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/epKTCSREjhI?si=Ez_hObK1FZrmEE7f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GyfJUhsz_AY?si=x2HjoLX1B89oEPgZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 5\. Allowing specific notifications
@@ -95,7 +95,7 @@ From the pop-up list, select the contact(s) you want to be allowed to interrupt 
 Image: Jack Wallen
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Q8Feep0Rc0?si=YkPhRxXGvrRRMJtb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 6\. Set the Focus to be enabled
@@ -140,24 +140,20 @@ Use this new Focus feature wisely, and it will help you be more productive while
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-webster.techidaily.com/uash-unwanted-youtube-suggested-videos-for-2024/"><u>[New] Quash Unwanted YouTube Suggested Videos for 2024</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/updated-a-comprehensive-guide-to-instagrams-music-copyright-rules-for-2024/"><u>[Updated] A Comprehensive Guide to Instagram's Music Copyright Rules for 2024</u></a></li>
-<li><a href="https://article-files.techidaily.com/updated-srt-deep-dive-knowledge-at-your-fingertips-for-2024/"><u>[Updated] SRT Deep Dive Knowledge at Your Fingertips for 2024</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/dueling-masters-topping-10-royale-clashes-for-2024/"><u>Dueling Masters Topping 10 Royale Clashes for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/flawless-pixel-processor-windowsmac-for-2024/"><u>Flawless Pixel Processor (Windows/Mac) for 2024</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/how-to-invert-colors-in-digital-photos-for-2024/"><u>How to Invert Colors in Digital Photos for 2024</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-reset-a-realme-c67-5g-phone-that-is-locked-by-drfone-android/"><u>In 2024, How to Reset a Realme C67 5G Phone that is Locked?</u></a></li>
-<li><a href="https://program-issues.techidaily.com/maximizing-performance-unlocking-the-best-fps-settings-for-modern-warfare/"><u>Maximizing Performance: Unlocking the Best FPS Settings for Modern Warfare</u></a></li>
-<li><a href="https://fox-zero.techidaily.com/resepsi-pilihan-terbaik-dan-proses-memulihkan-partisi-dihilang-ke-dalam-cmd/"><u>Resepsi Pilihan Terbaik Dan Proses Memulihkan Partisi Dihilang Ke Dalam CMD</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/solving-installation-media-cant-be-written-to-a-gpt-disk-a-complete-guide/"><u>Solving 'Installation Media Can't Be Written to a GPT Disk': A Complete Guide</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/step-by-step-guide-enabling-remote-access-with-windows-10/"><u>Step-by-Step Guide: Enabling Remote Access with Windows 10</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/step-by-step-guide-setting-up-and-troubleshooting-miracast-on-windows-11/"><u>Step-by-Step Guide: Setting Up and Troubleshooting Miracast on Windows 11</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/step-by-step-solution-to-restore-snipping-tool-functionality-on-windows-1011/"><u>Step-by-Step Solution to Restore Snipping Tool Functionality on Windows 10/11</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/step-by-step-troubleshooting-resolving-system-locks-on-windows-11/"><u>Step-by-Step Troubleshooting: Resolving System Locks on Windows 11</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/step-by-step-tutorial-for-downloading-and-setting-up-your-google-usb-drive-support/"><u>Step-by-Step Tutorial for Downloading & Setting Up Your Google USB Drive Support</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/the-ultimate-list-of-worlds-largest-and-most-preferred-torrent-sites-top-10/"><u>The Ultimate List of World's Largest & Most Preferred Torrent Sites (Top 10)</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/toms-tech-reviews-unveiling-the-latest-in-computer-components-t17239718670261/"><u>Tom's Tech Reviews: Unveiling the Latest in Computer Components</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/top-techniques-for-enhancing-fps-in-gaming-insider-tips-and-tricks/"><u>Top Techniques for Enhancing FPS in Gaming - Insider Tips & Tricks</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/troubleshooting-guide-how-to-get-oculus-software-installed-on-windows-11-or-10-systems/"><u>Troubleshooting Guide: How to Get Oculus Software Installed on Windows 11 or 10 Systems</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-2024-approved-best-resources-to-explore-for-personalized-text-enhancements-online/"><u>[Updated] 2024 Approved Best Resources to Explore for Personalized Text Enhancements Online</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-2024-approved-navigate-through-itunes-recording-like-a-pro/"><u>[Updated] 2024 Approved Navigate Through iTunes Recording Like a Pro</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/beginners-guide-to-inconspicuous-image-tinkering-for-2024/"><u>Beginner's Guide to Inconspicuous Image Tinkering for 2024</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/enhancing-document-data-harvest-with-4-ingenious-chatgpt-methodologies/"><u>Enhancing Document Data Harvest with 4 Ingenious ChatGPT Methodologies</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-can-i-use-a-fake-gps-without-mock-location-on-oppo-a56s-5g-drfone-by-drfone-virtual-android/"><u>How Can I Use a Fake GPS Without Mock Location On Oppo A56s 5G? | Dr.fone</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-from-pixels-to-blockchain-gold-choosing-the-right-nft-engines/"><u>In 2024, From Pixels to Blockchain Gold Choosing the Right NFT Engines</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolving-microsoft-compatibility-telemetrys-excessive-disk-use-in-windows-11/"><u>Resolving Microsoft Compatibility Telemetry's Excessive Disk Use in Windows 11</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solve-your-idt-hd-audio-drivers-problems-efficiently-for-a-smooth-windows-eboard/"><u>Solve Your IDT HD Audio Drivers Problems Efficiently for a Smooth Windows Eboard</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/streamline-web-creation-with-chatgpts-helpful-four-ways/"><u>Streamline Web Creation with ChatGPT’s Helpful Four Ways</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/1722882370798-the-grand-introduction-all-you-need-to-know-about-the-new-samsung-phone/"><u>The Grand Introduction: All You Need to Know About the New Samsung Phone!</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/the-ultimate-guide-to-effortlessly-adding-and-using-chatgpt-widgets-in-android-applications/"><u>The Ultimate Guide to Effortlessly Adding and Using ChatGPT Widgets in Android Applications</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/top-9-unique-chatgpt-add-ons-boost-your-productivity-today/"><u>Top 9 Unique ChatGPT Add-Ons: Boost Your Productivity Today</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/truthcoin-unveiling-its-reality-or-a-fraud/"><u>TruthCoin: Unveiling Its Reality or A Fraud?</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/unveiling-the-problem-of-reliable-copy-detection-through-artifice-intelligence-technologies/"><u>Unveiling the Problem of Reliable Copy Detection Through Artifice Intelligence Technologies</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/your-comprehensive-guide-to-deleting-a-chatgpt-user-profile/"><u>Your Comprehensive Guide to Deleting a ChatGPT User Profile</u></a></li>
 </ul></div>
 

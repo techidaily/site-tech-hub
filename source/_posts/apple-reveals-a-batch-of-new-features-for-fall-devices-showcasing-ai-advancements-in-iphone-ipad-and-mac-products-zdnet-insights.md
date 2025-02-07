@@ -1,7 +1,7 @@
 ---
 title: Apple Reveals a Batch of New Features for Fall Devices, Showcasing AI Advancements in iPhone, iPad, and Mac Products | ZDNET Insights
-date: 2025-01-19T16:41:04.290Z
-updated: 2025-01-25T17:32:56.658Z
+date: 2025-02-04T10:48:38.478Z
+updated: 2025-02-06T21:35:42.824Z
 tags:
   - apple
 categories:
@@ -39,7 +39,7 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GFHH14XlFCk?si=2HcjQbDx5eG0ZQAt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Apple Intelligence (AI)
@@ -64,10 +64,6 @@ Maria Diaz/ZDNET
 * In the Notes app, users can **record and transcribe audio**, which Apple Intelligence will generate a text summary of. This experience is also available in the Notes phone app.
 * Apple Intelligence is free on iOS 18, iPadOS 18, and MacOS Sequoia, and will be available to try in English only this summer.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Partnership with OpenAI
 
 Jason Hiner/ZDNET
@@ -75,6 +71,10 @@ Jason Hiner/ZDNET
 * Apple also confirmed its partnership with OpenAI by integrating [ChatGPT](https://www.zdnet.com/article/what-is-chatgpt-and-why-does-it-matter-heres-everything-you-need-to-know/) with Siri. With a user's permission, Siri can send a request to ChatGPT for help. For example, if you ask Siri for assistance on a task it deems better for ChatGPT, Siri will suggest you use the chatbot instead and forward your request. ChatGPT's writing capabilities can also be leveraged within certain writing tasks.
 * Users can access ChatGPT via this integration for free, and OpenAI will not log their data. ChatGPT Plus users can connect their subscriptions to access more advanced features, in which case OpenAI's data usage policies apply.
 * The ChatGPT integration will be coming to iOS 18, iPadOS 18, and MacOS Sequoia later this year.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kZVDkvMZvP4?si=xAugrCf-Ud6EMMpm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## iOS 18
 
@@ -108,6 +108,10 @@ Adam Breeden/ZDNET
 * **Check In** is available on Apple Watch, even during workouts, to help users stay safe. **Translate** is also coming to Apple Watch so users can translate text right from their wrists.
 * Another notable change is that the **double tap gesture** can be used to scroll through apps.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## iPadOS 18
 
 Adam Breeden/ZDNET
@@ -130,7 +134,7 @@ Adam Breeden/ZDNET
 * Apple also launched a new **Viewer experience**, which does for video what Reader does for text.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## VisionOS 2
@@ -150,10 +154,6 @@ Jason Hiner/ZDNET
 * Users can **cast content** from their iPhone, iPad, or Mac to the Vision Pro using AirPlay.
 * Apple is also making the Vision Pro available in more countries starting June 28\. You can see the full list [here](https://www.apple.com/newsroom/2024/06/apple-vision-pro-arrives-in-new-countries-and-regions-beginning-june-28/).
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## AirPods
 
 Jason Hiner/ZDNET
@@ -163,7 +163,7 @@ Jason Hiner/ZDNET
 * Apple is also releasing a **Personalized Spatial Audio API** for game developers to build around the AirPods' audio technology.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## tvOS 18
@@ -210,15 +210,24 @@ Screenshot by Nina Raemont/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-videos.techidaily.com/updated-interactive-content-the-key-to-boosted-facebook-pages/"><u>[Updated] Interactive Content The Key to Boosted Facebook Pages</u></a></li>
-<li><a href="https://android-frp.techidaily.com/5-quick-methods-to-bypass-nokia-c300-frp-by-drfone-android/"><u>5 Quick Methods to Bypass Nokia C300 FRP</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/convenience-at-your-fingertips-enable-autoplay-of-youtube-videos-on-fb-for-2024/"><u>Convenience at Your Fingertips Enable Autoplay of YouTube Videos on FB for 2024</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/in-2024-the-ultimate-guide-to-bypassing-icloud-activation-lock-from-iphone-14-pro-by-drfone-ios/"><u>In 2024, The Ultimate Guide to Bypassing iCloud Activation Lock from iPhone 14 Pro</u></a></li>
-<li><a href="https://win11.techidaily.com/solutions-for-taskbar-invisibility-while-full-screen/"><u>Solutions for Taskbar Invisibility While Full-Screen</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/the-humor-of-hardware-laptop-lore-and-network-safety-chronicles/"><u>The Humor of Hardware: Laptop Lore & Network Safety Chronicles</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/the-ultimate-list-of-free-ai-solutions-for-advanced-email-creation-and-quick-inbox-recaps-with-chatgpt/"><u>The Ultimate List of Free AI Solutions for Advanced Email Creation and Quick Inbox Recaps with ChatGPT</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/understanding-dall-e-3s-integration-of-editing-tools-work-still-to-be-done/"><u>Understanding DALL-E 3'S Integration of Editing Tools – Work Still to Be Done</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/understanding-the-turing-test-how-close-are-we-to-outsmarting-ai/"><u>Understanding the Turing Test - How Close Are We to Outsmarting AI?</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/unpacking-the-google-nest-hello-an-overview-of-its-smart-home-functions-from-identifying-faces-to-detecting-packages/"><u>Unpacking the Google Nest Hello: An Overview of Its Smart Home Functions, From Identifying Faces to Detecting Packages</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-efficient-techniques-for-distributing-youtube-videos-via-facebook/"><u>[New] Efficient Techniques for Distributing YouTube Videos via Facebook</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-professional-video-editing-mastery-of-strikethrough-annotations-for-2024/"><u>[New] Professional Video Editing Mastery of Strikethrough Annotations for 2024</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-join-the-fun-best-gratuitous-meme-tools-available-for-2024/"><u>[Updated] Join the Fun Best Gratuitous Meme Tools Available for 2024</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/build-and-run-a-cost-free-gpt4localized-version-of-chatgpt-right-from-your-window-system/"><u>Build and Run a Cost-Free GPT4Localized Version of ChatGPT Right From Your Window System</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/claude-vs-chatgpt-why-this-new-bot-takes-the-lead-in-conversational-ai/"><u>Claude Vs. ChatGPT: Why This New Bot Takes the Lead in Conversational AI</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/data-mastery-reimagined-6-innovative-approaches-using-chatgpt/"><u>Data Mastery Reimagined: 6 Innovative Approaches Using ChatGPT</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/decoding-ai-jargon-an-introductory-guide-to-29-must-know-artificial-intelligence-terms/"><u>Decoding AI Jargon: An Introductory Guide to 29 Must-Know Artificial Intelligence Terms</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/demystifying-customizable-ai-for-creative-endeavors/"><u>Demystifying Customizable AI for Creative Endeavors</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-fix-androidprocessmedia-has-stopped-on-motorola-edge-2023-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix Android.Process.Media Has Stopped on Motorola Edge 2023 | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-send-and-fake-live-location-on-facebook-messenger-of-your-samsung-galaxy-m34-drfone-by-drfone-virtual-android/"><u>In 2024, How to Send and Fake Live Location on Facebook Messenger Of your Samsung Galaxy M34 | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-what-is-geo-blocking-and-how-to-bypass-it-on-itel-a70-drfone-by-drfone-virtual-android/"><u>In 2024, What is Geo-Blocking and How to Bypass it On Itel A70? | Dr.fone</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/introduction-to-langchain-your-first-guide/"><u>Introduction to LangChain: Your First Guide</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/restore-your-viewing-experience-reclaim-the-icon/"><u>Restore Your Viewing Experience - Reclaim the Icon</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/solving-the-livekernelevent-117-mishap-a-comprehensive-guide/"><u>Solving the LiveKernelEvent 117 Mishap: A Comprehensive Guide</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/the-key-differences-between-auto-gpt-and-chatgpt-explained-in-detail/"><u>The Key Differences Between Auto-GPT and ChatGPT Explained in Detail</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/the-ultimate-evaluation-of-the-apple-ipad-mini-5-small-but-mighty/"><u>The Ultimate Evaluation of the Apple iPad Mini #5 - Small but Mighty</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-overcoming-the-incompatible-driver-issue-on-rainbow-six-extraction-games/"><u>Troubleshooting: Overcoming the Incompatible Driver Issue on Rainbow Six Extraction Games</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/unlocking-additional-income-leveraging-chatgpt-tools-diy-pc-creation-guidance-and-retro-handheld-game-enthusiasm/"><u>Unlocking Additional Income: Leveraging ChatGPT Tools, DIY PC Creation Guidance, and Retro Handheld Game Enthusiasm</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/unlocking-ai-features-in-bing-search-a-beginners-sign-up-tutorial/"><u>Unlocking AI Features in Bing Search: A Beginner's Sign-Up Tutorial</u></a></li>
 </ul></div>
 

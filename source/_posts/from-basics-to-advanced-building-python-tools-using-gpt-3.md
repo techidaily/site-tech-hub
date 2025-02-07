@@ -1,7 +1,7 @@
 ---
 title: "From Basics to Advanced: Building Python Tools Using GPT-3"
-date: 2024-08-15T22:10:51.731Z
-updated: 2024-08-16T22:10:51.731Z
+date: 2025-02-02T20:11:27.168Z
+updated: 2025-02-07T11:03:57.556Z
 tags:
   - chatgpt
   - open-ai
@@ -20,6 +20,10 @@ thumbnail: https://thmb.techidaily.com/2b0be1d254da9a28eb7fb0462b3c66de235332cf8
  For this week's show, we asked ChatGPT to help out with outlining and even writing the show. Here's a bit more information on[how we used ChatGPT to script the podcast](https://www.makeuseof.com/i-used-chatgpt-to-script-a-podcast-heres-what-happened/) .
 
  You can subscribe to the Really Useful Podcast on[Apple Podcasts](https://podcasts.apple.com/gb/podcast/the-really-useful-podcast/id1437847131?mt=2) ,[Spotify](https://open.spotify.com/show/283gDxLd6OTNEpRq6tN7ha) ,[Google Podcasts](https://www.google.com/podcasts?feed=aHR0cHM6Ly9hbmNob3IuZm0vcy8zMWJlNDcwL3BvZGNhc3QvcnNz) ,[Amazon Music and Audible](https://music.amazon.co.uk/podcasts/20ab73d4-5da2-46c7-a17f-dc6eb39bdb48/The-Really-Useful-Podcast) ,[Player FM](https://player.fm/series/the-really-useful-podcast-2491856) , or copy the[RSS feed](https://feeds.transistor.fm/the-really-useful-podcast) into your podcast player.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Shownotes
 
@@ -44,14 +48,11 @@ We finish the show with the following recommendations:
 
  Christian Cawley hosts this week's podcast, and is joined by Ben Stegner. You can contact them on Twitter:[@thegadgetmonkey](https://twitter.com/thegadgetmonkey) and[@stegnersaurus](https://twitter.com/stegnersaurus) , with your suggestions for future topics.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -60,8 +61,21 @@ We finish the show with the following recommendations:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-posts.techidaily.com/new-2024-approved-enhancing-digital-meetings-focus-up-techniques/"><u>[New] 2024 Approved Enhancing Digital Meetings Focus Up Techniques</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-high-performance-gpu-picks-for-quality-video-streaming/"><u>[Updated] 2024 Approved High-Performance GPU Picks for Quality Video Streaming</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-2024-approved-top-8-best-video-grabbers-for-windows-10/"><u>[Updated] 2024 Approved Top 8 Best Video Grabbers for Windows 10</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-tech-titans-in-vr-top-10-mobile-headsets-reviewed/"><u>[Updated] Tech Titans in VR Top 10 Mobile Headsets Reviewed</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/a-comprehensive-tour-youtube-creator-suite-for-2024/"><u>A Comprehensive Tour YouTube Creator Suite for 2024</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/ai-titans-collide-unraveling-palm-2-and-gpt-4-differences/"><u>AI Titans Collide: Unraveling PaLM 2 and GPT-4 Differences</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/bypass-the-phone-number-hurdle-easy-registration-for-services-like-chatgpt-and-telegram/"><u>Bypass the Phone Number Hurdle: Easy Registration for Services Like ChatGPT and Telegram</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/comprehensive-troubleshooting-overcoming-the-common-chatgpt-body-stream-glitch-with-ease/"><u>Comprehensive Troubleshooting: Overcoming the Common ChatGPT Body Stream Glitch with Ease</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/effortless-auto-gpt-installation-follow-these-steps/"><u>Effortless Auto-GPT Installation - Follow These Steps!</u></a></li>
+<li><a href="https://win-news.techidaily.com/exploring-typical-issues-in-microsofts-registry-system-insights-from-yl-software/"><u>Exploring Typical Issues in Microsoft's Registry System - Insights From YL Software</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/how-secure-is-your-data-with-chatgpt-examining-the-privacy-implications/"><u>How Secure Is Your Data with ChatGPT: Examining the Privacy Implications</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-access-your-iphone-11-when-you-forget-the-passcode-drfone-by-drfone-ios/"><u>In 2024, How to Access Your iPhone 11 When You Forget the Passcode? | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-access-your-iphone-se-2022-when-you-forget-the-passcode-drfone-by-drfone-ios/"><u>In 2024, How to Access Your iPhone SE (2022) When You Forget the Passcode? | Dr.fone</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/machine-mentors-ais-ethical-boundaries/"><u>Machine Mentors: AI's Ethical Boundaries</u></a></li>
+</ul></div>
 
-
-<!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793233/19578" target="_top" id="1793233"><img src="//a.impactradius-go.com/display-ad/19578-1793233" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793233/19578" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->

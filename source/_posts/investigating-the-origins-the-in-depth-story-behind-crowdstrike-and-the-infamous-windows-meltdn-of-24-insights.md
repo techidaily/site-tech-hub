@@ -1,7 +1,7 @@
 ---
 title: "Investigating the Origins: The In-Depth Story Behind CrowdStrike and the Infamous Windows Meltdn of '24 | Insights"
-date: 2025-01-19T16:17:36.984Z
-updated: 2025-01-25T16:48:51.534Z
+date: 2025-01-30T21:14:20.802Z
+updated: 2025-02-07T03:40:22.214Z
 tags:
   - apple
 categories:
@@ -33,7 +33,7 @@ In this case, the trusted software developer is a firm called CrowdStrike Holdin
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What happened?
@@ -55,7 +55,7 @@ Repairing the damage from a flaw like this is a painfully tedious process that r
 If you know anyone whose job involves administering Windows PCs in a corporate network that uses the CrowdStrike code, you can be confident they are very busy right now, and will be for days to come.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/djPqRkskaBo?si=O6FEI-KVW0HwN417" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GyfJUhsz_AY?si=x2HjoLX1B89oEPgZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## We've seen this movie before
@@ -95,7 +95,7 @@ In the You Can't Make This Up Department… CrowdStrike's founder and CEO, Georg
 What makes the 2024 sequel so much worse is that it also affected Windows-based servers running in the cloud, on Microsoft Azure and on AWS. Just as with the many laptops and desktop PCs that were bricked by this faulty update, the cloud-based servers require time-consuming manual interventions to recover.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## CrowdStrike's QA failed
@@ -125,7 +125,7 @@ As part of its initial response, CrowdStrike says it plans to take additional me
 Meanwhile, the United States House of Representatives Homeland Security Committee plans to call CrowdStrike's CEO up for hearings on what went wrong, and CrowdStrike's Chief Security Officer, Shawn Henry, [posted an apology on LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:7220983915421806592/), admitting "On Friday, we failed you. ... The confidence we built in drips over the years was lost in buckets within hours, and it was a gut punch."
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=LvxQhsEJoymsM2iZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How much fault should Microsoft shoulder?
@@ -176,18 +176,14 @@ Nonetheless, this incident, which caused many billions of dollars' worth of dama
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-data.techidaily.com/n-2024-the-ultimate-list-of-8-real-world-youtube-boosters/"><u>[New] In 2024, The Ultimate List of 8 Real-World YouTube Boosters</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/n-2024-transform-your-content-reach-with-strategic-tagging-insight/"><u>[New] In 2024, Transform Your Content Reach with Strategic Tagging Insight</u></a></li>
-<li><a href="https://video-capture.techidaily.com/updated-in-2024-crafting-new-frontiers-with-webcam-capabilities/"><u>[Updated] In 2024, Crafting New Frontiers with Webcam Capabilities</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/chatgpt-accounts-a-cybercriminals-playground/"><u>ChatGPT Accounts: A Cybercriminal's Playground?</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/how-courteous-should-you-be-with-smart-tech-alexa-siri/"><u>How Courteous Should You Be with Smart Tech? (Alexa, Siri)</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-3-methods-to-mirror-vivo-v29-to-roku-drfone-by-drfone-android/"><u>In 2024, 3 Methods to Mirror Vivo V29 to Roku | Dr.fone</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-top-11-free-apps-to-check-imei-on-infinix-smart-7-phones-by-drfone-android/"><u>In 2024, Top 11 Free Apps to Check IMEI on Infinix Smart 7 Phones</u></a></li>
-<li><a href="https://video-creation-software.techidaily.com/new-in-2024-top-10-best-free-mp4-video-editors-2023/"><u>New In 2024, Top 10 Best Free MP4 Video Editors 2023</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/openai-playground-mastery-leveraging-the-power-of-gpt-3-explained/"><u>OpenAI Playground Mastery: Leveraging the Power of GPT-3 Explained</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/romance-fraud-alert-how-cybercriminals-employ-artificial-intelligence-for-manipulation-7-tactics-exposed/"><u>Romance Fraud Alert: How Cybercriminals Employ Artificial Intelligence for Manipulation – 7 Tactics Exposed</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/samsung-galaxy-fit2-the-ultimate-portable-workout-companion/"><u>Samsung Galaxy Fit2: The Ultimate Portable Workout Companion</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/1722857388809-troubleshooting-steps-resolving-client-and-server-side-vpn-error-code-800/"><u>Troubleshooting Steps: Resolving Client & Server-Side VPN Error Code 800</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/updated-is-videopad-the-right-video-editor-for-you-our-expert-review-for-2024/"><u>Updated Is Videopad the Right Video Editor for You? Our Expert Review for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-cutting-edge-techniques-for-ios-users-uploading-videos-to-youtube/"><u>[New] In 2024, Cutting-Edge Techniques for iOS Users Uploading Videos to YouTube</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/he-benefits-of-tubebuddy-manage-your-youtube-channel-for-2024/"><u>[New] The Benefits of TubeBuddy | Manage Your YouTube Channel for 2024</u></a></li>
+<li><a href="https://article-files.techidaily.com/2024-approved-optimal-data-buffering-for-sony-a7s-ii/"><u>2024 Approved Optimal Data Buffering for Sony A7S II</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/a-bilingual-mindsets-benefits-countdown-to-6/"><u>A Bilingual Mindset's Benefits Countdown to 6</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/alteremailonprotonbrowser-a-step-by-step-guide/"><u>AlterEmailOnProtonBrowser: A Step-By-Step Guide</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/in-2024-discover-hidden-audio-makers-6-stealthy-iosandroid-tools/"><u>In 2024, Discover Hidden Audio Makers 6 Stealthy iOS/Android Tools</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/revolutionizing-personal-gadgets-6-ways-chatgpt-is-shaping-the-future-of-smartwatches/"><u>Revolutionizing Personal Gadgets: 6 Ways ChatGPT Is Shaping the Future of Smartwatches</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/streamline-your-day-discover-9-ways-chatgpt-enhances-daily-living/"><u>Streamline Your Day: Discover 9 Ways ChatGPT Enhances Daily Living</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/understanding-gpts-blindspot-the-reason-behind-its-inability-to-recognize-its-own-output/"><u>Understanding GPT's Blindspot: The Reason Behind Its Inability to Recognize Its Own Output</u></a></li>
 </ul></div>
 

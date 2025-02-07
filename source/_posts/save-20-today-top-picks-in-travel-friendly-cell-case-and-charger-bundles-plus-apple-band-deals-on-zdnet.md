@@ -1,7 +1,7 @@
 ---
 title: "Save 20%% Today: Top Picks in Travel-Friendly Cell Case & Charger Bundles + Apple Band Deals on ZDNet"
-date: 2025-01-18T17:02:03.333Z
-updated: 2025-01-25T16:41:56.387Z
+date: 2025-01-30T18:05:25.880Z
+updated: 2025-02-06T21:32:31.580Z
 tags:
   - apple
 categories:
@@ -76,7 +76,7 @@ Equipped with an Nvidia GeForce RTX 4080 GPU and a dual mode mini LED display, t
 [View now at Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0C3P346B4%2Fref%3Dasc%5Fdf%5FB0C3P346B41727002800000%3Fcreative%3D395261%26creativeASIN%3DB0C3P346B4%26linkCode%3Dasn%26tag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Ca9ce9008-3603-459e-8a58-f4457742ba16%7Cdtp&dtb=1) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aG3NRuHrIJg?si=HwzwD0RXmrzIXX1V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Prime Day Chromebook deals
@@ -96,7 +96,7 @@ Kyle Kucharski/ZDNET
 * [Apple MacBook Pro (M3) for $1,400 (save $200)](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FApple-MacBook-Laptop-8%E2%80%91core-10%E2%80%91core%2Fdp%2FB0CM5JV268%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Ca9ce9008-3603-459e-8a58-f4457742ba16%7Cdtp&dtb=1): The [MacBook Pro (M3)](https://www.zdnet.com/article/m3-macbook-pro-buying-advice/) is one of the best-performing laptops on the market, and it's $200 off -- make sure you add the coupon offer on the page.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PKZUYice-ws?si=L8iMa9T3h7TMSWdQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Prime Day HP laptop deals
@@ -107,16 +107,16 @@ HPZDNET
 * [HP Victus 15.6-inch laptop for $599 (Save $100)](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FHP-Display-i5-12450H-Dedicated-15-fa1029nr%2Fdp%2FB0CVNJ7LLN%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Ca9ce9008-3603-459e-8a58-f4457742ba16%7Cdtp&dtb=1): This is a great price for a 15-inch laptop designed for cloud gaming and light creative work. It's got an Nvidia GeForce RTX 2050 dedicated graphics card and a144Hz Full-HD display.
 * [HP 14 inch Laptop for $349 (Save $120)](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FHP-Generation-i3-1215U-Graphics-14-dq5009nr%2Fdp%2FB0CS3XPZNH%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Ca9ce9008-3603-459e-8a58-f4457742ba16%7Cdtp&dtb=1): This budget laptop features a modest suite of hardware but covers all the basics for an inexpensive but capable and portable machine.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Prime Day Lenovo deals
 
 Lenovo/ZDNET
 
 * [Lenovo Legion 5i for $1,339 (save $160)](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FLenovo-Display-GeForce-2560x1600-Battery%2Fdp%2FB0CVLFS7WP%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Ca9ce9008-3603-459e-8a58-f4457742ba16%7Cdtp&dtb=1): This 16-inch laptop from Lenovo's gaming PC line features an Intel i7 processor, 32GB of RAM, and a solid selection of ports for all your gaming accessories for just $1,500.
 * [Lenovo ThinkBook 15 for $525 (save $74)](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FLenovo-ThinkBook-15-Business-i7-1165G7%2Fdp%2FB0D1CQPWPG%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Ca9ce9008-3603-459e-8a58-f4457742ba16%7Cdtp&dtb=1): This laptop is a powerhouse for your back-to-school or business needs. Its 8-core AMD Ryzen 7 processor pairs with 16GB of RAM, so any major spec-heavy tasks will perform smoothly.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Dn-24B6AURY?si=ErES2KWVnintY6h9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Best Buy laptop deals during Prime Day
 
@@ -135,6 +135,10 @@ Kyle Kucharski/ZDNET
 * [Microsoft Surface Pro 9 for $2,049 (save $651)](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FMicrosoft-Surface-Tablet-High-Performance-Pre-Installed%2Fdp%2FB0C5MW8R35%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Ca9ce9008-3603-459e-8a58-f4457742ba16%7Cdtp&dtb=1): It doesn't get more ultraportable than Microsoft's Surface Pro series of laptops, and the 13-inch Surface Pro 9 tablet is currently 20% off the regular price for just $2,149\. For that price, you're getting a powerful Intel Core i7 processor, a 1TB SSD, and more than 15 hours of battery life.
 * [Asus VivoBook 16 for $479 (save $120)](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FASUS-VivoBook-Laptop-WUXGA-1920%2Fdp%2FB0BT6NKLQR%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Ca9ce9008-3603-459e-8a58-f4457742ba16%7Cdtp&dtb=1): One of the most versatile and well-rounded laptops on the market is also one of the most affordable. The Vivobook 16 is designed to handle a variety of use cases with ease, and for just $479 you can't go wrong with its 1TB of storage, Windows 11, and solid selection of ports.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## FAQs
 
 ### When is Amazon Prime Day 2024?
@@ -145,23 +149,19 @@ Amazon Prime Day officially ran from July 16 to July 17, but sometimes deals con
 
 There are a lot of great gaming laptops on sale right now, but in our opinion, [this deal on the Razer Blade 16](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FRazer-Blade-Gaming-Laptop-4090-13th%2Fdp%2FB0BQP1WCP4%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Ca9ce9008-3603-459e-8a58-f4457742ba16%7Cdtp&dtb=1) is the best. We're talking $1,000 off one of the most high-end gaming laptops on the market, with hardware that is future-proofed to be relevant for years to come. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Is Amazon Prime Day a good time to buy a laptop?
 
 Even though Amazon isn't typically the first place you think of when you're shopping for a new laptop, there are some great deals that pop up if you're willing to look. We've thoroughly combed through the deals to find some diamonds in the rough, and listed the best ones here.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Vca--yEhtdo?si=7ijqjyP-oi3LYze1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### How did we choose these Prime Day deals?
 
 At ZDNET, we only write about deals our team members would want to buy -- devices and products we desire, need, or would recommend. We looked for deals that were at least 20% off (or are hardly ever on sale), using established price comparison tools and trackers to determine whether the deal is actually on sale and how frequently it drops.
 
 We also looked over customer reviews to find out what matters to real people who already own and use the deals we recommend. These recommendations may also be based on our own testing -- in addition to extensive research and comparison shopping. The goal is to deliver the most accurate advice to help you shop smarter.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### When will these deals expire?
 
@@ -230,24 +230,21 @@ And the best deals still available from other retailers this week:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-video-capture.techidaily.com/new-2024-approved-innovative-puzzles-await-in-leading-room-escape-experiences/"><u>[New] 2024 Approved Innovative Puzzles Await in Leading Room Escape Experiences</u></a></li>
-<li><a href="https://article-posts.techidaily.com/new-2024-approved-lut-basics-for-enhanced-visual-effects-in-ae/"><u>[New] 2024 Approved LUT Basics for Enhanced Visual Effects in AE</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/new-2024-approved-quick-and-easy-conducting-instagram-stories-polls-today/"><u>[New] 2024 Approved Quick & Easy Conducting Instagram Stories Polls Today</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/new-trending-tweets-triumph-twitters-highest-viewed-video-hits-for-2024/"><u>[New] Trending Tweets Triumph Twitter's Highest-Viewed Video Hits for 2024</u></a></li>
-<li><a href="https://youtube-video-recordings.techidaily.com/elevate-streams-using-youtubes-av1-settings-for-2024/"><u>Elevate Streams Using YouTube's AV1 Settings for 2024</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/enhancing-presentation-quality-harnessing-the-potential-of-chatgpt/"><u>Enhancing Presentation Quality: Harnessing the Potential of ChatGPT</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/expert-guidance-on-pc-components-with-toms-assessments/"><u>Expert Guidance on PC Components with Tom's Assessments</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/harnessing-ai-for-wealth-chatgpts-8-promising-ventures/"><u>Harnessing AI for Wealth - ChatGPT’s 8 Promising Ventures</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/how-to-easily-add-codegpt-to-visual-studio-code-an-in-depth-walkthrough/"><u>How to Easily Add CodeGPT to Visual Studio Code: An In-Depth Walkthrough</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/inside-iphones-buyback-and-subscription-program/"><u>Inside iPhone's Buyback & Subscription Program</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/inside-openais-incentive-system-for-cybersecurity-testing-a-step-by-step-participant-guide/"><u>Inside OpenAI’s Incentive System for Cybersecurity Testing: A Step-by-Step Participant Guide</u></a></li>
-<li><a href="https://win-dash.techidaily.com/quick-download-for-samsung-c460-usb-drivers-expert-advice/"><u>Quick Download for Samsung C460 USB Drivers - Expert Advice</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/redefining-innovation-how-openais-gpt-4-ai-is-setting-new-standards-in-tech/"><u>Redefining Innovation: How OpenAI's GPT-4 AI Is Setting New Standards in Tech</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/revolutionary-impact-of-gpt-4-on-do-it-yourself-sectors/"><u>Revolutionary Impact of GPT-4 on Do-It-Yourself Sectors</u></a></li>
-<li><a href="https://fox-ssl.techidaily.com/the-premier-list-of-us-top-tier-digital-marketers-with-massmail-solutions/"><u>The Premier List of US Top-Tier Digital Marketers with MassMail Solutions</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/top-power-user-favorites-how-this-lenovo-laptop-stands-out-with-essential-capabilities/"><u>Top Power-User Favorites: How This Lenovo Laptop Stands Out with Essential Capabilities</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/understanding-openais-bug-bounty-initiative-a-guide-to-participation/"><u>Understanding OpenAI's Bug Bounty Initiative: A Guide to Participation</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/understanding-the-censorship-mechanisms-in-your-virtual-assistants/"><u>Understanding the Censorship Mechanisms in Your Virtual Assistants</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/unlocking-creative-potential-with-nvidias-adaptable-generative-models/"><u>Unlocking Creative Potential with NVIDIA's Adaptable Generative Models</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-frame-it-up-right-expert-approved-photo-editing-software-2023/"><u>[New] Frame It Up Right Expert-Approved Photo Editing Software, 2023</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-jokesterjuxtaposer-for-2024/"><u>[New] JokesterJuxtaposer for 2024</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-understanding-your-macs-capabilities-in-big-sur/"><u>[New] Understanding Your Mac's Capabilities in Big Sur</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-innovation-unleashed-new-samsung-ubd-k8500-review/"><u>[Updated] Innovation Unleashed - New Samsung UBD-K8500 Review</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-recording-your-live-feed-without-spending-a-dime-for-2024/"><u>[Updated] Recording Your Live Feed without Spending a Dime for 2024</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/expert-tips-for-deleting-every-interaction-youve-had-with-chatgpt/"><u>Expert Tips for Deleting Every Interaction You've Had with ChatGPT</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/expertly-curated-selection-of-8-must-have-artifice-intelligence-apps-on-mobile-phones/"><u>Expertly Curated Selection of 8 Must-Have Artifice Intelligence Apps on Mobile Phones</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/exploring-the-decline-of-chatgpt-jailbreaks-top-7-factors-behind-their-ineffectiveness/"><u>Exploring the Decline of ChatGPT Jailbreaks: Top 7 Factors Behind Their Ineffectiveness</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-life360-learn-how-everything-works-on-realme-c33-2023-drfone-by-drfone-virtual-android/"><u>In 2024, Life360 Learn How Everything Works On Realme C33 2023 | Dr.fone</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-step-by-step-guide-to-swap-fins-sounds-on-windows/"><u>In 2024, Step-by-Step Guide to Swap Fins' Sounds on Windows</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/mimicking-your-penmanship-adapting-chatgpt-for-authentic-self-expressive-writing/"><u>Mimicking Your Penmanship: Adapting ChatGPT for Authentic Self-Expressive Writing</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/navigating-10-essential-stages-for-proficient-smm-expertise/"><u>Navigating 10 Essential Stages for Proficient SMM Expertise</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/restoring-visibility-how-to-show-disappeared-apps-on-your-iphone/"><u>Restoring Visibility: How to Show Disappeared Apps on Your iPhone</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/revolutionize-meal-prep-using-chatgpt-discover-7-resourceful-methods/"><u>Revolutionize Meal Prep Using ChatGPT: Discover 7 Resourceful Methods</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/secure-your-conversations-with-duckduckgo-ai-chat-meet-the-alternative-to-chatgpt/"><u>Secure Your Conversations with DuckDuckGo AI Chat - Meet the Alternative to ChatGPT</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/transform-your-ride-with-ai-tips-for-consulting-chatgpt-on-car-upgrades/"><u>Transform Your Ride with AI: Tips for Consulting ChatGPT on Car Upgrades</u></a></li>
 </ul></div>
 

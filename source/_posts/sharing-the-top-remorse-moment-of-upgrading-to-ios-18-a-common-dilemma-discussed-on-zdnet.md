@@ -1,7 +1,7 @@
 ---
 title: Sharing the Top Remorse Moment of Upgrading to iOS 18 – A Common Dilemma Discussed on ZDNet
-date: 2025-01-19T17:24:14.728Z
-updated: 2025-01-25T16:23:29.179Z
+date: 2025-02-03T03:07:31.465Z
+updated: 2025-02-07T09:13:00.010Z
 tags:
   - apple
 categories:
@@ -60,7 +60,7 @@ Aside from the inferior Photos app navigation, videos in the Photos app no longe
 "The UX is a huge downgrade. It's so bad that I had to submit feedback to Apple via the feedback app in the beta. Never did one of those when it wasn't a technical bug, just pure user experience frustration," another [Redditor said](https://www.reddit.com/r/apple/comments/1e2jtq5/comment/ld1wsjg/?utm%5Fsource=share&utm%5Fmedium=web3x&utm%5Fname=web3xcss&utm%5Fterm=1&utm%5Fcontent=share%5Fbutton).
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to navigate the iOS 18 Photos app
@@ -109,18 +109,18 @@ I hope a future version of iOS 18 will bring back the Camera Roll or at least to
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-hints.techidaily.com/updated-bold-broadcasters-on-a-budget-youtube-live-not-1000plus-supporters/"><u>[Updated] Bold Broadcasters on a Budget YouTube LIVE, Not 1000+ Supporters</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/1722205360116-create-stunning-visuals-in-minutes-top-7-ai-driven-presentation-tools-revealed/"><u>Create Stunning Visuals in Minutes: Top 7 AI-Driven Presentation Tools Revealed!</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/decoding-digital-gestures-understanding-what-swipe-left-and-swipe-right-really-signify/"><u>Decoding Digital Gestures: Understanding What 'Swipe Left' And 'Swipe Right' Really Signify</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/enhance-remote-working-efficiency-using-chatgpt-a-guide-to-6-key-methods/"><u>Enhance Remote Working Efficiency Using ChatGPT - A Guide to 6 Key Methods</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/enhancing-your-studies-with-chatgpt-best-practices-for-students/"><u>Enhancing Your Studies with ChatGPT: Best Practices for Students</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/experience-top-value-with-our-detailed-fossil-sports-watch-evaluation/"><u>Experience Top Value with Our Detailed Fossil Sports Watch Evaluation</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/exploring-the-cutting-edge-advantage-the-transformative-power-of-one-million-tokens-in-gemini-15-for-ai-contexts/"><u>Exploring the Cutting-Edge Advantage: The Transformative Power of One Million Tokens in Gemini 1.5 for AI Contexts</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/generate-stunning-visuals-with-dall-e-3-on-microsoft-bing-free-tutorial/"><u>Generate Stunning Visuals with DALL-E 3 on Microsoft Bing - Free Tutorial</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/getting-your-sound-blaster-microphone-back-on-track-a-comprehensive-guide/"><u>Getting Your Sound Blaster Microphone Back on Track: A Comprehensive Guide</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/how-to-sharefake-location-on-whatsapp-for-tecno-spark-20c-drfone-by-drfone-virtual-android/"><u>How to Share/Fake Location on WhatsApp for Tecno Spark 20C | Dr.fone</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-the-most-useful-tips-for-pokemon-go-ultra-league-on-oppo-reno-8t-5g-drfone-by-drfone-virtual-android/"><u>In 2024, The Most Useful Tips for Pokemon Go Ultra League On Oppo Reno 8T 5G | Dr.fone</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/master-quick-gpt-automation-setup-download-and-install-instructions-unveiled/"><u>Master Quick GPT Automation Setup: Download & Install Instructions Unveiled</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/zero-in-on-the-problem-discover-these-5-ways-to-help-your-canon-printer-print/"><u>Zero in on the Problem: Discover These 5 Ways to Help Your Canon Printer Print</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-2024-approved-essential-skills-for-capturing-soundless-videography/"><u>[New] 2024 Approved Essential Skills for Capturing Soundless Videography</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/new-a-peek-into-the-heart-of-youtubes-video-operations/"><u>[New] A Peek Into the Heart of YouTube's Video Operations</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/n-2024-the-essential-playbook-achieving-peak-video-editing-on-youtube-studio/"><u>[New] In 2024, The Essential Playbook Achieving Peak Video Editing on YouTube Studio</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-download-and-store-linkedin-videos-the-ultimate-list-of-6-essential-apps/"><u>[Updated] Download & Store LinkedIn Videos The Ultimate List of 6 Essential Apps</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/2024-approved-the-visual-archive-top-hd-video-recorders-unveiled/"><u>2024 Approved The Visual Archive Top HD Video Recorders Unveiled</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/can-you-unlock-iphone-8-plus-after-forgetting-the-passcode-drfone-by-drfone-ios/"><u>Can You Unlock iPhone 8 Plus After Forgetting the Passcode? | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-track-oppo-a58-4g-location-without-installing-software-drfone-by-drfone-virtual-android/"><u>How to Track Oppo A58 4G Location without Installing Software? | Dr.fone</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/mastering-digital-writing-9-ways-chatgpt-revolutionizes-content-creation/"><u>Mastering Digital Writing: 9 Ways ChatGPT Revolutionizes Content Creation</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/overcoming-machine-learning-illusions-using-6-proven-prompt-techniques/"><u>Overcoming Machine Learning Illusions Using 6 Proven Prompt Techniques</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/snapchats-ai-options-compared-is-myai-or-chatgpt-better-suited-for-you/"><u>Snapchat's AI Options Compared: Is MyAI or ChatGPT Better Suited for You?</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/step-by-step-guide-to-constructing-a-richly-detailed-ai-rpg-using-chatgpt-technology/"><u>Step-by-Step Guide to Constructing a Richly Detailed AI RPG Using ChatGPT Technology</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/top-11-free-apps-to-check-imei-on-honor-x9b-phones-by-drfone-android/"><u>Top 11 Free Apps to Check IMEI on Honor X9b Phones</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/top-imei-unlokers-for-your-realme-narzo-n53-phone-by-drfone-android/"><u>Top IMEI Unlokers for Your Realme Narzo N53 Phone</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Epic Sale Alert for Apple Enthusiasts! Score Your Favorite AirPods at an Unbeatable $40 Price Drop This 4Th of July
-date: 2025-01-19T16:56:48.447Z
-updated: 2025-01-25T17:00:34.670Z
+date: 2025-02-02T09:53:40.432Z
+updated: 2025-02-07T08:47:50.631Z
 tags:
   - apple
 categories:
@@ -30,7 +30,7 @@ The second-generation AirPods come with a Lightning charger case. They offer sol
 Buy the AirPods on sale at [Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FApple-AirPods-Charging-Latest-Model%2Fdp%2FB07PXGQC1Q%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cc897cc8f-f17e-41e6-8410-d72f180f8ed4%7Cdtp&dtb=1) now. You can also check out more [headphone deals](https://www.zdnet.com/article/best-headphone-deals/) and the [top products ZDNET readers bought last month](https://www.zdnet.com/home-and-office/the-25-most-popular-products-zdnet-readers-bought-last-month/).
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## When will this deal expire?
@@ -62,24 +62,21 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-info.techidaily.com/new-2024-approved-recommendation-best-websites-for-downloading-snapchat-ringtone/"><u>[New] 2024 Approved Recommendation Best Websites For Downloading Snapchat Ringtone</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/new-screenmaster-review-the-latest-in-tech-capture-for-2024/"><u>[New] ScreenMaster Review The Latest in Tech Capture for 2024</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/new-ultimate-2024-lists-high-quality-unboxers-on-youtube/"><u>[New] Ultimate 2024 Lists - High-Quality Unboxers on YouTube</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-unboxing-high-fidelity-gaming-recorders-for-2024/"><u>[Updated] Unboxing High-Fidelity Gaming Recorders for 2024</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/2024-approved-building-a-winning-portfolio-with-windows-11-video-editing-skills/"><u>2024 Approved Building a Winning Portfolio with Windows 11 Video Editing Skills</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/chatgpt-confidentiality-methods-for-conversation-camouflage-without-deletion/"><u>ChatGPT Confidentiality: Methods for Conversation Camouflage Without Deletion</u></a></li>
-<li><a href="https://article-helps.techidaily.com/customize-and-download-free-outro-video-templates/"><u>Customize and Download Free Outro Video Templates</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/demystifying-generative-ai-what-you-need-to-know-about-this-innovative-tech/"><u>Demystifying Generative AI: What You Need To Know About This Innovative Tech</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/does-chatgpt-ever-tread-the-line-of-plagiarism-a-deep-dive-into-its-data-practices/"><u>Does ChatGPT Ever Tread the Line of Plagiarism? A Deep Dive Into Its Data Practices.</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/from-generic-to-personalized-ai-constructing-a-tailored-chatgpt-experience/"><u>From Generic to Personalized AI: Constructing a Tailored ChatGPT Experience</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/has-oversight-over-chatgpt-became-an-issue-for-openai/"><u>Has Oversight Over ChatGPT Became an Issue for OpenAI?</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-how-to-fake-snapchat-location-without-jailbreak-on-nokia-g42-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fake Snapchat Location without Jailbreak On Nokia G42 5G | Dr.fone</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/mastering-gpt-written-language-and-web-integration/"><u>Mastering GPT' Written Language and Web Integration</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/mastering-your-schedule-top-4-techniques-with-chatgpt/"><u>Mastering Your Schedule: Top 4 Techniques with ChatGPT</u></a></li>
-<li><a href="https://techtrends.techidaily.com/1725289326027-mp4avchd/"><u>MP4とAVCHDフォーマットの容易かつ鮮明な互換可能化手法解説!</u></a></li>
-<li><a href="https://video-content-creator.techidaily.com/new-in-2024-with-the-trending-of-videos-more-and-more-people-are-likely-to-create-videos-to-help-people-figure-out-the-best-free-online-video-editing-tools-/"><u>New In 2024, With the Trending of Videos, More and More People Are Likely to Create Videos. To Help People Figure Out the Best Free Online Video Editing Tools, Ive Tested some Online Video Editors on the Market A</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/simplified-hangul-learning-your-guide-to-seamless-script-acquisition/"><u>Simplified Hangul Learning: Your Guide to Seamless Script Acquisition</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/the-verdict-on-using-bots-for-economic-planning/"><u>The Verdict on Using Bots for Economic Planning</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/top-5-virtual-therapists-the-bot-revolution/"><u>Top 5 Virtual Therapists: The Bot Revolution</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-2024-approved-trending-tweet-treasures-1-10-showdown/"><u>[New] 2024 Approved Trending Tweet Treasures #1-#10 Showdown</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-in-2024-from-shoots-to-screens-dslr-setup-for-youtubefacebook-live/"><u>[New] In 2024, From Shoots to Screens DSLR Setup for YouTube/Facebook Live</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-2024-approved-optimized-protocols-snapshots-of-gotomeetings-made-simple/"><u>[Updated] 2024 Approved Optimized Protocols Snapshots of GoToMeetings Made Simple</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-top-12-affordable-high-quality-video-apps-recommended-for-pc-and-android-devices-for-2024/"><u>[Updated] Top 12 Affordable, High-Quality Video Apps Recommended for PC & Android Devices for 2024</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-top-15-snapchat-sharing-tactics-for-maximum-impact-for-2024/"><u>[Updated] Top 15 Snapchat Sharing Tactics for Maximum Impact for 2024</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/chatgpt-not-working-here-are-9-fixes-to-get-it-running-smoothly-on-your-iphone/"><u>ChatGPT Not Working? Here Are 9 Fixes to Get It Running Smoothly on Your iPhone</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/discover-essential-plugins-for-integrating-chatgpt-into-your-cryptocurrency-applications/"><u>Discover Essential Plugins for Integrating ChatGPT Into Your Cryptocurrency Applications</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/discover-the-leading-replacements-for-chatgpt-ranked/"><u>Discover the Leading Replacements for ChatGPT - Ranked</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/future-frontiers-the-new-era-of-chatbots-and-ai/"><u>Future Frontiers: The New Era of Chatbots & AI</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-reset-a-locked-asus-rog-phone-8-pro-phone-by-drfone-android/"><u>How to Reset a Locked Asus ROG Phone 8 Pro Phone</u></a></li>
+<li><a href="https://os-tips.techidaily.com/reviving-your-disappeared-phone-numbers-a-step-by-step-guide-to-recovering-lost-contacts-post-itunes-backup/"><u>Reviving Your Disappeared Phone Numbers: A Step-by-Step Guide to Recovering Lost Contacts Post-iTunes Backup</u></a></li>
+<li><a href="https://fox-http.techidaily.com/step-by-step-converting-pinterest-vids-to-mp3-audio/"><u>Step-by-Step Converting Pinterest Vids to MP3 Audio</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/the-cautionary-tale-of-artificial-intelligence-in-therapy-top-9-dangers-to-consider/"><u>The Cautionary Tale of Artificial Intelligence in Therapy: Top 9 Dangers to Consider</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/the-essential-guide-for-swift-ipad-screen-captures-for-2024/"><u>The Essential Guide for Swift iPad Screen Captures for 2024</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/transform-your-android-experience-easy-steps-to-enable-voice-controlled-chatgpt-via-voicegpt/"><u>Transform Your Android Experience: Easy Steps to Enable Voice Controlled ChatGPT via VoiceGPT</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/why-choose-claude-over-gpt-focusing-on-the-4-foremost-upgrades/"><u>Why Choose Claude Over GPT: Focusing on the 4 Foremost Upgrades</u></a></li>
 </ul></div>
 

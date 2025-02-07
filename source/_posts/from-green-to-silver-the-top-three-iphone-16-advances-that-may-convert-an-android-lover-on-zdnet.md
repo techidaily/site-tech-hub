@@ -1,7 +1,7 @@
 ---
 title: "From Green to Silver: The Top Three iPhone 16 Advances That May Convert an Android Lover on ZDNet."
-date: 2025-01-18T17:05:21.904Z
-updated: 2025-01-25T17:28:52.165Z
+date: 2025-02-01T10:10:05.699Z
+updated: 2025-02-07T07:33:22.605Z
 tags:
   - apple
 categories:
@@ -37,7 +37,7 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/djPqRkskaBo?si=O6FEI-KVW0HwN417" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. Reducing lens flare with new materials
@@ -49,7 +49,7 @@ When capturing images with the iPhone -- Pro model or not -- bright light source
 As reported by [MacRumors](https://www.macrumors.com/2024/04/15/iphone-16-pro-camera-reduced-lens-flare/), sources close to Apple's supply chain have hinted that the company is testing a new anti-reflective optical coating, made of atomic layer deposition, intended to reduce the camera artifacts previously mentioned. Should Apple introduce the feature with the iPhone 16, it would fix one of the longest-standing complaints about the iPhone camera system.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Higher refresh rate displays on non-Pro models
@@ -61,7 +61,7 @@ Apple did something very courageous last year: It brought the Pro line's Dynamic
 Compared to the Pro model's 120Hz display, which portrays animations in a much flowy, smoother manner, the non-Pro iPhones' 60Hz panels just didn't look as polished, with a noticeable stutter when scrolling through bodies of text. Dialing up the refresh rate, even up to 90Hz, would make the baseline iPhone 16 models more satisfying to look at and interact with.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. A voice assistant I can take Siri-ously
@@ -104,24 +104,22 @@ Apple has already hinted at an AI-focused [Worldwide Developer Conference](https
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-lessons.techidaily.com/new-craft-professional-text-the-best-affects-extensions-revealed/"><u>[New] Craft Professional Text The Best Affects Extensions Revealed</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/updated-discovering-direct-conversations-on-snapchat-in-a-click/"><u>[Updated] Discovering Direct Conversations on Snapchat in a Click</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-pinpointing-your-participation-in-youtube-dialogues/"><u>[Updated] Pinpointing Your Participation in YouTube Dialogues</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/2024-approved-winning-scenarios-prime-video-recording-software-for-windows/"><u>2024 Approved Winning Scenarios Prime Video Recording Software for Windows</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/1726221539564-aviswf-movavi/"><u>網頁版AVI到SWF自由下載 - MOVAVI影片轉化工具</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/discover-the-power-of-video-filters-in-your-zoom-sessions/"><u>Discover the Power of Video Filters in Your Zoom Sessions</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-prime-unlimited-space-service-catalogue/"><u>In 2024, Prime Unlimited Space Service Catalogue</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/mastering-online-visibility-strategies-for-boosting-page-rank-and-traffic/"><u>Mastering Online Visibility: Strategies for Boosting Page Rank and Traffic</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/must-have-kindle-gadgets-for-book-lovers-unlocking-hidden-features/"><u>Must-Have Kindle Gadgets for Book Lovers: Unlocking Hidden Features</u></a></li>
-<li><a href="https://driver-error.techidaily.com/nvidia-driver-compatibility-fixed/"><u>Nvidia Driver Compatibility Fixed</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/partner-backlink-network-platform/"><u>Partner Backlink Network Platform</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/quick-and-easy-mobile-book-mobi-to-portable-document-format-pdfelectronic-publication-epub-transformation-tool/"><u>Quick & Easy Mobile Book (MOBI) to Portable Document Format (PDF)/Electronic Publication (EPUB) Transformation Tool</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/remove-the-lock-screen-fingerprint-of-your-xiaomi-redmi-k70-pro-by-drfone-android/"><u>Remove the Lock Screen Fingerprint Of Your Xiaomi Redmi K70 Pro</u></a></li>
-<li><a href="https://some-tips.techidaily.com/streaming-royalty-ranking-the-top-10-platforms-for-real-time-content-for-2024/"><u>Streaming Royalty Ranking the Top 10 Platforms for Real-Time Content for 2024</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/top-rated-no-cost-cloud-file-syncing-solutions/"><u>Top Rated No-Cost Cloud File Syncing Solutions</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/two-effective-methods-for-accessing-and-reading-the-acsm-ebook-on-your-ipad/"><u>Two Effective Methods for Accessing and Reading the ACSM eBook on Your iPad</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/understanding-your-companys-software-update-procedures/"><u>Understanding Your Company's Software Update Procedures</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/ways-to-feed-your-kindle-with-rss-a-comprehensive-guide/"><u>Ways to Feed Your Kindle with RSS: A Comprehensive Guide</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/wie-man-die-acm-datei-effizient-in-eine-xps-version-umwandelt-das-perfekte-tutorial/"><u>Wie Man Die ACM-Datei Effizient in Eine XPS-Version Umwandelt – Das Perfekte Tutorial</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/1715860409902-new-embedded-recorder-usage-in-huaweis-mate-series-and-the-p-lineup/"><u>[New] Embedded Recorder Usage in Huawei's Mate Series and the P Lineup.</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-ultimate-list-ps2-games-on-android-devices-for-2024/"><u>[New] Ultimate List PS2 Games on Android Devices for 2024</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-in-2024-meme-design-excellence-guide/"><u>[Updated] In 2024, Meme Design Excellence Guide</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-unlocking-full-scale-success-for-your-fb-videos-this-year/"><u>[Updated] Unlocking Full Scale Success for Your FB Videos This Year</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/9-ways-to-fix-airpods-not-charging/"><u>9 Ways to Fix AirPods Not Charging</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/could-you-lose-your-job-for-deploying-chatgpt-insights-on-10-situations/"><u>Could You Lose Your Job for Deploying ChatGPT? Insights on 10 Situations</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/1722972540671-get-your-behringer-driver-software-now-free-download-available/"><u>Get Your Behringer Driver Software Now – Free Download Available!</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-price-estimation-guide-for-music-video-production/"><u>In 2024, Price Estimation Guide for Music Video Production</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-the-ultimate-checklist-for-selecting-prime-streaming-services-of-cricket/"><u>In 2024, The Ultimate Checklist for Selecting Prime Streaming Services of Cricket</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/leveraging-ai-to-write-professional-cover-letters-insights-and-strategies-from-chatgpt/"><u>Leveraging AI to Write Professional Cover Letters: Insights and Strategies From ChatGPT</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/mastering-microsoft-copilot-for-mac-users-installation-and-tips/"><u>Mastering Microsoft Copilot for Mac Users: Installation & Tips</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/personalizing-ai-prose-training-chatgpt-to-reflect-you/"><u>Personalizing AI Prose: Training ChatGPT to Reflect You</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/personalizing-digital-dialogues-harnessing-gpt-capabilities/"><u>Personalizing Digital Dialogues: Harnessing GPT Capabilities</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/recommended-best-applications-for-mirroring-your-tecno-pova-5-screen-drfone-by-drfone-android/"><u>Recommended Best Applications for Mirroring Your Tecno Pova 5 Screen | Dr.fone</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/understanding-the-ai-powered-personal-computer-pros-and-cons-of-purchasing-one-techdigest/"><u>Understanding the AI-Powered Personal Computer: Pros & Cons of Purchasing One | TechDigest</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/unlock-the-potential-of-claude-3/"><u>Unlock the Potential of Claude 3</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/unraveling-the-mystery-of-artificial-intelligence-simplified/"><u>Unraveling the Mystery of Artificial Intelligence Simplified</u></a></li>
 </ul></div>
 

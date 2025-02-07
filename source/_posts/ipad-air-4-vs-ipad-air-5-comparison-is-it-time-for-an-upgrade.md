@@ -1,7 +1,7 @@
 ---
 title: "IPad Air 4 Vs. IPad Air 5 Comparison: Is It Time for an Upgrade?"
-date: 2025-01-21T18:02:41.725Z
-updated: 2025-01-25T18:00:26.238Z
+date: 2025-02-05T06:28:28.881Z
+updated: 2025-02-07T04:06:37.792Z
 tags:
   - apple
 categories:
@@ -55,7 +55,7 @@ But if pricing impacts your buying decision, then the similarly-designed iPad Ai
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/VxFUhesNCKo?si=Ti0ui6DXYP12sjSs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/djPqRkskaBo?si=O6FEI-KVW0HwN417" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## You should buy the iPad Air 5 (2022) if...
@@ -63,7 +63,7 @@ But if pricing impacts your buying decision, then the similarly-designed iPad Ai
 Image: Apple
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vPGg53vbOsk?si=CkSEN5HFPS7vDuAa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4YCkNXJjC3c?si=9Tn8KiqKGTZi1o7E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 1\. You're ready to embrace Apple's M1 supremacy
@@ -71,10 +71,6 @@ Image: Apple
 The saying you can't teach an old dog new tricks doesn't really apply to the iPad Air 5\. In fact, underneath the familiar glass and aluminum exterior is Apple's ARM-based, eight-core CPU, [M1 processor](https://www.zdnet.com/article/apple-m1-vs-m2/). Trickling down from MacBooks and iMacs, Apple's M1 chip is expected to be up to 60% faster and more powerful than its A-series counterpart -- like the A14 found in the iPad Air 4\. 
 
 That's a significant step up, considering both iPads start on equal footing with 8GB of RAM. While the iPad Air 5 didn't get Apple's newer [M2 chip](https://www.zdnet.com/article/everything-you-need-to-know-about-the-apple-m2-chip/), the M1 is still a powerhouse for graphics-intensive apps, such as video editors, 3D racing games, augmented reality, and general multitasking.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 2\. You want a better front camera and FaceTime experience
 
@@ -92,13 +88,13 @@ You will, of course, need to be under a 5G data plan, have the appropriate nano-
 
 [Apple iPad Air (2022) $499.97 at Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0DD2F93LD%2Fref%3Dasc%5Fdf%5FB0DD2F93LD1726916400000%3Fcreative%3D395261%26creativeASIN%3DB0DD2F93LD%26linkCode%3Dasn%26tag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Ccc40f053-922d-48a4-99a0-60db381cb5f5%7Cdtp&dtb=1)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## You should buy the iPad Air 4 (2020) if...
 
 Image: Apple
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 1\. Price comes before anything else
 
@@ -106,21 +102,25 @@ With the release of the new iPad Air, most third-party retailers have since mark
 
 [Apple iPad Air (2020) $358.86 at Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB08J61FCVN%3FlinkCode%3Dogi%26th%3D1%26psc%3D1%26tag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Ccc40f053-922d-48a4-99a0-60db381cb5f5%7Cdtp&dtb=1)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3C51hzX46eY?si=o5qiDSkT7mXUGm3F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## FAQ
 
 ## Should I get the iPad Air 4 (2020) or the iPad Air 5 (2022)?
 
 You should buy the iPad Air 5 (2022) if you're looking to upgrade to the Apple M1 chip, you want a better front camera and FaceTime experience, or you want to upgrade to a 5G iPad. You should get the iPad Air 4 (2020) if the price comes before anything else. Many retailers are lowering their prices of the older iPad 4 model to clear inventory, making the 2020 model the more cost-effective iPad of the two.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Does the Apple Pencil (1st Gen) work with the iPad Air?
 
 The 1st-gen Apple Pencil is not compatible with either of the two iPad Air models mentioned in this article. Instead, you'll have to buy Apple's 2nd-gen stylus, which uses USB-C for charging and pairing, for the newer tablets.
 
 Our [guide to finding the right Apple Pencil and how to pair it](https://www.zdnet.com/article/how-to-pair-and-charge-your-apple-pencil/) breaks down the full list of compatible devices.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nWu29cqFjZA?si=TNZyCbPq68PQ0JIb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## What's the best alternative to the iPad Air?
 
@@ -162,22 +162,18 @@ If you're still on the fence, below are the best alternatives to the iPad Air.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-capture.techidaily.com/updated-electoral-enthusiasm-top-5-political-game-experiences-for-2024/"><u>[Updated] Electoral Enthusiasm Top 5 Political Game Experiences for 2024</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/updated-your-ultimate-selfie-validation-handbook/"><u>[Updated] Your Ultimate Selfie Validation Handbook</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/beyond-codes-will-machines-grasp-human-sorrow-and-joy/"><u>Beyond Codes: Will Machines Grasp Human Sorrow and Joy?</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/can-you-circumvent-gpts-character-cap/"><u>Can You Circumvent GPT's Character Cap?</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/efficiently-trimming-footage-mastering-video-cropping-using-ffmpeg-on-windows/"><u>Efficiently Trimming Footage: Mastering Video Cropping Using FFmpeg on Windows</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/enhance-creativity-with-chatgpt-learn-these-creativewritingtips-for-better-stories/"><u>Enhance Creativity with ChatGPT: Learn These #CreativeWritingTips for Better Stories</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/harnessing-the-power-of-microsofts-copilot-for-unique-ai-image-creation-tips-and-tricks/"><u>Harnessing the Power of Microsoft's Copilot for Unique AI Image Creation: Tips and Tricks</u></a></li>
-<li><a href="https://change-location.techidaily.com/how-to-watch-hulu-outside-us-on-apple-iphone-12-drfone-by-drfone-virtual-ios/"><u>How to Watch Hulu Outside US On Apple iPhone 12 | Dr.fone</u></a></li>
-<li><a href="https://ios-location-track.techidaily.com/in-2024-how-do-i-stop-someone-from-tracking-my-apple-iphone-15-plus-drfone-by-drfone-virtual-ios/"><u>In 2024, How Do I Stop Someone From Tracking My Apple iPhone 15 Plus? | Dr.fone</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/in-2024-improving-zoom-video-quality-essential-tips/"><u>In 2024, Improving Zoom Video Quality Essential Tips</u></a></li>
-<li><a href="https://win-answers.techidaily.com/maximizing-valorants-potential-techniques-to-boost-fps-and-eliminate-stutters/"><u>Maximizing Valorant's Potential: Techniques to Boost FPS and Eliminate Stutters</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/navigating-through-gpts-progressive-stages/"><u>Navigating Through GPT's Progressive Stages</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/reality-check-no-trustworthy-windows-chatgpt-version/"><u>Reality Check: No Trustworthy Windows ChatGPT Version</u></a></li>
-<li><a href="https://techidaily.com/recover-apple-iphone-12-mini-data-from-ios-itunes-drfone-by-drfone-ios-data-recovery-ios-data-recovery/"><u>Recover Apple iPhone 12 mini Data From iOS iTunes | Dr.fone</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/streamlining-pc-chatter-with-nvidias-rtx-assistant/"><u>Streamlining PC Chatter with Nvidia's RTX Assistant</u></a></li>
-<li><a href="https://facebook.techidaily.com/the-whistleblowers-testimony-a-look-into-fb-operations/"><u>The Whistleblower's Testimony: A Look Into FB Operations</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/unlock-endless-possibilities-with-openais-new-gpt-custom-store-get-started-immediately/"><u>Unlock Endless Possibilities with OpenAI's New GPT Custom Store – Get Started Immediately</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-2024-approved-guidance-to-creating-a-3d-text-art-effect-in-adobe-illustrator/"><u>[Updated] 2024 Approved Guidance to Creating a 3D Text Art Effect in Adobe Illustrator</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-capture-conserve-continue-a-guide-to-saving-snapchat-content-for-2024/"><u>[Updated] Capture, Conserve, Continue A Guide to Saving Snapchat Content for 2024</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/cautionary-tales-in-the-age-of-digital-psychiatry/"><u>Cautionary Tales in the Age of Digital Psychiatry</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/chatgpt-for-storytellers-tips-and-techniques-to-create-engaging-narratives/"><u>ChatGPT for Storytellers: Tips and Techniques to Create Engaging Narratives</u></a></li>
+<li><a href="https://video-capture.techidaily.com/chromium-os-built-in-video-capturer/"><u>Chromium OS Built-In Video Capturer</u></a></li>
+<li><a href="https://android-frp.techidaily.com/hassle-free-ways-to-remove-frp-lock-on-samsung-galaxy-s24plus-phones-withwithout-a-pc-by-drfone-android/"><u>Hassle-Free Ways to Remove FRP Lock on Samsung Galaxy S24+ Phones with/without a PC</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-fix-part-of-the-touch-screen-not-working-on-vivo-v27-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Fix Part of the Touch Screen Not Working on Vivo V27 Pro | Dr.fone</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/new-2024-approved-how-to-prevent-final-cut-pro-x-from-freezing-and-crashing/"><u>New 2024 Approved How to Prevent Final Cut Pro X From Freezing and Crashing</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/protecting-pixels-a-comprehensive-tutorial-for-password-encryptiondecryption-of-iphone-images-in-ios-17-and-windows-nplus1/"><u>Protecting Pixels: A Comprehensive Tutorial for Password Encryption/Decryption of iPhone Images in iOS 17 & Windows N+1</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/revolutionize-your-note-taking-with-these-6-superior-ai-assisted-apps/"><u>Revolutionize Your Note-Taking with These 6 Superior AI Assisted Apps</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-freelance-gamers-compendium-unveiling-the-best-free-steam-titles/"><u>The Freelance Gamer's Compendium: Unveiling the Best Free Steam Titles</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/updated-s-best-mts-video-editing-tools-expert-reviews-and-ratings/"><u>Updated S Best MTS Video Editing Tools Expert Reviews and Ratings</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/what-is-huggingchat-unveiling-the-powerful-open-source-alternative-to-chatgpt/"><u>What Is HuggingChat? Unveiling the Powerful, Open-Source Alternative to ChatGPT</u></a></li>
 </ul></div>
 

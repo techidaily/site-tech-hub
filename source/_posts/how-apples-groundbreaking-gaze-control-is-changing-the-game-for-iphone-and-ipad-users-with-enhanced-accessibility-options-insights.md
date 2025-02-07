@@ -1,7 +1,7 @@
 ---
 title: How Apple's Groundbreaking Gaze Control Is Changing the Game for iPhone & iPad Users with Enhanced Accessibility Options | Insights
-date: 2025-01-02T18:20:32.162Z
-updated: 2025-01-06T19:58:50.865Z
+date: 2025-02-04T11:55:08.967Z
+updated: 2025-02-06T23:08:03.700Z
 tags:
   - apple
 categories:
@@ -31,7 +31,7 @@ Read on for a look at some of the new accessibility features coming to Apple har
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=LvxQhsEJoymsM2iZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### New eye-tracking features
@@ -49,16 +49,12 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 [See all](https://www.zdnet.com/newsletters/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Apple Music haptics
 
 For those who are deaf or hard of hearing, Apple plans to offer a Taptic Engine feature in Apple Music. When turned on, the feature will use a series of taps, vibrations, and other tactile responses to sync to a song's audio. Apple says the feature will work "across millions of songs in the Apple Music catalog."
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3C51hzX46eY?si=o5qiDSkT7mXUGm3F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Addressing motion sickness
 
@@ -69,7 +65,7 @@ Motion sickness in cars can often be the result of a disconnect between what you
 "Using sensors built into iPhone and iPad, Vehicle Motion Cues recognizes when a user is in a moving vehicle and responds accordingly," Apple said. "The feature can be set to show automatically on iPhone, or can be turned on and off in Control Center."
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Understanding speech
@@ -79,7 +75,7 @@ A new feature called Voice Shortcuts will let you "assign custom utterances" tha
 Another feature, Listen for Atypical Speech, will use machine learning to understand your speech patterns and your requests on-device, Apple said. The feature "gives users an option for enhancing speech recognition for a wider range of speech," the company said.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8Y-k_3N-0OI?si=1J-aFBXLJl5b3x4h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/umvX4ZdWbxk?si=tPXL0-Kzf9SQaY8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### New CarPlay features
@@ -87,6 +83,10 @@ Another feature, Listen for Atypical Speech, will use machine learning to unders
 Apple's in-car CarPlay software is also getting new accessibility features, including the ability for you to navigate CarPlay and engage with apps using only your voice. A new Sound Recognition feature will display alerts on CarPlay's screen when car horns or sirens go off, and Color Filters will make CarPlay easier to use for colorblind users.
 
 **Also: [iOS and Android owners will now be alerted if an unknown tracker is moving with them](https://www.zdnet.com/article/ios-and-android-owners-will-now-be-alerted-if-an-unknown-tracker-is-moving-with-them/)**
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Some other updates
 
@@ -122,19 +122,22 @@ Beyond those updates, Apple said that it's launching a range of smaller upgrades
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-lab.techidaily.com/ed-crafting-a-hit-list-youtubes-way-for-fans/"><u>[Updated] Crafting a Hit-List Youtube's Way for Fans</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/updated-replay-redux-mastering-iphones-videography-backwards/"><u>[Updated] Replay Redux Mastering iPhone's Videography Backwards</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/bypass-iphone-7-plus-activation-lock-with-a-professional-tool-by-drfone-ios-unlock-ios-unlock/"><u>Bypass iPhone 7 Plus activation lock with a professional tool</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/can-ai-powered-chatgpt-develop-customized-healthy-workouts-that-suit-your-fitness-goals-safely/"><u>Can AI-Powered ChatGPT Develop Customized, Healthy Workouts That Suit Your Fitness Goals Safely?</u></a></li>
-<li><a href="https://games-able.techidaily.com/comprehensible-disassembly-decoding-the-xbox-360-slim-console/"><u>Comprehensible Disassembly: Decoding the Xbox 360 Slim Console</u></a></li>
-<li><a href="https://data-safeguard.techidaily.com/cookiebot-driven-solutions-for-efficient-web-management/"><u>Cookiebot-Driven Solutions for Efficient Web Management</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/evaluating-chatgpt-for-security-risks-top-6-issues-to-be-aware-of/"><u>Evaluating ChatGPT for Security Risks: Top 6 Issues to Be Aware Of</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/innovative-portable-solution-a-review-of-the-dependable-and-versatile-kensun-air-compressor/"><u>Innovative Portable Solution - A Review of the Dependable and Versatile Kensun Air Compressor</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/navigating-the-landscape-of-nvidias-creativity-service/"><u>Navigating the Landscape of NVIDIA’s Creativity Service</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/secrets-to-keeping-your-chatgpt-messages-private-no-delete-required/"><u>Secrets to Keeping Your ChatGPT Messages Private: No Delete Required</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/-gold-standard-10-ways-to-elevate-home-recordings/"><u>Sonic Gold Standard 10 Ways to Elevate Home Recordings</u></a></li>
-<li><a href="https://win-deluxe.techidaily.com/ssdhddwindows-1110/"><u>SSDをHDDに移行するためのWindows 11/10フリー・チュートリアル【ステップバイステップ】</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/the-risks-of-using-artificial-intelligence-chatbots-for-creating-authentic-windows-11-keycodes/"><u>The Risks of Using Artificial Intelligence Chatbots for Creating Authentic Windows 11 Keycodes</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/unlocking-gpt-4-potential-in-7-cutting-edge-mobile-apps-inside-look/"><u>Unlocking GPT-4 Potential in 7 Cutting-Edge Mobile Apps: Inside Look</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-in-2024-discovering-the-most-shared-twitvideos-of-the-year/"><u>[New] In 2024, Discovering the Most Shared TwitVideos of the Year</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-in-2024-selecting-the-ultimate-steadicams-for-flawless-dslr-shoots/"><u>[Updated] In 2024, Selecting the Ultimate Steadicams for Flawless DSLR Shoots</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/1726030563270-7/"><u>「オンライン放送動画録画に最適! 私がピックアップした7つのレコーディング機器」</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/44cm44oe44kk44ov44kh44oz44k644gu44ot44oh44kq5lplusd5a2y5oml6acg77ya5pya44kc5yq55p6c55qe44gq5pa55rov44cn/"><u>「マイファンズのビデオ保存手順：最も効果的な方法」</u></a></li>
+<li><a href="https://location-social.techidaily.com/3-things-you-must-know-about-fake-snapchat-location-on-samsung-galaxy-a25-5g-drfone-by-drfone-virtual-android/"><u>3 Things You Must Know about Fake Snapchat Location On Samsung Galaxy A25 5G | Dr.fone</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/1726030383372-3gppmp4/"><u>3GPPファイルからMP4への完全な変換ガイド</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/4mkvmp4/"><u>4効果的なフリーコツ：MKVからMP4への変換ガイド</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/1726028828347-8/"><u>鑑賞のために！今月の一流、中国映像作品専用フリーウェブサイトベスト8選</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/54sh5paz44ko44oh44kj44k44o844gn44or44k944kz44oz44gr5yplusw44kk6l6844kt44gg44ot44oh44kq5pig5yop44gu5yq55p6c55qe44gq57eo6zug5pa55rov/"><u>無料エディターでパソコンに取り込んだビデオ映像の効果的な編集方法</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/alternatives-to-idm-for-youtube-content-extraction-a-comprehensive-guide-on-video-downloading-techniques-and-tools/"><u>Alternatives to IDM for YouTube Content Extraction - A Comprehensive Guide on Video Downloading Techniques and Tools</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/extend-your-workspace-for-less-save-hundreds-with-our-dual-monitor-deal-featuring-the-versatile-teamgee-find-out-how-on-zdnet/"><u>Extend Your Workspace for Less: Save Hundreds with Our Dual Monitor Deal Featuring the Versatile TeamGee - Find Out How on ZDNET</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/flipping-fun-facts-into-memes-with-kinemaster-for-2024/"><u>Flipping Fun Facts Into Memes with KineMaster for 2024</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/in-2024-comparative-analysis-of-magix-samplitude-with-other-audio-workstations/"><u>In 2024, Comparative Analysis of MAGIX Samplitude with Other Audio Workstations</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-video-cropping-made-easy-a-comprehensive-guide-to-using-avidemux-for-2024/"><u>New Video Cropping Made Easy A Comprehensive Guide to Using Avidemux for 2024</u></a></li>
+<li><a href="https://techidaily.com/this-is-how-you-can-recover-deleted-pictures-from-infinix-note-30i-by-fonelab-android-recover-pictures/"><u>This is how you can recover deleted pictures from Infinix Note 30i.</u></a></li>
+<li><a href="https://howto.techidaily.com/vivo-y27-4g-not-connecting-to-wi-fi-12-quick-ways-to-fix-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Vivo Y27 4G Not Connecting to Wi-Fi? 12 Quick Ways to Fix | Dr.fone</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/amv/"><u>スマートフォンAMV動画無制限再生方法</u></a></li>
 </ul></div>
 

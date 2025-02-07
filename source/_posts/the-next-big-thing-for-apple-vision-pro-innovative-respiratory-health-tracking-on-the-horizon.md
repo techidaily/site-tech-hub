@@ -1,7 +1,7 @@
 ---
 title: The Next Big Thing for Apple Vision Pro? Innovative Respiratory Health Tracking on the Horizon
-date: 2025-01-24T17:21:58.106Z
-updated: 2025-01-25T17:18:45.627Z
+date: 2025-02-03T16:40:39.720Z
+updated: 2025-02-06T23:37:55.483Z
 tags:
   - apple
 categories:
@@ -28,10 +28,6 @@ If anything, the latest iOS 18.1 betas with Apple Intelligence features have bee
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/l-SCWTWpegY?si=oxTsHQkIu1v4-I6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## The annual upgrade ritual
 
 Every year, my wife and I eagerly await the release of the new iPhones. Being part of [Apple's Upgrade Program](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fiphone%2Fiphone-upgrade-program&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp), we return our devices, reset our loan with Citizens Bank, and acquire the latest model. Over the past few years, I have opted for the [Pro Max](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2Fiphone-15-pro%2F&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp), and my wife has chosen the [base model](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2Fiphone-15%2F&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp). The expected annual improvements have been incremental but appreciated. 
@@ -39,7 +35,7 @@ Every year, my wife and I eagerly await the release of the new iPhones. Being pa
 Despite the buzz around the [iPhone 16's new features](https://www.zdnet.com/article/im-an-android-user-but-these-three-iphone-16-features-would-win-me-over/) and the integration of Apple Intelligence, however, several concerns dampen my enthusiasm for upgrading this year.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/sn2STvYRVb8?si=Z-XhJJ1Mc-Em5Kqy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Apple Intelligence: A significant, yet incomplete, leap forward
@@ -67,7 +63,7 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 [See all](https://www.zdnet.com/newsletters/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## New hardware leaks: what to expect from the iPhone 16
@@ -86,6 +82,10 @@ Interestingly, despite these hardware upgrades, Apple appears to be keeping pric
 
 Despite these upgrades, the iPhone 16 may still face challenges due to design cycles that didn't fully account for the scope of Apple Intelligence's capabilities. As a result, users may experience suboptimal performance and a less seamless user experience, especially as more AI features roll out in subsequent updates.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/C3cJe7Wgn6I?si=EckDFML-VJ_2sYz8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Why you shouldn't buy the iPhone 16 for Apple Intelligence
 
 Besides memory concerns, AI processing demands a lot of power and additional computing resources. Without significant advancements in battery and power management technology, users might have to charge their phones more often. This can lead to increased battery drain, reduced battery lifespan, and potential performance issues. The extra processing power needed to run on-device LLMs could strain the CPU, causing the device to heat up and affecting its overall performance and reliability.
@@ -95,7 +95,7 @@ Besides memory concerns, AI processing demands a lot of power and additional com
 For these reasons, I see the iPhone 16 (and potentially even the iPhone 17) as a transitional product in Apple's journey toward on-device AI. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How Apple Intelligence will likely evolve
@@ -115,7 +115,7 @@ Enterprises may also employ a mobile device management solution to facilitate ac
 Imagine your iPhone using the unused processing power of your Mac or iPad, all equipped with on-device LLMs, to tackle complex AI tasks. This would increase the accessibility of AI features across Apple's product range.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oySc0DiqmKc?si=8pynRzuhlq2RUPZ6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6nvb0775GOM?si=peBB_Mo_4zcZFuci" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## I'm still optimistic
@@ -158,24 +158,20 @@ _This article was originally published on June 28, 2024, and updated on August 2
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-share.techidaily.com/new-examining-youtubes-copyright-stance-versus-cc-approach-for-2024/"><u>[New] Examining Youtube's Copyright Stance Versus CC Approach for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-hiding-youtube-playback-tips-for-ios-and-android-for-2024/"><u>[New] Hiding YouTube Playback Tips for iOS and Android for 2024</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/1723808168853-solved-logitech-k520-keyboard-not-working-quickly-and-easily/"><u>[SOLVED] Logitech K520 Keyboard Not Working | Quickly & Easily!</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-unlocking-windows-10-seamless-media-importation-techniques/"><u>[Updated] Unlocking Windows 10 Seamless Media Importation Techniques</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/approved-subscriber-surge-strategy-on-flexible-budget/"><u>2024 Approved Subscriber Surge Strategy on Flexible Budget</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/advanced-techniques-to-strengthen-bluetooth-signals-on-your-windows-laptop-or-pc/"><u>Advanced Techniques to Strengthen Bluetooth Signals on Your Windows Laptop or PC.</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/1723807914043-download-asus-aura-customization-packs-for-pc-windows-1011-boost-your-desktop-look/"><u>Download ASUS Aura Customization Packs for PC (Windows 10/11) – Boost Your Desktop Look!</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/how-to-fix-oem-unlock-missing-on-oppo-a38-by-drfone-android/"><u>How To Fix OEM Unlock Missing on Oppo A38?</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/1723808213410-how-to-sync-ps4-controller-easy-guide/"><u>How to Sync PS4 Controller — Easy Guide</u></a></li>
-<li><a href="https://win-unique.techidaily.com/maximize-system-efficiency-expert-advice-from-yl-software-on-speeding-up-computers/"><u>Maximize System Efficiency: Expert Advice From YL Software on Speeding Up Computers</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/microsofts-outages-and-the-urgent-need-for-governments-to-reduce-big-tech-usage/"><u>Microsoft's Outages and The Urgent Need for Governments to Reduce Big Tech Usage</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/revolutionize-your-videos-top-10-mobile-editing-apps-on-iosandroid-for-2024/"><u>Revolutionize Your Videos Top 10 Mobile Editing Apps on iOS/Android for 2024</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/secure-your-website-by-transitioning-http-to-https-through-nginx-configuration/"><u>Secure Your Website by Transitioning HTTP to HTTPS Through Nginx Configuration</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/solution-found-a-guide-for-users-who-forgot-their-facebook-account-passwords/"><u>Solution Found: A Guide for Users Who Forgot Their Facebook Account Passwords</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/step-by-step-guide-to-restoring-oculus-air-link-connectivity-for-windows-users/"><u>Step-by-Step Guide to Restoring Oculus Air Link Connectivity for Windows Users</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/1723807902925-this-app-cant-run-on-your-pc-solved/"><u>This App Can't Run on Your PC [Solved]</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/top-visual-effects-software-picks-for-filmmakers-in-2erry-2024/"><u>Top Visual Effects Software Picks for Filmmakers in 2Erry, 2024</u></a></li>
-<li><a href="https://driver-download.techidaily.com/updated-tp-link-network-interface-controller-software-for-windows-users-on-versions-10-8-and-7/"><u>Updated TP-Link Network Interface Controller Software for Windows Users on Versions 10, 8 and 7</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/windows-11-dvd-ripping-made-simple-quick-tips-and-tricks/"><u>Windows 11 DVD Ripping Made Simple: Quick Tips and Tricks</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-troubleshooting-streaming-issues-on-mac-with-mixer/"><u>[New] Troubleshooting Streaming Issues on Mac with Mixer</u></a></li>
+<li><a href="https://fox-access.techidaily.com/2024-approved-ideal-images-scenery-for-engaging-online-audiences/"><u>2024 Approved Ideal Images Scenery for Engaging Online Audiences</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/a-comprehensive-guide-to-iphone-12-pro-max-blacklist-removal-tips-and-tools-drfone-by-drfone-ios/"><u>A Comprehensive Guide to iPhone 12 Pro Max Blacklist Removal Tips and Tools | Dr.fone</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/chatgpt-and-the-art-of-mixology-a-review/"><u>ChatGPT and the Art of Mixology: A Review</u></a></li>
+<li><a href="https://win-news.techidaily.com/creative-tims-ultimate-bootstrap-5-professional-ui-framework-for-premium-designers/"><u>Creative Tim's Ultimate Bootstrap 5 Professional UI Framework for Premium Designers</u></a></li>
+<li><a href="https://extra-information.techidaily.com/current-state-of-vr-hardware/"><u>Current State of VR Hardware</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/easy-steps-to-get-vrecorder-running-on-your-device-for-2024/"><u>Easy Steps to Get VRecorder Running on Your Device for 2024</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/how-ai-can-transform-education-8-compelling-reasons-teachers-should-welcome-change/"><u>How AI Can Transform Education: 8 Compelling Reasons Teachers Should Welcome Change</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/immerse-yourself-in-play-the-coolest-chatgpt-game-picks-ever/"><u>Immerse Yourself in Play: The Coolest ChatGPT Game Picks Ever</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-8-ways-to-transfer-photos-from-htc-u23-to-iphone-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 8 Ways to Transfer Photos from HTC U23 to iPhone Easily | Dr.fone</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/six-incredible-free-alternatives-to-openais-revolutionary-sora-technology/"><u>Six Incredible Free Alternatives to OpenAI's Revolutionary Sora Technology</u></a></li>
+<li><a href="https://win11.techidaily.com/strategies-to-reactivate-non-operational-buttons/"><u>Strategies to Reactivate Non-Operational Buttons</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/top-8-influential-methods-ai-powered-chatbots-enhancing-digital-writing/"><u>Top 8 Influential Methods: AI-Powered Chatbots Enhancing Digital Writing</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/unlocking-openais-newly-released-gpt-platform-easy-steps-to-dive-in-right-away/"><u>Unlocking OpenAI's Newly Released GPT Platform: Easy Steps to Dive In Right Away</u></a></li>
+<li><a href="https://win-webster.techidaily.com/yl-computings-ultimate-guide-how-to-efficiently-launch-and-access-microsoft-word-files/"><u>YL Computing's Ultimate Guide: How to Efficiently Launch and Access Microsoft Word Files</u></a></li>
 </ul></div>
 

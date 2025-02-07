@@ -1,7 +1,7 @@
 ---
 title: "Enhancing Vocabulary on Your Kindle: Tutorial for Adding/Changing Dictionaries"
-date: 2024-08-20T10:51:10.061Z
-updated: 2024-08-21T10:51:10.061Z
+date: 2025-02-06T02:42:52.386Z
+updated: 2025-02-06T21:57:03.183Z
 categories:
   - epubor
 thumbnail: https://thmb.techidaily.com/2b0e79e191f0ed82f151a5598b1f3bbb7dbdcce948e1ec31321e7ff03bc36bee.jpg
@@ -15,9 +15,11 @@ Posted by [Jonny Greenwood](https://plus.google.com/u/0/+JonnyGreenwood999) on 1
 
 4.6 [(47 comments)](http://www.epubor.com/#comment-area) 
 
-
-
 ![follow](http://www.epubor.com/images/follow.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 One primary reason that I like reading on Kindle is the utterly convenient dictionary feature. To look up the definition of a strange word on Kindle, we just need to press and hold on the word. But sometimes the default dictionary doesn't work very well especially when it meets some plural nouns or past participle.
 
@@ -43,18 +45,6 @@ Every Kindle user should have a USB cable in the box which is shipped with the d
 
 Now all the steps on computer are finished. The following job is to make the dictionary file work on Kindle.
 
-<!-- affiliate ads begin -->
-<span id="1997795">
-					<video width="250" height="250" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/23621-1997795">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:250px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fproteahair.pxf.io%2Fc%2F5597632%2F1997795%2F23621'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997795/23621" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Change the default Kindle dictionary
 
 Different generation of Kindle should be set in different ways. Do it as the list below:
@@ -80,27 +70,25 @@ Press the "Dictionaries" option, and we can see the default Kindle dictionary - 
 ![default Kindle dictionary](http://www.epubor.com/images/default-kindle-dic.png)
 
 <!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=39694080&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/nbr/fire/Screenshot_1red_gb.jpg" border="0">Nero Burning ROM:
-The ultimate burning program for all your needs!</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 By pressing it we can change the primary dictionary of english. As the screen shows below, "Oxford Dictionary of English" is defaultly chosen and we need to switch to "collins3", which is recently imported by me.
 
 ![change primary dictionary](http://www.epubor.com/images/change-primary-dictionary.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6X24fPKs6AE?si=YtQy-8zy7GifgfA7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Then back to the previous screen we can see the default dictionary for english has been changed.
 
 ![change default dictionary](http://www.epubor.com/images/change-kindle-default-dictionary.png)
 
-<!-- affiliate ads begin -->
-<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
-<!-- affiliate ads end -->
 Now let's check the result.
 
 ![download kindle dictionary](http://www.epubor.com/images/download-kindle-dictionary.png)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4715391&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
-<!-- affiliate ads end -->
 ### Want to add foreign language dictionary to Kindle?
 
 No problem! And the steps are pretty similar to the above. Suppose I am reading a book written in french, so I need a french-english dictionary.
@@ -114,8 +102,9 @@ Then open a french book, press and hold on a word I don't know the definition, a
 ![add foreign dictionary to kindle](http://www.epubor.com/images/add-foreign-dictionary-to-kindle.png)
 
 <!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/1853659/21526" target="_top" id="1853659"><img src="//a.impactradius-go.com/display-ad/21526-1853659" border="0" alt="" width="1920" height="750"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1853659/21526" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 Related Readings
 
 * [How to add fonts to Kindle Paperwhite](https://tools.techidaily.com/epubor/products/)
@@ -124,8 +113,9 @@ Related Readings
 ![author](http://www.epubor.com/images/uppic/jonny.png)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2097466/26400?prodsku=B700" target="_top" id="2097466"><img src="//a.impactradius-go.com/display-ad/26400-2097466" border="0" alt="" width="2048" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097466/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 [Jonny Greenwood](https://plus.google.com/u/0/+JonnyGreenwood999) joined Epubor since 2011, loves everything about eBooks and eReaders. He seeks the methods to read eBooks more freely and wants to share all he has got with you.
 
 SHARING IS GREAT!
@@ -133,8 +123,6 @@ SHARING IS GREAT!
 [Tweet](https://twitter.com/share) 
 
 [SAVE PAGE AS PDF](https://tools.techidaily.com/epubor/products/) 
-
-
 
 47 Comments
 
@@ -668,8 +656,6 @@ Leave a comment
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -677,4 +663,16 @@ Leave a comment
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-tips.techidaily.com/updated-in-2024-all-about-hand-based-interface-technology/"><u>[Updated] In 2024, All About Hand-Based Interface Technology</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/discover-the-ultimate-list-of-5-amazing-ai-prompting-engines-for-advanced-ai-interaction/"><u>Discover the Ultimate List of 5 Amazing AI Prompting Engines for Advanced AI Interaction</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/does-my-laptop-have-bluetooth-two-ways-to-check/"><u>Does My Laptop Have Bluetooth? [Two Ways to Check]</u></a></li>
+<li><a href="https://extra-support.techidaily.com/mobility-boosted-video-stability-device-for-2024/"><u>Mobility Boosted Video Stability Device for 2024</u></a></li>
+<li><a href="https://review-topics.techidaily.com/possible-ways-to-recover-deleted-files-from-infinix-note-30-by-fonelab-android-recover-data/"><u>Possible ways to recover deleted files from Infinix Note 30</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/ransomware-a-decryption-tale-with-mobile-savings/"><u>Ransomware: A Decryption Tale with Mobile Savings</u></a></li>
+<li><a href="https://discover-docs.techidaily.com/solving-common-issues-with-windows-movie-maker-on-latest-windows-versions/"><u>Solving Common Issues with Windows Movie Maker on Latest Windows Versions</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/the-enduring-value-of-a-writers-perspective/"><u>The Enduring Value of a Writer’s Perspective</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/these-7-apps-are-integrating-gpt-4-but-how-do-they-work/"><u>These 7 Apps Are Integrating GPT-4, But How Do They Work?</u></a></li>
+</ul></div>
 

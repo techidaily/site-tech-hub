@@ -1,7 +1,7 @@
 ---
 title: Easy Guide to Activating Slack Alerts on Apple Watch - Tips
-date: 2025-01-18T17:33:39.285Z
-updated: 2025-01-25T16:33:14.228Z
+date: 2025-02-01T14:08:13.673Z
+updated: 2025-02-07T00:00:01.034Z
 tags:
   - apple
 categories:
@@ -49,7 +49,7 @@ Here's how.
 **What you'll need:** Have the latest versions of iOS and watchOS installed on your iPhone and Apple Watch, respectively. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/E3yY7lZ-FKA?si=g8VEuExP8GH59B69" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. Install the Slack app on your iPhone
@@ -57,6 +57,10 @@ Here's how.
 There is no dedicated Slack app for the Apple Watch, but there is an iPhone app. This app controls everything about how Slack works with notifications on your phone. So, if you don't already have Slack on your iPhone, go to [the App Store and install it](https://apps.apple.com/us/app/slack/id618783545).
 
 Once it's installed, go ahead and log into your various Slack channels. Get those setup and working as you like before configuring the app for notifications.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 2\. Set up Slack notifications in the system settings
 
@@ -72,16 +76,12 @@ Now, back out to the top of the Settings app and tap the red Notifications icon.
 
 Screenshot by David Gewirtz/ZDNET
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 3\. Set up Slack notifications in the Slack app
 
 Next, open the Slack app. Tap your profile image in the upper right corner of the screen. Then tap Notifications.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##   
@@ -101,6 +101,10 @@ Next, tap Notify Me on Mobile. This will give you a few options.
 Screenshot by David Gewirtz/ZDNET
 
 Set it to "Always, even when I'm active". That way, you'll always get notifications, no matter what you're doing (unless you have Do Not Disturb turned on).
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 4\. Set your notification schedule
 
@@ -122,23 +126,19 @@ So, make sure you set the Start and End times that fit with your schedule.
 
 Recommendation to Slack: Where you put the "Every day" option in that setting, add the times as well (e.g., "Every day 8 a.m. - 11 p.m."). That way, it's clear to users what they might need to change. 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Wy0uYNNdMDM?si=5ir7EHlr0CkpcYOT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 5\. Enable Slack notifications in the Watch app
 
 We're almost done configuring notifications. Open the Watch app and scroll down to Notifications. Then scroll down to Slack and make sure it's turned on.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RvR5PNhspKE?si=uJcMYK9v-_Xq7fAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##   
 
 Screenshot by David Gewirtz/ZDNET
 
 There. You've set up notifications. 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  6\. Use the Watch to get Slack notifications
 
@@ -179,19 +179,21 @@ _You can follow my day-to-day project updates on social media. Be sure to subscr
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-saving-your-precious-obs-video-source-from-failure/"><u>[Updated] Saving Your Precious OBS Video Source From Failure</u></a></li>
-<li><a href="https://facebook.techidaily.com/bypass-facebooks-tracking-utilizing-off-fb-tool/"><u>Bypass Facebook's Tracking - Utilizing Off-FB Tool</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/discover-alternatives-how-to-utilize-chatgpt-without-signing-up-with-openai/"><u>Discover Alternatives: How to Utilize ChatGPT without Signing Up with OpenAI</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/diving-into-digital-dialogue-googles-groundbreayer-palm-2/"><u>Diving Into Digital Dialogue: Google's Groundbreayer, PaLM 2</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/exploring-the-world-of-generative-ai-and-how-it-works/"><u>Exploring the World of Generative AI and How It Works</u></a></li>
-<li><a href="https://change-location.techidaily.com/how-to-fix-it-infinix-smart-8-pro-wont-turn-on-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix It Infinix Smart 8 Pro Wont Turn On | Dr.fone</u></a></li>
-<li><a href="https://techtrends.techidaily.com/how-to-perfectly-save-your-moments-screenshot-guide-for-the-xbox-one/"><u>How to Perfectly Save Your Moments: Screenshot Guide for the Xbox One</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-a-guide-oppo-a79-5g-wireless-and-wired-screen-mirroring-drfone-by-drfone-android/"><u>In 2024, A Guide Oppo A79 5G Wireless and Wired Screen Mirroring | Dr.fone</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/innovative-dialogue-strategies-top-20-github-chatgpt-models/"><u>Innovative Dialogue Strategies: Top 20 GitHub ChatGPT Models</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/mastering-presentations-with-chatgpt-a-step-by-step-guide/"><u>Mastering Presentations with ChatGPT: A Step-by-Step Guide</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/simple-solutions-to-fix-android-systemui-has-stopped-error-for-honor-magic-6-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Simple Solutions to Fix Android SystemUI Has Stopped Error For Honor Magic 6 | Dr.fone</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/stop-screen-flashback-on-lenovo-laptops/"><u>Stop Screen Flashback on Lenovo Laptops</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/the-art-of-chatgpt-navigations-a-guide-to-effective-file-use/"><u>The Art of ChatGPT Navigations: A Guide to Effective File Use</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/updated-2024-approved-top-free-gif-animation-creators/"><u>Updated 2024 Approved Top Free GIF Animation Creators</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-unlock-social-media-success-a-comprehensive-10-step-plan/"><u>[New] Unlock Social Media Success A Comprehensive 10-Step Plan</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-complete-evaluation-of-camstudio-screen-recorder/"><u>[Updated] Complete Evaluation of CamStudio Screen Recorder</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-in-2024-itop-screen-recorder-review/"><u>[Updated] In 2024, ITop Screen Recorder Review</u></a></li>
+<li><a href="https://discover-fantastic.techidaily.com/choosing-your-shield-an-in-depth-look-at-hitman-pro-and-malwarebytes-security-solutions/"><u>Choosing Your Shield: An In-Depth Look at Hitman Pro and Malwarebytes Security Solutions</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/discover-the-5-key-ai-technologies-for-todays-business-owners/"><u>Discover the 5 Key AI Technologies for Today's Business Owners</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/elevating-experience-why-the-chatgpt-app-triumphs-over-its-web-counterpart/"><u>Elevating Experience: Why the ChatGPT App Triumphs Over Its Web Counterpart</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/expert-opinion-unveiling-the-elegance-and-flexibility-of-the-dell-xps-13-7390-ultrabook-review/"><u>Expert Opinion: Unveiling the Elegance and Flexibility of the Dell XPS 13 (7390) Ultrabook Review</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/getting-started-with-chatgpt-a-guide-to-registering-and-using-new-plugin-options/"><u>Getting Started with ChatGPT: A Guide to Registering and Using New Plugin Options</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/in-2024-achieving-youtube-mastery-with-effective-use-of-creator-studio-tools/"><u>In 2024, Achieving YouTube Mastery with Effective Use of Creator Studio Tools</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/mastering-chatgpt-a-step-by-step-guide-to-leveraging-its-api/"><u>Mastering ChatGPT: A Step-by-Step Guide to Leveraging Its API</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/mastering-nutritional-planning-a-step-by-step-guide-with-chatgpt/"><u>Mastering Nutritional Planning: A Step-by-Step Guide with ChatGPT</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/maximizing-your-mobile-experience-mastering-the-chatgpt-widget-on-android-devices/"><u>Maximizing Your Mobile Experience: Mastering the ChatGPT Widget on Android Devices</u></a></li>
+<li><a href="https://fox-zaraz.techidaily.com/page-unavailable-http-404-error-encountered/"><u>Page Unavailable: HTTP 404 Error Encountered</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/steps-to-prevent-auto-play-on-apple-music-streams/"><u>Steps to Prevent Auto-Play on Apple Music Streams</u></a></li>
+<li><a href="https://windows11.techidaily.com/tackling-unstartable-speech-to-text-on-windows-systems/"><u>Tackling Unstartable Speech to Text on Windows Systems</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/the-future-of-digital-dialogue-mastering-the-art-of-custom-chatgpt-instructions/"><u>The Future of Digital Dialogue: Mastering the Art of Custom ChatGPT Instructions</u></a></li>
 </ul></div>
 

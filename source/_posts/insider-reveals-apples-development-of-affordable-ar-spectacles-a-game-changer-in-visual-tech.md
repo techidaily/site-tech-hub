@@ -1,7 +1,7 @@
 ---
 title: "Insider Reveals Apple's Development of Affordable AR Spectacles: A Game Changer in Visual Tech"
-date: 2025-01-24T16:39:53.998Z
-updated: 2025-01-25T17:39:28.467Z
+date: 2025-01-31T21:39:01.982Z
+updated: 2025-02-07T03:17:47.076Z
 tags:
   - apple
 categories:
@@ -38,12 +38,16 @@ Training Load is also coming in WatchOS 11, allowing you to keep track of the st
 
 Serious athletes will likely be drawn to these features since this is the first time Apple has shipped recovery and strain tracking on its watches. But plenty of casual users may also find these features useful when in the process of adopting healthier habits.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fm0XhU5H8R4?si=cFPk6XK3X3CQSI7Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 2\. Pause your rings
 
 Ever get sick one day or just need a break, but you're concerned about not keeping your streak to close your Apple Watch's rings? Now, you don't have to worry about missing out on the day's progress. In WatchOS 11, Apple is giving you the ability to pause your rings for a day, week, month, or longer until you're ready to get back in the game.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/eMEJvwMM0vk?si=EQF_jo_4u9v5iJ_C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UCqHbpxQGP4?si=XGkajFHdqyoKNAFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. Better support for pregnancy
@@ -67,7 +71,7 @@ Plus, Live Activities are coming to Smart Stack, so you can keep tabs on live ev
 Apple
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 5\. The Photos face, powered by machine learning
@@ -76,6 +80,10 @@ The Photos face is one of the most popular faces on the Apple Watch, given its h
 
 Your watch will use machine learning to analyze your photo library and find the best snaps to use as a watch face based on aesthetics, composition, and facial expressions. Apple's algorithm will then optimize the image for the watch face and add depth effects, different colored backgrounds, fonts, and more. You can customize it on your own to your heart's content, plus get treated to a new look every time you raise your wrist.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 6\. Double Tap now works with any app
 
 One of the biggest complaints with the [Apple Watch Series 9](https://www.zdnet.com/article/apple-watch-series-9-review/) and [Ultra 2](https://www.zdnet.com/article/i-spent-a-week-with-the-apple-watch-ultra-2-and-heres-what-stood-out-the-most/) was how limited Double Tap was. Up until now, the feature has only worked in select apps that supported scrolling by tapping your fingers. But now, it's expanding to all apps and third-party apps with WatchOS 11\. Apple will also roll out the Double Tap API, which will let developers implement the feature in their apps.
@@ -83,10 +91,6 @@ One of the biggest complaints with the [Apple Watch Series 9](https://www.zdnet.
 Double tap gesture on Apple Watch Series 9.
 
 Jason Hiner/ZDNET
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zWYVKFk3yPQ?si=Yu7xsjIYgRiq8zHk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 7\. Check In comes to your wrist
 
@@ -99,16 +103,12 @@ Move over, Venmo. Also in iOS 18, Apple is bringing Tap to Cash to WatchOS 11\. 
 **Also: [How to use 'Tap to Cash' to send money in iOS 18](https://www.zdnet.com/article/how-to-use-tap-to-cash-to-send-money-in-ios-18/)**
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 9\. Translate on the fly
 
 Apple is adding the Translate app to WatchOS 11, allowing you to translate in any of 20 supported languages. Previously, the app was available only on the iPhone and iPad. When you're traveling abroad where a supported language is spoken, it'll automatically pop up in your watch's Smart Stack. Otherwise, choose the target and source languages and speak the words you want to be translated. Tap the Play button, and the translation plays through your watch's internal speaker.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 10\. Improved workout tracking for GPS-specific workouts
 
@@ -152,19 +152,20 @@ Right now, [WatchOS 11 is available as a public beta](https://www.zdnet.com/arti
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-links.techidaily.com/new-best-of-breed-exceptional-cardboard-vr-gaming-experienits-for-2024/"><u>[New] Best of Breed Exceptional Cardboard VR Gaming Experienits for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-finding-the-ideal-soundtrack-for-unboxing-content/"><u>[New] Finding the Ideal Soundtrack for Unboxing Content</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/updated-discover-the-next-wave-of-effective-facebook-ad-techniques-for-2024/"><u>[Updated] Discover the Next Wave of Effective Facebook Ad Techniques for 2024</u></a></li>
-<li><a href="https://fox-links.techidaily.com/updated-enhance-videos-with-music-inshots-simple-methods/"><u>[Updated] Enhance Videos with Music InShot's Simple Methods</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-in-2024-quick-start-saving-videos-of-your-switch-experiences/"><u>[Updated] In 2024, Quick Start Saving Videos of Your Switch Experiences</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/a-working-guide-for-pachirisu-pokemon-go-map-on-honor-90-gt-drfone-by-drfone-virtual-android/"><u>A Working Guide For Pachirisu Pokemon Go Map On Honor 90 GT | Dr.fone</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/beware-no-official-chatgpt-app-for-windows-avoid-the-fake-versions/"><u>Beware: No Official ChatGPT App for Windows – Avoid the Fake Versions!</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/choosing-your-preferred-conversational-agent-gemini-or-chatgpt-plus/"><u>Choosing Your Preferred Conversational Agent: Gemini or ChatGPT Plus</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/crafting-an-individualized-ai-assistant-powered-by-your-exclusive-data/"><u>Crafting an Individualized AI Assistant Powered by Your Exclusive Data</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/navigating-the-future-key-strategies-for-integrating-technology-with-sustainability-in-modern-enterprises/"><u>Navigating the Future: Key Strategies for Integrating Technology with Sustainability in Modern Enterprises</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/secure-your-chat-privacy-a-step-by-step-guide-to-opting-out-of-chatgpt/"><u>Secure Your Chat Privacy: A Step-by-Step Guide to Opting Out of ChatGPT.</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/step-by-step-guide-integrating-and-utilizing-the-nvidia-chat-with-rtx-ai-on-pc/"><u>Step-by-Step Guide: Integrating and Utilizing the Nvidia Chat with RTX AI on PC</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/the-paperclip-maximizer-phenomenon-and-its-connection-to-evolutionary-ai-thought-experiments/"><u>The Paperclip Maximizer Phenomenon and Its Connection to Evolutionary AI Thought Experiments</u></a></li>
-<li><a href="https://win-lab.techidaily.com/top-free-synchronization-software-comparable-to-goodsync-for-windows-vista-7-8-and-10/"><u>Top Free Synchronization Software Comparable to GoodSync for Windows Vista, 7, 8, and 10</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-2024-approved-perfecting-speech-interpretation-using-google-tools/"><u>[New] 2024 Approved Perfecting Speech Interpretation Using Google Tools</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-studyhistory-10-essential-youtube-historical-channels/"><u>[Updated] StudyHistory 10 Essential YouTube Historical Channels</u></a></li>
+<li><a href="https://location-fake.techidaily.com/3utools-virtual-location-not-working-on-vivo-y100-5g-fix-now-drfone-by-drfone-virtual-android/"><u>3uTools Virtual Location Not Working On Vivo Y100 5G? Fix Now | Dr.fone</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/boost-your-interview-skills-using-the-power-of-chatgpt/"><u>Boost Your Interview Skills Using the Power of ChatGPT</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/chatbot-insights-vs-starry-signs-is-ai-outshining-astrology-for-future-predictions/"><u>Chatbot Insights Vs. Starry Signs: Is AI Outshining Astrology for Future Predictions?</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/chatgpt-plus-subscription-benefits-is-it-worth-your-money/"><u>ChatGPT Plus Subscription Benefits – Is It Worth Your Money?</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/codegpt-uncovered-can-it-truly-compose-code/"><u>CodeGPT Uncovered: Can It Truly Compose Code?</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/essential-guide-to-bypassing-useless-gpt-plugins/"><u>Essential Guide to Bypassing Useless GPT Plugins</u></a></li>
+<li><a href="https://fox-links.techidaily.com/essential-sites-for-watching-vr-media/"><u>Essential Sites for Watching VR Media</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/expert-evaluation-white-ice-finish-on-the-powerful-maxsun-z79d5-atx-with-multiple-m2-supports/"><u>Expert Evaluation: White Ice Finish on the Powerful MaxSun Z79#D5 ATX with Multiple M.2 Supports</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/latest-rtx-2070-super-graphics-driver-downloads-and-updates-for-windows-10-and-11/"><u>Latest RTX 2070 Super Graphics Driver Downloads and Updates for Windows 10 and 11</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/mastering-print-and-scan-a-comprehensive-review-of-hps-multifunction-laser-printer-with-a-spotlight-on-user-satisfaction-featured-by-zdnet/"><u>Mastering Print and Scan: A Comprehensive Review of HP's Multifunction Laser Printer with a Spotlight on User Satisfaction - Featured by ZDNET</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/simplified-steps-for-local-llama-2-installation/"><u>Simplified Steps for Local Llama 2 Installation</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/95809021-9781944529154-the-psychobiology-of-psi/"><u>The Psychobiology of Psi | Free Book</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/transformative-use-of-chatgpts-my-bots-for-games-visual-arts/"><u>Transformative Use of ChatGPT's My Bots for Games, Visual Arts</u></a></li>
 </ul></div>
 

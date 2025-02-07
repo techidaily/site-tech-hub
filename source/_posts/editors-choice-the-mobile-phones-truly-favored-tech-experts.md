@@ -1,7 +1,7 @@
 ---
 title: "Editor's Choice: The Mobile Phones Truly Favored Tech Experts"
-date: 2025-01-01T03:50:18.376Z
-updated: 2025-01-06T22:45:06.736Z
+date: 2025-02-05T17:15:12.383Z
+updated: 2025-02-07T08:46:57.163Z
 tags:
   - apple
 categories:
@@ -17,6 +17,10 @@ Curious about the favorite devices and phone buying habits of _ZDNet's_ tech rep
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### **ZDNET** Recommends
 
@@ -46,11 +50,11 @@ Pros
 Cons 
 * New design Cameras are impressive Performance Battery life
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## iPhone 12 Pro
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Jason Cipriani and Simon Bisson
 
@@ -76,10 +80,6 @@ Cons
 
 ## Samsung Galaxy S21 Ultra
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ITtcSWvS8bo?si=4M4BfMgaabrW6148" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Steven J. Vaughan-Nichols and Charlie Osborne
 
 **Steven J. Vaughan-Nichols:** My Pixel 3 was starting to show its age, so I decided that since I was going to upgrade my phone, why not go for the gusto and get the top-of-the-line Samsung? So far, I'm glad I did. I love the 6.8-inch 120Hz Quad HD screen. The five cameras backed by a 108MP sensor and 10x optical zoom are insanely good. It also has 5G, which, at this point, isn't really that important on Verizon since I don't live next to a Verizon 5G UWB tower. What does matter to me is that it works well with my Samsung Galaxy Watch 3\. Samsung claimed early on that its watch would work well with other Android phones. It does but it doesn't come with all the health features. My only problem is the price: It lists for $1,199\. I didn't that pay that much, but I still paid a lot.
@@ -104,6 +104,10 @@ Cons
 
 ## iPhone 12 Pro Max
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jpdGEJJwMLY?si=eKgXOPpNeYvYKcel" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Matthew Miller
 
 **Matthew Miller:** After a couple years of favoring the smaller iPhone X and XS, I made the leap to the big iPhone 12 Pro Max. As a phone reviewer, I usually move my SIM along every month or so, but it's now been four months with this phone serving as my daily driver, and not even the best Samsung S21 Ultra can knock it from my hands. The built quality is fantastic, the cameras let me capture content to my heart's delight, and regular updates keep it running perfectly for me. The addition of 5G and move to Qualcomm was the icing on the cake that set the bar for all other phones.
@@ -112,14 +116,10 @@ Cons
 
 Show Expert Take Show less 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## iPhone SE (2020)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Greg Nichols, Aimee Chanthadavong, and David Grober
@@ -151,7 +151,7 @@ Cons
 ## iPhone 12
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Chris Matyszczyk
@@ -214,10 +214,6 @@ Show less
 
 ## Huawei P20 Pro
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Federico Guerrini
 
 **Federico Guerrini:** Very good phone for its price (I bought it for 280 euros). Good camera, nice display, handy format. I bought it before the ban, so no problem with Google apps, etc. The charger is very fast, in half an hour it goes from 0% to almost 50%. I'm not very concerned about Huawei spying on me, but just in case, I have other phones on which I installed Ubuntu Touch for the "sensitive" calls. ;)
@@ -233,10 +229,14 @@ Cons
 * Excellent photo quality Cool color options Long battery life Loud stereo speakers Wireless charging support
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## iPhone XR
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Damian Radcliffe, Angelica Mari, and Sean Portnoy
 
@@ -263,7 +263,7 @@ Show Expert Take Show less
 ###   
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## iPhone X
@@ -294,15 +294,7 @@ I've always used iPhones. Started with the iPhone 3, and never strayed. I refuse
 
 Show Expert Take Show less 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## iPhone 7 Plus
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4YCkNXJjC3c?si=9Tn8KiqKGTZi1o7E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Tiernan Ray
 
@@ -334,6 +326,10 @@ Yes, I am indeed still clinging to the phone that made me love phablets, upgrade
 
 Show less 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eMEJvwMM0vk?si=EQF_jo_4u9v5iJ_C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Samsung Galaxy Note 8
 
 ### Charles McLellan
@@ -343,6 +339,10 @@ I've been using Samsung's Note 8 for several years now, despite having seen all 
 **Next phone or dream phone?** A 2021 flagship-class phone with an integrated thermal camera. A thermal camera is a great tool for jobs around the house/office and for seeking out wildlife after dark
 
 Show Expert Take Show less 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oB9V7rZzotw?si=d4xrCbq1jKHXGAWN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ###   
 
@@ -376,19 +376,22 @@ Show Expert Take Show less
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://tiktok-video-recordings.techidaily.com/new-2024-approved-unlock-viewer-interest-with-these-5-effective-tiktok-captions/"><u>[New] 2024 Approved Unlock Viewer Interest with These 5 Effective TikTok Captions</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-effortless-android-sound-capture-4-non-root-methods-for-2024/"><u>[Updated] Effortless Android Sound Capture 4 Non-Root Methods for 2024</u></a></li>
-<li><a href="https://tiktok-clips.techidaily.com/updated-in-2024-the-ultimate-booktok-list-must-read-masterpieces/"><u>[Updated] In 2024, The Ultimate BookTok List Must-Read Masterpieces</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/7-ways-to-lock-apps-on-iphone-8-and-ipad-securely-drfone-by-drfone-ios/"><u>7 Ways to Lock Apps on iPhone 8 and iPad Securely | Dr.fone</u></a></li>
-<li><a href="https://solve-news.techidaily.com/iuawsoweiplusocsplusodreodiuobqplusocioociplusodkplusocuoodjeocuemdouobpplusobruiehewogeobqoekvuwgheodlplusodreocuplusocueauuewwhoaipuevptog5pya5paw44oh44o826/"><u>新型コロナによるビジネス面での脅威と社内プロセス改善戦略: 最新データ分析</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/canon-imageclass-mf4800-obtain-the-latest-printer-drivers-here/"><u>Canon ImageClass MF4800 - Obtain the Latest Printer Drivers Here!</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/exploring-copyright-law-in-artificial-intelligence-who-is-the-author/"><u>Exploring Copyright Law in Artificial Intelligence: Who Is The Author?</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/in-2024-create-meme-on-giphy/"><u>In 2024, Create Meme on Giphy</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/incorporating-ai-into-fitness-coaching-the-ultimate-guide-to-chatgpt-for-personalized-workouts/"><u>Incorporating AI Into Fitness Coaching: The Ultimate Guide to ChatGPT for Personalized Workouts</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/mastering-vimeo-recorder-capturing-screens-and-cameras-on-streams-for-2024/"><u>Mastering Vimeo Recorder Capturing Screens & Cameras on Streams for 2024</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/mobile-and-desktop-tips-for-gotomeeting-captures/"><u>Mobile & Desktop Tips for GoToMeeting Captures</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/resolving-pc-issues-efficiently-with-the-help-of-chatgpt/"><u>Resolving PC Issues Efficiently with the Help of ChatGPT</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/step-by-step-guide-connecting-chatgpt-with-your-whatsapp-business-account/"><u>Step-by-Step Guide: Connecting ChatGPT with Your WhatsApp Business Account</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/study-hacks-gone-wrong-steering-clear-of-misusing-chatgpt-as-a-student/"><u>Study Hacks Gone Wrong: Steering Clear of Misusing ChatGPT as a Student</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-navigating-instagrams-filter-features-for-high-quality-images-for-2024/"><u>[New] Navigating Instagram's Filter Features for High-Quality Images for 2024</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-pro-android-pixel-perfect-techniques/"><u>[New] Pro Android Pixel Perfect Techniques</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-the-ultimate-guide-to-import-photos-and-videos-into-windows-10-for-2024/"><u>[New] The Ultimate Guide to Import Photos & Videos Into Windows 10 for 2024</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-in-2024-explore-creative-boundaries-with-high-quality-affects-plug-ins/"><u>[Updated] In 2024, Explore Creative Boundaries with High-Quality Affects Plug-Ins</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-multi-view-magic-is-splitcam-prime/"><u>[Updated] Multi-View Magic Is SplitCam Prime?</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/2024-approved-best-way-to-use-obs-live-stream-to-facebook/"><u>2024 Approved Best Way to Use OBS Live Stream to Facebook</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/erful-methods-to-make-money-on-your-youtube-shorts-for-2024/"><u>9 Powerful Methods to Make Money on Your YouTube Shorts for 2024</u></a></li>
+<li><a href="https://fox-that.techidaily.com/cure-5-common-iphone-issues-with-the-powerful-dfu-reset-technique/"><u>Cure 5 Common iPhone Issues with the Powerful DFU Reset Technique</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/download-your-favorite-songs-from-pandora-for-free-top-2-reliable-apps/"><u>Download Your Favorite Songs From Pandora for Free: Top 2 Reliable Apps</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/dvd-decrypter-dvd-ripping/"><u>DVD Decrypter ガイド：詳細な手順でDVD Ripping成功</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/easy-steps-how-to-download-and-transform-youtube-videos-into-m4v-files/"><u>Easy Steps: How to Download and Transform YouTube Videos Into M4V Files</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/expert-reviews-on-the-finest-aiff-to-mp3wavflac-transformers-comprehensive-compatibility-check/"><u>Expert Reviews on the Finest AIFF to MP3/WAV/FLAC Transformers – Comprehensive Compatibility Check</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/fast-no-cost-solutions-transform-your-3gp-videos-into-mp4-format-seamlessly/"><u>Fast, No-Cost Solutions: Transform Your 3GP Videos Into MP4 Format Seamlessly</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/gifpc/"><u>GIFアニメーションへの音楽追加手順：PC用ガイド</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/how-to-easily-download-footage-from-the-bbc-using-these-two-strategies/"><u>How To Easily Download Footage From the BBC Using These Two Strategies</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/learn-how-to-link-your-videoclips-for-free-in-windows/"><u>Learn How to Link Your Videoclips for Free in Windows</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/thor-vs-jormungandr-ragnaroks-eve/"><u>Thor vs Jormungandr Ragnarok's Eve</u></a></li>
 </ul></div>
 

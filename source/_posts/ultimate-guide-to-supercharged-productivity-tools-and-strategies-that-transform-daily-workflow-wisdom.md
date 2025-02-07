@@ -1,7 +1,7 @@
 ---
 title: "Ultimate Guide to Supercharged Productivity: Tools and Strategies That Transform Daily Workflow Wisdom"
-date: 2025-01-19T17:20:48.354Z
-updated: 2025-01-25T16:06:11.976Z
+date: 2025-02-05T03:54:52.337Z
+updated: 2025-02-06T22:00:22.861Z
 tags:
   - apple
 categories:
@@ -24,10 +24,6 @@ Before I take you through both the tools and my "process," let me point out that
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UCqHbpxQGP4?si=XGkajFHdqyoKNAFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### See also
 
 [The 6 best to-do list apps: Get organized What is the best to-do list app? Any.do! But ZDNet reviewed all the top picks to help you organize and liberate your life.  Read now](https://www.zdnet.com/article/best-to-do-list-app/)
@@ -35,10 +31,6 @@ Before I take you through both the tools and my "process," let me point out that
 Today, I coordinate with teams, rather than manage them. I have students rather than employees. I research projects rather than launch products. My daily productivity flow reflects the changes in career as I've evolved from founder to advisor, manager to professor, and publisher to columnist. 
 
 I use a tremendous number of tools for my projects, and they often change from project to project. But what I'm going to discuss here are the tools I use on a daily basis to manage my "flow". 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## What do I mean by my flow?
 
@@ -51,6 +43,10 @@ In my case, morning to mid-afternoon is that daily productivity time. That's whe
 That whole process is my flow. Over my many various iterations, I've managed to optimize this process so I'm able to get a tremendous amount done in a relatively short amount of time.
 
 The other half of my day is project time. This is when I work on everything from academic papers to the presentations, white papers, and webcasts I do for ZDNet to developing code to most of the projects I write about for DIY-IT. I tend to work on projects in the late afternoon and the late evening, with a break in the early evening for family time and lunch or dinner. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OdlXe5RELW0?si=Iz1H1QnLQVw-Eu3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Changes due to the pandemic
 
@@ -65,6 +61,10 @@ In any case, what that means is that instead of my escalating ranking of phones,
 ## Tools for my daily flow
 
 Now that you understand how my working environment has changed and how I structure my work day, let's discuss the tools I use in my daily flow. It all starts with Gmail... 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## First morning Gmail
 
@@ -83,7 +83,7 @@ The boy
 The way I have Gmail set up, only the most important messages show up on my watch. Same with Slack notifications. Basically, unless there's something urgent from one of my editors, I can start my day in peace. If there's nothing urgent, I hit the snooze button. After repeating this ritual two or three times, I get up, do my morning necessaries, and zombie-walk to the coffee maker. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9ECz3oZ8NrQ?si=86vkwkDJo9HQXpzt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=LvxQhsEJoymsM2iZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **ZDNET** Recommends
@@ -95,6 +95,10 @@ Once I have coffee in hand, I navigate [the puppy's](https://www.zdnet.com/artic
 At this point, I tend to take note of what's in my inbox, but I neither process it, nor respond to it. I want to let the coffee take hold. 
 
 I also take a quick look at my calendar and my to-do list to make sure I know what's on deck for the day. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_dOmuXhsV6Y?si=aT6vgPbDx4ajjvdr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Daily must-reads with Pocket
 
@@ -124,6 +128,10 @@ Part of my morning flow is posting to the social networks. Unfortunately, this h
 
 But Facebook broke that. Facebook no longer allows tools like Buffer and [Hootsuite](https://hootsuite.com/) to to post to personal Facebook pages. I've spent years building up my personal Facebook page following and don't want to start a corporate page (or orphan all my followers), so when Facebook broke auto-posting, it hurt. Now, I hand post to Twitter and then do it again on Facebook. LinkedIn gets a lot less attention, and, frankly, I post less frequently. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Featured reviews
 
 * [One of the best smart thermostats I've tested is not made by Ecobee or Amazon](https://www.zdnet.com/article/one-of-the-best-smart-thermostats-ive-tested-is-not-made-by-ecobee-or-amazon/)
@@ -138,10 +146,6 @@ Rinse, wash, repeat.
 I'm relatively holistic about my morning reading process. I do it until I'm bored or hungry, or feel like switching gears and moving on to managing my email and schedule. 
 
 The key point to all of this is that ever since I moved to this Pocket-read-post-archive cycle for my daily reading, my productivity and flexibility has gone up tremendously. I'm getting more done, and the quality of the process is far more pleasant. I'm no longer tied to my desktop browser, because all of these tools work on all my devices. 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zWYVKFk3yPQ?si=Yu7xsjIYgRiq8zHk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Connecting and scheduling
 
@@ -188,10 +192,6 @@ By the way, this is also a great way to think about users, which I initially was
 
 Here's another little trick I use: I get a lot of feature requests (which I call "cool feature ideas") from the plugin users. The go into [the bug tracking system I manage in Notion](https://www.zdnet.com/article/notion-app-review/).
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## To-doing my to-do list
 
 By this point, I'm usually most of the way through the morning. My email has been processed and actions have been moved to my to-do list and schedule items to my calendar. I've done a considerable amount of reading, and I'm up to speed on the various issues I'm responsible for following. I've graded students and supported users (and added any bugs or key follow-up items to my to-do list). 
@@ -228,10 +228,6 @@ That, by the way, is the entire key to keeping your to-do list under control. If
 
 I've also set up Notion pages for each 3D printer, and for managing and tracking my reviews and video projects. It's great as a catch-all for lots of details, but unlike previous catch-alls like Evernote, Notion allows you to assign some structure and layout to the stuff you're working with. 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Blocking out time for my projects
 
 I use Notion for managing the details of my projects, but I visualize them using Google Calendar. I have three special calendars I set up: DG Planner, Planner Tentative, and Project Due.
@@ -245,6 +241,10 @@ Next is DG Planner. I use this to block out a set of days for everything that ha
 Finally, there's Planner Tentative. This is where I block out the approximate time a project I may or may not be working on will probably take. That way, if I'm taking with my team about a bunch of projects, I can block out some tentative time and see how my month is shaping up.
 
 With this system, I rarely lose track of projects and also rarely overbook myself. It's worked quite well for a bunch of years now.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Rethinking your flow
 
@@ -275,18 +275,18 @@ _You can follow my day-to-day project updates on social media. Be sure to follow
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-links.techidaily.com/new-celebrating-conversations-reddits-momentous-discussions-top-10/"><u>[New] Celebrating Conversations Reddit's Momentous Discussions (Top 10)</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/astering-youtube-video-extraction-a-step-by-step-guide-for-2024/"><u>[New] Mastering YouTube Video Extraction A Step-by-Step Guide for 2024</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-in-2024-5-top-3d-design-apps-for-engaging-youtube-beginnings/"><u>[Updated] In 2024, 5 Top 3D Design Apps for Engaging YouTube Beginnings</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-visual-narratives-unleashed-top-5-filmmaking-skills/"><u>[Updated] Visual Narratives Unleashed Top 5 Filmmaking Skills</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/2024-approved-1-to-10-superior-4k-screen-selections/"><u>2024 Approved 1 to #10 Superior 4K Screen Selections</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/2024-approved-2023-tech-scoop-efficiently-tracking-down-fb-vids/"><u>2024 Approved 2023 Tech Scoop Efficiently Tracking Down FB Vids</u></a></li>
-<li><a href="https://location-fake.techidaily.com/5-easy-ways-to-change-location-on-youtube-tv-on-honor-90-drfone-by-drfone-virtual-android/"><u>5 Easy Ways to Change Location on YouTube TV On Honor 90 | Dr.fone</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/battle-of-the-ais-notion-ai-versus-gpt-3-in-writing/"><u>Battle of the AIs: Notion AI Versus GPT-3 in Writing</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/effortless-conversations-simplifying-your-use-of-chatgpt-with-this-handy-chrome-add-on/"><u>Effortless Conversations: Simplifying Your Use of ChatGPT with This Handy Chrome Add-On</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-still-using-pattern-locks-with-realme-11-pro-tips-tricks-and-helpful-advice-by-drfone-android/"><u>In 2024, Still Using Pattern Locks with Realme 11 Pro? Tips, Tricks and Helpful Advice</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/navigating-beginners-vlogging-landscape/"><u>Navigating Beginner's Vlogging Landscape</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/the-next-ai-leap-when-do-experts-predict-gpt-5-will-debut/"><u>The Next AI Leap – When Do Experts Predict GPT-5 Will Debut?</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/unveiling-artificial-intelligence-understanding-its-nature-and-potential-risks/"><u>Unveiling Artificial Intelligence: Understanding Its Nature & Potential Risks</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-how-to-choose-between-filmora-and-democreator-for-2024/"><u>[New] How to Choose Between Filmora and Democreator for 2024</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-2024-approved-trending-upward-selective-use-for-your-insta-posts/"><u>[Updated] 2024 Approved Trending Upward Selective Use for Your Insta Posts</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/updated-in-2024-easy-and-affordable-video-editing-software-mac-and-tiktok/"><u>[Updated] In 2024, Easy and Affordable Video Editing Software (Mac & TikTok)</u></a></li>
+<li><a href="https://win11.techidaily.com/avoid-and-resolve-windows-error-code-0xc00000f-quickly/"><u>Avoid and Resolve Windows Error Code: 0Xc00000f Quickly</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/craftsmanship-meets-technology-expert-ai-use-in-bing-for-android/"><u>Craftsmanship Meets Technology: Expert AI Use in Bing for Android</u></a></li>
+<li><a href="https://win-manuals.techidaily.com/drug-delivery-systems-for-ocular-conditions-continue-to-evolve-aiming-to-maximize-therapeutic-efficacy-while-minimizing-systemic-exposure-and-side-effects.m225/"><u>Drug Delivery Systems for Ocular Conditions Continue to Evolve, Aiming to Maximize Therapeutic Efficacy While Minimizing Systemic Exposure and Side Effects.</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/exploring-the-field-of-ai-prompt-design-can-it-lead-to-a-reliable-profession/"><u>Exploring the Field of AI Prompt Design: Can It Lead to a Reliable Profession?</u></a></li>
+<li><a href="https://howto.techidaily.com/fix-the-error-of-unfortunately-the-processcomandroidphone-has-stopped-on-poco-m6-pro-4g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix the Error of Unfortunately the Process.com.android.phone Has Stopped on Poco M6 Pro 4G | Dr.fone</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/from-text-prompts-to-ai-masterpieces-harnessing-chatgpt-for-image-generation/"><u>From Text Prompts to AI Masterpieces: Harnessing ChatGPT for Image Generation</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/harness-powerful-language-ai-without-cost-check-out-these-6-options-beyond-openais-sora/"><u>Harness Powerful Language AI Without Cost - Check Out These 6 Options Beyond OpenAI's Sora</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/openai-vs-creative-rights-the-legal-showdown-with-silverman/"><u>OpenAI Vs. Creative Rights: The Legal Showdown with Silverman</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solving-the-persistent-click-issue-eliminating-sound-problems-on-windows-computers/"><u>Solving the Persistent 'Click' Issue: Eliminating Sound Problems on Windows Computers</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/unlocking-truthgpts-potential-legal-battles-targeting-mullvad-vpn-elite-catalog-of-free-gaming-titles-on-pc-unraveling-the-world-of-high-performance-mechani18/"><u>Unlocking TruthGPT's Potential | Legal Battles Targeting Mullvad VPN | Elite Catalog of FREE Gaming Titles on PC | Unraveling the World of High-Performance Mechanical Keyboards</u></a></li>
 </ul></div>
 

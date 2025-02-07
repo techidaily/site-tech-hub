@@ -1,7 +1,7 @@
 ---
 title: "Easy Steps: Transforming CBR Documents Into Editable PDF Format"
-date: 2024-08-20T10:51:04.417Z
-updated: 2024-08-21T10:51:04.417Z
+date: 2025-02-02T05:43:06.911Z
+updated: 2025-02-07T03:58:03.002Z
 categories:
   - epubor
 thumbnail: https://thmb.techidaily.com/fef6203ef0318484835e6be326e62ec1be7635f93248db2ddf9a669b098df892.jpg
@@ -15,11 +15,13 @@ Posted by [Jonny Greenwood](https://plus.google.com/u/0/+JonnyGreenwood999) on 1
 
 4.8 [(11 comments)](http://www.epubor.com/#comment-area) 
 
-
-
 ![follow](http://www.epubor.com/images/follow.png)
 
 CBR is the most popular comic format on the Internet. But it's unsupported on e-book readers or tablets. It's a pity that you have many CBR comic books at hand but you can't read them on your Kindle or iPad. So I come up with the idea of converting CBR files into PDF format which most e-book readers support. Here we list two methods of converting CBR to PDF.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sn2STvYRVb8?si=Z-XhJJ1Mc-Em5Kqy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Method 1\. Convert CBR to PDF with Calibre
 
@@ -35,6 +37,10 @@ Launch Calibre and click "Add books" to add comics. You can also drag comic file
 
 ![convert cbr to pdf-add comic](https://www.epubor.com/images/uppic/1-convert cbr to pdf-add comic.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Select comic
 
 ![convert cbr to pdf-book list](https://www.epubor.com/images/uppic/2-convert cbr to pdf-book list.jpg)
@@ -47,17 +53,22 @@ Click "Convert books" and a window will pop up. You need to set something up. Do
 
 ![convert cbr to pdf-set output format](https://www.epubor.com/images/uppic/3-convert cbr to pdf-set output format.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Set out format as "PDF"
 
 ![convert cbr to pdf-comic input set](https://www.epubor.com/images/uppic/4-convert cbr to pdf-comic input set.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E3yY7lZ-FKA?si=g8VEuExP8GH59B69" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Comic input set
 
 Generally you just need to follow the two steps above. It must point out that you must select the "Disable comic processing" option otherwise the colorful comic will turn into black-and-white one. 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=33729450&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
-<!-- affiliate ads end -->
 ### Method 2\. Convert CBR to PDF with Microsoft Word
 
 Many people think it's boring and inconvenient to download and install software. They want a simple way like using something very common. So here comes the second method – converting with Microsoft Word, a program which almost everyone has in their PC. OK, let's follow the steps below
@@ -68,16 +79,21 @@ You may be confused of this step. Actually CBR means "Comic Book RAR". A CBR fil
 
 ![convert cbr to pdf-rename cbr file-1](https://www.epubor.com/images/uppic/5-convert cbr to pdf-rename cbr file-1.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Rename cbr file-1
 
 ![convert cbr to pdf-rename cbr file-2](https://www.epubor.com/images/uppic/6-convert cbr to pdf-rename cbr file-2.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958379/18409" target="_top" id="1958379"><img src="//a.impactradius-go.com/display-ad/18409-1958379" border="0" alt="" width="856" height="508"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958379/18409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Rename cbr file-2
 
 ![convert cbr to pdf-extract file](https://www.epubor.com/images/uppic/7-convert cbr to pdf-extract file.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uzb-0C0xUYA?si=F4MPhdVqyVgx7_8X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Extract file
 
@@ -86,6 +102,10 @@ Extract file
 Create a new Microsoft Word file. Click "Insert" to import images you just extracted before. Press "Ctrl" and "A" together to select all images.
 
 ![convert cbr to pdf-import images](https://www.epubor.com/images/uppic/8-convert cbr to pdf-import images.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0nGlyEL5K6Y?si=3KZhTTBvKcPmyS68" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Import images
 
@@ -97,10 +117,6 @@ First, press "Ctrl" and "A" together to select all image in the docx. Set the al
 
 ![convert cbr to pdf-set image alignment](https://www.epubor.com/images/uppic/9-convert cbr to pdf-set image alignment.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/Affiliates_300x250px_valentinesday.png" border="0"></a>
-<!-- affiliate ads end -->
 Set image alignment
 
 Click "Page Layout" and the setup icon to call out the page layout menu.
@@ -113,19 +129,12 @@ Select "Margins" and set all margins as "0".
 
 ![convert cbr to pdf-set page margin](https://www.epubor.com/images/uppic/11-convert cbr to pdf-set page margin.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=39694080&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/nbr/fire/Screenshot_1red_gb.jpg" border="0">Nero Burning ROM:
-The ultimate burning program for all your needs!</a>
-<!-- affiliate ads end -->
 Set page margins
 
 Select "Paper" and set width and height. For a better reading experience, I suggest you set the width and height similar to your –e-book reader's resolution. For example, if your e-book reader is Kindle Fire which has a resolution of 1024\*600\. Then you should set the width and height as **"6.00"**  and **"10.24"**.
 
 ![convert cbr to pdf-set paper size](https://www.epubor.com/images/uppic/12-convert cbr to pdf-set paper size.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653808&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
-<!-- affiliate ads end -->
 Set paper size
 
 Select "Layout". Set options like this:
@@ -138,9 +147,6 @@ When these all be done. Save the doc file as PDF format.
 
 ![convert cbr to pdf-save as pdf](https://www.epubor.com/images/uppic/14-convert cbr to pdf-save as pdf.jpg)
 
-<!-- affiliate ads begin -->
-
-<!-- affiliate ads end -->
 Save as PDF
 
 I'm sure you've learned how to convert CBR to PDF with these two methods above. Now just enjoy comics on your e-book reader!
@@ -154,8 +160,6 @@ SHARING IS GREAT!
 [Tweet](https://twitter.com/share) 
 
 [SAVE PAGE AS PDF](https://tools.techidaily.com/epubor/products/) 
-
-
 
 11 Comments
 
@@ -299,8 +303,6 @@ Leave a comment
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -308,4 +310,18 @@ Leave a comment
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-data.techidaily.com/ed-10-top-editing-apps-at-no-cost-online-for-2024/"><u>[Updated] 10 Top Editing Apps at No Cost Online for 2024</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-2024-approved-ultimate-guide-to-pcs-and-macs-best-recorders/"><u>[Updated] 2024 Approved Ultimate Guide to PC's and Mac's Best Recorders</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-in-2024-investigating-top-viewed-comments/"><u>[Updated] In 2024, Investigating Top Viewed Comments</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/chatgpt-in-action-a-list-of-7-current-practical-uses/"><u>ChatGPT in Action: A List of 7 Current Practical Uses</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/essential-tips-for-overcoming-chatgpt-logout-issues/"><u>Essential Tips for Overcoming ChatGPT Logout Issues</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-track-xiaomi-14-ultra-location-without-installing-software-drfone-by-drfone-virtual-android/"><u>How to Track Xiaomi 14 Ultra Location without Installing Software? | Dr.fone</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/mastering-chatgpt-the-power-of-custom-commands/"><u>Mastering ChatGPT: The Power of Custom Commands</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/tech-talk-microsoft-purchases-blizzard-unraveling-ais-impact-on-translation-and-visual-arts-podcast-episodes/"><u>Tech Talk: Microsoft Purchases Blizzard, Unraveling AI's Impact on Translation and Visual Arts - Podcast Episodes</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210179265-9780762473779-the-witchy-homestead/"><u>The Witchy Homestead | Free Book</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/toms-hardware-review-the-definitive-guide/"><u>Tom's Hardware Review: The Definitive Guide</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/transforming-life-with-chatgpt-a-comprehensive-guide/"><u>Transforming Life with ChatGPT: A Comprehensive Guide</u></a></li>
+</ul></div>
 

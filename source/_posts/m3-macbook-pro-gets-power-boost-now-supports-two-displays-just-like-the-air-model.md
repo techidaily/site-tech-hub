@@ -1,7 +1,7 @@
 ---
 title: "M3 MacBook Pro Gets Power Boost: Now Supports Two Displays, Just Like the Air Model"
-date: 2025-01-23T16:30:55.102Z
-updated: 2025-01-25T16:18:28.256Z
+date: 2025-02-02T22:13:27.744Z
+updated: 2025-02-07T00:23:47.285Z
 tags:
   - apple
 categories:
@@ -33,7 +33,7 @@ Want a little help deciding? Here's a breakdown of the biggest differences betwe
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PKZUYice-ws?si=L8iMa9T3h7TMSWdQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Specifications
@@ -56,9 +56,17 @@ Want a little help deciding? Here's a breakdown of the biggest differences betwe
 
 Jason Hiner/ZDNET
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ###  1\. You want the fastest Wi-Fi support available
 
 If you find yourself doing a lot of downloading for work, or you're a gamer, the MacBook Air with M3 features the new [Wi-Fi 6e standard](https://www.zdnet.com/home-and-office/networking/wi-fi-6e-the-future-of-wireless-connectivity-today-with-some-caveats/) that provides faster download speeds and lower latency -- provided you're using a Wi-Fi 6e router, of course. While you might not notice much of a difference for everyday tasks, if you do Wi-Fi-intensive tasks where latency is critical, you'll quickly appreciate the upgrade. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ###  2\. You use more than one monitor
 
@@ -67,10 +75,6 @@ One of the biggest advantages of the M3, aside from the purely technical upgrade
 **Also: [This sneaky Best Buy deal lets you snag a free MacBook Air M3 - here's how](https://www.zdnet.com/article/this-sneaky-best-buy-deal-lets-you-snag-a-near-free-macbook-air-m3-heres-how/)**
 
 The M3 MacBook Air has [full connectivity](https://www.zdnet.com/article/you-can-use-your-m3-macbook-pro-with-dual-monitors-now-just-like-the-m3-macbook-air/) for two [external monitors](https://www.zdnet.com/home-and-office/smart-office/apple-studio-display-monitor-review/), so if you frequently work with more than one monitor, it's certainly worth upgrading. There is a small catch in that you can only use two external monitors while the laptop lid is closed. So you don't get your laptop's display _and_ two monitors; you just get the monitors.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9hsPbiic0O8?si=58mZ2Cu6wicQfsUP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ###  3\. You want the absolute best performance
 
@@ -90,6 +94,10 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 
 [See all](https://www.zdnet.com/newsletters/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  You should buy the M2 MacBook Air if...
 
 Cliff Joseph/ZDNET
@@ -99,7 +107,7 @@ Cliff Joseph/ZDNET
 You don't get too many chances to save money on Apple products, but you have one here by opting for the M2 version of the MacBook Air. With the release of the M3 version. Apple has dropped the M2 MacBook Air's starting price to $999, but that price could drop further later in the year, opening the door for bigger savings. Even though the M2 is slightly older, it's still a perfectly capable laptop that will work fine for most people.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fJlICvacgJY?si=jNeijBVj7ia4ammA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ###  2\. You don't need the latest and greatest features
@@ -108,19 +116,11 @@ Will you be mainly using your laptop for web surfing, streaming, listening to mu
 
 **Also:** [**I recommend this 15-inch MacBook Air to most people, and it's still $250 off**](https://www.zdnet.com/article/i-recommend-this-15-inch-macbook-air-to-most-people-and-its-still-250-off/)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 3\. You're expecting the M3 to be a bigger upgrade
 
 If you were expecting a radical redesign with the latest MacBook, you won't get it from the M3 Air. It looks nearly identical to the M2, and aside from the anodization seal on the midnight color that reduces fingerprints, even the colors aren't anything new. The real changes are on the inside, so if you want something that simply looks like it's the latest thing, you won't get any benefit from picking the M3 over the M2\. 
 
 [Buy the M2 MacBook Air View now at Apple](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-mac%2Fmacbook-air%2F13-inch-m2&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uzb-0C0xUYA?si=F4MPhdVqyVgx7_8X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  Alternatives to consider
 
@@ -156,16 +156,21 @@ If you were expecting a radical redesign with the latest MacBook, you won't get 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-helps.techidaily.com/updated-2024-approved-jest-jar-compreenas-best-no-cost-templates/"><u>[Updated] 2024 Approved Jest Jar Compreenas Best No-Cost Templates</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/create-a-soundtracked-slideshow-on-your-mac-for-dynamic-presentations/"><u>Create a Soundtracked Slideshow on Your Mac for Dynamic Presentations</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/enhancing-expeditions-ai-powered-strategies-for-the-ultimate-dandd-guide/"><u>Enhancing Expeditions: AI-Powered Strategies for the Ultimate D&D Guide</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/exploring-the-implications-of-ai-assistants-on-future-search-engine-technologies/"><u>Exploring the Implications of AI Assistants on Future Search Engine Technologies</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/exploring-the-possibilities-with-nvidias-generative-ai-services-for-businesses/"><u>Exploring the Possibilities with NVIDIA's Generative AI Services for Businesses</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/how-do-these-7-innovative-apps-harness-the-power-of-gpt-amazing-features/"><u>How Do These 7 Innovative Apps Harness the Power of GPT-Amazing Features?</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/how-to-detect-and-remove-spyware-on-infinix-zero-30-5g-drfone-by-drfone-virtual-android/"><u>How to Detect and Remove Spyware on Infinix Zero 30 5G? | Dr.fone</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-will-ispoofer-update-on-motorola-edge-2023-drfone-by-drfone-virtual-android/"><u>In 2024, Will iSpoofer update On Motorola Edge 2023 | Dr.fone</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/omprehensive-youtube-monetization-playbook-2024-edition/"><u>The Comprehensive Youtube Monetization Playbook - 2024 Edition</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/the-growing-dangers-of-unchecked-generative-ai-top-8-problematic-areas/"><u>The Growing Dangers of Unchecked Generative AI: Top 8 Problematic Areas</u></a></li>
-<li><a href="https://solve-lab.techidaily.com/trecho-essencial-descubra-13-tecnicas-simples-para-gravacao-de-video-em-streaming-livre-no-movavi/"><u>Trecho Essencial: Descubra 13 Técnicas Simples Para Gravação De Vídeo Em Streaming Livre No Movavi!</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-in-2024-securing-your-online-presence-off-facebook-activities-exposed/"><u>[Updated] In 2024, Securing Your Online Presence Off-Facebook Activities Exposed</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-mastering-screen-recordings-on-windows-10-systems-for-2024/"><u>[Updated] Mastering Screen Recordings on Windows 10 Systems for 2024</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-pioneering-sustainability-transforming-metropolitan-environments/"><u>[Updated] Pioneering Sustainability Transforming Metropolitan Environments</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/disruptive-artificial-intelligence-advancements-set-to-reshape-diy-world-spotlight-on-gpt-4/"><u>Disruptive Artificial Intelligence Advancements Set to Reshape DIY World: Spotlight on GPT-4</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/get-the-latest-in-search-innovation-access-bings-artificial-intelligence-features-for-mobile-users-now/"><u>Get the Latest in Search Innovation: Access Bing's Artificial Intelligence Features for Mobile Users Now</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/google-palm-2-vs-openai-gpt-4-showdown-unpacking-the-differences-in-artificial-intelligence/"><u>Google PaLM 2 Vs. OpenAI GPT-4 Showdown: Unpacking the Differences in Artificial Intelligence</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/harnessing-ai-7-tricks-that-work-wonders/"><u>Harnessing AI: 7 Tricks That Work Wonders</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-mastering-audio-visual-synchronization-for-streams/"><u>In 2024, Mastering Audio-Visual Synchronization for Streams</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-top-6-ways-to-transfer-text-messages-from-realme-narzo-60-5g-to-other-android-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Top 6 Ways to Transfer Text Messages from Realme Narzo 60 5G to Other Android Devices | Dr.fone</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/integrating-chatgpt-into-whatsapp-for-superior-customer-care/"><u>Integrating ChatGPT Into WhatsApp for Superior Customer Care</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/is-the-rise-of-tools-like-chatgpt-a-concern-for-online-search-businesses/"><u>Is the Rise of Tools Like ChatGPT a Concern for Online Search Businesses?</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/make-a-stir-in-the-app-ingenious-bio-strategies-to-captivate-swipes/"><u>Make a Stir in the App - Ingenious Bio Strategies to Captivate Swipes</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/order-matters-how-to-experience-the-entire-conjuring-series-correctly/"><u>Order Matters: How To Experience The Entire Conjuring Series Correctly</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/securing-your-audio-library-the-top-5-steps-for-internet-radio-storage/"><u>Securing Your Audio Library The Top 5 Steps for Internet Radio Storage</u></a></li>
+<li><a href="https://some-tips.techidaily.com/unexpected-price-increase-alert-googles-workspace-enterprise-fees-soar-by-38-insights-from-zdnet/"><u>Unexpected Price Increase Alert: Google's Workspace Enterprise Fees Soar by 38% – Insights From ZDNET</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/unveiling-shapley-explainer-engine-a-deep-dive-into-openais-shap-e/"><u>Unveiling Shapley Explainer Engine: A Deep Dive Into OpenAI's SHAP-E</u></a></li>
 </ul></div>
 

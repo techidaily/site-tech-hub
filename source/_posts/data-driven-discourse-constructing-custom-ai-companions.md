@@ -1,7 +1,7 @@
 ---
 title: "Data-Driven Discourse: Constructing Custom AI Companions"
-date: 2024-08-20T10:56:58.621Z
-updated: 2024-08-21T10:56:58.621Z
+date: 2025-02-01T23:38:49.324Z
+updated: 2025-02-06T18:36:52.653Z
 tags:
   - chatgpt
   - open-ai
@@ -17,11 +17,19 @@ thumbnail: https://thmb.techidaily.com/9adfd98abe6d7a86109b6983123bd98e50d69397f
 
  The world can’t stop talking about ChatGPT. Once people learn how to use ChatGPT, they love how the chatbot tool gives impressively realistic responses to various inputs. However, some are also concerned about the kind of information users might use the tool to get or create. Others worry they’ll eventually be out of work when ChatGPT replaces them.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What Is ChatGPT?
 
 ![artificial intelligence brain connected to human being](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/artificial-intelligence-4389372_1920-1.jpg)
 
 [ChatGPT is a chatbot](http://www.makeuseof.com/how-does-chatgpt-work/) that uses the GPT-3 (Generative Pretrained Transformer 3) framework, a highly advanced artificial intelligence (AI) model used for language processing developed by OpenAI. ChatGPT has more than 175 billion parameters, making it among the largest and most powerful language models available, and the model was trained using a massive amount of data from the internet and other sources.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How Do People Use ChatGPT?
 
@@ -36,16 +44,17 @@ thumbnail: https://thmb.techidaily.com/9adfd98abe6d7a86109b6983123bd98e50d69397f
  These examples might make you think there’s[no limit to what ChatGPT can do](https://www.makeuseof.com/openai-lost-control-chatgpt/) . However, that’s not an accurate assumption.
 
 <!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DBanner%2B728x90"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/2e76fe6a-3010-1b37-7846-f34ff9c6b4ca.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Will ChatGPT Replace Programmers?
 
 ![artificial intelligence coming out of computer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/artificial-intelligence-7215709_1280.png)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718730&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_vMixCallScreenshot1-large.jpg" border="0">vMix HD - Software based live production. vMix HD includes everything in vMix Basic HD plus 1000 inputs, Video List, 4 Overlay Channels, and 1 vMix Call 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Whenever a new AI tool emerges on the tech scene, many people understandably wonder whether that innovation might get so advanced that it makes their jobs obsolete. Even people such as programmers, who have highly specialized skills, might face that worry.
 
  However,[ChatGPT’s limitations](http://www.makeuseof.com/openai-chatgpt-biggest-probelms/) make it incapable of entirely taking over programmers’ work. The ChatGPT site contains a sample interaction of someone using the tool to debug code, though.
@@ -61,8 +70,9 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
  Some malicious actors have tried to use ChatGPT to their advantage. For example, some[criminals are using ChatGPT to make malware](https://www.makeuseof.com/chatgpt-used-by-cybercriminals-to-write-malware/) , ransomware, and other malicious encryption tools, despite having limited programming knowledge. This ChatGPT application will likely increase the challenges cybersecurity teams face.
 
 <!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653808&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QRaEdFMU-Xc?si=OjaiTvlogJy5wHhN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Will ChatGPT Replace Other Jobs?
 
  You might wonder if[content writers should worry about ChatGPT](http://www.makeuseof.com/why-chatgpt-wont-take-writing-job/) taking their jobs. Fortunately, those professionals need not fear. ChatGPT responses are often repetitive and sometimes outdated, making them less valuable.
@@ -73,30 +83,15 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 
  Elsewhere, people are explicitly[formatting questions to make ChatGPT ignore](https://www.makeuseof.com/how-to-get-best-results-from-chatgpt/) its programming. That practice could spread misinformation. The question-and-answer site Stack Overflow also initiated a temporary ban on ChatGPT. Staff members explained the influx of ChatGPT-generated responses swamped content moderators who need some level of subject matter expertise to verify the accuracy, and[spotting generative AI written text](http://www.makeuseof.com/dangers-ai-writing-how-spot-ai-generated-text/) is next to impossible.
 
-<!-- affiliate ads begin -->
-<span id="1997795">
-					<video width="250" height="250" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/23621-1997795">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:250px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fproteahair.pxf.io%2Fc%2F5597632%2F1997795%2F23621'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997795/23621" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## ChatGPT Deserves Caution
 
  The examples above and elsewhere highlight how ChatGPT might gradually change how employees work, but it won’t take over entire jobs. Instead, more people will start using ChatGPT to guide applicable parts of their workflows. If you’re thinking about using the chatbot for business, school, or pleasure, do so carefully and never assume you got wholly accurate answers.
-
 
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -105,4 +100,24 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://tiktok-video-recordings.techidaily.com/new-in-2024-beat-a-thon-essential-playlists-for-tiktoks-hot-rappers/"><u>[New] In 2024, Beat-a-Thon Essential Playlists for TikTok's Hot Rappers</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/n-2024-expert-tips-extracting-audio-from-youtube-video-playback/"><u>[New] In 2024, Expert Tips Extracting Audio From YouTube Video Playback</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-explore-10-premium-youtube-to-webm-converter-tools-for-2024/"><u>[Updated] Explore 10 Premium YouTube-to-WebM Converter Tools for 2024</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/anytime-anywhere-chatbot-experience-how-to-use-chatgpt-throughout-the-world-via-chatgpt-everywhere/"><u>Anytime, Anywhere Chatbot Experience: How to Use ChatGPT Throughout the World via ChatGPT Everywhere</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/bridging-ai-and-mobile-how-to-utilize-bings-android-app/"><u>Bridging AI and Mobile: How to Utilize Bing's Android App</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/choosing-your-code-companion-github-copilot-versus-chatgpt/"><u>Choosing Your Code Companion: GitHub Copilot Versus ChatGPT</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/effortless-writing-made-simple-automate-your-document-crafting-in-ms-word-with-chatgpt/"><u>Effortless Writing Made Simple: Automate Your Document Crafting in MS Word with ChatGPT</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/exploring-gpt-as-a-writing-checker/"><u>Exploring GPT as a Writing Checker</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/exposing-fps-fantasies-mechanical-marvels/"><u>Exposing FPS Fantasies, Mechanical Marvels</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-bypass-iphone-15-plus-passcode-easily-video-inside-by-drfone-ios/"><u>How to Bypass iPhone 15 Plus Passcode Easily Video Inside</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/how-to-delete-your-chatgpt-account/"><u>How to Delete Your ChatGPT Account</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/how-well-does-the-new-iphone-14-meet-user-expectations-an-in-depth-analysis/"><u>How Well Does the New iPhone 14 Meet User Expectations? An In-Depth Analysis</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/immerse-yourself-in-cinematic-excellence-the-superior-visuals-of-8k-film-viewing-on-modern-computers/"><u>Immerse Yourself in Cinematic Excellence: The Superior Visuals of 8K Film Viewing on Modern Computers</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/in-2024-8-stellar-alternatives-to-windows-10-photos-for-enhanced-photography-experience/"><u>In 2024, 8 Stellar Alternatives to Windows 10 Photos for Enhanced Photography Experience</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/leading-ai-therapy-solutions-explore-top-5-chatgpt-applications-tackling-psychological-issues/"><u>Leading AI Therapy Solutions: Explore Top 5 ChatGPT Applications Tackling Psychological Issues</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/streaming-tiktok-videos-onto-your-television-a-comprehensive-guide/"><u>Streaming TikTok Videos Onto Your Television: A Comprehensive Guide</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/top-7-unbreakable-methods-for-complete-file-deletion-on-your-computer/"><u>Top 7 Unbreakable Methods for Complete File Deletion on Your Computer</u></a></li>
+</ul></div>
 

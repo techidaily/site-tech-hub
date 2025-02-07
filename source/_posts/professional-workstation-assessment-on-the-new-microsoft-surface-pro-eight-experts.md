@@ -1,7 +1,7 @@
 ---
 title: Professional Workstation Assessment on the New Microsoft Surface Pro Eight Experts
-date: 2025-01-01T00:51:39.375Z
-updated: 2025-01-07T02:46:27.168Z
+date: 2025-02-04T02:44:05.633Z
+updated: 2025-02-07T03:45:42.623Z
 tags:
   - apple
 categories:
@@ -48,10 +48,6 @@ Jason Cipriani/ZDNet
 
 When Microsoft [announced the Surface Pro 8 in Sept. 2021](https://www.zdnet.com/article/microsoft-refreshes-its-surface-pc-portfolio-including-android-based-duo-2/), it revealed a completely new design for the Surface Pro lineup. Well, it wasn't completely new; it's actually the same overall design of the [Surface Pro X](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fsurface-pro-x-13-touch-screen-microsoft-sq1-8gb-memory-128gb-ssd-device-only-platinum%2F6477106.p%3FskuId%3D6477106&publisher_slug=itechdaily19598&exclusive=1). Placing the Pro X next to the Pro 8, the only noticeable difference is that the Pro 8 is thicker than the Pro X. Otherwise, they look identical. 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### **ZDNET** Recommends
 
 [The best Surface PCs Microsoft's lineup of Surface PCs now covers a wide range of hardware factors and price points -- and every model is Windows 11-ready.  Read now](https://www.zdnet.com/article/best-surface-pc/)
@@ -73,10 +69,6 @@ When you open the kickstand, you'll find a small door in the bottom left corner 
 You don't have to use a physical SIM card thanks to the Pro 8's support for an eSIM, but since I often switch between the Pro X and iPad Pro, I already had a dedicated SIM card with a data-only plan tied to it. 
 
 **Also:** [**eSIM vs. SIM: What's the difference?**](https://www.zdnet.com/article/esim-vs-sim-whats-the-difference/)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### **ZDNET** Recommends
 
@@ -102,6 +94,10 @@ Inside the Surface Pro 8 I've been testing is an 11th Generation Intel Core i7 p
 
 The LTE options range in price from $1,349 for an Intel Core i5, 8GB of memory, and 128GB of storage up to the build I tested, which normally retails for $1,849 but is currently on sale for $1,599\. Again, those prices don't include a keyboard. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### More Microsoft
 
 * [The best Windows laptop models: Comparing Dell, Samsung, Lenovo, and more](https://www.zdnet.com/article/best-windows-laptop/)
@@ -126,7 +122,7 @@ The ability to connect a tablet to an external display and have it actually work
 When working on my iPad Pro connected to a monitor, whatever's on the iPad's screen is mirrored on the larger display. There are some apps that use Apple's rudimentary API for external displays, but it's not great. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **ZDNET** Recommends
@@ -138,6 +134,10 @@ Also, I have a lot of workarounds for completing certain tasks on the iPad. For 
 I realize that the Pro 8 is running a full-fledged operating system in Windows 11, whereas the iPad Pro is running a mobile-first operating system in iPadOS, but the devices are relatively the same size and target the same type of user. Even the prices are close enough that the comparison is warranted. 
 
 The total cost of the Surface Pro 8 with LTE, along with the Signature Keyboard Cover with Slim Pen is $2,128\. The iPad Pro with 5G, 16GB of memory, 1TB of storage, Apple's Magic Keyboard with trackpad and an Apple Pencil is $2,449\. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## There are still many things the iPad Pro does better
 
@@ -152,7 +152,7 @@ I prefer to use Apple's Mail app along with my iCloud+ personal domain as oppose
 Another thing I love about my iPad Pro is that its performance is reliable and consistent. When using the Pro 8 with multiple apps open, there would be a slight delay or pause before an app would appear after being minimized at times. It wasn't specific to any one app; I frequently experienced it with Thunderbird, Discord, and Slack. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Bottom line
@@ -170,7 +170,7 @@ At the end of the day, however, you're getting a full computer in the Surface Pr
 ## FAQ
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Should I get a Surface Pro 8 or an iPad Pro?
@@ -210,20 +210,21 @@ If you're on the fence about whether to go with the Surface Pro 8 or an iPad Pro
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-files.techidaily.com/new-in-2024-vanish-3-battle-disguise-4-steps-up/"><u>[New] In 2024, Vanish 3 Battle Disguise 4 Steps Up</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/new-navigating-name-change-in-google-meet-laptopmobile-for-2024/"><u>[New] Navigating Name Change in Google Meet (Laptop/Mobile) for 2024</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/new-state-of-the-art-devices-for-online-live-shows/"><u>[New] State-of-the-Art Devices for Online Live Shows</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/new-unlocking-fb-the-ultimate-guide-to-downloading-messages-for-2024/"><u>[New] Unlocking FB The Ultimate Guide to Downloading Messages for 2024</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/updated-in-2024-dive-into-high-definition-fb-streaming-in-1080p/"><u>[Updated] In 2024, Dive Into High Definition FB Streaming in 1080P</u></a></li>
-<li><a href="https://fox-access.techidaily.com/2024-approved-perfecting-playback-apply-filters-to-video-content/"><u>2024 Approved Perfecting Playback Apply Filters to Video Content</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/boost-your-efficiency-essential-strategies-for-using-chatgpts-wolfram-feature/"><u>Boost Your Efficiency: Essential Strategies for Using ChatGPT's Wolfram Feature</u></a></li>
-<li><a href="https://discover-forum.techidaily.com/comprehensive-sandisk-data-rescue-manual-effective-techniques-and-procedures/"><u>Comprehensive Sandisk Data Rescue Manual: Effective Techniques and Procedures</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/crafting-marvels-with-chatgpt-pushing-boundaries-in-creativity/"><u>Crafting Marvels with ChatGPT: Pushing Boundaries in Creativity</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/direct-vs-supplemental-which-gpt-suits-you/"><u>Direct Vs. Supplemental: Which GPT Suits You?</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/elevate-health-management-with-chatgpt-discover-these-9-game-changing-approaches/"><u>Elevate Health Management with ChatGPT: Discover These 9 Game-Changing Approaches</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/pro-level-chat-skills-inside-the-world-of-whatsapp-tips/"><u>Pro-Level Chat Skills Inside the World of WhatsApp Tips</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/step-by-step-guide-registering-for-chatgpt-plugin-capabilities/"><u>Step-by-Step Guide: Registering for ChatGPT Plugin Capabilities</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/understanding-chatgpts-temporary-suspension-of-new-sign-ups-and-its-impact-on-access-dates/"><u>Understanding ChatGPT's Temporary Suspension of New Sign-Ups and Its Impact on Access Dates</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/understanding-claude-2s-core-functionality/"><u>Understanding Claude 2'S Core Functionality</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-beginning-zoom-video-calls-on-android-devices-for-2024/"><u>[New] Beginning Zoom Video Calls on Android Devices for 2024</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/how-to-repair-your-logitech-g13-controller-using-official-drivers/"><u>How to Repair Your Logitech G13 Controller Using Official Drivers</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/il-migliore-software-di-acquisizione-schermi-registra-e-cattura-il-tuo-pc-windows-1087-senza-problemi/"><u>Il Migliore Software Di Acquisizione Schermi: Registra E Cattura Il Tuo PC Windows 10/8/7 Senza Problemi!</u></a></li>
+<li><a href="https://extra-support.techidaily.com/mastering-the-visuals-a-podcast-logo-blueprint-for-2024/"><u>Mastering the Visuals A Podcast Logo Blueprint for 2024</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/1726026406103-mp4/"><u>MP4ビデオの品質を低下させるテクニック</u></a></li>
+<li><a href="https://win11.techidaily.com/overcoming-robloxs-access-denied-error-403-in-windows/"><u>Overcoming Roblox's Access Denied (Error 403) in Windows</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-future-of-gaming-enhancing-controllers-remotely/"><u>The Future of Gaming: Enhancing Controllers Remotely</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/top-rated-dvd-ripper-software-of-2024-for-windows-11-users/"><u>Top Rated DVD Ripper Software of 2024 for Windows 11 Users</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/top-rated-dvd-to-mkv-converter-of-2024-for-windows-pc-users/"><u>Top-Rated DVD to MKV Converter of 2024 for Windows PC Users</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/transforming-your-videos-a-step-by-step-guide-to-converting-mkv-files-into-itunes-compatible-m4v-format/"><u>Transforming Your Videos: A Step-by-Step Guide to Converting MKV Files Into iTunes Compatible M4V Format</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-guide-repairing-your-non-functional-bose-speakers/"><u>Troubleshooting Guide: Repairing Your Non-Functional Bose Speakers</u></a></li>
+<li><a href="https://techidaily.com/undelete-lost-call-logs-from-honor-by-fonelab-android-recover-call-logs/"><u>Undelete lost call logs from Honor</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/unveiling-the-distinctions-between-wpl-and-m3u-file-formats-a-complete-guide/"><u>Unveiling the Distinctions Between WPL and M3U File Formats: A Complete Guide</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/windows-10-dvd-cprm/"><u>Windows 10対応 DVD CPRM解除自由プログラム - 最適推薦</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/your-ultimate-guide-best-mac-screen-recorders-for-2024/"><u>Your Ultimate Guide Best Mac Screen Recorders for 2024</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/youtubepcdvd/"><u>YouTubeビデオのPCからDVDへの記録手順</u></a></li>
 </ul></div>
 

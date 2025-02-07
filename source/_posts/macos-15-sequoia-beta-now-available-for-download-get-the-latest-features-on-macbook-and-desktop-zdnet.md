@@ -1,7 +1,7 @@
 ---
 title: MacOS 15 'Sequoia' Beta Now Available for Download – Get the Latest Features on MacBook & Desktop | ZDNET
-date: 2025-01-21T17:13:35.279Z
-updated: 2025-01-25T16:37:37.398Z
+date: 2025-02-04T18:11:52.435Z
+updated: 2025-02-06T21:02:10.470Z
 tags:
   - apple
 categories:
@@ -33,7 +33,7 @@ Jason Hiner/ZDNET
 **What you need:** An iPhone running iOS 16.5 or later. Since not all iPhones are compatible with iOS 18, you'll also need a model [newer than the iPhone X](https://www.zdnet.com/article/best-iphone/).
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/o-sRtqHdEYY?si=NMTMQVxJsUaoguqh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fo4lNZ84x9Q?si=WdcYPZp-9VJnZEnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. Go to General in your iPhone Settings
@@ -41,20 +41,20 @@ Jason Hiner/ZDNET
 Go to your iPhone's Settings and select General. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zmXpl6irBYk?si=BXjGpQr6PXFcqhCI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Go to Software Update in Settings
 
 Within General, tap on Software Update. This will show you if the iOS 18 update is available for you to download.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 3\. Download and install
 
 When you tap on Software Update, your iPhone will check for the latest version of iOS available. Then, you'll be able to Download and Install the new update. Your iPhone will begin the download immediately.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 4\. Enter your passcode and follow steps to install
 
@@ -62,11 +62,11 @@ Enter your passcode, if necessary, to authorize the installation of the new iOS 
 
 After installing the latest iOS update, your iPhone will restart.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## FAQs
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### When is Apple Intelligence coming out?
 
@@ -114,7 +114,7 @@ If you can't see this option, go to your **Settings,** select **Privacy & Securi
 If you aren't already a member of the Apple Developer Program, you can sign up to become one in the app. An annual membership costs $99.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3UyJuZYzjt0?si=W87GeyzVKVORAk7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### What is in iOS 18 beta 3?
@@ -161,22 +161,22 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-video-capture.techidaily.com/new-in-2024-the-joyride-collection-for-young-ones/"><u>[New] In 2024, The Joyride Collection for Young Ones</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ed-football-film-breakdown-premier-insights-on-youtube-for-2024/"><u>[Updated] Football Film Breakdown Premier Insights on YouTube for 2024</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-navigating-zoom-video-conferencing-via-email-client/"><u>[Updated] Navigating Zoom Video Conferencing via Email Client</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/dive-into-chapters-of-suspense-with-amazons-kindle-serial-novels/"><u>Dive Into Chapters of Suspense with Amazon's Kindle Serial Novels!</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/effortless-conversion-from-pdf-to-word-on-macos-discover-the-best-free-tools-that-preserve-original-layout/"><u>Effortless Conversion From PDF to Word on macOS: Discover the Best Free Tools That Preserve Original Layout</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/effortless-conversion-of-aax-formats-to-mp3-on-your-pc-running-windows-10-or-11/"><u>Effortless Conversion of AAX Formats to MP3 on Your PC Running Windows 10 or 11</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/elevate-your-space-with-stylish-and-secure-hanging-solutions/"><u>Elevate Your Space with Stylish and Secure Hanging Solutions</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/enjoy-endless-benefits-at-no-charge-discover-top-quality-free-offerings-today/"><u>Enjoy Endless Benefits at No Charge: Discover Top-Quality Free Offerings Today!</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/enjoy-endless-stories-read-kobo-titles-on-ios-devices/"><u>Enjoy Endless Stories - Read Kobo Titles on iOS Devices</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/exploring-the-comprehensive-faqs-of-epubor-your-ultimate-resource-guide/"><u>Exploring the Comprehensive FAQs of Epubor: Your Ultimate Resource Guide</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/facing-difficulties-in-turning-books-into-ebooks-discover-how-to-overcome-common-ebook-conversion-challenges/"><u>Facing Difficulties in Turning Books Into eBooks? Discover How to Overcome Common EBook Conversion Challenges!</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-9-mind-blowing-tricks-to-hatch-eggs-in-pokemon-go-without-walking-on-xiaomi-redmi-note-12-pro-5g-drfone-by-drfone-virtual-android/"><u>In 2024, 9 Mind-Blowing Tricks to Hatch Eggs in Pokemon Go Without Walking On Xiaomi Redmi Note 12 Pro 5G | Dr.fone</u></a></li>
-<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-how-does-the-stardust-trade-cost-in-pokemon-go-on-apple-iphone-xs-max-drfone-by-drfone-virtual-ios/"><u>In 2024, How does the stardust trade cost In pokemon go On Apple iPhone XS Max? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/is-your-honor-x9a-working-too-slow-heres-how-you-can-hard-reset-it-drfone-by-drfone-reset-android-reset-android/"><u>Is your Honor X9a working too slow? Heres how you can hard reset it | Dr.fone</u></a></li>
-<li><a href="https://techtrends.techidaily.com/understanding-and-checking-your-data-plan-utilization/"><u>Understanding and Checking Your Data Plan Utilization</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/unlocking-seamless-communication-with-top-tier-free-and-paid-zoom-applications/"><u>Unlocking Seamless Communication with Top-Tier Free & Paid Zoom Applications</u></a></li>
-<li><a href="https://techidaily.com/xiaomi-redmi-k70e-won-t-play-mp4-files-by-aiseesoft-video-converter-play-mp4-on-android/"><u>Xiaomi Redmi K70E won’t play MP4 files</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-best-available-avi-player-with-cross-platform-support/"><u>[Updated] Best Available Avi Player with Cross-Platform Support</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/1724766120166-2024/"><u>2024年注目のベスト! クリスマス期間限定 子ども達向けおすすめアニメ映画ランキング</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/3-methods-to-mirror-samsung-galaxy-s24-ultra-to-roku-drfone-by-drfone-android/"><u>3 Methods to Mirror Samsung Galaxy S24 Ultra to Roku | Dr.fone</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/bridging-creativity-and-technology-ai-image-making-with-gpt/"><u>Bridging Creativity and Technology: AI Image Making with GPT</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/differentiating-nlp-from-ml-basics/"><u>Differentiating NLP From ML Basics</u></a></li>
+<li><a href="https://driver-install.techidaily.com/enable-marvell-avstar-ax19-wireless-lan-support-on-pc/"><u>Enable Marvell AVSTAR AX19 Wireless LAN Support on PC</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/gpt-enhanced-document-and-pdf-chat-options/"><u>GPT-Enhanced Document & PDF Chat Options</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-exit-android-factory-mode-on-poco-m6-pro-4g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Exit Android Factory Mode On Poco M6 Pro 4G? | Dr.fone</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/inside-chatgpts-interpretive-powers-why-it-matters-in-ai-conversation-engines/"><u>Inside ChatGPT's Interpretive Powers - Why It Matters in AI Conversation Engines</u></a></li>
+<li><a href="https://win-blog.techidaily.com/1722994838148-master-guide-for-resolving-the-perplexing-exit-code-0-glitch-in-your-favorite-game-minecraft/"><u>Master Guide for Resolving the Perplexing Exit Code 0 Glitch in Your Favorite Game, Minecraft!</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/new-2024-approved-premier-auditory-filters-for-windows-silence-the-unwanted-roars-of-your-soundtracks/"><u>New 2024 Approved Premier Auditory Filters for Windows Silence the Unwanted Roars of Your Soundtracks</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/overcoming-the-most-frequent-chatgpt-mishaps-a-guide-to-quick-fixes/"><u>Overcoming the Most Frequent ChatGPT Mishaps – A Guide to Quick Fixes</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/protect-data-prevent-scraper-hacking/"><u>Protect Data, Prevent Scraper Hacking</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/safe-practices-utilizing-chatgpt-effectively-in-mental-health-counseling/"><u>Safe Practices: Utilizing ChatGPT Effectively in Mental Health Counseling</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/strategies-to-overcome-resource-occupied-errors-152-chars/"><u>Strategies to Overcome 'Resource Occupied' Errors (152 Chars)</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/top-4-choosing-claude-3-over-gpt-3-for-better-results/"><u>Top 4: Choosing Claude 3 Over GPT-3 for Better Results</u></a></li>
+<li><a href="https://fox-access.techidaily.com/windows-10-photos-guide-snatching-stills-from-video-footage-for-2024/"><u>Windows 10 Photos Guide Snatching Stills From Video Footage for 2024</u></a></li>
 </ul></div>
 

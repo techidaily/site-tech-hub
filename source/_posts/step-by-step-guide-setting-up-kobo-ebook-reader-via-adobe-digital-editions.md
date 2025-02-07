@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Guide: Setting Up Kobo Ebook Reader via Adobe Digital Editions"
-date: 2024-08-20T10:51:29.502Z
-updated: 2024-08-21T10:51:29.502Z
+date: 2025-02-05T21:34:47.480Z
+updated: 2025-02-07T07:00:47.672Z
 categories:
   - epubor
 thumbnail: https://thmb.techidaily.com/fef6203ef0318484835e6be326e62ec1be7635f93248db2ddf9a669b098df892.jpg
@@ -15,13 +15,15 @@ Posted by [Ada Wang](https://plus.google.com/+AdaWang/posts) on 7/4/2024 5:04:44
 
 5 [(5 comments)](http://www.epubor.com/#comment-area) 
 
-
-
 ![follow](http://www.epubor.com/images/follow.png)
 
 Most eBook retailers on the market use Adobe adept DRM, not only Kobo, Nook and Google play the main eBook vendors, but also some other online eBook stores including a majority of libaries. 
 
 We have to admit the fact that Adobe DRM protected books can only be read on limited devices. If we don't [authorize computer](https://tools.techidaily.com/epubor/products/) or eReader with Adobe ID, we are not allowed to read Adobe DRM EPUB or PDF files. This is necessary to do to view eBooks without any problem. For example, if you purchase books from Google Play and want to read it on your Kobo eReader, as long as you authorize Kobo device with the Adobe ID which has the same email address that is used to purchase Google eBooks, you can read it freely. But how to authorize eReader with Adobe Digital Editions? Please read further to learn the detailed tutorial.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Why we need to authorize eReader with Adobe Digital Editions
 
@@ -35,6 +37,10 @@ Before we start authorizing eReader, let's learn about the necessity first. As I
 
 .....No matter what's the purpose to authorize our eReader, this can make us read eBooks without any limitations. Next, just follow the steps below to learn how to for details. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RvR5PNhspKE?si=uJcMYK9v-_Xq7fAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### How to authorize eReader with Adobe Digital Editions
 
 Before we authorize eReader with [Adobe Digital Editions](http://www.adobe.com/solutions/ebook/digital-editions/download.html), we'd better authorize computer with Adobe ID first. 
@@ -45,9 +51,6 @@ Before we authorize eReader with [Adobe Digital Editions](http://www.adobe.com/s
 
 ![authorize computer with adobe id](http://www.epubor.com/images/uppic/authorize-computer-with-adobe-id.png)
 
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2048963/16384" target="_top" id="2048963"><img src="//a.impactradius-go.com/display-ad/16384-2048963" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048963/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 If you don't have an Adobe ID yet, simply click "Create an Adobe ID" to get one. 
 
 Now let's start authorize eReader with ADE, in this guide the device I'm using is Kobo eReader, it should also work for Nook, Sony and other Adobe supported devices. **Pay attention:** this instruction in this post only works for e-Ink readers, not contains tablet devices or smart phones. You can click [here](http://blogs.adobe.com/aemmobile/supported-devices) to learn all the Adobe supported devices and check whether your devices is listed there.
@@ -58,18 +61,12 @@ For the Kobo eReader, when it connects to computer, it will ask you whether you'
 
 ![](http://www.epubor.com/images/uppic/connect-kobo.png)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2095385/26400" target="_top" id="2095385"><img src="//a.impactradius-go.com/display-ad/26400-2095385" border="0" alt="" width="1024" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095385/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 #### Step2: Launch Adobe Digital Editions on your computer
 
 As long as you open ADE, it will detect your device, you can see your Kobo name under "Devices" item at the left column, mine is "KOBOeReader".
 
 ![ade detect ereader](http://www.epubor.com/images/uppic/ade-detect-kobo-ereader.png)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-leads-1280@1x.avif" border="0"></a>
-<!-- affiliate ads end -->
 #### Step3: Authorize eReader with ADE
 
 Click your eReader on the left side, then tap the setting icon on its upper right corner and select "Authorize Device". A following window will pop up, it will let you choose the ID you want to authorize the device, click "Authorize Device", then your device will be authorized successfully.
@@ -77,8 +74,9 @@ Click your eReader on the left side, then tap the setting icon on its upper righ
 ![authorize eReader with Adobe Digital Editions](http://www.epubor.com/images/uppic/authorize-ereader-with-adobe-digital-editions.png)
 
 <!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1872496/14483" target="_top" id="1872496"><img src="//a.impactradius-go.com/display-ad/14483-1872496" border="0" alt="" width="750" height="625"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872496/14483" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 **Note:** Make sure devices or computer must be authorized with the same Adobe ID, or it won't success.
 
 After we have authorized eReader with Adobe Digital Editions, now we can transfer eBooks from computer to devices and read Adobe DRM protected files freely with our favorite eReader.
@@ -98,8 +96,9 @@ Make your eBooks freely and readable on any portable devices
 ![](http://www.epubor.com/images/faq.png) Frequently Asked Questions
 
 <!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1047974&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-04_%281%29.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mK1lEBRm_1w?si=FSaM0OKO0XBCgjtT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##### Q: How to fix the error "x No permission to copy document here" when transferring books with ADE?
 
 A: This error may be caused when your eReader is not authorized correctly. First, make sure your computer is authorized properly, you can click **Help-->Authorization Information** to check, then close ADE and reset ADE folder on your device. With your eReader connected to computer, open your device drive and find **.adobe-digital-editions** folder, delete it. Finally, open ADE and transfer the eBook again.
@@ -116,8 +115,9 @@ Tips
 ![author](https://www.epubor.com/images/uppic/1-22-2013 12-03-06 AM.png)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2019/10/Project-Manager-version-3-1600x900-768x419.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 [Ada Wang](https://plus.google.com/+AdaWang/posts) works for Epubor and writes articles for a collection of blogs such as ebookconverter.blogspot.com.
 
 SHARING IS GREAT!
@@ -125,8 +125,6 @@ SHARING IS GREAT!
 [Tweet](https://twitter.com/share) 
 
 [SAVE PAGE AS PDF](https://tools.techidaily.com/epubor/reader/) 
-
-
 
 5 Comments
 
@@ -210,8 +208,6 @@ Leave a comment
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -219,4 +215,17 @@ Leave a comment
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-docs.techidaily.com/he-science-of-youtube-success-perfect-thumbnails/"><u>[New] The Science of YouTube Success Perfect Thumbnails</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-cutting-edge-gear-for-aspiring-youtube-stars/"><u>[Updated] In 2024, Cutting-Edge Gear for Aspiring YouTube Stars</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-make-your-mark-stand-out-with-youtube-studio-editing/"><u>[Updated] Make Your Mark Stand Out with YouTube Studio Editing</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-streamlining-your-way-through-youtubes-comment-forum/"><u>[Updated] Streamlining Your Way Through YouTube's Comment Forum</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/amazon-eero-max-6-harness-the-power-of-wi-fi-7-and-up-to-10-gigabit-speeds-for-unmatched-connectivity/"><u>Amazon Eero Max 6: Harness the Power of Wi-Fi 7 & Up to 10 Gigabit Speeds for Unmatched Connectivity</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/an-in-depth-guide-to-what-is-chatgpt-and-its-working-principles/"><u>An In-Depth Guide to What Is ChatGPT and Its Working Principles</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/astronomy-on-demand-using-your-smartphone-apps-to-locate-and-recognize-nighttime-stars/"><u>Astronomy on Demand: Using Your Smartphone Apps to Locate and Recognize Nighttime Stars</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/bard-by-google-spotting-ai-powered-dialogues-within-googles-search-results/"><u>Bard by Google: Spotting AI-Powered Dialogues Within Google's Search Results</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/gopros-new-era-a-detailed-max-360-vs-hero-11-analysis-for-2024/"><u>GoPro's New Era A Detailed Max 360 vs Hero 11 Analysis for 2024</u></a></li>
+<li><a href="https://win-luxury.techidaily.com/wiederholung-verlorener-informationen-funf-gratis-losungen-zum-abrufen-von-entfernten-dateien-auf-der-festplatte/"><u>Wiederholung Verlorener Informationen: Fünf Gratis Lösungen Zum Abrufen Von Entfernten Dateien Auf Der Festplatte</u></a></li>
+</ul></div>
 

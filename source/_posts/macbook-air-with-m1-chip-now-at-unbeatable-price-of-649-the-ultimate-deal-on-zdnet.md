@@ -1,7 +1,7 @@
 ---
 title: "MacBook Air with M1 Chip Now at Unbeatable Price of $649: The Ultimate Deal on ZDNet"
-date: 2025-01-23T16:58:41.164Z
-updated: 2025-01-25T16:18:19.305Z
+date: 2025-02-05T05:27:56.986Z
+updated: 2025-02-07T01:26:11.015Z
 tags:
   - apple
 categories:
@@ -42,7 +42,7 @@ At $649, this is the lowest price for the M1 version of the MacBook Air that we'
 The [M1 MacBook Air](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fmacbook-air-13-3-laptop-apple-m1-chip-8gb-memory-256gb-ssd-space-gray-space-gray%2F5721600.p%3FskuId%3D5721600&publisher_slug=itechdaily19598&exclusive=1) first retailed for $999 when it was released, but Apple sells refurbished versions for $799, making these deals even better than anything Apple is offering. The [M1 MacBook Air](https://goto.walmart.com/c/5597632/565706/9383?sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.walmart.com%2Fip%2FApple-MacBook-Air-13-3-inch-Laptop-Silver-M1-Chip-8GB-RAM-256GB-storage%2F609040889&subId1=zd-__COM_CLICK_ID__-dtp) is available in three different colors: gold, space gray, and silver. Snag these savings while you can. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## When will this deal expire?
@@ -81,16 +81,19 @@ However, deals are subject to sell out or expire at any time, though ZDNET remai
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-web.techidaily.com/024-approved-streamline-your-shoots-top-lenses-recommended-by-professionals/"><u>[New] 2024 Approved Streamline Your Shoots Top Lenses Recommended by Professionals</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/updated-the-art-of-adding-gifs-to-instagram-posts-4-easy-steps/"><u>[Updated] The Art of Adding GIFs to Instagram Posts (4 Easy Steps)</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/discover-the-most-attractive-atandt-mobile-plans-for-may-2e-2024-in-depth-analysis/"><u>Discover the Most Attractive AT&T Mobile Plans for May 2E 2024 - In-Depth Analysis</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/exploring-the-top-7-gpt-4-powered-applications-a-deep-dive-into-their-functionality/"><u>Exploring the Top 7 GPT-4 Powered Applications: A Deep Dive Into Their Functionality</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-unlock-apple-id-activation-lock-on-apple-iphone-12-pro-max-by-drfone-ios/"><u>In 2024, How to Unlock Apple ID Activation Lock On Apple iPhone 12 Pro Max?</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/mastering-chatgpts-default-addons/"><u>Mastering ChatGPT's Default Addons</u></a></li>
-<li><a href="https://driver-install.techidaily.com/nvidia-gtx-970-drivers-now-available-for-win10/"><u>Nvidia GTX 970 Drivers Now Available for Win10</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/online-wma-naar-m4v-verzamelen-vrije-converteertool-via-movavi/"><u>Online WMA Naar M4V Verzamelen - Vrije Converteertool via Movavi</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/should-we-treat-ai-personalities-such-as-chatgpt-amazons-alexa-and-apples-siri-with-politeness/"><u>Should We Treat AI Personalities Such as ChatGPT, Amazon's Alexa, and Apple's Siri With Politeness?</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/skyrocketing-results-with-7-innovative-ai-methods/"><u>Skyrocketing Results with 7 Innovative AI Methods</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/the-future-of-love-betrayal-7-ai-strategies-employed-in-cyberromance-swindles/"><u>The Future of Love Betrayal: 7 AI Strategies Employed in Cyberromance Swindles</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/024-approved-how-to-size-your-videos-youtubes-best-practices-unveiled/"><u>[New] 2024 Approved How to Size Your Videos YouTube's Best Practices Unveiled</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-expert-advice-on-chromebooks-and-zoom/"><u>[Updated] Expert Advice on Chromebooks and Zoom</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/android-enthusiasts-rejoice-harnessing-the-power-of-chatgpt-widget-for-smartphones/"><u>Android Enthusiasts Rejoice: Harnessing the Power of ChatGPT Widget for Smartphones</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/chatgpt-job-hunt-advantages-6-efficient-methods/"><u>ChatGPT Job Hunt Advantages: 6 Efficient Methods</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/exploring-the-latest-ios-application-the-new-home-of-chatgpt/"><u>Exploring the Latest iOS Application: The New Home of ChatGPT</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-photos-from-oneplus-ace-3-to-laptop-without-usb-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Photos from OnePlus Ace 3 to Laptop Without USB | Dr.fone</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-from-streams-to-statements-decoding-the-3-step-process-for-calculating-youtube-earnings/"><u>In 2024, From Streams to Statements Decoding the 3-Step Process for Calculating YouTube Earnings</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/in-2024-overcoming-grey-screens-in-gaming-recording/"><u>In 2024, Overcoming Grey Screens in Gaming Recording</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/maximize-visibility-for-your-business-locally-oodles-zero-cost-advertising-space/"><u>Maximize Visibility for Your Business Locally - Oodle's Zero-Cost Advertising Space</u></a></li>
+<li><a href="https://win-able.techidaily.com/overcome-the-ghostrunner-breakdown-problems-in-windows-10-with-ease/"><u>Overcome the Ghostrunner Breakdown Problems in Windows 10 with Ease</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/overcoming-saturated-gpt-window-error/"><u>Overcoming Saturated GPT Window Error</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/strategies-to-address-capacity-exceeded-error-for-chatgpt-users-on-windows-devices/"><u>Strategies to Address 'Capacity Exceeded' Error for ChatGPT Users on Windows Devices</u></a></li>
+<li><a href="https://os-tips.techidaily.com/troubleshooting-iphone-sim-card-issues-how-to-resolve-the-not-valid-error-message/"><u>Troubleshooting iPhone SIM Card Issues: How to Resolve the 'Not Valid' Error Message</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/unleashing-ai-potential-top-8-applications-of-chatgpt/"><u>Unleashing AI Potential: Top 8 Applications of ChatGPT</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Electron Capture Detector (ECD):"
-date: 2025-01-22T16:40:18.665Z
-updated: 2025-01-25T16:47:50.261Z
+date: 2025-02-06T04:55:17.424Z
+updated: 2025-02-07T10:49:56.963Z
 tags:
   - apple
 categories:
@@ -30,7 +30,7 @@ You'll find the necessary setting in the Control Center section of your Settings
 Michael Gariffo
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/j5gTm5KxtQ0?si=onF1rBS2nEM5nLGg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 1\. Open your Settings app and find "Control Center"
@@ -42,7 +42,7 @@ This is the Screen Recording option we'll be adding to Control Center
 Michael Gariffo
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 2\. Add the Screen Recording button to your Control Center
@@ -54,6 +54,10 @@ Depending on how many controls you have active, you may need to scroll down a bi
 This is the screen recording button we'll use to start the recording. 
 
 Michael Gariffo
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tkpBmccvJ_Q?si=J7ellPL1G1l8Axi_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 3\. Open your Control Center
 
@@ -75,10 +79,6 @@ Your clock will look like this as long as Screen Recording is active.
 
 Michael Gariffo
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Step 5: Record
 
 This is when you'll want to complete whatever task it is you wanted to screen record. Once you've finished recording your task, move on to the final step below.
@@ -86,6 +86,10 @@ This is when you'll want to complete whatever task it is you wanted to screen re
 This is the confirmation box that will appear when you stop your recording. 
 
 Michael Gariffo
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6nvb0775GOM?si=peBB_Mo_4zcZFuci" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 5\. End your recording
 
@@ -97,16 +101,12 @@ In both cases, the recording you just produced will immediately be saved to your
 
 ## FAQs
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## What does the Screen Recording app actually capture?
 
 It captures everything that goes on across your entire iPhone screen, as well as any sound produced by the iPhone itself while it's recording. This includes any actions you perform, any full-screen videos, and any audio you play via websites, apps, etc. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RCYs8keh-Vs?si=uDC28-9yh-k6HLj4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Can I add narration to my captured videos?
@@ -153,14 +153,20 @@ Be aware that some apps, particularly email and messaging apps that don't rely o
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-webster.techidaily.com/ed-in-2024-movie-buffs-secret-2023-recommendations/"><u>[Updated] In 2024, Movie Buffs' Secret 2023 Recommendations</u></a></li>
-<li><a href="https://facebook.techidaily.com/meta-reignites-trumps-fb-and-insta-access/"><u>Meta Reignites Trump’s FB & Insta Access</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/rhythmic-resonance-harmony-for-visuals-for-2024/"><u>Rhythmic Resonance Harmony for Visuals for 2024</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/tech-savvy-tips-boot-into-bios-for-your-windows-107-system-easily/"><u>Tech Savvy Tips: Boot Into BIOS for Your Windows 10/7 System Easily</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/the-future-of-high-resolution-viewing-an-overview-of-asuss-proart-pa-329q-monitor/"><u>The Future of High-Resolution Viewing An Overview of Asus's ProArt PA 329Q Monitor</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/the-ultimate-10-plugin-power-duo-for-final-cut-pro-for-2024/"><u>The Ultimate 10 Plugin Power Duo for Final Cut Pro for 2024</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/the-ultimate-guide-to-determining-real-time-ram-speeds-on-latest-windows-platforms/"><u>The Ultimate Guide to Determining Real-Time RAM Speeds on Latest Windows Platforms</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/the-ultimate-guide-to-enhancing-gameplay-speed-in-windows-11-systems/"><u>The Ultimate Guide to Enhancing Gameplay Speed in Windows 11 Systems</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/troubleshooting-guide-fixing-your-logitech-wireless-mouse-issues/"><u>Troubleshooting Guide: Fixing Your Logitech Wireless Mouse Issues</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-2024-approved-accelerated-8-screencap-solutions/"><u>[New] 2024 Approved Accelerated 8 Screencap Solutions</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-elite-gamers-capturing-solutions/"><u>[Updated] 2024 Approved Elite Gamers' Capturing Solutions</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-in-2024-download-premium-video-covers-free-fast-and-easy/"><u>[Updated] In 2024, Download Premium Video Covers - Free, Fast & Easy!</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/bridging-the-gap-with-palm-2-for-superior-bard-ai/"><u>Bridging the Gap with PaLM 2 for Superior Bard AI</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/corporate-espionage-in-gaming-world/"><u>Corporate Espionage in Gaming World</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/enhancing-creativity-harnessing-ais-power-in-content-development/"><u>Enhancing Creativity: Harnessing AI's Power in Content Development</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/essential-mac-screen-recorders-top-10-free-list-for-2024/"><u>Essential Mac Screen Recorders – Top 10 FREE List for 2024</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/excel-mastery-unraveled-where-chatgpt-lags/"><u>Excel Mastery Unraveled: Where ChatGPT Lags</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/free-and-affordable-video-editing-software-for-2024/"><u>Free and Affordable Video Editing Software for 2024</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/googles-gemini-ai-is-here-but-is-it-better-than-chatgpt/"><u>Google's Gemini AI Is Here, but Is It Better Than ChatGPT?</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-photos-from-honor-magic-6-pro-to-new-android-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Photos from Honor Magic 6 Pro to New Android? | Dr.fone</u></a></li>
+<li><a href="https://program-issues.techidaily.com/solving-dolby-atmos-issues-a-guide-for-windows-11-and-windows-10-users/"><u>Solving Dolby Atmos Issues: A Guide for Windows 11 & Windows 10 Users</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/the-mechanics-behind-electric-motorcycle-operation-explained/"><u>The Mechanics Behind Electric Motorcycle Operation Explained</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/ultimate-webcam-apps-compatible-with-oovoo-and-manycam-enhance-your-video-calls/"><u>Ultimate Webcam Apps Compatible with ooVoo & ManyCam: Enhance Your Video Calls</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/unleashing-innovation-with-chatgpt-techniques-to-enhance-creative-workflows/"><u>Unleashing Innovation with ChatGPT: Techniques to Enhance Creative Workflows</u></a></li>
 </ul></div>
 

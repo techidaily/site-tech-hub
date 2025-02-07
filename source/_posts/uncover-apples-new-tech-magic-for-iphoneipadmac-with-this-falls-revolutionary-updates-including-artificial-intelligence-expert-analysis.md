@@ -1,7 +1,7 @@
 ---
 title: Uncover Apple's New Tech Magic for iPhone/iPad/Mac with This Fall’s Revolutionary Updates Including Artificial Intelligence | Expert Analysis
-date: 2025-01-24T17:30:13.944Z
-updated: 2025-01-25T17:36:41.708Z
+date: 2025-02-06T04:55:29.389Z
+updated: 2025-02-07T07:13:11.514Z
 tags:
   - apple
 categories:
@@ -39,7 +39,7 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UoBCgLTmznE?si=MXXiGsd2qpd_DrzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Apple Intelligence (AI)
@@ -72,6 +72,10 @@ Jason Hiner/ZDNET
 * Users can access ChatGPT via this integration for free, and OpenAI will not log their data. ChatGPT Plus users can connect their subscriptions to access more advanced features, in which case OpenAI's data usage policies apply.
 * The ChatGPT integration will be coming to iOS 18, iPadOS 18, and MacOS Sequoia later this year.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## iOS 18
 
 Adam Breeden/ZDNET
@@ -91,7 +95,7 @@ Adam Breeden/ZDNET
 * The **Calendar app** can now pull from the Reminders app for a more seamless schedule overview.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1KKovVi9epE?si=EF7KA7b4KsEpWA-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3UyJuZYzjt0?si=W87GeyzVKVORAk7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## WatchOS 11
@@ -130,7 +134,7 @@ Adam Breeden/ZDNET
 * Apple also launched a new **Viewer experience**, which does for video what Reader does for text.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vPGg53vbOsk?si=CkSEN5HFPS7vDuAa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## VisionOS 2
@@ -150,10 +154,6 @@ Jason Hiner/ZDNET
 * Users can **cast content** from their iPhone, iPad, or Mac to the Vision Pro using AirPlay.
 * Apple is also making the Vision Pro available in more countries starting June 28\. You can see the full list [here](https://www.apple.com/newsroom/2024/06/apple-vision-pro-arrives-in-new-countries-and-regions-beginning-june-28/).
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GU08CQVsZz0?si=V-SvPfzRsQysMS0e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## AirPods
 
 Jason Hiner/ZDNET
@@ -163,7 +163,7 @@ Jason Hiner/ZDNET
 * Apple is also releasing a **Personalized Spatial Audio API** for game developers to build around the AirPods' audio technology.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## tvOS 18
@@ -210,15 +210,16 @@ Screenshot by Nina Raemont/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-activity-recording.techidaily.com/new-in-2024-unlock-superior-mac-gif-capture-with-these-apps/"><u>[New] In 2024, Unlock Superior Mac GIF Capture with These Apps</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-10-best-classic-family-vacation-movie-for-this-summer/"><u>[Updated] 10 Best Classic Family Vacation Movie for This Summer</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/decoding-the-variations-among-gpt-4-gpt-4-turbo-and-gpt-4o-models/"><u>Decoding the Variations Among GPT-4, GPT-4 Turbo & GPT-4o Models</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/get-access-to-ai-conversations-like-chatgpt-with-a-powerful-open-source-option/"><u>Get Access to AI Conversations Like ChatGPT – With a Powerful Open Source Option</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/how-to-unlock-a-motorola-defy-2-easily-by-drfone-android/"><u>How To Unlock a Motorola Defy 2 Easily?</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-remove-a-previously-synced-google-account-from-your-realme-12plus-5g-by-drfone-android/"><u>In 2024, How to Remove a Previously Synced Google Account from Your Realme 12+ 5G</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/the-ultimate-guide-to-poco-x6-pro-pattern-lock-screen-everything-you-need-to-know-by-drfone-android/"><u>The Ultimate Guide to Poco X6 Pro Pattern Lock Screen Everything You Need to Know</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/understanding-claude-s-potential-discover-how-to-utilize-this-tool/"><u>Understanding Claude S Potential: Discover How to Utilize This Tool</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/unpacking-the-features-of-googles-cutting-edge-palm-2-language-intelligence/"><u>Unpacking the Features of Google's Cutting-Edge PaLM 2 Language Intelligence</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/updated-2024-approved-the-mirthful-minutiae-handbook-compiling-genuine-guffaw-guideposts/"><u>Updated 2024 Approved The Mirthful Minutiae Handbook Compiling Genuine Guffaw Guideposts</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-the-softer-side-of-promotion-elevating-your-audience-count/"><u>[Updated] The Softer Side of Promotion Elevating Your Audience Count</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/5-myths-busted-the-real-power-of-polyglots/"><u>5 Myths Busted: The Real Power of Polyglots</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/chatgpt-and-interviews-enhancing-your-prep-game/"><u>ChatGPT & Interviews: Enhancing Your Prep Game</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/mastering-life-enhancement-through-ai-leveraging-chatgpt-for-optimal-living/"><u>Mastering Life Enhancement Through AI: Leveraging ChatGPT for Optimal Living</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/openais-breakthrough-allows-chatgpt-to-efficiently-process-voice-prompts-and-commands/"><u>OpenAI's Breakthrough Allows ChatGPT to Efficiently Process Voice Prompts and Commands</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/reimagining-mobile-computing-power-the-incredible-desktop-performance-of-the-2-groovy-new-ipad-pro-m1-2021-reviewed/"><u>Reimagining Mobile Computing Power - The Incredible Desktop Performance of the 2 Groovy New iPad Pro (M1, 2021) Reviewed</u></a></li>
+<li><a href="https://extra-support.techidaily.com/revolutionary-strategy-mac-opening-with-wearable-for-2024/"><u>Revolutionary Strategy Mac Opening With Wearable for 2024</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/the-eus-approach-to-ai-implications-for-cutting-edge-conversational-agents-including-chatgpt/"><u>The EU's Approach to AI: Implications for Cutting-Edge Conversational Agents Including ChatGPT</u></a></li>
+<li><a href="https://app-tips.techidaily.com/the-future-of-jobs-with-ai-unveiling-the-endless-possibilities-and-changes-by-zdnet-experts/"><u>The Future of Jobs with AI: Unveiling the Endless Possibilities & Changes by ZDNet Experts</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/top-6-strategies-leveraging-chatgpt-for-career-hunting/"><u>Top 6 Strategies: Leveraging ChatGPT for Career Hunting</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/ultimate-guide-7-proven-methods-to-accelerate-your-computer/"><u>Ultimate Guide: 7 Proven Methods to Accelerate Your Computer</u></a></li>
 </ul></div>
 

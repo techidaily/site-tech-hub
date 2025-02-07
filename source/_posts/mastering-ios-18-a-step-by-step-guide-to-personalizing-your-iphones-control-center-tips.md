@@ -1,7 +1,7 @@
 ---
 title: "Mastering iOS 18: A Step-by-Step Guide to Personalizing Your iPhone's Control Center - Tips"
-date: 2025-01-21T16:34:32.147Z
-updated: 2025-01-25T17:07:54.445Z
+date: 2025-01-31T23:14:53.966Z
+updated: 2025-02-07T03:04:33.180Z
 tags:
   - apple
 categories:
@@ -28,15 +28,7 @@ If you want to follow along, you'll need to install the iOS 18 public beta on an
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## How to customize your iPhone's new Control Center with iOS 18
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 1\. Access Control Center
 
@@ -52,11 +44,19 @@ Screenshot by Lance Whitney/ZDNET
 
 **Also: [Every iPhone model that can be updated to Apple's iOS 18 (and which ones can't)](https://www.zdnet.com/article/every-iphone-model-that-can-be-updated-to-apples-ios-18-and-which-ones-cant/)**
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 3\. Resize a control
 
 After tapping the plus icon, some controls sport a gray curved handle in the lower-right corner. This means you can resize the control's icon. Drag the handle and move it up, down, or diagonally. Release it when the icon is the size you wish.
 
 Screenshot by Lance Whitney/ZDNET
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UoBCgLTmznE?si=MXXiGsd2qpd_DrzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 4\. Delete a control
 
@@ -65,7 +65,7 @@ Next, you can directly delete a control you don't need or want. With the icons i
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 5\. Add a control to an existing screen
@@ -77,7 +77,7 @@ Screenshot by Lance Whitney/ZDNET
 **Also: [I did not expect this iOS 18 feature announced at WWDC to be my favorite (and it's not AI)](https://www.zdnet.com/article/i-did-not-expect-this-ios-18-feature-announced-at-wwdc-to-be-my-favorite-and-its-not-ai/)**
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f-yPCh24EsA?si=3z8FAd_lMZeAjug7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 6\. Add a control to a new screen
@@ -87,7 +87,7 @@ If the current screens are already filled with icons, you can set up additional 
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1KKovVi9epE?si=EF7KA7b4KsEpWA-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 7\. Power down from Control Center
@@ -126,18 +126,16 @@ Screenshot by Lance Whitney/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-knowledge.techidaily.com/new-2024-approved-navigating-the-nuances-of-premieres-fullscreen-mode/"><u>[New] 2024 Approved Navigating the Nuances of Premiere's Fullscreen Mode</u></a></li>
-<li><a href="https://techtrends.techidaily.com/customizing-your-desktop-a-step-by-step-guide-to-changing-taskbar-colors-on-windows-10/"><u>Customizing Your Desktop: A Step-by-Step Guide to Changing Taskbar Colors on Windows 10</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/free-download-of-updated-killer-network-drivers-now-available-for-windows-systems-10-8-and-7/"><u>Free Download of Updated Killer Network Drivers Now Available for Windows Systems: 10, 8, & 7</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/how-to-fix-ghosting-on-monitor-easy-steps/"><u>How to Fix Ghosting on Monitor [Easy Steps]</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/how-to-reduce-and-repair-maxed-out-cpu-performance-issues/"><u>How to Reduce and Repair Maxed Out CPU Performance Issues</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/how-to-troubleshoot-and-eliminate-latency-problems-for-wireless-keyboards-on-windows-systems/"><u>How to Troubleshoot and Eliminate Latency Problems for Wireless Keyboards on Windows Systems</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/how-to-unify-device-sync-options-in-windows-11/"><u>How to Unify Device Sync Options in Windows 11</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/improve-bluetooth-stability-and-increase-range-a-step-by-step-guide-for-pcs-with-windows-1011/"><u>Improve Bluetooth Stability and Increase Range: A Step-by-Step Guide for PCs with Windows 10/11</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/improving-multi-monitor-setup-performance-for-gamers-fixing-delays-on-windows-operating-systems/"><u>Improving Multi-Monitor Setup Performance for Gamers: Fixing Delays on Windows Operating Systems</u></a></li>
-<li><a href="https://win-dash.techidaily.com/mpow-bluetooth-drivers-free-downloads-and-updates-for-windows-11-8-and-7-users/"><u>MPOW Bluetooth Drivers: Free Downloads and Updates for Windows 11, 8 & 7 Users</u></a></li>
-<li><a href="https://os-tips.techidaily.com/step-by-step-guide-retrieving-images-from-your-itunes-data-backup/"><u>Step-by-Step Guide: Retrieving Images From Your iTunes Data Backup</u></a></li>
-<li><a href="https://some-skills.techidaily.com/synchronizing-soundscapes-a-guide-to-multi-service-moves-for-2024/"><u>Synchronizing Soundscapes A Guide to Multi-Service Moves for 2024</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/updated-free-video-looping-software-top-10-picks-for-2024/"><u>Updated Free Video Looping Software Top 10 Picks for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-exclusive-changes-in-photo-backgrounds-visionshift-elite/"><u>[Updated] Exclusive Changes in Photo Backgrounds VisionShift Elite</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/7-ways-to-unlock-a-locked-tecno-pova-5-pro-phone-by-drfone-android/"><u>7 Ways to Unlock a Locked Tecno Pova 5 Pro Phone</u></a></li>
+<li><a href="https://extra-information.techidaily.com/analyzing-elite-performance-of-parrots-ar-drone-20-for-2024/"><u>Analyzing Elite Performance of Parrot's AR Drone 2.0 for 2024</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/boost-productivity-discover-the-top-9-chatgpt-integrations-for-instant-impact/"><u>Boost Productivity: Discover the Top 9 ChatGPT Integrations for Instant Impact</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/can-language-models-like-chatgpt-replace-human-proofreaders-effectively/"><u>Can Language Models Like ChatGPT Replace Human Proofreaders Effectively?</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/disguised-dangers-identifying-phony-chatgpt-tools/"><u>Disguised Dangers: Identifying Phony ChatGPT Tools</u></a></li>
+<li><a href="https://common-error.techidaily.com/guide-to-fixing-windowed-typing-delays-optimizing-the-windows-11-keyboard/"><u>Guide to Fixing Windowed Typing Delays: Optimizing the Windows 11 Keyboard</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/how-to-combine-the-power-of-chatgpt-and-siri-on-your-apple-device/"><u>How to Combine the Power of ChatGPT and Siri on Your Apple Device</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/leveraging-ai-conversation-tools-how-to-utilize-chatgpt-even-without-an-account/"><u>Leveraging AI Conversation Tools: How to Utilize ChatGPT Even Without an Account</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/the-ultimate-guide-to-7-outstanding-chatgpt-add-ons-enhancing-answers-and-prompts-in-google-chrome/"><u>The Ultimate Guide to 7 Outstanding ChatGPT Add-Ons Enhancing Answers & Prompts in Google Chrome</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-in-2024-fcpx-skin-retouching-a-plugin-free-guide-to-flawless-skin/"><u>Updated In 2024, FCPX Skin Retouching A Plugin-Free Guide to Flawless Skin</u></a></li>
 </ul></div>
 

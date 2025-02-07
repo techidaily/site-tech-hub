@@ -1,7 +1,7 @@
 ---
 title: ZDNet Reveals the 4 iPhone & MacBook Models Best to Skip This Year!
-date: 2025-01-24T16:46:46.521Z
-updated: 2025-01-25T17:01:46.614Z
+date: 2025-02-05T03:15:30.377Z
+updated: 2025-02-07T11:43:52.933Z
 tags:
   - apple
 categories:
@@ -23,7 +23,7 @@ It may surprise you that MP3 players (also known as digital audio players or DAP
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Wy0uYNNdMDM?si=5ir7EHlr0CkpcYOT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What is the best MP3 player right now?
@@ -33,7 +33,7 @@ We rounded up the top MP3 players you can buy by evaluating storage, battery lif
 **Also:** [**The best sound systems you can buy**](https://www.zdnet.com/home-and-office/home-entertainment/best-sound-system/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## The best MP3 players of 2024
@@ -49,10 +49,6 @@ Pros
 
 Cons 
 * Can be a bit tricky to use with a Mac
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fm0XhU5H8R4?si=cFPk6XK3X3CQSI7Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Sony NW-A306 Walkman
 
@@ -85,13 +81,13 @@ Cons
 * Does not bookmark your position in a book or song
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## AGPTEK A02X 32GB MP3 Player
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2En1CHbiYwA?si=jZKzTr9EIT2ShjGK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Best budget MP3 player
@@ -111,6 +107,10 @@ Show less
 [View now at Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0C5FWM9XD%3FlinkCode%3Dogi%26th%3D1%26psc%3D1%26tag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Ce3db7b21-4f97-4659-9487-95c216f484c1%7Cdtp&dtb=1)
 
 ## Mighty 3 Spotify Music Player
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Best mini MP3 player
 
@@ -152,7 +152,7 @@ The player comes with Android 10 right out of the box so that you can access the
 Show Expert Take Show less 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aG3NRuHrIJg?si=HwzwD0RXmrzIXX1V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What is the best MP3 player?
@@ -188,6 +188,10 @@ There are several considerations to keep in mind before purchasing an MP3 player
 * **Battery:** The great thing about modern-day MP3 players is that they will have much better battery lives than the devices of the past. The average battery life for a good MP3 player will be about 12 hours.
 * **Price:** MP3 players vary greatly in price, from budget-friendly picks to expensive ones built for audiophiles.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How did we choose these MP3 players?
 
 When choosing the best MP3 players, we do extensive research into different products and brands, taking into consideration user reviews (both good and bad), competitor analysis, and more.
@@ -205,10 +209,6 @@ This all depends on the amount of storage that is on the MP3 device. The number 
 ## Is it worth it to buy an MP3 player?
 
 In 2024, you might wonder if it's even worth buying an MP3 player when you can just listen to music on your smartphone. However, MP3 players are great for kids who want to listen to music but don't yet have a smartphone, people who like to run or hike outside, or those who simply want to listen to music without any distractions from their phones.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## What are the different audio formats?
 
@@ -270,24 +270,19 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-web.techidaily.com/oes-rapid-subscription-improve-video-watching-for-2024/"><u>[New] Does Rapid Subscription Improve Video Watching for 2024</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/new-improving-online-sessions-with-increased-zoom/"><u>[New] Improving Online Sessions with Increased Zoom</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/new-securing-skype-conversations-via-obs-for-2024/"><u>[New] Securing Skype Conversations via OBS for 2024</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-hustle-free-download-free-gif-conversion-tools-ranked/"><u>[Updated] Hustle-Free, Download-Free GIF Conversion Tools Ranked</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/beyond-basics-top-5-neglected-chatgpt-capabilities/"><u>Beyond Basics: Top 5 Neglected ChatGPT Capabilities</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/chatgpt-and-pc-problem-solving-a-comprehensive-guide-to-fixing-tech-woes/"><u>ChatGPT and PC Problem-Solving: A Comprehensive Guide to Fixing Tech Woes</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/chatgpt-and-privacy-worries-heres-the-guide-to-discontinue-usage-safely/"><u>ChatGPT and Privacy Worries? Here's the Guide to Discontinue Usage Safely</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/could-ai-chatbots-like-chatgpt-become-the-new-challenge-for-search-engine-dominance/"><u>Could AI Chatbots Like ChatGPT Become the New Challenge for Search Engine Dominance?</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/harnessing-chatgpt-for-optimal-watchlists/"><u>Harnessing ChatGPT for Optimal Watchlists</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-how-to-fake-snapchat-location-on-realme-gt-5-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fake Snapchat Location on Realme GT 5 | Dr.fone</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/in-2024-incarceration-to-insightfulness-ranking-funniest-jailmates-on-social-media/"><u>In 2024, Incarceration to Insightfulness Ranking Funniest Jailmates on Social Media</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/inside-look-at-large-language-models-llms-principles-and-applications/"><u>Inside Look at Large Language Models (LLMs): Principles & Applications</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/language-mastery-face-off-who-reigns-supreme-between-bard-chatgpt-and-offline-alpaca/"><u>Language Mastery Face-Off: Who Reigns Supreme Between Bard, ChatGPT & Offline Alpaca?</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/mastering-the-modern-workplace-six-essential-skills-for-success-in-an-era-of-artificial-intelligence/"><u>Mastering the Modern Workplace: Six Essential Skills for Success in an Era of Artificial Intelligence</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/paving-digital-pathways-for-ig-and-tiktok-for-2024/"><u>Paving Digital Pathways for IG & TikTok for 2024</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/qbf-otl-dg-quick-brown-fox-jump-over-lazy-dog/"><u>QBF O/Tl DG - Quick Brown Fox Jump Over Lazy Dog</u></a></li>
-<li><a href="https://win11.techidaily.com/troubleshoot-and-repair-your-lenovo-mouse-pad-compatibility-with-windows-operating-systems-xpvista/"><u>Troubleshoot and Repair Your Lenovo Mouse Pad Compatibility with Windows Operating Systems (XP/Vista)</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/ways-to-trade-pokemon-go-from-far-away-on-realme-gt-neo-5-drfone-by-drfone-virtual-android/"><u>Ways to trade pokemon go from far away On Realme GT Neo 5? | Dr.fone</u></a></li>
-<li><a href="https://fake-location.techidaily.com/what-is-geo-blocking-and-how-to-bypass-it-on-apple-iphone-12-pro-max-drfone-by-drfone-virtual-ios/"><u>What is Geo-Blocking and How to Bypass it On Apple iPhone 12 Pro Max? | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-2024-approved-twitch-sharing-techniques-for-facebook-integration/"><u>[Updated] 2024 Approved Twitch Sharing Techniques for Facebook Integration</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/1-apples-latest-innovation-exploring-enhancements-in-the-new-3rd-gen-airpods-a-comprehensive-zdnet-review/"><u>1. Apple's Latest Innovation: Exploring Enhancements in the New 3Rd Gen AirPods - A Comprehensive ZDNet Review</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/2024-approved-techniques-for-harvesting-hd-facebook-videos/"><u>2024 Approved Techniques for Harvesting HD Facebook Videos</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/automate-responses-using-chatgpt-on-whatsapp-for-better-support/"><u>Automate Responses Using ChatGPT on WhatsApp for Better Support</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/creative-utilization-tactics-for-gpt-models/"><u>Creative Utilization Tactics for GPT Models</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/exploring-the-boundaries-5-key-issues-with-using-chatgpt-for-crypto-investment-insights/"><u>Exploring the Boundaries: 5 Key Issues with Using ChatGPT for Crypto Investment Insights</u></a></li>
+<li><a href="https://win-bits.techidaily.com/extending-your-computers-life-essential-tips-from-yl-computing-and-yl-software/"><u>Extending Your Computer's Life: Essential Tips From YL Computing & YL Software</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/how-to-restore-missing-chatgpt-interaction-histories/"><u>How to Restore Missing ChatGPT Interaction Histories</u></a></li>
+<li><a href="https://fox-links.techidaily.com/in-2024-celebrated-20-independent-pubg-photo-sequences/"><u>In 2024, Celebrated 20 Independent PUBG Photo Sequences</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-vivo-v27-to-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Vivo V27 To Phone | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-still-using-pattern-locks-with-huawei-tips-tricks-and-helpful-advice-by-drfone-android/"><u>In 2024, Still Using Pattern Locks with Huawei? Tips, Tricks and Helpful Advice</u></a></li>
+<li><a href="https://article-tips.techidaily.com/leading-4k-gaming-pcs-top-ten-selection-for-2024/"><u>Leading 4K Gaming PCs - Top Ten Selection for 2024</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/l-your-vlogs-forward-top-seo-tech-unveiled-for-2024/"><u>Propel Your Vlogs Forward – Top SEO Tech Unveiled for 2024</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/the-comprehensive-guide-to-authenticating-health-information-sourced-from-ai-tools/"><u>The Comprehensive Guide to Authenticating Health Information Sourced From AI Tools</u></a></li>
 </ul></div>
 

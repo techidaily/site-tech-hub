@@ -1,7 +1,7 @@
 ---
 title: From Elite to All with GPT-4
-date: 2024-08-20T10:55:10.727Z
-updated: 2024-08-21T10:55:10.727Z
+date: 2025-01-31T11:57:41.032Z
+updated: 2025-02-06T19:13:15.676Z
 tags:
   - chatgpt
   - open-ai
@@ -51,13 +51,19 @@ After Installing Python, you can download Auto-GPT from GitHub.
 3. Now you have your API key, go to your Auto-GPT folder and open the**.env** file using Notepad.  
 ![Open env with Notepad](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/6-open-env.jpg)
 4. Once opened, scroll down to the**LLM PROVIDER** section. There you will see OPENAI\_API\_KEY. Replace the placeholder with the API key you've just copied, then save the file.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zXUt81WsQpI?si=W3DKIAsa2-qbGadJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![Set API as environment variable](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/wrwe.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  This file is where all your service credentials are placed, so if you want to use a[backend vector database to boost AI](https://www.makeuseof.com/what-is-a-vector-database/) , you can set your product API keys here. But if you only want to use AutoGPT, the OpenAI API key should be enough.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851691&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## Step 3: Install Auto-GPT Dependencies
 
  Now that you have configured Auto-GPT, it's time to install its dependencies through a terminal.
@@ -68,9 +74,6 @@ pip install -r requirements.txt
 3. Once you press enter, your terminal will download and install all the required dependencies.  
 ![Pip install requirements](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/3-4.jpg)
 4. After installation, try opening Auto-GPT using:  
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532"><img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 python -m autogpt  
 ![AutoGPT installation success](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/4-4.jpg)
 
@@ -94,13 +97,14 @@ Congratulations! You have successfully Installed Auto-GPT.
 
 ![Creating Recipe-Generator](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/recipe-generator.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  In this example, we have named our AI assistant "Recipe-Generator." Its role is to make a recipe based on the top five ingredients readily available in the US. We've set the first three goals as parameters on what we expect the recipe will be and set the last two to tell Auto-GPT to save the file as TXT, then shutdown.
 
 ![Running Recipe-Generator](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/2-recipe-generator-thinking.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653853&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bcb41ccdc4363c6848a1d760f26c28a0/products/14_videoproc-converter-ai-box.png" border="0"></a>
-<!-- affiliate ads end -->
 Once you give your last goal, you can hit enter for Auto-GPT to run.
 
  While running, you can see the AI's thoughts, reasoning, plan, and criticism. For every action of the AI assistant, you will be asked to authorize its plan to execute. You can do so by typing "y" as yes.
@@ -124,20 +128,19 @@ After making the recipe, our AI has now completed its task.
 ![Shutting down Auto-GPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/6-1.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/300__250banner.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  To view the output, go to your Auto-GPT folder and**open auto-gpt-workspace** .
 
 ![Viewing-AutoGPT-Output](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/7-1.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://checkout.devart.com/order/checkout.php?PRODS=5023555&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/45b430710ad04765a6afd58d9d9fafca/products/dotConnect_O.png" border="0">dotConnect for Oracle is an ADO.NET data provider for Oracle with Entity Framework Support.</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mMYEK2gtY5c?si=ytxNz_JHZkTrwb4b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Success! Our AI assistant has given us a recipe for a chicken pot pie casserole.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=35038891&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.dupinout.com/wp-content/uploads/2021/12/DupInOut-New-Duplicate-Scan-Tab.png" border="0"></a>
-<!-- affiliate ads end -->
 ## Auto-GPT Limitations
 
  Although Auto-GPT's automation works, it's still quite limited. Through a series of testing, we discovered that Auto-GPT couldn't handle anything complex. Most of the time, it continued looping around the same thought and reasoning. Although you can keep providing helpful prompts, it feels more like ChatGPT stuck in a loop instead of the autonomous assistant it is meant to be.
@@ -150,20 +153,21 @@ After making the recipe, our AI has now completed its task.
 
  Using GPT-4 will noticeably reduce hallucinations and improve overall performance. However, its context size is still limited to 8,000 tokens. After reaching the 8k-token mark, GPT-4 will start losing context starting from the beginning of the task, affecting results. Furthermore, using GPT-4 is several times pricier than GPT-3.5 ([each GPT token has a cost](https://www.makeuseof.com/what-is-chatgpt-token-limit-can-you-exceed-it/) ). You'll want to set limits through your API account.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## The Future of Auto-GPT
 
  Ever since the start of August 2023, the Auto-GPT GitHub project has continuously gained support gaining over 140,000 GitHub Starts. Developments and updates don't seem to be slowing down. Future developments are expected to provide more functionalities, bug fixes, and improved stability in conjunction with the release of GPT-4 and its 32K model.
 
  With that said, Auto-GPT is still in its early development stage, and GPT-4 is still on its 8k model. As for now, Auto-GPT should not be used as a tool for any professional or business applications. Anyone using it should only be for the purpose of learning and experimentation.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -172,4 +176,26 @@ After making the recipe, our AI has now completed its task.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-friendly.techidaily.com/new-in-2024-effortlessly-integrate-your-apple-podcasts-collection/"><u>[New] In 2024, Effortlessly Integrate Your Apple Podcasts Collection</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-record-to-remember-top-5-best-tools-for-virtual-meeting-capture/"><u>[New] Record to Remember Top 5 Best Tools for Virtual Meeting Capture</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/all-you-need-to-know-about-mega-greninja-for-asus-rog-phone-7-ultimate-drfone-by-drfone-virtual-android/"><u>All You Need To Know About Mega Greninja For Asus ROG Phone 7 Ultimate | Dr.fone</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/building-websites-made-easy-how-chatgpt-assists-in-the-process/"><u>Building Websites Made Easy: How ChatGPT Assists in the Process</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/can-i-use-itools-gpx-file-to-catch-the-rare-pokemon-on-realme-11-proplus-drfone-by-drfone-virtual-android/"><u>Can I use iTools gpx file to catch the rare Pokemon On Realme 11 Pro+ | Dr.fone</u></a></li>
+<li><a href="https://os-tips.techidaily.com/comprehensive-guide-understanding-airpods-pro-mastering-controls-unveiling-advanced-features-and-navigating-gestures/"><u>Comprehensive Guide: Understanding AirPods Pro - Mastering Controls, Unveiling Advanced Features & Navigating Gestures</u></a></li>
+<li><a href="https://fox-place.techidaily.com/download-free-hyundai-ioniq-wallpamps-high-quality-hd-images-by-yl-computings-design-team/"><u>Download Free Hyundai Ioniq WALLPAMPS - High-Quality HD Images by YL Computing's Design Team</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/in-2024-visionary-filmmaker-blending-clips-and-chords/"><u>In 2024, Visionary Filmmaker Blending Clips & Chords</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/inspiration-infused-da-vincis-latest-ai-prompts-for-artists/"><u>Inspiration Infused: Da Vinci's Latest AI Prompts for Artists</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/is-chatbot-assistance-lifesaving-when-lost-in-natures-embrace/"><u>Is Chatbot Assistance Lifesaving When Lost in Nature's Embrace?</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/latest-developments-in-ai-ethics-chatgpt-controversies-googles-news-feed-transformation-and-maximizing-mobile-internet-during-holidays/"><u>Latest Developments in AI Ethics: ChatGPT Controversies, Google's News Feed Transformation & Maximizing Mobile Internet During Holidays</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/maximizing-wellness-8-innovative-gpt-integrations/"><u>Maximizing Wellness: 8 Innovative GPT Integrations</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ering-resources-leading-free-video-openers-guide-for-2024/"><u>Pioneering Resources Leading Free Video Openers Guide for 2024</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/revolutionize-your-recipes-7-essential-uses-of-chatgpt-in-the-kitchen/"><u>Revolutionize Your Recipes: 7 Essential Uses of ChatGPT in the Kitchen</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/simple-or-enhanced-your-preferred-chatgpt-experience/"><u>Simple or Enhanced: Your Preferred ChatGPT Experience</u></a></li>
+<li><a href="https://some-tips.techidaily.com/skyrocket-your-output-adopt-a-software-engineers-approach-for-enhanced-productivity-insights-by-zdnet/"><u>Skyrocket Your Output: Adopt a Software Engineer's Approach for Enhanced Productivity - Insights by ZDNet.</u></a></li>
+<li><a href="https://techtrends.techidaily.com/ultimate-troubleshooting-steps-for-the-d3dx926dll-error-message/"><u>Ultimate Troubleshooting Steps for the 'd3dx9_26.dll' Error Message</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/unlocking-advanced-productivity-features-by-combining-onlyoffice-docspace-with-the-power-of-chnaghpt-technology/"><u>Unlocking Advanced Productivity Features by Combining ONLYOFFICE DocSpace with the Power of Chnaghpt Technology</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/unraveling-and-resolving-top-6-gpt-missteps/"><u>Unraveling & Resolving: Top 6 GPT Missteps</u></a></li>
+</ul></div>
 

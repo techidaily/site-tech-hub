@@ -1,7 +1,7 @@
 ---
 title: Top AT&T Mobile Offers in May 2024 - Exclusive Insights
-date: 2025-01-20T17:42:26.428Z
-updated: 2025-01-25T16:33:19.537Z
+date: 2025-02-06T12:33:41.953Z
+updated: 2025-02-07T00:56:57.578Z
 tags:
   - apple
 categories:
@@ -116,10 +116,6 @@ If you order this product via AT&T on a suitable plan, you will receive this mob
 
 [View now at AT&T](https://www.anrdoezrs.net/links/9041660/type/dlg/sid/zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp/https://www.att.com/buy/phones/motorola-razrplus.html) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## More AT&T deals
 
 [Apple iPhone 15 Pro Max, $5.56/month with trade-in View now at AT&T](https://www.anrdoezrs.net/links/9041660/type/dlg/sid/zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp/https://www.att.com/buy/phones/apple-iphone-15-pro-max.html)
@@ -135,7 +131,7 @@ If you order this product via AT&T on a suitable plan, you will receive this mob
 [Motorola moto g stylus, $2.99/month, no trade-in required View now at AT&T](https://www.anrdoezrs.net/links/9041660/type/dlg/sid/zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp/https://www.att.com/buy/phones/motorola-moto-g-stylus-5g-2023.html)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Accessory and service deals
@@ -149,7 +145,7 @@ If you order this product via AT&T on a suitable plan, you will receive this mob
 [BodyGuardz Pure 2 Edge antimicrobial glass screen protector (iPhone 14 range) for $10 (save $35) $10 at AT&T](https://www.anrdoezrs.net/links/9041660/type/dlg/sid/zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp/https://www.att.com/buy/accessories/Screen-Protectors/bodyguardz-pure-2-edge-antimicrobial-tempered-glass-screen-protector-iphone-14-13-13-pro.html)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OFDHJnZLwTA?si=WThcb2h76AnZDzcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How did we choose these AT&T phone deals?
@@ -162,21 +158,21 @@ When we made our selection for the best AT&T deals, we wanted to include options
 * **Free products**: Devices drop in value over time, and to offload excess stock, some carriers will launch time-sensitive deals, giving subscribers free products in exchange for signing up for a new contract.
 * **Events**: It's always worth checking retailers after a major event, such as Samsung Unpacked. You will often find that deals will be launched just after, luring customers to agree to preorder their new handset in return for discounts and free storage upgrades.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/793ViIxl4tI?si=DDBkjPlPX5bZ-f1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Does AT&T offer deals for existing customers?
 
 It's true that carriers are the most aggressive with their offers when it's year-end and new customers are shopping around for services to switch to. Still, AT&T has done a fairly balanced job of pushing promotions for new and existing customers, including all the deals we have listed above. If you've been a loyal customer, we'd even recommend reaching out to your local AT&T provider to see if there are any exclusive deals just for you.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Is it cheaper to buy a phone online or in-store?
 
 In general, there is no difference in how much money you save whether you shop online or in stores. Instead, deciding between the two really boils down to your preference for transactions. With how complicated carrier phone deals can be, you may be better off heading down to the local AT&T store and consulting with a product expert to help you navigate the fine print. Otherwise, shopping online can be faster and more convenient.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## What are the best deals right now?
 
@@ -186,6 +182,10 @@ ZDNET experts split out the latest and greatest deals for you below.
 
 * [The best AT&T deals](https://www.zdnet.com/article/att-deals/)
 * [The best Verizon deals](https://www.zdnet.com/article/verizon-deals/)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### **Best deals by category**
 
@@ -236,20 +236,20 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-resources.techidaily.com/new-analyzing-video-storage-efficiency-in-high-capacity-formats-64128gb/"><u>[New] Analyzing Video Storage Efficiency in High-Capacity Formats (64/128GB)</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/updated-reinstate-disappearing-watch-thumbnail-for-2024/"><u>[Updated] Reinstate Disappearing Watch Thumbnail for 2024</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/2024-approved-magical-image-maker-turning-pictures-into-cartoons-on-devices/"><u>2024 Approved Magical Image Maker Turning Pictures Into Cartoons on Devices</u></a></li>
-<li><a href="https://techtrends.techidaily.com/apples-most-recent-advancement-in-tablet-technology-a-closer-look-at-the-new-ipad-generation/"><u>Apple's Most Recent Advancement in Tablet Technology: A Closer Look at the New iPad Generation</u></a></li>
-<li><a href="https://fox-making.techidaily.com/guide-to-rebooting-devices-how-to-clear-everything-from-start-to-finish/"><u>Guide to Rebooting Devices: How to Clear Everything From Start to Finish</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/how-to-transfer-music-from-samsung-galaxy-z-flip-5-to-ipod-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Music from Samsung Galaxy Z Flip 5 to iPod | Dr.fone</u></a></li>
-<li><a href="https://extra-information.techidaily.com/mastering-the-mark-crafting-unique-podcast-graphics/"><u>Mastering the Mark Crafting Unique Podcast Graphics</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/quick-and-simple-guide-reset-your-facebook-password-instantly/"><u>Quick and Simple Guide: Reset Your Facebook Password Instantly</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/quick-fix-for-a-malfunctioning-logitech-k520-keyboard-easy-tips-inside/"><u>Quick Fix for a Malfunctioning Logitech K520 Keyboard – Easy Tips Inside!</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/quick-fix-for-removing-windows-10-lock-screen-a-user-friendly-approach/"><u>Quick Fix for Removing Windows 10 Lock Screen - A User-Friendly Approach</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/quick-guide-identifying-and-verifying-your-windows-10-os-version-instantly/"><u>Quick Guide: Identifying and Verifying Your Windows 10 OS Version Instantly</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/recovering-access-steps-to-restore-a-forgotten-ipad-passcode-and-unlock-securely/"><u>Recovering Access: Steps to Restore a Forgotten iPad Passcode and Unlock Securely</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/resolve-excessive-tiworkerexe-cpu-and-memory-consumption-in-windows-11/"><u>Resolve Excessive tiworker.exe CPU and Memory Consumption in Windows 11</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/step-by-step-applying-color-grading-and-keying/"><u>Step-by-Step Applying Color Grading and Keying</u></a></li>
-<li><a href="https://driver-error.techidaily.com/windows-cuick-fix-for-non-responsive-qualcomm-atheros-bluetooth-devices/"><u>Windows Cuick Fix for Non-Responsive Qualcomm Atheros Bluetooth Devices</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-an-elaborate-review-unveiling-lgs-ultrafine-4k-wonders/"><u>[New] An Elaborate Review Unveiling LG's UltraFine 4K Wonders</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-clear-video-logger-for-windows-10-systems-for-2024/"><u>[New] Clear Video Logger for Windows 10 Systems for 2024</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-2024-approved-the-secrets-to-steering-clear-of-vr-sickness/"><u>[Updated] 2024 Approved The Secrets to Steering Clear of VR Sickness</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-streamline-accessibility-a-compreenas-top-free-tts-apps-list-for-mac-users/"><u>[Updated] Streamline Accessibility A Compreenas Top Free TTS Apps List for Mac Users</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/3-solutions-to-hard-reset-realme-c33-2023-phone-using-pc-drfone-by-drfone-reset-android-reset-android/"><u>3 Solutions to Hard Reset Realme C33 2023 Phone Using PC | Dr.fone</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/building-bridges-of-interaction-using-chatgpt-to-overcome-loneliness/"><u>Building Bridges of Interaction: Using ChatGPT to Overcome Loneliness</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/business-evolution-unleashing-power-of-chatgpt-and-whisper-apis/"><u>Business Evolution: Unleashing Power of ChatGPT and Whisper APIs</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/gpts-evolution-continues-four-key-innovations-we-anticipate-in-gpt-5/"><u>GPT's Evolution Continues: Four Key Innovations We Anticipate in GPT-5</u></a></li>
+<li><a href="https://ios-location-track.techidaily.com/how-to-track-apple-iphone-7-location-by-number-drfone-by-drfone-virtual-ios/"><u>How to Track Apple iPhone 7 Location by Number | Dr.fone</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/pc-optimization-tips-to-prevent-and-solve-frontier-game-crashes-now-resolved/"><u>PC Optimization Tips to Prevent and Solve Frontier Game Crashes - Now Resolved!</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/revolutionizing-computing-the-top-5-ai-hardware-technologies-to-watch/"><u>Revolutionizing Computing: The Top 5 AI Hardware Technologies to Watch</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/understanding-the-limitations-why-generative-ai-may-not-suit-messaging-services/"><u>Understanding the Limitations: Why Generative AI May Not Suit Messaging Services</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/unlocking-codegpts-potential-inside-your-vs-code-workspace/"><u>Unlocking CodeGPT's Potential Inside Your VS Code Workspace</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/unraveling-generative-ais-functionality-and-its-corporate-applications/"><u>Unraveling Generative AI's Functionality and Its Corporate Applications</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/updated-exploring-the-creme-de-la-creme-of-distorted-audio-technology-tools/"><u>Updated Exploring the Crème De La Crème of Distorted Audio Technology Tools</u></a></li>
 </ul></div>
 

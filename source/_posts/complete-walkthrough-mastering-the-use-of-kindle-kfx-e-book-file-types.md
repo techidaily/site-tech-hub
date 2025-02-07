@@ -1,7 +1,7 @@
 ---
 title: "Complete Walkthrough: Mastering the Use of Kindle KFX E-Book File Types"
-date: 2024-08-20T10:51:47.102Z
-updated: 2024-08-21T10:51:47.102Z
+date: 2025-02-01T10:06:06.754Z
+updated: 2025-02-07T07:38:05.624Z
 categories:
   - epubor
 thumbnail: https://thmb.techidaily.com/934c09a684ad314c00e00ed21a2e7539ae4858551b2266da80c837988bee503d.jpg
@@ -15,9 +15,11 @@ Posted by [Sisi Liu](https://www.facebook.com/sisi.liu.737) on 11/21/2018 3:27:5
 
 3 [(0 comments)](http://www.epubor.com/#comment-area) 
 
-
-
 ![follow](http://www.epubor.com/images/follow.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 KFX is the latest Amazon Kindle format which was released with Kindle Paperwhite 3\. A KFX file refers to Kindle Format 10 eBook, successor to the AZW3 (KF8) format. Amazon rolled out KFX format in 2015 to take advantage of Bookerly font, and they used KFX for the standard book since then. In this article, I’ll illustrate what KFX format is, what the new features of KFX files are, how to open and read KFX files, and how to remove KFX DRM and convert KFX to PDF/EPUB/MOBI/AZW3/TXT.
 
@@ -34,15 +36,20 @@ In the past many Kindle book have been criticized by the typesetting problems su
 
 ![KFX-features](http://www.epubor.com/images/uppic/KFX-features.png) ![bookerly-font](http://www.epubor.com/images/uppic/bookerly-font.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Not all Kindle books delivered by Amazon use the new KFX format. Then how to identify whether a Kindle title uses the new KFX format? Well, you can check on the book’s description page at Amazon and see a new label that shows if the Enhanced Typesetting is enabled. You can take a look at the highlighted part in the screenshot as shown below:
 
 ![enhanced-typesetting-in-product-details](http://www.epubor.com/images/uppic/enhanced-typesetting-in-product-details.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 If the book titles are labeled as Enhanced Typesetting enabled in Amazon product description, and you want to upgrade your purchased eBooks from older formats to KFX, you just need to delete these books from your Kindle device and re-download them again. This way you’ll get your purchased eBooks in the new Amazon KFX format.
 
-<!-- affiliate ads begin -->
-<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254762&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/11_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
-<!-- affiliate ads end -->
 ### How to open and read a DRMed KFX file?
 
 All books delivered by Amazon in KFX format have DRM encryption. Therefore, you can only open and read a DRMed KFX file on Kindle related Kindle devices or apps.
@@ -54,8 +61,9 @@ All books delivered by Amazon in KFX format have DRM encryption. Therefore, you 
 If you want to read KFX files with Calibre, you need to strip the DRM from the KFX files and convert their files to Calibre compatible formats. See more information in this article: [How to Open/Read Kindle KFX ebook with Calibre](https://tools.techidaily.com/epubor/products/) 
 
 <!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713322&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVRadio1.90-300x188.jpg" border="0">OtsAV Radio Webcaster</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Explanation of the KFX Content
 
 A KFX file is not a sole eBook content file, instead, it contains the Amazon encrypted eBook content, DRM voucher, and metadata describing the book such as the author, title, categories, key words, and number of pages.
@@ -65,15 +73,13 @@ A complete **KFX eBook downloaded via Kindle for PC/Mac** higher than version 1.
 ![KFX-Content-via-Kindle-for-PC](http://www.epubor.com/images/uppic/KFX-Content-via-Kindle-for-PC.png)
 
 <!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1047974&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-04_%281%29.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 The files that make up a **KFX eBook downloaded via Kindle eInk device** differ from those comprised of a KFX book downloaded via Kindle for PC/Mac. Under Kindle/Documents, you’ll see a book title with .kfx extension and a folder named after the book title with .sdr extension:
 
 ![kfx-main-container-via-Kindle-device](http://www.epubor.com/images/uppic/kfx-main-container-via-Kindle-device.png)
 
-<!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713321&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVDJ1.90-300x188.jpg" border="0">OtsAV DJ Pro</a>
-<!-- affiliate ads end -->
 ![sdr-folder](http://www.epubor.com/images/uppic/sdr-folder.png)
 
 Within the sdr folder, there’s a subfolder called asset, see the contents in the **asset folder** shown in the screenshot below:
@@ -81,6 +87,10 @@ Within the sdr folder, there’s a subfolder called asset, see the contents in t
 ![contents-in-assets-folder](http://www.epubor.com/images/uppic/contents-in-assets-folder.png)
 
 As you can see that books in KFX format are usually composed of multiple KFX container files. The entire set of KFX files that make up the book is required for successful DRM removal and format conversion.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### How to remove KFX DRM and convert KFX to PDF/EPUB/MOBI/AZW3/TXT?
 
@@ -112,9 +122,6 @@ Click on “eReader or “Kindle” tab, and you’ll see all your Kindle books 
 
 ![decrypt-kfx-via-kindle-device](http://www.epubor.com/images/uppic/decrypt-kfx-via-kindle-device.png)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4713565&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Mac： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
-<!-- affiliate ads end -->
 ![decrypt-kfx-via-Kindle-for-PC](http://www.epubor.com/images/uppic/decrypt-kfx-via-Kindle-for-PC.png)
 
  You can see a checkmark and "Decrypted" next to the KFX books you've removed DRM from. Click on "Decrypted", the decrypted file output folder will prompt automatically.
@@ -143,9 +150,6 @@ Suggested reading:
 
 ![author](http://www.epubor.com/images/uppic/Sisi.png)
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=1412049&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-200x200.jpg" border="0"></a>
-<!-- affiliate ads end -->
 [Sisi Liu](https://www.facebook.com/sisi.liu.737) Sisi is a newbie who joined Epubor in November 2017\. She's a bookworm her whole life and has taken great interest in eBooks recently. She learns professional knowledge about ebooks in Epubor and loves to share her know-how to all the ebook lovers!
 
 SHARING IS GREAT!
@@ -153,8 +157,6 @@ SHARING IS GREAT!
 [Tweet](https://twitter.com/share) 
 
 [SAVE PAGE AS PDF](https://tools.techidaily.com/epubor/products/) 
-
-
 
 0 Comments
 
@@ -180,8 +182,6 @@ Leave a comment
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -189,4 +189,21 @@ Leave a comment
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-webster.techidaily.com/-quick-tutorial-on-how-to-convert-image-to-youtube-thumbnail-for-2024/"><u>[New] A Quick Tutorial On How To Convert Image To YouTube Thumbnail for 2024</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/new-a-list-mobile-applications-for-enhanced-gopro-videos/"><u>[New] A-List Mobile Applications for Enhanced GoPro Videos</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/n-2024-influencing-factors-for-popular-youtube-videos/"><u>[New] In 2024, Influencing Factors for Popular YouTube Videos</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/exploring-visuals-beyond-limits-the-superzoom-story-of-sx70-hs/"><u>Exploring Visuals Beyond Limits - The Superzoom Story of SX70 HS</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/in-2024-video-capture-clash-go-obs-against-shadowgl/"><u>In 2024, Video Capture Clash Go OBS! Against ShadowGL</u></a></li>
+<li><a href="https://discover-brilliant.techidaily.com/les-meilleurs-liseurs-videos-mkv-de-2020-guide-complet-pour-windows-et-mac-downloads-gratuits/"><u>Les Meilleurs Liseurs Vidéos MKV De 2020 : Guide Complet Pour Windows Et Mac - Downloads Gratuits</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/maximize-your-productivity-essential-file-explorer-tab-tricks-on-windows-11-revealed/"><u>Maximize Your Productivity: Essential File Explorer Tab Tricks on Windows 11 Revealed</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/navigate-the-internet-from-bash-step-by-step-instructions-for-lynx-browser-integration/"><u>Navigate the Internet From Bash: Step-by-Step Instructions for Lynx Browser Integration</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/resolving-the-dpc-watchdog-timeout-error-on-windows-11-a-step-by-step-guide/"><u>Resolving the DPC Watchdog Timeout Error on Windows 11: A Step-by-Step Guide</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/seamless-integration-mastering-the-connection-between-mac-and-android/"><u>Seamless Integration: Mastering the Connection Between Mac and Android</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/seamless-integration-unlock-the-secrets-of-moving-from-windows-to-linux-with-these-6-crucial-factors/"><u>Seamless Integration: Unlock the Secrets of Moving From Windows to Linux with These 6 Crucial Factors</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/seamlessly-move-icloud-pictures-across-various-gadgets-with-these-easy-steps/"><u>Seamlessly Move iCloud Pictures Across Various Gadgets with These Easy Steps</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/srt-to-sub-how-to-convert-srt-to-sub-with-3-actionable-ways/"><u>SRT to SUB How to Convert SRT to SUB with 3 Actionable Ways</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/unlocking-greater-utility-for-iphones-with-google-gemini-on-ios-by-apple-a-detailed-look-zdnet/"><u>Unlocking Greater Utility for iPhones with Google Gemini on iOS by Apple - A Detailed Look | ZDNet</u></a></li>
+</ul></div>
 

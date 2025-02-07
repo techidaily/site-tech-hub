@@ -1,7 +1,7 @@
 ---
 title: Top-Rated Protective Covers for the Latest iPhone Models (iPhone 12 & 12 Pro) - Tech Picks
-date: 2025-01-24T17:52:57.822Z
-updated: 2025-01-25T17:35:58.682Z
+date: 2025-02-04T19:33:30.293Z
+updated: 2025-02-07T04:19:50.144Z
 tags:
   - apple
 categories:
@@ -44,11 +44,11 @@ Pros
 Cons 
 * Slightly pricey
 
-## Pela case
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+## Pela case
 
 ### Best iPhone 12 case overall
 
@@ -71,7 +71,7 @@ Cons
 * Pricier
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Apple Silicone Case with MagSafe
@@ -101,10 +101,6 @@ Cons
 * Clear design may yellow
 
 ## Bodyguardz Ace Pro
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oySc0DiqmKc?si=8pynRzuhlq2RUPZ6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Best budget iPhone 12 case
 
@@ -155,7 +151,7 @@ Cons
 ## ESR Air Armor
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uzb-0C0xUYA?si=F4MPhdVqyVgx7_8X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Best clear iPhone 12 case
@@ -183,7 +179,7 @@ Cons
 * Price varies
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oB9V7rZzotw?si=d4xrCbq1jKHXGAWN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Incipio Organicore
@@ -238,7 +234,7 @@ Cons
 ## Speck Presidio Edition
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Best iPhone 12 case for drop protection
@@ -266,7 +262,15 @@ Cons
 * No drop protection
 * Original price ($39) is too expensive for what it is
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Totallee case
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Best slim iPhone 12 case
 
@@ -292,6 +296,10 @@ The best iPhone 12 case is the Pela case, chosen for its environmental safety, d
 | Speck Products Presidio Edition  | $23       | 13 feet             |
 | Totallee case                    | $19       | Unspecified         |
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Which iPhone case is right for you?
 
 Each case on this list has unique pros and cons. One case might be a better choice for you, depending on the features you can't live without. 
@@ -307,10 +315,6 @@ Each case on this list has unique pros and cons. One case might be a better choi
 | Nomad Rugged case                 | The best leather case that ages well over time                                        |
 | Speck Products Presidio Edition   | The best slim iPhone 12 case                                                          |
 | Totallee case                     | The best ultra thin case that protects your phone and camera from nicks and scratches |
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## What should I look for in an iPhone case?
 
@@ -329,21 +333,17 @@ Wireless charging does work with phone cases. Almost all of the cases on this li
 
 The Pela case is my favorite because it combines drop protection with environmental friendliness and durability. The flax-based material is unique and 100% compostable -- and the case protects your phone from drops of up to 20 feet. It comes in a variety of colors and ships free to the United States and Canada in plastic-free packaging. 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Is OtterBox good for iPhone 12?
 
 Yes. OtterBox cases are durable, and I added an OtterBox option to my list of favorite alternatives. Some OtterBox lines are made with partially recycled materials. You can also alter the bulkiness of your OtterBox, depending on how much protection you need.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What is the safest case for iPhone 12 Pro?
 
 The Pela case is made out of non-toxic materials and has been tested for safety. It's free of phthalates, BPA, cadmium, and lead and is verified to meet child safety standards in the U.S., Canada, Europe, Australia, and New Zealand. You can compost it in a home composting environment or an industrial composting facility. Each case on this list keeps your phone safe to varying degrees.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Do you need a case for iPhone 12?
 
@@ -389,21 +389,22 @@ Of course. Here are a few options to consider.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-files.techidaily.com/updated-adding-sparkle-to-your-content-incorinasing-unique-story-emojis-for-2024/"><u>[Updated] Adding Sparkle to Your Content Incorinasing Unique Story Emojis for 2024</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/ed-micromovie-magic/"><u>[Updated] MicroMovie Magic</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/access-no-cost-vod-media-player-on-windowsmacos/"><u>Access No-Cost VOD Media Player on Windows/MacOS</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/best-deals-await-snag-your-samsung-galaxy-z-foldflip-6-for-up-to-1200-less/"><u>Best Deals Await: Snag Your Samsung Galaxy Z Fold/Flip 6 for Up to $1,200 Less!</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/comparing-top-ai-chatbots-chatgpt-plus-vs-perplexity-which-wins/"><u>Comparing Top AI Chatbots: ChatGPT Plus Vs. Perplexity – Which Wins?</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/crafting-rules-for-ais-code/"><u>Crafting Rules for AI's Code</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/easy-guide-stopping-unknown-numbers-from-disturbing-you-on-your-iphone/"><u>Easy Guide: Stopping Unknown Numbers From Disturbing You on Your iPhone</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/evolution-of-online-search-discover-whats-new-with-microsofts-artificam-intelligence-on-bing/"><u>Evolution of Online Search: Discover What’s New with Microsoft’s Artificam Intelligence on Bing</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/how-to-secure-your-apple-vision-pro-demo-today-top-tips-and-tricks-revealed-macworld-exclusive/"><u>How to Secure Your Apple Vision Pro Demo Today – Top Tips & Tricks Revealed! | Macworld Exclusive</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/how-to-use-chatgpt-for-3d-printing/"><u>How to Use ChatGPT for 3D Printing</u></a></li>
-<li><a href="https://driver-install.techidaily.com/install-latest-lenovo-drivers-in-windows-10/"><u>Install Latest Lenovo Drivers in Windows 10</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/new-multiple-ways-how-to-remove-icloud-activation-lock-from-your-apple-iphone-13-pro-by-drfone-ios/"><u>New Multiple Ways How To Remove iCloud Activation Lock From your Apple iPhone 13 Pro</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/premium-devices-to-elevate-your-mobile-video-skills-for-2024/"><u>Premium Devices to Elevate Your Mobile Video Skills for 2024</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/simple-chatgpt-versus-browsing-enhanced-gpt-functions/"><u>Simple ChatGPT Versus Browsing-Enhanced GPT Functions</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/token-triumph-geminis-1m-impact-shifted/"><u>Token Triumph: Gemini’s $1M Impact Shifted</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/understanding-ai-evolutions-how-does-gpt-4-turbo-stack-up-against-the-standard-and-gpt-n/"><u>Understanding AI Evolutions: How Does GPT-4 Turbo Stack Up Against the Standard and GPT-N?</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-maximizing-revenue-a-complete-framework-for-tracking-youtube-views-and-income/"><u>[Updated] Maximizing Revenue A Complete Framework for Tracking YouTube Views & Income</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-unveiling-excellent-video-keywords-on-youtube-for-2024/"><u>[Updated] Unveiling Excellent Video Keywords on YouTube for 2024</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/2024-approved-laugh-loops-unlocked-zero-cost-humor-hub/"><u>2024 Approved Laugh Loops Unlocked Zero-Cost Humor Hub</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/akaso-ek7000-ultimate-4k-action-cam-at-affordable-prices/"><u>AKASO EK7000 Ultimate 4K Action Cam at Affordable Prices</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/can-ai-like-chatgpt-challenge-the-dominance-of-search-engine-giants/"><u>Can AI Like ChatGPT Challenge the Dominance of Search Engine Giants?</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/enabling-chatgpts-latest-beta-features-for-web-navigation-and-extensions/"><u>Enabling ChatGPT’s Latest Beta Features for Web Navigation & Extensions</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/enlightening-ai-dialogues-premier-training-programs/"><u>Enlightening AI Dialogues: Premier Training Programs</u></a></li>
+<li><a href="https://techidaily.com/how-to-hard-reset-motorola-edge-40-pro-without-password-drfone-by-drfone-reset-android-reset-android/"><u>How to Hard Reset Motorola Edge 40 Pro Without Password | Dr.fone</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-mass-movement-mastery-the-drone-top-list/"><u>In 2024, Mass Movement Mastery The Drone Top List</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/mastering-job-interviews-effective-strategies-using-chatgpt/"><u>Mastering Job Interviews: Effective Strategies Using ChatGPT</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/next-level-digital-hygiene-stellars-windows-standard-file-purging-suite-and-scheduler/"><u>Next-Level Digital Hygiene: Stellar's Windows Standard File Purging Suite & Scheduler</u></a></li>
+<li><a href="https://driver-install.techidaily.com/overcoming-xps-network-miniport-obstructions-now-fixed/"><u>Overcoming XP's Network Miniport Obstructions - Now Fixed</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/pinnacle-of-generative-tech-notion-vs-chatgpt-analysis/"><u>Pinnacle of Generative Tech: Notion Vs. ChatGPT Analysis</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/revolutionizing-education-with-ai-the-8-advantages-for-educators-who-adapt-early/"><u>Revolutionizing Education with AI: The 8 Advantages for Educators Who Adapt Early</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/the-blueprint-for-eliminating-unwanted-chatgpt-data/"><u>The Blueprint for Eliminating Unwanted ChatGPT Data</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/the-ultimate-iphone-x-handbook-for-users/"><u>The Ultimate iPhone X Handbook for Users</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/unveiling-the-dark-side-of-love-how-artificial-intelligence-fuels-romance-cons/"><u>Unveiling the Dark Side of Love: How Artificial Intelligence Fuels Romance Cons</u></a></li>
 </ul></div>
 

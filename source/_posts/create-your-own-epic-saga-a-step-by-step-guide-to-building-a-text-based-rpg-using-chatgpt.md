@@ -1,7 +1,7 @@
 ---
 title: "Create Your Own Epic Saga: A Step-by-Step Guide to Building a Text-Based RPG Using ChatGPT"
-date: 2024-08-20T10:55:53.447Z
-updated: 2024-08-21T10:55:53.447Z
+date: 2025-02-05T22:31:32.037Z
+updated: 2025-02-07T00:58:21.855Z
 tags:
   - chatgpt
   - open-ai
@@ -42,9 +42,9 @@ thumbnail: https://thmb.techidaily.com/c1b8f5eb5059b436ba72d1c75d15b589d4913c1c7
  Bing Chat uses the latest version of the language model, GPT-4\. However, there are some[key differences between GPT-4 and GPT-3.5](https://www.makeuseof.com/gpt-4-vs-gpt-35-differences-explained/) :
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152810&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/842ca578342915ccb8ae069595ba7233/products/copy_bootit-ss1_178x139.jpg" border="0">The BootIt Collection covers multi-booting, partitioning, and disk imaging on traditional PC's using the standard BIOS and  newer PC's using UEFI.   The collection includes BootIt Bare Metal (BIBM) for standard BIOS systems and BootIt UEFI (BIU) for UEFI system. 
-</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Creativity
 
  Both have levels of creativity that are testimony to the heights that AI has reached. However, creativity is a difficult metric to measure, and the tests we tried showed GPT-3.5 is close to GPT-4 in simple creative tasks.
@@ -53,22 +53,21 @@ For example, below is Bing Chat's effort at a simple limerick.
 
 ![Screenshot of Bing Limerick-1](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/screenshot-of-bing-limerick-1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2086436/19576" target="_top" id="2086436"><img src="//a.impactradius-go.com/display-ad/19576-2086436" border="0" alt="" width="1500" height="400"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2086436/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  As you see from the ChatGPT effort below, both models can construct creative prose remarkably well.
 
 ![Screenshot of ChatGPT Limerick-1](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/screenshot-of-chatgpt-limerick-1.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=14095146&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8b6cc3ee5ec407721ce3bf5ff4c0f56b/PRO_BUY_728x90-EN.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653853&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bcb41ccdc4363c6848a1d760f26c28a0/products/14_videoproc-converter-ai-box.png" border="0"></a>
-<!-- affiliate ads end -->
+
 ### Safety
 
  Moderating responses that were factually incorrect or otherwise unsuitable was performed "on the fly" with GPT-3.5\. In other words, it was a reactive strategy that acted after the horse had bolted. GPT-4 has safety measures designed into the model, meaning safety is more proactive. Where safety is a concern, Bing Chat technically has the upper hand.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GPk8_xpN_rA?si=YbAdgsjAKsCn_UsB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Image Processing and Accuracy
 
@@ -85,6 +84,10 @@ For example, below is Bing Chat's effort at a simple limerick.
  Unlike testing the difference in creativity, testing this was easy. The results were comprehensive, with Bing Chat returning the most impressive answer to a straightforward question, "How many tons of plastic were recycled in 2020?"
 
 ![Screenshot of Plastic Recycling Stats from Bing Chat](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/screenshot-of-plastic-recycling-stats-from-bing-chat.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  The response supplied figures as well as links to the sources from which the data was retrieved. However, the inclusion of US plastic exports was slightly out of context with the question. We would hesitate to call this a glitch, but it does show AI's tendency to wander off-topic at times.
 
@@ -111,11 +114,9 @@ By contrast, the ChatGPT response was to admit its limitations.
 ![Screenshot of ChatGPT list of educational websites](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/screenshot-of-chatgpt-list-of-educational-websites.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398457/3022" target="_top" id="398457"><img src="//a.impactradius-go.com/display-ad/3022-398457" border="0" alt="www.sentrypc.com" width="980" height="120"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398457/3022" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851655&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
+
 ## Which Is Best: Bing Chat or Chat GPT?
 
  There is no straightforward answer, as both tools are incredibly impressive.
@@ -135,20 +136,18 @@ By contrast, the ChatGPT response was to admit its limitations.
  Ultimately, this is a case of choosing the right tool for the job. The beauty of this is that both platforms are free, so trying them both is quick and easy.
 
 <!-- affiliate ads begin -->
-<a href="https://martinic.evyy.net/c/5597632/1422856/4482" target="_top" id="1422856"><img src="//a.impactradius-go.com/display-ad/4482-1422856" border="0" alt="" width="580" height="309"/></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Chatbots Are Here to Stay
 
  As AI chatbots become more widespread, the differences between these early adopters will only continue to widen. However, by understanding the unique features of each platform, users can choose the chatbot that best suits their needs.
-
 
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -157,4 +156,24 @@ By contrast, the ChatGPT response was to admit its limitations.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-knowledge.techidaily.com/updated-current-innovations-in-vr-gear/"><u>[Updated] Current Innovations in VR Gear</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-monthly-revenue-streams-for-video-content-creators/"><u>2024 Approved Monthly Revenue Streams for Video Content Creators</u></a></li>
+<li><a href="https://video-capture.techidaily.com/active-presenter-8-review-for-2024/"><u>Active Presenter 8 Review for 2024</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/beyond-the-hype-understanding-the-key-divergences-between-gpt-4-gpt-4-turbo-and-phi-variants/"><u>Beyond the Hype: Understanding the Key Divergences Between GPT-4, GPT-4 Turbo & Phi Variants</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/chatgpt-techniques-for-difficult-workplace-communications-write-like-a-pro/"><u>ChatGPT Techniques for Difficult Workplace Communications – Write Like a Pro</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/commanding-chatgpt-by-voice-top-5-methods-for-enhanced-control/"><u>Commanding ChatGPT by Voice: Top 5 Methods for Enhanced Control</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/delving-into-chatgpt-enterprise-insights-on-its-capabilities-perks-and-how-it-stands-out/"><u>Delving Into ChatGPT Enterprise: Insights on Its Capabilities, Perks, and How It Stands Out</u></a></li>
+<li><a href="https://blog-min.techidaily.com/descargar-convertidor-de-flv-a-mkv-sin-costo-alguno-hacerlo-online-con-facilidad/"><u>Descargar Convertidor De Flv a Mkv Sin Costo Alguno - Hacerlo Online Con Facilidad</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/discovering-all-aspects-of-apples-new-ai-technologies-exposed-during-wwdc-2024/"><u>Discovering All Aspects of Apple's New AI Technologies Exposed During WWDC 2024</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/emojis-and-the-language-of-money/"><u>Emojis and the Language of Money</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/exploring-codegpt-understanding-its-capabilities-in-automated-coding/"><u>Exploring CodeGPT: Understanding Its Capabilities in Automated Coding</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/how-does-emotional-artificial-intelligence-interpret-human-sentiments-accurately/"><u>How Does Emotional Artificial Intelligence Interpret Human Sentiments Accurately?</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/in-2024-boosting-productivity-with-zoom-and-a-chromebook/"><u>In 2024, Boosting Productivity with Zoom and a Chromebook</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-topics-with-a-twist-for-your-vlog-talks/"><u>In 2024, Topics with a Twist for Your Vlog Talks</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/latest-way-to-get-shiny-meltan-box-in-pokemon-go-mystery-box-on-realme-narzo-60-pro-5g-drfone-by-drfone-virtual-android/"><u>Latest way to get Shiny Meltan Box in Pokémon Go Mystery Box On Realme Narzo 60 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/master-the-art-of-ai-prompts-with-these-7-powerful-tactics/"><u>Master the Art of AI Prompts with These 7 Powerful Tactics</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/screen-recording-simplified-unlocking-five-key-techniques-for-minecraft-on-a-mac/"><u>Screen Recording Simplified Unlocking Five Key Techniques for Minecraft on a Mac</u></a></li>
+</ul></div>
 

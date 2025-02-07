@@ -1,7 +1,7 @@
 ---
 title: How Apple's $17 EarPods With USB-C Became an Impulse Buy During Amazon Prime Day - A Tech Review
-date: 2025-01-21T18:12:29.075Z
-updated: 2025-01-25T16:18:46.376Z
+date: 2025-02-03T17:08:16.726Z
+updated: 2025-02-07T02:15:06.162Z
 tags:
   - apple
 categories:
@@ -32,7 +32,7 @@ Secondly, the microphone quality on Apple's wired EarPods is some of the best I'
 It should come as no surprise that I quickly bought another pair of USB-C [Apple EarPods](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FApple-EarPods-Headphones-Built-Control%2Fdp%2FB0CHXC5ZDX%3Fth%3D1%26tag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cd1727d25-62fd-44c1-aba8-20b881a32385%7Cdtp&dtb=1) when they finally went on sale this morning. You can bet I'll be bringing them along for more plane rides and commutes throughout the summer.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/umvX4ZdWbxk?si=tPXL0-Kzf9SQaY8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## When will this deal expire?
@@ -71,21 +71,24 @@ Deals are subject to sell out or expire at any time, though ZDNET remains commit
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://tiktok-video-files.techidaily.com/new-2024-approved-tasty-tiktoks-worlds-best-food-vloggers/"><u>[New] 2024 Approved Tasty TikToks World's Best Food Vloggers</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/updated-facebook-spotlight-todays-1-10-music-vids/"><u>[Updated] Facebook Spotlight Today’s #1-#10 Music Vids</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-how-to-add-fonts-to-after-effects/"><u>[Updated] How to Add Fonts to After Effects</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-mastering-video-capturing-across-devices-and-platforms-for-2024/"><u>[Updated] Mastering Video Capturing Across Devices and Platforms for 2024</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/brand-protection-effective-techniques-for-instagram-watermarks-for-2024/"><u>Brand Protection Effective Techniques for Instagram Watermarks for 2024</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/common-stock-cs-number-of-common-shares-par-value-per-share/"><u>Common Stock (CS) = Number of Common Shares Par Value per Share</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/decoding-the-digital-realm-revealing-your-hidden-online-personas-and-dissecting-the-intriguing-theory-of-electronic-spirits/"><u>Decoding the Digital Realm: Revealing Your Hidden Online Personas and Dissecting the Intriguing Theory of Electronic Spirits</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/elevate-productivity-with-these-top-8-intelligent-google-chrome-addons-for-power-users/"><u>Elevate Productivity with These Top 8 Intelligent Google Chrome Addons for Power Users</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/futuristic-commute-mercedes-benz-melds-chatgpt-and-voice-control/"><u>Futuristic Commute: Mercedes-Benz Melds ChatGPT & Voice Control</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/1722977529016-get-the-latest-windows-drivers-for-your-hp-spectre-x360-laptop-here/"><u>Get the Latest Windows Drivers for Your HP Spectre X360 Laptop Here</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/insightful-guide-to-understanding-hugging-faces-role-in-machine-learning/"><u>Insightful Guide to Understanding Hugging Face's Role in Machine Learning</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/integrate-conversational-ai-into-your-project-using-the-chatgpt-api/"><u>Integrate Conversational AI Into Your Project Using the ChatGPT API</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/navigating-the-pros-and-cons-of-chatgpt-assistance-for-content-creators/"><u>Navigating the Pros and Cons of ChatGPT Assistance for Content Creators</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/securing-your-childs-online-presence-top-5-safe-uses-of-chatgpt/"><u>Securing Your Child's Online Presence: Top 5 Safe Uses of ChatGPT</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/top-windows-calling-software-8-winner-list-for-2024/"><u>Top Windows Calling Software #8 Winner List for 2024</u></a></li>
-<li><a href="https://ai-video.techidaily.com/updated-in-2024-translate-video-from-japanese-to-english-online-for-free/"><u>Updated In 2024, Translate Video From Japanese to English Online for Free</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/0-essential-tips-for-achieving-wealth-through-youtube-video-views/"><u>[New] 10 Essential Tips for Achieving Wealth Through YouTube Video Views</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/gnite-views-effective-strategies-for-optimizing-youtube-collaborations-for-2024/"><u>[New] Ignite Views Effective Strategies for Optimizing YouTube Collaborations for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-the-ultimate-guide-to-lightroom-for-hdr-image-creation/"><u>[Updated] The Ultimate Guide to Lightroom for HDR Image Creation</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-ultimate-ios-guide-to-premier-psp-emulators-for-2024/"><u>[Updated] Ultimate iOS Guide to Premier PSP Emulators for 2024</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/a-stepwise-strategy-to-make-mark-with-memes-at-9gag-for-2024/"><u>A Stepwise Strategy to Make Mark with Memes at 9GAG for 2024</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/enhance-your-reading-list-with-smart-choices-from-our-top-picks-of-ai-book-recommender-tools/"><u>Enhance Your Reading List with Smart Choices From Our Top Picks of AI Book Recommender Tools</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/exclusive-guide-top-23-alive-and-kicking-labor-day-sweetheart-offers-on-computers-spotted-by-zdnet/"><u>Exclusive Guide: Top 23 Alive-and-Kicking Labor Day Sweetheart Offers on Computers - Spotted by ZDNet</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-a-step-by-step-guide-to-finding-your-apple-id-from-your-iphone-7-by-drfone-ios/"><u>In 2024, A Step-by-Step Guide to Finding Your Apple ID From Your iPhone 7</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-fix-life360-shows-wrong-location-on-honor-80-pro-straight-screen-edition-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fix Life360 Shows Wrong Location On Honor 80 Pro Straight Screen Edition? | Dr.fone</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/inside-on-device-intelligence-functionality-and-advantages-for-smartphones/"><u>Inside On-Device Intelligence: Functionality & Advantages for Smartphones</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/is-it-feasible-to-obtain-custom-exercise-routines-that-are-both-secure-and-productive-via-chatgpt/"><u>Is It Feasible to Obtain Custom Exercise Routines That Are Both Secure and Productive via ChatGPT?</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/is-it-possible-for-chatgpt-to-create-personalized-secure-fitness-routines/"><u>Is It Possible for ChatGPT to Create Personalized, Secure Fitness Routines?</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/mastering-social-media-engagement-strategies-with-chatgpt/"><u>Mastering Social Media Engagement: Strategies with ChatGPT</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/revolutionize-your-workflow-discover-8-key-benefits-of-implementing-chatgpt-vision/"><u>Revolutionize Your Workflow: Discover 8 Key Benefits of Implementing ChatGPT Vision</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/talk-titans-clash-understanding-distinct-chatbot-traits/"><u>Talk Titans Clash: Understanding Distinct Chatbot Traits</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ltimate-guide-to-freely-download-youtube-series-on-mobile/"><u>The Ultimate Guide to Freely Download YouTube Series on Mobile</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/unlock-creative-writing-potential-top-9-ways-to-use-chatgpt-for-your-novel/"><u>Unlock Creative Writing Potential: Top 9 Ways to Use ChatGPT for Your Novel</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/unlocking-digital-success-how-chatgpt-facilitates-your-web-design-journey/"><u>Unlocking Digital Success: How ChatGPT Facilitates Your Web Design Journey</u></a></li>
+<li><a href="https://techtrends.techidaily.com/unveiling-ussd-a-comprehensive-overview-of-unstructured-service-data-technology/"><u>Unveiling USSD: A Comprehensive Overview of Unstructured Service Data Technology</u></a></li>
 </ul></div>
 

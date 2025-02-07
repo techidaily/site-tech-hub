@@ -1,7 +1,7 @@
 ---
 title: "March Release Anticipated: Exploring the Potential Launch of Apple's Upcoming MacBook Air, iPad Pro & iPad Air - Insights From ZDNet"
-date: 2025-01-19T16:42:22.738Z
-updated: 2025-01-25T16:14:46.464Z
+date: 2025-02-05T12:38:18.118Z
+updated: 2025-02-07T05:36:19.947Z
 tags:
   - apple
 categories:
@@ -38,10 +38,6 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Apple Intelligence (AI)
 
 Maria Diaz/ZDNET
@@ -63,6 +59,10 @@ Maria Diaz/ZDNET
 * Apple Intelligence will also upgrade the Photos app with a new **clean-up tool** that removes unwanted objects. **Search in videos** allows users to easily find specific snippets of content, and users can create **Memories** on-demand, using text to edit and organize photos into movies.
 * In the Notes app, users can **record and transcribe audio**, which Apple Intelligence will generate a text summary of. This experience is also available in the Notes phone app.
 * Apple Intelligence is free on iOS 18, iPadOS 18, and MacOS Sequoia, and will be available to try in English only this summer.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Partnership with OpenAI
 
@@ -90,6 +90,10 @@ Adam Breeden/ZDNET
 * The **Safari app** was upgraded to include key information about a webpage. You can read more about the Safari upgrades under the MacOS section of this article.
 * The **Calendar app** can now pull from the Reminders app for a more seamless schedule overview.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## WatchOS 11
 
 Adam Breeden/ZDNET
@@ -115,7 +119,7 @@ Adam Breeden/ZDNET
 * iPadOS 18 supports **screen-sharing via SharePlay** and the same Control Center customizations, Photos app upgrades, Safari updates, and emoji Tapbacks found in **iOS 18.**
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Zgwn5kVI5V4?si=1j6j4OuSSndFieXU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## MacOS 15 (Sequoia)
@@ -128,10 +132,6 @@ Adam Breeden/ZDNET
 * **Video meetings** are also getting an upgrade, with new backgrounds and a preview experience that allows you to see what you are about to share before sharing it. This feature works with popular video conferencing applications such as FaceTime and Zoom.
 * The **AI summarization** tool will live in Safari to help users process content like web pages and articles more efficiently. Safari will also assist users in discovering more helpful information about a page they are browsing when relevant, such as directions.
 * Apple also launched a new **Viewer experience**, which does for video what Reader does for text.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c-BHGGIC0zE?si=FzUQKZa-bx8OlKuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## VisionOS 2
 
@@ -151,7 +151,7 @@ Jason Hiner/ZDNET
 * Apple is also making the Vision Pro available in more countries starting June 28\. You can see the full list [here](https://www.apple.com/newsroom/2024/06/apple-vision-pro-arrives-in-new-countries-and-regions-beginning-june-28/).
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OFDHJnZLwTA?si=WThcb2h76AnZDzcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## AirPods
@@ -163,7 +163,7 @@ Jason Hiner/ZDNET
 * Apple is also releasing a **Personalized Spatial Audio API** for game developers to build around the AirPods' audio technology.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/r_wWybMqZEM?si=0nPjCQDLS2MCaQbG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## tvOS 18
@@ -210,20 +210,18 @@ Screenshot by Nina Raemont/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-cloud.techidaily.com/new-in-2024-essential-retro-filters-to-polish-video-pieces/"><u>[New] In 2024, Essential Retro Filters to Polish Video Pieces</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-creative-conceptions-selecting-the-finest-10-free-macdrawers-for-2024/"><u>[Updated] Creative Conceptions Selecting the Finest 10 FREE MacDrawers for 2024</u></a></li>
-<li><a href="https://tiktok-clips.techidaily.com/updated-get-into-a-friends-live-showcase-effortlessly/"><u>[Updated] Get Into a Friend's Live Showcase Effortlessly</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/chatbot-revolution-for-ubuntu-users-crafting-ai-interactions-via-the-terminal-and-shellgpt-tools/"><u>Chatbot Revolution for Ubuntu Users: Crafting AI Interactions via the Terminal and ShellGPT Tools</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/digital-vigilance-compromised-by-ai-limitations/"><u>Digital Vigilance Compromised by AI Limitations</u></a></li>
-<li><a href="https://techtrends.techidaily.com/discover-the-ultimate-list-of-10-premium-free-email-accounts/"><u>Discover the Ultimate List of 10 Premium Free Email Accounts</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/effortless-conversion-turning-avis-into-gifs-with-filmora-software/"><u>Effortless Conversion Turning AVIs Into GIFs with Filmora Software</u></a></li>
-<li><a href="https://win11.techidaily.com/how-to-use-group-policy-for-msi-service-adjustment/"><u>How to Use Group Policy for MSI Service Adjustment</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/ideal-add-ons-maximizing-chatgpt-in-vs-code-environment/"><u>Ideal Add-Ons: Maximizing ChatGPT in VS Code Environment</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/in-2024-amplify-your-contents-reach-with-optimal-publishing-days/"><u>In 2024, Amplify Your Content's Reach with Optimal Publishing Days</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/language-model-face-off-comparative-insights-into-gpt-and-bert/"><u>Language Model Face-Off: Comparative Insights Into GPT and BERT</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/protect-yourself-from-fake-chatgpt-websites-detection-techniques/"><u>Protect Yourself From Fake ChatGPT Websites: Detection Techniques</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/skeptics-playlist-free-pc-games-reviewed/"><u>Skeptic's Playlist: Free PC Games Reviewed</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/top-12-prominent-honor-magic-5-lite-fingerprint-not-working-solutions-by-drfone-android/"><u>Top 12 Prominent Honor Magic 5 Lite Fingerprint Not Working Solutions</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/top-popular-meme-ideas-for-every-occasion/"><u>Top Popular Meme Ideas for Every Occasion</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-2024-approved-showcasing-8-online-marvels-3d-and-luxurious-text-visuals/"><u>[New] 2024 Approved Showcasing 8 Online Marvels 3D & Luxurious Text Visuals</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/updated-comprehensive-guide-to-microsoft-azure-transcription-service/"><u>[Updated] Comprehensive Guide to Microsoft Azure Transcription Service</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/2024-approved-smiles-snorts-and-sighs-top-10-ig-meme-communities-of-the-decade/"><u>2024 Approved Smiles, Snorts & Sighs Top 10 IG Meme Communities of the Decade</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/are-browser-addons-for-ai-tools-safe/"><u>Are Browser AddOns for AI Tools Safe?</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/bypass-the-ban-on-chatgpt-understanding-and-resolving-4-common-reasons-for-account-lockouts/"><u>Bypass the Ban on ChatGPT: Understanding & Resolving 4 Common Reasons for Account Lockouts</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/exposing-pseudo-authors-detecting-ai-written-pieces/"><u>Exposing Pseudo-Authors: Detecting AI Written Pieces</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/how-to-uncover-and-deal-with-suspicious-chatgpt-phishing-websites/"><u>How to Uncover and Deal with Suspicious ChatGPT Phishing Websites</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-3-methods-to-mirror-vivo-x100-to-roku-drfone-by-drfone-android/"><u>In 2024, 3 Methods to Mirror Vivo X100 to Roku | Dr.fone</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/in-2024-cut-out-facebook-video-2023-edition-mobile-friendly/"><u>In 2024, Cut Out Facebook Video 2023 Edition, Mobile-Friendly</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/the-complete-manual-for-llama-2-installation-at-home/"><u>The Complete Manual for Llama 2 Installation at Home</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/top-budget-routers-evaluated-the-comprehensive-tp-link-archer-c9-review/"><u>Top Budget Routers Evaluated: The Comprehensive TP-Link Archer C9 Review</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-guide-solving-logitech-mouse-scroll-wheel-issues/"><u>Troubleshooting Guide: Solving Logitech Mouse Scroll Wheel Issues</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/understanding-claude-2-a-comprehensive-guide-to-its-functions-and-uses/"><u>Understanding Claude 2: A Comprehensive Guide to Its Functions and Uses</u></a></li>
 </ul></div>
 

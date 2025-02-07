@@ -1,7 +1,7 @@
 ---
 title: Methods for Integrating Multiple eBooks in EPUB Format
-date: 2024-08-20T10:52:12.400Z
-updated: 2024-08-21T10:52:12.400Z
+date: 2025-02-04T10:09:21.753Z
+updated: 2025-02-06T21:20:36.602Z
 categories:
   - epubor
 thumbnail: https://thmb.techidaily.com/ebbfd91fc57bf5ea9818d4e87d8cfd35544a71921ce7ca73b2986ee75e83dd45.jpg
@@ -15,9 +15,11 @@ Posted by [Ada Wang](https://plus.google.com/+AdaWang/posts) on 11/29/2018 5:05:
 
 4.9 [(5 comments)](http://www.epubor.com/#comment-area) 
 
-
-
 ![follow](http://www.epubor.com/images/follow.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 There are a bulk of eBooks in the tablet or eReader. As usual, we try to manage our eBooks collections and classify them into different categories by themes or authors. If you would like to combine these serial fiction segments from the same author, how to merge these files into a single eBook? There is a free EpubMerge plugin for Calibre to help us combine ePub files with Calibre.
 
@@ -40,8 +42,9 @@ Download this tool for free:
 If all required tools are ready, let's try to test the function of EpubMerge plugin.
 
 <!-- affiliate ads begin -->
-<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=27889512&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/728__90.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c-BHGGIC0zE?si=FzUQKZa-bx8OlKuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### How to use the Merger Plugin for Calibre
 
 1Configure Plugins for Calibre
@@ -51,26 +54,28 @@ Navigate to the "Prefernces" in the tools bar menu. Tap a triangle icon next to 
 ![get epub merger and spliter plugins](http://www.epubor.com/images/uppic/get-plugins-to-enhance-Calibre.png)
 
 <!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1596691/17882" target="_top" id="1596691"><img src="//a.impactradius-go.com/display-ad/17882-1596691" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1596691/17882" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 Input the name of Calibre plugins that you would like to install into the "Fliter by name" text box. And you can sort these plugins by clicking the Plugin Name column and locate a couple of the plugins with ease.
 
 ![locate User Plugins](http://www.epubor.com/images/uppic/User-Plugins.png)
 
 <!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 Choose one of these plugins for Calibre and right click the name. Then select "Install" from the drop down list. Go to click "Yes" when the pop-up window will prompt a security risk. In the next step, confirm your preference setting from the pop-up window. Soon after, it will prompt that you should press the "OK" button and restart the calibre to active the merger plugin.
 
 ![set EpubMerge preference](http://www.epubor.com/images/uppic/set-EpubMerge-preference.png)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901410&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix Pro - Software based live production. vMix Pro includes everything in vMix 4K plus 8 channels of Replay and 8 vMix Call 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
-<!-- affiliate ads end -->
 On the other hand, the installation of splitter plugin is the same as the above process. You just select the splitter plugin and repeat the process of installation. When you reopen the Calibre program, you will find two icons in the tool menu bar. If not, please go to "User Plugins" window again. Tap the box next to the "Fliter list of Pugins" icon in the "User Plugin" window and select "Not installed" from the drop down list. Then check out whether you success in installing all of plugins.
 
 ![Install Epub Merger&Spliter Plugin](http://www.epubor.com/images/uppic/Epub-Merger&Spliter-Plugin-Installed.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Tap a triangle icon next to the EpubMerge icon and choose the "Configue Plugin" from the drop down list. It will open the window for some basic configuration options. The default option can help you maintain the metadata in order to restore the original state.
 
@@ -82,10 +87,6 @@ In the next step, it will pop up a window called "Order EPUBs to Merge" to promp
 
 ![edit merged epub](http://www.epubor.com/images/uppic/edit-merger-epub.png)
 
-<!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35504869&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/1_FR-200-1.png" border="0">Glarysoft File Recovery Pro Annually -  Helps to recover your lost file/data, even permanently deleted data. 
-</a>
-<!-- affiliate ads end -->
 When all books are merged, there is a new book in the Calibre library. Now choose the incorporated eBook and right click the name of a book to view. You will find the eBook is made of the pre-merge epub eBooks in order.
 
 ![view merge eBook](http://www.epubor.com/images/uppic/view-merge-eBook.png)
@@ -111,9 +112,6 @@ Related Readings
 
 ![author](https://www.epubor.com/images/uppic/1-22-2013 12-03-06 AM.png)
 
-<!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453720/17020" target="_top" id="1453720"><img src="//a.impactradius-go.com/display-ad/17020-1453720" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453720/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 [Ada Wang](https://plus.google.com/+AdaWang/posts) works for Epubor and writes articles for a collection of blogs such as ebookconverter.blogspot.com.
 
 SHARING IS GREAT!
@@ -121,8 +119,6 @@ SHARING IS GREAT!
 [Tweet](https://twitter.com/share) 
 
 [SAVE PAGE AS PDF](https://tools.techidaily.com/epubor/products/) 
-
-
 
 5 Comments
 
@@ -215,8 +211,6 @@ Leave a comment
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -224,4 +218,24 @@ Leave a comment
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-sure.techidaily.com/ed-2024-approved-find-your-way-to-youtube-studio-a-comprehensive-overview/"><u>[Updated] 2024 Approved Find Your Way to YouTube Studio A Comprehensive Overview</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-maximizing-view-count-for-facebook-videos-for-2024/"><u>[Updated] Maximizing View Count for Facebook Videos for 2024</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/10-leading-4k-displays-for-2024/"><u>10 Leading 4K Displays for 2024</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-next-gen-videostreaming-hubs-triumph-beyond-youtube/"><u>2024 Approved Next-Gen Videostreaming Hubs Triumph Beyond Youtube</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/artificial-intelligence-how-its-transforming-our-perception-of-whats-real-and-unreal/"><u>Artificial Intelligence: How It's Transforming Our Perception Of What's Real And Unreal</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/chatgpt-as-a-virtual-mixologist-how-effective-is-it/"><u>ChatGPT as a Virtual Mixologist: How Effective Is It?</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/choosing-your-chatbot-companion-key-factors-to-note/"><u>Choosing Your Chatbot Companion: Key Factors to Note</u></a></li>
+<li><a href="https://location-social.techidaily.com/does-motorola-edge-40-pro-have-find-my-friends-drfone-by-drfone-virtual-android/"><u>Does Motorola Edge 40 Pro Have Find My Friends? | Dr.fone</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/elevate-your-workflow-auto-gpt-on-ubuntu/"><u>Elevate Your Workflow: Auto-GPT on Ubuntu</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/exploring-the-innovations-that-make-ios-stand-out-for-gpt/"><u>Exploring the Innovations that Make iOS Stand Out for GPT</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/inside-teslas-labyrits-new-gpt-uncovered/"><u>Inside Tesla's Labyrits: New GPT Uncovered</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/overcoming-maximum-load-limit-fixing-the-chatgpt-capacity-problem-in-windows/"><u>Overcoming Maximum Load Limit: Fixing the ChatGPT Capacity Problem in Windows</u></a></li>
+<li><a href="https://extra-information.techidaily.com/pinnacle-creation-hub-synopsis-studio-assessment-2023/"><u>Pinnacle Creation Hub Synopsis, Studio Assessment 2023</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/pioneering-video-editing-techniques-for-windows-10-aficionados-for-2024/"><u>Pioneering Video Editing Techniques for Windows 10 Aficionados for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/techniques-for-resolving-blue-screen-error-interrupt-not-handled/"><u>Techniques for Resolving Blue Screen Error: Interrupt Not Handled</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/the-ai-labor-market-disruption/"><u>The AI Labor Market Disruption</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/the-top-6-dangers-of-over-reliance-on-ai-why-caution-matters/"><u>The Top 6 Dangers of Over-Reliance on AI: Why Caution Matters</u></a></li>
+</ul></div>
 
