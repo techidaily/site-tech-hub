@@ -1,7 +1,7 @@
 ---
 title: Tactics for Unmasking Fake Bots in ChatGPT Exchange
-date: 2024-08-15T22:04:54.242Z
-updated: 2024-08-16T22:04:54.242Z
+date: 2025-02-11T21:46:02.734Z
+updated: 2025-02-16T16:48:23.227Z
 tags:
   - chatgpt
   - open-ai
@@ -25,15 +25,16 @@ thumbnail: https://thmb.techidaily.com/1fdd114ea2128db4bd4159430bbc025b3427dd9f8
 
  Here’s a list of malicious ChatGPT-themed domains and apps that you need to be aware of.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. chat-gpt-pc.online
 
  Security researchers at Cyble Research and Intelligence Labs (CRIL) uncovered cybercriminals using the domain "chat-gpt-pc.online" to attract unsuspecting users into downloading a supposed ChatGPT Windows desktop client. This client, however, contained the RedLine [info-stealing malware](https://www.makeuseof.com/what-is-an-infostealer/).
 
  The cybercriminals used a Facebook page impersonating OpenAI, complete with official ChatGPT logos, to redirect unsuspecting users to the malicious site.
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2027209/17108" target="_top" id="2027209"><img src="//a.impactradius-go.com/display-ad/17108-2027209" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2027209/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 2\. openai-pc-pro.online
 
  The experts at CRIL also discovered an unidentified malware strain being distributed through the domain “openai-pc-pro.online,” a malicious domain posing as the official ChatGPT website.
@@ -42,9 +43,6 @@ thumbnail: https://thmb.techidaily.com/1fdd114ea2128db4bd4159430bbc025b3427dd9f8
 
  The suspicious domain directs users to a fake OpenAI website resembling the official one. The site features a “DOWNLOAD FOR WINDOWS” button, which, when clicked, downloads an executable file containing data-stealing malware.
 
-<!-- affiliate ads begin -->
-<a href="https://store.iobit.com/order/checkout.php?PRODS=4596923&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_468X60.png" border="0"></a>
-<!-- affiliate ads end -->
 ## 3\. chat-gpt-pc.online
 
  ChatGPT AI, the fake ChatGPT Facebook page, also features posts that include links to “chat-gpt-pc.online,” another domain that redirects users to a malicious ChatGPT-themed website.
@@ -53,14 +51,19 @@ thumbnail: https://thmb.techidaily.com/1fdd114ea2128db4bd4159430bbc025b3427dd9f8
 
  The domain “chatgpt-go.online” leads users to a website that’s a clone of the official ChatGPT website. The copy-pasted site, however, swaps the “TRY CHATGPT” button link with malicious links containing Lumma Stealer. The domain also hosts different kinds of malicious files, including clipper malware and Aurora stealer.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fJlICvacgJY?si=jNeijBVj7ia4ammA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 5\. pay.chatgptftw.com
 
 ![pay.chatgptftw.com's payment page](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/pay-chatgptftw-com.jpg)
-<!-- affiliate ads begin -->
-<a href="https://bluettieu.pxf.io/c/5597632/2042323/17091" target="_top" id="2042323"><img src="//a.impactradius-go.com/display-ad/17091-2042323" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="3840" height="1600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042323/17091" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Cybercriminals also use ChatGPT-themed payment pages for financial fraud. For example, on the domain “pay.chatgptftw.com,” Cyble came across a page designed to steal credit card details. This webpage poses as a genuine payment page for ChatGPT Plus.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/r_wWybMqZEM?si=0nPjCQDLS2MCaQbG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 6\. ChatGPT1
 
@@ -71,17 +74,18 @@ thumbnail: https://thmb.techidaily.com/1fdd114ea2128db4bd4159430bbc025b3427dd9f8
  “AI Photo” is another app that uses the ChatGPT icon, but is malicious in intent. This app was found to harbor the SpyNote malware, capable of stealing device files, contact lists, call logs, and text messages.
 
 <!-- affiliate ads begin -->
-<a href="https://modlily.sjv.io/c/5597632/2072819/17059" target="_top" id="2072819"><img src="//a.impactradius-go.com/display-ad/17059-2072819" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072819/17059" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 8\. Meterpreter Posing as “SuperGPT” App
 
 ![The official SuperGPT's install page on Google Play](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/supergpt.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901410&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix Pro - Software based live production. vMix Pro includes everything in vMix 4K plus 8 channels of Replay and 8 vMix Call 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
-<!-- affiliate ads end -->
 
  SuperGPT is an AI assistant app built on ChatGPT. However, researchers from Unit 42 uncovered a malicious APK sample posing as the app. This fake “SuperGPT” is a Meterpreter Trojan, [a RAT that enables remote access](https://www.makeuseof.com/android-remote-access-trojan/) of Android devices.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 9\. Trojan-PSW.Win64.Fobo
 
@@ -93,9 +97,6 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 
  Upon extracting the archive and running the file, you may or may not receive an installation failure message. In either case, the Trojan is installed.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2067133&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/gcb/banScrn.jpg" border="0">Greeting Card Builder</a>
-<!-- affiliate ads end -->
 ## Protect Yourself From Malicious ChatGPT-Themed Apps
 
  Malicious actors are using ChatGPT-themed mobile apps and desktop clients to spread malware on computing devices. These apps often pose as free versions of premium ChatGPT and are commonly promoted through social media and email campaigns.
@@ -108,14 +109,11 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 
  Here’s a list of malicious ChatGPT-themed domains and apps that you need to be aware of.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -124,4 +122,22 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://tech-hub.techidaily.com/critical-list-of-leading-artificial-intelligence-apps-for-notetaking/"><u>Critical List of Leading Artificial Intelligence Apps for Notetaking</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/cing-constructive-feedback-ignoring-the-rest-for-2024/"><u>Embracing Constructive Feedback, Ignoring the Rest for 2024</u></a></li>
+<li><a href="https://discover-exceptional.techidaily.com/exploring-the-benefits-of-cryptocurrency-vs-conventional-money-insights-by-yl-computing/"><u>Exploring the Benefits of Cryptocurrency Vs. Conventional Money: Insights by YL Computing</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/go-premium-or-go-free-discover-why-you-should-still-consider-chatgpt-plus-with-gpt-4s-release/"><u>Go Premium or Go Free? Discover Why You Should Still Consider ChatGPT Plus with GPT- 4'S Release</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/hdrs-edge-pushing-video-production-to-new-heights/"><u>HDR's Edge Pushing Video Production to New Heights</u></a></li>
+<li><a href="https://techidaily.com/how-to-transfer-data-from-apple-iphone-12-to-androidios-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From Apple iPhone 12 To Android/iOS? | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-solutions-to-spy-on-honor-magic-6-lite-with-and-without-jailbreak-drfone-by-drfone-virtual-android/"><u>In 2024, Solutions to Spy on Honor Magic 6 Lite with and without jailbreak | Dr.fone</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/is-it-possible-to-learn-healthy-cooking-skills-from-chatgpt/"><u>Is It Possible to Learn Healthy Cooking Skills From ChatGPT?</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/masterful-date-trackers-for-android-and-ios-wedding-planners/"><u>Masterful Date-Trackers for Android and iOS Wedding Planners</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/mastering-mathematics-with-these-7-ai-tools-solve-complex-equations-easily/"><u>Mastering Mathematics with These 7 AI Tools - Solve Complex Equations Easily</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/mastering-the-art-of-generating-ai-visuals-with-chatgpt-a-step-by-bstep-guide/"><u>Mastering the Art of Generating AI Visuals with ChatGPT: A Step-by-BStep Guide</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/97206058-spark-creativity-with-costless-auditory-extras/"><u>Spark Creativity with Costless Auditory Extras</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/streaming-success-recorded-google-chats-for-2024/"><u>Streaming Success Recorded Google Chats for 2024</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/uncovering-grok-ai-with-elon-what-it-means-and-how-much-it-costs/"><u>Uncovering Grok AI with Elon: What It Means & How Much It Costs</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/why-ai-cant-replace-experts-in-coin-analysis/"><u>Why AI Can't Replace Experts in Coin Analysis</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Should We Treat AI Personalities Such as ChatGPT, Amazon's Alexa, and Apple's Siri With Politeness?
-date: 2024-08-15T22:07:16.916Z
-updated: 2024-08-16T22:07:16.916Z
+date: 2025-02-14T22:52:45.169Z
+updated: 2025-02-16T17:23:35.365Z
 tags:
   - chatgpt
   - open-ai
@@ -19,9 +19,17 @@ thumbnail: https://thmb.techidaily.com/6a865e452463a91a0991eeba9d7367cf47a6e9f95
 
  Like any technology, ChatGPT can be used for nefarious reasons. Hackers, for instance, can use it to create malicious content, like writing phony email messages to get access to your PC or even your bank account.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## ChatGPT Can Help Cybercriminals Hack Your PC
 
 ![Laptop with chatgpt site on screen](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/laptop-with-chatgpt-site-on-screen.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Hackers, including script kiddies, can[use ChatGPT to create new malware](https://www.makeuseof.com/can-chatgpt-be-used-malware-creation/) or improve existing ones. Some cybercriminals already use the chatbot, especially its earlier versions, to write code they claim can encrypt files.
 
@@ -34,14 +42,15 @@ thumbnail: https://thmb.techidaily.com/6a865e452463a91a0991eeba9d7367cf47a6e9f95
  In a separate incident, the researchers prompted ChatGPT to generate malicious VBA code that could be implanted into a Microsoft Excel file that would infect your PC if opened; it successfully did. Plus, there are claims that ChatGPT can code malicious software capable of spying on your keyboard strokes.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-spreadsheet-free-excel-editor-online-offline-1x.93e269d.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Can ChatGPT Hack Your Bank Account?
 
 ![An illustration of a customer service chatbot](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/customer-service.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://store.absolute.com/order/checkout.php?PRODS=4601998&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/ef70e26a0b5da778eda3f48014d087cd/728x90_larger-shield.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Many data breaches start with[a successful phishing attack](http://www.makeuseof.com/what-is-phishing/) . Phishing attacks often involve a malicious actor sending a recipient an email that contains legitimate-looking documents or links, which, when clicked on, can install malware on their device. In this way, code from ChatGPT doesn't need to hack your bank account directly. Someone only needs to use ChatGPT to help them trick you into giving them access.
@@ -57,8 +66,9 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
  Another kind of phishing attack involving the use of ChatGPT is where a hacker creates a fake account on a popular chat platform like Discord and pretends to be a customer representative. The fake customer rep then contacts customers who have posted concerns and offers help. If a user falls for the trap, the cybercriminal will redirect them to a bogus website that tricks them into sharing personal information, like their bank login details.
 
 <!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793237/19578" target="_top" id="1793237"><img src="//a.impactradius-go.com/display-ad/19578-1793237" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793237/19578" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Hpne0zPsZwU?si=yN5QDsG_WLb_Y3u-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Protect Your PC and Bank Account in the AI-Era
 
  ChatGPT is a powerful and valuable tool that can answer many questions you throw its way. But the chatbot can also be used for malicious purposes, like generating phishing messages and creating malware.
@@ -67,14 +77,11 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 
  To minimize the potential dangers of AI chatbots, it’s crucial to know their potential risks and the best possible security measures to protect yourself from hackers.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -83,4 +90,26 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-data.techidaily.com/ed-achieve-perfect-views-with-aspect-ratio-knowledge-on-youtube-for-2024/"><u>[Updated] Achieve Perfect Views with Aspect Ratio Knowledge on YOUTUBE for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-swift-shadowing-in-1-minute/"><u>[Updated] Swift Shadowing in 1 Minute</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/2024-approved-authoritative-sourcebook-no-cost-limitless-pictures/"><u>2024 Approved Authoritative Sourcebook No Cost, Limitless Pictures</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/dont-mix-them-up-exploring-what-sets-siri-aside-from-chatgpt/"><u>Don't Mix Them Up! Exploring What Sets Siri Aside From ChatGPT.</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/expert-evaluation-the-how-to-geek-guide-to-thoroughly-assessing-tech-gadgets/"><u>Expert Evaluation: The How-To Geek Guide to Thoroughly Assessing Tech Gadgets</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/exploring-the-functionality-of-predictive-artificial-intelligence-systems/"><u>Exploring the Functionality of Predictive Artificial Intelligence Systems</u></a></li>
+<li><a href="https://games-able.techidaily.com/fixing-steams-reacquired-content-failure-message/"><u>Fixing Steam's Reacquired Content Failure Message</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/free-entry-to-ai-mastery-with-these-5-gpt-4-strategies/"><u>Free Entry to AI Mastery with These 5 GPT-4 Strategies</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/in-the-arena-of-ideas-notion-vs-chatgpts-content-crusade/"><u>In the Arena of Ideas: Notion Vs. ChatGPT's Content Crusade</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/inside-truthgpt-revelations-and-insights-police-investigation-at-mullvad-vpn-topno-logo-free-gaming-on-pcs-demystifying-mechanical-keyboard-tech/"><u>Inside TruthGPT: Revelations & Insights | Police Investigation at Mullvad VPN | Topno Logo-Free Gaming on PCs | Demystifying Mechanical Keyboard Tech</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/mastering-chatgpt-without-an-openai-account-essential-tips-and-tricks/"><u>Mastering ChatGPT Without an OpenAI Account: Essential Tips and Tricks</u></a></li>
+<li><a href="https://os-tips.techidaily.com/quick-fixes-for-your-non-charging-iphone-effortless-solutions/"><u>Quick Fixes for Your Non-Charging iPhone: Effortless Solutions</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/reach-new-heights-of-conversational-ai-in-chrome-with-these-extensions/"><u>Reach New Heights of Conversational AI in Chrome with These Extensions</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/saving-chatbot-dialogues-a-step-by-step-tutorial-on-storing-chatgpt-interactions/"><u>Saving Chatbot Dialogues: A Step-by-Step Tutorial on Storing ChatGPT Interactions</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/solving-tablet-charging-problems-what-if-the-device-says-fully-charged-but-wont-turn-on/"><u>Solving Tablet Charging Problems: What If the Device Says Fully Charged But Won't Turn On?</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/tech-enthusiast-dream-home-24-million-texas-estate-showcases-integrated-5786-square-foot-data-centre-with-cutting-edge-full-liquid-cooling-system-living-qua10/"><u>Tech Enthusiast Dream Home: $2.4 Million Texas Estate Showcases Integrated 5,786 Square Foot Data Centre with Cutting-Edge Full Liquid Cooling System – Living Quarters Omitted</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/the-future-of-personalized-health-top-7-reasons-with-chatgpt/"><u>The Future of Personalized Health: Top 7 Reasons with ChatGPT</u></a></li>
+<li><a href="https://app-tips.techidaily.com/top-reviews-of-gpt-based-chat-ais-what-you-need-to-discover/"><u>Top Reviews of GPT-Based Chat AIs: What You Need to Discover</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/windows-10-bluetooth-troubleshooting-tips-for-smooth-device-connection-guide/"><u>Windows 10 Bluetooth Troubleshooting Tips for Smooth Device Connection (Guide)</u></a></li>
+</ul></div>
 

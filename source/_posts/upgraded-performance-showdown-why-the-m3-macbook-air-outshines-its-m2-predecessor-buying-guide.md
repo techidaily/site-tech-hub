@@ -1,7 +1,7 @@
 ---
 title: "Upgraded Performance Showdown: Why the M3 MacBook Air Outshines Its M2 Predecessor | Buying Guide"
-date: 2025-01-05T03:33:02.704Z
-updated: 2025-01-06T19:29:38.913Z
+date: 2025-02-13T00:44:54.999Z
+updated: 2025-02-16T20:25:14.363Z
 tags:
   - apple
 categories:
@@ -29,7 +29,7 @@ But if you have the M1 MacBook Pro, the question of upgrading becomes a little t
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DEqoiNArwjQ?si=oaL_lgnI-RxY5Qy_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Specifications
@@ -50,13 +50,13 @@ But if you have the M1 MacBook Pro, the question of upgrading becomes a little t
 
 ---
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=EdMRoNAFi0Q6mP7G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##  You should buy the M1 MacBook Pro if...
 
 Jason Cipriani/ZDNET
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ###  1\. You need more battery life
 
@@ -67,7 +67,7 @@ While you might expect the newest device to have the [better battery life](https
 Now, it's worth noting that most people do use their MacBooks plugged in, and going more than half a day without access to an outlet is pretty rare. But, in the event that you often find yourself in situations where a power supply isn't readily available and you work very long days, the M1 should be your choice. This is, of course, by Apple's numbers.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ###  2\. You're doing mostly web-based work or don't need the absolute fastest option
@@ -86,10 +86,6 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 
 [See all](https://www.zdnet.com/newsletters/)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ###  3\. You prefer a smaller overall size and touch bar
 
 The M1 and M2 versions of the MacBook Pro had a 13-inch option, but that choice is missing from the M3\. So, if you prefer a smaller layout for your MacBook, you'll want to look to the M1\. Perhaps the bigger loss here, though, is the [touch bar](https://www.zdnet.com/article/apple-finally-admits-it-made-a-mistake-and-backtracks-on-three-foolish-macbook-pro-design-decisions/), which is no longer available on any M3 model. While most people weren't fans of the touch bar, which was essentially an OLED strip of buttons that changed depending on context, it still had its core users. Are you one of them?
@@ -106,10 +102,6 @@ Jason Hiner/ZDNET
 
 One of the biggest differences between the M1 and the M3 is the overall brightness. For SDR content, the M1 tops out at 500 nits while the M3 triples that with 1,600 nits. In a standard office environment, the former would be just fine. But in a sunny outdoor environment or a very bright indoor setting, this is going to be a noticeable difference. There are some third-party apps that let you increase the screen brightness of the M1, but if you want the best brightness, you'll need to get the newest device.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ###  2\. You're doing very intensive or time-sensitive tasks
 
 While there's very little the M3 can do that the M1 just can't, the biggest difference comes down to how fast those tasks take. Finds 's [full review](https://www.zdnet.com/article/macbook-pro-m3-max-review/) suggest the M3 renders at more than twice the speed of the M1, which is crucial for users in more content creation occupations. 
@@ -118,11 +110,19 @@ While there's very little the M3 can do that the M1 just can't, the biggest diff
 
 If you're working in a very fast-paced environment (say, live sports or entertainment) and seconds make the difference, it might be worth springing for the M3\. Of course, you'll likely only notice the performance difference when dealing with high-end graphics and video. But power users will be right at home with the M3.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ###  3\. You want a new-conditioned laptop
 
 It's been almost three years since Apple launched its M1-powered systems, so the chances of you finding one in brand-new condition today are rare. Instead, the fresher MacBook Pro with M3 chip is guaranteed to be available at your local Apple store, third-party retailers, and more. You can also expect [better deals on the M3 model](https://www.zdnet.com/article/buy-a-new-macbook-pro-with-m3-pro-chip-for-200-off-right-now/) going into the holiday shopping season. For the M1, it's buying a second-hand device or keeping your fingers crossed that somewhere on the internet is still selling one in pristine condition.
 
 [Buy the MacBook Pro M3 View now at Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FApple-MacBook-Laptop-8%E2%80%91core-10%E2%80%91core%2Fdp%2FB0CM5KC8X7%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Caa003a5d-2fbe-4f3c-aafd-87bf6b8f53fe%7Cdtp&dtb=1)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Alternatives to consider
 
@@ -158,14 +158,24 @@ It's been almost three years since Apple launched its M1-powered systems, so the
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-links.techidaily.com/new-in-2024-capturing-the-best-on-iphone-8-techniques-for-pro-video-shoots/"><u>[New] In 2024, Capturing the Best on iPhone 8 Techniques for Pro Video Shoots</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/updated-2024-approved-social-media-sensation-making-your-vids-pop/"><u>[Updated] 2024 Approved Social Media Sensation Making Your Vids Pop</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/between-chatgpt-and-claude-ai-determining-the-best-in-bot-dialogue-mastery/"><u>Between ChatGPT and Claude AI: Determining the Best in Bot Dialogue Mastery</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/decoding-the-worth-of-elite-ai-assistance-costs/"><u>Decoding the Worth of Elite AI Assistance Costs</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/exploring-corporate-benefits-of-gpt-technology/"><u>Exploring Corporate Benefits of GPT Technology</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/in-2024-vector-journey-start-categories-tools-and-initial-steps/"><u>In 2024, Vector Journey Start Categories, Tools, & Initial Steps</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/izing-subscribers-youtubes-expansion-blueprint-for-2024/"><u>Maximizing Subscribers YouTube's Expansion Blueprint for 2024</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/unveiling-the-quick-climb-top-5-chatgpt-accelerators/"><u>Unveiling the Quick Climb: Top 5 ChatGPT Accelerators</u></a></li>
-<li><a href="https://meme-emoji.techidaily.com/updated-2024-approved-top-6-animated-emoji-video-effects/"><u>Updated 2024 Approved Top 6 Animated Emoji Video Effects</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-in-2024-clarity-in-cinema-in-depth-review-of-lgs-digital-display-the-4k-monitor-31mu97-b/"><u>[New] In 2024, Clarity in Cinema - In-Depth Review of LG's Digital Display, The 4K Monitor 31MU97-B</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-streamlining-your-websites-visual-content-via-cropping-for-2024/"><u>[New] Streamlining Your Website's Visual Content via Cropping for 2024</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-2024-approved-flawlessly-merged-the-linkage-of-instagram-and-tiktok/"><u>[Updated] 2024 Approved Flawlessly Merged The Linkage of Instagram & TikTok</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-2024-approved-how-much-footage-does-instagram-allow/"><u>[Updated] 2024 Approved How Much Footage Does Instagram Allow?</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-in-2024-horizontal-vs-vertical-deciding-the-right-face-for-vids/"><u>[Updated] In 2024, Horizontal Vs. Vertical - Deciding the Right Face for Vids</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/2024-approved-capturing-motion-with-gopro-time-lapse-techniques/"><u>2024 Approved Capturing Motion with GoPro Time-Lapse Techniques</u></a></li>
+<li><a href="https://games-able.techidaily.com/boost-your-gamerscore-with-steams-achievement-toolkit/"><u>Boost Your Gamerscore with Steam's Achievement Toolkit</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/discover-the-best-chatgpt-extensions-for-fitness-and-self-care-success/"><u>Discover the Best ChatGPT Extensions for Fitness & Self-Care Success</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/effective-strategies-for-verifying-health-data-using-chatgpt-and-artificial-intelligence/"><u>Effective Strategies for Verifying Health Data Using ChatGPT & Artificial Intelligence</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/effective-strategies-crafting-youtube-scripts-with-chatgpt/"><u>Effective Strategies: Crafting YouTube Scripts with ChatGPT</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/enhance-ai-responses-top-5-techniques-for-crafting-powerful-chatgpt-prompts/"><u>Enhance AI Responses: Top 5 Techniques for Crafting Powerful ChatGPT Prompts</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/evaluating-the-safety-of-chatgpt-understanding-6-potential-cybersecurity-threats/"><u>Evaluating the Safety of ChatGPT: Understanding 6 Potential Cybersecurity Threats</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/gpt-3-vs-translate-best-at-language-conversion/"><u>GPT-3 Vs. Translate: Best at Language Conversion?</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/how-governing-bodies-can-manage-and-supervise-emerging-ai-tools-4-key-approaches/"><u>How Governing Bodies Can Manage and Supervise Emerging AI Tools: 4 Key Approaches</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/how-to-discern-legitimate-chatbot-ios-programs/"><u>How to Discern Legitimate ChatBot iOS Programs</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/improve-responses-quickly-7-dynamic-techniques-for-gpt-optimization/"><u>Improve Responses Quickly: 7 Dynamic Techniques for GPT Optimization</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-stop-my-spouse-from-spying-on-my-xiaomi-14-ultra-drfone-by-drfone-virtual-android/"><u>In 2024, How to Stop My Spouse from Spying on My Xiaomi 14 Ultra | Dr.fone</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-unmatched-quick-windows-picture-browser/"><u>In 2024, Unmatched Quick Windows Picture Browser</u></a></li>
+<li><a href="https://facebook.techidaily.com/tailoring-your-digital-footprint-eliminating-unwanted-social-media-advertising/"><u>Tailoring Your Digital Footprint: Eliminating Unwanted Social Media Advertising</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: The Goals and Achievements Behind Google's Innovative Project Gemini
-date: 2024-08-15T22:06:06.581Z
-updated: 2024-08-16T22:06:06.581Z
+date: 2025-02-09T21:18:37.652Z
+updated: 2025-02-16T19:33:28.167Z
 tags:
   - chatgpt
   - open-ai
@@ -30,31 +30,33 @@ thumbnail: https://thmb.techidaily.com/46c850237c04863ff656e578f32b008a00b71b463
 ## 2\. Multilingual Capabilities
 
 ![Different language dictionaries](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/07/Different-language-dictionaries.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/300__250banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 
  PaLM 2 will expand the multilingual capabilities of Bard AI, making it perform well with multilingual tasks, as it is being trained with diverse texts from over 100 languages.
 
  So Bard AI will be able to understand and, in turn, generate text in several languages from different parts of the world, including underrepresented languages on the internet. In addition, the AI chatbot can also understand more nuanced forms of language, like poems, proverbs, and riddles, than in its older versions.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6X24fPKs6AE?si=YtQy-8zy7GifgfA7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 3\. Better Logic and Reasoning
 
 ![thinking man sitting on chair](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/thinking-man-sitting-on-chair.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 [Large language models](https://www.makeuseof.com/what-are-large-langauge-models-how-do-they-work/) emphasize language, which is why computing mathematical questions and queries can be challenging. They need to use third-party plugins to circumvent this challenge.
 
  However, the PaLM 2 model will better adapt to mathematics, logic, and common sense reasoning. Google developed the model using many science and math texts, including mathematical expressions. Therefore, PaLM 2 will not only solve mathematical problems easily but also reason through the puzzles and offer appropriate diagram illustrations.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698832&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/karaoki-new-searchresultspane.jpg" border="0">PCDJ Karaoki is the complete professional karaoke software designed for KJs and karaoke venues. Karaoki includes an advanced automatic singer rotation list with singer history, key control, news ticker, next singers screen, a song book exporter and printer, a jukebox background music player and many other features designed so you can host karaoke shows faster and easier! 
- PCDJ Karaoki (WINDOWS ONLY Professional Karaoke Software - 3 Activations)</a>
-<!-- affiliate ads end -->
 ## 4\. Med-PaLM 2
 
 ![Medical Doctor Texting on a Smartphone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/doctor.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Med-PaLM 2 is a specialized medical LLM model that focuses on medical knowledge. This version is trained and equipped with massive medical texts, including journals, textbooks, clinical notes, and patient records.
@@ -64,9 +66,6 @@ thumbnail: https://thmb.techidaily.com/46c850237c04863ff656e578f32b008a00b71b463
 ## 5\. Sec-PaLM 2
 
 ![a padlock on a computer keyboard](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/computer-and-web-security-lock.jpg)
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826"><img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Besides Med-PaLM 2, there's Sec-PaLM 2, dedicated to security applications. This AI tool is designed to detect security threats.
 
@@ -74,9 +73,6 @@ thumbnail: https://thmb.techidaily.com/46c850237c04863ff656e578f32b008a00b71b463
 
  With this, it can understand and generate security-related text and code in different languages and formats.
 
-<!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453721/17020" target="_top" id="1453721"><img src="//a.impactradius-go.com/display-ad/17020-1453721" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453721/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 6\. Third-Party Extension Support
 
 ![Adobe apps on a MacBook Pro](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/adobe-apps-on-a-macbook-pro.jpg)
@@ -85,31 +81,33 @@ thumbnail: https://thmb.techidaily.com/46c850237c04863ff656e578f32b008a00b71b463
 
  Furthermore, Bard can connect to its other company products like Search and Maps. Google Maps will use the AI upgrade to provide immersive views of routes, including landmarks. Google Search will also receive an AI upgrade, enabling it to respond directly to search queries in an interactive, conversational manner.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 7\. Workspace
 
 ![Google Docs logo on laptop screen](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/07/Google-Docs-Logo.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Another key area the company plans to upgrade Bard with PaLM 2 is the "Workspace AI collaborator." PaLM 2 will feature on the company's full product range—in Cloud, Colab, Meet, Docs, Maps, Sheets, and others.
 
  The process will become even more seamless as Google promises upgrades for exporting data. You can write codes with Bard and export them into Replit or Google Colab.
 
-<!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1611407/17882" target="_top" id="1611407"><img src="//a.impactradius-go.com/display-ad/17882-1611407" border="0" alt="" width="300" height="485"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1611407/17882" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## PaLM 2 WIll Revolutionize Google Bard
 
  PaLM 2 LLM has provided Google with an appropriate response to Microsoft's Bing search engine and OpenAI's ever-popular ChatGPT. The new upgrades to Bard will not only give you better satisfaction but provide you with increased safety across Google products.
 
  So keep your eyes open to see how these new upgrades to Bing AI will perform in the near future.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -118,4 +116,24 @@ thumbnail: https://thmb.techidaily.com/46c850237c04863ff656e578f32b008a00b71b463
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-http.techidaily.com/new-2024-approved-audio-harmony-seekers-perfecting-video-moods/"><u>[New] 2024 Approved Audio Harmony Seekers Perfecting Video Moods</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-2024-approved-how-to-downloadsave-instagram-photosvideos-on-iphone/"><u>[New] 2024 Approved How to Download/Save Instagram Photos/Videos on iPhone</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-in-2024-enchanted-frame-rate-reduction-tricks/"><u>[Updated] In 2024, Enchanted Frame Rate Reduction Tricks</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-instagrams-blueprint-for-building-a-profitable-presence/"><u>[Updated] Instagram's Blueprint for Building a Profitable Presence</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-expert-selections-unveiling-the-top-5-professional-drones/"><u>2024 Approved Expert Selections Unveiling the Top 5 Professional Drones</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/can-you-safely-connect-to-chatgpt-through-a-virtual-private-network/"><u>Can You Safely Connect to ChatGPT Through a Virtual Private Network?</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/discover-privacy-focused-chatting-using-duckduckgos-ai-platform-expand-beyond-chatgpt/"><u>Discover Privacy-Focused Chatting Using DuckDuckGo's AI Platform: Expand Beyond ChatGPT</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/experience-increased-output-how-chatgpt-can-revolutionize-your-daily-job-routine/"><u>Experience Increased Output: How ChatGPT Can Revolutionize Your Daily Job Routine</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/exploring-the-boundaries-of-ai-deciphering-elon-musks-revolutionary-truthgpt-endeavor/"><u>Exploring the Boundaries of AI: Deciphering Elon Musk's Revolutionary TruthGPT Endeavor</u></a></li>
+<li><a href="https://article-tips.techidaily.com/exploring-the-ins-and-outs-of-quantum-hdr/"><u>Exploring the Ins and Outs of Quantum HDR</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/in-2024-navigating-live-streams-on-youtube-and-twitch-with-ease-via-obs/"><u>In 2024, Navigating Live Streams on YouTube & Twitch with Ease via OBS</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/is-courtesy-essential-when-interacting-with-voice-assistants-like-chatgpt-alexa-and-siri/"><u>Is Courtesy Essential When Interacting with Voice Assistants Like ChatGPT, Alexa, and Siri?</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/is-it-beneficial-to-use-auto-gpt-on-its-own-or-do-you-need-gpt-evolved/"><u>Is It Beneficial to Use Auto-GPT on Its Own, or Do You Need GPT-Evolved?</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/mastering-the-machine-age-essential-techniques-for-thriving-where-artificial-intelligence-reigns/"><u>Mastering the Machine Age: Essential Techniques for Thriving Where Artificial Intelligence Reigns</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/overcome-dead-pixels-on-displays/"><u>Overcome Dead-Pixels on Displays</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/transform-your-productivity-the-power-of-chatgpt-in-the-office/"><u>Transform Your Productivity: The Power of ChatGPT in the Office</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unleash-potential-explore-the-best-9-gpt-plugins-now/"><u>Unleash Potential: Explore the Best 9 GPT Plugins Now</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "MacBook Air Face-Off: The New M3 Chip Against the Beloved M2 – Which One Wins? | ZDNET Exclusive"
-date: 2025-01-04T22:29:15.409Z
-updated: 2025-01-07T04:25:19.180Z
+date: 2025-02-13T18:19:07.930Z
+updated: 2025-02-16T20:20:41.100Z
 tags:
   - apple
 categories:
@@ -42,7 +42,7 @@ At $649, this is the lowest price for the M1 version of the MacBook Air that we'
 The [M1 MacBook Air](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fmacbook-air-13-3-laptop-apple-m1-chip-8gb-memory-256gb-ssd-space-gray-space-gray%2F5721600.p%3FskuId%3D5721600&publisher_slug=itechdaily19598&exclusive=1) first retailed for $999 when it was released, but Apple sells refurbished versions for $799, making these deals even better than anything Apple is offering. The [M1 MacBook Air](https://goto.walmart.com/c/5597632/565706/9383?sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.walmart.com%2Fip%2FApple-MacBook-Air-13-3-inch-Laptop-Silver-M1-Chip-8GB-RAM-256GB-storage%2F609040889&subId1=zd-__COM_CLICK_ID__-dtp) is available in three different colors: gold, space gray, and silver. Snag these savings while you can. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1rCjQ09iG7s?si=Si1fUBric8MH1VHI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## When will this deal expire?
@@ -81,16 +81,21 @@ However, deals are subject to sell out or expire at any time, though ZDNET remai
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://tiktok-video-files.techidaily.com/new-in-2024-master-the-art-of-rapid-tiktok-videos/"><u>[New] In 2024, Master the Art of Rapid TikTok Videos</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/beyond-basic-discovering-pros-and-cons-of-chatgpt-plus/"><u>Beyond Basic - Discovering Pros and Cons of ChatGPT Plus</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/fixing-csgo-start-problems-on-w11/"><u>Fixing CS:GO Start Problems on W11</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/how-to-use-zoom-in-gmail-for-2024/"><u>How to Use Zoom in Gmail for 2024</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-iphone-is-disabled-here-is-the-way-to-unlock-disabled-apple-iphone-12-mini-by-drfone-ios/"><u>In 2024, iPhone Is Disabled? Here Is The Way To Unlock Disabled Apple iPhone 12 mini</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/making-ai-mirror-your-writing-flair-with-chatgpt-customization-tips/"><u>Making AI Mirror Your Writing Flair with ChatGPT Customization Tips</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/swiftly-implementing-codegpt-for-code-development-on-vs-code/"><u>Swiftly Implementing CodeGPT for Code Development on VS Code</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/the-next-gen-hackers-tracking-7-emerging-trends/"><u>The Next-Gen Hackers: Tracking 7 Emerging Trends</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/the-ultimate-key-to-exploring-without-boundaries-through-vr/"><u>The Ultimate Key to Exploring Without Boundaries Through VR</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/three-ways-to-sim-unlock-honor-magic-6-by-drfone-android/"><u>Three Ways to Sim Unlock Honor Magic 6</u></a></li>
-<li><a href="https://fake-location.techidaily.com/what-are-location-permissions-life360-on-vivo-x100-pro-drfone-by-drfone-virtual-android/"><u>What are Location Permissions Life360 On Vivo X100 Pro? | Dr.fone</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ecome-a-viral-sensation-maximizing-your-youtube-reach/"><u>[New] Become a Viral Sensation Maximizing Your YouTube Reach</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/n-2024-free-youtube-extractors-a-comprehensible-guide-for-beginners/"><u>[New] In 2024, Free YouTube Extractors A Comprehensible Guide for Beginners</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-in-2024-elevate-visual-appeal-incorporating-black-bar-and-box-in-social-feeds/"><u>[Updated] In 2024, Elevate Visual Appeal Incorporating Black Bar & Box in Social Feeds</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-the-financial-race-between-dailymovement-and-youtube-channels/"><u>[Updated] The Financial Race Between DailyMovement and YouTube Channels</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/act-fast-secure-state-of-the-art-photo-restoration-techniques-today/"><u>Act Fast: Secure State-of-the-Art Photo Restoration Techniques Today</u></a></li>
+<li><a href="https://win11.techidaily.com/elevating-windows-11-introducing-powertoys/"><u>Elevating Windows 11: Introducing PowerToys</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/is-ais-forecast-accurate-can-chatgpt-outshine-traditional-horoscopes-in-predicting-the-future/"><u>Is AI's Forecast Accurate: Can ChatGPT Outshine Traditional Horoscopes in Predicting the Future?</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/is-gpt-suitable-for-editing-text/"><u>Is GPT Suitable for Editing Text?</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/is-there-a-preset-character-or-word-quota-for-replies-generated-by-chatgpt/"><u>Is There a Preset Character or Word Quota for Replies Generated by ChatGPT?</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/laughter-algorithm-computing-milestones-and-privacy-in-the-cloud/"><u>Laughter Algorithm: Computing Milestones & Privacy in the Cloud</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/leading-8-gpt-directives-for-diminishing-online-disturbances/"><u>Leading 8 GPT Directives for Diminishing Online Disturbances</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/mastering-creative-thinking-generating-ideas-using-mindmaps-and-chatgpt/"><u>Mastering Creative Thinking: Generating Ideas Using Mindmaps & ChatGPT</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/navigating-chatgpt-for-kids-five-child-friendly-practices/"><u>Navigating ChatGPT for Kids: Five Child-Friendly Practices</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solution-techniques-for-fixing-windows-11-microphone-problems/"><u>Solution Techniques for Fixing Windows 11 Microphone Problems</u></a></li>
+<li><a href="https://techtrends.techidaily.com/the-ultimate-guide-10-must-have-applications-for-high-schoolers/"><u>The Ultimate Guide: 10 Must-Have Applications for High Schoolers</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/transformez-vos-fichiers-wmv-en-mp4-gratuitement-et-conservez-jusqua-98-de-qualite-des-aujourdhui/"><u>Transformez Vos Fichiers WMV en MP4 Gratuitement Et Conservez Jusqu'à 98% De Qualité Dès Aujourd'hui!</u></a></li>
 </ul></div>
 

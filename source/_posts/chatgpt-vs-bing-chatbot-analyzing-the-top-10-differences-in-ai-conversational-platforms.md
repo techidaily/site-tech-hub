@@ -1,7 +1,7 @@
 ---
 title: ChatGPT Vs. Bing Chatbot – Analyzing the Top 10 Differences in AI Conversational Platforms
-date: 2024-08-15T22:07:12.457Z
-updated: 2024-08-16T22:07:12.457Z
+date: 2025-02-09T21:25:18.134Z
+updated: 2025-02-16T21:59:30.262Z
 tags:
   - chatgpt
   - open-ai
@@ -47,22 +47,20 @@ thumbnail: https://thmb.techidaily.com/f7aa9f91ee25ba92e513ec309ccac0797742d37b7
  With an unprecedented 90.0% score on the rigorous MMLU benchmark, Google says Gemini Ultra is the first model to surpass human-level performance on this multifaceted test spanning 57 subjects.
 
 ![google gemini ai data comparing to open ai gpt4 model](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/12/google-gemini-ai-data-comparing-to-open-ai-gpt4-model.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4699091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/1_jutoh-logo-1200x1600.jpg" border="0">Jutoh Plus -  Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. Jutoh Plus adds scripting so you can automate ebook import and creation operations. It also allows customisation of ebook HTML via templates and source code documents; and you can create Windows CHM and wxWidgets HTB help files. </a>
-<!-- affiliate ads end -->
 
 [Google](https://blog.google/technology/ai/google-gemini-ai/#performance)
 
  Gemini Ultra can also understand, explain, and generate high-quality code in some of the world's most popular programming languages, including Go, JavaScript, Python, Java, and C++. On paper, these are all great results. But these are all benchmarks, and benchmarks do not always tell the whole story. So, how well does Gemini perform in real-world tasks?
 
-<!-- affiliate ads begin -->
-<a href="https://engwe.pxf.io/c/5597632/2093504/25579" target="_top" id="2093504"><img src="//a.impactradius-go.com/display-ad/25579-2093504" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2093504/25579" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## How to Use Google Gemini AI
 
  Of the three variants of the Gemini AI model, you can start using Gemini Pro right now. Gemini Pro is currently available on Google's Bard chatbot. To use Gemini Pro with Bard, head to[bard.google.com](http://bard.google.com/chat) and sign in with your Google account.
 
  Google says that Gemini Ultra will roll out in January 2024, so we've had to settle for testing Gemini Pro against ChatGPT for now.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How Gemini Compares to GPT-3.5 and GPT-4
 
@@ -74,11 +72,16 @@ thumbnail: https://thmb.techidaily.com/f7aa9f91ee25ba92e513ec309ccac0797742d37b7
 
 ![Bard answers Math question](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/12/bard-answers-math-question.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qbuund2HKOQ?si=NaGHqIrx8hSL7gWV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 We tried ChatGPT running on GPT-3.5\. The first trial got it right.
 
 ![ChatGPT answers math question](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/12/chatgpt-answers-math-question.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4621764&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.x-mirage.com/x-mirage/img/page-home.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  To test Gemini's image interpretation abilities, we tasked it with interpreting some popular memes. It declined, saying it can't interpret images with people in it. ChatGPT, running GPT-4V, was willing and able to do so flawlessly.
@@ -100,36 +103,32 @@ Here's the source screenshot.
  We asked Gemini Pro to create a poem about Tesla (the electric vehicle car brand). It showed marginal improvements from previous tests we've done in the past. Here's the result:
 
 ![Bard running Gemini Pro writes a poem](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/12/bard-writes-peom.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17729331&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  At this point, we thought comparing the results against GPT-3.5 rather than the supercharged GPT-4 would be more appropriate. So, we asked ChatGPT running GPT-3.5 to create a similar poem.
 
 ![ChatGPT writes poem](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/12/chatgpt-writes-poem.jpg)
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087407/7443" target="_top" id="2087407"><img src="//a.impactradius-go.com/display-ad/7443-2087407" border="0" alt="" width="600" height="500"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087407/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  It may be a personal choice, but Gemini Pro's take on this seems better. But we'll let you be the judge.
 
 <!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/2016067/18544" target="_top" id="2016067"><img src="//a.impactradius-go.com/display-ad/18544-2016067" border="0" alt="" width="1020" height="380"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2016067/18544" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Is Gemini Better than ChatGPT?
 
  Before Google launched Bard, we thought it'd be the ChatGPT competition we had been waiting for—it wasn't. Now, Gemini is here, and so far, Gemini Pro doesn't seem like the model to give ChatGPT the knockout punch.
 
  Google says Gemini Ultra is going to be much better. We truly hope it is, and that it meets or exceeds the claims made in the Gemini Ultra announcement. But until we see and test the best version of Google's generative AI tool, we won't know if it can unseat other AI model competitors. As it stands, GPT-4 remains the undisputed AI model champion.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -138,4 +137,24 @@ Here's the source screenshot.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-video-files.techidaily.com/new-2024-approved-resolve-instagram-video-glitches-today/"><u>[New] 2024 Approved Resolve Instagram Video Glitches Today</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-in-2024-streaming-through-vlc-a-comprehensive-guide-to-mp4-and-format-switches/"><u>[New] In 2024, Streaming Through VLC A Comprehensive Guide to MP4 & Format Switches</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-in-2024-unlock-your-viewing-pleasure-with-budget-friendly-recording-tools/"><u>[New] In 2024, Unlock Your Viewing Pleasure with Budget-Friendly Recording Tools</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-2024-approved-latest-instagram-photo-and-video-size-checklist/"><u>[Updated] 2024 Approved Latest Instagram Photo and Video Size Checklist</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-the-complete-blueprint-for-optimizing-data-in-adobes-cloud-realm/"><u>[Updated] The Complete Blueprint for Optimizing Data in Adobe's Cloud Realm</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/boosting-tabletop-rpgs-integrating-chatgpt-into-your-dandd-sessions-for-an-unforgettable-experience/"><u>Boosting Tabletop RPGs: Integrating ChatGPT Into Your D&D Sessions for an Unforgettable Experience</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/discover-the-power-of-ai-10-tactics-to-secure-your-next-role-with-chatgpt-on-linkedin/"><u>Discover the Power of AI: 10 Tactics to Secure Your Next Role with ChatGPT on LinkedIn</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/editsuite-explorer-full-evaluation-for-2024/"><u>EditSuite Explorer – Full Evaluation for 2024</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/exploring-the-quintet-of-justifications-that-have-companies-restricting-chatgpt/"><u>Exploring the Quintet of Justifications That Have Companies Restricting ChatGPT</u></a></li>
+<li><a href="https://fox-that.techidaily.com/fixing-icloud-backup-issues-with-whatsapp-on-ios-devices-a-step-by-step-guide/"><u>Fixing iCloud Backup Issues with WhatsApp on iOS Devices - A Step-by-Step Guide</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/from-twitter-threats-to-advanced-conversations-unraveling-new-scam-tactics-the-dawn-of-meta-verified-profiles-and-deep-dive-into-chatgpt-4s-capabilities-exp62/"><u>From Twitter Threats to Advanced Conversations: Unraveling New Scam Tactics, The Dawn of Meta Verified Profiles & Deep Dive Into ChatGPT-4's Capabilities Explored</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/master-the-art-of-asking-leading-chrome-tool-to-streamline-your-chatgpt-engagement/"><u>Master the Art of Asking: Leading Chrome Tool to Streamline Your ChatGPT Engagement</u></a></li>
+<li><a href="https://howto.techidaily.com/play-store-stuck-on-downloading-of-realme-narzo-n55-7-ways-to-resolve-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Play Store Stuck on Downloading Of Realme Narzo N55? 7 Ways to Resolve | Dr.fone</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/safeguarding-information-the-risks-of-model-inversion-attacks-on-neural-networks-in-chatbots/"><u>Safeguarding Information: The Risks of Model Inversion Attacks on Neural Networks in Chatbots</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/1722978127566-seamlessly-install-new-sounds-card-drivers-begin-now/"><u>Seamlessly Install New Sounds Card Drivers - Begin Now!</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/unlocking-creative-possibilities-using-your-gpt-bots-for-image-generation-and-game-strategies/"><u>Unlocking Creative Possibilities: Using Your GPT Bots for Image Generation & Game Strategies</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/why-choose-claude-ai-exploring-its-features-to-enhance-productivity/"><u>Why Choose Claude AI? Exploring Its Features to Enhance Productivity</u></a></li>
+</ul></div>
 

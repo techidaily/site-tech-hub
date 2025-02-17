@@ -1,7 +1,7 @@
 ---
 title: "Communicate on the Go: Sending Messages From Your Apple Watch with Friends and Family"
-date: 2025-02-02T14:00:40.438Z
-updated: 2025-02-07T05:09:15.158Z
+date: 2025-02-10T23:18:27.399Z
+updated: 2025-02-16T19:41:36.448Z
 tags:
   - apple
 categories:
@@ -26,13 +26,13 @@ New with the latest version of watchOS is a feature called Check In. Accessible 
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kZVDkvMZvP4?si=xAugrCf-Ud6EMMpm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to check in with a friend or family member from your Apple Watch
 
 **What you'll need**: To use Check In, you have to be running watchOS 11 or higher on your Apple Watch, which requires iOS 18 or higher on your iPhone. [These Apple Watch models](https://www.zdnet.com/article/every-apple-watch-that-will-get-watchos-11-and-which-models-wont-be-supported/) can run watchOS 11.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 1\. Update your devices
 
@@ -50,10 +50,6 @@ Launch the Messages app on your Apple Watch. Start or continue a conversation wi
 
 Screenshot by Lance Whitney/ZDNET
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 3\. View the initial Check In notification
 
 The recipient receives a notification alerting them that you sent them a Check In with a specific time. After tapping OK, the recipient is asked if they want to allow critical alerts, which they should do. A text message then displays the time when they'll receive the alert that you reached your destination.
@@ -70,15 +66,15 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 [See all](https://www.zdnet.com/newsletters/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 4\. View the actual Check in alert
 
 When the timer is up to indicate that you should have reached your destination, you'll be prompted to stop the Check In to confirm that you've arrived. You can add more time or cancel the Check In. Otherwise, the recipient will receive your Check In notification. If the confirmation isn't sent, more time will be added. After that, the recipient will be informed that you haven't yet checked in. They can then try to contact you by text or phone call to find out why you haven't yet arrived.
 
 Screenshot by Lance Whitney/ZDNET
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3UyJuZYzjt0?si=W87GeyzVKVORAk7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 5\. Change the time for a Check In
 
@@ -91,7 +87,7 @@ If you still wish to use a timer for the Check In option but change the amount o
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2En1CHbiYwA?si=jZKzTr9EIT2ShjGK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OdlXe5RELW0?si=Iz1H1QnLQVw-Eu3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 6\. Send a customized Check In through the Messages app
@@ -99,6 +95,10 @@ Screenshot by Lance Whitney/ZDNET
 To further customize the Check In, tap the Edit button at the Check In screen. Tap Check In. You can now set a notification to be sent when you've arrived at your destination, after the timer ends, or when a workout ends. Tap the option for "When I arrive."
 
 Screenshot by Lance Whitney/ZDNET
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hZsnjxeSh1U?si=hZIfzQPDNX5KtOCg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 7\. Add a destination and send the text
 
@@ -109,7 +109,7 @@ Screenshot by Lance Whitney/ZDNET
 **Also: [Your Apple Watch is getting an upgrade - here are the best features in WatchOS 11](https://www.zdnet.com/article/your-apple-watch-is-getting-an-upgrade-here-are-the-best-features-in-watchos-11/)**
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 8\. Set a Check In for a workout in the Messages app
@@ -154,24 +154,24 @@ Screenshot by Lance Whitney/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-glue.techidaily.com/new-chilly-competition-unveiling-highlights-of-2022s-snowboard-cross-showdown/"><u>[New] Chilly Competition Unveiling Highlights of 2022'S Snowboard Cross Showdown</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/updated-2024-approved-fast-and-easy-filming-techniques-the-best-5-hacks-unveiled/"><u>[Updated] 2024 Approved Fast & Easy Filming Techniques – The Best 5 Hacks Unveiled</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/updated-from-frames-to-frequencies-transforming-instagram-videos/"><u>[Updated] From Frames to Frequencies Transforming Instagram Videos</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/delving-into-ai-advancements-how-gpt-4-outshines-its-predecessor-gpt-35-with-5-unique-features/"><u>Delving Into AI Advancements: How GPT-4 Outshines Its Predecessor, GPT-3.5 with 5 Unique Features</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/exploring-chatgpt-unveiling-the-potential-of-its-tailored-command-functionality/"><u>Exploring ChatGPT: Unveiling the Potential of Its Tailored Command Functionality</u></a></li>
-<li><a href="https://fake-location.techidaily.com/full-guide-to-fix-itoolab-anygo-not-working-on-motorola-moto-g73-5g-drfone-by-drfone-virtual-android/"><u>Full Guide to Fix iToolab AnyGO Not Working On Motorola Moto G73 5G | Dr.fone</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/guide-how-to-distribute-chatgpt-dialogues-on-the-web/"><u>Guide: How to Distribute ChatGPT Dialogues on the Web</u></a></li>
-<li><a href="https://review-topics.techidaily.com/how-to-transfer-whatsapp-from-iphone-15-plus-to-androidios-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From iPhone 15 Plus to Android/iOS? | Dr.fone</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-5-most-effective-methods-to-unlock-apple-iphone-12-pro-in-lost-mode-by-drfone-ios/"><u>In 2024, 5 Most Effective Methods to Unlock Apple iPhone 12 Pro in Lost Mode</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/is-interacting-with-chatgpt-a-threat-to-your-online-privacy/"><u>Is Interacting with ChatGPT a Threat to Your Online Privacy?</u></a></li>
-<li><a href="https://fox-info.techidaily.com/long-exposure-iphone-shots-step-by-step-guide/"><u>Long-Exposure iPhone Shots Step-by-Step Guide</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/mapping-authenticity-navigating-through-fake-data-generated-by-ai/"><u>Mapping Authenticity: Navigating Through Fake Data Generated by AI</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/mastering-mobile-conversations-a-guide-to-using-chatgpt-with-your-smartphone/"><u>Mastering Mobile Conversations: A Guide to Using ChatGPT with Your Smartphone</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/pokemon-go-error-12-failed-to-detect-location-on-oppo-a78-5g-drfone-by-drfone-virtual-android/"><u>Pokemon Go Error 12 Failed to Detect Location On Oppo A78 5G? | Dr.fone</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/rootjunky-apk-to-bypass-google-frp-lock-for-lava-yuva-3-pro-by-drfone-android/"><u>Rootjunky APK To Bypass Google FRP Lock For Lava Yuva 3 Pro</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/snapchat-voice-tweaks-simple-methods-for-smooth-adjustments-for-2024/"><u>Snapchat Voice Tweaks Simple Methods for Smooth Adjustments for 2024</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/the-power-of-predictive-analysis-discovering-the-potential-of-openais-shap-e/"><u>The Power of Predictive Analysis: Discovering the Potential of OpenAI's SHAP-E</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/top-ranking-ai-powered-search-solutions-the-ultimate-guide/"><u>Top-Ranking AI Powered Search Solutions: The Ultimate Guide</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/understanding-the-risks-can-you-trust-ai-a-look-at-chatgpt-and-cybersecurity-concerns/"><u>Understanding the Risks: Can You Trust AI? A Look at ChatGPT and Cybersecurity Concerns</u></a></li>
+<li><a href="https://win-web.techidaily.com/lost-your-downloaded-facebook-files-resolucion-oficial-recuperacion-guia-paso-a-paso/"><u>¿Lost Your Downloaded Facebook Files? Resolución Oficial: Recuperación Guía Paso a Paso</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-top-8-metaverse-vr-experiences-and-headsets/"><u>[New] Top 8 Metaverse VR Experiences & Headsets</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-extensive-overview-hero4-black-dynamics/"><u>[Updated] Extensive Overview Hero4 Black Dynamics</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-in-2024-easyscreen-videotaker-analysis-plus-other-apps/"><u>[Updated] In 2024, EasyScreen Videotaker Analysis + Other Apps</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/2024-approved-ultimate-facetune-guide-elevating-your-image-quality/"><u>2024 Approved Ultimate Facetune Guide Elevating Your Image Quality</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/comparing-leading-ai-chatbots-who-takes-the-crown-between-microsofts-googles-and-openais-offerings/"><u>Comparing Leading AI Chatbots: Who Takes the Crown Between Microsoft's, Google’s & OpenAI’s Offerings?</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/comparing-varieties-of-artificial-intelligence-public-private-and-personal-explained/"><u>Comparing Varieties of Artificial Intelligence: Public, Private & Personal Explained</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/explore-the-fun-side-top-6-games-to-enjoy-on-chatgpt/"><u>Explore The Fun Side: Top 6 Games To Enjoy on ChatGPT</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/from-hobbyist-to-pro-the-audacity-journey-for-2024/"><u>From Hobbyist to Pro The Audacity Journey for 2024</u></a></li>
+<li><a href="https://solve-manuals.techidaily.com/harnessing-the-power-of-cookiebot-for-optimized-user-engagement/"><u>Harnessing the Power of Cookiebot for Optimized User Engagement</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/humor-haven-free-tools-for-meme-artistry-for-2024/"><u>Humor Haven FREE Tools for Meme Artistry for 2024</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-unlock-sim-cards-of-xiaomi-mix-fold-3-without-puk-codes-by-drfone-android/"><u>In 2024, How To Unlock SIM Cards Of Xiaomi Mix Fold 3 Without PUK Codes</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/is-courtesy-mandatory-when-interacting-with-virtual-assistants-like-chatgpt-alexa-and-siri/"><u>Is Courtesy Mandatory When Interacting With Virtual Assistants Like ChatGPT, Alexa, and Siri?</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/new-2024-approved-os-x-mavericks-mp4-editing-software-convert-trim-and-more/"><u>New 2024 Approved OS X Mavericks MP4 Editing Software Convert, Trim, and More</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/phony-chatgpt-plugin-illegally-accesses-snapchat-accounts/"><u>Phony ChatGPT Plugin Illegally Accesses Snapchat Accounts</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/prompt-engineering-employment-assessing-authenticity-through-9-vital-points/"><u>Prompt Engineering Employment: Assessing Authenticity Through 9 Vital Points</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/tips-and-tricks-identifying-your-tailored-gpts-in-the-middle-of-chatgpt-exchanges-using-specific-references/"><u>Tips and Tricks: Identifying Your Tailored GPTs in the Middle of ChatGPT Exchanges Using Specific References</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/voice-your-thoughts-on-android-with-chatgpt/"><u>Voice Your Thoughts on Android, With ChatGPT</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/why-chatgpt-might-not-be-your-best-choice-for-summarizing-content-effectively/"><u>Why ChatGPT Might Not Be Your Best Choice for Summarizing Content Effectively</u></a></li>
 </ul></div>
 

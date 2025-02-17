@@ -1,7 +1,7 @@
 ---
 title: "Sculpting Serenity: Customized Zen Habits Powered by GPT"
-date: 2024-08-15T22:08:00.252Z
-updated: 2024-08-16T22:08:00.252Z
+date: 2025-02-13T19:34:30.267Z
+updated: 2025-02-16T23:05:15.703Z
 tags:
   - chatgpt
   - open-ai
@@ -16,6 +16,10 @@ thumbnail: https://thmb.techidaily.com/77006c539bf1ddb2e2b5e84e1f174870218883325
 ## Discover the Full Potential of ChatGPT by Enabling Its Newly Launched Beta Features - Here’s How
 
  OpenAI has officially launched its long-awaited ChatGPT Plugins to ChatGPT Plus users.After months of speculation regarding the internet-connected Plugins, OpenAI has pushed its Plugins live, allowing Plus users to choose whether to turn them on or not using a new Beta feature.Connecting ChatGPT to the internet has been a long-standing request for millions of ChatGPT users, and now, the moment is here.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## OpenAI Rolls Out Web Browsing and Plugins to ChatGPT Plus Users
 
@@ -38,8 +42,9 @@ thumbnail: https://thmb.techidaily.com/77006c539bf1ddb2e2b5e84e1f174870218883325
  Unfortunately, my ChatGPT Plus account doesn't have access to any Plugins yet.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B300x600%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-300x600.gif" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XA_wP7rS9ww?si=LarMG3sEHAhSoL6q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## ChatGPT Can Browse the Web
 
 That's not all, though.
@@ -51,8 +56,9 @@ That's not all, though.
  For example, I asked ChatGPT: "Who is the current leader of the F1 World Championship?"
 
 ![chatgpt web browsing search may 2023](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/chatgpt-web-browsing-search-may-2023.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793237/19578" target="_top" id="1793237"><img src="//a.impactradius-go.com/display-ad/19578-1793237" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793237/19578" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zmXpl6irBYk?si=BXjGpQr6PXFcqhCI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![chatgpt web browsing search may 2023 looking for examples](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/chatgpt-web-browsing-search-may-2023-looking-for-examples.jpg)
@@ -66,24 +72,23 @@ Close
  I then asked if ChatGPT Plus with Web Browsing could provide a list of the current F1 World Championship rankings, which it did without any extra prompting:
 
 ![chatgpt web browsing search may 2023 f1 world champs](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/chatgpt-web-browsing-search-may-2023-f1-world-champs.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://martinic.evyy.net/c/5597632/1422856/4482" target="_top" id="1422856"><img src="//a.impactradius-go.com/display-ad/4482-1422856" border="0" alt="" width="580" height="309"/></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jnITUsxMz5s?si=ohwRVH6eWhVnC6Xf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  On both occasions, ChatGPT provided a source for its information, and on both occasions, it was accurate.
 
  Now, these aren't the most challenging data searches, but it shows that ChatGPT's Web Browsing tool is up and running proper.
 
-<!-- affiliate ads begin -->
-<a href="https://thefitville.pxf.io/c/5597632/1526796/15852" target="_top" id="1526796"><img src="//a.impactradius-go.com/display-ad/15852-1526796" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1526796/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## How to Enable ChatGPT Plugins and Web Browsing
 
  You can enable ChatGPT Plugins and Web Browsing using the new Beta Features Settings options.
 
 ![chatgpt beta tools may 2023](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/chatgpt-beta-tools-may-2023.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://tokenmetrics.sjv.io/c/5597632/1864921/20702" target="_top" id="1864921"><img src="//a.impactradius-go.com/display-ad/20702-1864921" border="0" alt="" width="1251" height="1042"/></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 1. Head to your**Settings** in the bottom left-hand corner of the ChatGPT screen
@@ -95,10 +100,6 @@ Close
 
  From here, you can select either Web Browsing to enable web-connected search or select**Plugin Store** to begin installing and enabling Plugins.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4610657&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2024/06/emeditor_chat_ai.png" border="0">
-EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code editor, CSV editor, and large file viewer for Windows. Both native 64-bit and 32-bit builds are available, and moreover, the 64-bit includes separate builds for SSE2 (128-bit), AVX-2 (256-bit), and AVX-512 (512-bit) instruction sets. New versions support AI-assisted writing.</a>
-<!-- affiliate ads end -->
 ## ChatGPT Is Finally Connected to the Internet
 
  Internet-connected ChatGPT is finally here. Although the Web Browsing and Plugins are limited to ChatGPT Plus currently, it won't be long until regular ChatGPT users can gain access to internet-powered generative AI.
@@ -107,14 +108,11 @@ EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code e
 
  The generative AI wars are truly underway, and the rapid development will bring tools to the consumer faster than ever. The only question is whether humans can keep up.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -123,4 +121,22 @@ EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code e
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-knowledge.techidaily.com/updated-2024-approved-top-10-gear-for-next-gen-musical-video-production-quality/"><u>[Updated] 2024 Approved Top 10 Gear for Next-Gen Musical Video Production Quality</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-crafting-viral-videos-on-youtube-a-strategic-plan-for-2024/"><u>[Updated] Crafting Viral Videos on YouTube A Strategic Plan for 2024</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-in-2024-capturing-your-screenplay-free-software-insights/"><u>[Updated] In 2024, Capturing Your Screenplay Free Software Insights</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-top-8-affordable-industry-standard-open-videoconference-platforms-for-2024/"><u>[Updated] Top 8 Affordable, Industry-Standard Open Videoconference Platforms for 2024</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-step-by-step-guide-enhancing-snaps-with-zoom-feature/"><u>2024 Approved Step-by-Step Guide Enhancing Snaps with Zoom Feature</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/chatgpt-strategies-for-composing-complicated-workplace-correspondence-efficiently/"><u>ChatGPT Strategies for Composing Complicated Workplace Correspondence Efficiently</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/chatgpt-user-data-safety-assessed/"><u>ChatGPT: User Data Safety Assessed</u></a></li>
+<li><a href="https://win-tutorials.techidaily.com/ensuring-your-ram-matches-your-motherboard-a-guide-from-yl-technology-experts/"><u>Ensuring Your RAM Matches Your Motherboard: A Guide From YL Technology Experts</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/how-to-fix-a-lagging-or-crashing-chatgpt-app-on-your-apple-device-ios-a-step-by-step-guide/"><u>How to Fix a Lagging or Crashing ChatGPT App on Your Apple Device (iOS) - A Step-by-Step Guide</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/in-2024-kik-id-visualization-width-x-height-aspect-ratio-duration/"><u>In 2024, Kik ID Visualization Width X Height, Aspect Ratio, Duration</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/passos-simples-para-editando-filmes-em-seu-android-guia-da-classe-movavi-clips/"><u>Passos Simples Para Editando Filmes Em Seu Android: Guia Da Classe - Movavi Clips</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/the-pinnacle-of-ai-dialogues-post-chatgpt/"><u>The Pinnacle of AI Dialogues Post-ChatGPT</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/the-risks-of-automated-text-reduction-by-chatbots-like-gpt/"><u>The Risks of Automated Text Reduction by ChatBots Like GPT</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/unlimited-access-gpt-4-is-now-gratis-yet-6-compelling-motives-remain-for-choosing-chatgpt-plus/"><u>Unlimited Access: GPT-4 Is Now Gratis! Yet, 6 Compelling Motives Remain for Choosing ChatGPT Plus</u></a></li>
+<li><a href="https://howto.techidaily.com/want-to-uninstall-google-play-service-from-itel-p55-here-is-how-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Want to Uninstall Google Play Service from Itel P55? Here is How | Dr.fone</u></a></li>
+</ul></div>
 

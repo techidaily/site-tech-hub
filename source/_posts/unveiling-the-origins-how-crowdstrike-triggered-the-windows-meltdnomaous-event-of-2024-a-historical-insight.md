@@ -1,7 +1,7 @@
 ---
 title: "Unveiling the Origins: How CrowdStrike Triggered the Windows Meltdnomaous Event of 2024 – A Historical Insight"
-date: 2025-01-03T21:00:58.786Z
-updated: 2025-01-06T23:09:44.369Z
+date: 2025-02-12T21:49:51.094Z
+updated: 2025-02-16T18:24:44.604Z
 tags:
   - apple
 categories:
@@ -33,7 +33,7 @@ In this case, the trusted software developer is a firm called CrowdStrike Holdin
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OdlXe5RELW0?si=Iz1H1QnLQVw-Eu3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What happened?
@@ -55,7 +55,7 @@ Repairing the damage from a flaw like this is a painfully tedious process that r
 If you know anyone whose job involves administering Windows PCs in a corporate network that uses the CrowdStrike code, you can be confident they are very busy right now, and will be for days to come.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## We've seen this movie before
@@ -95,7 +95,7 @@ In the You Can't Make This Up Department… CrowdStrike's founder and CEO, Georg
 What makes the 2024 sequel so much worse is that it also affected Windows-based servers running in the cloud, on Microsoft Azure and on AWS. Just as with the many laptops and desktop PCs that were bricked by this faulty update, the cloud-based servers require time-consuming manual interventions to recover.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## CrowdStrike's QA failed
@@ -125,7 +125,7 @@ As part of its initial response, CrowdStrike says it plans to take additional me
 Meanwhile, the United States House of Representatives Homeland Security Committee plans to call CrowdStrike's CEO up for hearings on what went wrong, and CrowdStrike's Chief Security Officer, Shawn Henry, [posted an apology on LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:7220983915421806592/), admitting "On Friday, we failed you. ... The confidence we built in drips over the years was lost in buckets within hours, and it was a gut punch."
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=EdMRoNAFi0Q6mP7G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How much fault should Microsoft shoulder?
@@ -176,19 +176,15 @@ Nonetheless, this incident, which caused many billions of dollars' worth of dama
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-knowledge.techidaily.com/updated-fast-track-your-visuals-the-best-pinterest-downloaders-listed/"><u>[Updated] Fast-Track Your Visuals The Best Pinterest Downloaders Listed</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/ed-in-2024-secrets-to-profit-from-youtube-shorts-fundamentals-and-earning-prospects/"><u>[Updated] In 2024, Secrets to Profit From Youtube Shorts Fundamentals and Earning Prospects</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-transforming-mundane-titles-into-visual-marvels-with-ae-for-2024/"><u>[Updated] Transforming Mundane Titles Into Visual Marvels with AE for 2024</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/2024-approved-from-shopping-lists-to-viral-hauls-video-making-insights/"><u>2024 Approved From Shopping Lists to Viral Hauls Video Making Insights</u></a></li>
-<li><a href="https://fox-shield.techidaily.com/artistdirect-how-to-convert-and-download-your-favorite-music-videos-in-various-formats-mp4-mov-avi/"><u>ArtistDirect: How to Convert and Download Your Favorite Music Videos in Various Formats (MP4, MOV, AVI)</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/beyond-dialogue-6-strategies-to-harness-chatgpts-power-as-a-dm/"><u>Beyond Dialogue: 6 Strategies to Harness ChatGPT's Power as a DM</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/enhancing-productivity-in-human-resources-via-prompts/"><u>Enhancing Productivity in Human Resources via Prompts</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/exploring-elon-musks-project-the-revolutionary-truthgpt-ai/"><u>Exploring Elon Musk’s Project: The Revolutionary TruthGPT AI</u></a></li>
-<li><a href="https://tiktok-video-recordings.techidaily.com/in-2024-virtual-performances-on-kuaishou/"><u>In 2024, Virtual Performances on Kuaishou</u></a></li>
-<li><a href="https://win-brilliant.techidaily.com/keep-your-work-consistently-updated-with-easy-onedrive-automatic-refresh-tips-for-windows-users/"><u>Keep Your Work Consistently Updated with Easy OneDrive Automatic Refresh Tips for Windows Users</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/maximizing-business-efficiency-top-uses-for-chatgpt/"><u>Maximizing Business Efficiency: Top Uses for ChatGPT</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/outsmarting-fraudgpt-personal-safeguards-explored/"><u>Outsmarting FraudGPT - Personal Safeguards Explored</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/the-hidden-dangers-unveiled-by-advanced-ai-systems/"><u>The Hidden Dangers Unveiled by Advanced AI Systems</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/top-reviews-for-xp-pens-advanced-16-pro-drawing-monitor-features-benefits-and-more/"><u>Top Reviews for XP-Pen's Advanced 16 Pro Drawing Monitor: Features, Benefits & More</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-charting-the-evolution-of-windows-movie-maker-for-2024/"><u>[New] Charting the Evolution of Windows Movie Maker for 2024</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/updated-bypassing-edgenuity-a-guide-to-focused-self-study/"><u>[Updated] Bypassing Edgenuity A Guide to Focused Self-Study</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/2024-approved-visual-impact-discover-these-essential-font-tools-for-tiktoks-2023/"><u>2024 Approved Visual Impact Discover These Essential Font Tools for TikTok's 2023</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/get-set-up-quick-guide-to-accessing-windows-updates/"><u>Get Set Up: Quick Guide to Accessing Windows Updates</u></a></li>
+<li><a href="https://program-issues.techidaily.com/strategies-for-successful-appeals-in-civic-litigation-a-focus-on-case-no-6-and-the-challenge-of-permission-denial/"><u>Strategies for Successful Appeals in Civic Litigation: A Focus on Case No. 6 and the Challenge of Permission Denial</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/understanding-on-device-artificeal-intelligence-functionality-and-process/"><u>Understanding On-Device Artificeal Intelligence: Functionality & Process</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/unlock-better-conversations-7-key-prompts-for-successful-ai-engagement/"><u>Unlock Better Conversations: 7 Key Prompts for Successful AI Engagement</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/unlock-gaming-bliss-with-top-chatgpt-games-of-the-year/"><u>Unlock Gaming Bliss with Top ChatGPT Games of the Year</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/unveiling-artificial-intelligence-potential-risks-explored/"><u>Unveiling Artificial Intelligence: Potential Risks Explored</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/youthful-youtube-ventures-crafting-creative-videos-on-a-mac-for-2024/"><u>Youthful YouTube Ventures Crafting Creative Videos on a Mac for 2024</u></a></li>
 </ul></div>
 

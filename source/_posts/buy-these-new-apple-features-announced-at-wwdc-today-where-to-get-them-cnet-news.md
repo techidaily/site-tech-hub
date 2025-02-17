@@ -1,7 +1,7 @@
 ---
 title: Buy These New Apple Features Announced at WWDC Today – Where to Get Them | CNET News
-date: 2025-01-31T02:35:29.975Z
-updated: 2025-02-07T06:40:10.298Z
+date: 2025-02-10T16:10:49.228Z
+updated: 2025-02-16T23:51:09.341Z
 tags:
   - apple
 categories:
@@ -28,10 +28,6 @@ To help you make this decision, we've broken down all of the most important deta
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##  Specifications
 
 | Specs        | **iPhone 16**                                                                                                                                                                                                    | **iPhone 15**                                                                                                                                                                                                    |
@@ -50,12 +46,16 @@ To help you make this decision, we've broken down all of the most important deta
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  You should buy the iPhone 16 if...
 
 Kerry Wan/ZDNET
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ###  1\. You'd benefit from Apple Intelligence features
 
@@ -74,7 +74,7 @@ The [iPhone 16](https://www.zdnet.com/article/every-iphone-16-model-compared-whi
 On the side below the [Power Button is the new Camera Control](https://www.zdnet.com/article/every-iphone-16-model-features-a-new-camera-button-heres-what-it-can-do/). It's a tactile switch with a special sensor that can perform unique actions with a light touch. For example, pressing it quickly launches the Camera app for taking quick snapshots or recording a video. It even introduces a preview feature to help you frame the shot. And if that wasn't enough, it'll work with third-party apps.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OdlXe5RELW0?si=Iz1H1QnLQVw-Eu3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ###  3\. You want "next-level performance"
@@ -99,10 +99,6 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 
 Kerry Wan/ZDNET
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ###  1\. You don't require the generative AI capabilities
 
 All of the bells and whistles on the iPhone 16 are certainly nice, but are they must-haves? To many people, probably not. Generative AI still has its' issues despite advancing rapidly in the past couple of years. Apple Intelligence and the new Siri may be great, but we wouldn't be surprised to see users encounter performance problems or hallucinations.
@@ -112,7 +108,7 @@ All of the bells and whistles on the iPhone 16 are certainly nice, but are they 
 Sometimes, it's best to wait until all the bugs have been ironed out. Plus, there's a lot of uncertainty surrounding the chipset. Early impressions indicate the A18 can handle all the AI features, but can it? Or will we see a performance drop once it launches? 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vPGg53vbOsk?si=CkSEN5HFPS7vDuAa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ###  2\. You're on a budget
@@ -122,6 +118,10 @@ With the release of a new model, older phones often see a price drop, and that i
 It wouldn't be a bad pick-up, either. The camera system of the previous generation is great to this day, the A16 Bionic chip is still plenty powerful, and the Dynamic Island is a welcomed addition. You can enjoy a similar camera performance. Plus, you won't be bogged down by nascent AI features you may or may not ever use. 
 
 [Buy the iPhone 15 $729.99 at Best Buy](https://shop-links.co/link/?url=https%3A%2F%2Fbestbuy.7tiv.net%2Fc%2F376373%2F633495%2F10014%3Fprodsku%3D6417992%26u%3Dhttp%253A%252F%252Fwww.bestbuy.com%252Fsite%252F-%252F6417992.p%253Fcmp%253DRMX&publisher_slug=itechdaily19598&exclusive=1)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Alternatives to consider
 
@@ -157,22 +157,19 @@ It wouldn't be a bad pick-up, either. The camera system of the previous generati
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-how-instagram-new-algorithm-update-will-affect-you-for-2024/"><u>[New] How Instagram New Algorithm Update Will Affect You for 2024</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/new-ultimate-guide-to-the-best-10-spotify-music-recorder-apps/"><u>[New] Ultimate Guide to the Best 10 Spotify Music Recorder Apps</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/updated-2024-approved-facebooks-secrets-to-impressive-cover-video-setup/"><u>[Updated] 2024 Approved Facebook's Secrets to Impressive Cover Video Setup</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/can-conversational-ai-like-chatgpt-provide-critical-help-in-survival-situations/"><u>Can Conversational AI Like ChatGPT Provide Critical Help in Survival Situations?</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/can-you-turn-a-profit-investigating-the-validity-of-8-chatgpt-side-gigs/"><u>Can You Turn a Profit? Investigating the Validity of 8 ChatGPT Side Gigs</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/gewone-videos-in-stunning-4k-kracht-discoveren-van-hoogste-kwaliteit-door-movavi-convertidoeren/"><u>Gewone Videos in Stunning 4K Kracht - Discoveren Van Hoogste Kwaliteit Door Movavi Convertidoeren</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/glimpse-into-ais-future-with-googles-new-lm-palm-2/"><u>Glimpse Into AI's Future with Google's New LM PaLM 2</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/how-authorities-manage-and-oversee-ai-technology-4-key-methods/"><u>How Authorities Manage and Oversee AI Technology: 4 Key Methods</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-i-transferred-messages-from-poco-c65-to-iphone-12xs-max-in-seconds-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How I Transferred Messages from Poco C65 to iPhone 12/XS (Max) in Seconds | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-perform-hard-reset-on-samsung-galaxy-f15-5g-drfone-by-drfone-reset-android-reset-android/"><u>How to Perform Hard Reset on Samsung Galaxy F15 5G? | Dr.fone</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/in-2024-comprehensive-tips-for-youtube-video-capture/"><u>In 2024, Comprehensive Tips for YouTube Video Capture</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/notion-ai-versus-chatgpt-determining-the-premier-generative-ai-solution/"><u>Notion AI Versus ChatGPT: Determining the Premier Generative AI Solution</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/smart-notetaking-in-action-top-ai-driven-applications-for-effective-notes/"><u>Smart Notetaking in Action: Top AI-Driven Applications for Effective Notes</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/ultimate-guide-discover-the-five-superior-ai-prompt-generators-compatible-with-all-ai-platforms/"><u>Ultimate Guide: Discover the Five Superior AI Prompt Generators Compatible with All AI Platforms</u></a></li>
-<li><a href="https://os-tips.techidaily.com/understanding-the-advantages-keeping-your-current-iphone-longer-before-buying-a-new-one/"><u>Understanding the Advantages: Keeping Your Current iPhone Longer Before Buying a New One</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/unlocking-chatgpt-in-your-ubuntu-command-line-with-shell-integration/"><u>Unlocking ChatGPT in Your Ubuntu Command Line with Shell Integration</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/unpacking-the-significance-of-chatgpts-real-time-information-for-everyone/"><u>Unpacking the Significance of ChatGPT's Real-Time Information for Everyone</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-expert-strategies-for-perfectly-shared-screens-on-mobiledesktop-for-2024/"><u>[New] Expert Strategies for Perfectly Shared Screens on Mobile/Desktop for 2024</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-top-7-sites-for-swapping-outringtone-files-on-snapchat/"><u>[New] Top 7 Sites for Swapping Outringtone Files on Snapchat</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-nurture-harmony-and-well-being-the-finest-yogic-channels-alive-for-2024/"><u>[Updated] Nurture Harmony & Well-Being - The Finest Yogic Channels Alive for 2024</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-youtube-snippets-guide-essential-info-inside/"><u>[Updated] YouTube Snippets Guide Essential Info Inside</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/2024-approved-360-degree-camera-spectrum-versus-three-dimensional-outputs/"><u>2024 Approved 360-Degree Camera Spectrum versus Three-Dimensional Outputs</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-from-couch-to-chart-topper-skyrocketing-your-channels-views/"><u>2024 Approved From Couch to Chart-Topper Skyrocketing Your Channel's Views</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/essential-extensions-for-exporting-and-sharing-your-history-with-microsofts-chatbot/"><u>Essential Extensions for Exporting & Sharing Your History with Microsoft's Chatbot</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-apple-iphone-12-mini-with-a-mask-on-by-drfone-ios/"><u>How to Unlock Apple iPhone 12 mini with a Mask On</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/in-2024-navigating-the-landscape-of-color-correction-innovative-uses-of-luts-in-video-editing/"><u>In 2024, Navigating the Landscape of Color Correction Innovative Uses of LUTs in Video Editing</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/mechanisms-of-ai-based-prompt-injections-and-strategies-for-mitigating-risks/"><u>Mechanisms of AI-Based Prompt Injections and Strategies for Mitigating Risks</u></a></li>
+<li><a href="https://discover-guides.techidaily.com/securing-your-gmail-the-best-two-techniques-for-a-hassle-free-transfer-to-dropbox/"><u>Securing Your Gmail: The Best Two Techniques for a Hassle-Free Transfer to Dropbox</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/top-8-factors-contributing-to-the-escalation-of-generative-ai-security-challenges/"><u>Top 8 Factors Contributing to the Escalation of Generative AI Security Challenges</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/unlocking-a-hassle-free-lifestyle-9-uses-of-chatgpt/"><u>Unlocking a Hassle-Free Lifestyle: 9 Uses of ChatGPT</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/which-leads-in-conversation-an-analysis-of-chatgpt-plus-versus-perplexity/"><u>Which Leads in Conversation: An Analysis of ChatGPT Plus Versus Perplexity</u></a></li>
 </ul></div>
 

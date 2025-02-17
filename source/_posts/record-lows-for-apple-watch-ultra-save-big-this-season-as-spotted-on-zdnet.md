@@ -1,7 +1,7 @@
 ---
 title: "Record Lows for Apple Watch Ultra: Save Big This Season as Spotted on ZDNet!"
-date: 2025-01-03T22:39:53.239Z
-updated: 2025-01-06T17:48:29.401Z
+date: 2025-02-12T18:49:07.534Z
+updated: 2025-02-16T19:03:36.228Z
 tags:
   - apple
 categories:
@@ -25,7 +25,7 @@ ZDNET rounded up the best holiday deals on Apple iPads you can buy now, but thes
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jnITUsxMz5s?si=ohwRVH6eWhVnC6Xf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## The Best iPad Holiday deals
@@ -45,7 +45,7 @@ ZDNET rounded up the best holiday deals on Apple iPads you can buy now, but thes
 * [Apple iPad Pro 12.9-inch (2022)](https://www.anrdoezrs.net/links/9041660/type/dlg/sid/zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp/https://www.att.com/buy/tablets/apple-ipad-pro-12-9-inch-2022.html): $33.34/month ($100 off at AT&T with qualifying service)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DEqoiNArwjQ?si=oaL_lgnI-RxY5Qy_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Q8Feep0Rc0?si=YkPhRxXGvrRRMJtb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## The Best iPad accessory, case deals
@@ -104,10 +104,6 @@ If you would prefer the smaller iPad Mini, Amazon has another deal that might in
 
 [View now at Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2F2021-Apple-iPad-Mini-Wi-Fi%2Fdp%2FB09G9DQDDQ%3Fth%3D1%26tag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C72ea2c00-eaf4-4278-983b-40c54372b4e7%7Cdtp&dtb=1) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## How did we choose these holiday deals?
 
 ZDNET only writes about deals we want to buy -- devices and products we want, need, or would recommend. Our experts looked for deals that were at least 20% off (or are hardly ever on sale), using established price comparison tools and trackers to determine whether the deal is actually on sale and how frequently it drops. 
@@ -115,7 +111,7 @@ ZDNET only writes about deals we want to buy -- devices and products we want, ne
 We also looked over customer reviews to find out what matters to real people who already own and use the deals we're recommending. Our recommendations may also be based on our own testing -- in addition to extensive research and comparison shopping. The goal is to deliver the most accurate advice to help you shop smarter. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qbuund2HKOQ?si=NaGHqIrx8hSL7gWV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What's the best iPad?
@@ -123,12 +119,16 @@ We also looked over customer reviews to find out what matters to real people who
 ZDNET editors have gone hands-on with every iPad model, and named the latest iPad Pro (2022) the best iPad overall, thanks to its M2 processor and fast performance.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What's the best iPad for kids?
 
 If you're looking to buy an iPad as a holiday gift for the child in your life, we'd recommend the latest iPad Air (5th gen., 2022). It's lightweight, but still packs in great performance for the lower price tag. You can find iPad Air models on sale in our list above.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## What are the best holiday deals?
 
@@ -198,19 +198,24 @@ ZDNET's experts have been searching for holiday deals across sites like Amazon, 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://remote-screen-capture.techidaily.com/new-dive-deep-into-the-world-of-timelapses-with-your-ipad/"><u>[New] Dive Deep Into the World of Timelapses with Your iPad</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/new-redefining-realities-practical-vr-uses/"><u>[New] Redefining Realities Practical VR Uses</u></a></li>
-<li><a href="https://program-issues.techidaily.com/fixing-connectivity-issues-between-your-astro-a50-headset-and-command-panel/"><u>Fixing Connectivity Issues Between Your Astro A50 Headset and Command Panel</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/free-access-to-cutting-edge-tech-using-gpt-extended-gpt-4-turbo-via-copilot/"><u>Free Access to Cutting-Edge Tech: Using GPT-eXtended (GPT-4 Turbo) via Copilot</u></a></li>
-<li><a href="https://driver-error.techidaily.com/how-to-troubleshoot-and-resolve-the-critical-error-0x0000007e-on-windows-7-systems/"><u>How to Troubleshoot and Resolve the Critical Error 0X0000007E on Windows 7 Systems</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-the-ultimate-guide-how-to-bypass-swipe-screen-to-unlock-on-htc-device-by-drfone-android/"><u>In 2024, The Ultimate Guide How to Bypass Swipe Screen to Unlock on HTC Device</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/masterclass-incorporating-chatgpt-into-your-dandd-game-sessions-for-added-depth-and-fun/"><u>Masterclass: Incorporating ChatGPT Into Your D&D Game Sessions for Added Depth and Fun</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/optimized-ai-dialogues-chatgpt-for-mac-enthusiasts/"><u>Optimized AI Dialogues: ChatGPT for Mac Enthusiasts</u></a></li>
-<li><a href="https://program-issues.techidaily.com/overcoming-system-failures-the-definitive-guide-to-stable-dark-souls-3-play-sessions/"><u>Overcoming System Failures: The Definitive Guide to Stable Dark Souls 3 Play Sessions</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/private-and-safe-ai-interaction-start-using-duckduckgos-chat-for-exclusive-access-to-chatgpt/"><u>Private and Safe AI Interaction: Start Using DuckDuckGo's Chat for Exclusive Access to ChatGPT</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/running-freechat-on-win-a-freedomgpt-guide/"><u>Running FreeChat on Win: A FreedomGPT Guide</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/simplified-steps-for-easy-installation-of-updated-intel-irisplus-graphics-card-driver-v640/"><u>Simplified Steps for Easy Installation of Updated Intel Iris+ Graphics Card Driver V640</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/top-10-best-spy-watches-for-your-vivo-x100-drfone-by-drfone-virtual-android/"><u>Top 10 Best Spy Watches For your Vivo X100 | Dr.fone</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/why-choose-the-chatgpt-desktop-application-over-the-web-version-key-benefits-unveiled/"><u>Why Choose the ChatGPT Desktop Application Over the Web Version: Key Benefits Unveiled</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-2024-approved-best-practices-recording-on-ios-devices/"><u>[New] 2024 Approved Best Practices Recording on iOS Devices</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-2024-approved-interactive-narratives-basics-and-beyond/"><u>[New] 2024 Approved Interactive Narratives Basics and Beyond</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-core-elements-in-virtual-narrative-design-for-2024/"><u>[New] Core Elements in Virtual Narrative Design for 2024</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-in-2024-strategy-breakthroughs-in-packaging/"><u>[New] In 2024, Strategy Breakthroughs in Packaging</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-quality-acoustics-at-an-accessible-price-point-for-2024/"><u>[New] Quality Acoustics at an Accessible Price Point for 2024</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/treamlining-access-to-subscriber-information/"><u>[New] Streamlining Access to Subscriber Information</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/1721985442829-avoid-falling-for-scams-unmasking-the-chrome-hack-that-steals-your-facebook-login-details/"><u>Avoid Falling for Scams: Unmasking the Chrome Hack That Steals Your Facebook Login Details</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/download-the-latest-version-of-sm-bus-controller-for-windows-systems-111087/"><u>Download the Latest Version of SM Bus Controller for Windows Systems (11/10/8/7)</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/how-to-save-netflix-videos-onto-your-pc-or-mac/"><u>How To Save Netflix Videos Onto Your PC or Mac</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/the-future-of-cyber-defense-insights-into-7-phenomena/"><u>The Future of Cyber Defense: Insights Into 7 Phenomena</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/the-ultimate-guide-to-leveraging-microsofts-bing-ai-features-on-your-android-device/"><u>The Ultimate Guide to Leveraging Microsoft's Bing AI Features on Your Android Device</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/to-upgrade-or-not-to-upgrade-the-real-value-of-chatgpt-plus/"><u>To Upgrade or Not to Upgrade: The Real Value of ChatGPT Plus</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/troubleshooting-tips-for-chatgpt-login-difficulties/"><u>Troubleshooting Tips for ChatGPT Login Difficulties</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/ultimate-tools-integrating-gpt-with-advanced-vs-code-features/"><u>Ultimate Tools: Integrating GPT with Advanced VS Code Features</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/unmatched-efficiency-choosing-the-top-5-expert-ai-prompt-creators/"><u>Unmatched Efficiency: Choosing the Top 5 Expert AI Prompt Creators</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/unveiling-the-dead-internet-theory-who-is-your-true-digital-audience/"><u>Unveiling the 'Dead Internet' Theory: Who Is Your True Digital Audience?</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/unveiling-the-risks-when-ai-chatbots-attempt-to-forge-windows-11-activation-key-generation/"><u>Unveiling the Risks: When AI Chatbots Attempt to Forge Windows 11 Activation Key Generation</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/unveiling-the-secrets-of-chatgpts-token-threshold-and-beyond-possibilities/"><u>Unveiling the Secrets of ChatGPT's Token Threshold and Beyond Possibilities</u></a></li>
+<li><a href="https://howto.techidaily.com/why-your-poco-f5-pro-5g-screen-might-be-unresponsive-and-how-to-fix-it-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Why Your Poco F5 Pro 5G Screen Might be Unresponsive and How to Fix It | Dr.fone</u></a></li>
 </ul></div>
 

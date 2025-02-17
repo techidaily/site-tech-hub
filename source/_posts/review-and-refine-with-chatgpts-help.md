@@ -1,7 +1,7 @@
 ---
 title: Review and Refine with ChatGPT's Help
-date: 2024-08-15T22:09:50.015Z
-updated: 2024-08-16T22:09:50.015Z
+date: 2025-02-12T19:40:39.599Z
+updated: 2025-02-16T17:59:53.210Z
 tags:
   - chatgpt
   - open-ai
@@ -16,6 +16,10 @@ thumbnail: https://thmb.techidaily.com/cf912511c25f50537db88a8b568a9135cf27701df
 ## A Comprehensive Review of Top LLMs: Bard, ChatGPT and Offline Alpaca
 
  Large language models (LLMs) come in all shapes and sizes, and will assist you in any way you see fit. But which is best? We put the dominant AIs from Alphabet, OpenAI, and Meta to the test.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## What You Need to Know About AI Chatbots
 
@@ -44,8 +48,9 @@ thumbnail: https://thmb.techidaily.com/cf912511c25f50537db88a8b568a9135cf27701df
 ## Which Is the Most Private Large Language Model?
 
 ![Lego police surrounding a Lego person sitting at a desk.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/eliminating-human-error.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2014/02/Project-Manager-3D-Models-4-800x800.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Both Bard and ChatGPT have extensive privacy policies, and Google repeatedly stresses in its documents that you should "not include information that can be used to identify you or others in your Bard conversations."
@@ -59,14 +64,12 @@ thumbnail: https://thmb.techidaily.com/cf912511c25f50537db88a8b568a9135cf27701df
  In contrast, a local model on your own machine doesn't require an account or share user data with anyone.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726807&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, Lifetime subscription</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Which LLM Has the Best General Knowledge?
 
 ![man at the base of a flagpole flying the flag of nepal](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/man-at-the-base-of-a-flagpole-flying-the-flag-of-nepal.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 
  In order to test which LLM has the best general knowledge, we asked three questions.
 
@@ -80,24 +83,9 @@ thumbnail: https://thmb.techidaily.com/cf912511c25f50537db88a8b568a9135cf27701df
 
  All three chatbots correctly identified Franco Malerba as an Italian astronaut and member of the European Parliament, with Bard giving an answer worded identically to a section of Malerba's Wikipedia entry.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=195080&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrwonder/images/screensaver-software.png" border="0">With Screensaver Wonder you can easily make a screensaver from your own pictures and video files. Create screensavers for your own computer or create standalone, self-installing screensavers for easy sharing with your friends. Together with its sister product Screensaver Factory, Screensaver Wonder is one of the most popular screensaver software products in the world, helping thousands of users decorate their computer screens quickly and easily.</a>
-<!-- affiliate ads end -->
 ## Which LLM Is Good for Technical Instructions?
 
 ![burnt socket for a  BS 1363 type plug](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/burnt-socket-for-a-bs-1363-type-plug.jpg)
-<!-- affiliate ads begin -->
-<span id="1993652">
-					<video width="720" height="300" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  When you have technical problems, you might be tempted to turn to a chatbot for help. While technology marches on, some things remain the same. The BS 1363 electrical plug has been in use in Britain, Ireland, and many other countries since 1947\. We asked the language models how to correctly wire it up.
 
@@ -114,17 +102,22 @@ thumbnail: https://thmb.techidaily.com/cf912511c25f50537db88a8b568a9135cf27701df
 ## Which LLM Is Good for Writing Code?
 
 ![MicroPython logo with snake sitting on a microchip](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/asdfasdf.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37701530&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6fe0c81e3f9438db11ebbfba6c5ce460/products/copy_cbLogo_with_text_blue.png" border="0">CalendarBudget - Monthly subscription membership to CalendarBudget via web browser or mobile app. Support included. </a>
-<!-- affiliate ads end -->
 
 [Python is a useful programming language](https://www.makeuseof.com/what-is-python-used-for/) that runs on most modern platforms. We instructed our models to use Python and "Build a basic calculator program that can perform arithmetic operations like addition, subtraction, multiplication, and division. It should take user input and display the result." This is one of the[best programming projects for beginners](https://www.makeuseof.com/tag/beginner-programming-projects/) .
 
  While both Bard and ChatGPT instantly returned usable and thoroughly commented code, which we were able to test and verify, none of the code from our local model would run.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UCqHbpxQGP4?si=XGkajFHdqyoKNAFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Which LLM Tells the Best Jokes?
 
 ![Yellow ball with laughing expression painted on](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/3d-laughing-emoji-ball-1.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Wy0uYNNdMDM?si=5ir7EHlr0CkpcYOT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Humor is one of the fundamentals of being human and surely one of the best ways of telling man and machine apart. To each of our models, we gave the simple prompt: "Create an original and funny joke."
 
@@ -146,14 +139,11 @@ You read it here first, folks.
 
  If you'd like to create great AI art without worrying that somebody's looking over your shoulder, it's easy to run an art AI model on your local machine, too.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -162,4 +152,26 @@ You read it here first, folks.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-webster.techidaily.com/ed-how-to-create-animated-bouncing-text-for-2024/"><u>[Updated] How to Create Animated Bouncing Text for 2024</u></a></li>
+<li><a href="https://discover-dash.techidaily.com/winxai/"><u>如何利用WinX视频AI：专业的录制、编辑指南和影片压缩技巧</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/hd-hd-video-converter-factory-pro/"><u>一瞬でHD動画を変換する方法 - HD Video Converter Factory Pro ライトニングマルチプレイヤーサポート</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/diy-dvd/"><u>DIY DVDフェイクリーヴン：破損したディスクの傷を完全に取り除くコツ</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/download-top-notch-youtube-thumbnails-with-these-3-strategies/"><u>Download Top-Notch YouTube Thumbnails with These 3 Strategies</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/easy-conversion-guide-transforming-fla-animations-into-high-def-mp4-formats/"><u>Easy Conversion Guide: Transforming .FLA Animations Into High-Def MP4 Formats</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/effortless-methods-to-transform-videos-into-mobile-friendly-formats-instantly/"><u>Effortless Methods to Transform Videos Into Mobile-Friendly Formats Instantly!</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/guide-how-can-i-put-my-dvd-on-youtube/"><u>Guide: How Can I Put My DVD on YouTube?</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/how-to-divide-an-entire-ape-music-collection-into-track-by-track-using-a-gratis-ape-cue-splitter/"><u>How to Divide an Entire APE Music Collection Into Track-by-Track Using a Gratis APE CUE Splitter</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/how-to-securely-get-your-favorite-episodes-from-lookmovie-pro-tips-and-tricks/"><u>How To Securely Get Your Favorite Episodes From LookMovie: Pro Tips & Tricks</u></a></li>
+<li><a href="https://article-tips.techidaily.com/in-2024-mastering-gif-a-step-by-step-guide/"><u>In 2024, Mastering GIF A Step-by-Step Guide</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-prank-your-friends-easy-ways-to-fake-and-share-google-maps-location-on-apple-iphone-se-2020-drfone-by-drfone-virtual-ios/"><u>In 2024, Prank Your Friends! Easy Ways to Fake and Share Google Maps Location On Apple iPhone SE (2020) | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1723208398099-quick-fixes-for-unresponsive-buttons-on-hp-laptops-troubleshoot-now/"><u>Quick Fixes for Unresponsive Buttons on HP Laptops - Troubleshoot Now!</u></a></li>
+<li><a href="https://win11.techidaily.com/smooth-video-playback-from-usb-on-your-sharp-aquos-television/"><u>Smooth Video Playback From USB on Your Sharp Aquos Television</u></a></li>
+<li><a href="https://fox-links.techidaily.com/the-enhancements-in-windows-11-unveiled-for-2024/"><u>The Enhancements in Windows 11 Unveiled for 2024</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/things-you-should-know-when-unlocking-total-wireless-of-iphone-14-pro-drfone-by-drfone-ios/"><u>Things You Should Know When Unlocking Total Wireless Of iPhone 14 Pro | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/top-rated-magsafe-wallets-comprehensive-reviews-by-professionals-techspot/"><u>Top-Rated MagSafe Wallets - Comprehensive Reviews by Professionals | TechSpot</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unraveling-machine-learning-enigmas-the-black-box-phenomenon/"><u>Unraveling Machine Learning Enigmas: The Black Box Phenomenon</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/flvwav/"><u>すぐにFLVビデオをWAV形式に変更する簡単なガイド</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: The Link Between Paperclip Algorithms and AI Innovation
-date: 2024-08-15T22:05:43.367Z
-updated: 2024-08-16T22:05:43.367Z
+date: 2025-02-09T17:03:04.629Z
+updated: 2025-02-16T22:07:46.027Z
 tags:
   - chatgpt
   - open-ai
@@ -22,8 +22,9 @@ thumbnail: https://thmb.techidaily.com/14ec62870ba2076f7e8c9687f751c49a66df2b130
 * [When Is the Official ChatGPT Desktop Version Launching?](https://www.makeuseof.com/cant-wait-for-the-chatgpt-desktop-app-try-this-open-source-alternative-instead/#when-is-the-official-chatgpt-desktop-version-launching)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851655&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Key Takeaways
 
 * OpenAI is releasing a ChatGPT desktop version, starting with macOS and later for Windows.
@@ -37,8 +38,9 @@ thumbnail: https://thmb.techidaily.com/14ec62870ba2076f7e8c9687f751c49a66df2b130
  But if you can't wait—like me!—you can try a free, open-source version instead.
 
 <!-- affiliate ads begin -->
-<a href="https://engwe.pxf.io/c/5597632/2093504/25579" target="_top" id="2093504"><img src="//a.impactradius-go.com/display-ad/25579-2093504" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2093504/25579" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GU08CQVsZz0?si=V-SvPfzRsQysMS0e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## What Is the Open-Source ChatGPT Desktop Application?
 
  ChatGPT users have long wanted a desktop version. The world's leading generative AI chatbot works great in a browser, but sometimes, a desktop app is more convenient.
@@ -50,21 +52,19 @@ thumbnail: https://thmb.techidaily.com/14ec62870ba2076f7e8c9687f751c49a66df2b130
  Developer[Lencx's open source ChatGPT](https://github.com/lencx/ChatGPT) gives you the option to try a desktop version right now, without waiting. It's a website wrapper that runs on Windows, macOS, and Linux, so it's a little basic, but it replicates the functionality of the website, and does a really good job, too.
 
 ![chatgpt open source desktop version login](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/chatgpt-open-source-desktop-version-login.jpg)
-<!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958379/18409" target="_top" id="1958379"><img src="//a.impactradius-go.com/display-ad/18409-1958379" border="0" alt="" width="856" height="508"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958379/18409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  The project's development is currently paused as the official desktop versions are coming soon. The developer says, "I am currently looking for some differentiating features to develop version 2.0." Still, the latest version, V1.1.0, works fine at the time of writing.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=36506229&QTY=1&AFFILIATE=108875&CART=1"><video width="100%" height="" class="rounded-t-md shadow-lg relative z-20" controls="" autoplay="" loop="" muted="" playsinline="" webkit-playinginline="">
-<source type="video/mp4" src="https://aidaform.com/images/videos/aidaform-welcome-site.mp4"><source type="video/webm" src="https://aidaform.com/images/videos/aidaform-welcome-site.webm"></video></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fHWdQw1gRyI?si=ve9wZnPupiooLThG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## How to Install and Configure ChatGPT Desktop Application
 
 ![chatgpt open source desktop version home page](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/chatgpt-open-source-desktop-version-home-page.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=19080710&QTY=1&AFFILIATE=108875&CART=1"><img src="https://smart-seo-tool.com/images/SmartSEOAuditorBox.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 1. Head to the open-source[ChatGPT Desktop Application download page](https://github.com/lencx/ChatGPT/releases/tag/v1.1.0) . The latest version at the time of writing is V1.1.0, but you can check for a newer version.
@@ -76,8 +76,9 @@ thumbnail: https://thmb.techidaily.com/14ec62870ba2076f7e8c9687f751c49a66df2b130
 ![chatgpt open source desktop version makeuseof search result](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/chatgpt-open-source-desktop-version-makeuseof-search-result.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DBanner%2B728x90"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/2e76fe6a-3010-1b37-7846-f34ff9c6b4ca.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/epKTCSREjhI?si=Ez_hObK1FZrmEE7f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## When Is the Official ChatGPT Desktop Version Launching?
 
  The official ChatGPT Desktop app is already slowly rolling out to macOS users.
@@ -86,14 +87,11 @@ thumbnail: https://thmb.techidaily.com/14ec62870ba2076f7e8c9687f751c49a66df2b130
 
  Still, if you can't wait, you can give this open-source ChatGPT desktop version a try instead.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -102,4 +100,21 @@ thumbnail: https://thmb.techidaily.com/14ec62870ba2076f7e8c9687f751c49a66df2b130
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-video-capture.techidaily.com/new-the-ultimate-screen-recorders-guide-trusted-recommendations/"><u>[New] The Ultimate Screen Recorders Guide - Trusted Recommendations</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-mastering-the-art-of-google-podcast-upload/"><u>2024 Approved Mastering the Art of Google Podcast Upload</u></a></li>
+<li><a href="https://article-posts.techidaily.com/2024-approved-spectacular-shot-choices-top-7-4k-action-camera-selections/"><u>2024 Approved Spectacular Shot Choices Top 7 4K Action Camera Selections</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/boost-productivity-the-ultimate-guide-to-using-chatgpt-for-managing-your-time/"><u>Boost Productivity: The Ultimate Guide to Using ChatGPT for Managing Your Time</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/boost-your-browsers-brainpower-leading-artificial-intelligence-extensions-to-elevate-productivity-on-chrome/"><u>Boost Your Browser's Brainpower: Leading Artificial Intelligence Extensions to Elevate Productivity on Chrome</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/effortless-writing-made-easy-with-chatgpt-integration-in-ms-word-your-step-by-step-manual/"><u>Effortless Writing Made Easy with ChatGPT Integration in MS Word - Your Step by Step Manual</u></a></li>
+<li><a href="https://extra-information.techidaily.com/embracing-illusion-what-is-vrs-truth/"><u>Embracing Illusion What Is VR's Truth?</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-how-to-bypass-asus-frp-in-3-different-ways-by-drfone-android/"><u>In 2024, How To Bypass Asus FRP In 3 Different Ways</u></a></li>
+<li><a href="https://facebook.techidaily.com/instagram-chats-end-in-december-what-to-expect/"><u>Instagram Chats End in December: What to Expect</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/leading-ai-creative-hubs-ranking-of-prime-prompt-marketplaces/"><u>Leading AI Creative Hubs: Ranking of Prime Prompt Marketplaces</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/premium-zones-for-collaborative-ai-ideation/"><u>Premium Zones for Collaborative AI Ideation</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/stay-alert-on-twitter-unveiling-new-scams-exploring-the-launch-of-metas-verification-system-and-delving-into-how-chatgpt-4-works/"><u>Stay Alert on Twitter: Unveiling New Scams, Exploring the Launch of Meta's Verification System & Delving Into How ChatGPT-4 Works</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/the-ultimate-ai-debate-llama-3-against-gpt-4-which-reigns-supreme/"><u>The Ultimate AI Debate: LLaMA 3 Against GPT-4 Which Reigns Supreme?</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/transform-your-listening-experience-into-a-learning-adventure-with-podcasts-for-2024/"><u>Transform Your Listening Experience Into a Learning Adventure (With Podcasts) for 2024</u></a></li>
+</ul></div>
 

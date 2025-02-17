@@ -1,7 +1,7 @@
 ---
 title: "Section 2A: Explanation of Hydrostatic Testing in Welded Joints"
-date: 2025-01-05T16:47:47.635Z
-updated: 2025-01-06T16:42:08.190Z
+date: 2025-02-15T20:12:04.201Z
+updated: 2025-02-16T21:26:10.810Z
 tags:
   - apple
 categories:
@@ -25,6 +25,10 @@ Show less
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Microsoft Authenticator
 
@@ -59,10 +63,6 @@ Show less
 [View now at App Store](https://apps.apple.com/us/app/microsoft-office/id541164041)
 
 ## Microsoft Office
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Word, Excel, PowerPoint, and more, in one app
 
@@ -110,10 +110,14 @@ Show less
 
 [View now at App Store](https://apps.apple.com/us/app/microsoft-edge-web-browser/id1288723196)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Microsoft Edge
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### For the first time in decades, Microsoft has a serious mobile browser
@@ -131,10 +135,14 @@ Show less
 [View now at App Store](https://apps.apple.com/us/app/microsoft-teams/id1113153706)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/umvX4ZdWbxk?si=tPXL0-Kzf9SQaY8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Microsoft Teams
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### One stop for video chats, meetings, files, tasks, and calendars
 
@@ -152,10 +160,6 @@ Show less
 
 ## Microsoft To Do
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Keep track of Projects and tasks and send reminders to yourself or your team
 
 People who are passionate about to-do list software can be ... well, _passionate_. And if you're reading this section and spoiling for a chance to explain why Microsoft was foolish to replace Wunderlist with Microsoft To Do, thanks, but we don't need to rehash that decision here. I feel your passion, though.
@@ -171,14 +175,10 @@ Show less
 [View now at App Store](https://apps.apple.com/us/app/remote-desktop-mobile/id714464092)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Remote Desktop Mobile
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QRaEdFMU-Xc?si=OjaiTvlogJy5wHhN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Connect to a desktop PC or server from your mobile device
 
@@ -195,7 +195,7 @@ Show less
 [View now at App Store](https://apps.apple.com/us/app/microsoft-lists/id1530637363)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Microsoft Lists
@@ -240,17 +240,19 @@ Show Expert Take Show less
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-data.techidaily.com/ed-in-2024-discover-the-top-free-platforms-for-youtube-ops/"><u>[Updated] In 2024, Discover the Top Free Platforms for YouTube Ops</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/2024-approved-dissecting-vsdcs-capabilities-in-screen-recording-vs-alternatives/"><u>2024 Approved Dissecting VSDC's Capabilities in Screen Recording vs Alternatives</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/anthropics-ai-transforming-ideas-with-claude-3/"><u>Anthropic's AI: Transforming Ideas with Claude 3</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/expert-tips-to-solve-when-mfc42ddll-is-unavailable-on-your-system/"><u>Expert Tips to Solve When mfc42d.dll Is Unavailable on Your System</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/generative-ai-simplified-for-home-users/"><u>Generative AI Simplified for Home Users</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/how-safe-is-your-data-with-chatgpt-a-deep-dive-into-privacy-concerns/"><u>How Safe Is Your Data with ChatGPT?: A Deep Dive Into Privacy Concerns</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/in-2024-sdr-vs-hdri-elevating-your-content-with-advanced-color-techniques/"><u>In 2024, SDR Vs. HDRI Elevating Your Content with Advanced Color Techniques</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/24-the-essential-blueprint-to-compiling-youtube-soundscape/"><u>In 2024, The Essential Blueprint to Compiling YouTube Soundscape</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/mastering-digital-vaults-best-cloud-platforms-for-future-success-for-2024/"><u>Mastering Digital Vaults Best Cloud Platforms for Future Success for 2024</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/spotlight-on-differences-how-snapchats-ai-stacks-up-against-bing-in-a-faceoff-on-skype-exploring-key-variances-1-8/"><u>Spotlight on Differences: How Snapchat's AI Stacks Up Against Bing in a Faceoff on Skype - Exploring Key Variances #1-#8</u></a></li>
-<li><a href="https://fox-zaraz.techidaily.com/streamline-your-event-planning-with-advanced-editing-tools-and-features/"><u>Streamline Your Event Planning with Advanced Editing Tools and Features</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/why-security-challenges-for-generative-ai-are-set-to-intensify-an-insightful-list/"><u>Why Security Challenges for Generative AI Are Set to Intensify: An Insightful List</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-2024-approved-canvas-beats-the-art-of-cropping-and-editing-video-sound/"><u>[Updated] 2024 Approved Canvas Beats The Art of Cropping and Editing Video Sound</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-precision-is-key-perfecting-close-up-videos-in-videoleap-for-2024/"><u>[Updated] Precision Is Key Perfecting Close-Up Videos in Videoleap for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-the-glare-free-guide-to-stellar-gopro-videos/"><u>[Updated] The Glare-Free Guide to Stellar GoPro Videos</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-eye-catching-graphic-principles-for-podcast-titles/"><u>2024 Approved Eye-Catching Graphic Principles for Podcast Titles</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/advancing-wrist-tech-a-comparative-look-at-apple-watch-series-10-vs-series-8-ready-for-an-upgrade/"><u>Advancing Wrist Tech: A Comparative Look at Apple Watch Series 10 Vs. Series 8 - Ready for an Upgrade?</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/delayed-launch-apples-ai-capabilities-set-for-october-release-sources-say-technews/"><u>Delayed Launch: Apple's AI Capabilities Set for October Release, Sources Say - TechNews</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/exploring-the-most-innovative-apple-macintosh-computers-of-2024-insights/"><u>Exploring the Most Innovative Apple Macintosh Computers of 2024 - Insights</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/harnessing-the-power-of-cookiebot-for-enhanced-user-tracking-and-analytics/"><u>Harnessing the Power of Cookiebot for Enhanced User Tracking & Analytics</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-top-5-from-vivo-s18e-to-iphone-contacts-transfer-apps-and-software-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Top 5 from Vivo S18e to iPhone Contacts Transfer Apps and Software | Dr.fone</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/ipad-pro-versus-macbook-air-determining-the-ideal-device-tailored-to-your-needs-tech-insights/"><u>IPad Pro Versus MacBook Air: Determining the Ideal Device Tailored to Your Needs | Tech Insights</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/samsung-galaxy-book-2ultra-and-apple-macbook-pro-face-off-ultimate-guide-to-high-end-laptops-on-zdnet/"><u>Samsung Galaxy Book 2Ultra and Apple MacBook Pro Face-Off: Ultimate Guide to High-End Laptops on ZDNet</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/saving-strategies-how-apple-could-turn-the-tide-for-frustrated-sonos-owners-tech-innovations-by-zdnet/"><u>Saving Strategies: How Apple Could Turn the Tide for Frustrated Sonos Owners | Tech Innovations by ZDNet</u></a></li>
+<li><a href="https://techtrends.techidaily.com/unraveling-the-confusion-key-differences-between-cat5-and-cat6-network-cables/"><u>Unraveling the Confusion: Key Differences Between Cat5 and Cat6 Network Cables</u></a></li>
+<li><a href="https://facebook.techidaily.com/virtual-buzz-elevating-your-fb-communitys-spotlight/"><u>Virtual Buzz: Elevating Your FB Community's Spotlight</u></a></li>
 </ul></div>
 

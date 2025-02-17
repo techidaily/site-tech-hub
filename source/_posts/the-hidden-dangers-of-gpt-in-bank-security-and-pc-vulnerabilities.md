@@ -1,7 +1,7 @@
 ---
 title: The Hidden Dangers of GPT in Bank Security & PC Vulnerabilities
-date: 2024-08-15T22:08:10.678Z
-updated: 2024-08-16T22:08:10.678Z
+date: 2025-02-15T16:42:43.795Z
+updated: 2025-02-16T23:30:28.133Z
 tags:
   - chatgpt
   - open-ai
@@ -14,6 +14,10 @@ thumbnail: https://thmb.techidaily.com/805eca446b093ae5ce11fb98e26437d115f412aa3
 ---
 
 ## Guard Your AI Conversations with Confidentiality in Mind – Preserve, Don't Purge
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Quick Links
 
@@ -37,15 +41,9 @@ thumbnail: https://thmb.techidaily.com/805eca446b093ae5ce11fb98e26437d115f412aa3
 3. Now, choose**Archive chat** from the context menu.
 
 ![Archiving chat in ChatGPT web](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/12/archiving-chat-in-chatgpt-web.png)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1">Power Tools add-on for Google Sheets, 12-month subscription</a>
-<!-- affiliate ads end -->
 
  The chat will disappear from the sidebar immediately. To access it, you'll need to head to the ChatGPT settings menu, which we'll cover below.
 
-<!-- affiliate ads begin -->
-<a href="https://atezr.pxf.io/c/5597632/2018605/18496" target="_top" id="2018605"><img src="//a.impactradius-go.com/display-ad/18496-2018605" border="0" alt="" width="798" height="807"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2018605/18496" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### How to View Your Hidden ChatGPT Chats on the Web
 
  Whether you want to access a hidden chat or wish to unarchive a conversation, you can follow the steps below:
@@ -61,9 +59,6 @@ thumbnail: https://thmb.techidaily.com/805eca446b093ae5ce11fb98e26437d115f412aa3
 
  Do remember that anyone can access your hidden ChatGPT conversations by heading to the same menu, as they're not locked behind a password.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2095385/26400" target="_top" id="2095385"><img src="//a.impactradius-go.com/display-ad/26400-2095385" border="0" alt="" width="1024" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095385/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## How to Hide ChatGPT Chats on Your iPhone
 
  ChatGPT's mobile app also lets you archive chats, but for now, the feature is limited to the iOS version of the app. However,[OpenAI confirmed on X (formerly Twitter)](https://twitter.com/OpenAI/status/1737517702766633063) that the feature will make it to Android soon. Here's how to hide your ChatGPT chats on iOS:
@@ -75,21 +70,26 @@ thumbnail: https://thmb.techidaily.com/805eca446b093ae5ce11fb98e26437d115f412aa3
 
 ![Selecting a conversation in the ChatGPT app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/12/selecting-a-conversation-in-the-chatgpt-app.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![Long-pressing a conversation from the ChatGPT sidebar](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/12/long-pressing-a-conversation-from-the-chatgpt-sidebar.png)
 
-![Archive confirmation in the ChatGPT app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/12/archive-confirmation-in-the-chatgpt-app.png)
 <!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1821134/17882" target="_top" id="1821134"><img src="//a.impactradius-go.com/display-ad/17882-1821134" border="0" alt="" width="320" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1821134/17882" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+![Archive confirmation in the ChatGPT app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/12/archive-confirmation-in-the-chatgpt-app.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Close
 
  If you don't see the**Archive** option, make sure your app is updated. Once you archive a chat, you won't be able to find it by searching for it from the sidebar.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718728&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/vMixCallScreenshot1-large.jpg" border="0"> vMix Basic HD - Software based live production. vMix Basic HD includes 4 inputs, 3 cameras, streaming, recording, playlist. 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
-<!-- affiliate ads end -->
 ### How to View Your Hidden Chats in the ChatGPT App
 
  Like the web version of ChatGPT, you need to head to ChatGPT's settings menu to access your archived chats. Here's what you need to do:
@@ -100,25 +100,14 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 4. If you choose the latter, you'll be prompted to confirm. Tap**Unarchive** again.
 
 ![ChatGPT app sidebar](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/12/chatgpt-app-sidebar.png)
+
 <!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958374/18409" target="_top" id="1958374"><img src="//a.impactradius-go.com/display-ad/18409-1958374" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958374/18409" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vEYkX2NJgZw?si=IaHqlqJcYipwUOht" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![ChatGPT app settings menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/12/chatgpt-app-settings-menu.png)
 
 ![Archived chats in the ChatGPT app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/12/archived-chats-in-the-chatgpt-app.png)
-<!-- affiliate ads begin -->
-<span id="1993650">
-					<video width="720" height="300" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Close
 
@@ -128,14 +117,11 @@ Close
 
  While archiving is a great way to organize your secret conversations with ChatGPT, it's not a perfect solution like[using ChatGPT Folders to sort all your chats](https://www.makeuseof.com/how-to-use-chatgpt-folders-to-manage-chatgpt-conversations/) . It'd be nice if OpenAI let users lock archived chats behind a password for extra protection in a future update.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -144,4 +130,18 @@ Close
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://hardware-tips.techidaily.com/in-depth-analysis-of-asus-proart-pa32ucxr-a-revolution-in-professional-monitor-accuracy-with-mini-leds/"><u>In-Depth Analysis of Asus ProArt PA32UCXR: A Revolution in Professional Monitor Accuracy with Mini LEDs</u></a></li>
+<li><a href="https://review-topics.techidaily.com/mkv-stutters-on-samsung-galaxy-xcover-6-pro-tactical-edition-and-stops-randomly-by-aiseesoft-video-converter-play-mkv-on-android/"><u>MKV stutters on Samsung Galaxy XCover 6 Pro Tactical Edition and stops randomly</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/save-big-get-the-newly-launched-airpods-pro-2-with-hearing-aid-feature-at-an-unbeatable-24-off-only-today-shop-now-on-zdnet/"><u>Save Big: Get the Newly Launched AirPods Pro 2 with Hearing Aid Feature at an Unbeatable 24% Off Only Today | Shop Now on ZDNET</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/seamlessly-converting-and-merging-mov-files-in-windows-with-simple-tools/"><u>Seamlessly Converting and Merging MOV Files in Windows with Simple Tools</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/simple-steps-how-to-transform-tweets-into-audio-files-mp3/"><u>Simple Steps: How to Transform Tweets Into Audio Files (MP3)</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/solving-the-issue-why-lightworks-cant-read-mp4-files-step-by-step-fix-guide/"><u>Solving the Issue: Why Lightworks Can't Read MP4 Files – Step-by-Step Fix Guide</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/sovol-sv08-evaluation-reviving-the-spirit-of-voron-on-two-wheels/"><u>Sovol SV08 Evaluation: Reviving the Spirit of Voron on Two Wheels</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/step-by-step-beginners-method-for-modifying-video-tempo-in-premiere-pro/"><u>Step-by-Step Beginners' Method for Modifying Video Tempo in Premiere Pro</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/tailored-talk-for-chatgpt-10-custom-enhancements-explored/"><u>Tailored Talk for ChatGPT: 10 Custom Enhancements Explored</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/the-ultimate-guide-to-9-key-video-file-types-advantages-limitations-and-when-to-use-them/"><u>The Ultimate Guide to 9 Key Video File Types - Advantages, Limitations & When to Use Them</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/transforming-channel-visibility-into-subscriber-stardom-on-youtube/"><u>Transforming Channel Visibility Into Subscriber Stardom on YouTube</u></a></li>
+</ul></div>
 

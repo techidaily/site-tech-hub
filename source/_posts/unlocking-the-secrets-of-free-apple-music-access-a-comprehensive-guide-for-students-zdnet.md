@@ -1,7 +1,7 @@
 ---
 title: "Unlocking the Secrets of Free Apple Music Access: A Comprehensive Guide for Students | ZDNet"
-date: 2025-01-04T19:06:34.153Z
-updated: 2025-01-07T00:36:43.703Z
+date: 2025-02-14T17:58:37.898Z
+updated: 2025-02-16T19:05:18.966Z
 tags:
   - apple
 categories:
@@ -32,6 +32,10 @@ Before you get started using Apple Pay in stores and online, here's what you nee
 
 **What you need:** iPhone, banking information
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. Set up Apple Pay in the Wallet app
 
 Before using Apple Pay as your contactless payment form, you need to set it up by adding your credit or debit cards to your iPhone. You can set up Apple Pay from your [iPhone's settings](https://www.zdnet.com/article/dont-change-five-these-iphone-settings/) or simply by going to the Wallet app and adding your cards there. 
@@ -39,6 +43,10 @@ Before using Apple Pay as your contactless payment form, you need to set it up b
 Tap on the Wallet app to open it.
 
 Screenshot by Maria Diaz/ZDNET
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 2\. Tap on the Add Card button and enter Apple Pay info
 
@@ -62,6 +70,10 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 [See all](https://www.zdnet.com/newsletters/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RvR5PNhspKE?si=uJcMYK9v-_Xq7fAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 3\. During check-out, double-click the right-side button of your iPhone
 
 Double-clicking, or, rather, double-pressing, the button on the right side of your iPhone brings up your available cards to use in Apple Pay. Do this when it's time to pay at the checkout counter, and you can then choose your preferred payment card when the Wallet comes up.
@@ -78,10 +90,6 @@ Enter your passcode to confirm Apple Pay payment.
 
 Maria Diaz/ZDNET
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 5\. Hold your iPhone near the payment terminal
 
 Entering your passcode authenticates your payment, so all you need to do next is hold your phone within about an inch of the card reader to process the transaction. 
@@ -96,10 +104,6 @@ Apple
 
 That's it! Apple Pay is as easy as apple pie. (Sorry, I had to.) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## FAQ
 
 ## How do I set up Apple Pay from my iPhone Settings?
@@ -112,7 +116,7 @@ To set up Apple Pay, you go to your iPhone's Settings and follow these steps:
 Once you add your card to your Wallet, you can edit your settings to suit your needs. You can choose to enable Apple Cash; enable the double-click side button to work as a shortcut for Apple Pay' add Express Transit Cards to pay for transit automatically without a passcode or Face ID; edit your transaction information like default card, shipping address, and contact info; and toggle payments on your Mac on and off. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Where can I use Apple Pay to pay in stores and online?
@@ -141,10 +145,6 @@ To use Apple Pay online, choose Apple Pay at checkout from your iPhone or other 
 
 Some services from Apple offer rewards, like cash back on its credit cards, which also translate into Apple Cash. 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## How to use Apple Pay on your Apple Watch
 
 The days of "I forgot my wallet" are long gone. Once you add a card to your Apple Wallet, you enable Apple Pay on your iPhone. But if you have an active Apple Watch linked to that iPhone, you can also use Apple Pay with just your watch, even if you don't have your iPhone with you when you check out. 
@@ -160,7 +160,7 @@ In order to use Apple Pay for contactless payments with your Apple Watch, you ne
 5. Select Transit Card to add an eligible transportation payment card.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GPk8_xpN_rA?si=YbAdgsjAKsCn_UsB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Is Apple Pay secure?
@@ -197,21 +197,20 @@ Using Apple Pay or [Google Pay](https://www.zdnet.com/finance/google-pay-vs-sams
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-capture.techidaily.com/new-essential-mc-house-strategies-6-10-for-2024/"><u>[New] Essential MC House Strategies #6-10 for 2024</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/new-image-distortion-made-easy/"><u>[New] Image Distortion Made Easy</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/new-sprint-showcase-short-track-22-glory/"><u>[New] Sprint Showcase Short Track '22 Glory</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/ed-2024-approved-boosting-income-through-effective-video-marketing/"><u>[Updated] 2024 Approved Boosting Income Through Effective Video Marketing</u></a></li>
-<li><a href="https://fox-links.techidaily.com/updated-discovering-top-10-sites-where-pristine-images-are-abundant-and-free-for-2024/"><u>[Updated] Discovering Top 10 Sites Where Pristine Images Are Abundant and Free for 2024</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/ed-in-2024-the-gastronomes-guidebook-culinary-videos/"><u>[Updated] In 2024, The Gastronome's Guidebook Culinary Videos</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/updated-taringaid-profile-image-details-pixel-count-codec-time-span/"><u>[Updated] TaringaID Profile Image Details Pixel Count, Codec, Time Span</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/2024-approved-step-into-the-future-mastering-instagram-filters-for-enhanced-imagery/"><u>2024 Approved Step Into the Future Mastering Instagram Filters for Enhanced Imagery</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/breaking-down-the-eu-artificial-intelligence-act-and-its-influence-on-gpt-based-dialogue-systems/"><u>Breaking Down the EU Artificial Intelligence Act and Its Influence on GPT-Based Dialogue Systems</u></a></li>
-<li><a href="https://blog-min.techidaily.com/buy-the-complete-winxvideo-ai-software-exclusive-deal-on-our-website/"><u>Buy the Complete Winxvideo AI Software - Exclusive Deal on Our Website</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/decoding-the-debate-understanding-the-variances-between-strong-and-weak-ai-systems/"><u>Decoding the Debate: Understanding the Variances Between Strong and Weak AI Systems</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/has-control-slipped-from-openais-hands-with-chatgpt/"><u>Has Control Slipped From OpenAI's Hands with ChatGPT?</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/how-will-machine-learning-technologies-transform-support-for-emotional-and-cognitive-health/"><u>How Will Machine Learning Technologies Transform Support for Emotional and Cognitive Health?</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/revolutionize-your-job-search-game-with-these-6-innovative-uses-for-chatgpt/"><u>Revolutionize Your Job Search Game with These 6 Innovative Uses for ChatGPT</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/seamlessly-connect-with-ai-your-comprehensive-guide-on-leveraging-quora-chatbot-platforms-and-large-language-models/"><u>Seamlessly Connect with AI: Your Comprehensive Guide on Leveraging Quora, Chatbot Platforms & Large Language Models</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/transforming-typing-with-bing-ai-on-android-an-easy-guide-to-implementation/"><u>Transforming Typing with Bing AI on Android: An Easy Guide to Implementation</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-2024-approved-how-to-preview-off-facebook-activities-and-should-i-leave-it-on-check/"><u>[New] 2024 Approved How to Preview Off-Facebook Activities and Should I Leave It On? Check</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-evolved-methods-for-effective-game-file-logging-for-2024/"><u>[New] Evolved Methods for Effective Game File Logging for 2024</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-2024-approved-navigating-youtube-strikes-understanding-and-resolving-copyright-issues/"><u>[Updated] 2024 Approved Navigating YouTube Strikes Understanding and Resolving Copyright Issues</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-in-2024-unlock-your-videos-potential-with-youtube-link-building-techniques/"><u>[Updated] In 2024, Unlock Your Video's Potential with YouTube Link Building Techniques</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/2024-approved-eliminate-unwanted-screen-elements-during-cam-record/"><u>2024 Approved Eliminate Unwanted Screen Elements During Cam Record</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/1722042099167-best-extensions-save-and-distribute-your-interactions-on-chatgpt/"><u>Best Extensions: Save and Distribute Your Interactions on ChatGPT</u></a></li>
+<li><a href="https://discover-advanced.techidaily.com/step-by-step-guide-preserving-your-system-configurations-with-yl-software/"><u>Step-by-Step Guide: Preserving Your System Configurations with YL Software</u></a></li>
+<li><a href="https://fake-location.techidaily.com/the-best-8-vpn-hardware-devices-reviewed-on-huawei-p60-drfone-by-drfone-virtual-android/"><u>The Best 8 VPN Hardware Devices Reviewed On Huawei P60 | Dr.fone</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/understanding-predictive-artificeial-intelligence-mechanisms-and-applications/"><u>Understanding Predictive Artificeial Intelligence: Mechanisms & Applications</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/understanding-the-impact-of-chatgpt-copilot-on-your-browsing-experience/"><u>Understanding the Impact of ChatGPT Copilot on Your Browsing Experience</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/understanding-why-chatgpt-4-lags-behind-the-speed-of-chatgpt-35/"><u>Understanding Why ChatGPT-4 Lags Behind the Speed of ChatGPT- 3.5</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/1721909644999-unraveling-elon-musks-vision-a-deep-dive-into-the-intriguing-world-of-truthgpt/"><u>Unraveling Elon Musk's Vision: A Deep Dive Into the Intriguing World of TruthGPT</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/unveiling-chatgpts-limits-the-in-depth-guide-on-exceeding-its-token-quota-for-more-comprehensive-responses/"><u>Unveiling ChatGPT's Limits: The In-Depth Guide on Exceeding Its Token Quota for More Comprehensive Responses</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/voice-eradication-made-simple-a-comprehensive-guide-to-deleting-singers-from-audio-files-in-audacity/"><u>Voice Eradication Made Simple A Comprehensive Guide to Deleting Singers From Audio Files in Audacity</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/web-mastery-through-gpt-3-creating-interactive-experiences/"><u>Web Mastery Through GPT-3: Creating Interactive Experiences</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: ZDNet Reveals the 4 iPhone & MacBook Models Best to Skip This Year!
-date: 2025-02-05T03:15:30.377Z
-updated: 2025-02-07T11:43:52.933Z
+date: 2025-02-13T18:11:53.899Z
+updated: 2025-02-16T20:35:44.348Z
 tags:
   - apple
 categories:
@@ -22,19 +22,11 @@ It may surprise you that MP3 players (also known as digital audio players or DAP
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Wy0uYNNdMDM?si=5ir7EHlr0CkpcYOT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## What is the best MP3 player right now?
 
 We rounded up the top MP3 players you can buy by evaluating storage, battery life, media type, and price to deliver this curated list of picks. My top choice for best MP3 player overall is the [Sony NW-A306 Walkman](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fsony-nw-a306-walkman-a-series-black%2F6531351.p%3FskuId%3D6531351&publisher_slug=itechdaily19598&exclusive=1) thanks to its compact design, price, and high-quality audio, but I've rounded up the best MP3 players on the market today that are worth ditching your smartphone for. 
 
 **Also:** [**The best sound systems you can buy**](https://www.zdnet.com/home-and-office/home-entertainment/best-sound-system/)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## The best MP3 players of 2024
 
@@ -49,6 +41,10 @@ Pros
 
 Cons 
 * Can be a bit tricky to use with a Mac
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Sony NW-A306 Walkman
 
@@ -81,14 +77,10 @@ Cons
 * Does not bookmark your position in a book or song
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iPCr_bxZjMQ?si=ubOsoq5umPEXL9xL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## AGPTEK A02X 32GB MP3 Player
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2En1CHbiYwA?si=jZKzTr9EIT2ShjGK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Best budget MP3 player
 
@@ -109,7 +101,7 @@ Show less
 ## Mighty 3 Spotify Music Player
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Best mini MP3 player
@@ -151,10 +143,6 @@ The player comes with Android 10 right out of the box so that you can access the
 
 Show Expert Take Show less 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aG3NRuHrIJg?si=HwzwD0RXmrzIXX1V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## What is the best MP3 player?
 
 The best MP3 player for most people is the Sony NW-A306 Walkman, based on compatibility and price. It also has an impressively long battery life of up to 36 hours. 
@@ -165,6 +153,10 @@ The best MP3 player for most people is the Sony NW-A306 Walkman, based on compat
 | AGPTEK A02X          | $30       | 32GB plus microSD                    | Up to 40 hours       |
 | Mighty 3             | $125      | 8GB                                  | 8 hours              |
 | Fiio M11S            | $500      | 32GB                                 | 13 hours             |
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f-yPCh24EsA?si=3z8FAd_lMZeAjug7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Which MP3 player is right for you?
 
@@ -189,7 +181,7 @@ There are several considerations to keep in mind before purchasing an MP3 player
 * **Price:** MP3 players vary greatly in price, from budget-friendly picks to expensive ones built for audiophiles.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How did we choose these MP3 players?
@@ -206,9 +198,17 @@ This all depends on the amount of storage that is on the MP3 device. The number 
 * 32GB = 8,000 songs
 * 64GB = 16,000 songs
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Is it worth it to buy an MP3 player?
 
 In 2024, you might wonder if it's even worth buying an MP3 player when you can just listen to music on your smartphone. However, MP3 players are great for kids who want to listen to music but don't yet have a smartphone, people who like to run or hike outside, or those who simply want to listen to music without any distractions from their phones.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## What are the different audio formats?
 
@@ -270,19 +270,15 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-content.techidaily.com/updated-2024-approved-twitch-sharing-techniques-for-facebook-integration/"><u>[Updated] 2024 Approved Twitch Sharing Techniques for Facebook Integration</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/1-apples-latest-innovation-exploring-enhancements-in-the-new-3rd-gen-airpods-a-comprehensive-zdnet-review/"><u>1. Apple's Latest Innovation: Exploring Enhancements in the New 3Rd Gen AirPods - A Comprehensive ZDNet Review</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/2024-approved-techniques-for-harvesting-hd-facebook-videos/"><u>2024 Approved Techniques for Harvesting HD Facebook Videos</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/automate-responses-using-chatgpt-on-whatsapp-for-better-support/"><u>Automate Responses Using ChatGPT on WhatsApp for Better Support</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/creative-utilization-tactics-for-gpt-models/"><u>Creative Utilization Tactics for GPT Models</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/exploring-the-boundaries-5-key-issues-with-using-chatgpt-for-crypto-investment-insights/"><u>Exploring the Boundaries: 5 Key Issues with Using ChatGPT for Crypto Investment Insights</u></a></li>
-<li><a href="https://win-bits.techidaily.com/extending-your-computers-life-essential-tips-from-yl-computing-and-yl-software/"><u>Extending Your Computer's Life: Essential Tips From YL Computing & YL Software</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/how-to-restore-missing-chatgpt-interaction-histories/"><u>How to Restore Missing ChatGPT Interaction Histories</u></a></li>
-<li><a href="https://fox-links.techidaily.com/in-2024-celebrated-20-independent-pubg-photo-sequences/"><u>In 2024, Celebrated 20 Independent PUBG Photo Sequences</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-vivo-v27-to-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Vivo V27 To Phone | Dr.fone</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-still-using-pattern-locks-with-huawei-tips-tricks-and-helpful-advice-by-drfone-android/"><u>In 2024, Still Using Pattern Locks with Huawei? Tips, Tricks and Helpful Advice</u></a></li>
-<li><a href="https://article-tips.techidaily.com/leading-4k-gaming-pcs-top-ten-selection-for-2024/"><u>Leading 4K Gaming PCs - Top Ten Selection for 2024</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/l-your-vlogs-forward-top-seo-tech-unveiled-for-2024/"><u>Propel Your Vlogs Forward – Top SEO Tech Unveiled for 2024</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/the-comprehensive-guide-to-authenticating-health-information-sourced-from-ai-tools/"><u>The Comprehensive Guide to Authenticating Health Information Sourced From AI Tools</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-smarter-recording-on-mac-top-10-screen-capturing-software-insight/"><u>[New] Smarter Recording on Mac Top 10 Screen Capturing Software Insight</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-cutting-edge-tools-for-youtube-content-capture/"><u>[Updated] Cutting-Edge Tools for YouTube Content Capture</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/building-better-dialogue-flows-with-user-persona-customization-in-chatgpt-environments/"><u>Building Better Dialogue Flows with User Persona Customization in ChatGPT Environments</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/five-insights-into-the-meteoric-ascension-of-chatgpt-in-todays-digital-age/"><u>Five Insights Into the Meteoric Ascension of ChatGPT in Today's Digital Age</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/mastering-truth-in-ai-medical-advice-fact-checking-techniques/"><u>Mastering Truth in AI Medical Advice: Fact-Checking Techniques</u></a></li>
+<li><a href="https://fox-that.techidaily.com/muting-an-iphone-without-the-silent-button-solutions-for-a-non-responsive-switch/"><u>Muting an iPhone Without the Silent Button - Solutions for a Non-Responsive Switch</u></a></li>
+<li><a href="https://driver-download.techidaily.com/netgears-top-of-the-line-router-get-the-new-wnas3100-driver-download-and-installation-instructions/"><u>Netgear's Top-of-the-Line Router: Get the New WNAS3100 Driver Download & Installation Instructions</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/steer-clear-of-these-blunders-expert-strategies-for-using-chatgpt-in-writing-blogs-and-articles/"><u>Steer Clear of These Blunders: Expert Strategies for Using ChatGPT in Writing Blogs and Articles</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/the-power-of-ai-in-the-office-leveraging-chatgpt-for-smarter-workday-management/"><u>The Power of AI in the Office: Leveraging ChatGPT for Smarter Workday Management</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/troubleshooting-slow-steam-downloads-on-windows-devices/"><u>Troubleshooting Slow Steam Downloads on Windows Devices</u></a></li>
 </ul></div>
 

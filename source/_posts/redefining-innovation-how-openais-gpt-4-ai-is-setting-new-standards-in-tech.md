@@ -1,7 +1,7 @@
 ---
 title: "Redefining Innovation: How OpenAI's GPT-4 AI Is Setting New Standards in Tech"
-date: 2024-08-15T22:08:24.751Z
-updated: 2024-08-16T22:08:24.751Z
+date: 2025-02-13T18:58:32.054Z
+updated: 2025-02-16T21:44:27.704Z
 tags:
   - chatgpt
   - open-ai
@@ -34,9 +34,6 @@ thumbnail: https://thmb.techidaily.com/a413f5ab643b8cf8455ddf8b717ffddc460e77cb8
 
  But Bard was never the AI titan people hoped for, and GPT-4 remains the dominant generative AI chat bot platform. Now, Google's Gemini is here—but is the long-awaited AI model better than ChatGPT?
 
-<!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1872456/14483" target="_top" id="1872456"><img src="//a.impactradius-go.com/display-ad/14483-1872456" border="0" alt="" width="500" height="375"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872456/14483" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## What Is Google's Gemini AI Model?
 
 [Gemini is Google's most capable generative AI model](https://www.makeuseof.com/what-is-googles-ai-project-gemini/) , able to understand and operate across different data formats, including text, audio, image, and video. It is Google's attempt to create a unified AI model drawing capabilities from its most capable AI technologies. Gemini will be available in three variants:
@@ -50,8 +47,9 @@ thumbnail: https://thmb.techidaily.com/a413f5ab643b8cf8455ddf8b717ffddc460e77cb8
  With an unprecedented 90.0% score on the rigorous MMLU benchmark, Google says Gemini Ultra is the first model to surpass human-level performance on this multifaceted test spanning 57 subjects.
 
 ![google gemini ai data comparing to open ai gpt4 model](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/12/google-gemini-ai-data-comparing-to-open-ai-gpt4-model.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2084396/18498" target="_top" id="2084396"><img src="//a.impactradius-go.com/display-ad/18498-2084396" border="0" alt="" width="1920" height="700"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084396/18498" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 [Google](https://blog.google/technology/ai/google-gemini-ai/#performance)
@@ -59,13 +57,18 @@ thumbnail: https://thmb.techidaily.com/a413f5ab643b8cf8455ddf8b717ffddc460e77cb8
  Gemini Ultra can also understand, explain, and generate high-quality code in some of the world's most popular programming languages, including Go, JavaScript, Python, Java, and C++. On paper, these are all great results. But these are all benchmarks, and benchmarks do not always tell the whole story. So, how well does Gemini perform in real-world tasks?
 
 <!-- affiliate ads begin -->
-<a href="https://cowinaudio.pxf.io/c/5597632/1116855/13794" target="_top" id="1116855"><img src="//a.impactradius-go.com/display-ad/13794-1116855" border="0" alt="" width="767" height="285"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1116855/13794" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## How to Use Google Gemini AI
 
  Of the three variants of the Gemini AI model, you can start using Gemini Pro right now. Gemini Pro is currently available on Google's Bard chatbot. To use Gemini Pro with Bard, head to[bard.google.com](http://bard.google.com/chat) and sign in with your Google account.
 
  Google says that Gemini Ultra will roll out in January 2024, so we've had to settle for testing Gemini Pro against ChatGPT for now.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How Gemini Compares to GPT-3.5 and GPT-4
 
@@ -80,8 +83,9 @@ thumbnail: https://thmb.techidaily.com/a413f5ab643b8cf8455ddf8b717ffddc460e77cb8
 We tried ChatGPT running on GPT-3.5\. The first trial got it right.
 
 ![ChatGPT answers math question](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/12/chatgpt-answers-math-question.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://parisrhonecom.sjv.io/c/5597632/1922358/21553" target="_top" id="1922358"><img src="//a.impactradius-go.com/display-ad/21553-1922358" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1922358/21553" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ITtcSWvS8bo?si=4M4BfMgaabrW6148" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  To test Gemini's image interpretation abilities, we tasked it with interpreting some popular memes. It declined, saying it can't interpret images with people in it. ChatGPT, running GPT-4V, was willing and able to do so flawlessly.
@@ -91,16 +95,14 @@ We tried ChatGPT running on GPT-3.5\. The first trial got it right.
 Here's the source screenshot.
 
 ![screenshot of Chatbase chatbot creator](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/12/screenshot-to-replicate.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://godlikehost.sjv.io/c/5597632/1920054/21774" target="_top" id="1920054"><img src="//a.impactradius-go.com/display-ad/21774-1920054" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920054/21774" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Below is Gemini Pro's attempt to interpret and replicate the screenshot using HTML and CSS.
 
 ![results of screenshot replication by Bard](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/12/results-of-screenshot-replication-by-bard.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4530091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/cit_win/banScrn.jpg" border="0">CollageIt Pro</a>
-<!-- affiliate ads end -->
 
  And here's GPT-4's attempt at replicating the screenshot. The result is not surprising, considering GPT-4 has historically been strong at coding. We've previously demonstrated[using GPT-4 to build a web app from scratch](https://www.makeuseof.com/chatgpt-how-build-web-app/) .
 
@@ -122,14 +124,11 @@ Here's the source screenshot.
 
  Google says Gemini Ultra is going to be much better. We truly hope it is, and that it meets or exceeds the claims made in the Gemini Ultra announcement. But until we see and test the best version of Google's generative AI tool, we won't know if it can unseat other AI model competitors. As it stands, GPT-4 remains the undisputed AI model champion.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -138,4 +137,20 @@ Here's the source screenshot.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-webster.techidaily.com/ree-youtube-channel-art-templates/"><u>[New] Free YouTube Channel Art Templates</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-revel-in-every-box-with-these-strategies/"><u>[New] Revel in Every Box with These Strategies</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/2024-approved-subtlety-in-sound-fading-out-effectively-in-logic-pro/"><u>2024 Approved Subtlety In Sound Fading Out Effectively in Logic Pro</u></a></li>
+<li><a href="https://fox-info.techidaily.com/2024-approved-unlock-reddits-potential-for-your-brand-with-these-top-tactics/"><u>2024 Approved Unlock Reddit's Potential for Your Brand with These Top Tactics</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/3-best-tools-to-hard-reset-realme-v30t-drfone-by-drfone-reset-android-reset-android/"><u>3 Best Tools to Hard Reset Realme V30T | Dr.fone</u></a></li>
+<li><a href="https://apple-account.techidaily.com/a-step-by-step-guide-to-finding-your-apple-id-from-your-apple-iphone-15-by-drfone-ios/"><u>A Step-by-Step Guide to Finding Your Apple ID From Your Apple iPhone 15</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/kodi-v19-matrix-update-comprehensive-guide-on-compatibility-new-features-and-step-by-step-installation/"><u>Kodi v19 Matrix Update - Comprehensive Guide on Compatibility, New Features & Step-by-Step Installation</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/mkv/"><u>MKVファイルで音声不在について: 理由と改善法</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/page-not-found-alert-discover-the-new-location-with-wonderfox/"><u>Page Not Found Alert: Discover the New Location with WonderFox</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/quickly-rip-thor-the-dark-world-movie-from-dvd-without-compromising-on-quality/"><u>Quickly Rip Thor: The Dark World Movie From DVD without Compromising on Quality</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/save-and-enjoy-your-favorite-coub-videos-with-ease/"><u>Save and Enjoy Your Favorite Coub Videos with Ease</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/unlock-your-samsung-galaxy-a25-5gs-potential-the-top-20-lock-screen-apps-you-need-to-try-by-drfone-android/"><u>Unlock Your Samsung Galaxy A25 5Gs Potential The Top 20 Lock Screen Apps You Need to Try</u></a></li>
+<li><a href="https://win11.techidaily.com/windows-upgrade-wisdom-efficiently-shifting-your-pcs-programming/"><u>Windows Upgrade Wisdom: Efficiently Shifting Your PC's Programming</u></a></li>
+</ul></div>
 

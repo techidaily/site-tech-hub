@@ -1,7 +1,7 @@
 ---
 title: "Comparing Top AI Chatbots: ChatGPT Plus Vs. Perplexity – Which Wins?"
-date: 2024-08-15T22:04:27.996Z
-updated: 2024-08-16T22:04:27.996Z
+date: 2025-02-14T18:45:42.832Z
+updated: 2025-02-16T22:56:04.220Z
 tags:
   - chatgpt
   - open-ai
@@ -17,11 +17,19 @@ thumbnail: https://thmb.techidaily.com/9dc3437ed1a0c4e12ecf0fe73c74b8d72b51654a1
 
  The wildly popular ChatGPT has affected the way people write code, conduct research, and even learn. But how well does ChatGPT work in the kitchen? Here’s what happened when we used the AI app to teach us how to cook delicious and healthy meals.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/VxFUhesNCKo?si=Ti0ui6DXYP12sjSs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. How to Get Basic Recipes and Tips on ChatGPT
 
  For the most part, ChatGPT handles basic recipe and cooking questions well. Prompts like “what's a healthy recipe for salmon?” or “how do I make a salad that tastes good?” provide fine responses for starter recipes.
 
 ![ChatGPT salmon recipe part 1](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/chatgpt-salmon-recipe-part-1.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oySc0DiqmKc?si=8pynRzuhlq2RUPZ6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  In addition, the chatbot can assist with everyday cooking questions, such as providing helpful techniques for preparing eggs in a more nutritious way upon request. With its ability to provide immediate and tailored advice, this feature offers a practical resource for anyone looking to make healthier and more informed cooking choices.
 
@@ -30,46 +38,38 @@ thumbnail: https://thmb.techidaily.com/9dc3437ed1a0c4e12ecf0fe73c74b8d72b51654a1
  Healthier cooking options are just a simple prompt away. If you're already a fan of the[best healthy eating apps](https://www.makeuseof.com/best-healthy-eating-apps/) , such as Mealime, then ChatGPT can offer similar recipes and advice. Because you can keep asking ChatGPT to refine its answers or omit any ingredients, however, it's a more interactive option than standard recipe collections.
 
 <!-- affiliate ads begin -->
-<a href="https://tokenmetrics.sjv.io/c/5597632/1864921/20702" target="_top" id="1864921"><img src="//a.impactradius-go.com/display-ad/20702-1864921" border="0" alt="" width="1251" height="1042"/></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 2\. Refine Your Prompts for Personalized ChatGPT Recipe Selections
 
  More specific prompts like “design a healthy breakfast with adequate protein and vegetables” or “what's a healthy, vegetarian dinner with spices like turmeric and red pepper?” also provide appropriate recipes. Get as specific as you like with the prompts.
 
 ![ChatGPT healthy breakfast options part 2](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/chatgpt-healthy-breakfast-options-part-2.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2097467/26400?prodsku=B700" target="_top" id="2097467"><img src="//a.impactradius-go.com/display-ad/26400-2097467" border="0" alt="" width="640" height="640"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097467/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Don't feel like visiting the grocery store? Note the ingredients you already have on hand and the app can (usually) find an appropriate recipe.
 
 ![ChatGPT dinner ideas with what you have on hand](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/chatgpt-dinner-ideas-with-what-you-have-on-hand.jpg)
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698827&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3REpage-newmainscreenshot.png" border="0">DEX 3 RE is Easy-To-Use DJ Mixing Software for MAC and Windows Designed for Today's Versatile DJ. 
-
- Mix from your own library of music, iTunes or use the Pulselocker subsciprtion service for in-app access to over 44 million songs. Use with over 85 supported DJ controllers or mix with a keyboard and mouse.  
-
- DEX 3 RE is everything you need without the clutter - the perfect 2-deck mixing software solution for mobile DJs or hard-core hobbiests.  
- PCDJ DEX 3 RE (DJ Software for Win & MAC - Product Activation For 3 Machines)</a>
-<!-- affiliate ads end -->
 
  It can also streamline your grocery shopping process. Prompt it to "please provide a healthy grocery shopping list" or "create a shopping list for a week's worth of lunch salads with plenty of protein." This option is perfect for those days when you don't have the brainpower to think about cooking.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3546200&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.binteko.com/sites/default/files/banner01_468x60a.gif" border="0"></a>
-<!-- affiliate ads end -->
 ## 3\. Get ChatGPT to Teach You Cooking Skills in a Variety of Ways
 
  Assign roles or an audience to the app to learn about cooking in the way you prefer. For instance, the prompt “come up with a fun recipe for vegetables for a five-year-old please” provides a cute recipe for Super Veggie Kabobs.
 
 ![ChatGPT healthy meal for kids directions](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/chatgpt-healthy-meal-for-kids-part-2-1.jpg)
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296855&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/recode/Nero_Recode_Screen_2.png" border="0"></a>
-<!-- affiliate ads end -->
 
  Meanwhile, the prompt “please provide a healthy vegetable recipe as though you are an upscale professional chef” offers a recipe for Seared Asparagus with Lemon-Herb Gremolata. With plenty of fresh herbs for flavor, it's a delicious addition to any meal. Who knew the chatbot had such elegant taste?
 
  In other words, use your prompts to find recipes that suit your needs and interests. Tailor them to your family's nutritional needs, or try out different types of cuisine from around the world.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Does ChatGPT Provide Useful Nutritional Information?
 
@@ -83,21 +83,15 @@ thumbnail: https://thmb.techidaily.com/9dc3437ed1a0c4e12ecf0fe73c74b8d72b51654a1
 
  It also offers the caveat that nutritional science is still evolving and recommends consulting with a registered dietitian or healthcare professional for more personalized information. If you want some additional resources, then check out the[best websites to learn more about healthy eating](https://www.makeuseof.com/best-websites-learn-healthy-eating/) , including Nutritionfacts.org and Open Food Facts.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082529/7443" target="_top" id="2082529"><img src="//a.impactradius-go.com/display-ad/7443-2082529" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082529/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Boost Your Healthy Cooking Skills With ChatGPT
 
  With its vast selection of recipes, ChatGPT is a helpful companion for any home chef looking to create healthy meals. While the exact number of recipes it has available is difficult to pin down, the chatbot's endlessly adjustable recipe options will help you create fantastic meals for quite some time. Because it's so easy to use—and fantastically free from advertisements or off-topic ramblings—ChatGPT is an excellent resource for online recipes and cooking advice.
-
 
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -106,4 +100,22 @@ thumbnail: https://thmb.techidaily.com/9dc3437ed1a0c4e12ecf0fe73c74b8d72b51654a1
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-files.techidaily.com/new-tips-for-effective-screen-broadcasts-on-fb-live/"><u>[New] Tips for Effective Screen Broadcasts on FB Live</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-2024-approved-screensnatchers-guide-to-beautifully-free-bgs-on-tiktok/"><u>[Updated] 2024 Approved ScreenSnatchers' Guide to Beautifully Free BGs on TikTok</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-job-market-gems-shortlist-for-success-for-2024/"><u>[Updated] Job Market Gems - Shortlist for Success for 2024</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-navigate-to-these-10-online-havens-showcasing-striking-3d-texts/"><u>[Updated] Navigate to These 10 Online Havens Showcasing Striking 3D Texts</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-shaping-stories-the-art-of-deformed-photographyvideo-words-for-2024/"><u>[Updated] Shaping Stories The Art of Deformed Photography/Video Words for 2024</u></a></li>
+<li><a href="https://fox-info.techidaily.com/2024-approved-pixel-pizzazz-top-10-screenshot-sticker-enhancers-for-iphonesandroids/"><u>2024 Approved Pixel Pizzazz Top 10 Screenshot Sticker Enhancers for iPhones/Androids</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-strategic-use-of-outdoor-light-for-internal-comfort/"><u>2024 Approved Strategic Use of Outdoor Light for Internal Comfort</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/erase-iphone-data-on-your-own-easy-diy-techniques-unveiled/"><u>Erase iPhone Data on Your Own: Easy DIY Techniques Unveiled</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/exploring-the-potential-of-chatgpt-in-assisting-with-cybercrime-tool-development/"><u>Exploring the Potential of ChatGPT in Assisting with Cybercrime Tool Development</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/from-disorganized-to-organized-adopting-gpt-in-notetaking/"><u>From Disorganized to Organized: Adopting GPT in Notetaking</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/in-2024-navigating-the-world-of-audio-editing-in-audacity-for-mac-devices/"><u>In 2024, Navigating the World of Audio Editing in Audacity for Mac Devices</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/reimagining-connections-discover-how-chatgpt-powers-up-6-key-functions-in-modern-smartwatches/"><u>Reimagining Connections: Discover How ChatGPT Powers Up 6 Key Functions in Modern Smartwatches</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/securing-your-ideal-career-with-chatgpts-expert-assistance/"><u>Securing Your Ideal Career with ChatGPT's Expert Assistance</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/the-hidden-dangers-of-neural-network-model-inversions-to-chatbot-privacy-and-data-security/"><u>The Hidden Dangers of Neural Network Model Inversions to Chatbot Privacy and Data Security</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/why-you-should-consider-transitioning-to-claude-3-over-chatgpt/"><u>Why You Should Consider Transitioning to Claude 3 Over ChatGPT</u></a></li>
+</ul></div>
 

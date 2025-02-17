@@ -1,7 +1,7 @@
 ---
 title: "Mastering MacOS with Craft: The Ultimate Guide to Using This Remarkable Document Editor"
-date: 2025-02-05T21:16:26.699Z
-updated: 2025-02-07T04:58:26.390Z
+date: 2025-02-14T20:10:23.087Z
+updated: 2025-02-16T18:27:30.784Z
 tags:
   - apple
 categories:
@@ -21,7 +21,7 @@ But then something sort of magical happened -- I started using the app. Once I u
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What is Craft?
@@ -40,7 +40,7 @@ To help you out, I'm going to walk you through the creation of a document in Cra
 Once you have Craft installed, you're ready to start building your first document.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/j5gTm5KxtQ0?si=onF1rBS2nEM5nLGg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Create a document in Craft
@@ -64,7 +64,7 @@ Below the cover image, type the title of the page and then start typing addition
 Think of each section of text as a block (similar to that in WordPress). Add new blocks to the document as needed. And that's how you build the basic sections of your document.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/r_wWybMqZEM?si=0nPjCQDLS2MCaQbG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eMEJvwMM0vk?si=EQF_jo_4u9v5iJ_C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Adding external sources
@@ -78,7 +78,7 @@ Image: Jack Wallen
 Now we're getting somewhere. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Link a document to another
@@ -129,19 +129,22 @@ This free app should be on the radar of anyone who struggles to organize their c
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-blog.techidaily.com/ow-cost-leverage-to-youtube-lore-sponsorship-hacks-for-small-spheres/"><u>[New] Low-Cost Leverage to YouTube Lore Sponsorship Hacks for Small Spheres</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-comprehensive-guide-to-sound-in-powerpoint-presentations-for-2024/"><u>[Updated] Comprehensive Guide to Sound in PowerPoint Presentations for 2024</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/updated-whip-up-a-fresh-web-comedic-bite-sized-delight-for-2024/"><u>[Updated] Whip Up a Fresh Web Comedic Bite-Sized Delight for 2024</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/crash-course-for-gamers-overcoming-diablo-2-resurrecteds-unexpected-shutdowns/"><u>Crash Course for Gamers: Overcoming Diablo 2 Resurrected's Unexpected Shutdowns</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/cutting-through-the-mullvad-myth/"><u>Cutting Through the Mullvad Myth</u></a></li>
-<li><a href="https://win-extraordinary.techidaily.com/how-to-restore-a-lost-main-disk-partition-on-windows-11-a-step-by-step-guide/"><u>How to Restore a Lost Main Disk Partition on Windows 11: A Step-by-Step Guide</u></a></li>
-<li><a href="https://win-tips.techidaily.com/ifind-data-salvage-a-comprehensive-tutorial-on-retrieving-your-cameras-raw-images/"><u>IFinD Data Salvage: A Comprehensive Tutorial on Retrieving Your Camera's Raw Images</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-top-10-poco-c55-android-sim-unlock-apk-by-drfone-android/"><u>In 2024, Top 10 Poco C55 Android SIM Unlock APK</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/leverage-chatgpt-for-streamlined-home-chores/"><u>Leverage ChatGPT for Streamlined Home Chores</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/pioneering-artificial-intelligence-for-superior-online-scouring/"><u>Pioneering Artificial Intelligence for Superior Online Scouring</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/step-by-step-guide-reducing-size-of-ipad-videos-while-preserving-original-quality/"><u>Step-by-Step Guide: Reducing Size of iPad Videos While Preserving Original Quality</u></a></li>
-<li><a href="https://techtrends.techidaily.com/uncovering-lost-contacts-a-guide-to-retrieving-deleted-numbers-from-your-android-device/"><u>Uncovering Lost Contacts: A Guide to Retrieving Deleted Numbers From Your Android Device</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/using-vpns-for-privacy-when-interacting-with-chatgpt-online/"><u>Using VPNs for Privacy When Interacting With ChatGPT Online</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/wondrous-revelation-chat-with-the-ai-gpt-master/"><u>Wondrous Revelation: Chat with the AI GPT Master</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-2024-approved-coffee-stain-solution-on-iphone-fast-free-and-effective/"><u>[New] 2024 Approved Coffee Stain Solution on iPhone - Fast, Free, and Effective</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-2024-approved-secure-and-detailed-best-ways-to-document-fb-call-footage/"><u>[New] 2024 Approved Secure & Detailed Best Ways to Document FB Call Footage</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-boosting-zoom-clarity-the-guide-to-using-filters-wisely-for-2024/"><u>[New] Boosting Zoom Clarity The Guide to Using Filters Wisely for 2024</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-2024-approved-investigating-ffmpeg-for-intact-audio-preservation/"><u>[Updated] 2024 Approved Investigating FFmpeg for Intact Audio Preservation</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/1725285633082-dvd/"><u>【直接対答】不思議にも、以前は鑑賞可能だったDVDを今や見ることができない理由とその解決方法</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/2024-approved-the-ultimate-screencapture-guide-for-laptop-techies/"><u>2024 Approved The Ultimate ScreenCapture Guide for Laptop Techies</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/anticipating-apples-revolutionary-m4-chips-integrating-ai-across-all-mac-models-release-timeline-revealed-zdnet/"><u>Anticipating Apple's Revolutionary M4 Chips: Integrating AI Across All Mac Models - Release Timeline Revealed | ZDNet</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/boosting-iphone-capabilities-with-apples-new-feature-understanding-the-impact-of-google-gemini-on-ios-devices-digital-future-insights/"><u>Boosting iPhone Capabilities with Apple's New Feature - Understanding the Impact of Google Gemini on iOS Devices | Digital Future Insights</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/costly-limitations-on-apples-latest-artificial-intelligence-integration-excluding-older-iphones-zdnet-revealed/"><u>Costly Limitations on Apple's Latest Artificial Intelligence Integration Excluding Older iPhones | ZDNET Revealed</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/customizing-the-control-center-on-ios-18-a-step-by-step-guide-zdnet/"><u>Customizing the Control Center on iOS 18: A Step-by-Step Guide - ZDNet</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/deciding-your-ideal-tablet-in-depth-review-of-apples-m1-vs-m2-ipad-pro-models-zdnet/"><u>Deciding Your Ideal Tablet: In-Depth Review of Apple's M1 Vs. M2 iPad Pro Models | ZDNET</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/diagnosing-and-repairing-the-absence-of-dbghelpdll-in-windows-systems/"><u>Diagnosing and Repairing the Absence of Dbghelp.dll in Windows Systems</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/expert-strategies-for-enhancing-your-daily-productivity-a-comprehensive-guide-insights-from-zdnet/"><u>Expert Strategies for Enhancing Your Daily Productivity: A Comprehensive Guide - Insights From ZDNet</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/here-are-some-of-the-best-pokemon-discord-servers-to-join-on-realme-c51-drfone-by-drfone-virtual-android/"><u>Here are Some of the Best Pokemon Discord Servers to Join On Realme C51 | Dr.fone</u></a></li>
+<li><a href="https://video-capture.techidaily.com/mastering-lenovo-perfecting-screen-capture-techniques/"><u>Mastering Lenovo Perfecting Screen Capture Techniques</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/revolutionary-artificial-intelligence-features-coming-soon-to-apples-next-gen-iphones-exclusive-insights/"><u>Revolutionary Artificial Intelligence Features Coming Soon to Apple's Next-Gen iPhones: Exclusive Insights</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/why-i-choose-apple-watch-series-7-over-series-10-the-ultimate-wearables-guide-on-zdnet/"><u>Why I Choose Apple Watch Series 7 Over Series 10 - The Ultimate Wearables Guide on ZDNet</u></a></li>
 </ul></div>
 

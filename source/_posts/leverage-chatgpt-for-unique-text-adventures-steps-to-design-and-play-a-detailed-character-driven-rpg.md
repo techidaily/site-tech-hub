@@ -1,7 +1,7 @@
 ---
 title: "Leverage ChatGPT for Unique Text Adventures: Steps to Design and Play a Detailed, Character-Driven RPG"
-date: 2024-08-15T22:09:31.553Z
-updated: 2024-08-16T22:09:31.553Z
+date: 2025-02-09T23:49:43.939Z
+updated: 2025-02-16T21:08:13.688Z
 tags:
   - chatgpt
   - open-ai
@@ -31,9 +31,6 @@ thumbnail: https://thmb.techidaily.com/29fde795ffee614c269b7a4e148b93d0201f16c6e
 
  A whole new world of prompt engineering is springing into life, all dedicated to crafting and perfecting the art of AI prompting. But you can skip the tricky bits and improve your AI prompting game with these tips and tricks.
 
-<!-- affiliate ads begin -->
-<a href="https://bluetties.sjv.io/c/5597632/2039292/17094" target="_top" id="2039292"><img src="//a.impactradius-go.com/display-ad/17094-2039292" border="0" alt="BLUETTI NEW LAUNCH AC240" width="954" height="1020"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2039292/17094" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 1 Be as Specific as Possible
 
  One[ChatGPT prompt mistake](https://www.makeuseof.com/chatgpt-prompt-mistakes-to-avoid/) is not being specific with the information you give, and this is also a problem when using Microsoft Copilot and other AI tools. If you want AI to provide more accurate results, you need to tell it exactly what you're looking for.p
@@ -46,12 +43,12 @@ thumbnail: https://thmb.techidaily.com/29fde795ffee614c269b7a4e148b93d0201f16c6e
 
 ![A gym routine generated with ChatGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/screenshot-2024-04-08-at-12-59-46.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  The more context you provide your AI tool, the better of a response you'll receive.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=36506229&QTY=1&AFFILIATE=108875&CART=1"><video width="100%" height="" class="rounded-t-md shadow-lg relative z-20" controls="" autoplay="" loop="" muted="" playsinline="" webkit-playinginline="">
-<source type="video/mp4" src="https://aidaform.com/images/videos/aidaform-welcome-site.mp4"><source type="video/webm" src="https://aidaform.com/images/videos/aidaform-welcome-site.webm"></video></a>
-<!-- affiliate ads end -->
 ## 2 Ask for More Information After Getting an Initial Answer
 
  As you use tools like ChatGPT more frequently, you'll quickly learn that the first answer you get shouldn't always be taken as is. In the same way that you'd ask a person further questions to get more information out of them, you should do the same when prompting with AI.
@@ -59,8 +56,9 @@ thumbnail: https://thmb.techidaily.com/29fde795ffee614c269b7a4e148b93d0201f16c6e
  This time, we've asked our AI tool to give us a three-day San Francisco itinerary for a couple's trip. Using the first tip mentioned in this guide and being more specific, we got a pretty good outline.
 
 ![An itinerary generated with ChatGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/screenshot-2024-04-08-at-13-06-24.png)
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851655&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/umvX4ZdWbxk?si=tPXL0-Kzf9SQaY8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  However, I wanted to get further information that wasn't included. So, I asked for hotel recommendations within a customized budget:
@@ -89,6 +87,10 @@ thumbnail: https://thmb.techidaily.com/29fde795ffee614c269b7a4e148b93d0201f16c6e
 
  Once you've received one prompt's results, you can move on to the next one until you're happy with everything. Doing things this way might seem more time-consuming, but[single-tasking often improves productivity](https://www.makeuseof.com/master-single-tasking-using-technology-improve-productivity/) , and it's the same for your AI, too.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zXUt81WsQpI?si=W3DKIAsa2-qbGadJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 5 Tell Your AI Tool What You Don't Want in Your Answer
 
  Do you remember in our first point when we told you to be as specific as possible? This also means you should let your AI tool know what you don't want in your answers. While generative AI can produce some pretty cool results, it can't guess everything for you.
@@ -96,15 +98,17 @@ thumbnail: https://thmb.techidaily.com/29fde795ffee614c269b7a4e148b93d0201f16c6e
  When designing your prompt, be very specific about what you don't want in your results. For example, if you're planning a trip, you may want to mention that you don't want to join tours or would prefer to avoid popular spots.
 
 ![Answer options from ChatGPT, based on what the user did and didn't want ](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/screenshot-2024-04-08-at-13-38-46.png)
+
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2090698/16836" target="_top" id="2090698"><img src="//a.impactradius-go.com/display-ad/16836-2090698" border="0" alt="" width="720" height="300"/></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Sometimes, your AI tool will give you multiple options in your answers. You can then choose whichever one works best for you.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4599952&QTY=1&AFFILIATE=108875&CART=1"><iframe width="864" height="500" src="https://www.youtube.com/embed/jVnfr5HudQw" title="The Latest and Easiest Solution to Remove Kindle DRM on Windows (without Degrading)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>Epubor Ultimate for Mac:Helps you read books anywhere, including the best eBook Converter + eBook DRM Removal functions.</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l-SCWTWpegY?si=oxTsHQkIu1v4-I6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 6 Upload Images or Files (if Available)
 
  Uploading images or files will often make your AI prompts much more effective. For example, if you want to[create a one-page resume with AI](https://www.makeuseof.com/create-one-page-resume/) , it's worth uploading an existing PDF and getting feedback. You can use several plugins to get better responses, especially if you use ChatGPT. One example is[Resume by jobbright.ai](https://chat.openai.com/g/g-MrgKnTZbc-resume) .
@@ -120,20 +124,14 @@ thumbnail: https://thmb.techidaily.com/29fde795ffee614c269b7a4e148b93d0201f16c6e
  If you use the information from your AI prompt online, it's worth specifically mentioning where you'll use it. That way, you won't need to edit your results as much.
 
 ![A LinkedIn post generated with ChatGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/screenshot-2024-04-08-at-13-54-04.png)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=22741618&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.diskpart.com/resource/images/index/dp-index-img-banner-people@2x.png" border="0">Easy and Safe Partition Software & Hard Disk Manager</a>
-<!-- affiliate ads end -->
 
  AI prompting takes some time to become competent with, and you'll need to adjust how you type depending on the tool you use and the information you wish to extract. The good news, however, is that you normally only need small tweaks to make your prompts deliver better results. Having read this guide, you should now be in a much better place to prompt more efficiently.
-
 
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -142,4 +140,20 @@ thumbnail: https://thmb.techidaily.com/29fde795ffee614c269b7a4e148b93d0201f16c6e
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-zero.techidaily.com/igital-delegates-top-youtube-creators-by-followers-for-2024/"><u>[New] Digital Delegates Top YouTube Creators by Followers for 2024</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-in-2024-be-bold-on-igtv-the-10-cutting-edge-video-concepts-for-your-brand/"><u>[New] In 2024, Be Bold on IGTV The 10 Cutting-Edge Video Concepts for Your Brand</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/tudou/"><u>「土豆(Tudou)からのビデオダウンロードガイド」</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/2024-approved-behind-the-headset-todays-vr-tomorrows-trials/"><u>2024 Approved Behind the Headset Today's VR, Tomorrow's Trials</u></a></li>
+<li><a href="https://article-posts.techidaily.com/alives-sound-reduction-secrets-revealed-for-2024/"><u>Alive's Sound Reduction Secrets Revealed for 2024</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/in-2024-blend-modes-for-perfect-clip-integration/"><u>In 2024, Blend Modes for Perfect Clip Integration</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/the-ultra-30-camera-a-detailed-examination-by-garmin/"><u>The Ultra 30 Camera - A Detailed Examination by Garmin</u></a></li>
+<li><a href="https://games-able.techidaily.com/top-144hz-widescreen-panels-peak-pc-gaming-performance/"><u>Top 144Hz Widescreen Panels: Peak PC Gaming Performance</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/trouble-adding-mp4-to-imovie-discover-how-to-successfully-integrate-your-video/"><u>Trouble Adding MP4 to iMovie? Discover How to Successfully Integrate Your Video!</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/try-our-premium-ipad-film-editor-software-for-free-and-complete-your-purchase-safely-after-testing/"><u>Try Our Premium iPad Film Editor Software for Free and Complete Your Purchase Safely After Testing</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/ultimate-guide-to-choosing-the-perfect-aiot-videocoder-updated-recommendations-and-tips/"><u>Ultimate Guide to Choosing the Perfect AIOT Videocoder - Updated Recommendations & Tips!</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/ultimate-guide-convert-your-favorite-tiktoks-into-high-quality-mp3-files-using-the-leading-converters-of-2023/"><u>Ultimate Guide: Convert Your Favorite TikToks Into High-Quality MP3 Files Using the Leading Converters of 2023</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/unlocking-productivity-why-blackberry-dominates-in-enterprise-mobility-solutions/"><u>Unlocking Productivity: Why BlackBerry Dominates in Enterprise Mobility Solutions</u></a></li>
+</ul></div>
 

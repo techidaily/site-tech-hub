@@ -1,7 +1,7 @@
 ---
 title: Enhancing Your Interaction with ChatGPT's New Tools
-date: 2024-08-15T22:09:15.732Z
-updated: 2024-08-16T22:09:15.732Z
+date: 2025-02-09T18:58:59.492Z
+updated: 2025-02-16T23:04:39.622Z
 tags:
   - chatgpt
   - open-ai
@@ -18,6 +18,10 @@ thumbnail: https://thmb.techidaily.com/c4be10a970b234d5f6880acef4bdb2e4828d9b824
  ChatGPT is wowing the world with its uncanny ability to help users answer different types of queries in succinct responses. Plus, ChatGPT has myriad other uses, from writing professional emails and resumes to generating code or spreadsheet formulas. These amazing browser extensions augment ChatGPT's abilities to make the AI responses and prompts better than ever.
 
  While some of the extensions improve the ChatGPT app, others use the AI's abilities in other webapps (such as Gmail) to improve the experience there. Do note that all but of one of these extensions require you to have a registered free account on OpenAI's ChatGPT portal.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 1\. WebChatGPT
 
@@ -36,9 +40,9 @@ thumbnail: https://thmb.techidaily.com/c4be10a970b234d5f6880acef4bdb2e4828d9b824
 **Download:** WebChatGPT for[Chrome](https://chrome.google.com/webstore/detail/chatgpt-advanced/lpfemeioodjbpieminkklglpmhlngfcn) |[Firefox](https://addons.mozilla.org/en-US/firefox/addon/web-chatgpt/) (Free)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=36506229&QTY=1&AFFILIATE=108875&CART=1"><video width="100%" height="" class="rounded-t-md shadow-lg relative z-20" controls="" autoplay="" loop="" muted="" playsinline="" webkit-playinginline="">
-<source type="video/mp4" src="https://aidaform.com/images/videos/aidaform-welcome-site.mp4"><source type="video/webm" src="https://aidaform.com/images/videos/aidaform-welcome-site.webm"></video></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 2\. ChatGPT Prompt Genius
 
  ChatGPT can seem magical when you see screenshots of some of the answers it gives people. But those screenshots don't show the prompts users have typed to make ChatGPT better. Like[learning the best Google search operators](https://www.makeuseof.com/tag/best-google-search-tips-pdf/) , you need to know how to frame the right prompts for ChatGPT. And this extension can help.
@@ -69,6 +73,10 @@ thumbnail: https://thmb.techidaily.com/c4be10a970b234d5f6880acef4bdb2e4828d9b824
 
 **Download:** ChatGPT Writer for[Chrome](https://chrome.google.com/webstore/detail/chatgpt-writer-write-mail/pdnenlnelpdomajfejgapbdpmjkfpjkp/) (Free)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/umvX4ZdWbxk?si=tPXL0-Kzf9SQaY8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 4\. YouTube Summary With ChatGPT
 
  YouTube creators have the option to add a transcript of their full video or not. As a user, you have no control over this. Many times, all you want is a transcript to quickly browse through what the video is going to say so that you can know if it's worth your time.
@@ -86,8 +94,9 @@ thumbnail: https://thmb.techidaily.com/c4be10a970b234d5f6880acef4bdb2e4828d9b824
 **Download:** YouTube Summary With ChatGPT for[Chrome](https://chrome.google.com/webstore/detail/youtube-summary-with-chat/nmmicjeknamkfloonkhhcjmomieiodli) |[Safari](https://apps.apple.com/us/app/glasp-social-web-highlighter/id1605690124) (Free)
 
 <!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793237/19578" target="_top" id="1793237"><img src="//a.impactradius-go.com/display-ad/19578-1793237" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793237/19578" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 5\. Talk-to-ChatGPT
 
  ChatGPT is currently a text-only AI app where the prompts and the answers are written. But Google Chrome offers some excellent voice commands and text-to-speech features. Talk-to-ChatGPT bridges this gap to let you issue prompts by talking to your computer and having the ChatGPT answers read aloud by AI.
@@ -99,8 +108,9 @@ thumbnail: https://thmb.techidaily.com/c4be10a970b234d5f6880acef4bdb2e4828d9b824
 **Download:** Talk-to-ChatGPT for[Chrome](https://chrome.google.com/webstore/detail/talk-to-chatgpt/hodadfhfagpiemkeoliaelelfbboamlk) (Free)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729642&QTY=1&AFFILIATE=108875&CART=1">Advanced Find and Replace for Google Sheets, Lifetime subscription</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 6\. ChatGPT for Search Engines
 
  ChatGPT for Search Engines is one of the[best new web search apps](https://www.makeuseof.com/web-search-apps-make-google-better-or-replace-google/) that presents ChatGPT answers alongside regular search results on Google or DuckDuckGo. It also works with Bing, but you don't need that anymore, given Microsoft has already officially integrated the two.
@@ -109,15 +119,9 @@ thumbnail: https://thmb.techidaily.com/c4be10a970b234d5f6880acef4bdb2e4828d9b824
 
 **Download:** ChatGPT for Search Engines for[Chrome](https://chrome.google.com/webstore/detail/chatgpt-for-search-engine/feeonheemodpkdckaljcjogdncpiiban/) |[Firefox](https://addons.mozilla.org/en-US/firefox/addon/chatgpt-for-search-engines/) |[Edge](https://microsoftedge.microsoft.com/addons/detail/chatgpt-for-search-engine/pnglghgjhaklojnjpkhcdidgalehmkbn) (Free)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4715391&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
-<!-- affiliate ads end -->
 ## 7\. Perplexity AI
 
 ![query answers by perplexity ai extension](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/perplexity-ai.jpg)
-<!-- affiliate ads begin -->
-<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=36245101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/zang_box_trust.png" border="0">ZoneAlarm Extreme Security NextGen</a>
-<!-- affiliate ads end -->
 
  The decentralization of information and knowledge has done much good in recent years. But, like anything in tech, it carries an ugly side to it, too. The rise of fake news and misinformation, for instance, is one of its biggest unwanted by-products.
 
@@ -127,23 +131,17 @@ thumbnail: https://thmb.techidaily.com/c4be10a970b234d5f6880acef4bdb2e4828d9b824
 
 **Download:** Perplexity AI for[Chrome](https://chrome.google.com/webstore/detail/perplexity-ai-companion/hlgbcneanomplepojfcnclggenpcoldo) (Free)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082535/7443" target="_top" id="2082535"><img src="//a.impactradius-go.com/display-ad/7443-2082535" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082535/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## ChatGPT Is Awesome, But Be Realistic…
 
  With these extensions including search results in ChatGPT, showing you how to use the right prompts, and using AI to improve YouTube or Gmail, you might think it's time to offload a majority of your work to ChatGPT. But take a breath.
 
  Yes, the AI capabilities are amazing compared to what has existed before this, but ChatGPT isn't ready for prime-time yet. It still has a long way to go and depends largely upon the user keying in the right prompts. The data that it bases its answers on can also leave a lot to be desired in certain cases. For now, feel free to use it, but don't rely wholly on it, and take those results with a pinch of salt.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -152,4 +150,24 @@ thumbnail: https://thmb.techidaily.com/c4be10a970b234d5f6880acef4bdb2e4828d9b824
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-help.techidaily.com/new-streamline-your-content-creation-iphoneipad-screen-recordings-on-youtube/"><u>[New] Streamline Your Content Creation IPhone/iPad Screen Recordings on YouTube</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-pinnacle-of-low-speed-video-recording-top-5/"><u>[Updated] Pinnacle of Low-Speed Video Recording – Top 5</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-streamlining-video-uploads-tips-for-transforming-h-vids-for-igtv-for-2024/"><u>[Updated] Streamlining Video Uploads Tips for Transforming H-Vids for IGTV for 2024</u></a></li>
+<li><a href="https://video-capture.techidaily.com/2024-approved-the-essentials-of-screen-capture-with-fraps/"><u>2024 Approved The Essentials of Screen Capture with Fraps</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/6-solutions-to-unlock-xiaomi-phones-if-you-forgot-password-pin-pattern-by-drfone-android/"><u>6 Solutions to Unlock Xiaomi Phones If You Forgot Password, PIN, Pattern</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/1726030136838-flvwav/"><u>高速で容易なFLVファイルのWAVへの変換方法</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/1726027500129-dvd/"><u>DVDからデータ移行：パソコンに保存する具体的方法</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-enable-usb-debugging-on-a-locked-motorola-moto-g-stylus-2023-phone-by-drfone-android/"><u>How To Enable USB Debugging on a Locked Motorola Moto G Stylus (2023) Phone</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/1726028618632-itunes/"><u>ITunesで高解像度音楽をダウンロードするための普遍的なガイド: 異なるファイルタイプへの変換方法</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/music-infused-learning-a-research-driven-approach-to-languages/"><u>Music-Infused Learning: A Research-Driven Approach to Languages</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/netgear-wi-fi-router-driver-installation-and-update-guide-and-resources/"><u>NETGEAR Wi-Fi Router Driver Installation & Update Guide and Resources</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/1726030016366-pcdvd-dvd/"><u>PCへの市販DVDインポート手順 - DVDコピー</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/1726026843308-pc/"><u>PCやスマホで快適に動画通話を録画、録音する方法：カカオトーク用ガイド</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/1726029310589-top-rated-ogg-to-mp3-transcoder-ultimate-guide-for-pc-and-mac-users-updated/"><u>Top Rated OGG to MP3 Transcoder: Ultimate Guide for PC & Mac Users (Updated )</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/troubleshooting-guide-resolving-launch-issues-with-starfield-on-steam-and-xbox/"><u>Troubleshooting Guide: Resolving Launch Issues with Starfield on Steam and Xbox</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/1726027854675-dvd/"><u>ジャニーズDVD パソコンに移行するための専用無料アプリとその使い方 - 初心者向け詳細マニュアル</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/1726028698929-bluetooth/"><u>ワイヤレスBluetoothイヤホン録音方法：最新の操作手順</u></a></li>
+</ul></div>
 

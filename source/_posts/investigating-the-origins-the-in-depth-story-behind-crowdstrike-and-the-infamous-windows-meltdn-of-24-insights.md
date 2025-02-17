@@ -1,7 +1,7 @@
 ---
 title: "Investigating the Origins: The In-Depth Story Behind CrowdStrike and the Infamous Windows Meltdn of '24 | Insights"
-date: 2025-01-30T21:14:20.802Z
-updated: 2025-02-07T03:40:22.214Z
+date: 2025-02-12T16:33:14.091Z
+updated: 2025-02-16T18:06:04.062Z
 tags:
   - apple
 categories:
@@ -33,7 +33,7 @@ In this case, the trusted software developer is a firm called CrowdStrike Holdin
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What happened?
@@ -55,7 +55,7 @@ Repairing the damage from a flaw like this is a painfully tedious process that r
 If you know anyone whose job involves administering Windows PCs in a corporate network that uses the CrowdStrike code, you can be confident they are very busy right now, and will be for days to come.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GyfJUhsz_AY?si=x2HjoLX1B89oEPgZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## We've seen this movie before
@@ -95,7 +95,7 @@ In the You Can't Make This Up Department… CrowdStrike's founder and CEO, Georg
 What makes the 2024 sequel so much worse is that it also affected Windows-based servers running in the cloud, on Microsoft Azure and on AWS. Just as with the many laptops and desktop PCs that were bricked by this faulty update, the cloud-based servers require time-consuming manual interventions to recover.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## CrowdStrike's QA failed
@@ -125,7 +125,7 @@ As part of its initial response, CrowdStrike says it plans to take additional me
 Meanwhile, the United States House of Representatives Homeland Security Committee plans to call CrowdStrike's CEO up for hearings on what went wrong, and CrowdStrike's Chief Security Officer, Shawn Henry, [posted an apology on LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:7220983915421806592/), admitting "On Friday, we failed you. ... The confidence we built in drips over the years was lost in buckets within hours, and it was a gut punch."
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How much fault should Microsoft shoulder?
@@ -176,14 +176,19 @@ Nonetheless, this incident, which caused many billions of dollars' worth of dama
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-cutting-edge-techniques-for-ios-users-uploading-videos-to-youtube/"><u>[New] In 2024, Cutting-Edge Techniques for iOS Users Uploading Videos to YouTube</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/he-benefits-of-tubebuddy-manage-your-youtube-channel-for-2024/"><u>[New] The Benefits of TubeBuddy | Manage Your YouTube Channel for 2024</u></a></li>
-<li><a href="https://article-files.techidaily.com/2024-approved-optimal-data-buffering-for-sony-a7s-ii/"><u>2024 Approved Optimal Data Buffering for Sony A7S II</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/a-bilingual-mindsets-benefits-countdown-to-6/"><u>A Bilingual Mindset's Benefits Countdown to 6</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/alteremailonprotonbrowser-a-step-by-step-guide/"><u>AlterEmailOnProtonBrowser: A Step-By-Step Guide</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/in-2024-discover-hidden-audio-makers-6-stealthy-iosandroid-tools/"><u>In 2024, Discover Hidden Audio Makers 6 Stealthy iOS/Android Tools</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/revolutionizing-personal-gadgets-6-ways-chatgpt-is-shaping-the-future-of-smartwatches/"><u>Revolutionizing Personal Gadgets: 6 Ways ChatGPT Is Shaping the Future of Smartwatches</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/streamline-your-day-discover-9-ways-chatgpt-enhances-daily-living/"><u>Streamline Your Day: Discover 9 Ways ChatGPT Enhances Daily Living</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/understanding-gpts-blindspot-the-reason-behind-its-inability-to-recognize-its-own-output/"><u>Understanding GPT's Blindspot: The Reason Behind Its Inability to Recognize Its Own Output</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-streamline-storytelling-with-inshots-transition-features-for-2024/"><u>[New] Streamline Storytelling with Inshot's Transition Features for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-piceditorpro-assessment-complete-review/"><u>[Updated] PicEditorPro Assessment – Complete Review</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-unleashing-shareability-secrets-of-trending-on-fb-for-2024/"><u>[Updated] Unleashing Shareability Secrets of Trending on Fb for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/2024-approved-capturing-stunning-hdr-portraits-step-by-step-instructions/"><u>2024 Approved Capturing Stunning HDR Portraits Step-by-Step Instructions</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/discover-apples-fall-lineup-innovative-ai-infused-upgrades-coming-to-iphone-ipad-and-mac-full-expose-by-zdnet/"><u>Discover Apple's Fall Lineup: Innovative AI-Infused Upgrades Coming to iPhone, iPad, and Mac - Full Exposé by ZDNet</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/exclusive-pick-for-the-ultimate-stylus-tablet-of-216plus372-in-depth-analysis-and-expert-ratings-gizmosphere/"><u>Exclusive Pick for the Ultimate Stylus Tablet of 2^16+3(7/2): In-Depth Analysis and Expert Ratings | GizmoSphere</u></a></li>
+<li><a href="https://article-posts.techidaily.com/gradient-goes-night-premieres-trick/"><u>Gradient Goes Night Premiere's Trick</u></a></li>
+<li><a href="https://discover-exceptional.techidaily.com/how-to-embed-a-brand-logo-directly-on-the-main-web-page-with-flipbuilder-complete-guide/"><u>How To Embed A Brand Logo Directly On The Main Web Page With FlipBuilder - Complete Guide</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/how-to-successfully-bypass-icloud-activation-lock-on-iphone-7-plus-by-drfone-ios/"><u>How to Successfully Bypass iCloud Activation Lock on iPhone 7 Plus</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-fix-oem-unlock-missing-on-xiaomi-13-ultra-by-drfone-android/"><u>In 2024, How To Fix OEM Unlock Missing on Xiaomi 13 Ultra?</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/inside-apples-next-move-diving-into-artificial-intelligence-with-future-home-robotics/"><u>Inside Apple's Next Move: Diving Into Artificial Intelligence with Future Home Robotics</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/install-ios-16-preview-on-your-iphone-today-essential-guide-and-considerations/"><u>Install IOS 16 Preview on Your iPhone Today – Essential Guide & Considerations</u></a></li>
+<li><a href="https://win-dash.techidaily.com/roccat-mousedeck-installer-where-to-find-and-download-the-latest-version/"><u>Roccat Mousedeck Installer: Where to Find and Download the Latest Version</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/top-4-kid-friendly-ipads-expert-reviews-and-buying-guide-zdnet/"><u>Top 4 Kid-Friendly iPads : Expert Reviews & Buying Guide (ZDNet)</u></a></li>
 </ul></div>
 

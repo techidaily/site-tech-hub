@@ -1,7 +1,7 @@
 ---
 title: "Inside Look: Highlights and Missing Links From Apple'e 'Fast & Furious Tech' Event – A Detailed Analysis | ZDNET"
-date: 2024-12-30T21:50:27.550Z
-updated: 2025-01-07T03:40:28.783Z
+date: 2025-02-15T18:29:47.560Z
+updated: 2025-02-17T00:21:33.891Z
 tags:
   - apple
 categories:
@@ -40,11 +40,11 @@ For a recap of all the products unveiled during Apple's "Scary Fast" event -- an
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-## What products did get announced
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+## What products did get announced
 
 ## M3 chips in all sizes
 
@@ -67,7 +67,7 @@ Much like the M2 processors that classify Apple's latest Mac computers by perfor
 * M3 Max: Starting at 16 main processing cores (12 performance and four efficiency) and 40 graphics cores, and now supports up to 128GB of unified memory
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qbuund2HKOQ?si=NaGHqIrx8hSL7gWV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. 14-inch and 16-inch MacBook Pro
@@ -87,7 +87,7 @@ What hasn't changed is the form factors of the new MacBook Pros, with Liquid Ret
 The 14- and 16-inch MacBook Pros are available for preorder right now, starting at $1,599 and $2,499, respectively, with the M3 and M3 Pro models seeing earlier ship times (as soon as next week), and the M3 Max models being slated for late November.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Hpne0zPsZwU?si=yN5QDsG_WLb_Y3u-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. iMac with M3
@@ -102,11 +102,11 @@ Apple says the M3 chip allows the new 24-inch iMac to perform at twice the speed
 
 The 24-inch iMac is now available for preorder starting at $1,299 and will begin shipping next week.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## What products didn't get announced
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GPk8_xpN_rA?si=YbAdgsjAKsCn_UsB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 1\. 13-inch MacBook Pro
 
@@ -119,7 +119,7 @@ It's not unreasonable to assume that it may be the end of the line for Apple's f
 If there was any time for the company to further the gap between its old laptops and the new, Apple's "Scary Fast" event just made the most sense.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Magic Keyboard and Mouse with USB-C
@@ -166,21 +166,22 @@ The keynote presentation began on Monday, Oct. 30, 2023, at 5 p.m. PT (8 p.m. ET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-boxes.techidaily.com/new-2024-approved-balancing-soundtracks-with-visual-storytelling-in-trailers/"><u>[New] 2024 Approved Balancing Soundtracks with Visual Storytelling in Trailers</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/inding-the-best-sound-editing-software-for-video-makers/"><u>[New] Finding the Best Sound Editing Software for Video Makers</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-blissful-bites-best-stress-busting-gaming-for-2024/"><u>[Updated] Blissful Bites Best Stress-Busting Gaming for 2024</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/2024-approved-instagram-speed-demos-like-video-duo-for-rapid-growth/"><u>2024 Approved Instagram Speed Demos Like-Video Duo for Rapid Growth</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/approved-mastering-youtube-stat-tracking-essentials/"><u>2024 Approved Mastering YouTube Stat Tracking Essentials</u></a></li>
-<li><a href="https://location-social.techidaily.com/change-location-on-yik-yak-for-your-tecno-camon-30-pro-5g-to-enjoy-more-fun-drfone-by-drfone-virtual-android/"><u>Change Location on Yik Yak For your Tecno Camon 30 Pro 5G to Enjoy More Fun | Dr.fone</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/crack-the-case-with-ai-indulge-in-4-intriguing-online-puzzles/"><u>Crack the Case with AI: Indulge in 4 Intriguing Online Puzzles</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/delving-into-ais-purpose-positives-and-potential-threats/"><u>Delving Into AI's Purpose, Positives & Potential Threats</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/in-depth-acer-chromebook-r-11-assessment-sleek-design-and-ultra-portable/"><u>In-Depth Acer Chromebook R 11 Assessment - Sleek Design & Ultra Portable</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/launch-an-affordable-chatbot-ai-on-pc-with-gpt4all/"><u>Launch an Affordable Chatbot AI on PC with GPT4All</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/nutrition-made-simple-using-chatgpt-to-tailor-your-healthy-food-plans/"><u>Nutrition Made Simple: Using ChatGPT to Tailor Your Healthy Food Plans</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/1722903177009-samsung-soundbar-woes-heres-how-you-can-get-it-working-again/"><u>Samsung Soundbar Woes? Here's How You Can Get It Working Again</u></a></li>
-<li><a href="https://win-marvelous.techidaily.com/step-by-step-guide-to-correctly-unplugging-usb-drives-from-your-computer-with-tips-from-yl-software-experts/"><u>Step-by-Step Guide to Correctly Unplugging USB Drives From Your Computer with Tips From YL Software Experts</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/turing-test-explained-and-future-competitors/"><u>Turing Test Explained & Future Competitors?</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/unlocking-potential-with-openai-api-a-users-handbook-to-infinite-creativity/"><u>Unlocking Potential with OpenAI API - A User's Handbook to Infinite Creativity</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/whats-the-reality-behind-prompt-engineering-as-a-profession-uncovering-9-crucial-points/"><u>What's the Reality Behind Prompt Engineering as a Profession? Uncovering 9 Crucial Points</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-captivate-audiences-with-effective-and-appealing-video-previews-for-2024/"><u>[New] Captivate Audiences with Effective and Appealing Video Previews for 2024</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-perfecting-tiktok-videos-efficient-techniques-for-numerical-edits/"><u>[New] Perfecting TikTok Videos Efficient Techniques for Numerical Edits</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-humor-weaver-androids-in-chains-for-2024/"><u>[Updated] Humor Weaver Androids in Chains for 2024</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-the-complete-guide-to-voice-overs-in-multimedia-projects/"><u>[Updated] The Complete Guide to Voice-Overs in Multimedia Projects</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-activate-and-use-life360-ghost-mode-on-tecno-pova-5-pro-drfone-by-drfone-virtual-android/"><u>How To Activate and Use Life360 Ghost Mode On Tecno Pova 5 Pro | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-android-to-apple-how-to-transfer-photos-from-tecno-spark-20-proplus-to-ipad-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Android to Apple How To Transfer Photos From Tecno Spark 20 Pro+ to iPad Easily | Dr.fone</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/in-2024-how-to-transfersync-notes-from-apple-iphone-14-pro-max-to-ipad-drfone-by-drfone-transfer-from-ios/"><u>In 2024, How to Transfer/Sync Notes from Apple iPhone 14 Pro Max to iPad | Dr.fone</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-top-11-free-apps-to-check-imei-on-motorola-moto-g-stylus-2023-phones-by-drfone-android/"><u>In 2024, Top 11 Free Apps to Check IMEI on Motorola Moto G Stylus (2023) Phones</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/is-it-better-to-use-gemini-advanced-over-chatgpt-plus-lets-find-out/"><u>Is It Better to Use Gemini Advanced Over ChatGPT Plus? Let's Find Out</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/mac-users-manual-how-to-implement-microsoft-copilot-seamlessly/"><u>Mac Users' Manual: How to Implement Microsoft Copilot Seamlessly</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/maximize-your-productivity-with-these-top-10-chatgpt-and-pdf-merge-tools/"><u>Maximize Your Productivity with These Top 10 ChatGPT & PDF Merge Tools</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/misleading-claims-no-win-client-of-gpt-as-virus/"><u>Misleading Claims: No Win Client of GPT as Virus</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/no-more-delays-get-your-hands-on-this-open-source-tool-instead-of-the-pending-chatgpt-app/"><u>No More Delays: Get Your Hands on This Open Source Tool Instead of the Pending ChatGPT App</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/pondering-the-plodding-progress-chatgpt-4-versus-35/"><u>Pondering the Plodding Progress: ChatGPT-4 Versus 3.5</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/safeguarding-user-privacy-mitigating-exposure-risks-with-individualized-ai-models-like-chatgpt/"><u>Safeguarding User Privacy: Mitigating Exposure Risks with Individualized AI Models Like ChatGPT</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/secrets-unveiled-how-to-remove-all-past-chatgpt-sessions/"><u>Secrets Unveiled: How to Remove All Past ChatGPT Sessions</u></a></li>
+<li><a href="https://win-answers.techidaily.com/1723000820823-unlock-these-10-tips-for-getting-stray-running-this-year/"><u>Unlock These 10 Tips for Getting 'Stray' Running This Year!</u></a></li>
 </ul></div>
 

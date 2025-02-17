@@ -1,7 +1,7 @@
 ---
 title: "IOS 16 Update Unveiled: Enhance Your iPhone Experience with Expert Lock Screen Hacks by ZDNET"
-date: 2025-01-04T16:28:26.119Z
-updated: 2025-01-07T00:29:20.150Z
+date: 2025-02-15T19:03:49.607Z
+updated: 2025-02-16T22:20:01.399Z
 tags:
   - apple
 categories:
@@ -39,7 +39,7 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zXUt81WsQpI?si=W3DKIAsa2-qbGadJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. Camera Control button
@@ -51,7 +51,7 @@ The iPhone 16 receives a substantial update to its camera system. The device pos
 The button acts as a camera shortcut of sorts. Pushing it takes a photo, but the button also supports gesture controls. Swiping on the button with your thumb or finger lets you zoom in or out, while a double light-press presents you with various shooting modes, zoom lengths, photographic styles, and more. It's a fun and intuitive way to take photos. The best part about the button is that it's a great way to introduce more people to photography.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Siri 2.0 is arriving very soon
@@ -67,7 +67,7 @@ The new Siri can engage in more natural conversations. Users no longer need to c
 Everything mentioned so far is just the tip of the iceberg. It's been reported that next year Siri will be able to find and act on items on-device based on your context. For example, you could ask the AI what time your mom's flight is landing and Siri will pull together information from texts and emails, and then present this insight to you in a brief response.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DEqoiNArwjQ?si=oaL_lgnI-RxY5Qy_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. A new AI-powered chipset
@@ -114,18 +114,24 @@ Besides Apple Intelilgence, the A18 chipset should enable faster processing spee
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-elevate-your-online-meeting-with-customized-google-meet-for-2024/"><u>[New] Elevate Your Online Meeting with Customized Google Meet for 2024</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/updated-from-amateurs-to-experts-shooting-spectacentic-photos-and-videos/"><u>[Updated] From Amateurs to Experts Shooting Spectacentic Photos & Videos</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/2024-approved-deciding-on-apples-m1-laptops-air-or-pro-advantages/"><u>2024 Approved Deciding on Apple's M1 Laptops Air or Pro Advantages</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/2024-approved-top-cricket-ultimate-guide-to-live-streaming-selection/"><u>2024 Approved Top Cricket Ultimate Guide to Live Streaming Selection</u></a></li>
-<li><a href="https://driver-error.techidaily.com/bid-goodbye-to-bluetech-troubles-exclusive-fixed-windows-11s-nonstop-bluescreen-issue-heres-how-done/"><u>Bid Goodbye To BlueTech Troubles - Exclusive Fixed Windows 11'S Nonstop Bluescreen Issue – Here’s How! (Done)</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/download-and-configure-your-own-llama-2-on-premises-a-beginners-tutorial/"><u>Download & Configure Your Own Llama 2 on Premises - A Beginner's Tutorial</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-downgrade-iphone-8-to-an-older-ios-version-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Downgrade iPhone 8 to an Older iOS Version? | Dr.fone</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/notion-ai-vs-chatgpt-the-battle-of-generative-tech-giants-in-ai-innovation/"><u>Notion AI Vs. ChatGPT: The Battle of Generative Tech Giants in AI Innovation</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/optimizing-your-health-outcomes-how-chatgpt-can-help-you-set-and-achieve-fitness-milestones/"><u>Optimizing Your Health Outcomes: How ChatGPT Can Help You Set and Achieve Fitness Milestones</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/the-safety-quandary-of-openais-chatgpt-insight-into-six-major-vulnerabilities/"><u>The Safety Quandary of OpenAI's ChatGPT: Insight Into Six Major Vulnerabilities</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/top-7-innovative-bard-ai-capabilities-unveiled-at-googles-io-conference-2-groop/"><u>Top 7 Innovative BARD AI Capabilities Unveiled at Google's I/O Conference 2 Groop</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/transforming-pressure-into-peace-a-guide-to-using-chatgpt-for-stress-management/"><u>Transforming Pressure Into Peace: A Guide to Using ChatGPT for Stress Management</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/unlock-your-motorola-g54-5gs-potential-the-top-20-lock-screen-apps-you-need-to-try-by-drfone-android/"><u>Unlock Your Motorola G54 5Gs Potential The Top 20 Lock Screen Apps You Need to Try</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-in-2024-cutting-edge-techniques-for-captivating-online-advertising/"><u>[New] In 2024, Cutting-Edge Techniques for Captivating Online Advertising</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-2024-approved-crucial-6-platforms-enhancing-commercial-relations/"><u>[Updated] 2024 Approved Crucial 6 Platforms Enhancing Commercial Relations</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/avoiding-disruption-a-guide-to-connect-your-airpods-with-the-dell-quest-3/"><u>Avoiding Disruption: A Guide to Connect Your AirPods with the Dell Quest 3</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/boost-your-apple-macbook-with-macos-15-the-ultimate-list-of-new-features-you-cant-miss/"><u>Boost Your Apple MacBook with MacOS 15: The Ultimate List of New Features You Can't Miss</u></a></li>
+<li><a href="https://article-tips.techidaily.com/elevate-multitasking-embrace-picture-in-picture-on-ms-edge-for-2024/"><u>Elevate Multitasking Embrace Picture-in-Picture on MS Edge for 2024</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/exclusive-presidents-day-offer-save-on-the-newest-macbook-air-300-discount-in-2023-tech-insights/"><u>Exclusive Presidents' Day Offer: Save on the Newest MacBook Air - $300 Discount in 202^3 | Tech Insights</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/explore-the-latest-features-with-apple-ios-18-preview-top-5-exciting-experiences-from-the-tech-world/"><u>Explore the Latest Features with Apple iOS 18 Preview: Top 5 Exciting Experiences From the Tech World</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/in-2024-how-to-make-your-facebook-profile-cover-video-more-attractive/"><u>In 2024, How to Make Your Facebook Profile Cover Video More Attractive</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-personal-youtube-broadcasting-with-minimal-subscribers/"><u>In 2024, Personal YouTube Broadcasting with Minimal Subscribers</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-top-7-phone-number-locators-to-track-honor-x7b-location-drfone-by-drfone-virtual-android/"><u>In 2024, Top 7 Phone Number Locators To Track Honor X7b Location | Dr.fone</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/navigate-off-the-grid-accessing-google-maps-on-your-wear-os-device-availability-guide-zdnet/"><u>Navigate Off the Grid: Accessing Google Maps on Your Wear OS Device – Availability Guide | ZDNET</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/new-the-ultimate-guide-to-animated-text-in-mobile-videos/"><u>New The Ultimate Guide to Animated Text in Mobile Videos</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/revolutionize-your-mobile-power-the-20-anker-power-bank-fixes-common-charger-issues-insights-by-zdnet/"><u>Revolutionize Your Mobile Power: The $20 Anker Power Bank Fixes Common Charger Issues - Insights by ZDNet</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/step-by-step-guide-recording-calls-with-ios-and-understanding-legality-across-states-insights-from-zdnet/"><u>Step-by-Step Guide: Recording Calls with iOS and Understanding Legality Across States - Insights From ZDNet</u></a></li>
+<li><a href="https://extra-information.techidaily.com/the-secrets-of-writing-impressive-podcast-summaries/"><u>The Secrets of Writing Impressive Podcast Summaries</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/top-rated-apple-iphone-protection-reviewed-testing-their-hardest-case-with-innovative-security-aspects-find-out-more/"><u>Top-Rated Apple iPhone Protection Reviewed: Testing Their Hardest Case with Innovative Security Aspects – Find Out More</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/ultimate-list-of-premium-keyboard-picks-for-234-gamers-and-professionals-in-depth-testing-by-experts-zdnet/"><u>Ultimate List of Premium Keyboard Picks for 2^34 Gamers & Professionals, In-Depth Testing by Experts | ZDNET</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/upgrading-to-iphone-14-find-out-if-your-iphone-13-case-still-fits-exclusive/"><u>Upgrading to iPhone 14? Find Out if Your iPhone 13 Case Still Fits Exclusive</u></a></li>
+<li><a href="https://win-deluxe.techidaily.com/1728482656081-windowspc/"><u>Windows系統下，從物理PC遷移到雲端計算方法</u></a></li>
 </ul></div>
 

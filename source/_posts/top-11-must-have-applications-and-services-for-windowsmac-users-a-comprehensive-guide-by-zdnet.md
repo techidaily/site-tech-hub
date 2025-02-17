@@ -1,7 +1,7 @@
 ---
 title: "Top 11 Must-Have Applications & Services for Windows/Mac Users: A Comprehensive Guide by ZDNet"
-date: 2025-02-06T12:53:27.222Z
-updated: 2025-02-07T10:13:57.787Z
+date: 2025-02-11T17:15:04.172Z
+updated: 2025-02-16T17:10:47.523Z
 tags:
   - apple
 categories:
@@ -30,6 +30,10 @@ Of course, this selection reflects my work habits and my personal preferences. Y
 
 **See also:** [My five favorite free Windows 10 utilities](https://www.zdnet.com/article/windows-10-my-five-favorite-free-utilities/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/o-sRtqHdEYY?si=NMTMQVxJsUaoguqh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Productivity
 
 Show less 
@@ -50,10 +54,14 @@ Show less
 
 [View now at Tweeten](https://tweetenapp.com/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Tweeten
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### It's TweetDeck on steroids
@@ -68,11 +76,11 @@ Show less
 
 [View now at OneNote](https://www.onenote.com/)
 
-## OneNote
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c-BHGGIC0zE?si=FzUQKZa-bx8OlKuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+## OneNote
 
 ### An infinitely expandable notebook
 
@@ -102,6 +110,10 @@ Show less
 
 [View now at Quicken](https://go.shopyourlikes.com/pi/de0d8ba2852fb0f3e2424bb37baf8478e8f2e34e?afId=614548&afCampaignId=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp&afCreativeId=2993&afPlacementId=2)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jnITUsxMz5s?si=ohwRVH6eWhVnC6Xf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Quicken Home and Business
 
 ### I hate it, but I use it
@@ -112,10 +124,6 @@ The good news is that Quicken's support staff is responsive and knowledgeable, a
 
 Show Expert Take Show less 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Browser and extensions
 
 Show less 
@@ -125,7 +133,7 @@ Show less
 ## Microsoft Edge (Chromium)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HSFNIAYChbA?si=4TIlsUrYmY5vP2il" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### The only browser I need on the desktop
@@ -141,7 +149,7 @@ Show less
 [View now at 1Password](https://www.anrdoezrs.net/links/9041660/type/dlg/sid/zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp/https://1password.com/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/umvX4ZdWbxk?si=tPXL0-Kzf9SQaY8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1Password
@@ -158,10 +166,6 @@ Show less
 
 [View now at Workona](https://workona.com/)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UCqHbpxQGP4?si=XGkajFHdqyoKNAFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Workona
 
 ### The cleanest way to organize browser tabs
@@ -172,10 +176,6 @@ Because Workona is currently in preview, it's free. After it's officially releas
 
 Show Expert Take Show less 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Media
 
 Show less 
@@ -183,6 +183,10 @@ Show less
 [View now at Spotify](https://www.spotify.com/us/premium/?referral=cbs&utm%5Fcampaign=cbs)
 
 ## Spotify Music
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zmXpl6irBYk?si=BXjGpQr6PXFcqhCI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### No music app is perfect, but Spotify is best all around
 
@@ -198,10 +202,6 @@ Show less
 
 ## VLC Media Player
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zXUt81WsQpI?si=W3DKIAsa2-qbGadJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Free, open source, handles every format imaginable
 
 This free, open source tool has been around forever. (I wrote about it nearly a decade ago, when it was the best [free alternative DVD player](https://www.zdnet.com/article/if-vlc-can-ship-a-free-dvd-player-why-cant-microsoft/) on the market.) It plays just about every media format (including Blu-ray discs), it doesn't require downloading dodgy codec packs to work, and it runs on every conceivable platform. On Windows 10, make sure to install the [full Windows package](http://www.videolan.org/vlc/download-windows.html), not the limited-feature variant in the Windows Store.
@@ -215,7 +215,7 @@ Show less
 ## MediaMonkey
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### A Swiss Army knife for digital media
@@ -256,17 +256,19 @@ Show Expert Take Show less
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-friendly.techidaily.com/new-androids-5-prime-photo-tools-ultimate-editing-companion-for-2024/"><u>[New] Android's 5 Prime Photo Tools Ultimate Editing Companion for 2024</u></a></li>
-<li><a href="https://extra-support.techidaily.com/updated-seamless-sound-selecting-4-websites-for-ringtones/"><u>[Updated] Seamless Sound Selecting 4 Websites for Ringtones</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/chatgpt-api-demystified-for-developers/"><u>ChatGPT API Demystified for Developers</u></a></li>
-<li><a href="https://fox-zero.techidaily.com/conquer-asus-challenges-with-ease-a-step-by-step-tutorial-on-resetting-bios-password-for-alt-r-systems/"><u>Conquer ASUS Challenges with Ease: A Step-by-Step Tutorial on Resetting BIOS Password for Alt R Systems</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/defensive-techniques-to-block-openai-web-harvesting-attempts-on-your-site/"><u>Defensive Techniques to Block OpenAI Web Harvesting Attempts on Your Site</u></a></li>
-<li><a href="https://win-guides.techidaily.com/effiziente-techniken-um-verlorene-daten-von-einem-unbootbaren-windows-11-wiederherzustellen/"><u>Effiziente Techniken, Um Verlorene Daten Von Einem Unbootbaren Windows 11 Wiederherzustellen</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/in-2024-step-by-step-guide-to-stunning-android-shots/"><u>In 2024, Step-by-Step Guide to Stunning Android Shots</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/leveraging-ai-personalized-nutrition-planning-with-the-help-of-chatgpt/"><u>Leveraging AI: Personalized Nutrition Planning with the Help of ChatGPT</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/mastering-gpt-3-a-guide-for-openais-playground/"><u>Mastering GPT-3: A Guide for OpenAI's Playground</u></a></li>
-<li><a href="https://howto.techidaily.com/troubleshooting-guide-how-to-fix-an-unresponsive-honor-play-8t-screen-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Troubleshooting Guide How to Fix an Unresponsive Honor Play 8T Screen | Dr.fone</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/understanding-and-controlling-your-online-data-expenditure-expert-strategies/"><u>Understanding and Controlling Your Online Data Expenditure: Expert Strategies</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/unlocking-gpt-4-complimentary-access-opened-up-yet-6-compelling-arguments-for-continuing-with-chatgpt-plus/"><u>Unlocking GPT-4: Complimentary Access Opened Up - Yet, 6 Compelling Arguments for Continuing with ChatGPT Plus</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/n-2024-harnessing-your-creative-potential-an-exhaustive-tutorial-for-youtube-video-submission/"><u>[New] In 2024, Harnessing Your Creative Potential An Exhaustive Tutorial for YouTube Video Submission</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/op-12-tactics-for-amplifying-your-youtube-traffic/"><u>[New] Top 12 Tactics for Amplifying Your YouTube Traffic</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/all-about-factory-reset-what-is-it-and-what-it-does-to-your-xiaomi-redmi-note-12t-pro-drfone-by-drfone-reset-android-reset-android/"><u>All About Factory Reset, What Is It and What It Does to Your Xiaomi Redmi Note 12T Pro? | Dr.fone</u></a></li>
+<li><a href="https://win-answers.techidaily.com/1723010331772-banishing-the-blues-in-sea-of-thieves-no-more-crashes/"><u>Banishing the Blues in Sea of Thieves: No More Crashes!</u></a></li>
+<li><a href="https://driver-download.techidaily.com/downloading-the-newest-driver-update-for-hp-officejet-pro-e8610-on-multiple-windows-platforms/"><u>Downloading the Newest Driver Update for HP Officejet Pro E8610 on Multiple Windows Platforms</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/ensuring-confidentiality-methods-to-avoid-chatgpt-storing-dialogue-data/"><u>Ensuring Confidentiality: Methods to Avoid ChatGPT Storing Dialogue Data</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/exploring-the-future-with-microsofts-blizzard-purchase-ai-creativity-and-translation-tech-podcast/"><u>Exploring the Future with Microsoft's Blizzard Purchase, AI Creativity, and Translation Tech [Podcast]</u></a></li>
+<li><a href="https://win-answers.techidaily.com/1723002493208-get-back-in-control-of-the-fia-world-rally-championship-resolve-wrc-s-pc-crashing-issues-now/"><u>Get Back in Control of the FIA World Rally Championship: Resolve WRC S PC Crashing Issues Now</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-ringtone-revolution-transforming-your-ios-sound/"><u>In 2024, Ringtone Revolution Transforming Your iOS Sound</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/navigating-classroom-innovation-with-chatgpt-5-student-focused-approaches/"><u>Navigating Classroom Innovation with ChatGPT: 5 Student-Focused Approaches</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/proper-mastery-of-quick-mac-recording-shortcut-strategies-at-hand/"><u>Proper Mastery of Quick Mac Recording Shortcut Strategies at Hand</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/sonneteers-struggle-versed-valiantry-against-woolly-kinfolk/"><u>Sonneteer's Struggle - Versed Valiantry Against Woolly Kinfolk</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/understanding-the-drawbacks-of-using-chatgpt-for-text-compilation-and-synopsis/"><u>Understanding the Drawbacks of Using ChatGPT for Text Compilation and Synopsis</u></a></li>
+<li><a href="https://solve-outstanding.techidaily.com/44gp44gu6yca6lko44gm5zu96zqb5yplusw5byv44gr5l244gi44gplus44gz44glpw/"><u>どの通貨が国際取引に使えますか?</u></a></li>
 </ul></div>
 

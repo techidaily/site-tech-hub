@@ -1,7 +1,7 @@
 ---
 title: "Collaboration in a Connected World: Mastering ChatGPT's Six Uses"
-date: 2024-08-15T22:05:55.612Z
-updated: 2024-08-16T22:05:55.612Z
+date: 2025-02-12T22:35:24.415Z
+updated: 2025-02-16T17:56:32.238Z
 tags:
   - chatgpt
   - open-ai
@@ -36,22 +36,21 @@ thumbnail: https://thmb.techidaily.com/025f6d9d96521fea43b8d17c7244b091345a22a6d
  If you have a copy of the PDF on your computer, then the easiest way is to simply copy the text you need from the PDF. In the example below, we opened a PDF copy of a MakeUseOf article about[prompting techniques for ChatGPT](https://www.makeuseof.com/prompting-techniques-to-improve-chatgpt-responses/) . We used Microsoft Edge to open it, and then we highlighted the relevant text and copied it to the clipboard.
 
 ![Screenshot of copying text from PDF opened in Microsoft Edge](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/screenshot-of-copying-text-from-pdf-opened-in-ms-edge-1.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://propmoneyinc.pxf.io/c/5597632/1803116/14559" target="_top" id="1803116"><img src="//a.impactradius-go.com/display-ad/14559-1803116" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803116/14559" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/umvX4ZdWbxk?si=tPXL0-Kzf9SQaY8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  The text can then be pasted into a ChatGPT prompt, and the desired results attained. In this case, we asked it to bullet point the main points in the text.
 
 ![Screenshot of ChatGPT summarizing copied text](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/screenshot-of-chatgpt-summarizing-copied-text.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://natural-cycles.sjv.io/c/5597632/2072200/17885" target="_top" id="2072200"><img src="//a.impactradius-go.com/display-ad/17885-2072200" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072200/17885" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  As you can see, ChatGPT will easily respond to prompts with text pasted into them. Just remember not to ask too much of it in a single request. This technique will work with most applications that can open PDFs.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4694919&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/jutoh-logo-1200x1600.jpg" border="0">Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. </a>
-<!-- affiliate ads end -->
 ## 3\. Convert the PDF Into a Text Document
 
  ChatGPT will happily read text, after all, the beating heart of any AI chatbot is a large language model (LLM).[LLMs are huge text databases](https://www.makeuseof.com/what-are-large-langauge-models-how-do-they-work/) that AI chatbots reference to supply human-like responses. Although PDFs contain text, they aren’t easy to edit. This makes it awkward if you want to work with this format in ChatGPT. But converting it to a more manageable format is easy.
@@ -64,18 +63,24 @@ thumbnail: https://thmb.techidaily.com/025f6d9d96521fea43b8d17c7244b091345a22a6d
 2. If the document does not appear, use the file type dropdown box and select**PDF Files** from the options.  
 ![Screenshot of Word opening PDF file](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/screenshot-of-word-opening-pdf-file.jpg)
 3. When you open the file you will be asked to convert the document, press**OK** to proceed.  
-![Screenshot of Word PDF Conversion](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/screenshot-of-word-pdf-conversion.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002162&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/1_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (1 PC) Free upgrade. No monthly fees ever. 
-</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+![Screenshot of Word PDF Conversion](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/screenshot-of-word-pdf-conversion.jpg)
 4. Word will now convert and open the file, you can use the**Save As** command to save it as a Word or text document as preferred.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Once the conversion is complete, you can copy the text directly into ChatGPT and run prompts on it to get your desired results.
 
 <!-- affiliate ads begin -->
-<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254549&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/8_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5FWCFI3f_cs?si=Kt2Onr_E4c616tbH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 4\. Install and Use an Extension
 
 ![chatgpt with file uploader extension](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/chatgpt-extension.jpg)
@@ -86,28 +91,17 @@ thumbnail: https://thmb.techidaily.com/025f6d9d96521fea43b8d17c7244b091345a22a6d
 
  The steps are straightforward—install the ChatGPT File Uploader to your browser, open ChatGPT, and you'll notice a shiny, new**Upload** button next to the message bar at the bottom. From there, all you have to do is hit the button and choose the PDF you want to upload.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698827&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3REpage-newmainscreenshot.png" border="0">DEX 3 RE is Easy-To-Use DJ Mixing Software for MAC and Windows Designed for Today's Versatile DJ. 
-
- Mix from your own library of music, iTunes or use the Pulselocker subsciprtion service for in-app access to over 44 million songs. Use with over 85 supported DJ controllers or mix with a keyboard and mouse.  
-
- DEX 3 RE is everything you need without the clutter - the perfect 2-deck mixing software solution for mobile DJs or hard-core hobbiests.  
- PCDJ DEX 3 RE (DJ Software for Win & MAC - Product Activation For 3 Machines)</a>
-<!-- affiliate ads end -->
 ## PDFs Don't Have to Hinder Your ChatGPT Usage
 
  ChatGPT is a versatile tool that can handle various text-based tasks with ease. However, when it comes to working with PDFs, it can be challenging. Thankfully, there are four easy ways to work around this obstacle.
 
  These methods overcome ChatGPT's limitations with PDFs, allowing it to be even more useful in various text-based tasks. The quickest method is to simply copy the text from a PDF, but just occasionally this can be problematic. Make sure you're clued in with fixes in case you run into issues.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -116,4 +110,22 @@ thumbnail: https://thmb.techidaily.com/025f6d9d96521fea43b8d17c7244b091345a22a6d
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-web.techidaily.com/ed-2024-approved-ensuring-visibility-fixing-missing-shorts-thumbnails/"><u>[Updated] 2024 Approved Ensuring Visibility Fixing Missing Shorts Thumbnails</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-best-in-class-androids-cloud-storage-companions/"><u>[Updated] Best in Class Android's Cloud Storage Companions</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/2024-approved-a-stepwise-approach-to-film-color-grading-with-look-up-tables-luts-from-cg-central/"><u>2024 Approved A Stepwise Approach to Film Color Grading with Look-Up Tables (Luts) From CG Central</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/2024-approved-guide-to-recording-tv-screens-with-ease-and-precision/"><u>2024 Approved Guide to Recording TV Screens with Ease and Precision</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/bridging-gap-between-imagination-and-reality-for-dandd-characters/"><u>Bridging Gap Between Imagination and Reality for D&D Characters</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/bypassing-disabled-accounts-fixing-windows-login-fails/"><u>Bypassing Disabled Accounts: Fixing Windows Login Fails</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/chatgpt-modules-installation-and-usage-tutorials-for-optimized-performance/"><u>ChatGPT Modules Installation & Usage Tutorials for Optimized Performance</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-unlock-honor-x8b-phone-password-without-factory-reset-by-drfone-android/"><u>In 2024, How to Unlock Honor X8b Phone Password Without Factory Reset?</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/in-depth-review-and-fall-sale-alert-on-the-cutting-edge-lg-gram-pro-17-notebook-snag-your-discounted-price-this-october/"><u>In-Depth Review and Fall Sale Alert on the Cutting-Edge LG Gram Pro 17 Notebook - Snag Your Discounted Price This October!</u></a></li>
+<li><a href="https://review-topics.techidaily.com/quickly-remove-google-frp-lock-on-honor-x50i-by-drfone-android-unlock-remove-google-frp/"><u>Quickly Remove Google FRP Lock on Honor X50i</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/renewable-resources-vs-energy-demand-a-balancing-act/"><u>Renewable Resources Vs. Energy Demand: A Balancing Act</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/restart-the-route-reviving-an-impaired-ios-chatgpt/"><u>Restart the Route: Reviving an Impaired iOS ChatGPT</u></a></li>
+<li><a href="https://common-error.techidaily.com/solved-lenovo-keyboard-malfunction-issues-and-resolutions/"><u>Solved! Lenovo Keyboard Malfunction Issues and Resolutions</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/unraveling-the-mystery-of-gpt-5-insights-into-when-it-might-go-live/"><u>Unraveling the Mystery of GPT-5: Insights Into When It Might Go Live</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/why-savvy-business-leaders-embrace-these-5-powerful-ai-solutions/"><u>Why Savvy Business Leaders Embrace These 5 Powerful AI Solutions</u></a></li>
+</ul></div>
 

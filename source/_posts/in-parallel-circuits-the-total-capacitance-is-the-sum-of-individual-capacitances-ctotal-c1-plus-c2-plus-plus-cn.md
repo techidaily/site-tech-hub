@@ -1,7 +1,7 @@
 ---
 title: "In Parallel Circuits, the Total Capacitance Is the Sum of Individual Capacitances: C_total = C1 + C2 + ... + Cn."
-date: 2025-02-01T00:07:08.708Z
-updated: 2025-02-07T07:56:02.328Z
+date: 2025-02-14T23:32:53.314Z
+updated: 2025-02-16T16:33:39.302Z
 tags:
   - apple
 categories:
@@ -38,10 +38,6 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/793ViIxl4tI?si=DDBkjPlPX5bZ-f1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Apple Intelligence (AI)
 
 Maria Diaz/ZDNET
@@ -72,10 +68,6 @@ Jason Hiner/ZDNET
 * Users can access ChatGPT via this integration for free, and OpenAI will not log their data. ChatGPT Plus users can connect their subscriptions to access more advanced features, in which case OpenAI's data usage policies apply.
 * The ChatGPT integration will be coming to iOS 18, iPadOS 18, and MacOS Sequoia later this year.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## iOS 18
 
 Adam Breeden/ZDNET
@@ -94,6 +86,10 @@ Adam Breeden/ZDNET
 * The **Safari app** was upgraded to include key information about a webpage. You can read more about the Safari upgrades under the MacOS section of this article.
 * The **Calendar app** can now pull from the Reminders app for a more seamless schedule overview.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## WatchOS 11
 
 Adam Breeden/ZDNET
@@ -109,7 +105,7 @@ Adam Breeden/ZDNET
 * Another notable change is that the **double tap gesture** can be used to scroll through apps.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9hsPbiic0O8?si=58mZ2Cu6wicQfsUP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## iPadOS 18
@@ -122,10 +118,6 @@ Adam Breeden/ZDNET
 * Handwriting in Notes also got an upgrade with **Smart** **Script**, which refines users' writing to make it more legible while keeping the authenticity of the user's handwriting style. The feature can also match copied and pasted text to the user's handwriting. Typed text was also enhanced, with five new highlight colors and the ability to toggle sections under headings or subheadings.
 * iPadOS 18 supports **screen-sharing via SharePlay** and the same Control Center customizations, Photos app upgrades, Safari updates, and emoji Tapbacks found in **iOS 18.**
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## MacOS 15 (Sequoia)
 
 Adam Breeden/ZDNET
@@ -136,6 +128,10 @@ Adam Breeden/ZDNET
 * **Video meetings** are also getting an upgrade, with new backgrounds and a preview experience that allows you to see what you are about to share before sharing it. This feature works with popular video conferencing applications such as FaceTime and Zoom.
 * The **AI summarization** tool will live in Safari to help users process content like web pages and articles more efficiently. Safari will also assist users in discovering more helpful information about a page they are browsing when relevant, such as directions.
 * Apple also launched a new **Viewer experience**, which does for video what Reader does for text.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## VisionOS 2
 
@@ -154,6 +150,10 @@ Jason Hiner/ZDNET
 * Users can **cast content** from their iPhone, iPad, or Mac to the Vision Pro using AirPlay.
 * Apple is also making the Vision Pro available in more countries starting June 28\. You can see the full list [here](https://www.apple.com/newsroom/2024/06/apple-vision-pro-arrives-in-new-countries-and-regions-beginning-june-28/).
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## AirPods
 
 Jason Hiner/ZDNET
@@ -163,7 +163,7 @@ Jason Hiner/ZDNET
 * Apple is also releasing a **Personalized Spatial Audio API** for game developers to build around the AirPods' audio technology.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/r_wWybMqZEM?si=0nPjCQDLS2MCaQbG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## tvOS 18
@@ -210,20 +210,16 @@ Screenshot by Nina Raemont/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-http.techidaily.com/updated-complete-breakdown-the-dji-inspire-1-uav/"><u>[Updated] Complete Breakdown The DJI Inspire 1 UAV</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/amp-up-output-7-powerful-chatgpt-techniques-for-peak-performance/"><u>Amp Up Output: 7 Powerful ChatGPT Techniques for Peak Performance</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/battle-of-wits-assessing-chatgpt-against-googles-bard-for-optimal-performance/"><u>Battle of Wits: Assessing ChatGPT Against Google's Bard for Optimal Performance</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/chatgpt-and-its-impact-are-student-essays-becoming-redundant/"><u>ChatGPT and Its Impact: Are Student Essays Becoming Redundant?</u></a></li>
-<li><a href="https://blog-min.techidaily.com/easiest-guide-how-to-clone-motorola-defy-2-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Easiest Guide How to Clone Motorola Defy 2 Phone? | Dr.fone</u></a></li>
-<li><a href="https://fox-sure.techidaily.com/effortless-fixes-uncover-the-three-best-techniques-to-recover-lost-email-messages-from-outlook/"><u>Effortless Fixes: Uncover the Three Best Techniques to Recover Lost Email Messages From Outlook</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/enhance-productivity-with-9-useful-chatgpt-hacks/"><u>Enhance Productivity with 9 Useful ChatGPT Hacks</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/evolving-knowledge-from-chatgpt-to-everyone/"><u>Evolving Knowledge From ChatGPT to Everyone</u></a></li>
-<li><a href="https://win-able.techidaily.com/expert-advice-on-keeping-halo-3-running-smoothly-and-avoiding-pc-crashes/"><u>Expert Advice on Keeping Halo 3 Running Smoothly and Avoiding PC Crashes</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/how-does-chatgpt-adapt-through-ongoer-user-dialogue-engagement/"><u>How Does ChatGPT Adapt Through Ongoer User Dialogue Engagement?</u></a></li>
-<li><a href="https://win-trending.techidaily.com/how-to-effectively-resolve-printer-connection-issues-expert-advice-from-yl-computing/"><u>How to Effectively Resolve Printer Connection Issues: Expert Advice From YL Computing</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-the-best-ispoofer-alternative-to-try-on-samsung-galaxy-s23-ultra-drfone-by-drfone-virtual-android/"><u>In 2024, The Best iSpoofer Alternative to Try On Samsung Galaxy S23 Ultra | Dr.fone</u></a></li>
-<li><a href="https://games-able.techidaily.com/the-realistic-view-on-being-designated-as-idle-in-chat-rooms/"><u>The Realistic View on Being Designated as Idle in Chat Rooms</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/the-rise-of-immersive-consumer-spaces-for-2024/"><u>The Rise of Immersive Consumer Spaces for 2024</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/the-tech-titans-talk-bz-microsoft-merge-and-the-dawn-of-next-gen-ai-in-creative-industries-podcast-discussion/"><u>The Tech Titans Talk: BZ-Microsoft Merge and the Dawn of Next-Gen AI in Creative Industries [Podcast Discussion]</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-in-2024-become-a-pro-at-tweeting-live-video-responses/"><u>[New] In 2024, Become a Pro at Tweeting Live Video Responses</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-the-stagnation-of-ideas-in-contemporary-vr/"><u>[Updated] The Stagnation of Ideas in Contemporary VR</u></a></li>
+<li><a href="https://howto.techidaily.com/8-quick-fixes-unfortunately-snapchat-has-stopped-on-honor-x9a-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>8 Quick Fixes Unfortunately, Snapchat has Stopped on Honor X9a | Dr.fone</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/boost-your-apple-watchs-battery-longevit-with-8-essential-tips/"><u>Boost Your Apple Watch's Battery Longevit with 8 Essential Tips</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-use-device-manager-to-reinstall-your-hardware-drivers-in-windows-11-and-10-and-7-by-drivereasy-guide/"><u>How to use Device Manager to reinstall your hardware drivers in Windows 11 & 10 & 7</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/in-2024-best-10-camera-lenses-to-use/"><u>In 2024, Best 10 Camera Lenses to Use</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-fake-android-location-without-rooting-for-your-vivo-s17-drfone-by-drfone-virtual/"><u>In 2024, Fake Android Location without Rooting For Your Vivo S17 | Dr.fone</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/maximizing-ipad-potential-top-tier-apps-to-boost-productivity-and-smooth-workflow-expert-tips-by-zdnet/"><u>Maximizing iPad Potential: Top-Tier Apps to Boost Productivity & Smooth Workflow | Expert Tips by ZDNet</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/revamp-your-visual-experience-the-comprehastern-pocket-sized-guide-for-updating-apple-studio-displays-system-software-cnet/"><u>Revamp Your Visual Experience: The Comprehastern Pocket-Sized Guide for Updating Apple Studio Display's System Software - CNET</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/top-5-xiaomi-redmi-note-12-5g-bypass-frp-tools-for-pc-that-actually-work-by-drfone-android/"><u>Top 5 Xiaomi Redmi Note 12 5G Bypass FRP Tools for PC That Actually Work</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/unlock-the-secret-grab-your-complimentary-macbook-air-m3-at-best-buy-with-these-steps/"><u>Unlock the Secret: Grab Your Complimentary MacBook Air M3 at Best Buy with These Steps</u></a></li>
 </ul></div>
 

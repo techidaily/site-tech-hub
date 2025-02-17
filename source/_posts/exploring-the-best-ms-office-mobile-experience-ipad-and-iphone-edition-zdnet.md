@@ -1,7 +1,7 @@
 ---
 title: "Exploring the Best MS Office Mobile Experience : IPad and iPhone Edition | ZDNET"
-date: 2024-12-31T01:19:22.188Z
-updated: 2025-01-06T23:58:08.395Z
+date: 2025-02-10T17:33:45.872Z
+updated: 2025-02-16T23:20:56.756Z
 tags:
   - apple
 categories:
@@ -39,10 +39,6 @@ _This review was originally published on May 22, 2023, and was updated on Septem
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## ZDNET's buying advice
 
 Months of testing have proved that Apple's standard [iPhone 15 and iPhone 15 Plus](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-iphone%2Fiphone-15%3F&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp) bear more "Pro" features than ever before, including a Dynamic Island for more seamless multitasking, a 48MP camera system that -- when paired with the A16 Bionic chip -- consistently produces eye-catching imagery, and a new satin-finished design that left me with no envy for more expensive iPhone models.
@@ -50,7 +46,7 @@ Months of testing have proved that Apple's standard [iPhone 15 and iPhone 15 Plu
 If you don't see yourself shooting videos in ProRAW, requiring the extra Action button, or drooling over the 5X zoom camera on the [iPhone 15 Pro Max](https://www.zdnet.com/article/iphone-15-pro-review/), you'll be plenty comfortable with the $799 iPhone 15 and $899 iPhone 15 Plus. Between the two, buy the former if you want one of the most compact (yet capable) handsets on the market, and buy the latter if you want a more affordable big-screen iPhone and the best battery life of all the models in the latest lineup.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Specifications
@@ -68,6 +64,10 @@ If you don't see yourself shooting videos in ProRAW, requiring the extra Action 
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How I tested the iPhone 15 and iPhone 15 Plus
 
 Whenever I review [the latest iPhones](https://www.zdnet.com/article/best-iphone/), I spend a few weeks testing them, but this time, I went longer. I spent about half of the year using both units. I had my Mint Mobile eSIM installed on the smaller iPhone 15 for the first three months and then transferred to the iPhone 15 Plus for the other half. A good part of my long-term evaluation process includes testing cellular connectivity (read: using the devices in crowded areas, on top of buildings, in subways, and more), day-to-day performance, and taking more photos than a standard free subscription to iCloud can contain.
@@ -75,7 +75,7 @@ Whenever I review [the latest iPhones](https://www.zdnet.com/article/best-iphone
 The difference between the two latest iPhone handsets mainly boils down to display size and battery life; unlike the Pro models, there's no camera hardware discrepancy, which means the general user experience of the two is pleasantly similar. That made my life as a phone reviewer a little easier -- and makes the list below all the more applicable to both iPhone models.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KaqfZcWg5sE?si=LPmSKk7AFp8VxDFD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What are the iPhone 15's best features?
@@ -132,10 +132,6 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 
 [See all](https://www.zdnet.com/newsletters/)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DEqoiNArwjQ?si=oaL_lgnI-RxY5Qy_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Should I upgrade from my older iPhone?
 
 It's true that [consumers are now upgrading their smartphones at a slower rate](https://www.zdnet.com/article/iphone-users-keep-their-phones-longer-than-android-owners/), spending three years or more with their devices before switching to the next best thing. If you're coming from an older iPhone model, here's how it stacks up with the iPhone 15 and the biggest differences you can expect.
@@ -163,12 +159,16 @@ Is this Apple's way of splitting up the non-Pro and Pro models? Probably. I don'
 **An Action button:** Given how many iPhone 14 Pro features Apple carried over to the iPhone 15, I have my fingers crossed that Apple will replace the alert slider with the Action button this year. Over the course of testing the latest iPhones, I've used the alert slider less than a dozen times. An Action button would give the iPhone much more functionality.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Final thought
 
 It's easy to call the standard iPhone model the "Best iPhone for most people." That's been the case since Apple introduced a Pro variant with the iPhone 11 series, and still holds true with the [iPhone 15](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-iphone%2Fiphone-15&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp). Only now, I'm finding myself recommending the non-Pro iPhone to more users than ever before, including folks I've known to be more demanding of their tech. Apple's made just enough feature upgrades (and a few compromises that may be imperceivable to some) to help the latest iPhone model stand out, even when stacked against the generation before it.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Alternatives to consider
 
@@ -204,24 +204,24 @@ It's easy to call the standard iPhone model the "Best iPhone for most people." T
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-clips.techidaily.com/new-2024-approved-facebook-video-extravaganza-the-most-advanced-fire-browser-tools-updated/"><u>[New] 2024 Approved Facebook Video Extravaganza The Most Advanced Fire-Browser Tools, Updated</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/new-grandiose-know-it-all-challenges-online-for-2024/"><u>[New] Grandiose KNOW-It All Challenges Online for 2024</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-reach-new-heights-on-igtv-top-tactics-for-expanding-your-audience/"><u>[New] Reach New Heights on IGTV Top Tactics for Expanding Your Audience</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-optimize-your-livestream-top-5-best-practices/"><u>[Updated] Optimize Your Livestream Top 5 Best Practices</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/approved-the-ultimate-intro-video-guide-for-iphone-and-android-users/"><u>2024 Approved The Ultimate Intro Video Guide for iPhone and Android Users</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/chatgpt-and-creativity-composing-a-masterpiece-of-verses-in-digital-age/"><u>ChatGPT and Creativity: Composing a Masterpiece of Verses in Digital Age</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/effective-growth-tactic-for-youtube-fanbases/"><u>Cost-Effective Growth Tactic for YouTube Fanbases</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/deciphering-ai-evolution-what-sets-gpt-4-gpt-4-turbo-and-gpt-4o-apart/"><u>Deciphering AI Evolution: What Sets GPT-4, GPT-4 Turbo, and GPT-4o Apart?</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/enhance-your-daily-habits-6-tips-on-integrating-chatgpt-into-your-at-home-productivity/"><u>Enhance Your Daily Habits: 6 Tips on Integrating ChatGPT Into Your At-Home Productivity</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/fraudulent-chrome-helper-harvests-social-media-passwords/"><u>Fraudulent Chrome Helper: Harvests Social Media Passwords</u></a></li>
-<li><a href="https://program-issues.techidaily.com/garrys-mod-continuous-crashes-top-5-fixes/"><u>Garry's Mod Continuous Crashes: Top 5 Fixes</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/how-to-make-chatgpt-work-with-siri-for-a-better-iphone-experience/"><u>How to Make ChatGPT Work with Siri for a Better iPhone Experience</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/in-2024-expert-analysis-top-10-sports-streaming-tools-for-soccer-enthusiasts/"><u>In 2024, Expert Analysis Top 10 Sports Streaming Tools for Soccer Enthusiasts</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-latest-guide-how-to-bypass-realme-12-5g-frp-without-computer-by-drfone-android/"><u>In 2024, Latest Guide How To Bypass Realme 12 5G FRP Without Computer</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/openais-head-honcho-explains-why-more-robust-ai-control-is-necessary-what-it-signifies/"><u>OpenAI's Head Honcho Explains Why More Robust AI Control Is Necessary – What It Signifies</u></a></li>
-<li><a href="https://win-able.techidaily.com/step-by-step-tutorial-capturing-spotify-tracks-for-free-on-windows-10-or-11/"><u>Step-by-Step Tutorial: Capturing Spotify Tracks for Free on Windows (10 or 11)</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/the-ai-enigma-solved-for-simplicity/"><u>The AI Enigma, Solved for Simplicity</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/top-5-concerns-why-relying-on-chatgpt-for-health-guidance-is-risky/"><u>Top 5 Concerns: Why Relying on ChatGPT for Health Guidance Is Risky</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/unveiling-cgps-accuracy-in-medical-dialogues/"><u>Unveiling CGP's Accuracy in Medical Dialogues</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/xclusive-list-of-asmr-apps-for-phones/"><u>[New] Exclusive List of ASMR Apps for Phones</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/n-2024-from-novice-to-notable-top-course-recommendations-for-youtubers/"><u>[New] In 2024, From Novice to Notable Top Course Recommendations for YouTubers</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/1716069693154-updated-in-2024-engaging-recorders-within-huawei-mate-and-p-series-for-video-capture/"><u>[Updated] In 2024, Engaging Recorders Within Huawei Mate and P-Series for Video Capture.</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-in-2024-thorough-evaluation-of-frozen-snack-playback-devices/"><u>[Updated] In 2024, Thorough Evaluation of Frozen Snack Playback Devices</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/1-water-found-in-iphone-charging-port-what-can-you-do-expert-advice-from-tech-site/"><u>1. 'Water Found in iPhone Charging Port: What Can You Do?' - Expert Advice From Tech Site</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/apple-complies-with-macbook-class-action-agreement-eligible-users-receive-compensation-insights/"><u>Apple Complies with MacBook Class-Action Agreement: Eligible Users Receive Compensation - Insights</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/esrs-revolutionary-fast-charge-solution-the-new-qi2-magsafe-charger-redefines-heatless-iphone-16-charging-zdnet/"><u>ESR's Revolutionary Fast-Charge Solution: The New Qi2 MagSafe Charger Redefines Heatless iPhone 16 Charging | ZDNET</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-watch-hulu-outside-us-on-samsung-galaxy-f14-5g-drfone-by-drfone-virtual-android/"><u>How to Watch Hulu Outside US On Samsung Galaxy F14 5G | Dr.fone</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/immediate-purchase-options-for-apples-new-releases-from-wwdc-showcase-where-to-preorder/"><u>Immediate Purchase Options for Apple's New Releases From WWDC Showcase: Where to Preorder</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/instagram-reels-crafted-by-a-true-creative-genius/"><u>Instagram Reels Crafted by a True Creative Genius</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-evidence-suggests-apple-may-revive-its-abandoned-airpower-mat-with-qi-charging-watch-the-video-gizmodaily/"><u>New Evidence Suggests Apple May Revive Its Abandoned AirPower Mat with Qi Charging - Watch the Video | GizmoDaily</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/prime-day-savings-alert-discover-the-ultimate-top-36-apple-bargains-still-up-for-grabs/"><u>Prime Day Savings Alert: Discover the Ultimate Top 36 Apple Bargains Still Up for Grabs!</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/sharing-the-top-remorse-moment-of-upgrading-to-ios-18-a-common-dilemma-discussed-on-zdnet/"><u>Sharing the Top Remorse Moment of Upgrading to iOS 18 – A Common Dilemma Discussed on ZDNet</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/step-by-step-solution-how-to-correctly-setup-your-ps4-network-configuration/"><u>Step-by-Step Solution: How to Correctly Setup Your PS4 Network Configuration</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/toms-tech-insights-expert-gadget-reviews-and-comparisons/"><u>Tom's Tech Insights: Expert Gadget Reviews and Comparisons</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/top-rated-cable-modems-your-ultimate-buying-guide/"><u>Top Rated Cable Modems : Your Ultimate Buying Guide</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/top-rated-childrens-tablets-as-chosen-by-parents-insights/"><u>Top-Rated Children's Tablets as Chosen by Parents - Insights</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/unveiling-ios-1nce-new-season-brings-transcript-support-for-podcasts-exciting-emojis-and-revamped-apple-store-policies-in-the-eu-coverage/"><u>Unveiling iOS 1Nce: New Season Brings Transcript Support for Podcasts, Exciting Emojis, and Revamped Apple Store Policies in the EU | Coverage</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/unveiling-the-ultimate-choice-top-rated-apple-watch-titanium-band-reviewed/"><u>Unveiling the Ultimate Choice: Top-Rated Apple Watch Titanium Band Reviewed</u></a></li>
 </ul></div>
 

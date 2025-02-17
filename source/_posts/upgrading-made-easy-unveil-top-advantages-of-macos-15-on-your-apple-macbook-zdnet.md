@@ -1,7 +1,7 @@
 ---
 title: "Upgrading Made Easy: Unveil Top Advantages of MacOS 15 on Your Apple MacBook | ZDNet"
-date: 2024-10-22T18:05:24.053Z
-updated: 2024-10-27T17:54:16.503Z
+date: 2025-02-14T18:46:49.916Z
+updated: 2025-02-16T17:27:19.344Z
 tags:
   - apple
 categories:
@@ -38,6 +38,10 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. Apple Intelligence
 
 Screenshot by Nina Raemont
@@ -53,10 +57,7 @@ Apple's approach to AI is markedly different from that of its competitors, howev
 This lets Apple disengage from the chaotic rat race to a degree, positioning itself as the careful, more ethical actor when it comes to AI, particularly in light of [recent debilitating security concerns](https://www.zdnet.com/article/after-brutal-critiques-microsoft-recall-will-get-these-major-privacy-and-security-changes/) from Microsoft's Recall feature, which is delaying the release of a host of its new [Copilot+ PCs](https://www.zdnet.com/article/every-copilot-pc-microsoft-just-announced-to-take-on-apples-m3-macbooks/).
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484909/16446" target="_top" id="1484909">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484909" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484909/16446" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Continuity
@@ -71,13 +72,6 @@ The app also streamlines your devices by bringing your iPhone's notifications st
   
 Alternatively, the new standby mode on the iPhone displays a host of at-a-glance (but un-interactable) data like a clock and calendar while you're using the Continuity app on the Mac. 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006919/19272" target="_top" id="2006919">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006919" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006919/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 3\. Siri 2.0
 
 Screenshot by Nina Raemont
@@ -89,6 +83,10 @@ Apple has played the long game when it comes to its virtual assistant, Siri. As 
 During the WWDC keynote, Apple showed off Siri's new look as an ever-present AI assistant integrated into every thread of the UI, not a standalone app. Siri will have access to ChatGPT's LLM, allowing the AI to be functionally ready to communicate in a more natural context, following up with previous conversations and messages instead of providing full context in every single prompt. 
 
 The new Siri also comes with on-screen awareness, allowing the AI to respond to what you're looking at on the screen without requiring the user to provide specific context with each prompt. This also allows Siri to take in-app actions in a way that wasn't possible before. In MacOS Sequoia, Siri's integration with OpenAI's LLM propels the virtual assistant to the top players in the field alongside [ChatGPT-4o](https://www.zdnet.com/article/how-to-use-chatgpt-plus-from-gpt-4o-to-interactive-tables/) and [Google's Gemini](https://www.zdnet.com/article/what-is-google-gemini/). 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2ipTu54inBo?si=gRegjvtVq5gm_PHo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 4\. AI-fueled productivity apps
 
@@ -103,10 +101,7 @@ Apple Intelligence has been integrated across all of the big productivity apps i
 * **Notes:** Voice functionality is coming to the Notes app, with the ability to add voice memos directly embedded into your notes. AI will also support audio transcription and transcripts of audio recordings. You can record and transcribe audio, and when your recording is finished, the AI will create a summary on its own.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135365/19272" target="_top" id="2135365">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135365" border="0" alt="https://techidaily.com" width="125" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135365/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GFHH14XlFCk?si=2HcjQbDx5eG0ZQAt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 5\. New and improved Safari
@@ -120,10 +115,7 @@ Safari will see a host of improvements powered by AI functionality, including an
 Apple demoed Safari's machine learning capability to automatically detect relevant information on a webpage, including things like quick links, directions, and quick summaries with logistical information like phone numbers and addresses. 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082520/7443" target="_top" id="2082520">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082520" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082520/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 6\. Standalone Passwords app
@@ -170,18 +162,16 @@ Apple wants to create a "unified gaming platform" across the iPhone, iPad, and M
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-guidance.techidaily.com/new-perfect-hdr-portraits-with-our-expert-techniques/"><u>[New] Perfect HDR Portraits with Our Expert Techniques</u></a></li>
-<li><a href="https://fox-http.techidaily.com/new-tricks-to-perfect-time-lapses-using-samsung-cameras/"><u>[New] Tricks to Perfect Time-Lapses Using Samsung Cameras</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-5-best-mid-range-gaming-keyboards-for-enthusiasts/"><u>[Updated] 5 Best Mid-Range Gaming Keyboards for Enthusiasts</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/effortless-creativity-with-top-ai-enhanced-pdf-tools/"><u>Effortless Creativity with Top AI-Enhanced PDF Tools</u></a></li>
-<li><a href="https://facebook.techidaily.com/essential-steps-to-limit-fb-profile-image-access/"><u>Essential Steps to Limit FB Profile Image Access</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/experience-cutting-edge-tech-for-free-mastering-gpt-copilot-integration-seamlessly/"><u>Experience Cutting-Edge Tech for Free – Mastering GPT-Copilot Integration Seamlessly</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-turn-off-find-my-apple-iphone-13-mini-when-phone-is-broken-by-drfone-ios/"><u>In 2024, How to Turn Off Find My Apple iPhone 13 mini when Phone is Broken?</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/in-depth-analysis-of-the-linksys-ea8300-smartly-routing-internet-traffic-for-multiple-gadgets/"><u>In-Depth Analysis of the Linksys EA8300: Smartly Routing Internet Traffic for Multiple Gadgets</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/resolving-issues-a-step-by-step-guide-to-overcoming-chatgpt-sign-in-problems/"><u>Resolving Issues: A Step-by-Step Guide to Overcoming ChatGPT Sign-In Problems</u></a></li>
-<li><a href="https://techtrends.techidaily.com/1722895217092-revamp-your-file-organizers-appearance-changing-folder-colors-on-a-mac/"><u>Revamp Your File Organizer's Appearance - Changing Folder Colors on a Mac</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/the-battle-of-wits-dissecting-differences-between-the-renowned-gpt-and-bert-language-models/"><u>The Battle of Wits: Dissecting Differences Between the Renowned GPT and BERT Language Models</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/transform-your-communications-with-openais-fine-tuned-gpt-tools/"><u>Transform Your Communications with OpenAI's Fine-Tuned GPT Tools</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/understanding-the-challenge-the-puzzle-of-ai-system-goal-alignment/"><u>Understanding the Challenge: The Puzzle of AI System Goal Alignment</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-2024-approved-instagrams-power-mastering-the-addition-of-video-descriptions/"><u>[New] 2024 Approved Instagram's Power Mastering the Addition of Video Descriptions</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-in-2024-the-ultimate-checklist-for-solo-online-stream-success/"><u>[New] In 2024, The Ultimate Checklist for Solo Online Stream Success</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/7-unconventional-ai-assistants-for-self-programmable-coding/"><u>7 Unconventional AI Assistants for Self-Programmable Coding</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/ace-your-application-how-to-leverage-chatgpt-for-writing-standout-cover-letters/"><u>Ace Your Application: How to Leverage ChatGPT for Writing Standout Cover Letters</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/ai-meets-fun-time-unveiling-the-finest-game-selection-available-on-chatgpt/"><u>AI Meets Fun Time: Unveiling the Finest Game Selection Available on ChatGPT</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/1722193349951-has-ai-surpassed-the-old-standards-discovering-five-cutting-edge-alternatives-to-the-turing-test/"><u>Has AI Surpassed The Old Standards?: Discovering Five Cutting-Edge Alternatives to the Turing Test.</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/in-2024-dive-into-digital-friendship-start-your-facebook-journey/"><u>In 2024, Dive Into Digital Friendship Start Your Facebook Journey</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-bypass-activation-lock-on-apple-watch-or-iphone-11-by-drfone-ios/"><u>In 2024, How To Bypass Activation Lock On Apple Watch Or iPhone 11?</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-the-ultimate-guide-to-bypassing-icloud-activation-lock-from-iphone-15-pro-max-by-drfone-ios/"><u>In 2024, The Ultimate Guide to Bypassing iCloud Activation Lock from iPhone 15 Pro Max</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/leverage-bings-integrated-dall-e-3-ai-your-guide-to-free-creative-design/"><u>Leverage Bing's Integrated DALL-E 3 AI - Your Guide to Free Creative Design</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210301482-9781916045187-the-candle-magic-banishing-and-purification-instruction-booklet/"><u>The Candle Magic Banishing and Purification Instruction Booklet | Free Book</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Approach: Calculate the Energy for Full and Half Voltage Scenarios Separately, Then Sum Up."
-date: 2025-01-04T23:24:17.251Z
-updated: 2025-01-06T17:33:04.747Z
+date: 2025-02-12T16:14:31.464Z
+updated: 2025-02-16T17:56:29.686Z
 tags:
   - apple
 categories:
@@ -45,7 +45,7 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Hey Siri, let's talk about Microsoft
@@ -77,7 +77,7 @@ Microsoft, on the other hand, is a strong brand -- one that's become both more i
 Meanwhile, Siri connotes the phrase "You cannot be Sirious." 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1KKovVi9epE?si=EF7KA7b4KsEpWA-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Hey Siri, say goodbye
@@ -126,22 +126,16 @@ This replacement should have a new name -- Cuper or Cooky anyone? -- that'll mak
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-maximizing-zoom-top-strategies-for-chromebooks/"><u>[Updated] 2024 Approved Maximizing Zoom Top Strategies for Chromebooks</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/updated-banish-your-flickering-facebook-feeds-for-2024/"><u>[Updated] Banish Your Flickering Facebook Feeds for 2024</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-screen-recorder-apps-for-iphoneipad-users-for-2024/"><u>[Updated] Screen Recorder Apps for iPhone/iPad Users for 2024</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/approved-youtube-edition-expert-advice-on-creating-compelling-video-edits/"><u>2024 Approved Youtube Edition Expert Advice on Creating Compelling Video Edits</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/chatgpt-and-google-gemini-faceoff-determining-the-leading-ai-conversationalist/"><u>ChatGPT and Google Gemini Faceoff: Determining the Leading AI Conversationalist</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/deciding-the-champion-in-depth-comparison-between-microsofts-chatgpt-and-huggingfaces-huggingchat-ai-platforms/"><u>Deciding the Champion: In-Depth Comparison Between Microsoft's ChatGPT and HuggingFace's HuggingChat AI Platforms</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/download-the-best-free-m4v-video-player-codec-suite-enhance-your-streaming-experience/"><u>Download the Best FREE M4V Video Player Codec Suite - Enhance Your Streaming Experience</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/gpt-and-huggingchat-showdown-a-clear-winner/"><u>GPT and HuggingChat Showdown: A Clear Winner?</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-from-infinix-note-30-pro-to-any-ios-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data from Infinix Note 30 Pro to Any iOS Devices | Dr.fone</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/leveraging-chatgpt-for-personal-growth-boosting-emotional-quotient-tactics/"><u>Leveraging ChatGPT for Personal Growth: Boosting Emotional Quotient Tactics</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/macx-ipad-video-transporter-seamlessly-rip-dvds-to-your-apple-tablet-on-macos-devices/"><u>MacX iPad Video Transporter: Seamlessly Rip DVDs to Your Apple Tablet on macOS Devices</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/quick-itinerary-creation-made-easy-with-7-free-ai-travel-planning-services-and-chatgpt-applications/"><u>Quick Itinerary Creation Made Easy with 7 Free AI Travel Planning Services & ChatGPT Applications</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/the-five-pitfalls-of-employing-chatgpt-for-insightful-crypto-market-predictions/"><u>The Five Pitfalls of Employing ChatGPT for Insightful Crypto Market Predictions</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/top-8-ai-powered-bots-and-tools-for-enhanced-cryptocurrency-conversations/"><u>Top 8 AI-Powered Bots & Tools for Enhanced Cryptocurrency Conversations</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/two-screen-titans-is-splitcam-supreme-for-2024/"><u>Two-Screen Titans Is SplitCam Supreme for 2024</u></a></li>
-<li><a href="https://win-deluxe.techidaily.com/understanding-the-risks-of-a-roblox-infection-and-easy-step-by-step-removal-guide/"><u>Understanding the Risks of a Roblox Infection & Easy Step-by-Step Removal Guide</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/unleashing-the-power-of-chatgpt-with-siri-on-ios-devices-tips-and-tricks/"><u>Unleashing the Power of ChatGPT with Siri on iOS Devices - Tips & Tricks</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-2024-approved-the-elite-set-of-android-photoshoppers/"><u>[New] 2024 Approved The Elite Set of Android Photoshoppers</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-determining-best-free-screen-recorder-for-2024/"><u>[Updated] Determining Best Free Screen Recorder for 2024</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/8-essential-apple-watch-configuration-tweaks-for-extended-battery-performance-tips/"><u>8 Essential Apple Watch Configuration Tweaks for Extended Battery Performance - Tips</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/explore-apples-vision-pro-unveiled-pricing-capabilities-and-firsthand-experience-your-essential-guide/"><u>Explore Apple's Vision Pro Unveiled: Pricing, Capabilities & Firsthand Experience - Your Essential Guide</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-unlock-iphone-xs-with-imei-code-by-drfone-ios/"><u>In 2024, How to Unlock iPhone XS with IMEI Code?</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-ipogo-will-be-the-new-ispoofer-on-apple-iphone-15-pro-max-drfone-by-drfone-virtual-ios/"><u>In 2024, iPogo will be the new iSpoofer On Apple iPhone 15 Pro Max? | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-mastering-lock-screen-settings-how-to-enable-and-disable-on-oppo-find-n3-by-drfone-android/"><u>In 2024, Mastering Lock Screen Settings How to Enable and Disable on Oppo Find N3</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/next-level-image-editing-with-apples-latest-innovation-photo-transformations-guided-by-written-prompts-explore-the-tech-breakdown/"><u>Next-Level Image Editing with Apple's Latest Innovation: Photo Transformations Guided by Written Prompts | Explore the Tech Breakdown</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/top-rated-smartwatches-comprehensive-reviews-and-buyers-guide-zdnet/"><u>Top-Rated Smartwatches - Comprehensive Reviews & Buyer's Guide | ZDNet</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/unboxing-the-future-how-does-the-apple-watch-series-10-outshine-series-8-a-detailed-comparison/"><u>Unboxing the Future: How Does the Apple Watch Series 10 Outshine Series 8? A Detailed Comparison</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/why-is-ipogo-not-working-on-xiaomi-14-ultra-fixed-drfone-by-drfone-virtual-android/"><u>Why is iPogo not working On Xiaomi 14 Ultra? Fixed | Dr.fone</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "March Release Anticipated: Exploring the Potential Launch of Apple's Upcoming MacBook Air, iPad Pro & iPad Air - Insights From ZDNet"
-date: 2025-02-05T12:38:18.118Z
-updated: 2025-02-07T05:36:19.947Z
+date: 2025-02-09T20:30:02.251Z
+updated: 2025-02-16T23:30:29.748Z
 tags:
   - apple
 categories:
@@ -61,7 +61,7 @@ Maria Diaz/ZDNET
 * Apple Intelligence is free on iOS 18, iPadOS 18, and MacOS Sequoia, and will be available to try in English only this summer.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Partnership with OpenAI
@@ -90,10 +90,6 @@ Adam Breeden/ZDNET
 * The **Safari app** was upgraded to include key information about a webpage. You can read more about the Safari upgrades under the MacOS section of this article.
 * The **Calendar app** can now pull from the Reminders app for a more seamless schedule overview.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## WatchOS 11
 
 Adam Breeden/ZDNET
@@ -108,6 +104,10 @@ Adam Breeden/ZDNET
 * **Check In** is available on Apple Watch, even during workouts, to help users stay safe. **Translate** is also coming to Apple Watch so users can translate text right from their wrists.
 * Another notable change is that the **double tap gesture** can be used to scroll through apps.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ITtcSWvS8bo?si=4M4BfMgaabrW6148" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## iPadOS 18
 
 Adam Breeden/ZDNET
@@ -119,7 +119,7 @@ Adam Breeden/ZDNET
 * iPadOS 18 supports **screen-sharing via SharePlay** and the same Control Center customizations, Photos app upgrades, Safari updates, and emoji Tapbacks found in **iOS 18.**
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UoBCgLTmznE?si=MXXiGsd2qpd_DrzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## MacOS 15 (Sequoia)
@@ -151,7 +151,7 @@ Jason Hiner/ZDNET
 * Apple is also making the Vision Pro available in more countries starting June 28\. You can see the full list [here](https://www.apple.com/newsroom/2024/06/apple-vision-pro-arrives-in-new-countries-and-regions-beginning-june-28/).
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## AirPods
@@ -163,7 +163,7 @@ Jason Hiner/ZDNET
 * Apple is also releasing a **Personalized Spatial Audio API** for game developers to build around the AirPods' audio technology.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fJlICvacgJY?si=jNeijBVj7ia4ammA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## tvOS 18
@@ -210,18 +210,24 @@ Screenshot by Nina Raemont/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-helps.techidaily.com/new-2024-approved-showcasing-8-online-marvels-3d-and-luxurious-text-visuals/"><u>[New] 2024 Approved Showcasing 8 Online Marvels 3D & Luxurious Text Visuals</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/updated-comprehensive-guide-to-microsoft-azure-transcription-service/"><u>[Updated] Comprehensive Guide to Microsoft Azure Transcription Service</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/2024-approved-smiles-snorts-and-sighs-top-10-ig-meme-communities-of-the-decade/"><u>2024 Approved Smiles, Snorts & Sighs Top 10 IG Meme Communities of the Decade</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/are-browser-addons-for-ai-tools-safe/"><u>Are Browser AddOns for AI Tools Safe?</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/bypass-the-ban-on-chatgpt-understanding-and-resolving-4-common-reasons-for-account-lockouts/"><u>Bypass the Ban on ChatGPT: Understanding & Resolving 4 Common Reasons for Account Lockouts</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/exposing-pseudo-authors-detecting-ai-written-pieces/"><u>Exposing Pseudo-Authors: Detecting AI Written Pieces</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/how-to-uncover-and-deal-with-suspicious-chatgpt-phishing-websites/"><u>How to Uncover and Deal with Suspicious ChatGPT Phishing Websites</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-3-methods-to-mirror-vivo-x100-to-roku-drfone-by-drfone-android/"><u>In 2024, 3 Methods to Mirror Vivo X100 to Roku | Dr.fone</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/in-2024-cut-out-facebook-video-2023-edition-mobile-friendly/"><u>In 2024, Cut Out Facebook Video 2023 Edition, Mobile-Friendly</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/the-complete-manual-for-llama-2-installation-at-home/"><u>The Complete Manual for Llama 2 Installation at Home</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/top-budget-routers-evaluated-the-comprehensive-tp-link-archer-c9-review/"><u>Top Budget Routers Evaluated: The Comprehensive TP-Link Archer C9 Review</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-guide-solving-logitech-mouse-scroll-wheel-issues/"><u>Troubleshooting Guide: Solving Logitech Mouse Scroll Wheel Issues</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/understanding-claude-2-a-comprehensive-guide-to-its-functions-and-uses/"><u>Understanding Claude 2: A Comprehensive Guide to Its Functions and Uses</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/n-2024-how-to-easily-disableremove-youtube-shorts-permanently/"><u>[New] In 2024, How to Easily Disable/Remove YouTube Shorts Permanently?</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-navigating-the-essentials-of-av1-coders/"><u>[New] Navigating the Essentials of AV1 Coders</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/outubes-essential-view-total-to-secure-income/"><u>[New] YouTube's Essential View Total to Secure Income</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-in-2024-top-3-ipad-voice-logging-strategies/"><u>[Updated] In 2024, Top 3 iPad Voice Logging Strategies</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/affordable-high-quality-tablets-for-2n4-professional-evaluations-and-rankings-zdnet/"><u>Affordable High-Quality Tablets for 2N4: Professional Evaluations and Rankings | ZDNet</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/choosing-the-right-apple-notebook-macbook-air-vs-macbook-pro-key-differences-and-selection-guide/"><u>Choosing the Right Apple Notebook: MacBook Air Vs. MacBook Pro – Key Differences and Selection Guide</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/enjoy-24-discount-on-airpods-pro-2-the-latest-edition-with-built-in-hearing-aid-functionality-exclusively-on-zdnet/"><u>Enjoy 24% Discount on AirPods Pro 2 - The Latest Edition with Built-In Hearing Aid Functionality, Exclusively on ZDNET!</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/estrategia-paso-a-paso-para-instalar-y-usar-el-software-de-grabacion-de-dvd-con-winxdvd/"><u>Estrategia Paso a Paso Para Instalar Y Usar El Software De Grabación De DVD Con WinXDVD</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/exclusive-list-over-35-unbeatable-tablet-deals-still-going-on-for-amazon-prime-day-2ebd-your-ultimate-source-from-zdnet/"><u>Exclusive List: Over 35 Unbeatable Tablet Deals Still Going on for Amazon Prime Day 2Ebd | Your Ultimate Source From ZDNet</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-reset-a-tecno-spark-10c-phone-that-is-locked-by-drfone-android/"><u>In 2024, How to Reset a Tecno Spark 10C Phone that is Locked?</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/innovative-morse-input-for-laptops-precise-closure-techniques-needed-to-prevent-screen-or-hinge-damage-no-party-favors-included/"><u>Innovative Morse Input for Laptops: Precise Closure Techniques Needed to Prevent Screen or Hinge Damage - No Party Favors Included!</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/mastering-cross-device-cooperation-in-apple-pages-using-icloud-expert-strategies/"><u>Mastering Cross-Device Cooperation in Apple Pages Using iCloud: Expert Strategies</u></a></li>
+<li><a href="https://windows11.techidaily.com/ramping-up-vram-in-windows-a-comprehensive-guide-for-gaming/"><u>Ramping Up VRAM in Windows - A Comprehensive Guide for Gaming</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/revolutionary-photo-editing-unleashed-by-apples-latest-artificial-intelligence-update-utilizing-text-prompts-get-the-full-guide-digital-trends/"><u>Revolutionary Photo Editing Unleashed by Apple's Latest Artificial Intelligence Update Utilizing Text Prompts – Get the Full Guide | Digital Trends</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/top-6-benefits-of-owning-an-apple-watch-insights-from-a-leading-tech-guru/"><u>Top 6 Benefits of Owning an Apple Watch: Insights From a Leading Tech Guru</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/top-rated-ipad-models-featuring-comprehensive-reviews-by-tech-experts-insights/"><u>Top-Rated iPad Models Featuring Comprehensive Reviews by Tech Experts - Insights</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/transform-everyday-alerts-into-signature-sounds-with-android-tips-for-2024/"><u>Transform Everyday Alerts Into Signature Sounds with Android Tips for 2024</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/ultimate-guide-to-the-most-innovative-airtag-wallets-in-202-the-best-airtag-wallets-of-2024-expert-tested/"><u>Ultimate Guide to the Most Innovative AirTag Wallets in 202 The Best AirTag Wallets of 2024: Expert Tested</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/unveiling-apples-strongest-phone-shield-how-durability-meets-innovative-security-in-the-latest-case-design/"><u>Unveiling Apple's Strongest Phone Shield - How Durability Meets Innovative Security in the Latest Case Design</u></a></li>
 </ul></div>
 

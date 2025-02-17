@@ -1,7 +1,7 @@
 ---
 title: "The Tech Titans Duel: Google's PaLM 2 & OpenAI's GPT-4"
-date: 2024-08-15T22:05:37.364Z
-updated: 2024-08-16T22:05:37.364Z
+date: 2025-02-15T22:51:24.871Z
+updated: 2025-02-16T16:13:42.939Z
 tags:
   - chatgpt
   - open-ai
@@ -15,12 +15,20 @@ thumbnail: https://thmb.techidaily.com/acfc08d56b4206022979b3dc0ecd7952203549957
 
 ## ChatGPT or Gemini? Assessing the Strengths of Google's Newest Artificial Intelligence
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Quick Links
 
 * [What Is Google's Gemini AI Model?](https://www.makeuseof.com/is-google-gemini-better-than-chatgpt/#what-is-google-39-s-gemini-ai-model)
 * [How to Use Google Gemini AI](https://www.makeuseof.com/is-google-gemini-better-than-chatgpt/#how-to-use-google-gemini-ai)
 * [How Gemini Compares to GPT-3.5 and GPT-4](https://www.makeuseof.com/is-google-gemini-better-than-chatgpt/#how-gemini-compares-to-gpt-3-5-and-gpt-4)
 * [Is Gemini Better than ChatGPT?](https://www.makeuseof.com/is-google-gemini-better-than-chatgpt/#is-gemini-better-than-chatgpt)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Key Takeaways
 
@@ -47,9 +55,6 @@ thumbnail: https://thmb.techidaily.com/acfc08d56b4206022979b3dc0ecd7952203549957
  With an unprecedented 90.0% score on the rigorous MMLU benchmark, Google says Gemini Ultra is the first model to surpass human-level performance on this multifaceted test spanning 57 subjects.
 
 ![google gemini ai data comparing to open ai gpt4 model](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/12/google-gemini-ai-data-comparing-to-open-ai-gpt4-model.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851691&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 
 [Google](https://blog.google/technology/ai/google-gemini-ai/#performance)
 
@@ -62,8 +67,9 @@ thumbnail: https://thmb.techidaily.com/acfc08d56b4206022979b3dc0ecd7952203549957
  Google says that Gemini Ultra will roll out in January 2024, so we've had to settle for testing Gemini Pro against ChatGPT for now.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## How Gemini Compares to GPT-3.5 and GPT-4
 
  When any new AI model is launched, it is tested against OpenAI's GPT AI models, which are generally accepted as the state-of-the-art model other models should be held up against. So, using Bard and ChatGPT, we tested Gemini's ability in math, creative writing, code generation, and accurately processing image inputs.
@@ -85,9 +91,6 @@ We tried ChatGPT running on GPT-3.5\. The first trial got it right.
 Here's the source screenshot.
 
 ![screenshot of Chatbase chatbot creator](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/12/screenshot-to-replicate.jpg)
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425"><img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Below is Gemini Pro's attempt to interpret and replicate the screenshot using HTML and CSS.
 
@@ -96,22 +99,21 @@ Here's the source screenshot.
  And here's GPT-4's attempt at replicating the screenshot. The result is not surprising, considering GPT-4 has historically been strong at coding. We've previously demonstrated[using GPT-4 to build a web app from scratch](https://www.makeuseof.com/chatgpt-how-build-web-app/) .
 
 ![results of screenshot replication by ChatGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/12/results-of-screenshot-replication-by-chatgpt.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=14095146&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8b6cc3ee5ec407721ce3bf5ff4c0f56b/PRO_BUY_728x90-EN.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  We asked Gemini Pro to create a poem about Tesla (the electric vehicle car brand). It showed marginal improvements from previous tests we've done in the past. Here's the result:
 
 ![Bard running Gemini Pro writes a poem](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/12/bard-writes-peom.jpg)
-<!-- affiliate ads begin -->
-<a href="https://mushroom-supplies.sjv.io/c/5597632/1692242/18134" target="_top" id="1692242"><img src="//a.impactradius-go.com/display-ad/18134-1692242" border="0" alt="" width="834" height="592"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1692242/18134" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  At this point, we thought comparing the results against GPT-3.5 rather than the supercharged GPT-4 would be more appropriate. So, we asked ChatGPT running GPT-3.5 to create a similar poem.
 
 ![ChatGPT writes poem](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/12/chatgpt-writes-poem.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729642&QTY=1&AFFILIATE=108875&CART=1">Advanced Find and Replace for Google Sheets, Lifetime subscription</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/C3cJe7Wgn6I?si=EckDFML-VJ_2sYz8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  It may be a personal choice, but Gemini Pro's take on this seems better. But we'll let you be the judge.
@@ -122,14 +124,11 @@ Here's the source screenshot.
 
  Google says Gemini Ultra is going to be much better. We truly hope it is, and that it meets or exceeds the claims made in the Gemini Ultra announcement. But until we see and test the best version of Google's generative AI tool, we won't know if it can unseat other AI model competitors. As it stands, GPT-4 remains the undisputed AI model champion.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -138,4 +137,21 @@ Here's the source screenshot.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-posts.techidaily.com/new-zero-price-green-screen-visuals-for-2024/"><u>[New] Zero Price, Green Screen Visuals for 2024</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/updated-aesthetic-windowscape-top-picks-for-stunning-laptop-screen-designs/"><u>[Updated] Aesthetic Windowscape Top Picks for Stunning Laptop Screen Designs</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-in-2024-stay-concentrated-how-to-tame-the-chatter-of-google-video-calls/"><u>[Updated] In 2024, Stay Concentrated How to Tame the Chatter of Google Video Calls</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/2024-approved-unlocking-the-potential-of-valheims-seed-varieties/"><u>2024 Approved Unlocking the Potential of Valheim's Seed Varieties</u></a></li>
+<li><a href="https://discover-cloud.techidaily.com/1726227729405-m4vmp4-movavi/"><u>簡便在線免費改變檔案型別: M4V至MP4 - Movavi 自由轉換工具</u></a></li>
+<li><a href="https://games-able.techidaily.com/elite-blue-blocker-eyewear-selection/"><u>Elite Blue Blocker Eyewear Selection</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ce-9-festive-feasts-watch-holiday-epics-at-zero-cost-online-for-2024/"><u>Embrace 9 Festive Feasts Watch Holiday Epics at Zero Cost Online for 2024</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/how-to-stop-windows-crashing-with-rtwlanesys-a-comprehensive-guide/"><u>How to Stop Windows Crashing with 'rtwlane.sys': A Comprehensive Guide</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/navigating-auto-gpt-installation-overcoming-6-frequent-hurdles/"><u>Navigating Auto-GPT Installation: Overcoming 6 Frequent Hurdles</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/pioneering-change-with-conversational-ai-in-medicine/"><u>Pioneering Change with Conversational AI in Medicine</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/top-12-prominent-lava-blaze-curve-5g-fingerprint-not-working-solutions-by-drfone-android/"><u>Top 12 Prominent Lava Blaze Curve 5G Fingerprint Not Working Solutions</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/unleash-creative-potential-using-free-dall-e-3-on-bing-by-microsoft/"><u>Unleash Creative Potential: Using Free DALL-E 3 on Bing by Microsoft</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/unveiling-the-power-of-chatgpt-how-to-leverage-this-cutting-edge-generative-ai-technology/"><u>Unveiling the Power of ChatGPT - How to Leverage This Cutting-Edge Generative AI Technology</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/why-keeping-chatgpt-updated-matters-to-you-unpacking-the-benefits/"><u>Why Keeping ChatGPT Updated Matters to You: Unpacking the Benefits</u></a></li>
+</ul></div>
 

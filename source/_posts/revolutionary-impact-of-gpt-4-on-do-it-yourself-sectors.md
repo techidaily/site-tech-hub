@@ -1,7 +1,7 @@
 ---
 title: Revolutionary Impact of GPT-4 on Do-It-Yourself Sectors
-date: 2024-08-15T22:08:33.427Z
-updated: 2024-08-16T22:08:33.427Z
+date: 2025-02-15T18:15:47.483Z
+updated: 2025-02-16T17:47:21.870Z
 tags:
   - chatgpt
   - open-ai
@@ -17,6 +17,10 @@ thumbnail: https://thmb.techidaily.com/2fa065b01e8af0dc1b8ed804f9e907992c266eafc
 
  ChatGPT has become a mainstream tool around the world, offering an AI chatbot service to billions. But the popularity of this chatbot is now being capitalized upon by cybercriminals looking to swindle unsuspecting users. So, what kinds of ChatGPT scams should you be looking out for?
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. ChatGPT Email Scams
 
 ![picture of mail app icon on iphone menu screen](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/iphone-mail-1.jpg)
@@ -30,14 +34,15 @@ thumbnail: https://thmb.techidaily.com/2fa065b01e8af0dc1b8ed804f9e907992c266eafc
  In general, using ChatGPT to write phishing emails can streamline the scam process for cybercriminals, which may cause phishing attacks to grow in frequency overall.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4665597&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pcclean.io/wp-content/uploads/2018/03/winutilities-box-130521.png" border="0">WinUtilities Pro</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DEqoiNArwjQ?si=oaL_lgnI-RxY5Qy_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 2\. Fake ChatGPT Browser Extensions
 
 ![chatgpt open on computer monitor](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/chatgpt-open-monitor.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-writer-free-word-processor-1x.3d9c80d.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Browser extensions are a popular and convenient tool used by millions, but malicious, phony versions of this software are also used to install malware and steal data. The case is no different for ChatGPT.
@@ -51,9 +56,6 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 ## 3\. Fake ChatGPT Apps
 
 ![app store application open on smartphone](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/app-store-smartphone.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 
  Like browser extensions, cybercriminals can also use ChatGPT's name to spread malicious apps. Malicious apps are nothing new and have been used for years to deploy malware, steal data, and monitor device activity. Now, ChatGPT's well-known name is being used to push malicious apps.
 
@@ -61,9 +63,6 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 
  To keep yourself safe from these apps, it's important to do background research on any given kind of software program to see if it has a positive reputation, or any reputation at all. Even if an app looks enticing, it's not worth the installation if you can't verify whether it is safe. Stick to trusted app stores and check user reviews before downloading any kind of app.
 
-<!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1821134/17882" target="_top" id="1821134"><img src="//a.impactradius-go.com/display-ad/17882-1821134" border="0" alt="" width="320" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1821134/17882" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 4\. Malware Created by ChatGPT
 
 ![black skull and bones flag on laptop screen](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/malware-on-laptop.jpg)
@@ -75,8 +74,9 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
  This malware was not highly complex, and no severely dangerous malware, such as ransomware, has been identified as a product of ChatGPT. But ChatGPT's ability to write even simple malware programs opens a door to people who want to get into cybercrime but do not have much, or any, technical expertise. In any case, this new AI-powered capability may prove to be a big issue in the near future.
 
 <!-- affiliate ads begin -->
-<a href="https://proteahair.pxf.io/c/5597632/1983634/23621" target="_top" id="1983634"><img src="//a.impactradius-go.com/display-ad/23621-1983634" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983634/23621" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 5\. ChatGPT Phishing Sites
 
 ![Hacker phishing data from a laptop](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/hacker-phishing-data.jpg)
@@ -90,20 +90,18 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
  In reality, the link you click on leads to a malicious webpage that can steal any data you enter, including your login credentials. Now, another person can access your ChatGPT account and view your prompt history, account details, and other sensitive data. It's important to know[how to spot phishing scams](https://www.makeuseof.com/top-signs-phishing-scams/) in order to avoid this kind of cybercrime.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4631722&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2023/05/frontpage2-2048x588.webp" border="0">EmEditor Professional (Lifetime License, non-store app)</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## ChatGPT Scams Are Worryingly Common
 
  As ChatGPT continues to grow in prevalence, it is likely that cybercriminals will continue to leverage its popularity to target users, be it for their devices, their activity, or their sensitive data. So, if you're interested in using ChatGPT, or you want to stay updated on how to protect yourself online, be mindful of the various types of scams and attacks.
-
 
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -112,4 +110,21 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-video-recordings.techidaily.com/new-crafting-dynamic-gifs-from-video-an-illustrative-tutorial/"><u>[New] Crafting Dynamic Gifs From Video An Illustrative Tutorial</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/nleashing-content-effortless-download-of-youtube-video-for-ios/"><u>[New] Unleashing Content Effortless Download of Youtube Video for iOS</u></a></li>
+<li><a href="https://article-helps.techidaily.com/2024-approved-unlocking-the-secrets-of-instagrams-music-rights-management/"><u>2024 Approved Unlocking the Secrets of Instagram's Music Rights Management</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/elevate-your-writing-with-innovative-ideas-from-the-worlds-5-leading-ai-generators/"><u>Elevate Your Writing with Innovative Ideas From the World's 5 Leading AI Generators</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/forgotten-the-voicemail-password-of-oneplus-try-these-fixes-by-drfone-android/"><u>Forgotten The Voicemail Password Of OnePlus? Try These Fixes</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-change-realme-v30t-lock-screen-password-by-drfone-android/"><u>How To Change Realme V30T Lock Screen Password?</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-activate-and-use-life360-ghost-mode-on-itel-s23plus-drfone-by-drfone-virtual-android/"><u>In 2024, How To Activate and Use Life360 Ghost Mode On Itel S23+ | Dr.fone</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/mastering-m2ts-video-support-fixing-playback-problems-with-plex-streaming-software/"><u>Mastering M2TS Video Support: Fixing Playback Problems with Plex Streaming Software</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/overcoming-issues-with-fraps-what-to-do-when-it-halts-capture/"><u>Overcoming Issues with Fraps: What to Do When It Halts Capture?</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/private-vs-unlisted-videos-on-youtube-understanding-their-key-distinctions/"><u>Private Vs. Unlisted Videos on YouTube: Understanding Their Key Distinctions</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/quick-and-easy-guide-turn-your-cda-tracks-into-high-quality-wav-format-in-just-3-steps/"><u>Quick & Easy Guide: Turn Your CDA Tracks Into High-Quality WAV Format in Just 3 Steps</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/simple-guide-how-to-effectively-remove-fixed-subtitle-text-from-film-footage/"><u>Simple Guide: How to Effectively Remove Fixed Subtitle Text From Film Footage</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/1721417075403-speak-now-ask-anyth-market-research-expert-on-how-businesses-can-use-chatbots-in-customer-service-to-enhance-brand-experience-and-reduce-costs/"><u>Speak Now, Ask Anyth Market Research Expert on How Businesses Can Use Chatbots in Customer Service to Enhance Brand Experience and Reduce Costs</u></a></li>
+<li><a href="https://win-extraordinary.techidaily.com/trouble-with-windows-11-recovery-process-discover-6-successful-fix-strategies/"><u>Trouble with Windows 11 Recovery Process? Discover 6 Successful Fix Strategies!</u></a></li>
+</ul></div>
 

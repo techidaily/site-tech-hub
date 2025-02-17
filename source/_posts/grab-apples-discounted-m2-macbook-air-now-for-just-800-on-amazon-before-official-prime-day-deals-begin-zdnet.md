@@ -1,7 +1,7 @@
 ---
 title: Grab Apple's Discounted M2 MacBook Air Now for Just $800 on Amazon Before Official Prime Day Deals Begin - ZDNet
-date: 2024-10-20T17:10:46.279Z
-updated: 2024-10-27T17:46:56.026Z
+date: 2025-02-11T21:14:20.889Z
+updated: 2025-02-17T00:29:24.639Z
 tags:
   - apple
 categories:
@@ -41,6 +41,10 @@ AI-powered laptops are the future, and right now, manufacturers are putting thei
 
 Many folks don't need top-of-the-line AI integration just yet. The reality is that day-to-day workflows for most people are still reliant on powerful, reliable laptops that can tackle whatever you throw at it, and the [M2 MacBook Air](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2F2022-Apple-MacBook-Laptop-chip%2Fdp%2FB0B3C2R8MP%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cc29ebbda-99dd-4505-b503-7802d6019c7c%7Cdtp&dtb=1) is a machine that fulfills exactly that need, while being light as air. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## When will this deal expire?
 
 Deals are subject to sell-out or expire at any time, though ZDNET remains committed to finding, sharing, and updating the best product deals for you to score the best savings. Our team of experts regularly checks in on the deals we share to ensure they are still live and obtainable. We're sorry if you've missed out on this deal, but don't fret -- we're constantly finding new chances to score savings and sharing them with you at [ZDNET.com](https://www.zdnet.com/). 
@@ -75,27 +79,18 @@ Deals are subject to sell-out or expire at any time, though ZDNET remains commit
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-share.techidaily.com/new-buy-youtube-likes-for-2024-does-it-really-help-boost-your-channel/"><u>[New] Buy YouTube Likes for 2024 Does It Really Help Boost Your Channel?</u></a></li>
-<li><a href="https://fox-access.techidaily.com/new-prime-platforms-crafting-3d-animation-art/"><u>[New] Prime Platforms Crafting 3D Animation Art</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/new-taming-soundtracks-audio-capture-in-windows-10/"><u>[New] Taming Soundtracks Audio Capture in Windows 10</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/updated-2024-approved-a-closer-look-at-stale-vr-landscapes-what-changes/"><u>[Updated] 2024 Approved A Closer Look at Stale VR Landscapes What Changes?</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/2024-approved-achieving-professional-hdr-images-with-adobe-ps/"><u>2024 Approved Achieving Professional HDR Images with Adobe PS</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/comprehensive-guide-to-removing-all-your-chat-sessions-from-chatgpt/"><u>Comprehensive Guide to Removing All Your Chat Sessions From ChatGPT</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/content-excellence-via-gpt-collaborations/"><u>Content Excellence via GPT Collaborations</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/exploring-varied-domains-of-ai-implementation/"><u>Exploring Varied Domains of AI Implementation</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/gpt-vs-perplexity-seeking-the-ideal-ai-chatbot/"><u>GPT Vs. Perplexity: Seeking the Ideal AI Chatbot</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/innovative-approaches-to-ai-prompting-discover-the-most-effective-7-techniques/"><u>Innovative Approaches to AI Prompting - Discover the Most Effective 7 Techniques</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/leverage-chatgpt-for-unique-text-adventures-steps-to-design-and-play-a-detailed-character-driven-rpg/"><u>Leverage ChatGPT for Unique Text Adventures: Steps to Design and Play a Detailed, Character-Driven RPG</u></a></li>
-<li><a href="https://data-recovery.techidaily.com/nebulaedata-salvage/"><u>NebulaeData Salvage</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/transforming-talks-with-overlooked-gpt-capabilities/"><u>Transforming Talks with Overlooked GPT Capabilities</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/understanding-tablet-tech-key-differences-between-ipad-mini-and-ipad-air/"><u>Understanding Tablet Tech: Key Differences Between iPad Mini and iPad Air</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/unleash-your-imagination-11-chatgpt-techniques-to-invent-captivating-characters-for-stories/"><u>Unleash Your Imagination: 11 ChatGPT Techniques to Invent Captivating Characters for Stories</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/024-approved-elevated-viewership-status-symbolized-by-buttons/"><u>[New] 2024 Approved Elevated Viewership Status Symbolized by Buttons</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-2024-approved-navigating-the-mobile-film-world-thumbnail-creation-essentials/"><u>[Updated] 2024 Approved Navigating the Mobile Film World Thumbnail Creation Essentials</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-2024-approved-next-gen-webcams-a-deep-dive-into-live-videography-gear/"><u>[Updated] 2024 Approved Next-Gen WebCams A Deep Dive Into Live Videography Gear</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/how-to-protect-your-privacy-steps-to-disconnect-from-chatgpt/"><u>How to Protect Your Privacy: Steps to Disconnect From ChatGPT</u></a></li>
+<li><a href="https://video-capture.techidaily.com/in-2024-from-png-to-jpeg-mac-screenshot-transformations/"><u>In 2024, From PNG to JPEG Mac Screenshot Transformations</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-lock-apps-on-nokia-c300-to-protect-your-individual-information-by-drfone-android/"><u>In 2024, How to Lock Apps on Nokia C300 to Protect Your Individual Information</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-remove-flashlight-from-iphone-8-lock-screen-by-drfone-ios/"><u>In 2024, How To Remove Flashlight From iPhone 8 Lock Screen</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/inside-look-what-is-grok-by-elon-musk-and-how-much-will-it-set-you-back/"><u>Inside Look: What Is Grok by Elon Musk, and How Much Will It Set You Back?</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/intelligence-stands-firm-in-chatgpt-opensai-declares/"><u>Intelligence Stands Firm in ChatGPT, OpensAI Declares</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/is-googlen-gemini-the-next-big-thing-or-just-a-shiny-distraction-from-chatgpt/"><u>Is Google'n Gemini the Next Big Thing or Just a Shiny Distraction From ChatGPT?</u></a></li>
+<li><a href="https://fake-location.techidaily.com/looking-for-a-location-changer-on-apple-iphone-x-look-no-further-drfone-by-drfone-virtual-ios/"><u>Looking For A Location Changer On Apple iPhone X? Look No Further | Dr.fone</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/maximizing-therapeutic-impact-through-chatgpt-ai/"><u>Maximizing Therapeutic Impact Through ChatGPT AI</u></a></li>
+<li><a href="https://driver-error.techidaily.com/the-definitive-solution-for-the-blue-screen-error-0x0000007e-in-windows-7-systems/"><u>The Definitive Solution for the Blue Screen Error 0X0000007E in Windows 7 Systems</u></a></li>
 </ul></div>
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997662/19272" target="_top" id="1997662">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997662" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997662/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 

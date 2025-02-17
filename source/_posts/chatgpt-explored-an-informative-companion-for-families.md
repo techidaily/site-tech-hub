@@ -1,7 +1,7 @@
 ---
 title: "ChatGPT Explored: An Informative Companion for Families"
-date: 2024-08-15T22:05:21.091Z
-updated: 2024-08-16T22:05:21.091Z
+date: 2025-02-13T23:15:18.053Z
+updated: 2025-02-17T00:27:18.302Z
 tags:
   - chatgpt
   - open-ai
@@ -23,9 +23,6 @@ thumbnail: https://thmb.techidaily.com/db339cfb71ad17e704275f446976657b74bdf593b
 * [Upgraded Code Analysis](https://appsumo.8odi.net/gmezyk)
 * [Temporary Chat](https://copa.sjv.io/6eoowq)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4715391&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
-<!-- affiliate ads end -->
 ### Key Takeaways
 
 * ChatGPT now converses with image inputs and outputs, providing accurate results and generated images in its responses.
@@ -39,9 +36,9 @@ thumbnail: https://thmb.techidaily.com/db339cfb71ad17e704275f446976657b74bdf593b
  OpenAI's early May 2024 ChatGPT update was enormous, bringing heaps of new features to the world's leading generative AI chatbot. Most of the improvements center around enhancing user interaction, new functionalities, and improving overall performance, and there are heaps of reasons why you should give them a try.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-office-pdf-editor-1x.890dbda.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Image Input and Output Capabilities
 
  ChatGPT is now capable of taking images as input and generating images as output! The new image input capability allows users to upload images directly into their chat interactions with ChatGPT. This feature expands the ways users can seek help and share information, making it possible to discuss visual content seamlessly.
@@ -49,11 +46,6 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
  In this example, I asked ChatGPT for recipes for the items visible in the fridge.
 
 ![Asking ChatGPT to identify and make recipes for ingredients based on an image](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/asking-chatgpt-for-recipes.jpg)
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296685&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2022/video-pp/ScreenshotSlider/Nero-Video-Advanced-editing.JPG" border="0">Simple and intuitive video editing
-🎬 Nero Video:
-The powerful video editing program for your Windows PC</a>
-<!-- affiliate ads end -->
 
  It gave me some pretty accurate results in identifying items in the fridge and giving recipes I could make using the ingredients identified.
 
@@ -63,13 +55,14 @@ I asked ChatGPT what MakeUseOf would look like if it were a robot.
 
 ![Asking ChatGPT to generate an image using text description](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/screenshot-2024-05-16-161949.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  As you can see, ChatGPT provides some promising results, providing an image plus a description of the image. However, it still seems like you'll need to use [third-party solutions to save the image in JPG or PNG](https://www.makeuseof.com/how-convert-dalle-3-webp-images-jpg-or-png/) , since there isn't a way to save the image beside WebP.
 
  ChatGPT Plus users were immediately given access to the new features using OpenAI's new ChatGPT-4o (Omnimodal) model. Free-tier users will also have access to these features but with limited usage.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=33729450&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
-<!-- affiliate ads end -->
 ## Expanded Knowledge Base and Cross-Chat Memory
 
  ChatGPT's upgraded web browsing capabilities allow it to retrieve up-to-date information from the web with better accuracy. It ensures responses are based on the latest available data and insights, making it particularly valuable for quickly evolving topics like news, technology, and market trends.
@@ -79,13 +72,14 @@ I asked ChatGPT what MakeUseOf would look like if it were a robot.
  I asked ChatGPT to check the Saturday weather forecast and advise whether I should reschedule my activities based on the weather update.
 
 ![Using ChatGPT as an AI assistant using memory and web browsing features](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/using-chatgpt-as-assistant-using-expanded-knowledge-base-1-1.jpg)
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2048963/16384" target="_top" id="2048963"><img src="//a.impactradius-go.com/display-ad/16384-2048963" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048963/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  ChatGPT provided sound advice by browsing the web for the weather and reviewing its memory of my schedule. It even gave me a list of activities I could do instead based on my past interactions with ChatGPT.
 
  The browsing capability feature is now available for both Plus and Free tier users, while ChatGPT Memory is only available to Plus users.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Multi-Modal Voice and Video Interactions
 
@@ -98,9 +92,9 @@ I asked ChatGPT what MakeUseOf would look like if it were a robot.
  GPT-4o's voice interaction is available to all users using the ChatGPT Android/iOS app. However, the video interaction feature is unavailable at the time of writing but is expected to roll out in the near future.
 
 <!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002162&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/1_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (1 PC) Free upgrade. No monthly fees ever. 
-</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UUPt2zKtJ5k?si=LLHdsFDLzVByJsKj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Upgraded Code Analysis
 
  The previous ChatGPT Code Interpreter is now called Advanced Data Analysis (ADA). Since it is already out of beta and ChatGPT plugins are no longer available, ADA is now an integrated feature within both ChatGPT-4 and ChatGPT-4o, and both Free and Plus tier users now have this feature. No plugin or activation is needed; simply prompt ChatGPT to run, analyze, or write code, and it should do the rest for you.
@@ -117,6 +111,10 @@ I asked ChatGPT what MakeUseOf would look like if it were a robot.
 
 ![ChatGPT's new temporary chat feature](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/chatgpt-s-temporary-chat-feature.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaGNHfAT92w?si=bvHo1iYK2JBIPtRo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  The new Temporary Chat feature in ChatGPT-4o is ideal for privacy-conscious users and those seeking quick interactions with ChatGPT. This feature enables users to engage in a temporary chat with ChatGPT without the conversation being saved in history or used by OpenAI to train their models.
 
  Temporary Chat is available to both Plus and Free tier users. You can access it through the model drop-down menu by selecting the Temporary Chat option. Once activated, you can now enjoy a private and non-persistent chat experience.
@@ -129,8 +127,6 @@ I asked ChatGPT what MakeUseOf would look like if it were a robot.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -138,4 +134,22 @@ I asked ChatGPT what MakeUseOf would look like if it were a robot.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-http.techidaily.com/new-in-2024-androidiphones-leading-top-10-cost-free-photo-enhancements/"><u>[New] In 2024, Android/iPhone's Leading Top 10 Cost-Free Photo Enhancements</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-2024-approved-spotifys-1-artists-of-the-month/"><u>[Updated] 2024 Approved Spotify’s #1 Artists of the Month</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/are-there-echoes-in-cyberspace-unraveling-the-mystery-of-who-you-really-talk-to-on-the-web/"><u>Are There Echoes in Cyberspace? Unraveling the Mystery of Who You Really Talk to on the Web</u></a></li>
+<li><a href="https://fox-that.techidaily.com/defeat-common-icloud-troubleshooting-scenarios-on-ios-with-these-easy-fixes/"><u>Defeat Common iCloud Troubleshooting Scenarios on iOS with These Easy Fixes</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/easy-installation-guide-downloading-the-latest-samsung-printer-drivers-for-windows/"><u>Easy Installation Guide: Downloading the Latest Samsung Printer Drivers for Windows</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/gpt-series-showdown-unveiling-the-distinctive-features-of-gpt-4-gpt-turbo-and-gpt-x-variants/"><u>GPT-Series Showdown: Unveiling the Distinctive Features of GPT-4, GPT-Turbo & GPT-X Variants</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-get-your-disappearing-mouse-cursor-back-on-windowshttps-10/"><u>How to Get Your Disappearing Mouse Cursor Back on [Windows](https://) 10</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/24-pro-free-ending-makers-ranked-1-6/"><u>In 2024, Pro-FREE Ending Makers - Ranked 1-6</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/microsofts-bing-ai-head-to-head-with-chatgpt-understanding-the-10-key-differences/"><u>Microsoft's Bing AI Head-to-Head with ChatGPT: Understanding the 10 Key Differences</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/new-2024-approved-glitch-your-way-to-creativity-top-video-editors-for-windows-and-mac/"><u>New 2024 Approved Glitch Your Way to Creativity Top Video Editors for Windows and Mac</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/places-near-me/"><u>Places Near Me</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/running-chatgpt-with-windows-sdk/"><u>Running ChatGPT with Windows SDK</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/still-using-pattern-locks-with-vivo-s17-pro-tips-tricks-and-helpful-advice-by-drfone-android/"><u>Still Using Pattern Locks with Vivo S17 Pro? Tips, Tricks and Helpful Advice</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/tech-savvy-signups-how-to-join-chatgpt-whatsapp-and-more-with-alternative-verification-methods/"><u>Tech-Savvy Signups: How to Join ChatGPT, WhatsApp and More with Alternative Verification Methods</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/worth-every-penny-why-you-should-consider-upgrading-to-chatgpt-plus/"><u>Worth Every Penny: Why You Should Consider Upgrading to ChatGPT Plus</u></a></li>
+</ul></div>
 

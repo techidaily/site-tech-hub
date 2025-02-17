@@ -1,7 +1,7 @@
 ---
 title: Boost Productivity with a Simple Chrome Extension for Easy ChatGPT Prompts
-date: 2024-08-15T22:04:13.854Z
-updated: 2024-08-16T22:04:13.854Z
+date: 2025-02-10T22:33:46.887Z
+updated: 2025-02-16T22:48:17.074Z
 tags:
   - chatgpt
   - open-ai
@@ -23,6 +23,10 @@ thumbnail: https://thmb.techidaily.com/64d6132273fa0f5624faa24b024a9043c67b09153
 
 ![In Solve the Murders, you play a detective who has chat with AI suspects in a murder mystery to find out who the killer is](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/ai-chatgpt-murder-mystery-online-games-play-detective-solve-the-murders.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Author Screenshot by Mihir Patkar - No attribution required
 
  Solve the Murders is based on a similar large language model as ChatGPT, where you play a detective who has to solve the murder mystery by chatting with AI-generated bots. At the start, you'll be given a list of facts about the murder and the players involved.
@@ -31,14 +35,12 @@ thumbnail: https://thmb.techidaily.com/64d6132273fa0f5624faa24b024a9043c67b09153
 
  The points you earn are tradable for a few acts, such as checking alibis, checking records, investigating scenes, and tailing suspects. If you're stuck at any time, you can spend points to get a clue on how you should proceed. Once you're sure about the whodunnit, use the one-time "Solve the murder" action to see if you got it right.
 
-<!-- affiliate ads begin -->
-<a href="https://propmoneyinc.pxf.io/c/5597632/1803115/14559" target="_top" id="1803115"><img src="//a.impactradius-go.com/display-ad/14559-1803115" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803115/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 2.[Gron](https://www.gron.games/game) (Web): Retro RPG Game to Find Clues and Chat With Suspects
 
 ![Gron is a retro 8-bit RPG-style online game where you unravel a murder mystery by finding evidence and clues, as well as interrogating suspects with ChatGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/ai-chatgpt-murder-mystery-online-games-play-detective-gron-town.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453719/17020" target="_top" id="1453719"><img src="//a.impactradius-go.com/display-ad/17020-1453719" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453719/17020" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaGNHfAT92w?si=bvHo1iYK2JBIPtRo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Author Screenshot by Mihir Patkar - No attribution required
@@ -50,14 +52,12 @@ thumbnail: https://thmb.techidaily.com/64d6132273fa0f5624faa24b024a9043c67b09153
  When you interact with a character, Gron automatically starts a chat window. Knowing the right prompts and asking the right questions is important. For example, we asked a character if he is the only son and got an affirmative response, but when asked if he had any siblings, he quickly replied that he misunderstood the first question and he had a sister. As you ask more questions, use the in-game diary to record responses so that you can cross-reference different testimonies to deduce who the murderer is.
 
 <!-- affiliate ads begin -->
-<a href="https://ship7com.pxf.io/c/5597632/1509856/17634" target="_top" id="1509856"><img src="//a.impactradius-go.com/display-ad/17634-1509856" border="0" alt="" width="730" height="383"/></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qbuund2HKOQ?si=NaGHqIrx8hSL7gWV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 3.[Mystery-o-Matic](https://mystery-o-matic.com/) (Web): New Murder Mystery Generated Daily Randomly
 
 ![Mystery-o-matic uses AI like ChatGPT to generate a new murder mystery every day where you have to guess the killer, the weapon, and the location based on a set of clues](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/ai-chatgpt-murder-mystery-online-games-play-detective-mystery-o-matic.jpg)
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/863039/11832" target="_top" id="863039"><img src="//a.impactradius-go.com/display-ad/11832-863039" border="0" alt="" width="300" height="250"/></a>
-<!-- affiliate ads end -->
 
  Author Screenshot by Mihir Patkar - No attribution required
 
@@ -67,12 +67,13 @@ thumbnail: https://thmb.techidaily.com/64d6132273fa0f5624faa24b024a9043c67b09153
 
  Use the built-in investigator's notebook to figure out who was in which room at what time and how they could have accessed a murder weapon. Once you're sure about the solution, say who the murderer was, the weapon was, and the time of the murder. The game might get a little repetitive the longer you play it, but hey, where else would you get to solve a murder mystery daily?
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Q8Feep0Rc0?si=YkPhRxXGvrRRMJtb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 4.[Murdle](https://murdle.com/) (Web): Daily Murder Mystery Logic Puzzles
 
 ![Murdle offers a new murder mystery everyday, generated by an AI and written by Hollywood mystery writer G. T. Karber, increasing in difficulty from Monday to Sunday](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/ai-chatgpt-murder-mystery-online-games-play-detective-murdle.jpg)
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075461/7443" target="_top" id="2075461"><img src="//a.impactradius-go.com/display-ad/7443-2075461" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075461/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Author Screenshot by Mihir Patkar - No attribution required
 
@@ -83,24 +84,20 @@ thumbnail: https://thmb.techidaily.com/64d6132273fa0f5624faa24b024a9043c67b09153
  You play as Detective Logico and are given a series of clues and evidence, which you can use with the cross-referencing charting to match suspects, locations, and weapons. It's best to start off with the mini-Murdle tutorial and then get to the daily puzzles. When you're ready to make your accusation, you'll need to say who the murderer was, how they did it, and where the ghastly act took place.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698824&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3pro-screenshot-homepage.png" border="0">PCDJ DEX 3 for Windows & MAC is the total entertainment DJ software solution, offering audio, video, and karaoke mixing ability. Automatic beat-sync, smart looping, 4 decks, DJ MIDI controller support, Karaoke Streaming and much more. 
-DEX 3 meets the demands of today’s versatile DJ, without compromise! 
-DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations and Free Updates)</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jf0JvOqiAXc?si=kHEHQGC_PhBv4xij" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Create Your Own ChatGPT Murder Mystery
 
  Yes, you can create a murder mystery game with ChatGPT by yourself. These murder mystery apps relieve you of the burden of giving the AI base information and data and then figuring out the best prompts to have it generate a mystery. But if you're willing to learn those skills, you can soon set up a few templates of your own and construct a custom ChatGPT mystery.
 
  A good place to learn how to set up these prompts is Reddit. On r/ChatGPT, you'll find posts like creating a murder mystery with the characters of the sitcom Friends or the mystery inspired by the game Clue. How cool would it be to play a murder mystery based on your favorite fictional characters?
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -109,4 +106,24 @@ DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations 
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-cloud.techidaily.com/new-effortlessly-edit-images-using-snapseed-tips-for-2024/"><u>[New] Effortlessly Edit Images Using Snapseed Tips for 2024</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-in-2024-address-ineffective-fb-video-sharing/"><u>[New] In 2024, Address Ineffective FB Video Sharing</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-prime-construction-tips-for-mc-community-abodes/"><u>[Updated] Prime Construction Tips for MC Community Abodes</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-simplify-your-creative-process-with-these-9-user-friendly-editors/"><u>[Updated] Simplify Your Creative Process with These 9 User-Friendly Editors</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/2024-approved-intrinsic-storytelling-principles/"><u>2024 Approved Intrinsic Storytelling Principles</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/alert-imitation-chatgpt-windows-clients-are-malware-not-the-real-thing/"><u>Alert! Imitation ChatGPT Windows Clients Are Malware, Not the Real Thing</u></a></li>
+<li><a href="https://fox-access.techidaily.com/androids-premier-8-apps-harmonizing-free-and-paid-videomosaic-experience/"><u>Android's Premier 8 Apps Harmonizing Free & Paid Videomosaic Experience</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/avoiding-pitfalls-solutions-to-6-recurrent-chatgpt-mistakes/"><u>Avoiding Pitfalls: Solutions to 6 Recurrent ChatGPT Mistakes</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/choosing-the-right-ai-assistant-for-freelancers-bing-or-gpt-3/"><u>Choosing the Right AI Assistant for Freelancers: Bing or GPT-3?</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/getting-past-windows-11-freezing-point-update-solutions-unveiled/"><u>Getting Past Windows 11 Freezing Point: Update Solutions Unveiled</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/how-10-world-renowned-technology-experts-view-the-future-of-ai/"><u>How 10 World-Renowned Technology Experts View the Future of AI</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/navigating-the-best-artificers-markets-expertise-in-ai-prompts/"><u>Navigating the Best Artificer's Markets: Expertise in AI Prompts</u></a></li>
+<li><a href="https://ai-topics.techidaily.com/new-waht-is-ai-pixel-art-generator-for-2024/"><u>New Waht Is AI Pixel Art Generator for 2024</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/the-silent-threat-to-personal-information-from-chatgpt/"><u>The Silent Threat to Personal Information From ChatGPT</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/the-ultimate-list-of-warning-signs-for-binggpt-coins/"><u>The Ultimate List of Warning Signs for BingGPT Coins</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/1719261998240-unfreeze-windows-update-easy-to-follow-tips/"><u>Unfreeze Windows Update: Easy-to-Follow Tips</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/weighing-risks-chatgpt-and-your-privacy/"><u>Weighing Risks: ChatGPT and Your Privacy</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Mastering iOS 18: A Step-by-Step Guide to Personalizing Your iPhone's Control Center - Tips"
-date: 2025-01-31T23:14:53.966Z
-updated: 2025-02-07T03:04:33.180Z
+date: 2025-02-15T00:29:06.473Z
+updated: 2025-02-16T19:47:26.107Z
 tags:
   - apple
 categories:
@@ -28,7 +28,15 @@ If you want to follow along, you'll need to install the iOS 18 public beta on an
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to customize your iPhone's new Control Center with iOS 18
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 1\. Access Control Center
 
@@ -45,7 +53,7 @@ Screenshot by Lance Whitney/ZDNET
 **Also: [Every iPhone model that can be updated to Apple's iOS 18 (and which ones can't)](https://www.zdnet.com/article/every-iphone-model-that-can-be-updated-to-apples-ios-18-and-which-ones-cant/)**
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. Resize a control
@@ -55,7 +63,7 @@ After tapping the plus icon, some controls sport a gray curved handle in the low
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UoBCgLTmznE?si=MXXiGsd2qpd_DrzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaGNHfAT92w?si=bvHo1iYK2JBIPtRo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4\. Delete a control
@@ -63,10 +71,6 @@ Screenshot by Lance Whitney/ZDNET
 Next, you can directly delete a control you don't need or want. With the icons in edit mode, tap the minus sign for the icon you want to remove. When the icon is deleted, the surrounding icons should move to fill up the gap.
 
 Screenshot by Lance Whitney/ZDNET
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 5\. Add a control to an existing screen
 
@@ -77,7 +81,7 @@ Screenshot by Lance Whitney/ZDNET
 **Also: [I did not expect this iOS 18 feature announced at WWDC to be my favorite (and it's not AI)](https://www.zdnet.com/article/i-did-not-expect-this-ios-18-feature-announced-at-wwdc-to-be-my-favorite-and-its-not-ai/)**
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/f-yPCh24EsA?si=3z8FAd_lMZeAjug7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1rCjQ09iG7s?si=Si1fUBric8MH1VHI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 6\. Add a control to a new screen
@@ -85,10 +89,6 @@ Screenshot by Lance Whitney/ZDNET
 If the current screens are already filled with icons, you can set up additional screens to hold more controls. Swipe down to the last screen, which shouldn't have any free space. Tap the plus icon and then tap "Add a Control." Again, browse or search for the control you wish to add. Tap that control, and it should appear in a new screen. You can continue adding more controls to the new screen this way. You can create as many as 15 screens, though you'll probably want to stop before you reach that number.
 
 Screenshot by Lance Whitney/ZDNET
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1KKovVi9epE?si=EF7KA7b4KsEpWA-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 7\. Power down from Control Center
 
@@ -126,16 +126,18 @@ Screenshot by Lance Whitney/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-techniques.techidaily.com/updated-exclusive-changes-in-photo-backgrounds-visionshift-elite/"><u>[Updated] Exclusive Changes in Photo Backgrounds VisionShift Elite</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/7-ways-to-unlock-a-locked-tecno-pova-5-pro-phone-by-drfone-android/"><u>7 Ways to Unlock a Locked Tecno Pova 5 Pro Phone</u></a></li>
-<li><a href="https://extra-information.techidaily.com/analyzing-elite-performance-of-parrots-ar-drone-20-for-2024/"><u>Analyzing Elite Performance of Parrot's AR Drone 2.0 for 2024</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/boost-productivity-discover-the-top-9-chatgpt-integrations-for-instant-impact/"><u>Boost Productivity: Discover the Top 9 ChatGPT Integrations for Instant Impact</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/can-language-models-like-chatgpt-replace-human-proofreaders-effectively/"><u>Can Language Models Like ChatGPT Replace Human Proofreaders Effectively?</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/disguised-dangers-identifying-phony-chatgpt-tools/"><u>Disguised Dangers: Identifying Phony ChatGPT Tools</u></a></li>
-<li><a href="https://common-error.techidaily.com/guide-to-fixing-windowed-typing-delays-optimizing-the-windows-11-keyboard/"><u>Guide to Fixing Windowed Typing Delays: Optimizing the Windows 11 Keyboard</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/how-to-combine-the-power-of-chatgpt-and-siri-on-your-apple-device/"><u>How to Combine the Power of ChatGPT and Siri on Your Apple Device</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/leveraging-ai-conversation-tools-how-to-utilize-chatgpt-even-without-an-account/"><u>Leveraging AI Conversation Tools: How to Utilize ChatGPT Even Without an Account</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/the-ultimate-guide-to-7-outstanding-chatgpt-add-ons-enhancing-answers-and-prompts-in-google-chrome/"><u>The Ultimate Guide to 7 Outstanding ChatGPT Add-Ons Enhancing Answers & Prompts in Google Chrome</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/updated-in-2024-fcpx-skin-retouching-a-plugin-free-guide-to-flawless-skin/"><u>Updated In 2024, FCPX Skin Retouching A Plugin-Free Guide to Flawless Skin</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-best-practices-to-avoid-missed-frames-during-video-capture/"><u>[New] Best Practices to Avoid Missed Frames During Video Capture</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-hands-on-tips-for-masterful-video-edits-with-youtube-studio/"><u>[New] In 2024, Hands-On Tips for Masterful Video Edits with YouTube Studio</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-2024-approved-navigating-new-frontiers-metaverses-vs-omniverse/"><u>[Updated] 2024 Approved Navigating New Frontiers Metaverses Vs. Omniverse</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-the-ultimate-guide-to-mac-based-sound-capture-in-audacity/"><u>[Updated] The Ultimate Guide to Mac-Based Sound Capture in Audacity</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/boost-your-productivity-with-swift-the-power-of-macos-spotlight-suggestions-unveiled/"><u>Boost Your Productivity with Swift: The Power of macOS Spotlight Suggestions Unveiled</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/how-to-leverage-chatgpts-features-for-free-a-5-step-guide/"><u>How to Leverage ChatGPT's Features for Free – A 5-Step Guide</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-quickly-fix-bluetooth-not-working-on-vivo-y100i-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Quickly Fix Bluetooth Not Working on Vivo Y100i | Dr.fone</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/how-to-score-a-free-upgraded-macbook-air-m3-at-best-buy-exclusive-trick-revealed-gadgetguru/"><u>How to Score a Free Upgraded MacBook Air M3 at Best Buy - Exclusive Trick Revealed | GadgetGuru</u></a></li>
+<li><a href="https://fox-http.techidaily.com/in-2024-bsplayer-9-pro-top-choice-for-streaming/"><u>In 2024, BSPlayer 9 Pro Top Choice for Streaming</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/maximize-battery-life-esr-unveils-its-latest-qi2-magsafe-series-offering-rapid-charge-for-iphones-x-with-cool-technology-zdnet/"><u>Maximize Battery Life: ESR Unveils Its Latest Qi2 MagSafe Series, Offering Rapid Charge for iPhones X with Cool Technology - ZDNet</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/revolutionize-your-workspace-get-a-dual-purpose-macbook-stand-and-port-hub-for-only-102-on-zdnets-limited-sale/"><u>Revolutionize Your Workspace: Get a Dual-Purpose MacBook Stand and Port Hub for Only $102 on ZDNet's Limited Sale!</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/revolutionizing-the-iphone-experience-how-apples-adoption-of-gemini-enhances-usability-tech-analysis-by-zdnet/"><u>Revolutionizing the iPhone Experience: How Apple's Adoption of Gemini Enhances Usability | Tech Analysis by ZDNET</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/zdnets-curated-list-of-premium-magsafe-wallets-in-2e24-in-depth-testing-and-analysis-unveiled/"><u>ZDNet's Curated List of Premium MagSafe Wallets in 2E24: In-Depth Testing and Analysis Unveiled</u></a></li>
 </ul></div>
 

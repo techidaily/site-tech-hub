@@ -1,7 +1,7 @@
 ---
 title: Can ChatGPT Be Trusted to Generate Custom Workout Plans With a Priority on Safety and Effectiveness?
-date: 2024-08-15T22:08:41.043Z
-updated: 2024-08-16T22:08:41.043Z
+date: 2025-02-14T21:03:33.538Z
+updated: 2025-02-16T18:44:22.066Z
 tags:
   - chatgpt
   - open-ai
@@ -20,6 +20,10 @@ thumbnail: https://thmb.techidaily.com/6af9f284b317fd0fc6915e0019f4adbc9dd81ab60
  For this week's show, we asked ChatGPT to help out with outlining and even writing the show. Here's a bit more information on[how we used ChatGPT to script the podcast](https://www.makeuseof.com/i-used-chatgpt-to-script-a-podcast-heres-what-happened/) .
 
  You can subscribe to the Really Useful Podcast on[Apple Podcasts](https://podcasts.apple.com/gb/podcast/the-really-useful-podcast/id1437847131?mt=2) ,[Spotify](https://open.spotify.com/show/283gDxLd6OTNEpRq6tN7ha) ,[Google Podcasts](https://www.google.com/podcasts?feed=aHR0cHM6Ly9hbmNob3IuZm0vcy8zMWJlNDcwL3BvZGNhc3QvcnNz) ,[Amazon Music and Audible](https://music.amazon.co.uk/podcasts/20ab73d4-5da2-46c7-a17f-dc6eb39bdb48/The-Really-Useful-Podcast) ,[Player FM](https://player.fm/series/the-really-useful-podcast-2491856) , or copy the[RSS feed](https://feeds.transistor.fm/the-really-useful-podcast) into your podcast player.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UoBCgLTmznE?si=MXXiGsd2qpd_DrzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Shownotes
 
@@ -44,14 +48,11 @@ We finish the show with the following recommendations:
 
  Christian Cawley hosts this week's podcast, and is joined by Ben Stegner. You can contact them on Twitter:[@thegadgetmonkey](https://twitter.com/thegadgetmonkey) and[@stegnersaurus](https://twitter.com/stegnersaurus) , with your suggestions for future topics.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -60,8 +61,19 @@ We finish the show with the following recommendations:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://technical-tips.techidaily.com/discover-the-best-6-journaling-tools-to-enhance-your-writing-experience/"><u>Discover the Best 6 Journaling Tools to Enhance Your Writing Experience</u></a></li>
+<li><a href="https://techidaily.com/how-to-turn-your-iphone-into-a-personal-wi-fi-network/"><u>How to Turn Your iPhone Into a Personal Wi-Fi Network</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/improve-scanner-connectivity-with-epson-solutions/"><u>Improve Scanner Connectivity with Epson Solutions</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-leave-a-life360-group-on-xiaomi-14-pro-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, How To Leave a Life360 Group On Xiaomi 14 Pro Without Anyone Knowing? | Dr.fone</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/in-2024-the-ultimate-skype-call-recording-methodology-explained/"><u>In 2024, The Ultimate Skype Call Recording Methodology Explained</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/mp3windows-1/"><u>MP3ファイル再生ツール選びのヒント：Windows 1</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/new-update-alert-wonderfoxs-dvd-video-tool-now-at-version-11/"><u>New Update Alert: WonderFox's DVD Video Tool Now at Version 1.1!</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/pcm-audio-editing-tutorials-for-beginners-master-sound-manipulation-with-ease/"><u>PCM Audio Editing Tutorials for Beginners - Master Sound Manipulation with Ease</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolving-windows-n7-stalls-and-freezes-top-tips-for-a-lag-free-computer-experience/"><u>Resolving Windows N7 Stalls and Freezes - Top Tips for a Lag-Free Computer Experience</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/speedy-guide-mastering-quick-dvd-duplication-on-windows-11/"><u>Speedy Guide: Mastering Quick DVD Duplication on Windows 11</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/unveiling-the-greatest-image-archiving-tools-your-definitive-selection-of-9/"><u>Unveiling the Greatest Image Archiving Tools - Your Definitive Selection of 9</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/mp4-ou/"><u>カスタマイズMP4ビデオ: どうやって副音量を削除するか教えましou?</u></a></li>
+</ul></div>
 
-
-<!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced.png" border="0"></a>
-<!-- affiliate ads end -->

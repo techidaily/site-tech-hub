@@ -1,7 +1,7 @@
 ---
 title: "Unveiling Generative AI: Insights Into How It Works and Transforms Technology"
-date: 2024-08-15T22:09:39.217Z
-updated: 2024-08-16T22:09:39.217Z
+date: 2025-02-15T18:12:54.593Z
+updated: 2025-02-16T19:02:51.992Z
 tags:
   - chatgpt
   - open-ai
@@ -42,15 +42,13 @@ thumbnail: https://thmb.techidaily.com/1ddec9a0b5a6c3e1804c33a43db9c91ffd9d92f92
  As you can see below, we've received more of a customized workout plan with the types of exercises that we wanted.
 
 ![A gym routine generated with ChatGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/screenshot-2024-04-08-at-12-59-46.png)
+
 <!-- affiliate ads begin -->
-<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254549&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/8_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  The more context you provide your AI tool, the better of a response you'll receive.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=11224199&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/copy_boxshot_lyricvideo.png" border="0">Lyric Video Creator Professional Version</a>
-<!-- affiliate ads end -->
 ## 2 Ask for More Information After Getting an Initial Answer
 
  As you use tools like ChatGPT more frequently, you'll quickly learn that the first answer you get shouldn't always be taken as is. In the same way that you'd ask a person further questions to get more information out of them, you should do the same when prompting with AI.
@@ -58,9 +56,6 @@ thumbnail: https://thmb.techidaily.com/1ddec9a0b5a6c3e1804c33a43db9c91ffd9d92f92
  This time, we've asked our AI tool to give us a three-day San Francisco itinerary for a couple's trip. Using the first tip mentioned in this guide and being more specific, we got a pretty good outline.
 
 ![An itinerary generated with ChatGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/screenshot-2024-04-08-at-13-06-24.png)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/300__250banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 
  However, I wanted to get further information that wasn't included. So, I asked for hotel recommendations within a customized budget:
 
@@ -68,9 +63,6 @@ thumbnail: https://thmb.techidaily.com/1ddec9a0b5a6c3e1804c33a43db9c91ffd9d92f92
 
  As a general rule of thumb, ask as many questions as you feel necessary to get all the information you're looking for. You may also want to determine[whether premium AI prompts are worth the money](https://www.makeuseof.com/should-you-buy-ai-prompts/) .
 
-<!-- affiliate ads begin -->
-<a href="https://store.advancedwebranking.com/order/checkout.php?PRODS=4715051&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/14edc6ebfdae2e23bbed83d67f50e983/products/33_awr%20logo.png" border="0"></a>
-<!-- affiliate ads end -->
 ## 3 Explain What Hasn't Worked When You've Prompted in the Past
 
  As you use AI prompting more frequently, you'll get a better idea of what does and doesn't work for you. You'll also learn which prompts are useful and which ones confuse the tool that you're using. Once you've become more familiar with AI, make sure that you clearly outline what hasn't worked before.
@@ -80,8 +72,9 @@ thumbnail: https://thmb.techidaily.com/1ddec9a0b5a6c3e1804c33a43db9c91ffd9d92f92
  Besides mentioning what hasn't worked for you when prompting in the past, you may also wish to outline anything that has not worked with what you're trying to do. For example, if you're putting together a new workout regimen, you may want to talk about which foods you've noticed you have a negative reaction to before.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2084399/18498" target="_top" id="2084399"><img src="//a.impactradius-go.com/display-ad/18498-2084399" border="0" alt="" width="1125" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084399/18498" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 4 Don't Make Your AI Multitask
 
 ![chatgpt logo and message on smartphone feature](https://thmb.techidaily.com/7dd47039b908f15adfac56204ff22ad7becb8a002a35f04201c966ce7066b460.jpg)
@@ -95,8 +88,9 @@ thumbnail: https://thmb.techidaily.com/1ddec9a0b5a6c3e1804c33a43db9c91ffd9d92f92
  Once you've received one prompt's results, you can move on to the next one until you're happy with everything. Doing things this way might seem more time-consuming, but[single-tasking often improves productivity](https://www.makeuseof.com/master-single-tasking-using-technology-improve-productivity/) , and it's the same for your AI, too.
 
 <!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958374/18409" target="_top" id="1958374"><img src="//a.impactradius-go.com/display-ad/18409-1958374" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958374/18409" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 5 Tell Your AI Tool What You Don't Want in Your Answer
 
  Do you remember in our first point when we told you to be as specific as possible? This also means you should let your AI tool know what you don't want in your answers. While generative AI can produce some pretty cool results, it can't guess everything for you.
@@ -105,7 +99,15 @@ thumbnail: https://thmb.techidaily.com/1ddec9a0b5a6c3e1804c33a43db9c91ffd9d92f92
 
 ![Answer options from ChatGPT, based on what the user did and didn't want ](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/screenshot-2024-04-08-at-13-38-46.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Sometimes, your AI tool will give you multiple options in your answers. You can then choose whichever one works best for you.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 6 Upload Images or Files (if Available)
 
@@ -125,14 +127,11 @@ thumbnail: https://thmb.techidaily.com/1ddec9a0b5a6c3e1804c33a43db9c91ffd9d92f92
 
  AI prompting takes some time to become competent with, and you'll need to adjust how you type depending on the tool you use and the information you wish to extract. The good news, however, is that you normally only need small tweaks to make your prompts deliver better results. Having read this guide, you should now be in a much better place to prompt more efficiently.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -141,4 +140,23 @@ thumbnail: https://thmb.techidaily.com/1ddec9a0b5a6c3e1804c33a43db9c91ffd9d92f92
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-capture.techidaily.com/new-capture-and-share-your-mac-life-free-for-2024/"><u>[New] Capture & Share Your Mac Life, FREE for 2024</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-premium-audio-exploration-top-gpodc-picks/"><u>[New] Premium Audio Exploration Top GPodC Picks</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-in-2024-unveiling-ms-edges-picture-in-picture-magic/"><u>[Updated] In 2024, Unveiling MS Edge's Picture-in-Picture Magic</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/2024-approved-pursuit-of-visual-excellence-10-essential-iphone-composition-techniques/"><u>2024 Approved Pursuit of Visual Excellence 10 Essential iPhone Composition Techniques</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/windows11-dvd8/"><u>無料ソフトでWindows11 DVDコピー保護システム解除：ユーザーからお勧めの上位8選</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/delving-into-the-world-of-samsung-image-processor-2023-for-2024/"><u>Delving Into the World of Samsung Image Processor, 2023 for 2024</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/effective-naming-adjustments-for-google-meet-users-laptopmobile-for-2024/"><u>Effective Naming Adjustments for Google Meet Users (Laptop/Mobile) for 2024</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/exploring-the-latest-in-computer-hardware-with-tom-your-guide/"><u>Exploring the Latest in Computer Hardware with Tom - Your Guide</u></a></li>
+<li><a href="https://driver-download.techidaily.com/latest-hp-officejet-4500-drivers-free-download-and-installation-guide/"><u>Latest HP OfficeJet 4500 Drivers: Free Download and Installation Guide</u></a></li>
+<li><a href="https://win-answers.techidaily.com/solution-steps-for-failed-connection-with-your-local-steam-applet/"><u>Solution Steps for 'Failed Connection' With Your Local Steam Applet</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/the-ultimate-list-of-8-free-software-options-for-separating-audio-tracks-from-video-files/"><u>The Ultimate List of 8 Free Software Options for Separating Audio Tracks From Video Files</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/top-rated-video-enhancer-apps-for-youtube-content-creators-elevate-your-videography-today/"><u>Top-Rated Video Enhancer Apps for YouTube Content Creators: Elevate Your Videography Today!</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/torrent-security-uncovered-comprehensive-guide-and-safety-tips/"><u>Torrent Security Uncovered: Comprehensive Guide & Safety Tips</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/trimming-down-m4v-file-sizes-efficiently-using-windows-macos-or-web-services/"><u>Trimming Down M4V File Sizes Efficiently Using Windows, MacOS or Web Services</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/webamp3/"><u>WEBAからMP3へ:高速変換ガイドと最新ツール</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/windows-11-wav/"><u>Windows 11との互換性: WAV形式で音声録音手順</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Shared Experiences: The Unspoken Challenges of Moving to iOS 18 on iPhones | ZDNET Insights"
-date: 2025-02-06T01:17:50.240Z
-updated: 2025-02-07T05:42:59.011Z
+date: 2025-02-12T23:14:25.754Z
+updated: 2025-02-16T19:17:34.016Z
 tags:
   - apple
 categories:
@@ -60,7 +60,7 @@ Aside from the inferior Photos app navigation, videos in the Photos app no longe
 "The UX is a huge downgrade. It's so bad that I had to submit feedback to Apple via the feedback app in the beta. Never did one of those when it wasn't a technical bug, just pure user experience frustration," another [Redditor said](https://www.reddit.com/r/apple/comments/1e2jtq5/comment/ld1wsjg/?utm%5Fsource=share&utm%5Fmedium=web3x&utm%5Fname=web3xcss&utm%5Fterm=1&utm%5Fcontent=share%5Fbutton).
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3AGmFrtBLHw?si=VhvpUaXHPBHl6OT6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to navigate the iOS 18 Photos app
@@ -109,15 +109,24 @@ I hope a future version of iOS 18 will bring back the Camera Roll or at least to
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-in-2024-navigating-legalities-in-skype-call-audio-preservation/"><u>[Updated] In 2024, Navigating Legalities in Skype Call Audio Preservation</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-in-2024-the-editors-playbook-top-tools-to-boost-your-ig-content/"><u>[Updated] In 2024, The Editor's Playbook Top Tools to Boost Your IG Content</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/2024-approved-discover-the-best-15-free-image-editing-programs-for-now/"><u>2024 Approved Discover the Best 15 FREE Image Editing Programs for Now</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/elite-d-class-dungeons-topping-the-list/"><u>Elite D-Class Dungeons Topping the List</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/establishing-a-consistent-mindfulness-routine-leveraging-chatgpt/"><u>Establishing a Consistent Mindfulness Routine: Leveraging ChatGPT</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/explore-chatgpts-best-for-document-insights/"><u>Explore ChatGPT's Best for Document Insights</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/fix-windows-media-player-volume-issues-ultimate-guide-with-solutions/"><u>Fix Windows Media Player Volume Issues: Ultimate Guide with Solutions</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/navigating-chatgpt-with-apple-devices/"><u>Navigating ChatGPT with Apple Devices</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/premier-8-windows-audio-apps-compared/"><u>Premier 8-Windows Audio Apps Compared</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/vocal-command-mastering-chatgpt-through-speech/"><u>Vocal Command: Mastering ChatGPT Through Speech</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-quick-guide-to-screen-capture-on-laptops-and-chromeos-for-2024/"><u>[New] Quick Guide to Screen Capture on Laptops and ChromeOS for 2024</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/new-top-10-action-cameras-with-image-stabilization/"><u>[New] Top 10 Action Cameras with Image Stabilization</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-exploring-digital-worlds-vr-explained-for-2024/"><u>[Updated] Exploring Digital Worlds VR Explained for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-unboxing-viva-a-user-guide-to-its-videos/"><u>[Updated] Unboxing Viva A User Guide to Its Videos</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/a-week-with-an-ergo-split-keyboard-how-this-single-change-upgraded-my-tech-habits-insights-from-zdnet/"><u>A Week with an Ergo-Split Keyboard: How This Single Change Upgraded My Tech Habits - Insights From ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/comprehensive-evaluation-of-the-thermaltake-toughpower-gf3-a-top-notch-850w-psu-for-your-pc-build/"><u>Comprehensive Evaluation of the Thermaltake Toughpower GF3 – A Top-Notch 850W PSU for Your PC Build</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/discover-confidential-chatting-with-duckduckgos-smart-ai-companion-experience-with-chats-including-chatgpt/"><u>Discover Confidential Chatting with DuckDuckGo’s Smart AI Companion - Experience With Chats, Including ChatGPT</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/dissecting-deceptions-how-to-differentiate-real-data-from-artifico/"><u>Dissecting Deceptions: How to Differentiate Real Data From Artifico</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/from-fibonacci-to-finance-bots-converse/"><u>From Fibonacci to Finance, Bots Converse</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/mastering-dvd-ripping-convert-your-movies-into-hd-wmv-format-using-windows-tools/"><u>Mastering DVD Ripping: Convert Your Movies Into HD WMV Format Using Windows Tools</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-in-2024-free-video-rotator-tools-a-comprehensive-guide-for-windows-mac-and-mobile/"><u>New In 2024, Free Video Rotator Tools A Comprehensive Guide for Windows, Mac, and Mobile</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/phrase-predicament-ai-vs-algorithm-for-fluency/"><u>Phrase Predicament: AI Vs. Algorithm for Fluency</u></a></li>
+<li><a href="https://games-able.techidaily.com/proven-performance-factors-for-optimal-gaming-displays/"><u>Proven Performance Factors for Optimal Gaming Displays</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/selecting-your-perfect-21-hdmi-monitor-a-buyers-guide-for-2024/"><u>Selecting Your Perfect 2.1 HDMI Monitor - A Buyer's Guide for 2024</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/skirting-the-edge-of-chatgpts-word-length-limit/"><u>Skirting the Edge of ChatGPT’s Word Length Limit</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/the-art-of-backup-saving-your-ai-conversations/"><u>The Art of Backup: Saving Your AI Conversations</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/top-6-tools-amplifying-chatgpt-and-vs-code-functionality/"><u>Top 6 Tools: Amplifying ChatGPT and VS Code Functionality</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/unveiling-the-top-6-ways-myai-by-snapchat-transcends-beyond-merely-being-a-novelty/"><u>Unveiling the Top 6 Ways MyAI by Snapchat Transcends Beyond Merely Being a Novelty</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/why-dependence-on-artificebased-detection-for-duplicated-content-poses-serious-concerns/"><u>Why Dependence on Artificebased Detection for Duplicated Content Poses Serious Concerns</u></a></li>
 </ul></div>
 

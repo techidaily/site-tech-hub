@@ -1,7 +1,7 @@
 ---
 title: The Basics of Predictive Artificial Intelligence – Insights and Operations
-date: 2024-08-15T22:08:04.578Z
-updated: 2024-08-16T22:08:04.578Z
+date: 2025-02-15T22:00:41.399Z
+updated: 2025-02-16T16:03:00.772Z
 tags:
   - chatgpt
   - open-ai
@@ -38,8 +38,9 @@ False news can be categorized into three types:
  To stay safe online, everyone needs to understand the risks of generative AI in spreading disinformation, as it comes in many different forms. Here are a few ways it can be used to manipulate people.
 
 <!-- affiliate ads begin -->
-<a href="https://propmoneyinc.pxf.io/c/5597632/1803116/14559" target="_top" id="1803116"><img src="//a.impactradius-go.com/display-ad/14559-1803116" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803116/14559" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### 1\. Generating Fake Content Online
 
  Creating fake content using generative AI is a common strategy employed by those who spread false news. They use popular generative AI tools like ChatGPT, DALL-E, Bard, Midjourney, and others to produce various types of content. For example,[ChatGPT can help content creators in many ways](https://www.makeuseof.com/how-chatgpt-can-help-content-creators/) . But it can also generate social media posts or news articles that may deceive people.
@@ -49,16 +50,13 @@ False news can be categorized into three types:
 Here's the fictitious article that ChatGPT came up with:
 
 ![ChatGPT created a fictitious news article about corruption charges against Joe Biden](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/chatgpt-3.jpg)
-<!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793233/19578" target="_top" id="1793233"><img src="//a.impactradius-go.com/display-ad/19578-1793233" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793233/19578" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Surprisingly, the output was highly persuasive. It included the names and statements of authoritative figures to make the article more convincing. This shows how anyone can use such tools to generate false news and easily spread it online.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698832&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/karaoki-new-searchresultspane.jpg" border="0">PCDJ Karaoki is the complete professional karaoke software designed for KJs and karaoke venues. Karaoki includes an advanced automatic singer rotation list with singer history, key control, news ticker, next singers screen, a song book exporter and printer, a jukebox background music player and many other features designed so you can host karaoke shows faster and easier! 
- PCDJ Karaoki (WINDOWS ONLY Professional Karaoke Software - 3 Activations)</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jf0JvOqiAXc?si=kHEHQGC_PhBv4xij" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### 2\. Using Chatbots to Influence People's Opinions
 
  Chatbots that rely on generative AI models can employ various tactics to influence people's opinions, including:
@@ -70,9 +68,6 @@ Here's the fictitious article that ChatGPT came up with:
 
  These examples all illustrate how chatbots can be utilized to mislead people.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ### 3\. Creating AI DeepFakes
 
  Someone can use deepfakes to create false videos of an individual saying or doing things they never did. They can use such tools for social engineering or running smear campaigns against others. Moreover, in today's meme culture, deepfakes can serve as tools for cyberbullying on social media.
@@ -80,6 +75,10 @@ Here's the fictitious article that ChatGPT came up with:
  Additionally, political adversaries may use deepfake audio and videos to tarnish the reputation of their opponents, manipulating public sentiment with the help of AI. So[AI-generated deepfakes pose numerous threats in the future](https://www.makeuseof.com/future-and-dangers-of-ai-deepfakes/) . According to a 2023[Reuters report](https://www.reuters.com/world/us/deepfaking-it-americas-2024-election-collides-with-ai-boom-2023-05-30/) , the rise of AI technology could impact America's 2024 elections. The report highlights the accessibility of tools like Midjourney and DALL-E that can easily create fabricated content and influence people's collective opinions.
 
  It's crucial, then, to be able to[identify videos created by deepfakes](https://www.makeuseof.com/how-can-you-tell-video-deepfake/) and distinguish them from originals.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 4\. Cloning Human Voices
 
@@ -90,9 +89,9 @@ Here's the fictitious article that ChatGPT came up with:
  Scammers may use deepfake voices to impersonate your loved ones and call you, pretending to be in distress. With synthetic audio that sounds convincing, they could urge you to send money urgently, leading you to become a victim of their scams. An incident reported by[The Washington Post](https://www.washingtonpost.com/technology/2023/03/05/ai-voice-scam/) in March 2023 exemplifies this issue: scammers used deepfake voices to convince people that their grandsons were in jail and needed money...
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901369&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix 4K - Software based live production. vMix 4K includes everything in vMix HD plus 4K support, PTZ control, External/Fullscreen output, 4 Virtual Outputs, 1 Replay, 4 vMix Call, and 2 Recorders. 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nWu29cqFjZA?si=TNZyCbPq68PQ0JIb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## How to Spot AI-Spread Disinformation
 
  Combating the spread of disinformation facilitated by AI is a pressing issue in today's world. So how can you spot false information that's been made by AI?
@@ -105,22 +104,20 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
  By following these steps, you can identify and protect yourself from AI-driven misinformation.
 
 <!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BEditor%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/6d3207fd-9f15-4c21-f0ad-59c68e6a7e2a.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Beware of Disinformation Spread by AI
 
  Generative software has played a crucial role in advancing AI. Still, they can also be a significant source of disinformation in society. These affordable tools have enabled anyone to create different types of content using sophisticated AI models; their ability to generate content in large quantities and incorporate deepfakes makes them even more dangerous.
 
  It's important that you're aware of the challenges of disinformation in the AI era. Understanding how AI can be used to spread fake news is the first step towards protecting yourself from misinformation.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -129,4 +126,21 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://on-screen-recording.techidaily.com/new-in-2024-streamline-your-zoom-meetings-screen-sharing-essentials/"><u>[New] In 2024, Streamline Your Zoom Meetings Screen Sharing Essentials</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-race-away-slow-motion-on-your-android-device/"><u>[New] Race Away Slow Motion on Your Android Device</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-uniting-fandoms-top-20-best-anime-songs-for-2024/"><u>[Updated] Uniting Fandoms Top 20 Best Anime Songs for 2024</u></a></li>
+<li><a href="https://windows11.techidaily.com/advanced-windows-techniques-for-diverse-partition-merging/"><u>Advanced Windows Techniques for Diverse Partition Merging</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/chatgpt-vs-zodiac-whos-right-about-tomorrow/"><u>ChatGPT Vs. Zodiac: Who's Right About Tomorrow?</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/effective-strategies-repairing-a-damaged-computer-using-chatgpt-assistance/"><u>Effective Strategies: Repairing a Damaged Computer Using ChatGPT Assistance</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/epsons-unprintable-feature-fixed-quickly/"><u>Epson's Unprintable Feature Fixed Quickly</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/exploring-chatgpt-token-thresholds-is-it-possible-to-go-over-limit/"><u>Exploring ChatGPT Token Thresholds: Is It Possible to Go Over Limit?</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/exploring-the-opportunities-joining-openais-bug-bounty-initiative-a-comprehensive-guide/"><u>Exploring the Opportunities: Joining OpenAI's Bug Bounty Initiative - A Comprehensive Guide</u></a></li>
+<li><a href="https://fox-info.techidaily.com/in-2024-revolutionizing-youtube-success-through-smart-title-strategy/"><u>In 2024, Revolutionizing YouTube Success Through Smart Title Strategy</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/leveraging-ai-enhancing-group-conferences-with-chatgpt/"><u>Leveraging AI: Enhancing Group Conferences with ChatGPT</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/mastering-storytelling-skills-with-chatgpt-a-comprehensive-guide/"><u>Mastering Storytelling Skills with ChatGPT: A Comprehensive Guide</u></a></li>
+<li><a href="https://win-popular.techidaily.com/problembehandlung-wenn-das-iphone-videowiedergabe-nicht-ladt-hilfe-und-ratschlage/"><u>Problembehandlung: Wenn Das iPhone-Videowiedergabe Nicht Lädt – Hilfe Und Ratschläge</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/96317159-9781781805213-the-archangel-guide-to-ascension/"><u>The Archangel Guide to Ascension | Free Book</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Boost Your Apple Watch's Battery Performance: Top 8 Essential Settings Tweaks Revealed - Tips From ZDNet"
-date: 2025-02-04T05:08:00.833Z
-updated: 2025-02-07T13:13:17.701Z
+date: 2025-02-10T18:03:28.973Z
+updated: 2025-02-16T18:19:49.422Z
 tags:
   - apple
 categories:
@@ -43,7 +43,7 @@ This is the most effective thing you can do to preserve your Apple Watch's batte
 **How to:** On your Apple Watch, head to Settings > Display & Brightness > Always On, then toggle the feature off.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6X24fPKs6AE?si=YtQy-8zy7GifgfA7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Use Low Power Mode when you can
@@ -54,6 +54,10 @@ I don't recommend using Low Power Mode all day since it limits the functionality
 
 **Also:** [**Apple Watch Ultra 2 vs. Watch Ultra: Is it time to upgrade?**](https://www.zdnet.com/article/apple-watch-ultra-2-vs-ultra/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 3\. Disable cellular connectivity
 
 If you have an Apple Watch with cellular connectivity, it's best to not use your cell connection all the time. At times, depending on your location, your watch can go searching for an active LTE signal, only to spend too much time doing so and never grabbing onto one that's strong enough to preserve your battery. If, for example, you're traveling long distances or chilling at home, it's best to flick it off until you need it.
@@ -63,7 +67,7 @@ If you have an Apple Watch with cellular connectivity, it's best to not use your
 Jason Hiner/ZDNET
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fHWdQw1gRyI?si=ve9wZnPupiooLThG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4\. Turn off background app refresh
@@ -84,15 +88,15 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 
 [See all](https://www.zdnet.com/newsletters/)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 5\. Turn off irregular heart rate notifications
 
 With some of the newest Apple Watches, Apple includes a feature that can alert you when your heart rate is beating in irregular intervals and alert you when it may be atrial fibrillation. While that's nice to have for tracking your health over time, it means the heart rate sensor is constantly on collecting your heart rate, which isn't good for battery life.
 
 **How to:** Visit Settings > Heart > Irregular Rhythm Notifications and flick the feature off.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 6\. Reduce the amount of notifications you get
 
@@ -101,10 +105,6 @@ When a notification comes in, it not only plays a "ding!" to alert you, it also 
 **How to:** On your iPhone, open the Apple Watch app and navigate to "Notifications." From there, you'll be presented with a list of the apps on your phone that are sending notifications to your watch. Go through the list and turn off the ones you don't want to receive any longer. You also have the option to group notifications together if a particular app sends you a lot during the day but you want to keep them on.
 
 **Also:** [**Your Apple Watch is getting an upgrade - here are the best features in WatchOS 11**](https://www.zdnet.com/article/your-apple-watch-is-getting-an-upgrade-here-are-the-best-features-in-watchos-11/)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mMYEK2gtY5c?si=ytxNz_JHZkTrwb4b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 7\. Turn off Siri
 
@@ -115,7 +115,7 @@ Ah, Siri. Many people swear by the voice assistant and use it daily to do things
 Adrian Kingsley-Hughes/ZDNET
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 8\. Factory reset your Apple Watch (a.k.a. the last resort)
@@ -165,22 +165,17 @@ For a deeper look at our testing process, check out our comprehensive [smartwatc
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vimeo-videos.techidaily.com/new-2024-approved-mixing-tunes-with-videos-on-vimeo-platform/"><u>[New] 2024 Approved Mixing Tunes with Videos on Vimeo Platform</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-energetic-public-speaker-review-8th-edition/"><u>[Updated] Energetic Public Speaker Review 8Th Edition</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-monetization-verification-maximizing-streamer-incomes/"><u>[Updated] Monetization Verification Maximizing Streamer Incomes</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-ultimate-guide-choosing-the-best-stabilizing-accessories/"><u>[Updated] Ultimate Guide Choosing the Best Stabilizing Accessories</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/2024-approved-easy-to-use-w10-screen-grabber-app/"><u>2024 Approved Easy-to-Use W10 Screen Grabber App</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/chatgpts-influence-six-revolutionary-ways-it-enhances-smartwatch-capabilities/"><u>ChatGPT's Influence: Six Revolutionary Ways It Enhances Smartwatch Capabilities</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/complete-tutorial-on-registering-for-chatgpts-latest-add-on-capabilities/"><u>Complete Tutorial on Registering for ChatGPT's Latest Add-On Capabilities</u></a></li>
-<li><a href="https://os-tips.techidaily.com/expert-tutorial-effortless-ways-to-access-or-disconnect-from-ipods-recovery-environment/"><u>Expert Tutorial: Effortless Ways to Access or Disconnect From iPod's Recovery Environment</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/exploring-innovation-with-toms-computing-guide/"><u>Exploring Innovation with Tom's Computing Guide</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/exploring-vulnerabilities-how-might-hackers-use-ai-assistants-like-chatgpt-against-financial-and-personal-computing-systems/"><u>Exploring Vulnerabilities: How Might Hackers Use AI Assistants Like ChatGPT Against Financial and Personal Computing Systems?</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-videos-from-samsung-galaxy-a05s-to-ipad-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Videos from Samsung Galaxy A05s to iPad | Dr.fone</u></a></li>
-<li><a href="https://driver-download.techidaily.com/latest-update-fixes-acpismo8810-driver-problem-in-dell-devices-download-immediately/"><u>Latest Update Fixes ACPI/SMO8810 Driver Problem in Dell Devices - Download Immediately!</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/the-virtual-afterlife-can-you-really-connect-with-the-dead-through-your-screen-demystifying-the-theory-of-online-echoes/"><u>The Virtual Afterlife: Can You Really Connect with the Dead Through Your Screen? Demystifying the Theory of Online Echoes</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/transforming-interactive-entertainment-the-role-of-ai-in-shaping-tomorrows-games/"><u>Transforming Interactive Entertainment: The Role of AI in Shaping Tomorrow's Games</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/unlocking-access-to-high-definition-facebook-videos/"><u>Unlocking Access to High-Definition Facebook Videos</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/what-defines-chatgpts-text-capacity-with-tokens-and-how-to-exceed-its-limit/"><u>What Defines ChatGPT’s Text Capacity with Tokens, And How to Exceed Its Limit</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/writing-the-virtual-playbook-ai-innovations-in-gaming-scripts/"><u>Writing the Virtual Playbook: AI Innovations in Gaming Scripts</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-in-2024-cutting-edge-tools-for-unique-youtube-channel-names/"><u>[New] In 2024, Cutting-Edge Tools for Unique YouTube Channel Names</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-streamlining-massive-video-transfers-iphone-mac-edition-for-2024/"><u>[New] Streamlining Massive Video Transfers IPhone-Mac Edition for 2024</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-unlocking-potential-with-nikon-written-by-emily-roberts-on-june-4-2023/"><u>[New] Unlocking Potential with Nikon' Written by Emily Roberts on June 4, 2023</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/airpods-pro-2-with-hearing-aid-capabilities-enjoy-an-exclusive-24-discount-today-see-whats-trending-on-zdnet/"><u>AirPods Pro 2 with Hearing Aid Capabilities: Enjoy an Exclusive 24% Discount Today - See What's Trending on ZDNet</u></a></li>
+<li><a href="https://win-extraordinary.techidaily.com/analyzing-the-influence-of-macroeconomic-factors-on-currency-trading-via-mt4-copier/"><u>Analyzing the Influence of Macroeconomic Factors on Currency Trading via MT4 Copier</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/discover-our-picks-15-free-antivirus-solutions-to-secure-your-device-today/"><u>Discover Our Picks: 15 Free Antivirus Solutions to Secure Your Device Today</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/discover-the-new-acoustic-marvel-in-lg-tvs-features-tailored-for-apple-fans-exclusively-covered/"><u>Discover the New Acoustic Marvel in LG TVs – Features Tailored for Apple Fans, Exclusively Covered</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/exploring-the-power-of-small-tech-is-the-latest-m4-equipped-mac-mini-a-game-changer-compared-to-apple-tv-discover-more/"><u>Exploring the Power of Small Tech: Is the Latest M4-Equipped Mac Mini a Game Changer Compared to Apple TV? Discover More</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/get-the-newest-asus-pce-ac68-driver-for-enhanced-connectivity-now-available/"><u>Get the Newest ASUS PCE-AC68 Driver for Enhanced Connectivity – Now Available</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-delete-icloud-account-remove-your-apple-id-permanently-from-apple-iphone-se-by-drfone-ios/"><u>How To Delete iCloud Account Remove Your Apple ID Permanently From Apple iPhone SE</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/the-complete-evaluation-power-and-features-of-the-battery-version-of-googles-nest-doorbell/"><u>The Complete Evaluation: Power and Features of the Battery Version of Google's Nest Doorbell</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/unveiling-the-truth-top-reasons-to-continue-using-your-iphone-14-instead-of-switching-to-iphone-16-pro-zdnet-perspectives/"><u>Unveiling the Truth: Top Reasons to Continue Using Your iPhone 14 Instead of Switching to iPhone 16 Pro | ZDNet Perspectives</u></a></li>
 </ul></div>
 

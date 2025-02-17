@@ -1,7 +1,7 @@
 ---
 title: Professional Workstation Assessment on the New Microsoft Surface Pro Eight Experts
-date: 2025-02-04T02:44:05.633Z
-updated: 2025-02-07T03:45:42.623Z
+date: 2025-02-11T19:29:13.509Z
+updated: 2025-02-16T22:21:34.729Z
 tags:
   - apple
 categories:
@@ -86,6 +86,10 @@ Regardless of which keyboard you pick up, all of them have a slot for a Surface 
 
 Overall, I love the design of the Pro 8\. I've actually found myself using it as a tablet more than I do the iPad Pro simply because the kickstand is built into the housing. There isn't another cover or case I have to manage. It's fantastic. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## But can it replace an iPad Pro?
 
 Jason Cipriani/ZDNet
@@ -95,7 +99,7 @@ Inside the Surface Pro 8 I've been testing is an 11th Generation Intel Core i7 p
 The LTE options range in price from $1,349 for an Intel Core i5, 8GB of memory, and 128GB of storage up to the build I tested, which normally retails for $1,849 but is currently on sale for $1,599\. Again, those prices don't include a keyboard. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### More Microsoft
@@ -122,7 +126,7 @@ The ability to connect a tablet to an external display and have it actually work
 When working on my iPad Pro connected to a monitor, whatever's on the iPad's screen is mirrored on the larger display. There are some apps that use Apple's rudimentary API for external displays, but it's not great. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nWu29cqFjZA?si=TNZyCbPq68PQ0JIb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **ZDNET** Recommends
@@ -134,10 +138,6 @@ Also, I have a lot of workarounds for completing certain tasks on the iPad. For 
 I realize that the Pro 8 is running a full-fledged operating system in Windows 11, whereas the iPad Pro is running a mobile-first operating system in iPadOS, but the devices are relatively the same size and target the same type of user. Even the prices are close enough that the comparison is warranted. 
 
 The total cost of the Surface Pro 8 with LTE, along with the Signature Keyboard Cover with Slim Pen is $2,128\. The iPad Pro with 5G, 16GB of memory, 1TB of storage, Apple's Magic Keyboard with trackpad and an Apple Pencil is $2,449\. 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## There are still many things the iPad Pro does better
 
@@ -151,10 +151,6 @@ I prefer to use Apple's Mail app along with my iCloud+ personal domain as oppose
 
 Another thing I love about my iPad Pro is that its performance is reliable and consistent. When using the Pro 8 with multiple apps open, there would be a slight delay or pause before an app would appear after being minimized at times. It wasn't specific to any one app; I frequently experienced it with Thunderbird, Discord, and Slack. 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Bottom line
 
 After a few months of the Surface Pro 8 sitting on a shelf, I have gone back to using it as my main device. I'm once again enjoying using multiple windows for multitasking, not having to worry about any extra workarounds, and I still have complete and total portability.
@@ -167,10 +163,14 @@ If you're on the fence about whether to go with the Surface Pro 8 or an iPad Pro
 
 At the end of the day, however, you're getting a full computer in the Surface Pro 8 and, currently, 80% of one in the iPad Pro.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aG3NRuHrIJg?si=HwzwD0RXmrzIXX1V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## FAQ
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Should I get a Surface Pro 8 or an iPad Pro?
@@ -210,21 +210,15 @@ If you're on the fence about whether to go with the Surface Pro 8 or an iPad Pro
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-info.techidaily.com/new-beginning-zoom-video-calls-on-android-devices-for-2024/"><u>[New] Beginning Zoom Video Calls on Android Devices for 2024</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/how-to-repair-your-logitech-g13-controller-using-official-drivers/"><u>How to Repair Your Logitech G13 Controller Using Official Drivers</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/il-migliore-software-di-acquisizione-schermi-registra-e-cattura-il-tuo-pc-windows-1087-senza-problemi/"><u>Il Migliore Software Di Acquisizione Schermi: Registra E Cattura Il Tuo PC Windows 10/8/7 Senza Problemi!</u></a></li>
-<li><a href="https://extra-support.techidaily.com/mastering-the-visuals-a-podcast-logo-blueprint-for-2024/"><u>Mastering the Visuals A Podcast Logo Blueprint for 2024</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/1726026406103-mp4/"><u>MP4ビデオの品質を低下させるテクニック</u></a></li>
-<li><a href="https://win11.techidaily.com/overcoming-robloxs-access-denied-error-403-in-windows/"><u>Overcoming Roblox's Access Denied (Error 403) in Windows</u></a></li>
-<li><a href="https://games-able.techidaily.com/the-future-of-gaming-enhancing-controllers-remotely/"><u>The Future of Gaming: Enhancing Controllers Remotely</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/top-rated-dvd-ripper-software-of-2024-for-windows-11-users/"><u>Top Rated DVD Ripper Software of 2024 for Windows 11 Users</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/top-rated-dvd-to-mkv-converter-of-2024-for-windows-pc-users/"><u>Top-Rated DVD to MKV Converter of 2024 for Windows PC Users</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/transforming-your-videos-a-step-by-step-guide-to-converting-mkv-files-into-itunes-compatible-m4v-format/"><u>Transforming Your Videos: A Step-by-Step Guide to Converting MKV Files Into iTunes Compatible M4V Format</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/troubleshooting-guide-repairing-your-non-functional-bose-speakers/"><u>Troubleshooting Guide: Repairing Your Non-Functional Bose Speakers</u></a></li>
-<li><a href="https://techidaily.com/undelete-lost-call-logs-from-honor-by-fonelab-android-recover-call-logs/"><u>Undelete lost call logs from Honor</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/unveiling-the-distinctions-between-wpl-and-m3u-file-formats-a-complete-guide/"><u>Unveiling the Distinctions Between WPL and M3U File Formats: A Complete Guide</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/windows-10-dvd-cprm/"><u>Windows 10対応 DVD CPRM解除自由プログラム - 最適推薦</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/your-ultimate-guide-best-mac-screen-recorders-for-2024/"><u>Your Ultimate Guide Best Mac Screen Recorders for 2024</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/youtubepcdvd/"><u>YouTubeビデオのPCからDVDへの記録手順</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/024-approved-discover-the-most-reliable-royalty-free-audio-libraries/"><u>[New] 2024 Approved Discover the Most Reliable Royalty-Free Audio Libraries</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-football-footage-fundamentals-without-finances/"><u>[Updated] Football Footage Fundamentals Without Finances</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-high-performance-video-calls-a-curated-ranking-of-top-10-apps-for-2024/"><u>[Updated] High-Performance Video Calls A Curated Ranking of Top 10 Apps for 2024</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-secret-tips-for-stunning-sketches-and-scans/"><u>[Updated] Secret Tips for Stunning Sketches & Scans</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/1-apples-next-gen-airpods-a-vision-of-augmented-reality-with-built-in-lenses-set-for-a-2026-release-insights/"><u>1. Apple's Next-Gen AirPods: A Vision of Augmented Reality with Built-In Lenses Set for a 2026 Release - Insights</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/affordable-xr-glasses-solved-my-apple-vision-dilemma-beating-peer-pressure-for-just-a-click-away-insights-from-zdnet/"><u>Affordable XR Glasses Solved My Apple Vision Dilemma, Beating Peer Pressure for Just a Click Away – Insights From ZDNet</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/exploring-the-latest-mobile-innovations-from-intelligent-devices-to-next-gen-phones-insights-for-tech-enthusiasts/"><u>Exploring the Latest Mobile Innovations: From Intelligent Devices to Next-Gen Phones – Insights for Tech Enthusiasts</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/massive-labor-day-discount-save-up-to-700-on-the-new-ipad-pro-exclusively-featured-by-zdnet/"><u>Massive Labor Day Discount: Save Up to $700 on the New iPad Pro - Exclusively Featured by ZDNet</u></a></li>
+<li><a href="https://games-able.techidaily.com/top-rated-televisions-featuring-the-best-value-under-a-grand-comprehensive-evaluation-by-experts-zdnet/"><u>Top-Rated Televisions Featuring the Best Value Under a Grand: Comprehensive Evaluation by Experts | ZDNet</u></a></li>
+<li><a href="https://fox-search.techidaily.com/why-wont-my-computer-show-pictures-unveiling-diagnosis-and-fixes-with-yl-software-insights/"><u>Why Won't My Computer Show Pictures? Unveiling Diagnosis & Fixes with YL Software Insights</u></a></li>
 </ul></div>
 

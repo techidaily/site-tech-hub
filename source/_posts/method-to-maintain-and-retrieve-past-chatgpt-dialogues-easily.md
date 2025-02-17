@@ -1,7 +1,7 @@
 ---
 title: Method to Maintain and Retrieve Past ChatGPT Dialogues Easily
-date: 2024-08-15T22:04:52.139Z
-updated: 2024-08-16T22:04:52.139Z
+date: 2025-02-15T00:33:48.549Z
+updated: 2025-02-16T18:40:01.679Z
 tags:
   - chatgpt
   - open-ai
@@ -45,16 +45,14 @@ Let's look at both models in action and analyze their performance.
  Signing up for both tools is simple, although the Google Bard country restriction is inconvenient. However, it may be possible to[circumvent these restrictions using a VPN](https://www.makeuseof.com/tag/7-completely-free-vpn-services-protect-privacy/) .
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726960&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/forexrobotronbox.gif" border="0">Forex Robotron Basic Package</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Comparing Google Bard and ChatGPT-3.5's Accuracy
 
  Both chatbots are quick to point out that the accuracy of their responses should not be taken at face value. A point proved by asking Google Bard a simple question that it shouldn't have any problems with: "What large language model is Google Bard using?"
 
 ![Screenshot of Google Bard answering LLM question](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/screenshot-of-google-bard-answering-llm-question.jpg)
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399"><img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  As you can see, this is a dated response that justifies the statement that response accuracy should always be double-checked. But a couple of other recent updates are apparent in the response too.
 
@@ -73,9 +71,6 @@ These are both welcome updates to the tool.
 ChatGPT was unable to provide up-to-date information.
 
 ![Screenshot of ChatGPT responding to world cup attendance question](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/screenshot-of-chatgpt-responding-to-world-cup-attendance-question.jpg)
-<!-- affiliate ads begin -->
-<a href="https://newchic.sjv.io/c/5597632/1659704/14420" target="_top" id="1659704"><img src="//a.impactradius-go.com/display-ad/14420-1659704" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1659704/14420" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Next, we tried to test on non-topical data. We asked both chatbots to answer this question: "How long would it take to drive to the sun?"
 
@@ -83,39 +78,24 @@ Google Bard first; it answered with some comprehensive details.
 
 ![Screenshot of Google Bard answering how long to drive to the sun](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/screenshot-of-google-bard-answering-how-long-to-drive-to-the-sun.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  We were quite disappointed with the ChatGPT response. This should have been recognized as a hypothetical question, with the result only requiring some basic arithmetic.
 
 ![Screenshot of ChatGPTs answer to driving to sun question](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/screenshot-of-chatgpts-answer-to-driving-to-sun-question.jpg)
-<!-- affiliate ads begin -->
-<a href="https://lightailing.sjv.io/c/5597632/1638364/17190" target="_top" id="1638364"><img src="//a.impactradius-go.com/display-ad/17190-1638364" border="0" alt="" width="1280" height="720"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1638364/17190" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  To give ChatGPT a second chance, we reworded the question and asked: "How long would it take me to travel to the sun at 65mph?"
 
 ![Screenshot of ChatGPT response to reworded question](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/screenshot-of-chatgpt-response-to-reworded-question.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 
  This time it did produce some meaningful figures, but it had rounded the figure up to 1.5 million hours, causing a disparity of eight years between the responses. However, this disparity could be due to the distance between the Earth and the Sun.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4693127&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.videosoftdev.com/images/video_editor/screenshots/1.jpg" border="0">
-VSDC Pro Video Editor is a light professional non-linear video editing suite for creating a movie of any complexity. It supports the most popular video/audio formats and codecs, including 4K, HD and GoPro videos. Preconfigured profiles make the creation of videos for various multimedia and mobile devices absolutely hassle-free.
-
-Key features:
-
-•	Import from any devices and cams, including GoPro and drones. All formats supported. Сurrently the only free video editor that allows users to export in a new H265/HEVC codec, something essential for those working with 4K and HD.
-•	Everything for hassle-free basic editing: cut, crop and merge files, add titles and favorite music
-•	Visual effects, advanced color correction and trendy Instagram-like filters   
-•	All multimedia processing done from one app: video editing capabilities reinforced by  a video converter, a screen capture, a video capture, a disc burner and a YouTube uploader
-•	Non-linear editing: edit several files with simultaneously 
-•	Easy export to social networks: special profiles for YouTube, Facebook, Vimeo, Twitter and Instagram
-•	High quality export – no conversion quality loss, double export speed even of HD files due to hardware acceleration
-•	Stabilization tool will turn shaky or jittery footage into a more stable video automatically. 
-•	Essential toolset for professional video editing: blending modes, Mask tool, advanced multiple-color Chroma Key  
-</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Testing Google Bard vs. ChatGPT-4
 
  Dated information is a known issue with the free ChatGPT version. So let's level the playing field slightly and test Google Bard vs. ChatGPT for accuracy by testing Bard against the more advanced GPT-4 LLM.
@@ -125,18 +105,20 @@ Key features:
  First up was Google Bard. It correctly reported that Linda Yaccarino had been appointed CEO and accurately summed up her career to date.
 
 ![Screenshot of Google Bard answering Twitter CEO question](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/screenshot-of-google-bard-answering-twitter-ceo-question.jpg)
-<!-- affiliate ads begin -->
-<a href="https://bluetties.sjv.io/c/5597632/2039292/17094" target="_top" id="2039292"><img src="//a.impactradius-go.com/display-ad/17094-2039292" border="0" alt="BLUETTI NEW LAUNCH AC240" width="954" height="1020"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2039292/17094" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Despite apologizing for the lack of detail, the premium version of ChatGPT was equally impressive. However, it is worth reiterating that if you are using the free version of ChatGPT, this question would be met with a blank stare!
 
 ![Screenshot of GPT-4 answering Twitter question](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/screenshot-of-gpt-4-answering-twitter-question.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BGmail%2BBackup"><img src="https://www.systoolsgroup.com/box/gmail-backup.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  When comparing Google Bard vs. ChatGPT for accuracy, the Bard was the better performer compared to the free version of ChatGPT. If you are using the premium version of ChatGPT, there isn't much separating them. However, as with any chatbot, a pinch of salt is required when determining the accuracy of results.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RvR5PNhspKE?si=uJcMYK9v-_Xq7fAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Comparing Google Bard's and ChatGPT's Creativity
 
@@ -157,9 +139,6 @@ The original version of Google Bard gave us this:
  At least, this is the case for the early version of Bard, which was what we used for the original test. The new Google Bard is trained on a larger text dataset, which Google says will give it more creativity. To put this to the test, we asked it to create the same poem:
 
 ![Screenshot of latest Google Bard poetry attempt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/screenshot-of-latest-google-bard-poetry-attempt.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2019/10/Project-Manager-version-3-1600x900-768x419.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
-<!-- affiliate ads end -->
 
  As previously noted, measuring creativity is a judgment call, but for us, the new poem still comes up short compared to the ChatGPT effort. ChatGPT still appears to have the edge in the creativity stakes. But what about ChatGPT-4? Let's give it a bash at the same poem and see how the premium version compares.
 
@@ -172,6 +151,10 @@ It seems to me,
 That ChatGPT is the place to be,
 
 When it comes to creativity!
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## ChatGPT vs. Google Bard: Which Is the Best AI Chatbot?
 
@@ -186,6 +169,10 @@ Some of the deciding factors include:
 * **Integrations** : One of the key benefits of Google Bard is its integration with tools like Gmail and Google Workspace. This means that you can export chats directly into platforms like Gmail and Google Docs.  
 ![Screenshot of Google Bart export options](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/screenshot-of-google-bart-export-options.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Summing up, if you are looking for accuracy and simplified integration with other Google services, then Google Bard is the better option. It also outperforms ChatGPT in terms of interface, with the addition of a**Google it** button and source-citing, making it the better all-round package.
 
  The integration Bard offers is crucial here, Gmail has 1.8 billion users, and this functionality will be a major draw for many when choosing between chatbots.
@@ -194,23 +181,17 @@ Some of the deciding factors include:
 
  Google Bard is free, and there is a free version of ChatGPT, so testing both tools is easy to do.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ## Tools With Great Features, Yet Still Imperfect
 
  There are plenty of rough edges to both platforms, which is to be expected. This is a new technology, and both are examples of live-testing programs that make mistakes in public. The other side of the coin is that such widespread usage and the feedback it generates will hasten the development of both models. A point amply demonstrated by the host of new features added to Bard.
 
  We are at the start of a technological revolution that is so disruptive that many of its impacts are yet to be determined despite much speculation. But there is no doubt that tools like Bard and ChatGPT are going to transform much of how we work, rest, and play.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -219,4 +200,21 @@ Some of the deciding factors include:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-docs.techidaily.com/aming-darkness-for-a-bright-youtube-experience-for-2024/"><u>[New] Taming Darkness for a Bright YouTube Experience for 2024</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-in-2024-screen-grab-insights-a-critical-appraisal/"><u>[Updated] In 2024, Screen Grab Insights A Critical Appraisal</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/are-conversational-sessions-important-for-ais-knowledge-enhancement/"><u>Are Conversational Sessions Important for AI's Knowledge Enhancement?</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/discover-confidential-chatting-on-duckduckgos-platform-beyond-just-chatgpt/"><u>Discover Confidential Chatting on DuckDuckGo's Platform: Beyond Just ChatGPT</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-expertise-in-transition-techniques-adobe-edition/"><u>In 2024, Expertise in Transition Techniques, Adobe Edition</u></a></li>
+<li><a href="https://article-posts.techidaily.com/in-2024-venturing-solo-in-3d-printing-with-3dr-tech-review/"><u>In 2024, Venturing Solo in 3D Printing with '3DR' Tech Review</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/limits-on-character-count-in-chatgpt-responses/"><u>Limits on Character Count in ChatGPT Responses?</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/prime-15-luts-to-perfect-gopro-cinematic-shots-for-2024/"><u>Prime 15 LUTs to Perfect GoPro Cinematic Shots for 2024</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/revolutionary-insights-7-ways-to-use-chatgpts-vision-ai/"><u>Revolutionary Insights: 7 Ways to Use ChatGPT's Vision AI</u></a></li>
+<li><a href="https://common-error.techidaily.com/step-by-step-solution-for-fixing-your-lenovos-malfunctioning-function-key-issue/"><u>Step-by-Step Solution for Fixing Your Lenovo's Malfunctioning 'Function' Key Issue</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/the-game-changer-in-portable-pcs-delving-into-the-asus-zephyrus-g14s-unique-offerings/"><u>The Game Changer in Portable PCs? Delving Into the Asus Zephyrus G14's Unique Offerings</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/top-8-ai-powered-tools-enhancing-your-health-and-fitness-routine/"><u>Top 8 AI-Powered Tools Enhancing Your Health & Fitness Routine</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/understanding-chatgpts-impact-on-personal-information-security-risks/"><u>Understanding ChatGPT's Impact on Personal Information Security Risks</u></a></li>
+<li><a href="https://win-trending.techidaily.com/kak-upravlyat-razdelom-vosstanovleniya-v-windows-udalenie-i-vosstanovlenie-variantov/"><u>Как Управлять Разделом Восстановления В Windows: Удаление И Восстановление Вариантов</u></a></li>
+</ul></div>
 

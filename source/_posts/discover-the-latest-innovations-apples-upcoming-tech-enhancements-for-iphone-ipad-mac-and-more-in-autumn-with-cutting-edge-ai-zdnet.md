@@ -1,7 +1,7 @@
 ---
 title: "Discover the Latest Innovations: Apple's Upcoming Tech Enhancements for iPhone, iPad, Mac, & More in Autumn with Cutting-Edge AI | ZDNet"
-date: 2025-01-02T03:37:45.997Z
-updated: 2025-01-06T18:24:32.572Z
+date: 2025-02-10T21:11:44.281Z
+updated: 2025-02-16T16:17:41.290Z
 tags:
   - apple
 categories:
@@ -38,10 +38,6 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6nvb0775GOM?si=peBB_Mo_4zcZFuci" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Apple Intelligence (AI)
 
 Maria Diaz/ZDNET
@@ -65,7 +61,7 @@ Maria Diaz/ZDNET
 * Apple Intelligence is free on iOS 18, iPadOS 18, and MacOS Sequoia, and will be available to try in English only this summer.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Partnership with OpenAI
@@ -94,10 +90,6 @@ Adam Breeden/ZDNET
 * The **Safari app** was upgraded to include key information about a webpage. You can read more about the Safari upgrades under the MacOS section of this article.
 * The **Calendar app** can now pull from the Reminders app for a more seamless schedule overview.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## WatchOS 11
 
 Adam Breeden/ZDNET
@@ -122,6 +114,10 @@ Adam Breeden/ZDNET
 * Handwriting in Notes also got an upgrade with **Smart** **Script**, which refines users' writing to make it more legible while keeping the authenticity of the user's handwriting style. The feature can also match copied and pasted text to the user's handwriting. Typed text was also enhanced, with five new highlight colors and the ability to toggle sections under headings or subheadings.
 * iPadOS 18 supports **screen-sharing via SharePlay** and the same Control Center customizations, Photos app upgrades, Safari updates, and emoji Tapbacks found in **iOS 18.**
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## MacOS 15 (Sequoia)
 
 Adam Breeden/ZDNET
@@ -132,6 +128,10 @@ Adam Breeden/ZDNET
 * **Video meetings** are also getting an upgrade, with new backgrounds and a preview experience that allows you to see what you are about to share before sharing it. This feature works with popular video conferencing applications such as FaceTime and Zoom.
 * The **AI summarization** tool will live in Safari to help users process content like web pages and articles more efficiently. Safari will also assist users in discovering more helpful information about a page they are browsing when relevant, such as directions.
 * Apple also launched a new **Viewer experience**, which does for video what Reader does for text.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## VisionOS 2
 
@@ -151,7 +151,7 @@ Jason Hiner/ZDNET
 * Apple is also making the Vision Pro available in more countries starting June 28\. You can see the full list [here](https://www.apple.com/newsroom/2024/06/apple-vision-pro-arrives-in-new-countries-and-regions-beginning-june-28/).
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/tkpBmccvJ_Q?si=J7ellPL1G1l8Axi_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## AirPods
@@ -163,7 +163,7 @@ Jason Hiner/ZDNET
 * Apple is also releasing a **Personalized Spatial Audio API** for game developers to build around the AirPods' audio technology.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## tvOS 18
@@ -210,18 +210,20 @@ Screenshot by Nina Raemont/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-direct.techidaily.com/new-2024-approved-mastering-the-art-of-audio-blending-in-audacity/"><u>[New] 2024 Approved Mastering the Art of Audio Blending in Audacity</u></a></li>
-<li><a href="https://extra-support.techidaily.com/new-leading-voice-to-text-programs/"><u>[New] Leading Voice to Text Programs</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/updated-future-visions-10-sci-fi-metaverse-movies-explore-worlds-anew/"><u>[Updated] Future Visions 10 Sci-Fi Metaverse Movies Explore Worlds Anew</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-the-ultimate-guide-to-magix-mixcrafts-features/"><u>[Updated] The Ultimate Guide to Magix Mixcraft's Features</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/3-solutions-to-find-your-xiaomi-redmi-k70-current-location-of-a-mobile-number-drfone-by-drfone-virtual-android/"><u>3 Solutions to Find Your Xiaomi Redmi K70 Current Location of a Mobile Number | Dr.fone</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/elon-musks-latest-innovation-discovering-the-essentials-of-grok-ai-and-its-cost-structure/"><u>Elon Musk's Latest Innovation: Discovering the Essentials of Grok AI and Its Cost Structure</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/exploring-the-best-substitutes-for-chatgpt-in-autonomous-coding/"><u>Exploring the Best Substitutes for ChatGPT in Autonomous Coding</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/integrating-chatgpt-and-siri-a-step-by-step-guide-for-iphone-users/"><u>Integrating ChatGPT and Siri: A Step-by-Step Guide for iPhone Users</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/savor-the-art-of-cooking-with-chatgpts-7-secrets/"><u>Savor the Art of Cooking with ChatGPT's 7 Secrets</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/step-by-step-guide-mastering-ez-grabber-for-2024/"><u>Step-by-Step Guide Mastering EZ Grabber for 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/the-complete-inshot-editors-handbook-to-smoothness-for-2024/"><u>The Complete Inshot Editor's Handbook to Smoothness for 2024</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/troubleshooting-the-chatgpt-body-stream-error-top-7-fixes-you-need-to-know-about/"><u>Troubleshooting the ChatGPT Body Stream Error: Top 7 Fixes You Need to Know About</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/updated-documentaries-about-historic-events-space-or-any-other-topic-that-is-impossible-to-stage-rely-on-the-videos-that-entered-the-public-domain-for-one-r/"><u>Updated Documentaries About Historic Events, Space or Any Other Topic that Is Impossible to Stage Rely on the Videos that Entered the Public Domain for One Reason or the Other. Thats Why in This Article, We for 2024</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-2024-approved-brisk-tutorial-transforming-photos-into-youtube-desktop-thumbnails/"><u>[New] 2024 Approved Brisk Tutorial Transforming Photos Into YouTube Desktop Thumbnails</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-unveiling-leading-10-free-subtitle-editors-for-srt-files/"><u>[New] Unveiling Leading 10 FREE Subtitle Editors for SRT Files</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-capturing-speech-iphone-memo-making-steps-for-2024/"><u>[Updated] Capturing Speech IPhone Memo-Making Steps for 2024</u></a></li>
+<li><a href="https://win-top.techidaily.com/effizientes-kopieren-von-windows-1011-systemen-professionelle-tipps-und-tricks-zum-erstellen-genauester-duplizate/"><u>Effizientes Kopieren Von Windows 10/11 Systemen: Professionelle Tipps Und Tricks Zum Erstellen Genauester Duplizate</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/fast-fixes-streamlining-your-gotomeeting-record-keeping-for-2024/"><u>Fast Fixes Streamlining Your GoToMeeting Record Keeping for 2024</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/is-microsofts-chatgpt-functioning-follow-these-5-checkpoints-to-confirm/"><u>Is Microsoft's ChatGPT Functioning? Follow These 5 Checkpoints to Confirm</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/legislative-measures-in-the-management-of-artificial-intelligence/"><u>Legislative Measures in the Management of Artificial Intelligence</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/master-the-conversation-with-tech-activating-and-using-nvidias-revolutionary-rtx-ai-companion/"><u>Master the Conversation with Tech: Activating and Using NVIDIA's Revolutionary RTX AI Companion</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/mastering-browser-based-ai-deployment-the-ultimate-guide-to-leveraging-agentgpt/"><u>Mastering Browser-Based AI Deployment: The Ultimate Guide to Leveraging AgentGPT</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/mastering-gpt-responses-top-techniques-unveiled/"><u>Mastering GPT Responses: Top Techniques Unveiled</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/pioneering-free-tools-for-ai-artwork/"><u>Pioneering Free Tools for AI Artwork</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/review-of-ion-audio-tailgater-plus-endless-high-bass-sound-with-one-click/"><u>Review of ION Audio Tailgater Plus: Endless High-Bass Sound with One Click</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/the-ultra-compact-apple-vision-pro-carrier-half-the-bulk-full-of-style-zdnet-insights/"><u>The Ultra-Compact Apple Vision Pro Carrier: Half the Bulk, Full of Style (ZDNet Insights)</u></a></li>
+<li><a href="https://fox-links.techidaily.com/unlock-potential-with-best-free-text-psdfree-for-2024/"><u>Unlock Potential with Best Free Text PSDFree for 2024</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-in-2024-mp4-video-metadata-management-solutions/"><u>Updated In 2024, MP4 Video Metadata Management Solutions</u></a></li>
 </ul></div>
 

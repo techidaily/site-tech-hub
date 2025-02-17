@@ -1,7 +1,7 @@
 ---
 title: "Outsmart Scammers: The Ultimate Guide to Detecting Bogus ChatGPT Apps on iPhone and iPad Stores"
-date: 2024-08-15T22:04:32.725Z
-updated: 2024-08-16T22:04:32.725Z
+date: 2025-02-13T21:39:35.977Z
+updated: 2025-02-16T22:26:43.067Z
 tags:
   - chatgpt
   - open-ai
@@ -19,6 +19,10 @@ thumbnail: https://thmb.techidaily.com/ad5375273ed5273cf93923e35b6ab94c30b893011
 
  After all, since AI isn't human, it cannot hold ownership over its creations. So, if an AI makes something, who do we attribute it to? The AI's programmer? The person who initiated the prompts? Or the sources the AI used?
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/h5uImbOWmTg?si=z4kP-R0QbXbBAJTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What Is Copyright? Does It Apply to Non-Human Creations?
 
  Before talking about copyright, we must first define it. According to the[US Copyright Office](https://www.copyright.gov/what-is-copyright/) (USCO), "Copyright is a type of intellectual property that protects original works of authorship as soon as an author fixes the work in a tangible form of expression."
@@ -32,6 +36,10 @@ It further defines original works as:
  In this incident, British nature photographer David Slater set himself up between 2008 and 2011 to befriend a wild Celebes crested macaques troop. He was able to gain their trust, but they were still too nervous for him to get a close-up image.
 
 ![sefl portrait of a Macaca nigra](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/macaca_nigra_self-portrait_large.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Image Credit: David Slater/[Wikimedia Commons](https://en.m.wikipedia.org/wiki/Monkey%5Fselfie%5Fcopyright%5Fdispute#/media/File%3AMacaca%5Fnigra%5Fself-portrait%5Flarge.jpg)
 
@@ -51,10 +59,6 @@ Close
 
  Given this precedent, works that aren't strictly made by a human are ineligible for copyright; unless the creator can sufficiently prove that they set up the situation in which the non-human entity created the piece.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/Affiliates_300x250px_valentinesday.png" border="0"></a>
-<!-- affiliate ads end -->
 ## An Example of AI Copyright Rejection
 
  The US Copyright Office says that any work must be human-made to be copyrightable, which means you cannot copyright AI-generated work. This was proven in late 2022 when the comic book Zarya of the Dawn's copyright protection was revoked.
@@ -64,8 +68,9 @@ Close
  This aligns with its decision to deny copyright to Steven Thaler, who created the AI-generated painting A Recent Entrance to Paradise, which was denied copyright in 2019.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075482/7443" target="_top" id="2075482"><img src="//a.impactradius-go.com/display-ad/7443-2075482" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075482/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Is AI Work Non-Copyrightable?
 
  With all the copyright denials, does it mean that AI work is non-copyrightable at all?
@@ -76,14 +81,12 @@ Close
 
  However, if the user simply uses AI as a tool—i.e., its output is used as a base for the final product—then the work could be considered for copyright. While this somewhat solves the issue of using AI tools to create art, it also opens another can of worms.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=11224199&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/copy_boxshot_lyricvideo.png" border="0">Lyric Video Creator Professional Version</a>
-<!-- affiliate ads end -->
 ## The Issues With AI-Generated Work
 
 ![A Recent Entrance to Paradise](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/a_recent_entrance_to_paradise.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://mindmanager.sjv.io/c/5597632/1787667/20231" target="_top" id="1787667"><img src="//a.impactradius-go.com/display-ad/20231-1787667" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1787667/20231" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fJlICvacgJY?si=jNeijBVj7ia4ammA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Image Credit: Steven Thaler and the Creativity Machine AI/[Wikimedia Commons](https://commons.wikimedia.org/wiki/File:A%5FRecent%5FEntrance%5Fto%5FParadise.jpg#:~:text=Licensing,in%20whom%20copyright%20is%20vested.)
@@ -101,22 +104,20 @@ Close
  Because AI is so powerful and is such a game-changing technology, AI will face many more issues in the immediate future.
 
 <!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/748964/4704" target="_top" id="748964"><img src="//a.impactradius-go.com/display-ad/4704-748964" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/748964/4704" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## The Ethics of AI
 
  Although AI tools are powerful, valuable tools that'll help us be more efficient, it's untested and unprecedented technology. AI could have unintended consequences, so we should be careful when using this technology.
 
  But, simultaneously, we shouldn't avoid using it because we don't understand it. The best way to deal with AI is to ensure that its use will serve the purpose of advancing humanity as a whole. There will be endless debates about this, for sure; that's why we should have a solid moral compass when using this new tool.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -125,4 +126,24 @@ Close
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-clips.techidaily.com/new-2024-approved-uniting-social-media-and-television-with-fb-live/"><u>[New] 2024 Approved Uniting Social Media & Television with FB Live</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-in-2024-deep-dive-into-clarity-the-lg-digital-cinema-31mu97-b-review/"><u>[New] In 2024, Deep Dive Into Clarity The LG Digital Cinema 31MU97-B Review</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-excellence-in-flight-choosing-superior-drone-motor-technology-for-2024/"><u>[Updated] Excellence in Flight Choosing Superior Drone Motor Technology for 2024</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-in-2024-uncovering-8-must-have-mirrorless-cams-for-video-creators/"><u>[Updated] In 2024, Uncovering 8 Must-Have Mirrorless Cams for Video Creators</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/3-best-tools-to-hard-reset-lava-blaze-2-pro-drfone-by-drfone-reset-android-reset-android/"><u>3 Best Tools to Hard Reset Lava Blaze 2 Pro | Dr.fone</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/artistic-alliance-sarah-silverman-leads-lawsuit-on-ai-usage-by-tech-giants-openai-and-meta/"><u>Artistic Alliance: Sarah Silverman Leads Lawsuit on AI Usage by Tech Giants OpenAI and Meta</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/comparing-auto-gpt-and-chatgpt-identifying-what-makes-them-unique/"><u>Comparing Auto-GPT and ChatGPT: Identifying What Makes Them Unique</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/do-costly-artifice-intelligence-generators-offer-value-for-money/"><u>Do Costly Artifice Intelligence Generators Offer Value for Money?</u></a></li>
+<li><a href="https://win-news.techidaily.com/effective-strategies-for-removing-unwanted-startup-applications-tips-by-yl-computing/"><u>Effective Strategies for Removing Unwanted Startup Applications - Tips by YL Computing</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/empowering-learning-the-5-best-uses-of-chatgpt-in-educational-settings/"><u>Empowering Learning: The 5 Best Uses of ChatGPT in Educational Settings</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/explore-creative-freedom-using-free-dall-e-3-features-in-bing-search-engine/"><u>Explore Creative Freedom Using Free DALL-E 3 Features in Bing Search Engine</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/gpt-4-vs-gpt-35-unpacking-distinctions/"><u>GPT-4 Vs. GPT-3.5: Unpacking Distinctions</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-3-facts-you-need-to-know-about-screen-mirroring-vivo-t2x-5g-drfone-by-drfone-android/"><u>In 2024, 3 Facts You Need to Know about Screen Mirroring Vivo T2x 5G | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-guide-on-how-to-change-your-apple-id-email-address-on-apple-iphone-6s-plus-drfone-by-drfone-ios/"><u>In 2024, Guide on How To Change Your Apple ID Email Address On Apple iPhone 6s Plus | Dr.fone</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/maximizing-your-experience-essential-chatgpt-features-often-ignored/"><u>Maximizing Your Experience: Essential ChatGPT Features Often Ignored</u></a></li>
+<li><a href="https://techidaily.com/unlock-locked-iphone-xs-max-by-restoring-it-to-default-settings-by-drfone-ios-unlock-ios-unlock/"><u>Unlock locked iPhone XS Max by restoring it to default settings</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/unlock-the-power-of-anthropics-newest-ai-a-comprehensive-tutorial-on-using-the-claude-3-prompt-platform/"><u>Unlock the Power of Anthropic's Newest AI: A Comprehensive Tutorial on Using the Claude 3 Prompt Platform</u></a></li>
+</ul></div>
 

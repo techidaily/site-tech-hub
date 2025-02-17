@@ -1,7 +1,7 @@
 ---
 title: "Apple Complies with MacBook Class-Action Agreement: Eligible Users Receive Compensation - Insights"
-date: 2025-02-06T12:32:57.399Z
-updated: 2025-02-06T16:50:55.903Z
+date: 2025-02-14T23:29:20.330Z
+updated: 2025-02-16T20:00:43.662Z
 tags:
   - apple
 categories:
@@ -31,6 +31,10 @@ To continue this conversation, I'm going to ask you to hold two competing though
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  How could Meta possibly beat Apple?
 
 Good, better, best. What does this mean? How can a $500 device from Meta (Facebook, believe it or not) beat Apple's offering?
@@ -56,7 +60,7 @@ During this time, the company focused on providing viable mixed reality and VR e
 Essentially, Meta's focus has been on finding the sweet spot for AR and VR devices using current technology and baking that into its products. In the Quest 3, it has introduced a truly great device at a reasonably affordable price.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  That old Apple magic
@@ -85,10 +89,6 @@ But that means that Apple has to stay the course. It can't lose patience, even i
 Bloomberg's Gurman believes Apple is more willing to kill products now than it has been in the past. His examples are Apple's [termination of its self-driving car program](https://www.zdnet.com/article/apple-just-killed-its-electric-car-project-shifting-focus-to-generative-ai/), killing off [a project to develop microLED screens](https://www.bloomberg.com/news/articles/2024-03-22/apple-scraps-plan-to-design-display-for-watch-in-house-cuts-jobs), and shutting down the [Pay Later finance program](https://www.zdnet.com/article/apple-kills-off-its-apple-pay-later-service-but-has-another-option-in-the-works/) before it got off the ground. 
 
 His inference is that it's possible Apple will lose patience with the slow progress of the Vision Pro and kill it off, although he says his sources claim the company is more focused on introducing a cost-cut Vision device that off-loads the processing to a tethered iPhone or Mac. 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4YCkNXJjC3c?si=9Tn8KiqKGTZi1o7E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  Think different?
 
@@ -125,7 +125,7 @@ In other words, for the Vision to be successful, it has to stop fooling around a
 So what, beyond shipping useful software like the ultra-wide Mac display, needs to factor into that probably elusive Apple mindset change? Three things. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2ipTu54inBo?si=gRegjvtVq5gm_PHo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. Give the Vision a controller
@@ -137,6 +137,10 @@ The eye tracking and hand gestures interface that are the primary means of opera
 **Also: [I watched my favorite TV show on Apple Vision Pro and it was glorious, strange, and tiring](https://www.zdnet.com/article/i-watched-my-favorite-tv-show-on-apple-vision-pro-and-it-was-glorious-strange-and-tiring/)**
 
 You can see this in action with the [Puzzling Places game](https://www.meta.com/experiences/3931148300302917/). On the Quest 3, the game provides a much richer interface than on the Vision Pro. That's because it's much easier to navigate objects in the 3D space using the Quest controllers. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 2\. Stay away from cable tethering
 
@@ -151,7 +155,7 @@ The idea that a future Vision device might need to be physically tethered to an 
 There might be one compromise, which is to wirelessly offload some processing to an iPhone, similar to the symbiotic relationship the Apple Watch has with the iPhone. That could work. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9ECz3oZ8NrQ?si=86vkwkDJo9HQXpzt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. Make a tough margin decision
@@ -173,10 +177,6 @@ Think about that. If the Quest 3 is sold for $500, retailers like Amazon are lik
 **Also: [Who's afraid of VR? I was - until I tried Meta Quest 3](https://www.zdnet.com/article/whos-afraid-of-vr-i-was-until-i-tried-meta-quest-3/)**
 
 Apple, by contrast, is making a fairly predictable margin on the Vision Pro, which is why the price is so high by comparison. Apple does have some cost-cutting options (display, chips, assembly, structure, and lenses), but if Facebook is competing at a loss, that puts Apple into the uncomfortable position of also taking a per-unit COGS loss or pricing well higher than the current market leader. 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  Looking towards the future
 
@@ -227,20 +227,22 @@ _You can follow my day-to-day project updates on social media. Be sure to subscr
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-creating-customized-urls-for-channel-subscribers/"><u>[New] 2024 Approved Creating Customized URLs for Channel Subscribers</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/new-2024-approved-innovative-techniques-for-iphone-sideways-shots/"><u>[New] 2024 Approved Innovative Techniques for iPhone Sideways Shots</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/024-approved-maximize-your-relaxation-with-asmr-apps/"><u>[New] 2024 Approved Maximize Your Relaxation with ASMR Apps</u></a></li>
-<li><a href="https://article-tips.techidaily.com/updated-2024-approved-advanced-windows-based-editors-for-high-quality-videography/"><u>[Updated] 2024 Approved Advanced Windows-Based Editors for High-Quality Videography</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/updated-projector-or-tv-the-ultimate-4k-experience-debated/"><u>[Updated] Projector or TV? The Ultimate 4K Experience Debated</u></a></li>
-<li><a href="https://fox-http.techidaily.com/updated-thriving-in-the-streaming-scene-overcoming-subscriber-limitations-for-2024/"><u>[Updated] Thriving in the Streaming Scene Overcoming Subscriber Limitations for 2024</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/can-i-bypass-a-forgotten-phone-password-of-tecno-spark-go-2023-by-drfone-android/"><u>Can I Bypass a Forgotten Phone Password Of Tecno Spark Go (2023)?</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/chatgpts-desktop-release-delayed-use-this-effective-and-affordable-open-source-tool-today/"><u>ChatGPT's Desktop Release Delayed? Use This Effective and Affordable Open Source Tool Today</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/clarity-in-ais-copyright-conundrum/"><u>Clarity in AI's Copyright Conundrum</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/differences-in-enterprise-versus-consumer-gpt-services/"><u>Differences in Enterprise Versus Consumer GPT Services</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/immediate-prohibition-unpacking-italys-sudden-ban-on-chatgpt/"><u>Immediate Prohibition: Unpacking Italy's Sudden Ban on ChatGPT</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-how-to-activate-and-use-life360-ghost-mode-on-vivo-v30-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How To Activate and Use Life360 Ghost Mode On Vivo V30 Pro | Dr.fone</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/navigating-openais-new-gpt-store-platform-quick-start-guide-for-seamless-integration-and-usage/"><u>Navigating OpenAI's New GPT Store Platform: Quick Start Guide for Seamless Integration & Usage</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/pioneering-llm-tech-revolutionizing-natural-language-understanding/"><u>Pioneering LLM Tech: Revolutionizing Natural Language Understanding</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/the-evolving-perils-of-next-gen-generative-ai/"><u>The Evolving Perils of Next-Gen Generative AI</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-unveiling-top-freefire-strategies-on-youtube/"><u>[Updated] Unveiling Top FreeFire Strategies on YouTube</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/approved-navigating-to-submillion-territory-on-youtube/"><u>2024 Approved Navigating to Submillion Territory on YouTube</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/erated-fortnite-visualization-steps-for-2024/"><u>Accelerated Fortnite Visualization Steps for 2024</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/archiving-conversations-with-ai-how-to-retain-your-chatgpt-sessions/"><u>Archiving Conversations with AI: How to Retain Your ChatGPT Sessions</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/bing-ai-for-android-users-mastering-text-input-through-smart-assistance/"><u>Bing AI for Android Users: Mastering Text Input Through Smart Assistance</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/can-you-get-microsoft-word-for-free-unlock-the-possibilities/"><u>Can You Get Microsoft Word For Free? Unlock The Possibilities</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/chatgpt-conversation-resurrection-tips-for-retrieving-erased-dialogue-records/"><u>ChatGPT Conversation Resurrection: Tips for Retrieving Erased Dialogue Records</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/cut-down-on-machine-misunderstandings-six-essential-prompting-strategies-for-ai-clarity/"><u>Cut Down on Machine Misunderstandings: Six Essential Prompting Strategies for AI Clarity</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/dissecting-why-hackers-target-gpt-accounts/"><u>Dissecting Why Hackers Target GPT Accounts</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/explore-the-ultimate-selection-find-dells-greatest-deals-of-cyber-monday-across-best-buy-amazon-newegg-et-al-insights-by-zdnet/"><u>Explore the Ultimate Selection: Find Dell's Greatest Deals of Cyber Monday Across Best Buy, Amazon, Newegg, Et Al. - Insights by ZDNet</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/fixing-handbrakes-dvd-scanning-issue-step-by-step-guide-to-resolving-cannot-scan-dvd-title-error/"><u>Fixing Handbrake's DVD Scanning Issue: Step-by-Step Guide to Resolving 'Cannot Scan DVD Title' Error</u></a></li>
+<li><a href="https://program-issues.techidaily.com/how-to-prevent-doom-eternal-from-suddenly-crashing/"><u>How to Prevent Doom Eternal From Suddenly Crashing?</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-vivo-s17t-mirror-screen-to-pc-drfone-by-drfone-android/"><u>How Vivo S17t Mirror Screen to PC? | Dr.fone</u></a></li>
+<li><a href="https://iphone-location.techidaily.com/in-2024-does-pokegoplusplus-still-work-on-apple-iphone-xsipad-drfone-by-drfone-virtual-ios/"><u>In 2024, Does PokeGo++ still work on Apple iPhone XS/iPad? | Dr.fone</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/paving-the-way-for-accurate-ai-replies-implementing-6-proactive-techniques/"><u>Paving the Way for Accurate AI Replies: Implementing 6 Proactive Techniques</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/the-enigma-of-posthumous-presence-a-closer-look-at-how-our-voices-linger-on-the-internet/"><u>The Enigma of Posthumous Presence: A Closer Look at How Our Voices Linger on the Internet</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/the-science-of-emotion-recognition-by-ai-fact-or-fiction/"><u>The Science of Emotion Recognition by AI: Fact or Fiction?</u></a></li>
 </ul></div>
 

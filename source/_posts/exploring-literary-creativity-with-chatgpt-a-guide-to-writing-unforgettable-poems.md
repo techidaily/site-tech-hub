@@ -1,7 +1,7 @@
 ---
 title: "Exploring Literary Creativity with ChatGPT: A Guide to Writing Unforgettable Poems"
-date: 2024-08-15T22:09:07.114Z
-updated: 2024-08-16T22:09:07.114Z
+date: 2025-02-10T18:16:54.411Z
+updated: 2025-02-16T21:59:20.539Z
 tags:
   - chatgpt
   - open-ai
@@ -16,6 +16,10 @@ thumbnail: https://thmb.techidaily.com/380c0bd99725d564144c554e3495dbd9ae260fd18
 ## Exploring the Potential of Generative AI as a Modern Conduit for False Information Dissemination
 
  Artificial Intelligence (AI) now plays a role in various aspects of our lives. Specifically, generative AI tools such as ChatGPT and others have grown significantly. This means that there will be an abundance of AI-generated content in the future.However, generative AI also introduces the risk of AI-generated disinformation. Its features make it easier for opportunistic individuals to spread false information. So, let's explore how generative AI is being utilized for disinformation.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DCARjc5g5VI?si=9OfovbKBrpoJeXTY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Potential Risks of Generative AI to Spread Disinformation
 
@@ -34,15 +38,13 @@ False news can be categorized into three types:
  How will the law address the propagation of fake news through generative AI? Who will be held responsible for spreading false information—the users, developers, or the tools themselves?
 
 <!-- affiliate ads begin -->
-<a href="https://boody-eco-wear.pxf.io/c/5597632/1572622/13846" target="_top" id="1572622"><img src="//a.impactradius-go.com/display-ad/13846-1572622" border="0" alt="" width="1000" height="1298"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1572622/13846" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 4 Ways Generative AI Can Be Used to Spread Disinformation
 
  To stay safe online, everyone needs to understand the risks of generative AI in spreading disinformation, as it comes in many different forms. Here are a few ways it can be used to manipulate people.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600113&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Win：Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
-<!-- affiliate ads end -->
 ### 1\. Generating Fake Content Online
 
  Creating fake content using generative AI is a common strategy employed by those who spread false news. They use popular generative AI tools like ChatGPT, DALL-E, Bard, Midjourney, and others to produce various types of content. For example,[ChatGPT can help content creators in many ways](https://www.makeuseof.com/how-chatgpt-can-help-content-creators/) . But it can also generate social media posts or news articles that may deceive people.
@@ -55,9 +57,6 @@ Here's the fictitious article that ChatGPT came up with:
 
  Surprisingly, the output was highly persuasive. It included the names and statements of authoritative figures to make the article more convincing. This shows how anyone can use such tools to generate false news and easily spread it online.
 
-<!-- affiliate ads begin -->
-<a href="https://uperfect.sjv.io/c/5597632/1246754/15155" target="_top" id="1246754"><img src="//a.impactradius-go.com/display-ad/15155-1246754" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1246754/15155" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### 2\. Using Chatbots to Influence People's Opinions
 
  Chatbots that rely on generative AI models can employ various tactics to influence people's opinions, including:
@@ -70,8 +69,9 @@ Here's the fictitious article that ChatGPT came up with:
  These examples all illustrate how chatbots can be utilized to mislead people.
 
 <!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BScreen%2BRecorder%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/f026b149-fc7c-fd54-5f3e-1460bbb19b6b.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### 3\. Creating AI DeepFakes
 
  Someone can use deepfakes to create false videos of an individual saying or doing things they never did. They can use such tools for social engineering or running smear campaigns against others. Moreover, in today's meme culture, deepfakes can serve as tools for cyberbullying on social media.
@@ -81,9 +81,9 @@ Here's the fictitious article that ChatGPT came up with:
  It's crucial, then, to be able to[identify videos created by deepfakes](https://www.makeuseof.com/how-can-you-tell-video-deepfake/) and distinguish them from originals.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.dbschema.com/order/checkout.php?PRODS=19867419&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/176b22bab4e94a28619ca2433b2ef241/products/1_icon256.png" border="0">
-DbSchema database designer for all databases, schema design in the team, schema deployment, interactive diagrams, documentation, data and query tools. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### 4\. Cloning Human Voices
 
  Generative AI, along with deepfake technology, enables the manipulation of someone's speech. Deepfake technology is advancing rapidly and offers a variety of tools that can replicate anyone's voice. This allows malicious individuals to impersonate others and deceive unsuspecting individuals. One such example is[the use of deepfake music](https://www.makeuseof.com/what-is-deepfake-ai-music/) .
@@ -91,6 +91,10 @@ DbSchema database designer for all databases, schema design in the team, schema 
  You might have come across tools like[Resemble AI](https://www.resemble.ai/) ,[Speechify](https://speechify.com/) ,[FakeYou](https://fakeyou.com/) , and others that can mimic the voices of celebrities. While these AI audio tools can be entertaining, they pose significant risks. Scammers can utilize voice cloning techniques for various fraudulent schemes, resulting in financial losses.
 
  Scammers may use deepfake voices to impersonate your loved ones and call you, pretending to be in distress. With synthetic audio that sounds convincing, they could urge you to send money urgently, leading you to become a victim of their scams. An incident reported by[The Washington Post](https://www.washingtonpost.com/technology/2023/03/05/ai-voice-scam/) in March 2023 exemplifies this issue: scammers used deepfake voices to convince people that their grandsons were in jail and needed money...
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vPGg53vbOsk?si=CkSEN5HFPS7vDuAa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How to Spot AI-Spread Disinformation
 
@@ -103,23 +107,17 @@ DbSchema database designer for all databases, schema design in the team, schema 
 
  By following these steps, you can identify and protect yourself from AI-driven misinformation.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2067133&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/gcb/banScrn.jpg" border="0">Greeting Card Builder</a>
-<!-- affiliate ads end -->
 ## Beware of Disinformation Spread by AI
 
  Generative software has played a crucial role in advancing AI. Still, they can also be a significant source of disinformation in society. These affordable tools have enabled anyone to create different types of content using sophisticated AI models; their ability to generate content in large quantities and incorporate deepfakes makes them even more dangerous.
 
  It's important that you're aware of the challenges of disinformation in the AI era. Understanding how AI can be used to spread fake news is the first step towards protecting yourself from misinformation.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -128,4 +126,26 @@ DbSchema database designer for all databases, schema design in the team, schema 
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-videos.techidaily.com/new-creative-loss-unexpectedly-banished-vid-for-2024/"><u>[New] Creative Loss Unexpectedly Banished Vid for 2024</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-enhance-live-broadcast-quality-with-streamlabs-obs-tips/"><u>[New] Enhance Live Broadcast Quality with Streamlabs OBS Tips</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-seamless-integration-free-text-animations-both-ways/"><u>[New] Seamless Integration Free Text Animations Both Ways</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-how-to-shield-yourself-from-online-commercial-floods-for-2024/"><u>[Updated] How to Shield Yourself From Online Commercial Floods for 2024</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/1726029804417-dvd-2024/"><u>「ダビング可能なDVDを守れ! 2024年向け強力解除ソフトウェア選び方詳しく解説」</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/2024top5-youtube/"><u>【2024年】最新動画保存ツールTOP5 - YouTubeの人気投稿に匹敵する製品選び</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/5yuv55s7lplusmfsplusalveodleocoeocpoodqplusobruocsplusodvoodhplusodgplusocrpluswkieapmplusawueazleockuipsplusoblplusobjplusinoplusiqra/"><u>動画/音楽ファイルのコーデック変換方法を詳しく解説</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/1726029207598-seo/"><u>革新的な音楽符号化手法と最高のソフトウェア推薦 - SEO対策付き</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/576o44gx44gp5yuv44gp44k544ox44o844oz44ks5pku5b2x44o744kq44o844oh44kj44kq44kz44os44kv44k344on44oz44gz44kl57ch5y2y44gq5pa55rov/"><u>美しく動くスプーンを撮影・オーディオコレクションする簡単な方法</u></a></li>
+<li><a href="https://howto.techidaily.com/asus-rog-phone-8-pro-bootloop-problem-how-to-fix-it-without-data-loss-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Asus ROG Phone 8 Pro Bootloop Problem, How to Fix it Without Data Loss | Dr.fone</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/best-6-easy-to-use-swf-editors-for-seamless-file-manipulation/"><u>Best 6 Easy-to-Use SWF Editors for Seamless File Manipulation</u></a></li>
+<li><a href="https://howto.techidaily.com/how-to-fix-part-of-the-touch-screen-not-working-on-oppo-reno-11-pro-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Fix Part of the Touch Screen Not Working on Oppo Reno 11 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-simplifying-fast-forward-on-snapchat-a-first-timers-guide/"><u>In 2024, Simplifying Fast-Forward on Snapchat A First Timer's Guide</u></a></li>
+<li><a href="https://windows11.techidaily.com/mending-a-stuck-discord-interface-element-on-your-system/"><u>Mending a Stuck Discord Interface Element on Your System</u></a></li>
+<li><a href="https://win-bits.techidaily.com/slow-computer-woes-detect-and-resolve-potential-viruses-with-guidance-from-yl-software-experts/"><u>Slow Computer Woes? Detect and Resolve Potential Viruses with Guidance From YL Software Experts</u></a></li>
+<li><a href="https://techidaily.com/top-ways-to-unlock-iphone-11-pro-max-screen-lock-by-drfone-ios-unlock-ios-unlock/"><u>Top ways to unlock iPhone 11 Pro Max screen lock</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/1726029020753-zoom/"><u>Zoomビデオの編集手順：ステップバイステップガイド</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/44ot44oh44kq5yaf5a6544ks44kr44k544k44oe44kk44k644gz44kl44gf44kb44gu5bcc6zaa55qe44gq5oml5rov/"><u>ビデオ内容をカスタマイズするための専門的な手法</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/1726030447403-movwmv/"><u>プロのテクニックでMOVファイルをWMVへ変換する詳細ガイド</u></a></li>
+</ul></div>
 

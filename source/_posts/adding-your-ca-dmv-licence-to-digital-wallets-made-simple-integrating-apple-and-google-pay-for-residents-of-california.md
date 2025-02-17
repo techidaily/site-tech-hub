@@ -1,7 +1,7 @@
 ---
 title: "Adding Your CA DMV Licence to Digital Wallets Made Simple: Integrating Apple & Google Pay for Residents of California"
-date: 2025-01-30T17:13:37.948Z
-updated: 2025-02-07T00:40:29.389Z
+date: 2025-02-09T16:16:30.694Z
+updated: 2025-02-17T00:39:03.413Z
 tags:
   - apple
 categories:
@@ -38,6 +38,10 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Reputation botched by a software rollout
 
 Founded in 2002, Sonos revolutionized home audio with its wireless, multiroom speaker systems. The company became a household name known for high-quality sound and seamless integration with music services. 
@@ -61,7 +65,7 @@ The Sonos S2 firmware, which requires additional memory and relies more on cloud
 It's not hard to imagine that [Play:3, Play:1, Play:5 Gen2, and Sub Gen1 speakers](https://support.sonos.com/en-us/article/sonos-app-version-compatibility) that have been in the wild for more than 10 years will become obsolete in the next year or so when Sonos introduces a revised S2 or S3 firmware. These speakers will likely need to be run [on legacy networks and controlled separately](https://support.sonos.com/en-us/article/set-up-separate-s1-and-s2-sonos-systems), like the S1 components were when Sonos initially rolled out S2 in August 2020.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nWu29cqFjZA?si=TNZyCbPq68PQ0JIb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## A lack of competitors
@@ -75,7 +79,7 @@ For Apple (or Amazon or Google) to truly compete with Sonos, the companies will 
 Here's an idea, Apple: Either buy Sonos outright and take over software development, or independently develop HomePod into a true home entertainment solution.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/r_wWybMqZEM?si=0nPjCQDLS2MCaQbG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Why Apple should do it
@@ -88,6 +92,10 @@ Apple has the resources to make this move, and now is the right time for HomePod
 
 [As reported](https://www.macrumors.com/2024/07/04/leak-confirms-apples-work-on-home-accessory/) in _MacRumors_, a connected "accessory" for Apple TV and HomePod powered by the yet-to-be-released A18 processor (coming in the [iPhone 16](https://www.zdnet.com/article/i-upgrade-my-iphone-every-year-but-iphone-16-worries-me-heres-why/)) may bring the highly awaited Apple Intelligence features to the home entertainment space.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Transforming Apple Music with AI
 
 A set-top box, whether an updated Apple TV or a centralized processor unit for Apple TV and HomePod, could be the central control unit for a multiroom and surround sound audio system. In addition to providing the expected [artificial intelligence](https://www.zdnet.com/article/what-is-ai-heres-everything-you-need-to-know-about-artificial-intelligence/) (AI) features of a more intelligent Siri and orchestrating home automation functions, the unit could transform Apple Music into a highly personalized and interactive experience.
@@ -96,21 +104,17 @@ A set-top box, whether an updated Apple TV or a centralized processor unit for A
 
 Imagine an AI processor with built-in [Apple Foundation Model LLM](https://www.zdnet.com/article/apple-builds-a-slimmed-down-ai-model-using-stanford-google-innovations/) and [ChatGPT](https://www.zdnet.com/article/what-is-chatgpt-and-why-does-it-matter-heres-everything-you-need-to-know/) integration that offers dynamic playlists tailored to your real-time preferences, activities, and moods. This AI could provide context-aware music suggestions based on your current activity, location in your home, or time of day, seamlessly enhancing your environment whether you're working out, hosting a party, or relaxing.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Interactive music discovery
 
 With interactive music discovery, you could converse with Siri to explore new music, uncover interesting facts about songs and artists, and receive personalized insights and trivia while listening. Customized listening sessions would adapt to your feedback, setting goals like discovering new artists and curating sessions to meet those objectives.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6X24fPKs6AE?si=YtQy-8zy7GifgfA7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Social and collaborative features
 
 Social and collaborative features could facilitate the creation of collaborative playlists with friends and family, allowing real-time voting on songs and interactive chats about playlist content. Personalized messages generated by the new Apple Intelligence-powered Siri could help with custom recommendations for friends based on shared listening habits.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Smart home integration
 
@@ -121,10 +125,6 @@ Smart home integration could allow voice-controlled music management across Home
 The AI's adaptive learning capabilities could continuously refine music recommendations based on your interactions. Mood and sentiment analysis could recommend music to match or alter your mood, offering comforting or uplifting tunes as needed. Additionally, integrating with other streaming services and social media platforms could provide a unified music experience, allowing you to import and export playlists and create music-related content.
 
 **Also: [LG TVs are getting a free audio upgrade that Apple users will absolutely love](https://www.zdnet.com/home-and-office/home-entertainment/lg-tvs-are-getting-a-free-audio-upgrade-that-apple-users-will-absolutely-love/)**
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Is Sonos cooked, and can Apple step in?
 
@@ -160,19 +160,18 @@ The recent missteps by Sonos have left a void in the multiroom audio market, pre
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-lab.techidaily.com/ligning-spotify-selections-for-a-unified-youtube-music-experience-for-2024/"><u>[New] Aligning Spotify Selections for a Unified YouTube Music Experience for 2024</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-essential-tips-capturing-clear-voice-overs-on-camera-for-2024/"><u>[New] Essential Tips Capturing Clear Voice Overs on Camera for 2024</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/new-smartphones-with-superior-video-recording-features/"><u>[New] Smartphones with Superior Video Recording Features</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-universal-method-for-recording-your-preferred-youtube-stream-no-matter-the-device-for-2024/"><u>[Updated] Universal Method for Recording Your Preferred YouTube Stream, No Matter the Device for 2024</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/comprehensive-guide-to-get-mozilla-thunderbird-running-again/"><u>Comprehensive Guide to Get Mozilla Thunderbird Running Again</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/enhancing-user-experience-the-future-of-chatgpt-add-ons-shop/"><u>Enhancing User Experience: The Future of ChatGPT Add-Ons Shop</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/how-to-unlock-sim-cards-of-sony-without-puk-codes-by-drfone-android/"><u>How To Unlock SIM Cards Of Sony Without PUK Codes</u></a></li>
-<li><a href="https://android-location.techidaily.com/in-2024-for-people-wanting-to-mock-gps-on-xiaomi-redmi-note-12-4g-devices-drfone-by-drfone-virtual/"><u>In 2024, For People Wanting to Mock GPS on Xiaomi Redmi Note 12 4G Devices | Dr.fone</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/in-2024-selecting-from-dji-action-gopro-max-360-insta360-x3/"><u>In 2024, Selecting From DJI Action, GoPro Max 360, Insta360 X3</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/innovative-ways-to-use-dall-e-3-top-8-photo-concepts/"><u>Innovative Ways to Use DALL-E 3: Top 8 Photo Concepts</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/integrating-ai-into-development-cycles/"><u>Integrating AI Into Development Cycles</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/the-appeal-of-chatgpt-for-cybercriminals-what-makes-it-a-target/"><u>The Appeal of ChatGPT for Cybercriminals: What Makes It a Target?</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/the-breakthrough-in-gemini-with-a-surge-to-15-million-tokens-a-comprehensive-analysis/"><u>The Breakthrough in Gemini with a Surge to 1.5 Million Tokens: A Comprehensive Analysis</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/the-ultimate-guide-to-integrating-gpt-3-in-daily-work-life/"><u>The Ultimate Guide to Integrating GPT-3 in Daily Work Life</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-leveraging-obs-streaming-capabilities-on-facebook-platform-for-2024/"><u>[New] Leveraging OBS Streaming Capabilities on Facebook Platform for 2024</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/apple-revives-promising-ai-innovation-opportunities-and-areas-for-improvement-insights-from-zdnet/"><u>Apple Revives Promising AI Innovation: Opportunities and Areas for Improvement – Insights From ZDNet</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/apples-future-vision-introducing-camera-equipped-airpods-set-to-release-in-2026-according-to-insider-sources/"><u>Apple's Future Vision: Introducing Camera-Equipped AirPods Set to Release in 2026, According to Insider Sources</u></a></li>
+<li><a href="https://win-blog.techidaily.com/end-web-browsing-disruptions-chrome-window-flickering-solutions-on-windows/"><u>End Web Browsing Disruptions: Chrome Window Flickering Solutions on Windows</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/exclusive-how-selected-hotels-introduce-apple-airplay-technology-for-spotless-entertainment-control-a-complete-guide-techadvocate/"><u>Exclusive: How Selected Hotels Introduce Apple AirPlay Technology for Spotless Entertainment Control – A Complete Guide | TechAdvocate</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/expert-tips-and-must-have-apps-for-streamlining-your-day-to-day-task-management-insights-from-zdnet/"><u>Expert Tips & Must-Have Apps for Streamlining Your Day-to-Day Task Management - Insights From ZDNet</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-realistic-facial-rendering-implementing-motion-blur-in-photo-editing-via-picsart/"><u>In 2024, Realistic Facial Rendering Implementing Motion Blur in Photo Editing via Picsart</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/24-top-tier-free-video-editing-software-guide-for-iphoneipad-users/"><u>In 2024, Top-Tier Free Video Editing Software Guide for iPhone/iPad Users</u></a></li>
+<li><a href="https://review-topics.techidaily.com/recover-your-pictures-after-vivo-v30-has-been-deleted-by-fonelab-android-recover-pictures/"><u>Recover your pictures after Vivo V30 has been deleted.</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/stay-cozy-during-video-conferencing-the-new-apple-tv-program-enables-effortless-zoom-calls-on-your-lounge-chair/"><u>Stay Cozy During Video Conferencing: The New Apple TV Program Enables Effortless Zoom Calls on Your Lounge Chair</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/top-apple-smartphone-savings-in-july-2024-exclusive-offers-spotted-by-zdnet/"><u>Top Apple Smartphone Savings in July 2024: Exclusive Offers Spotted by ZDNet</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/top-tipps-und-techniken-zur-reduzierung-der-dateigrosse-von-mov-filmen-effizient-komprimieren/"><u>Top Tipps Und Techniken Zur Reduzierung Der Dateigröße Von MOV-Filmen Effizient Komprimieren</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/updated-get-ready-to-play-top-10-free-game-download-sites-for-pc-and-android-for-2024/"><u>Updated Get Ready to Play Top 10 Free Game Download Sites for PC and Android for 2024</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Epic Sale Alert for Apple Enthusiasts! Score Your Favorite AirPods at an Unbeatable $40 Price Drop This 4Th of July
-date: 2025-02-02T09:53:40.432Z
-updated: 2025-02-07T08:47:50.631Z
+date: 2025-02-11T21:30:40.602Z
+updated: 2025-02-16T21:23:10.184Z
 tags:
   - apple
 categories:
@@ -30,7 +30,7 @@ The second-generation AirPods come with a Lightning charger case. They offer sol
 Buy the AirPods on sale at [Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FApple-AirPods-Charging-Latest-Model%2Fdp%2FB07PXGQC1Q%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cc897cc8f-f17e-41e6-8410-d72f180f8ed4%7Cdtp&dtb=1) now. You can also check out more [headphone deals](https://www.zdnet.com/article/best-headphone-deals/) and the [top products ZDNET readers bought last month](https://www.zdnet.com/home-and-office/the-25-most-popular-products-zdnet-readers-bought-last-month/).
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1rCjQ09iG7s?si=Si1fUBric8MH1VHI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## When will this deal expire?
@@ -62,21 +62,16 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://twitter-videos.techidaily.com/new-2024-approved-trending-tweet-treasures-1-10-showdown/"><u>[New] 2024 Approved Trending Tweet Treasures #1-#10 Showdown</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/new-in-2024-from-shoots-to-screens-dslr-setup-for-youtubefacebook-live/"><u>[New] In 2024, From Shoots to Screens DSLR Setup for YouTube/Facebook Live</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-2024-approved-optimized-protocols-snapshots-of-gotomeetings-made-simple/"><u>[Updated] 2024 Approved Optimized Protocols Snapshots of GoToMeetings Made Simple</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/updated-top-12-affordable-high-quality-video-apps-recommended-for-pc-and-android-devices-for-2024/"><u>[Updated] Top 12 Affordable, High-Quality Video Apps Recommended for PC & Android Devices for 2024</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/updated-top-15-snapchat-sharing-tactics-for-maximum-impact-for-2024/"><u>[Updated] Top 15 Snapchat Sharing Tactics for Maximum Impact for 2024</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/chatgpt-not-working-here-are-9-fixes-to-get-it-running-smoothly-on-your-iphone/"><u>ChatGPT Not Working? Here Are 9 Fixes to Get It Running Smoothly on Your iPhone</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/discover-essential-plugins-for-integrating-chatgpt-into-your-cryptocurrency-applications/"><u>Discover Essential Plugins for Integrating ChatGPT Into Your Cryptocurrency Applications</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/discover-the-leading-replacements-for-chatgpt-ranked/"><u>Discover the Leading Replacements for ChatGPT - Ranked</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/future-frontiers-the-new-era-of-chatbots-and-ai/"><u>Future Frontiers: The New Era of Chatbots & AI</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/how-to-reset-a-locked-asus-rog-phone-8-pro-phone-by-drfone-android/"><u>How to Reset a Locked Asus ROG Phone 8 Pro Phone</u></a></li>
-<li><a href="https://os-tips.techidaily.com/reviving-your-disappeared-phone-numbers-a-step-by-step-guide-to-recovering-lost-contacts-post-itunes-backup/"><u>Reviving Your Disappeared Phone Numbers: A Step-by-Step Guide to Recovering Lost Contacts Post-iTunes Backup</u></a></li>
-<li><a href="https://fox-http.techidaily.com/step-by-step-converting-pinterest-vids-to-mp3-audio/"><u>Step-by-Step Converting Pinterest Vids to MP3 Audio</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/the-cautionary-tale-of-artificial-intelligence-in-therapy-top-9-dangers-to-consider/"><u>The Cautionary Tale of Artificial Intelligence in Therapy: Top 9 Dangers to Consider</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/the-essential-guide-for-swift-ipad-screen-captures-for-2024/"><u>The Essential Guide for Swift iPad Screen Captures for 2024</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/transform-your-android-experience-easy-steps-to-enable-voice-controlled-chatgpt-via-voicegpt/"><u>Transform Your Android Experience: Easy Steps to Enable Voice Controlled ChatGPT via VoiceGPT</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/why-choose-claude-over-gpt-focusing-on-the-4-foremost-upgrades/"><u>Why Choose Claude Over GPT: Focusing on the 4 Foremost Upgrades</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-the-best-value-in-cloud-pricing-a-comprehensive-list/"><u>2024 Approved The Best Value in Cloud Pricing A Comprehensive List</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/essential-dos-and-donts-navigating-around-key-blunders-with-chatgpt-prompts/"><u>Essential Dos and Don'ts: Navigating Around Key Blunders with ChatGPT Prompts</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/gpt-4s-edge-over-gpt-35-explored-in-detail/"><u>GPT-4's Edge Over GPT-3.5 Explored in Detail</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/harness-the-full-strength-of-free-gpt-4-turbo-through-intelligent-copilot-integration/"><u>Harness the Full Strength of Free GPT-4 Turbo Through Intelligent Copilot Integration</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/leveraging-chatgpt-for-exceptional-content-creation-and-innovative-projects/"><u>Leveraging ChatGPT for Exceptional Content Creation & Innovative Projects</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/mastering-chatgpt-input-constraints-insights-and-effective-approaches/"><u>Mastering ChatGPT Input Constraints: Insights & Effective Approaches</u></a></li>
+<li><a href="https://solve-marvelous.techidaily.com/1728474387297-outlook/"><u>Outlook連絡先データの外部記憶装置への完全なバックアップ手順</u></a></li>
+<li><a href="https://win-reviews.techidaily.com/pln-dateien-nicht-verloren-gehen-lassen-entdecken-sie-die-wiederherstellungsmethoden-von-myrecover/"><u>PLN Dateien Nicht Verloren Gehen Lassen! Entdecken Sie Die Wiederherstellungsmethoden Von MyRecover</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/restore-control-overcoming-the-2023-facebook-breach-for-2024/"><u>Restore Control Overcoming the 2023 Facebook Breach for 2024</u></a></li>
+<li><a href="https://fox-links.techidaily.com/transform-text-to-trendy-memes-kapwings-magic-tool/"><u>Transform Text to Trendy Memes - Kapwing’s Magic Tool</u></a></li>
+<li><a href="https://win11.techidaily.com/troubleshooting-pause-in-windows-gpsvc-errors/"><u>Troubleshooting Pause in Windows GPSVC Errors</u></a></li>
 </ul></div>
 

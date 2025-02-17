@@ -1,7 +1,7 @@
 ---
 title: Essential Rules for Freelancers Leveraging ChatGPT
-date: 2024-08-15T22:08:11.779Z
-updated: 2024-08-16T22:08:11.779Z
+date: 2025-02-12T16:43:51.797Z
+updated: 2025-02-16T16:01:03.740Z
 tags:
   - chatgpt
   - open-ai
@@ -19,6 +19,10 @@ thumbnail: https://thmb.techidaily.com/c8e68cffef41fc4061ac722c7019bbd23a7bd7418
 
  While some of the extensions improve the ChatGPT app, others use the AI's abilities in other webapps (such as Gmail) to improve the experience there. Do note that all but of one of these extensions require you to have a registered free account on OpenAI's ChatGPT portal.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. WebChatGPT
 
 ![WebChatGPT takes your ChatGPT prompt and performs a search query with it first, and then instructs ChatGPT to use those search results while answering your query so that its data is more updated](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/best-chatgpt-browser-extensions-chrome-webchatgpt.jpg)
@@ -35,9 +39,6 @@ thumbnail: https://thmb.techidaily.com/c8e68cffef41fc4061ac722c7019bbd23a7bd7418
 
 **Download:** WebChatGPT for[Chrome](https://chrome.google.com/webstore/detail/chatgpt-advanced/lpfemeioodjbpieminkklglpmhlngfcn) |[Firefox](https://addons.mozilla.org/en-US/firefox/addon/web-chatgpt/) (Free)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4694919&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/jutoh-logo-1200x1600.jpg" border="0">Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. </a>
-<!-- affiliate ads end -->
 ## 2\. ChatGPT Prompt Genius
 
  ChatGPT can seem magical when you see screenshots of some of the answers it gives people. But those screenshots don't show the prompts users have typed to make ChatGPT better. Like[learning the best Google search operators](https://www.makeuseof.com/tag/best-google-search-tips-pdf/) , you need to know how to frame the right prompts for ChatGPT. And this extension can help.
@@ -52,13 +53,6 @@ thumbnail: https://thmb.techidaily.com/c8e68cffef41fc4061ac722c7019bbd23a7bd7418
 
 **Download:** ChatGPT Prompt Genius for[Chrome](https://chrome.google.com/webstore/detail/chatgpt-history/jjdnakkfjnnbbckhifcfchagnpofjffo/) |[Firefox](https://addons.mozilla.org/en-US/firefox/addon/chatgpt-history/) (Free)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633309&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/3_premium-icon.png" border="0"> Take advantage of PREMIUM features for 12 months. 
-Create your texts / logos without any limitation. 
-No attribution required when downloading. 
-No advertising on the website. 
- TextStudio.com  PREMIUM - Yearly Membership</a>
-<!-- affiliate ads end -->
 ## 3\. ChatGPT Writer
 
  When someone sends a professional email your way for something like a meeting or a job opportunity, it's bad form to reply with a one or two-line email (even if that sums up everything you want to say). ChatGPT Writer takes your intended reply and generates a long, professional-sounding email message.
@@ -68,8 +62,9 @@ No advertising on the website.
  You can make it a simple and easy command; for example, "Write a reply to this email about my interest in the job and seek information about salary."
 
 ![an email reply using chatgpt writer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/chatgpt-writer-1.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=11224199&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/copy_boxshot_lyricvideo.png" border="0">Lyric Video Creator Professional Version</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  ChatGPT Writer will take a few seconds and then compose a long, professional message along those lines. You can change or edit any words within the box, or redo your prompt if it's not satisfactory. When you're happy with the result, insert it directly into the**Reply** box, and you're ready to send it.
@@ -79,8 +74,9 @@ No advertising on the website.
 **Download:** ChatGPT Writer for[Chrome](https://chrome.google.com/webstore/detail/chatgpt-writer-write-mail/pdnenlnelpdomajfejgapbdpmjkfpjkp/) (Free)
 
 <!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 4\. YouTube Summary With ChatGPT
 
  YouTube creators have the option to add a transcript of their full video or not. As a user, you have no control over this. Many times, all you want is a transcript to quickly browse through what the video is going to say so that you can know if it's worth your time.
@@ -90,6 +86,10 @@ No advertising on the website.
  Click any timestamp to be taken to that moment in the video. If you're already midway through the video, you can jump to the current time in the transcript. And you can copy-paste the transcript anywhere.
 
 ![using the 'transcript and summary box' from youtube summary extension](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/youtube-summary-extension.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  The extension also has a button to view an AI-generated summary of the video. Clicking this takes you to ChatGPT, with the transcript already typed in the prompt. All you have to do now is prompt ChatGPT to summarize the text, and you'll get an instant summary.
 
@@ -116,14 +116,12 @@ No advertising on the website.
 **Download:** ChatGPT for Search Engines for[Chrome](https://chrome.google.com/webstore/detail/chatgpt-for-search-engine/feeonheemodpkdckaljcjogdncpiiban/) |[Firefox](https://addons.mozilla.org/en-US/firefox/addon/chatgpt-for-search-engines/) |[Edge](https://microsoftedge.microsoft.com/addons/detail/chatgpt-for-search-engine/pnglghgjhaklojnjpkhcdidgalehmkbn) (Free)
 
 <!-- affiliate ads begin -->
-<a href="https://engwe.pxf.io/c/5597632/2093504/25579" target="_top" id="2093504"><img src="//a.impactradius-go.com/display-ad/25579-2093504" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2093504/25579" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 7\. Perplexity AI
 
 ![query answers by perplexity ai extension](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/perplexity-ai.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=33729450&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
-<!-- affiliate ads end -->
 
  The decentralization of information and knowledge has done much good in recent years. But, like anything in tech, it carries an ugly side to it, too. The rise of fake news and misinformation, for instance, is one of its biggest unwanted by-products.
 
@@ -139,14 +137,11 @@ No advertising on the website.
 
  Yes, the AI capabilities are amazing compared to what has existed before this, but ChatGPT isn't ready for prime-time yet. It still has a long way to go and depends largely upon the user keying in the right prompts. The data that it bases its answers on can also leave a lot to be desired in certain cases. For now, feel free to use it, but don't rely wholly on it, and take those results with a pinch of salt.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -155,4 +150,24 @@ No advertising on the website.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-lab.techidaily.com/op-5-gaming-headsets-for-youtube-for-2024/"><u>[New] Top 5 Gaming Headsets for YouTube for 2024</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-2024-approved-ultimate-handbook-for-using-googles-ai-for-transcription-in-word-processors/"><u>[Updated] 2024 Approved Ultimate Handbook for Using Google's AI for Transcription in Word Processors</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-from-basics-to-expertise-3d-lut-creation/"><u>[Updated] From Basics to Expertise 3D LUT Creation</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/2024-approved-crafting-instagram-magic-with-professional-edits/"><u>2024 Approved Crafting Instagram Magic with Professional Edits</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/decoding-amazon-prime-day-2024-insights-and-tips-for-savvy-shoppers/"><u>Decoding Amazon Prime Day 2024: Insights & Tips for Savvy Shoppers</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/easy-tips-for-capturing-audio-of-twitter-spaces-live-sessions-on-computers-and-phones/"><u>Easy Tips for Capturing Audio of Twitter Spaces Live Sessions on Computers & Phones</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/effortless-iso-file-compatibility-on-plex-fixing-playback-troubles-seamlessly/"><u>Effortless ISO File Compatibility on Plex - Fixing Playback Troubles Seamlessly</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/expert-review-navigating-the-latest-dvd-to-mkv-converters-for-windows-computers-whats-new/"><u>Expert Review: Navigating the Latest DVD to MKV Converters for Windows Computers - What's New ?</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/flash-file-mastery-easily-convert-videos-tofrom-swf-for-universal-compatibility/"><u>Flash File Mastery - Easily Convert Videos To/From SWF for Universal Compatibility</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/guide-on-effortlessly-transforming-mkv-videos-into-divx-for-free/"><u>Guide on Effortlessly Transforming MKV Videos Into DivX for Free</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/how-to-effortlessly-backup-free-youtube-content-on-your-google-drive/"><u>How to Effortlessly Backup Free YouTube Content on Your Google Drive</u></a></li>
+<li><a href="https://article-files.techidaily.com/lumafusion-tips-for-subtle-sound-reduction-for-2024/"><u>Lumafusion Tips for Subtle Sound Reduction for 2024</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/re-encode-video-to-desired-size-quality-format-etc/"><u>Re-Encode Video to Desired Size, Quality, Format, Etc.</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/red-carpet-rollouts-top-picks-for-iphone-filmmakers-choices/"><u>Red Carpet Rollouts Top Picks for iPhone Filmmakers' Choices</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/seamless-voice-chat-capture-with-telegram-tips-and-tricks-for-recording-across-various-gadgets/"><u>Seamless Voice Chat Capture with Telegram: Tips and Tricks for Recording Across Various Gadgets</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/top-10-news-aggregator-apps-dominating-2024/"><u>Top 10 News Aggregator Apps Dominating 2024</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/unveiling-the-mystery-whats-really-behind-elon-musks-truthgpt-project/"><u>Unveiling the Mystery: What's Really Behind Elon Musk's TruthGPT Project?</u></a></li>
+</ul></div>
 

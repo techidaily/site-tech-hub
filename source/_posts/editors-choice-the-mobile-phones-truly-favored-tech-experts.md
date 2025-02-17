@@ -1,7 +1,7 @@
 ---
 title: "Editor's Choice: The Mobile Phones Truly Favored Tech Experts"
-date: 2025-02-05T17:15:12.383Z
-updated: 2025-02-07T08:46:57.163Z
+date: 2025-02-14T16:22:50.970Z
+updated: 2025-02-16T19:10:28.867Z
 tags:
   - apple
 categories:
@@ -19,7 +19,7 @@ Curious about the favorite devices and phone buying habits of _ZDNet's_ tech rep
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vEYkX2NJgZw?si=IaHqlqJcYipwUOht" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **ZDNET** Recommends
@@ -52,10 +52,6 @@ Cons
 
 ## iPhone 12 Pro
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Jason Cipriani and Simon Bisson
 
 **Jason Cipriani:** I've almost always used an iPhone as my daily driver, but the iPhone 12 lineup has solidified it for me. The camera with improved portrait mode thanks to the Lidar sensor and HDR video is truly impressive. And MagSafe, which I thought was a gimmick, has turned into a very useful feature for me. Between the Shortcuts app and HomeKit devices around the house, there's not much I can't do from my phone. 
@@ -77,6 +73,10 @@ Pros
 
 Cons 
 * Lovely design with matte finish back 5G support for all bands Advanced multiple cameras S Pen support Competive pricing High end internal specifications
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Samsung Galaxy S21 Ultra
 
@@ -104,10 +104,6 @@ Cons
 
 ## iPhone 12 Pro Max
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jpdGEJJwMLY?si=eKgXOPpNeYvYKcel" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Matthew Miller
 
 **Matthew Miller:** After a couple years of favoring the smaller iPhone X and XS, I made the leap to the big iPhone 12 Pro Max. As a phone reviewer, I usually move my SIM along every month or so, but it's now been four months with this phone serving as my daily driver, and not even the best Samsung S21 Ultra can knock it from my hands. The built quality is fantastic, the cameras let me capture content to my heart's delight, and regular updates keep it running perfectly for me. The addition of 5G and move to Qualcomm was the icing on the cake that set the bar for all other phones.
@@ -117,10 +113,6 @@ Cons
 Show Expert Take Show less 
 
 ## iPhone SE (2020)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Greg Nichols, Aimee Chanthadavong, and David Grober
 
@@ -151,7 +143,7 @@ Cons
 ## iPhone 12
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Chris Matyszczyk
@@ -171,6 +163,10 @@ Cons
 * Fast performance New camera features Strong battery life
 
 ## iPhone 11 Pro
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Ed Bott
 
@@ -212,6 +208,10 @@ Show less
 
 [View now at Huawei P40 Pro](https://consumer.huawei.com/en/phones/p40-pro/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Huawei P20 Pro
 
 ### Federico Guerrini
@@ -229,14 +229,10 @@ Cons
 * Excellent photo quality Cool color options Long battery life Loud stereo speakers Wireless charging support
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## iPhone XR
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Damian Radcliffe, Angelica Mari, and Sean Portnoy
 
@@ -260,11 +256,11 @@ Show Expert Take Show less
 
 ###   
 
-###   
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Hpne0zPsZwU?si=yN5QDsG_WLb_Y3u-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+###   
 
 ## iPhone X
 
@@ -283,6 +279,10 @@ Pros
 
 Cons 
 * Best smartphone display Worthwhile camera improvements Battery life is solid
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/r_wWybMqZEM?si=0nPjCQDLS2MCaQbG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## iPhone XS Max
 
@@ -316,7 +316,15 @@ Purchased in 2016, I've had no reason to upgrade in four years. The thing does a
 
 **Next phone or dream phone?** I have no idea. I get overwhelmed by the amount of choice. It'll be an iPhone I guess. I'm used to them.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OdlXe5RELW0?si=Iz1H1QnLQVw-Eu3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Lumia 1520
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bofw6eJA7Bg?si=HM2gKZGH4L1otw3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Mary Branscombe
 
@@ -325,10 +333,6 @@ Yes, I am indeed still clinging to the phone that made me love phablets, upgrade
 **Next phone or dream phone?** An Arm-based Windows 10 phone with integrated Skype in a phablet form factor with 5G; while I hope that a project like Empirion can succeed, I'm not banking on it. But surely we need a third OS to balance Android and iOS as the government investigations continue?
 
 Show less 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/eMEJvwMM0vk?si=EQF_jo_4u9v5iJ_C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Samsung Galaxy Note 8
 
@@ -339,10 +343,6 @@ I've been using Samsung's Note 8 for several years now, despite having seen all 
 **Next phone or dream phone?** A 2021 flagship-class phone with an integrated thermal camera. A thermal camera is a great tool for jobs around the house/office and for seeking out wildlife after dark
 
 Show Expert Take Show less 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oB9V7rZzotw?si=d4xrCbq1jKHXGAWN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ###   
 
@@ -376,22 +376,18 @@ Show Expert Take Show less
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-navigating-instagrams-filter-features-for-high-quality-images-for-2024/"><u>[New] Navigating Instagram's Filter Features for High-Quality Images for 2024</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/new-pro-android-pixel-perfect-techniques/"><u>[New] Pro Android Pixel Perfect Techniques</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/new-the-ultimate-guide-to-import-photos-and-videos-into-windows-10-for-2024/"><u>[New] The Ultimate Guide to Import Photos & Videos Into Windows 10 for 2024</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/updated-in-2024-explore-creative-boundaries-with-high-quality-affects-plug-ins/"><u>[Updated] In 2024, Explore Creative Boundaries with High-Quality Affects Plug-Ins</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-multi-view-magic-is-splitcam-prime/"><u>[Updated] Multi-View Magic Is SplitCam Prime?</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/2024-approved-best-way-to-use-obs-live-stream-to-facebook/"><u>2024 Approved Best Way to Use OBS Live Stream to Facebook</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/erful-methods-to-make-money-on-your-youtube-shorts-for-2024/"><u>9 Powerful Methods to Make Money on Your YouTube Shorts for 2024</u></a></li>
-<li><a href="https://fox-that.techidaily.com/cure-5-common-iphone-issues-with-the-powerful-dfu-reset-technique/"><u>Cure 5 Common iPhone Issues with the Powerful DFU Reset Technique</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/download-your-favorite-songs-from-pandora-for-free-top-2-reliable-apps/"><u>Download Your Favorite Songs From Pandora for Free: Top 2 Reliable Apps</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/dvd-decrypter-dvd-ripping/"><u>DVD Decrypter ガイド：詳細な手順でDVD Ripping成功</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/easy-steps-how-to-download-and-transform-youtube-videos-into-m4v-files/"><u>Easy Steps: How to Download and Transform YouTube Videos Into M4V Files</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/expert-reviews-on-the-finest-aiff-to-mp3wavflac-transformers-comprehensive-compatibility-check/"><u>Expert Reviews on the Finest AIFF to MP3/WAV/FLAC Transformers – Comprehensive Compatibility Check</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/fast-no-cost-solutions-transform-your-3gp-videos-into-mp4-format-seamlessly/"><u>Fast, No-Cost Solutions: Transform Your 3GP Videos Into MP4 Format Seamlessly</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/gifpc/"><u>GIFアニメーションへの音楽追加手順：PC用ガイド</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/how-to-easily-download-footage-from-the-bbc-using-these-two-strategies/"><u>How To Easily Download Footage From the BBC Using These Two Strategies</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/learn-how-to-link-your-videoclips-for-free-in-windows/"><u>Learn How to Link Your Videoclips for Free in Windows</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/thor-vs-jormungandr-ragnaroks-eve/"><u>Thor vs Jormungandr Ragnarok's Eve</u></a></li>
+<li><a href="https://extra-information.techidaily.com/updated-comprehensive-overview-merging-srt-with-mp4-files-and-videos/"><u>[Updated] Comprehensive Overview Merging SRT with MP4 Files and Videos</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-cutting-edge-photography-apps-on-iphones-vs-androids-for-2024/"><u>[Updated] Cutting-Edge Photography Apps on iPhones vs Androids for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-masterclass-the-elite-group-of-top-10-free-artistic-youtube-platforms/"><u>[Updated] Masterclass The Elite Group of Top 10 Free Artistic YouTube Platforms</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/compact-powerhouse-how-the-new-mac-mini-with-m4-chips-competes-with-apple-tv-in-size-and-performance/"><u>Compact Powerhouse: How the New Mac Mini with M4 Chips Competes with Apple TV in Size and Performance</u></a></li>
+<li><a href="https://games-able.techidaily.com/exclusive-ea-play-hits-for-sony-console/"><u>Exclusive EA Play Hits for Sony Console</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ring-earning-potential-revenue-from-youtube-advertisements-in-2024/"><u>Exploring Earning Potential Revenue From YouTube Advertisements, In 2024</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/futures-finest-tablets-unveiled-the-ultimate-expert-guide-to-2024s-best-ipads/"><u>Future's Finest Tablets Unveiled: The Ultimate Expert Guide to 2024'S Best iPads</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-the-ultimate-guide-to-get-the-rare-candy-on-pokemon-go-fire-red-on-oppo-find-n3-flip-drfone-by-drfone-virtual-android/"><u>In 2024, The Ultimate Guide to Get the Rare Candy on Pokemon Go Fire Red On Oppo Find N3 Flip | Dr.fone</u></a></li>
+<li><a href="https://fox-that.techidaily.com/instant-remedies-for-dysfunctional-widgets-on-apple-touch-devices/"><u>Instant Remedies for Dysfunctional Widgets on Apple Touch Devices</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/stellar-data-recoverywindows/"><u>Stellar Data Recovery(ステラデータリカバリー)：Windowsユーザーのための優秀なフリーデータ回復ソリューション</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/the-complete-guide-to-restoring-your-rockstar-games-launcher-functionality/"><u>The Complete Guide to Restoring Your Rockstar Games Launcher Functionality</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/top-5-improvements-necessary-for-android-to-outshine-ios-in-the-smartphone-arena/"><u>Top 5 Improvements Necessary for Android to Outshine iOS in the Smartphone Arena</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/top-rated-ipad-peripherals-a-comprehensive-guide/"><u>Top-Rated iPad Peripherals : A Comprehensive Guide</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Mastering ChatGPT's Default Addons
-date: 2024-08-15T22:07:19.035Z
-updated: 2024-08-16T22:07:19.035Z
+date: 2025-02-13T18:49:44.770Z
+updated: 2025-02-16T23:56:56.460Z
 tags:
   - chatgpt
   - open-ai
@@ -36,13 +36,15 @@ thumbnail: https://thmb.techidaily.com/f495fdc30704bb5311bdcea6bec28c308373dbaff
  While building out a single report can be handy, useful trends are more visible over long periods of time. Building dashboards to[visualize data trends](https://www.makeuseof.com/how-to-use-scatter-plot-predict-data-behavior-microsoft-excel/) and raise red flags immediately when things go wrong is still a highly valuable skill.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087264/19272" target="_top" id="2087264"><img src="//a.impactradius-go.com/display-ad/19272-2087264" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087264/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 2\. Customizable Report Creation in Excel
 
 ![A laptop sitting on a desk showing a data dashboard. There are several graphs showing and some other various data on screen.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/data-dashboard.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=27889512&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/728__90.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  While a single report is simple to create with ChatGPT, a set of data frozen in time isn’t always beneficial. One of the most potent abilities that Excel gives us the ability to create reports that the reader can instantly customize.
@@ -58,13 +60,15 @@ thumbnail: https://thmb.techidaily.com/f495fdc30704bb5311bdcea6bec28c308373dbaff
  Make your reports more useful by adding some[simple Excel features](https://www.makeuseof.com/essential-excel-functions/) . Ensure your reports can pull variable timeframes, highlight potential problems automatically, and sanitize data for long-term storage and flexibility.
 
 <!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1892108/21290" target="_top" id="1892108"><img src="//a.impactradius-go.com/display-ad/21290-1892108" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892108/21290" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bofw6eJA7Bg?si=HM2gKZGH4L1otw3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 3\. Easy-to-Use Forms in Excel
 
 ![Man in black suit sitting in front of a computer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/02/pexels-kampus-production-8353777.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653853&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bcb41ccdc4363c6848a1d760f26c28a0/products/14_videoproc-converter-ai-box.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Forms are another great Excel option for those looking for value that ChatGPT can’t provide. Entering information manually can be time-consuming and frustrating. Giving end users the option to enter data independently as it arises frees up time and energy better spent analyzing the results.
@@ -76,8 +80,9 @@ thumbnail: https://thmb.techidaily.com/f495fdc30704bb5311bdcea6bec28c308373dbaff
  For those looking to blend forms and long-term data storage, looking into different ways to export data from Excel is essential. Learning how to take data from an entry form to a SQL database can help insulate your job and keep your work essential.
 
 <!-- affiliate ads begin -->
-<a href="https://modlily.sjv.io/c/5597632/2072819/17059" target="_top" id="2072819"><img src="//a.impactradius-go.com/display-ad/17059-2072819" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072819/17059" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## ChatGPT Isn’t Going to Automate You Out of a Job Yet
 
  Excel has many tasks that are still beyond the range of ChatGPT and its cohort of machine learning-driven knockoffs. With new advancements increasing at an alarming rate, it’s all too easy to worry that automation may be aiming for your job next.
@@ -86,14 +91,11 @@ thumbnail: https://thmb.techidaily.com/f495fdc30704bb5311bdcea6bec28c308373dbaff
 
  Learning how to create customizable reports and forms that enable data entry in Excel can help preserve your job. For those concerned that their position may be facing automation, there are still plenty of Excel skills out of AI’s range of ability for the foreseeable future.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -102,4 +104,21 @@ thumbnail: https://thmb.techidaily.com/f495fdc30704bb5311bdcea6bec28c308373dbaff
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-techniques.techidaily.com/new-funimate-on-your-phone-unzipping-the-apk-guide/"><u>[New] Funimate on Your Phone Unzipping the APK Guide</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/amd-radeon-hd-6950-graphics-drivers-update-on-windows-11/"><u>AMD Radeon HD 6950 Graphics Drivers Update on Windows 11</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/assessing-the-pros-and-cons-why-consider-a-localized-llm-solution/"><u>Assessing the Pros and Cons: Why Consider a Localized LLM Solution</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/discover-the-leading-6-giant-language-models-revolutionizing-ai/"><u>Discover the Leading 6 Giant Language Models Revolutionizing AI</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/groundbreaking-release-openai-unveils-revolutionary-gpt-4-ai-system/"><u>Groundbreaking Release: OpenAI Unveils Revolutionary GPT-4 AI System</u></a></li>
+<li><a href="https://extra-information.techidaily.com/high-speed-windows-photoviewer/"><u>High-Speed Windows Photoviewer</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-detect-and-stop-mspy-from-spying-on-your-nokia-c300-drfone-by-drfone-virtual-android/"><u>In 2024, How to Detect and Stop mSpy from Spying on Your Nokia C300 | Dr.fone</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/navigating-ai-wisely-unveiling-six-key-issues-you-should-be-aware-of/"><u>Navigating AI Wisely: Unveiling Six Key Issues You Should Be Aware Of</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/not-only-patience-find-out-about-a-superb-open-source-chatbot-replacement-today/"><u>Not Only Patience: Find Out About a Superb Open-Source Chatbot Replacement Today!</u></a></li>
+<li><a href="https://fox-zaraz.techidaily.com/resolving-unexpected-windows-system-lock-ups-guidance-and-solutions-by-yl-software-experts/"><u>Resolving Unexpected Windows System Lock-Ups: Guidance and Solutions by YL Software Experts</u></a></li>
+<li><a href="https://techtrends.techidaily.com/step-by-step-guide-overcoming-the-network-unregistered-error-on-samsung-smartphones/"><u>Step-by-Step Guide: Overcoming the 'Network Unregistered' Error on Samsung Smartphones</u></a></li>
+<li><a href="https://win-updates.techidaily.com/tutorial-proteggi-le-tue-foto-tramite-crittografia-usando-aomei-backupper-pro-volume-backup/"><u>Tutorial: Proteggi Le Tue Foto Tramite Crittografia Usando AOMEI Backupper Pro Volume Backup</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/unleashing-instagrams-filter-power-free-searches-revealed/"><u>Unleashing Instagram's Filter Power – Free Searches Revealed</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/unveiling-9-potential-pitfalls-of-artificial-intelligence-for-emotional-well-being-assistance/"><u>Unveiling 9 Potential Pitfalls of Artificial Intelligence for Emotional Well-Being Assistance</u></a></li>
+</ul></div>
 

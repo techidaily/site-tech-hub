@@ -1,7 +1,7 @@
 ---
 title: Bing Enhances Search Capabilities Through Microsoft'n New AI Features
-date: 2024-08-15T22:07:02.573Z
-updated: 2024-08-16T22:07:02.573Z
+date: 2025-02-13T22:01:58.733Z
+updated: 2025-02-16T17:18:19.937Z
 tags:
   - chatgpt
   - open-ai
@@ -15,6 +15,10 @@ thumbnail: https://thmb.techidaily.com/ffbfddf161d0ac60a22be92f9cba6a955de35f0f8
 
 ## Explore the Fresh Capabilities Now Available in ChatGPT
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Quick Links
 
 * [Image Input and Output Capabilities](https://www.makeuseof.com/chatgpt-new-features-spring-update/#image-input-and-output-capabilities)
@@ -23,9 +27,6 @@ thumbnail: https://thmb.techidaily.com/ffbfddf161d0ac60a22be92f9cba6a955de35f0f8
 * [Upgraded Code Analysis](https://www.makeuseof.com/chatgpt-new-features-spring-update/#upgraded-code-analysis)
 * [Temporary Chat](https://www.makeuseof.com/chatgpt-new-features-spring-update/#temporary-chat)
 
-<!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1872496/14483" target="_top" id="1872496"><img src="//a.impactradius-go.com/display-ad/14483-1872496" border="0" alt="" width="750" height="625"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872496/14483" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Key Takeaways
 
 * ChatGPT now converses with image inputs and outputs, providing accurate results and generated images in its responses.
@@ -34,6 +35,10 @@ thumbnail: https://thmb.techidaily.com/ffbfddf161d0ac60a22be92f9cba6a955de35f0f8
 
  OpenAI's early May 2024 ChatGPT update was enormous, bringing heaps of new features to the world's leading generative AI chatbot. Most of the improvements center around enhancing user interaction, new functionalities, and improving overall performance, and there are heaps of reasons why you should give them a try.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Image Input and Output Capabilities
 
  ChatGPT is now capable of taking images as input and generating images as output! The new image input capability allows users to upload images directly into their chat interactions with ChatGPT. This feature expands the ways users can seek help and share information, making it possible to discuss visual content seamlessly.
@@ -41,9 +46,6 @@ thumbnail: https://thmb.techidaily.com/ffbfddf161d0ac60a22be92f9cba6a955de35f0f8
  In this example, I asked ChatGPT for recipes for the items visible in the fridge.
 
 ![Asking ChatGPT to identify and make recipes for ingredients based on an image](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/asking-chatgpt-for-recipes.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=174416&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.easygifanimator.net/images/gif-animator.png" border="0">Easy GIF Animator is a powerful animated GIF editor and the top tool for creating animated pictures, banners, buttons and GIF videos. You get extensive animation editing features, animation effects, unmatched image quality and optimization for the web. No other GIF animation software matches our features and ease of use, that's why Easy GIF Animator is so popular.</a>
-<!-- affiliate ads end -->
 
  It gave me some pretty accurate results in identifying items in the fridge and giving recipes I could make using the ingredients identified.
 
@@ -66,13 +68,14 @@ I asked ChatGPT what MakeUseOf would look like if it were a robot.
  I asked ChatGPT to check the Saturday weather forecast and advise whether I should reschedule my activities based on the weather update.
 
 ![Using ChatGPT as an AI assistant using memory and web browsing features](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/using-chatgpt-as-assistant-using-expanded-knowledge-base-1-1.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537547&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/vcfpro.png" border="0">Video Converter Factory Pro</a>
-<!-- affiliate ads end -->
 
  ChatGPT provided sound advice by browsing the web for the weather and reviewing its memory of my schedule. It even gave me a list of activities I could do instead based on my past interactions with ChatGPT.
 
  The browsing capability feature is now available for both Plus and Free tier users, while ChatGPT Memory is only available to Plus users.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Multi-Modal Voice and Video Interactions
 
@@ -85,8 +88,9 @@ I asked ChatGPT what MakeUseOf would look like if it were a robot.
  GPT-4o's voice interaction is available to all users using the ChatGPT Android/iOS app. However, the video interaction feature is unavailable at the time of writing but is expected to roll out in the near future.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0nGlyEL5K6Y?si=3KZhTTBvKcPmyS68" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Upgraded Code Analysis
 
  The previous ChatGPT Code Interpreter is now called Advanced Data Analysis (ADA). Since it is already out of beta and ChatGPT plugins are no longer available, ADA is now an integrated feature within both ChatGPT-4 and ChatGPT-4o, and both Free and Plus tier users now have this feature. No plugin or activation is needed; simply prompt ChatGPT to run, analyze, or write code, and it should do the rest for you.
@@ -94,20 +98,18 @@ I asked ChatGPT what MakeUseOf would look like if it were a robot.
  Here, I’ve given ChatGPT-4o an SQL file containing a database from an e-commerce project and asked it to analyze and graph the top products commonly ordered.
 
 ![Using-ChatGPT-Advanced-Data-Analysis](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/using-chatgpt-advanced-data-analysis.jpg)
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407"><img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  I already knew the numbers before running it using ADA on ChatGPT-4o, so I know the provided graph is accurate. However, running it on ChatGPT-4 continually gave me errors, was slow, and never really provided me with the graph. So, although ADA is not functionally different from the old code interpreter, running ADA right on ChatGPT-4o was certainly easier, faster, and smarter.
 
  OpenAI's demonstrations also showed live code debugging using voice commands, which is another enormous upgrade for ChatGPT. Instead of having to type commands and work bit by bit, live interactions with your code could speed up the process.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uzb-0C0xUYA?si=F4MPhdVqyVgx7_8X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Temporary Chat
 
 ![ChatGPT's new temporary chat feature](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/chatgpt-s-temporary-chat-feature.png)
-<!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453720/17020" target="_top" id="1453720"><img src="//a.impactradius-go.com/display-ad/17020-1453720" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453720/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  The new Temporary Chat feature in ChatGPT-4o is ideal for privacy-conscious users and those seeking quick interactions with ChatGPT. This feature enables users to engage in a temporary chat with ChatGPT without the conversation being saved in history or used by OpenAI to train their models.
 
@@ -115,14 +117,11 @@ I asked ChatGPT what MakeUseOf would look like if it were a robot.
 
  The latest updates to ChatGPT introduce a host of features that cater to a wide range of user needs, from enhanced interactivity and data analysis to real-time information access and personalized experiences. Whether you're a professional, student, or casual user, these features offer powerful new ways to leverage ChatGPT for improved productivity, learning, and everyday convenience.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -131,4 +130,22 @@ I asked ChatGPT what MakeUseOf would look like if it were a robot.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-links.techidaily.com/new-ace-the-art-of-tiktok-unboxing-more-likes-less-effort/"><u>[New] Ace the Art of TikTok Unboxing More Likes, Less Effort</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-perfect-color-accuracy-in-canon-imagery-with-free-and-paid-lut-combinations/"><u>[New] Perfect Color Accuracy in Canon Imagery with Free & Paid LUT Combinations</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-navigating-through-quantum-hdr-expertise/"><u>[Updated] Navigating Through Quantum HDR Expertise</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-twilight-tones-adobe-premiere-blackouts/"><u>[Updated] Twilight Tones Adobe Premiere Blackouts</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-mastering-videoshow-app-a-complete-guide-for-24/"><u>2024 Approved Mastering VideoShow App - A Complete Guide for '24</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/avoiding-phony-friend-requests-in-the-digital-realm-strategies-for-safety/"><u>Avoiding Phony Friend Requests in the Digital Realm: Strategies for Safety</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/crafting-the-ultimate-auto-experience-through-ai-assistance/"><u>Crafting the Ultimate Auto Experience Through AI Assistance</u></a></li>
+<li><a href="https://win11.techidaily.com/eradicating-error-3-in-windows-nvidia-opengl-guide/"><u>Eradicating Error 3 in Windows: Nvidia OpenGL Guide</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/from-concept-to-canvas-the-artists-guide-to-using-chatgpt-for-innovative-image-generation/"><u>From Concept to Canvas: The Artist's Guide to Using ChatGPT for Innovative Image Generation</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/from-novice-to-gourmet-discover-7-innovative-ways-chatgpt-elevates-home-cooking/"><u>From Novice to Gourmet: Discover 7 Innovative Ways ChatGPT Elevates Home Cooking</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/24-maximizing-your-footage-the-importance-of-correct-tripod-placement-in-vlogging/"><u>In 2024, Maximizing Your Footage The Importance of Correct Tripod Placement in Vlogging</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/next-level-ai-assistants-7-robust-options-replacing-chatgpt-on-ios-and-android/"><u>Next-Level AI Assistants: 7 Robust Options Replacing ChatGPT on iOS and Android</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/secure-your-spot-in-digital-communication-hubs-without-phone-numbers-joining-chatgpt-telegram-and-whatsapp-easily/"><u>Secure Your Spot in Digital Communication Hubs without Phone Numbers: Joining ChatGPT, Telegram, and WhatsApp Easily!</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/the-intricacies-of-bypassing-chatgpt-constraints/"><u>The Intricacies of Bypassing ChatGPT Constraints</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/why-cant-i-join-now-unveiling-the-reasons-behind-chatgpts-closed-registrations-and-their-resumption-timeline/"><u>Why Can't I Join Now? Unveiling the Reasons Behind ChatGPT's Closed Registrations and Their Resumption Timeline</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Freelancer's Guide to Enhancing Your Job Through Six Uses of ChatGPT Technology
-date: 2024-08-15T22:07:11.363Z
-updated: 2024-08-16T22:07:11.363Z
+date: 2025-02-11T20:42:05.748Z
+updated: 2025-02-16T16:24:39.736Z
 tags:
   - chatgpt
   - open-ai
@@ -41,8 +41,9 @@ thumbnail: https://thmb.techidaily.com/75094493d16f2bbfba5ddd3606d844bb40194fe95
  The chat will disappear from the sidebar immediately. To access it, you'll need to head to the ChatGPT settings menu, which we'll cover below.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40085955&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f702defbc67edb455949f46babab0c18/products/2_logo9.png" border="0">FX PRO (Gold Robot + Silver Robot(Basic Package))</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### How to View Your Hidden ChatGPT Chats on the Web
 
  Whether you want to access a hidden chat or wish to unarchive a conversation, you can follow the steps below:
@@ -55,8 +56,9 @@ thumbnail: https://thmb.techidaily.com/75094493d16f2bbfba5ddd3606d844bb40194fe95
 4. To view a hidden chat, simply click on the name of the chat. However, to unhide it, click the**Unarchive conversation** button (next to the**Trash** icon).
 
 ![Unarchiving conversation in ChatGPT web](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/12/unarchiving-conversation-in-chatgpt-web.png)
+
 <!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2048972/16384" target="_top" id="2048972"><img src="//a.impactradius-go.com/display-ad/16384-2048972" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048972/16384" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Do remember that anyone can access your hidden ChatGPT conversations by heading to the same menu, as they're not locked behind a password.
@@ -74,18 +76,20 @@ thumbnail: https://thmb.techidaily.com/75094493d16f2bbfba5ddd3606d844bb40194fe95
 
 ![Long-pressing a conversation from the ChatGPT sidebar](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/12/long-pressing-a-conversation-from-the-chatgpt-sidebar.png)
 
-![Archive confirmation in the ChatGPT app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/12/archive-confirmation-in-the-chatgpt-app.png)
 <!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/1853659/21526" target="_top" id="1853659"><img src="//a.impactradius-go.com/display-ad/21526-1853659" border="0" alt="" width="1920" height="750"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1853659/21526" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4YCkNXJjC3c?si=9Tn8KiqKGTZi1o7E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+![Archive confirmation in the ChatGPT app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/12/archive-confirmation-in-the-chatgpt-app.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Close
 
  If you don't see the**Archive** option, make sure your app is updated. Once you archive a chat, you won't be able to find it by searching for it from the sidebar.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068411/7443" target="_top" id="2068411"><img src="//a.impactradius-go.com/display-ad/7443-2068411" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068411/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### How to View Your Hidden Chats in the ChatGPT App
 
  Like the web version of ChatGPT, you need to head to ChatGPT's settings menu to access your archived chats. Here's what you need to do:
@@ -96,19 +100,14 @@ Close
 4. If you choose the latter, you'll be prompted to confirm. Tap**Unarchive** again.
 
 ![ChatGPT app sidebar](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/12/chatgpt-app-sidebar.png)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2014/02/Project-Manager-3D-Models-4-800x800.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
-<!-- affiliate ads end -->
 
 ![ChatGPT app settings menu](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/12/chatgpt-app-settings-menu.png)
+
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407"><img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_SbYznUy_zY?si=ThBkP934r3mizi48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![Archived chats in the ChatGPT app](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/12/archived-chats-in-the-chatgpt-app.png)
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 
 Close
 
@@ -118,14 +117,11 @@ Close
 
  While archiving is a great way to organize your secret conversations with ChatGPT, it's not a perfect solution like[using ChatGPT Folders to sort all your chats](https://www.makeuseof.com/how-to-use-chatgpt-folders-to-manage-chatgpt-conversations/) . It'd be nice if OpenAI let users lock archived chats behind a password for extra protection in a future update.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -134,4 +130,22 @@ Close
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-webster.techidaily.com/ffective-approach-to-swiftly-eliminate-video-comments/"><u>[New] Effective Approach to Swiftly Eliminate Video Comments</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-legal-zen-melodies-your-guide-to-soothing-soundtracks/"><u>[Updated] Legal Zen Melodies – Your Guide to Soothing Soundtracks</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-prime-pc-idle-gaming-selections-for-2024/"><u>[Updated] Prime PC Idle Gaming Selections for 2024</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/boost-your-teams-output-integrating-chatgpt-into-daily-operations/"><u>Boost Your Team's Output: Integrating ChatGPT Into Daily Operations</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/cant-use-chatgpt-on-iphone-discover-these-essential-9-fixes/"><u>Can't Use ChatGPT on iPhone? Discover These Essential 9 Fixes</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/chatgpts-latest-updates-global-perks/"><u>ChatGPT's Latest Updates: Global Perks</u></a></li>
+<li><a href="https://driver-download.techidaily.com/download-and-install-intel-wi-fi-6-ax200-compatible-drivers-on-windows-10-and-11-computers/"><u>Download & Install Intel Wi-Fi 6 (AX200) Compatible Drivers on Windows 10 and 11 Computers</u></a></li>
+<li><a href="https://common-error.techidaily.com/guardian-setting-for-peaceful-windows-11-rest/"><u>Guardian Setting for Peaceful Windows 11 Rest</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/how-to-come-up-with-the-best-pokemon-team-on-google-pixel-fold-drfone-by-drfone-virtual-android/"><u>How to Come up With the Best Pokemon Team On Google Pixel Fold? | Dr.fone</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/identifying-bingchatgpt-cryptocurrency-fraud-schemes-a-comprehensive-guide/"><u>Identifying BingChatGPT Cryptocurrency Fraud Schemes: A Comprehensive Guide</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-find-ispoofer-pro-activation-key-on-apple-iphone-6-drfone-by-drfone-virtual-ios/"><u>In 2024, How to Find iSpoofer Pro Activation Key On Apple iPhone 6? | Dr.fone</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/stop-side-by-side-siri-and-chatgpt-what-separates-them/"><u>Stop Side-by-Side Siri & ChatGPT: What Separates Them?</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/transforming-document-production-leveraging-the-power-of-chatgpt-in-microsoft-word-environments/"><u>Transforming Document Production: Leveraging the Power of ChatGPT in Microsoft Word Environments</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/unleash-the-potential-a-comprehensively-curated-list-of-nft-creating-engines/"><u>Unleash the Potential A Comprehensively Curated List of NFT-Creating Engines</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/unlocking-creativity-with-nvidias-modular-artificial-intelligence-understanding-its-user-base/"><u>Unlocking Creativity with NVIDIA's Modular Artificial Intelligence - Understanding Its User Base</u></a></li>
+</ul></div>
 

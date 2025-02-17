@@ -1,7 +1,7 @@
 ---
 title: The Mechanics of Prompt Injection in Artificial Intelligence Systems
-date: 2024-08-15T22:09:10.315Z
-updated: 2024-08-16T22:09:10.315Z
+date: 2025-02-09T18:39:25.748Z
+updated: 2025-02-16T17:10:56.457Z
 tags:
   - chatgpt
   - open-ai
@@ -31,27 +31,20 @@ thumbnail: https://thmb.techidaily.com/c6048430c1339bc95d70af5b42f06e3231c3552b0
 
 ![Screenshot of New Bing Introduction](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/screenshot-of-new-bing-introduction.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2En1CHbiYwA?si=jZKzTr9EIT2ShjGK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  The process with ChatGPT is even simpler. First, you will need to create an[OpenAI](https://chat.openai.com/auth/login) account. Once created, you can use ChatGPT from any supported browser. This multi-browser compatibility marks the first notable difference. Bing Chat does offer a form of multi-browser support but with limited functionality.
 
 ![Screenshot of ChatGPT home screen](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/screenshot-of-chatgpt-home-screen.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://checkout.mirillis.com/order/checkout.php?PRODS=4704640&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/547a5a56d43f6d40f9a6a2f76501d013/products/1_mirillis_action_boxshot_store_1x.jpg" border="0">
-	Home Use license is dedicated for personal, non-commercial use only. 
-	If Action! is used for commercial gain or to further any commercial purpose, 
-	a Commercial Use license is required. Multi-license (volume discount) is intended for single 
- 
-	company, user or members of the same household. Action! - screen and game recorder</a>
-<!-- affiliate ads end -->
 ## Comparing the Language Models of Bing Chat and ChatGPT
 
  One of the fundamental differences between the chatbots is the language model they use. Currently, free ChatGPT users are restricted to GPT-3.5, with the much-hyped GPT-4 only available to premium users.
 
  Bing Chat uses the latest version of the language model, GPT-4\. However, there are some[key differences between GPT-4 and GPT-3.5](https://www.makeuseof.com/gpt-4-vs-gpt-35-differences-explained/) :
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399"><img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Creativity
 
  Both have levels of creativity that are testimony to the heights that AI has reached. However, creativity is a difficult metric to measure, and the tests we tried showed GPT-3.5 is close to GPT-4 in simple creative tasks.
@@ -63,8 +56,9 @@ For example, below is Bing Chat's effort at a simple limerick.
  As you see from the ChatGPT effort below, both models can construct creative prose remarkably well.
 
 ![Screenshot of ChatGPT Limerick-1](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/screenshot-of-chatgpt-limerick-1.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://lightailing.sjv.io/c/5597632/1725213/17190" target="_top" id="1725213"><img src="//a.impactradius-go.com/display-ad/17190-1725213" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1725213/17190" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zXUt81WsQpI?si=W3DKIAsa2-qbGadJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Safety
@@ -76,16 +70,14 @@ For example, below is Bing Chat's effort at a simple limerick.
  The ability to process image data is also a new feature in GPT-4\. However, this feature currently isn't integrated into Bing Chat, so it isn't covered here. The other major difference is the accuracy of the response. This is covered next.
 
 <!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453719/17020" target="_top" id="1453719"><img src="//a.impactradius-go.com/display-ad/17020-1453719" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453719/17020" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iPCr_bxZjMQ?si=ubOsoq5umPEXL9xL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## How Accurate Are Bing Chat and ChatGPT
 
  Both platforms go to pains to make users aware that the models may generate responses that contain incorrect information. This is clearly displayed on both interfaces.
 
 ![Screenshot of GPT limitations for bin and chatgpt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/screenshot-of-gpt-limitations-for-bin-and-chatgpt.jpg)
-<!-- affiliate ads begin -->
-<a href="https://mindmanager.sjv.io/c/5597632/1787667/20231" target="_top" id="1787667"><img src="//a.impactradius-go.com/display-ad/20231-1787667" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1787667/20231" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Bing Chat has a distinct advantage here. The GPT-4 model has the twin advantages of access to more recent data and multiple sources of information. By contrast, the GPT-3.5/GPT-4 dataset was cut off at the end of 2021, and though it has received some topical updates, it is limited.
 
@@ -99,11 +91,12 @@ By contrast, the ChatGPT response was to admit its limitations.
 
 ![Screenshot of ChatGPT response to recycling question](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/screenshot-of-chatgpt-response-to-recycling-question.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  The answer tries to provide estimates and other sources that could be referenced, but there are no hard and fast facts.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152835&QTY=1&AFFILIATE=108875&CART=1"><img src="https://download.terabyteunlimited.com/banners/ad_800x450_d.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## Comparing the Interfaces of ChatGPT and Bing Chat
 
  There are similarities across both interfaces, which reflects their shared pedigree. For example, both have a simple search box and offer the option to regenerate a response after providing an answer.
@@ -116,12 +109,13 @@ By contrast, the ChatGPT response was to admit its limitations.
 
 ![Screenshot of Bing Chat response to education query](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/screenshot-of-bing-chat-response-to-education-query.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  As you can see, the response included links to the listed websites. Compare this to the ChatGPT response:
 
 ![Screenshot of ChatGPT list of educational websites](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/screenshot-of-chatgpt-list-of-educational-websites.jpg)
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 
 ## Which Is Best: Bing Chat or Chat GPT?
 
@@ -141,18 +135,19 @@ By contrast, the ChatGPT response was to admit its limitations.
 
  Ultimately, this is a case of choosing the right tool for the job. The beauty of this is that both platforms are free, so trying them both is quick and easy.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Chatbots Are Here to Stay
 
  As AI chatbots become more widespread, the differences between these early adopters will only continue to widen. However, by understanding the unique features of each platform, users can choose the chatbot that best suits their needs.
-
 
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -161,4 +156,22 @@ By contrast, the ChatGPT response was to admit its limitations.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://snapchat-videos.techidaily.com/new-in-2024-effortless-image-and-video-integration-microsoft-teams-snap-camera/"><u>[New] In 2024, Effortless Image and Video Integration Microsoft Teams Snap Camera</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/spotifyapple-musicand/"><u>「SpotifyやApple Musicなどのサブスクリプションで聞ける曲をダウンロード&保管するコツ」</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/2024-approved-the-ultimate-handbook-obspluszoom-collaboration/"><u>2024 Approved The Ultimate Handbook OBS+Zoom Collaboration</u></a></li>
+<li><a href="https://os-tips.techidaily.com/effortless-expansion-master-the-art-of-unzipping-archives-on-iphone-and-ipad/"><u>Effortless Expansion: Master the Art of Unzipping Archives on iPhone & iPad</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-is-gsm-flasher-adb-legit-full-review-to-bypass-your-xiaomi-redmi-note-12-4g-phone-frp-lock-by-drfone-android/"><u>In 2024, Is GSM Flasher ADB Legit? Full Review To Bypass Your Xiaomi Redmi Note 12 4G Phone FRP Lock</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-the-power-of-popularity-in-stock-images-and-stories/"><u>In 2024, The Power of Popularity in Stock Images & Stories</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/learn-how-to-restrict-youtube-viewing-on-apples-device/"><u>Learn How to Restrict YouTube Viewing on Apple's Device</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/playing-music-on-amazon-kindle-fire-stick-a-simple-step-by-step-instruction-for-mp3-files/"><u>Playing Music on Amazon Kindle Fire Stick - A Simple Step-by-Step Instruction for MP3 Files</u></a></li>
+<li><a href="https://facebook.techidaily.com/propel-your-presence-profitably-top-5-monetization-tactics-on-fbig/"><u>Propel Your Presence Profitably: Top 5 Monetization Tactics on FB/IG</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/seamlessly-watching-mkv-videos-on-xbox-one-ultimate-tricks-and-tips-revealed/"><u>Seamlessly Watching MKV Videos on Xbox One: Ultimate Tricks & Tips Revealed</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/simple-methods-for-reducing-the-size-of-mp4-videos/"><u>Simple Methods for Reducing the Size of MP4 Videos</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/step-by-step-guide-to-capturing-4k-60hz-clips-from-youtube/"><u>Step-by-Step Guide to Capturing 4K @ 60Hz Clips From YouTube</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/step-by-step-guide-converting-ac3-audio-files-into-wav-format-both-online-and-offline/"><u>Step-by-Step Guide: Converting AC3 Audio Files Into WAV Format Both Online & Offline</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/step-by-step-guide-how-can-you-save-your-favorite-trovo-content/"><u>Step-by-Step Guide: How Can You Save Your Favorite Trovo Content?</u></a></li>
+<li><a href="https://article-posts.techidaily.com/the-ultimate-playbook-iphone-downloading-for-podcast-enthusiasts/"><u>The Ultimate Playbook IPhone Downloading for Podcast Enthusiasts</u></a></li>
+</ul></div>
 

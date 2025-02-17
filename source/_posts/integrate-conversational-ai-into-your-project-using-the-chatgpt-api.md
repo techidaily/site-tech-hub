@@ -1,7 +1,7 @@
 ---
 title: Integrate Conversational AI Into Your Project Using the ChatGPT API
-date: 2024-08-15T22:10:04.881Z
-updated: 2024-08-16T22:10:04.881Z
+date: 2025-02-11T16:22:46.858Z
+updated: 2025-02-16T19:54:23.590Z
 tags:
   - chatgpt
   - open-ai
@@ -24,8 +24,9 @@ thumbnail: https://thmb.techidaily.com/7d12c1a2b9062c22c49da3112113895938f2f8420
  To compare Google Bard and Bing AI Chat, we derived a simple test. We used them to conduct research for an imaginary article on atmospheric CO2 levels and climate change. This enabled us to draw comparisons on several metrics, including the quality and size of the response, the accuracy of the data, and ease of use.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-platform-ui-1280@1x.avif" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Bing Chat vs. Google Bard: Response Quality
 
  We began by asking both platforms an identical question: "How do modern-day CO2 levels compare to the last ice age?"
@@ -37,10 +38,6 @@ thumbnail: https://thmb.techidaily.com/7d12c1a2b9062c22c49da3112113895938f2f8420
  As you can see, the answer seems comprehensive and details current and historic CO2 levels in parts per million (PPM). By contrast, Bing Chat took a different approach.
 
 ![Screenshot Bing responding to CO2 Levels](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/screenshot-bing-responding-to-co2-levels.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152810&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/842ca578342915ccb8ae069595ba7233/products/copy_bootit-ss1_178x139.jpg" border="0">The BootIt Collection covers multi-booting, partitioning, and disk imaging on traditional PC's using the standard BIOS and  newer PC's using UEFI.   The collection includes BootIt Bare Metal (BIBM) for standard BIOS systems and BootIt UEFI (BIU) for UEFI system. 
-</a>
-<!-- affiliate ads end -->
 
  The first notable difference is the approach taken in quantifying CO2 levels. Rather than list CO2 levels in terms of ppm, Bing Chat presented the data in terms of percentages.
 
@@ -71,26 +68,29 @@ thumbnail: https://thmb.techidaily.com/7d12c1a2b9062c22c49da3112113895938f2f8420
  Perhaps more telling was another issue we found when testing the tools. We found ourselves puzzled by Bard's response to a simple request to "write some bullet points for a blog on global warming." This should be a request that any chatbot should handle. But, as you can see, Bard seemed confused by the request.
 
 ![Bard responding to requests for bullet points](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/bard-responding-to-requests-for-bullet-points.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BOutlook%2BRecovery"><img src="https://www.systoolsgroup.com/box/outlook-recovery.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Whereas Bing Chat handled the request perfectly and responded with some bullet points.
 
 ![Bing Chat Screenshot Global Warming Blog Points](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/bing-chat-screenshot-global-warming-blog-points.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713324&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVTV1.90-300x188.jpg" border="0">OtsAV TV Webcaster</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 We did manage to get a response from Bard by rewording the prompt.
 
 ![Screenshot of bard response to reworded essay prompt](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/screenshot-of-bard-response-to-reworded-essay-prompt.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fm0XhU5H8R4?si=cFPk6XK3X3CQSI7Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  As both platforms are going through rapid development, the user experience will continue to improve.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4530091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/cit_win/banScrn.jpg" border="0">CollageIt Pro</a>
-<!-- affiliate ads end -->
 ## What Are the Differences Between the Language Models?
 
  The last major difference regards the "engines" that power both platforms. These Large Language Models (LLMs) are the underpinning technology. We don't need to go into great detail, but LLMs are important when choosing a platform.
@@ -105,6 +105,10 @@ We did manage to get a response from Bard by rewording the prompt.
 
 ![confused-880735_1920](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/confused-880735_1920.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  This is a case of choosing the right tool for the right job. When we compare the performance of both platforms, Bing Chat seems to edge it. However, there are some provisos to consider. The first is that the Microsoft offering is a more complete product, while Bard is still rough around the edges.
 
  But don't rule Bard out. We liked the more fact-driven approach that Google Bard took; the inclusion of ppm levels of CO2 was closer to the spirit of the original question than the Bing response. This is what we would expect to see, given its underlying architecture.
@@ -117,23 +121,17 @@ We did manage to get a response from Bard by rewording the prompt.
 
  They're free to use, so we advise trying them both. These are impressive tools that are changing the way we use the internet.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=35038891&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.dupinout.com/wp-content/uploads/2021/12/DupInOut-New-Duplicate-Scan-Tab.png" border="0"></a>
-<!-- affiliate ads end -->
 ## The Era of the Chatbot Is Upon Us
 
  Regardless of the flaws we found and our quibbles with the chatbots, these are amazing technological feats that will play an ever-increasing part in our lives. The rapid development of technology will continue to push the boundaries of what these tools can achieve and how we use them.
 
  As AI-powered chatbots like Google Bard and Bing Chat become more sophisticated and capable of handling complex tasks, they will become an even more integral part of our daily lives.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -142,4 +140,16 @@ We did manage to get a response from Bard by rewording the prompt.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-tips.techidaily.com/ed-mastering-mobile-thumbnail-creation-for-youtube-for-2024/"><u>[Updated] Mastering Mobile Thumbnail Creation for YouTube for 2024</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/2024-approved-the-ultimate-tutorial-for-sharing-photos-from-phone-memory/"><u>2024 Approved The Ultimate Tutorial for Sharing Photos From Phone Memory</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/comprehensive-document-management-by-wonderfox-easily-organize-word-excel-pdf-and-powerpoint-files-for-business/"><u>Comprehensive Document Management by WonderFox: Easily Organize Word, Excel, PDF & PowerPoint Files for Business</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/cutting-the-final-5-minutes-of-your-computers-playback-in-windows-1011/"><u>Cutting the Final 5 Minutes of Your Computer's Playback in Windows 10/11</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/discovering-taylor-swift-hassle-free-mp3-downloads-to-enhance-your-musical-journey/"><u>Discovering Taylor Swift: Hassle-Free MP3 Downloads to Enhance Your Musical Journey</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/easy-steps-capturing-the-hottest-videos-from-youtube-using-a-reliable-video-downloader/"><u>Easy Steps: Capturing the Hottest Videos From YouTube Using a Reliable Video Downloader</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/in-2024-academic-anchors-identifying-top-10-lecture-preservation-tools/"><u>In 2024, Academic Anchors Identifying Top 10 Lecture Preservation Tools</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/resolving-the-hulu-rununk13-error-a-step-by-step-guide/"><u>Resolving the Hulu RUNUNK13 Error: A Step-by-Step Guide</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/updated-in-2024-best-pop-background-music-list-to-videos/"><u>Updated In 2024, Best Pop Background Music List to Videos</u></a></li>
+</ul></div>
 

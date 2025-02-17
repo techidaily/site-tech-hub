@@ -1,7 +1,7 @@
 ---
 title: "Mastering Mac OS MONTEREY: Setting Up Personalized Do Not Disturb Lists for Improved Concentration"
-date: 2025-02-02T08:09:19.610Z
-updated: 2025-02-07T10:36:39.364Z
+date: 2025-02-13T20:33:31.134Z
+updated: 2025-02-16T17:48:26.094Z
 tags:
   - apple
 categories:
@@ -27,17 +27,21 @@ So, how do you create this custom Flow? Let me show you. All you'll need to make
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vEYkX2NJgZw?si=IaHqlqJcYipwUOht" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Create a custom Focus
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Wy0uYNNdMDM?si=5ir7EHlr0CkpcYOT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 1\. Open System Preferences
 
 Click on the Apple menu in the top left corner of your desktop. From the resulting pop-up menu, click System Preferences.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 2\. Access Notifications & Focus
@@ -48,6 +52,10 @@ In the System Preferences window (**Figure 1**), click Notifications & Focus.
 
 Image: Jack Wallen
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 3\. Open the Focus tab
 
 Once Notifications & Focus is opened, click the Focus tab (**Figure 2**).
@@ -57,7 +65,7 @@ Once Notifications & Focus is opened, click the Focus tab (**Figure 2**).
 Image: Jack Wallen
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/C3cJe7Wgn6I?si=EckDFML-VJ_2sYz8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 4\. Create the new Focus
@@ -76,10 +84,6 @@ Image: Jack Wallen
 
 After naming and selecting a color/icon, click Add to save the new Focus.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GyfJUhsz_AY?si=x2HjoLX1B89oEPgZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 5\. Allowing specific notifications
 
 The next thing to do is to specific contacts or apps that will be allowed when this Focus is enabled. To do that, click + under Allowed Notifications From (**Figure 5**).
@@ -93,10 +97,6 @@ From the pop-up list, select the contact(s) you want to be allowed to interrupt 
 **Figure 6:** Adding contacts to a Focus in macOS Monterey.
 
 Image: Jack Wallen
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Q8Feep0Rc0?si=YkPhRxXGvrRRMJtb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 6\. Set the Focus to be enabled
 
@@ -140,20 +140,22 @@ Use this new Focus feature wisely, and it will help you be more productive while
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-knowledge.techidaily.com/updated-2024-approved-best-resources-to-explore-for-personalized-text-enhancements-online/"><u>[Updated] 2024 Approved Best Resources to Explore for Personalized Text Enhancements Online</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-2024-approved-navigate-through-itunes-recording-like-a-pro/"><u>[Updated] 2024 Approved Navigate Through iTunes Recording Like a Pro</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/beginners-guide-to-inconspicuous-image-tinkering-for-2024/"><u>Beginner's Guide to Inconspicuous Image Tinkering for 2024</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/enhancing-document-data-harvest-with-4-ingenious-chatgpt-methodologies/"><u>Enhancing Document Data Harvest with 4 Ingenious ChatGPT Methodologies</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-can-i-use-a-fake-gps-without-mock-location-on-oppo-a56s-5g-drfone-by-drfone-virtual-android/"><u>How Can I Use a Fake GPS Without Mock Location On Oppo A56s 5G? | Dr.fone</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-from-pixels-to-blockchain-gold-choosing-the-right-nft-engines/"><u>In 2024, From Pixels to Blockchain Gold Choosing the Right NFT Engines</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/resolving-microsoft-compatibility-telemetrys-excessive-disk-use-in-windows-11/"><u>Resolving Microsoft Compatibility Telemetry's Excessive Disk Use in Windows 11</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/solve-your-idt-hd-audio-drivers-problems-efficiently-for-a-smooth-windows-eboard/"><u>Solve Your IDT HD Audio Drivers Problems Efficiently for a Smooth Windows Eboard</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/streamline-web-creation-with-chatgpts-helpful-four-ways/"><u>Streamline Web Creation with ChatGPT’s Helpful Four Ways</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/1722882370798-the-grand-introduction-all-you-need-to-know-about-the-new-samsung-phone/"><u>The Grand Introduction: All You Need to Know About the New Samsung Phone!</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/the-ultimate-guide-to-effortlessly-adding-and-using-chatgpt-widgets-in-android-applications/"><u>The Ultimate Guide to Effortlessly Adding and Using ChatGPT Widgets in Android Applications</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/top-9-unique-chatgpt-add-ons-boost-your-productivity-today/"><u>Top 9 Unique ChatGPT Add-Ons: Boost Your Productivity Today</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/truthcoin-unveiling-its-reality-or-a-fraud/"><u>TruthCoin: Unveiling Its Reality or A Fraud?</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/unveiling-the-problem-of-reliable-copy-detection-through-artifice-intelligence-technologies/"><u>Unveiling the Problem of Reliable Copy Detection Through Artifice Intelligence Technologies</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/your-comprehensive-guide-to-deleting-a-chatgpt-user-profile/"><u>Your Comprehensive Guide to Deleting a ChatGPT User Profile</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-2024-approved-mastering-the-art-of-design-10-secrets-for-podcast-imagery/"><u>[Updated] 2024 Approved Mastering the Art of Design 10 Secrets for Podcast Imagery</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-in-2024-stabilize-your-lens-no-trips-only-tricks/"><u>[Updated] In 2024, Stabilize Your Lens No Trips, Only Tricks</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-incorporating-brand-identity-adding-logos-to-youtube-videos/"><u>[Updated] Incorporating Brand Identity Adding Logos to YouTube Videos</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/10-best-webcams-a-buyers-guide/"><u>10 Best Webcams | A Buyer’s Guide</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/apples-approach-to-sideloaded-applications-on-iphone-fees-and-rigorous-reviews-unveiled-analysis/"><u>Apple's Approach to Sideloaded Applications on iPhone: Fees and Rigorous Reviews Unveiled | Analysis</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/apples-strategic-leap-in-artificial-intelligence-exploring-the-functionality-of-its-new-models-as-featured-by-zdnet/"><u>Apple's Strategic Leap in Artificial Intelligence: Exploring the Functionality of Its New Models, as Featured by ZDNet</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/challenging-apples-upgrade-pressure-my-journey-in-resisting-the-iphone-refresh-cycle-insights/"><u>Challenging Apple's Upgrade Pressure: My Journey in Resisting the iPhone Refresh Cycle Insights</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/chatgpt-secrets-for-developing-persuasive-business-proposals-that-close-deals/"><u>ChatGPT Secrets for Developing Persuasive Business Proposals That Close Deals</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/memorial-day-sale-save-big-on-the-apple-watch-se-a-review-of-my-top-tech-buy/"><u>Memorial Day Sale: Save Big on the Apple Watch SE - A Review of My Top Tech Buy</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-in-2024-unleash-your-creativity-a-comprehensive-guide-to-using-wax-for-free-video-editing/"><u>New In 2024, Unleash Your Creativity A Comprehensive Guide to Using Wax for Free Video Editing</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/shorten-videos-for-instagram-a-mac-guide/"><u>Shorten Videos for Instagram A Mac Guide</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/starting-off-determining-your-creative-passion-for-2024/"><u>Starting Off Determining Your Creative Passion for 2024</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/top-current-savings-on-amazon-august-2024-exclusive-offers/"><u>Top Current Savings on Amazon - August 2024 Exclusive Offers</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/top-rated-headphones-on-sale-in-march-2024-exclusive-offers/"><u>Top Rated Headphones on Sale in March 2024: Exclusive Offers</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/top-ranking-magsafe-wallets-comprehensive-reviews-by-tech-experts-gizmotech/"><u>Top-Ranking MagSafe Wallets : Comprehensive Reviews by Tech Experts | GizmoTech</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/top-rated-keyboards-of-2024-featured-and-evaluated-by-tech-gurus-insights/"><u>Top-Rated Keyboards of 2024 Featured & Evaluated by Tech Gurus Insights</u></a></li>
+<li><a href="https://windows11.techidaily.com/win11s-unnecessary-filler-heres-how-to-tackle-it/"><u>Win11's Unnecessary Filler? Here’s How To Tackle It</u></a></li>
 </ul></div>
 

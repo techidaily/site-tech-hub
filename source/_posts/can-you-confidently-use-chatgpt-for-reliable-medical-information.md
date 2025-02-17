@@ -1,7 +1,7 @@
 ---
 title: Can You Confidently Use ChatGPT for Reliable Medical Information?
-date: 2024-08-15T22:09:43.519Z
-updated: 2024-08-16T22:09:43.519Z
+date: 2025-02-09T18:13:58.104Z
+updated: 2025-02-16T21:36:37.299Z
 tags:
   - chatgpt
   - open-ai
@@ -16,6 +16,10 @@ thumbnail: https://thmb.techidaily.com/13632811731c559bc127701456401507af159186a
 ## Generative AI and Its Potential Role in Propagating Disinformation Tactics
 
  Artificial Intelligence (AI) now plays a role in various aspects of our lives. Specifically, generative AI tools such as ChatGPT and others have grown significantly. This means that there will be an abundance of AI-generated content in the future.However, generative AI also introduces the risk of AI-generated disinformation. Its features make it easier for opportunistic individuals to spread false information. So, let's explore how generative AI is being utilized for disinformation.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Potential Risks of Generative AI to Spread Disinformation
 
@@ -33,9 +37,17 @@ False news can be categorized into three types:
 
  How will the law address the propagation of fake news through generative AI? Who will be held responsible for spreading false information—the users, developers, or the tools themselves?
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 4 Ways Generative AI Can Be Used to Spread Disinformation
 
  To stay safe online, everyone needs to understand the risks of generative AI in spreading disinformation, as it comes in many different forms. Here are a few ways it can be used to manipulate people.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 1\. Generating Fake Content Online
 
@@ -46,15 +58,13 @@ False news can be categorized into three types:
 Here's the fictitious article that ChatGPT came up with:
 
 ![ChatGPT created a fictitious news article about corruption charges against Joe Biden](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/chatgpt-3.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1">Power Tools add-on for Google Sheets, 12-month subscription</a>
-<!-- affiliate ads end -->
 
  Surprisingly, the output was highly persuasive. It included the names and statements of authoritative figures to make the article more convincing. This shows how anyone can use such tools to generate false news and easily spread it online.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082538/7443" target="_top" id="2082538"><img src="//a.impactradius-go.com/display-ad/7443-2082538" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082538/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4YCkNXJjC3c?si=9Tn8KiqKGTZi1o7E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### 2\. Using Chatbots to Influence People's Opinions
 
  Chatbots that rely on generative AI models can employ various tactics to influence people's opinions, including:
@@ -67,8 +77,9 @@ Here's the fictitious article that ChatGPT came up with:
  These examples all illustrate how chatbots can be utilized to mislead people.
 
 <!-- affiliate ads begin -->
-<a href="https://engwe.pxf.io/c/5597632/2093504/25579" target="_top" id="2093504"><img src="//a.impactradius-go.com/display-ad/25579-2093504" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2093504/25579" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### 3\. Creating AI DeepFakes
 
  Someone can use deepfakes to create false videos of an individual saying or doing things they never did. They can use such tools for social engineering or running smear campaigns against others. Moreover, in today's meme culture, deepfakes can serve as tools for cyberbullying on social media.
@@ -77,9 +88,6 @@ Here's the fictitious article that ChatGPT came up with:
 
  It's crucial, then, to be able to[identify videos created by deepfakes](https://www.makeuseof.com/how-can-you-tell-video-deepfake/) and distinguish them from originals.
 
-<!-- affiliate ads begin -->
-<a href="https://arkmc.pxf.io/c/5597632/427477/5172" target="_top" id="427477"><img src="//a.impactradius-go.com/display-ad/5172-427477" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/427477/5172" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### 4\. Cloning Human Voices
 
  Generative AI, along with deepfake technology, enables the manipulation of someone's speech. Deepfake technology is advancing rapidly and offers a variety of tools that can replicate anyone's voice. This allows malicious individuals to impersonate others and deceive unsuspecting individuals. One such example is[the use of deepfake music](https://www.makeuseof.com/what-is-deepfake-ai-music/) .
@@ -88,9 +96,6 @@ Here's the fictitious article that ChatGPT came up with:
 
  Scammers may use deepfake voices to impersonate your loved ones and call you, pretending to be in distress. With synthetic audio that sounds convincing, they could urge you to send money urgently, leading you to become a victim of their scams. An incident reported by[The Washington Post](https://www.washingtonpost.com/technology/2023/03/05/ai-voice-scam/) in March 2023 exemplifies this issue: scammers used deepfake voices to convince people that their grandsons were in jail and needed money...
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4631056&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/997e65474a248252883b485717f7d098/products/buy-windows.png" border="0">Allavsoft Batch Download Online Videos, Music Offline to MP4, MP3, MOV, etc format </a>
-<!-- affiliate ads end -->
 ## How to Spot AI-Spread Disinformation
 
  Combating the spread of disinformation facilitated by AI is a pressing issue in today's world. So how can you spot false information that's been made by AI?
@@ -102,23 +107,17 @@ Here's the fictitious article that ChatGPT came up with:
 
  By following these steps, you can identify and protect yourself from AI-driven misinformation.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37701530&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6fe0c81e3f9438db11ebbfba6c5ce460/products/copy_cbLogo_with_text_blue.png" border="0">CalendarBudget - Monthly subscription membership to CalendarBudget via web browser or mobile app. Support included. </a>
-<!-- affiliate ads end -->
 ## Beware of Disinformation Spread by AI
 
  Generative software has played a crucial role in advancing AI. Still, they can also be a significant source of disinformation in society. These affordable tools have enabled anyone to create different types of content using sophisticated AI models; their ability to generate content in large quantities and incorporate deepfakes makes them even more dangerous.
 
  It's important that you're aware of the challenges of disinformation in the AI era. Understanding how AI can be used to spread fake news is the first step towards protecting yourself from misinformation.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -127,4 +126,26 @@ Here's the fictitious article that ChatGPT came up with:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-links.techidaily.com/new-cost-efficient-filmmaking-action-cams-under-100-guide/"><u>[New] Cost-Efficient Filmmaking ACTION Cams Under $100 Guide</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-copyright-woes-instant-video-ban-for-2024/"><u>[Updated] Copyright Woes Instant Video Ban for 2024</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-innovative-iphone-tactics-for-capturing-glass-surfaces-for-2024/"><u>[Updated] Innovative iPhone Tactics for Capturing Glass Surfaces for 2024</u></a></li>
+<li><a href="https://location-social.techidaily.com/4-most-known-ways-to-find-someone-on-tinder-for-oppo-a1-5g-by-name-drfone-by-drfone-virtual-android/"><u>4 Most-Known Ways to Find Someone on Tinder For Oppo A1 5G by Name | Dr.fone</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/best-free-childrens-melodies-online-compile-the-ultimate-young-learners-audio-playlist/"><u>Best Free Children's Melodies Online - Compile the Ultimate Young Learner’s Audio Playlist</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/complete-guide-setting-up-the-navyseal-big-brother-plugin-in-kodi-with-matrix-support/"><u>Complete Guide: Setting Up the NavySeal Big Brother Plugin in Kodi with Matrix Support</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/easy-tutorial-how-to-transfer-gaana-tracks-to-your-desktop-pc/"><u>Easy Tutorial: How to Transfer Gaana Tracks to Your Desktop PC</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/effective-techniques-for-utilizing-camtasia-and-ensuring-proper-playback-of-created-recordings/"><u>Effective Techniques for Utilizing Camtasia & Ensuring Proper Playback of Created Recordings</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/effortless-conversion-transform-videos-into-wav-files-with-ease/"><u>Effortless Conversion: Transform Videos Into WAV Files with Ease</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/effortless-steps-for-converting-swf-files-into-mov-format/"><u>Effortless Steps for Converting SWF Files Into MOV Format</u></a></li>
+<li><a href="https://win11.techidaily.com/enhancing-learning-7-strategies-for-windows-users/"><u>Enhancing Learning: 7 Strategies for Windows Users</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/enhancing-video-resolution-with-premiere-pro-tips-for-achieving-stunning-1080p-and-4k-outputs/"><u>Enhancing Video Resolution with Premiere Pro: Tips for Achieving Stunning 1080P and 4K Outputs</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/fixing-the-problem-of-non-recording-sound-files-in-audacity-software/"><u>Fixing the Problem of Non-Recording Sound Files in Audacity Software</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/flash-video-flv-conversion-tutorial-switching-to-windows-media-video-wmv/"><u>Flash Video (FLV) Conversion Tutorial: Switching to Windows Media Video (WMV)</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/foremost-editing-software-for-mobile-creations-for-2024/"><u>Foremost Editing Software for Mobile Creations for 2024</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/how-to-remove-activation-lock-on-the-iphone-7-without-previous-owner-by-drfone-ios/"><u>How to Remove Activation Lock On the iPhone 7 Without Previous Owner?</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/in-2024-exploring-instagrams-hidden-gems-accessing-no-cost-filters/"><u>In 2024, Exploring Instagram's Hidden Gems Accessing No-Cost Filters</u></a></li>
+<li><a href="https://facebook.techidaily.com/protecting-adolescent-online-presence-facebook-privacy-tips/"><u>Protecting Adolescent Online Presence - Facebook Privacy Tips</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/top-rated-non-branded-portable-speaker-surpasses-expectations-insights-from-a-comprehensive-test-zdnet/"><u>Top-Rated Non-Branded Portable Speaker Surpasses Expectations: Insights From a Comprehensive Test - ZDNet</u></a></li>
+</ul></div>
 

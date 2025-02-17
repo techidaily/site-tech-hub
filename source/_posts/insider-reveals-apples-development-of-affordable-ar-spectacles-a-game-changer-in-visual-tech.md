@@ -1,7 +1,7 @@
 ---
 title: "Insider Reveals Apple's Development of Affordable AR Spectacles: A Game Changer in Visual Tech"
-date: 2025-01-31T21:39:01.982Z
-updated: 2025-02-07T03:17:47.076Z
+date: 2025-02-09T17:12:43.746Z
+updated: 2025-02-16T22:06:07.080Z
 tags:
   - apple
 categories:
@@ -39,7 +39,7 @@ Training Load is also coming in WatchOS 11, allowing you to keep track of the st
 Serious athletes will likely be drawn to these features since this is the first time Apple has shipped recovery and strain tracking on its watches. But plenty of casual users may also find these features useful when in the process of adopting healthier habits.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fm0XhU5H8R4?si=cFPk6XK3X3CQSI7Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Pause your rings
@@ -47,7 +47,7 @@ Serious athletes will likely be drawn to these features since this is the first 
 Ever get sick one day or just need a break, but you're concerned about not keeping your streak to close your Apple Watch's rings? Now, you don't have to worry about missing out on the day's progress. In WatchOS 11, Apple is giving you the ability to pause your rings for a day, week, month, or longer until you're ready to get back in the game.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UCqHbpxQGP4?si=XGkajFHdqyoKNAFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RCYs8keh-Vs?si=uDC28-9yh-k6HLj4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. Better support for pregnancy
@@ -70,10 +70,6 @@ Plus, Live Activities are coming to Smart Stack, so you can keep tabs on live ev
 
 Apple
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 5\. The Photos face, powered by machine learning
 
 The Photos face is one of the most popular faces on the Apple Watch, given its high level of customization. And it's getting a facelift (pun intended) with WatchOS 11.
@@ -81,7 +77,7 @@ The Photos face is one of the most popular faces on the Apple Watch, given its h
 Your watch will use machine learning to analyze your photo library and find the best snaps to use as a watch face based on aesthetics, composition, and facial expressions. Apple's algorithm will then optimize the image for the watch face and add depth effects, different colored backgrounds, fonts, and more. You can customize it on your own to your heart's content, plus get treated to a new look every time you raise your wrist.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2En1CHbiYwA?si=jZKzTr9EIT2ShjGK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 6\. Double Tap now works with any app
@@ -103,12 +99,16 @@ Move over, Venmo. Also in iOS 18, Apple is bringing Tap to Cash to WatchOS 11\. 
 **Also: [How to use 'Tap to Cash' to send money in iOS 18](https://www.zdnet.com/article/how-to-use-tap-to-cash-to-send-money-in-ios-18/)**
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 9\. Translate on the fly
 
 Apple is adding the Translate app to WatchOS 11, allowing you to translate in any of 20 supported languages. Previously, the app was available only on the iPhone and iPad. When you're traveling abroad where a supported language is spoken, it'll automatically pop up in your watch's Smart Stack. Otherwise, choose the target and source languages and speak the words you want to be translated. Tap the Play button, and the translation plays through your watch's internal speaker.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 10\. Improved workout tracking for GPS-specific workouts
 
@@ -152,20 +152,18 @@ Right now, [WatchOS 11 is available as a public beta](https://www.zdnet.com/arti
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-activity-recording.techidaily.com/new-2024-approved-perfecting-speech-interpretation-using-google-tools/"><u>[New] 2024 Approved Perfecting Speech Interpretation Using Google Tools</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-studyhistory-10-essential-youtube-historical-channels/"><u>[Updated] StudyHistory 10 Essential YouTube Historical Channels</u></a></li>
-<li><a href="https://location-fake.techidaily.com/3utools-virtual-location-not-working-on-vivo-y100-5g-fix-now-drfone-by-drfone-virtual-android/"><u>3uTools Virtual Location Not Working On Vivo Y100 5G? Fix Now | Dr.fone</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/boost-your-interview-skills-using-the-power-of-chatgpt/"><u>Boost Your Interview Skills Using the Power of ChatGPT</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/chatbot-insights-vs-starry-signs-is-ai-outshining-astrology-for-future-predictions/"><u>Chatbot Insights Vs. Starry Signs: Is AI Outshining Astrology for Future Predictions?</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/chatgpt-plus-subscription-benefits-is-it-worth-your-money/"><u>ChatGPT Plus Subscription Benefits – Is It Worth Your Money?</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/codegpt-uncovered-can-it-truly-compose-code/"><u>CodeGPT Uncovered: Can It Truly Compose Code?</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/essential-guide-to-bypassing-useless-gpt-plugins/"><u>Essential Guide to Bypassing Useless GPT Plugins</u></a></li>
-<li><a href="https://fox-links.techidaily.com/essential-sites-for-watching-vr-media/"><u>Essential Sites for Watching VR Media</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/expert-evaluation-white-ice-finish-on-the-powerful-maxsun-z79d5-atx-with-multiple-m2-supports/"><u>Expert Evaluation: White Ice Finish on the Powerful MaxSun Z79#D5 ATX with Multiple M.2 Supports</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/latest-rtx-2070-super-graphics-driver-downloads-and-updates-for-windows-10-and-11/"><u>Latest RTX 2070 Super Graphics Driver Downloads and Updates for Windows 10 and 11</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/mastering-print-and-scan-a-comprehensive-review-of-hps-multifunction-laser-printer-with-a-spotlight-on-user-satisfaction-featured-by-zdnet/"><u>Mastering Print and Scan: A Comprehensive Review of HP's Multifunction Laser Printer with a Spotlight on User Satisfaction - Featured by ZDNET</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/simplified-steps-for-local-llama-2-installation/"><u>Simplified Steps for Local Llama 2 Installation</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/95809021-9781944529154-the-psychobiology-of-psi/"><u>The Psychobiology of Psi | Free Book</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/transformative-use-of-chatgpts-my-bots-for-games-visual-arts/"><u>Transformative Use of ChatGPT's My Bots for Games, Visual Arts</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/024-approved-enhance-visibility-a-comprehensive-guide-to-video-tagging/"><u>[New] 2024 Approved Enhance Visibility A Comprehensive Guide to Video Tagging</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/our-life-your-legacy-youtube-videos-that-matter-for-2024/"><u>[New] Your Life, Your Legacy YouTube Videos That Matter. For 2024</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/capture-the-action-easy-steps-for-overwatch-players-for-2024/"><u>Capture the Action Easy Steps for Overwatch Players for 2024</u></a></li>
+<li><a href="https://techidaily.com/cookiebot-enabled-enhance-your-websites-performance/"><u>Cookiebot-Enabled: Enhance Your Website's Performance</u></a></li>
+<li><a href="https://driver-download.techidaily.com/easy-installation-of-updated-hp-laserjet-p1102dw-printing-software-for-windows-users/"><u>Easy Installation of Updated HP LaserJet P1102dw Printing Software for Windows Users</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/exploring-the-possibilities-how-apples-future-plans-include-a-household-robotic-aide/"><u>Exploring the Possibilities: How Apple's Future Plans Include a Household Robotic Aide</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/in-2024-enhancing-collaboration-whiteboard-tactics-for-all-zoom-users/"><u>In 2024, Enhancing Collaboration Whiteboard Tactics for All Zoom Users</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/mastering-the-new-features-of-ios-18-enhancing-and-tweaking-your-iphones-control-panel/"><u>Mastering the New Features of iOS 18: Enhancing and Tweaking Your iPhone's Control Panel</u></a></li>
+<li><a href="https://extra-information.techidaily.com/mastering-tiktok-videos-editing-hacks-revealed/"><u>Mastering TikTok Videos Editing Hacks Revealed</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/the-top-3-new-iphone-16-innovations-that-will-make-you-want-to-switch-right-now-insights/"><u>The Top 3 New iPhone 16 Innovations That Will Make You Want to Switch Right Now! - Insights</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/top-apple-watch-bargains-in-july-2024-exclusive-offers-featured-by-zdnet/"><u>Top Apple Watch Bargains in July 2024 - Exclusive Offers Featured by ZDNet</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/top-phones-recommended-tech-experts-what-they-truly-prefer-and-why/"><u>Top Phones Recommended Tech Experts: What They Truly Prefer and Why</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/unlocking-the-secrets-of-affordable-tunes-a-guide-to-getting-student-discounts-on-apple-music-insights-from-zdnet/"><u>Unlocking the Secrets of Affordable Tunes: A Guide to Getting Student Discounts on Apple Music - Insights From ZDNet</u></a></li>
 </ul></div>
 

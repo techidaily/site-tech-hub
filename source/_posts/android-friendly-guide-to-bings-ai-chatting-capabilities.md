@@ -1,7 +1,7 @@
 ---
 title: Android-Friendly Guide to Bing's AI Chatting Capabilities
-date: 2024-08-15T22:04:17.064Z
-updated: 2024-08-16T22:04:17.064Z
+date: 2025-02-13T19:51:20.541Z
+updated: 2025-02-16T17:49:59.437Z
 tags:
   - chatgpt
   - open-ai
@@ -26,8 +26,9 @@ thumbnail: https://thmb.techidaily.com/f0f1add4f06bedd9b4441c0d9e38e221d87204ef2
  The developer community has lauded Whisper for its impressive capabilities, but it has been reported to be challenging to set up and run. However, OpenAI has made the**large-v2** model of Whisper available through its API, which offers improved speed and accessibility.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729320&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/2_iDeviceMessageBox.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Pricing
 
  OpenAI now gives you 1,000 tokens at a rate of $0.002, which it claims is 10x cheaper than the existing GPT-3.5 models. Even though 1,000 tokens may seem like a lot, sending just one snippet of text for the API to respond to could cost several tokens. In the official ChatGPT API announcement post,[OpenAI](https://openai.com/blog/introducing-chatgpt-and-whisper-apis) mentioned:
@@ -36,20 +37,22 @@ thumbnail: https://thmb.techidaily.com/f0f1add4f06bedd9b4441c0d9e38e221d87204ef2
 
  Whisper’s large-v2 model is priced at $0.006/minute (of audio input), which is also cheaper.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4742929&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/boxshot(2).png" border="0">Kanto Player Professional</a>
-<!-- affiliate ads end -->
 ### Access to the API
 
  GPT models take in unstructured text and represent it as a sequence of**tokens** for the model to understand. But with ChatGPT models, the input is consumed as a sequence of messages along with metadata. Even though the input is still processed as a sequence of tokens using the ChatML (Chat Markup Language) format, it allows for a more conversational experience. To give more context, we've covered[how ChatGPT works and how it answers questions](https://www.makeuseof.com/how-does-chatgpt-work/) in detail.
 
  To interact with the[ChatGPT model](https://platform.openai.com/docs/guides/chat) via the new API, OpenAI has developed a new endpoint that accommodates this format. This adds to the list of[things you can do with ChatGPT](https://www.makeuseof.com/things-you-can-do-with-chatgpt/) .
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How Will Businesses Use the ChatGPT and Whisper API?
 
 ![Someone holding business data and analytics while a working on a Samsung tablet](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/a-samsung-table-and-papers-on-table.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4531356&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8fdd149fcaa7058caccc9c4ad5b0d89a/products/tss-box.JPG" border="0">The Tube Sites Submitter is a fast and efficient tool for anyone who needs to upload videos quickly, easily and automatically to hundreds of tube sites in mere minutes . </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jf0JvOqiAXc?si=kHEHQGC_PhBv4xij" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  With the integration of ChatGPT and Whisper into third-party software, businesses can now create more personalized and engaging experiences for their customers. One example is Snap's My AI feature, which uses the same technology to enable users to create their own virtual personal assistant.
@@ -61,13 +64,15 @@ thumbnail: https://thmb.techidaily.com/f0f1add4f06bedd9b4441c0d9e38e221d87204ef2
  This can also be a good time for new SaaS products. Having seen so many pop up in the market already (such as[Speak](https://www.speak.com/) ), the possibilities are endless.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075461/7443" target="_top" id="2075461"><img src="//a.impactradius-go.com/display-ad/7443-2075461" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075461/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/C3cJe7Wgn6I?si=EckDFML-VJ_2sYz8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## What Does This Mean for Users?
 
 ![OpenAI's Official website to access ChatGPT playground](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/chatgpt.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://checkout.devart.com/order/checkout.php?PRODS=5023555&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/45b430710ad04765a6afd58d9d9fafca/products/dotConnect_O.png" border="0">dotConnect for Oracle is an ADO.NET data provider for Oracle with Entity Framework Support.</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Expect to see more natural language processing and improved conversational experiences in your mainstream apps. This is because ChatGPT and Whisper API will set a new standard for NLP, and developers will likely try to integrate similar features into their apps to keep up with the competition.
@@ -78,21 +83,15 @@ thumbnail: https://thmb.techidaily.com/f0f1add4f06bedd9b4441c0d9e38e221d87204ef2
 
  This could lead to a proliferation of new chatbot-based services and applications, as well as improved experiences for users interacting with these systems.
 
-<!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1678785/12108" target="_top" id="1678785"><img src="//a.impactradius-go.com/display-ad/12108-1678785" border="0" alt="" width="300" height="250"/></a>
-<!-- affiliate ads end -->
 ## A New Era of AI
 
  This is the first bold step towards promoting accessibility and inclusivity in AI development and deployment. Learning how to use AI tools like ChatGPT can be a game-changer for businesses, as it empowers them to streamline operations and gain valuable insights from vast amounts of data—and there’s no better time than today.
-
 
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -101,4 +100,18 @@ thumbnail: https://thmb.techidaily.com/f0f1add4f06bedd9b4441c0d9e38e221d87204ef2
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-blog.techidaily.com/nleash-your-videos-full-potential-with-these-seo-mastery-tips/"><u>[New] Unleash Your Videos' Full Potential with These SEO Mastery Tips</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/2024-approved-dive-into-the-world-of-lengthened-images-with-iphone/"><u>2024 Approved Dive Into the World of Lengthened Images with iPhone</u></a></li>
+<li><a href="https://howto.techidaily.com/authentication-error-occurred-on-infinix-note-30-pro-here-are-10-proven-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Authentication Error Occurred on Infinix Note 30 Pro? Here Are 10 Proven Fixes | Dr.fone</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/bots-under-threat-combatting-information-spillage/"><u>Bots Under Threat: Combatting Information Spillage</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/and-uncomplicated-youtube-image-extractor-tools-reviewed-for-2024/"><u>Free and Uncomplicated YouTube Image Extractor Tools Reviewed for 2024</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/google-io-2023-reveals-an-array-of-amazing-upgrades-to-bard-ai-learn-about-the-top-7-new-features/"><u>Google I/O 2023 Reveals an Array of Amazing Upgrades to BARD AI - Learn About the Top 7 New Features!</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/new-2024-approved-mastering-jump-cuts-in-fcpx-a-step-by-step-guide/"><u>New 2024 Approved Mastering Jump Cuts in FCPX A Step-by-Step Guide</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/protective-guidelines-leveraging-chatgpt-for-mental-wellness-training/"><u>Protective Guidelines: Leveraging ChatGPT for Mental Wellness Training</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/sim-unlock-motorola-moto-g-stylus-2023-phones-without-code-2-ways-to-remove-android-sim-lock-by-drfone-android/"><u>Sim Unlock Motorola Moto G Stylus (2023) Phones without Code 2 Ways to Remove Android Sim Lock</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/troubleshooting-topics-solving-the-most-frequent-chatgpt-issues/"><u>Troubleshooting Topics: Solving the Most Frequent ChatGPT Issues</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/understanding-nvidias-customizable-generative-ai-insights-into-the-ai-foundation-platform/"><u>Understanding NVIDIA's Customizable Generative AI: Insights Into the AI Foundation Platform</u></a></li>
+</ul></div>
 

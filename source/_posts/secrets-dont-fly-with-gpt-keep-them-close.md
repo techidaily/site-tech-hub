@@ -1,7 +1,7 @@
 ---
 title: Secrets Don't Fly with GPT; Keep Them Close
-date: 2024-08-15T22:09:09.258Z
-updated: 2024-08-16T22:09:09.258Z
+date: 2025-02-15T21:15:30.381Z
+updated: 2025-02-16T20:54:04.771Z
 tags:
   - chatgpt
   - open-ai
@@ -27,6 +27,10 @@ thumbnail: https://thmb.techidaily.com/28a9b9137fb476d23de27db8b2b7a6831725824f9
 
 ![A half human half robot character generated with DALL-E 3 on Bing](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/a-half-human-half-robot-character-generated-with-dall-e-3-on-bing.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Bing is a search engine featuring an AI chat function and an AI Image Creator. Thanks to a partnership with OpenAI, Microsoft was the first company to integrate DALL-E 3 into its products. This means you can use DALL-E 3 for free using either of the features mentioned.
 
 1. Head to[Bing Chat](https://www.bing.com/search?q=Bing+AI&showconv=1&FORM=hpcodx) or the[Bing Image Creator](https://www.bing.com/create) to start generating images.
@@ -36,20 +40,22 @@ thumbnail: https://thmb.techidaily.com/28a9b9137fb476d23de27db8b2b7a6831725824f9
 
  There are plenty more[alternatives to DALL-E 3](https://www.makeuseof.com/ai-text-to-art-generators/) worth checking out, too. Compare them to see which image creator works best for you.
 
-<!-- affiliate ads begin -->
-<a href="https://bluettide.pxf.io/c/5597632/2042332/17092" target="_top" id="2042332"><img src="//a.impactradius-go.com/display-ad/17092-2042332" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="960" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042332/17092" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## What Makes DALL-E 3 Special?
 
 ![Four AI-generated images of cats wearing a hat](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/four-ai-generated-images-of-cats-wearing-a-hat.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  DALL-E 3 promises to be a step up from its previous versions with improved accuracy, better photorealism capabilities, and more creative images. We've noticed a step up in quality as well, even when our prompts contain very few details.
 
  But the most notable change about DALL-E 3 is that it has been integrated into ChatGPT, OpenAI's powerful AI chatbot. It opens up a whole new way of interacting with the image generator and gives you a fresh way of creating prompts.
 
 <!-- affiliate ads begin -->
-<a href="https://caperobbin.sjv.io/c/5597632/2006118/18460" target="_top" id="2006118"><img src="//a.impactradius-go.com/display-ad/18460-2006118" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006118/18460" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## How to Craft a Good DALLE-3 Prompt Using Bing
 
  DALL-E 3 is much easier to use thanks to its integration with GPT-4, the large language model that powers ChatGPT and Microsoft Bing.
@@ -67,29 +73,21 @@ thumbnail: https://thmb.techidaily.com/28a9b9137fb476d23de27db8b2b7a6831725824f9
  Compare that with DALL-E 3 in Bing. The image it generated is quite good, considering our prompt barely contained any specific details.
 
 ![DALL-E 3 in Bing Chat image of a city covered in plants](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/dall-e-3-in-bing-chat-image-of-a-city-covered-in-plants.jpg)
-<!-- affiliate ads begin -->
-<a href="https://propmoneyinc.pxf.io/c/5597632/1803116/14559" target="_top" id="1803116"><img src="//a.impactradius-go.com/display-ad/14559-1803116" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803116/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  We followed this up by asking if it could add animals to the image it just created. Unlike DALL-E 2, it had no trouble understanding our request.
 
 ![DALL-E 3 iamge of New York City overgrown with plants and animals](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/dall-e-3-iamge-of-new-york-city-overgrown-with-plants-and-animals.jpg)
-<!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033095&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced-3YR.png" border="0"></a>
-<!-- affiliate ads end -->
 
  You can even ask Bing to redo one of the images. We told it that we liked the second image and would like to see if it could make the animals more detailed.
 
 ![DALL-E 3 image of a city overun with animals](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/dall-e-3-image-of-a-city-overun-with-animals.jpg)
-<!-- affiliate ads begin -->
-<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
-<!-- affiliate ads end -->
 
  With just a small amount of time chatting with DALLE-3 in Bing, we arrived at a really interesting image of New York City if it were overrun by plants and animals. No prompt engineering is required.
 
 ![DALL-E 3 image of a city with animals on top of buildings](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/11/dall-e-3-image-of-a-city-with-animals-on-top-of-buildings.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://aofit.pxf.io/c/5597632/1399701/16396" target="_top" id="1399701"><img src="//a.impactradius-go.com/display-ad/16396-1399701" border="0" alt="" width="960" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1399701/16396" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Limitations of DALL-E 3 and Bing
@@ -104,18 +102,19 @@ thumbnail: https://thmb.techidaily.com/28a9b9137fb476d23de27db8b2b7a6831725824f9
 
  But this will be a welcome addition for artists who don't want their images to train DALL-E in the first place. Adding to this, you can now fill in the[OpenAI opt-out form](https://share.hsforms.com/1%5FOuT5tfFSpic89PqN6r1CQ4sk30) to make sure your image doesn't go into the training pool.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fo4lNZ84x9Q?si=WdcYPZp-9VJnZEnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Don't Wait to Try DALL-E 3; Access It Now With Bing
 
  Head to Bing Chat to try DALL-E 3 for free. Each week, you get free boost credits that make it quick to generate an image. On top of that, you don't need to worry about engineering a prompt any longer, as DALL-E 3 can transform even the most vague request into an interesting AI-generated image.
-
 
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -124,4 +123,24 @@ thumbnail: https://thmb.techidaily.com/28a9b9137fb476d23de27db8b2b7a6831725824f9
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://video-screen-grab.techidaily.com/new-the-top-10-webinar-platforms-ranked-for-2024/"><u>[New] The Top 10 Webinar Platforms Ranked for 2024</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-in-2024-unbeatable-free-webcam-matchups/"><u>[Updated] In 2024, Unbeatable Free Webcam Matchups</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-top-cloud-storages-essential-choices-for-you/"><u>[Updated] Top Cloud Storages Essential Choices for You</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/0pc/"><u>0円PCで動画連結テクニック解析</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/detailed-methodology-to-masterboard-use-in-desktopiosandroid-zoom-sessions-for-2024/"><u>Detailed Methodology to Masterboard Use in Desktop/iOS/Android Zoom Sessions for 2024</u></a></li>
+<li><a href="https://discover-dash.techidaily.com/free-online-conversion-change-mp4-files-to-mpeg-format-with-ease/"><u>Free Online Conversion: Change MP4 Files to MPEG Format with Ease</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/how-to-convert-avchd-mts-files-for-motorola-g54-5g-by-aiseesoft-video-converter-play-mts-on-android/"><u>How to convert AVCHD .mts files for Motorola G54 5G? </u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-use-google-assistant-on-your-lock-screen-of-vivo-y02t-phone-by-drfone-android/"><u>How to Use Google Assistant on Your Lock Screen Of Vivo Y02T Phone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/in-2024-how-to-teleport-your-gps-location-on-poco-m6-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How To Teleport Your GPS Location On Poco M6 5G? | Dr.fone</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/step-by-step-guide-to-elevate-your-screen-captures-visual-fidelity/"><u>Step-by-Step Guide to Elevate Your Screen Capture's Visual Fidelity</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/step-by-step-instructions-on-separating-audio-tracks-in-wmv-format-both-web-and-desktop-solutions/"><u>Step-by-Step Instructions on Separating Audio Tracks in .WMV Format, Both Web and Desktop Solutions.</u></a></li>
+<li><a href="https://win-dash.techidaily.com/step-by-step-usb-30-driver-setup-for-windows-users/"><u>Step-by-Step USB 3.0 Driver Setup for Windows Users</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/stream-elysium-anywhere-the-ultimate-guide-to-digital-copy-download/"><u>Stream 'Elysium' Anywhere – The Ultimate Guide to Digital Copy Download</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/top-sites-to-stream-complete-episodes-of-attack-on-titan-anime-dub-season-1-4/"><u>Top Sites to Stream Complete Episodes of 'Attack on Titan' Anime Dub Season 1-4</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/verifying-accurate-dvd-names-using-windows-media-player-a-step-by-step-guide/"><u>Verifying Accurate DVD Names Using Windows Media Player: A Step-by-Step Guide</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/why-blackberry-shines-as-the-premier-choice-for-professionals/"><u>Why BlackBerry Shines as the Premier Choice for Professionals</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/windowspc/"><u>WindowsPCで選択した箇所だけ音声ファイルを分離する手順</u></a></li>
+</ul></div>
 

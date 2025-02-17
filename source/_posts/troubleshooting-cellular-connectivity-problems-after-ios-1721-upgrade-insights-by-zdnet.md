@@ -1,7 +1,7 @@
 ---
 title: Troubleshooting Cellular Connectivity Problems After iOS 17.2.1 Upgrade | Insights by ZDNET
-date: 2025-02-03T10:24:38.782Z
-updated: 2025-02-07T00:17:08.478Z
+date: 2025-02-13T19:26:10.777Z
+updated: 2025-02-16T21:58:30.579Z
 tags:
   - apple
 categories:
@@ -60,7 +60,7 @@ Aside from the inferior Photos app navigation, videos in the Photos app no longe
 "The UX is a huge downgrade. It's so bad that I had to submit feedback to Apple via the feedback app in the beta. Never did one of those when it wasn't a technical bug, just pure user experience frustration," another [Redditor said](https://www.reddit.com/r/apple/comments/1e2jtq5/comment/ld1wsjg/?utm%5Fsource=share&utm%5Fmedium=web3x&utm%5Fname=web3xcss&utm%5Fterm=1&utm%5Fcontent=share%5Fbutton).
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to navigate the iOS 18 Photos app
@@ -109,19 +109,20 @@ I hope a future version of iOS 18 will bring back the Camera Roll or at least to
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-capture.techidaily.com/new-action-screen-recorder-review/"><u>[New] Action Screen Recorder Review</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/new-the-complete-guide-to-generating-profits-vimeo-monetization-mastery/"><u>[New] The Complete Guide to Generating Profits Vimeo Monetization Mastery</u></a></li>
-<li><a href="https://fox-access.techidaily.com/new-unraveling-asmr-for-mental-and-physical-health-for-2024/"><u>[New] Unraveling ASMR for Mental and Physical Health for 2024</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/2024-approved-the-art-of-gaining-traction-using-hashtags-in-igtv/"><u>2024 Approved The Art of Gaining Traction Using Hashtags in IGTV</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/capturing-twitters-fun-android-and-iphone-tips/"><u>Capturing Twitter's Fun Android & iPhone Tips</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/chatgpt-evolves-crafting-unique-custom-built-gpt-models-through-its-newest-upgrade/"><u>ChatGPT Evolves: Crafting Unique, Custom-Built GPT Models Through Its Newest Upgrade</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/discover-the-best-5-ai-powered-scribes-for-unleashing-writers-creativity/"><u>Discover the Best 5 AI-Powered Scribes for Unleashing Writers' Creativity</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/how-to-downgrade-iphone-11-to-an-older-ios-version-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Downgrade iPhone 11 to an Older iOS Version? | Dr.fone</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/in-2024-amplify-visual-narratives-with-audio-in-premiere-pro/"><u>In 2024, Amplify Visual Narratives with Audio in Premiere Pro</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/24-the-roadmap-to-youtube-stardom-with-1000plus-followers/"><u>In 2024, The Roadmap to YouTube Stardom with 1000+ Followers</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/language-model-showdown-insights-into-gpt-and-bert-differences/"><u>Language Model Showdown: Insights Into GPT and BERT Differences</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/streamline-your-graphic-design-workflow-using-canva-plus-chatgpt/"><u>Streamline Your Graphic Design Workflow Using Canva + ChatGPT</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/unlock-creative-potentials-crafting-images-using-dall-e-in-chatgpt-4/"><u>Unlock Creative Potentials: Crafting Images Using DALL-E in ChatGPT-4</u></a></li>
-<li><a href="https://fox-that.techidaily.com/1721469495376-why-are-my-iphone-contacts-not-appearing-easy-fixes-inside/"><u>Why Are My iPhone Contacts Not Appearing? Easy Fixes Inside</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-statistical-sweep-illuminating-youtubes-data-diversity-2e17/"><u>[Updated] Statistical Sweep! Illuminating YouTube's Data Diversity (2E17)</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/are-there-any-known-security-vulnerabilities-in-chatgpt/"><u>Are There Any Known Security Vulnerabilities in ChatGPT?</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/from-disparate-pixels-constructing-splendid-imagery-weaves-for-2024/"><u>From Disparate Pixels Constructing Splendid Imagery Weaves for 2024</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/future-of-language-models-4-exciting-advances-we-hope-for-gpt-5/"><u>Future of Language Models: 4 Exciting Advances We Hope for GPT-5</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/nteed-method-to-keep-youtube-shorts-out-of-sight/"><u>Guaranteed Method to Keep YouTube Shorts Out of Sight</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-get-back-lost-photos-from-moto-g24-by-fonelab-android-recover-photos/"><u>How to get back lost photos from Moto G24.</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/24-the-ultimate-checklist-before-choosing-youtube-tv/"><u>In 2024, The Ultimate Checklist Before Choosing YouTube TV</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/investigating-chatgpts-defense-against-hacking/"><u>Investigating ChatGPT's Defense Against Hacking</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/nlp-vs-ml-understanding-key-distinctions/"><u>NLP vs ML: Understanding Key Distinctions</u></a></li>
+<li><a href="https://program-issues.techidaily.com/no-more-crashes-in-terraria-top-fixes-for-players-to-try-now/"><u>No More Crashes in Terraria – Top Fixes for Players to Try Now!</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/painting-a-new-world-ai-illustration-through-chatgpt/"><u>Painting a New World: AI Illustration Through ChatGPT</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/revolutionize-your-gaming-by-recording-on-win10-for-2024/"><u>Revolutionize Your Gaming by Recording on Win10 for 2024</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/step-into-the-world-of-bug-hunting-get-a-payday-at-openai/"><u>Step Into the World of Bug Hunting; Get a Payday at OpenAI</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/the-potential-risks-and-rewards-is-chatgpt-a-threat-to-googles-supremacy/"><u>The Potential Risks and Rewards: Is ChatGPT a Threat to Google's Supremacy?</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/unbeatable-black-friday-bargain-snag-the-hp-envy-x360-with-a-stunning-40-discount-just-499-on-zdnet/"><u>Unbeatable Black Friday Bargain! Snag the HP Envy X360 with a Stunning 40% Discount - Just $499 on ZDNet</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: How Android Can Surpass iOS with Key Upgrades - Expert Analysis by ZDNet
-date: 2024-12-30T19:18:42.473Z
-updated: 2025-01-07T04:39:22.466Z
+date: 2025-02-10T16:08:27.633Z
+updated: 2025-02-16T19:22:58.469Z
 tags:
   - apple
 categories:
@@ -29,7 +29,7 @@ If anything, the latest iOS 18.1 betas with Apple Intelligence features have bee
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## The annual upgrade ritual
@@ -39,7 +39,7 @@ Every year, my wife and I eagerly await the release of the new iPhones. Being pa
 Despite the buzz around the [iPhone 16's new features](https://www.zdnet.com/article/im-an-android-user-but-these-three-iphone-16-features-would-win-me-over/) and the integration of Apple Intelligence, however, several concerns dampen my enthusiasm for upgrading this year.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/g6xXIR_Uh1A?si=TMXzklPEY50MUM05" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Apple Intelligence: A significant, yet incomplete, leap forward
@@ -66,6 +66,10 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 [See all](https://www.zdnet.com/newsletters/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GU08CQVsZz0?si=V-SvPfzRsQysMS0e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## New hardware leaks: what to expect from the iPhone 16
 
 Earlier, I discussed how older -- as well as current generation -- iOS devices [aren't powerful enough to handle on-device Generative AI tasks](https://www.zdnet.com/article/the-expensive-reason-why-apples-upcoming-ai-features-arent-coming-to-your-older-iphone/). The [base iPhone 15](https://www.zdnet.com/article/iphone-15-plus-review/), which has only 6GB of RAM, would struggle to meet the demands of Apple Intelligence as it evolves and becomes more integrated into iOS, core Apple applications, and developer applications. Older iPhones have [6GB of RAM or less](https://iosref.com/ram-processor), and are not eligible to run Apple Intelligence in current iOS 18.1 builds. 
@@ -83,7 +87,7 @@ Interestingly, despite these hardware upgrades, Apple appears to be keeping pric
 Despite these upgrades, the iPhone 16 may still face challenges due to design cycles that didn't fully account for the scope of Apple Intelligence's capabilities. As a result, users may experience suboptimal performance and a less seamless user experience, especially as more AI features roll out in subsequent updates.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Why you shouldn't buy the iPhone 16 for Apple Intelligence
@@ -93,10 +97,6 @@ Besides memory concerns, AI processing demands a lot of power and additional com
 **Also: [How iOS 18 changes the way you charge your iPhone](https://www.zdnet.com/article/how-ios-18-changes-the-way-you-charge-your-iphone/)**
 
 For these reasons, I see the iPhone 16 (and potentially even the iPhone 17) as a transitional product in Apple's journey toward on-device AI. 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## How Apple Intelligence will likely evolve
 
@@ -115,7 +115,7 @@ Enterprises may also employ a mobile device management solution to facilitate ac
 Imagine your iPhone using the unused processing power of your Mac or iPad, all equipped with on-device LLMs, to tackle complex AI tasks. This would increase the accessibility of AI features across Apple's product range.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## I'm still optimistic
@@ -158,19 +158,16 @@ _This article was originally published on June 28, 2024, and updated on August 2
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-http.techidaily.com/new-beyond-ustream-live-streaming-choices-for-2024/"><u>[New] Beyond Ustream Live Streaming Choices for 2024</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-directed-focus-youtubes-easy-ways-for-smoother-borders/"><u>[New] In 2024, Directed Focus YouTube's Easy Ways for Smoother Borders</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/solved-windows-update-error-0x8007001f/"><u>[SOLVED] Windows Update Error 0X8007001f</u></a></li>
-<li><a href="https://extra-information.techidaily.com/updated-comprehensive-guide-to-unrestricted-photo-archives/"><u>[Updated] Comprehensive Guide to Unrestricted Photo Archives</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/2024-approved-trending-picture-tales-history-revealed/"><u>2024 Approved Trending Picture Tales History Revealed</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/actions-to-undo-error-x80780119-on-windows-images/"><u>Actions to Undo Error X80780119 on Windows Images</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/artistic-alliance-how-sarah-silverman-joins-forces-with-peers-in-legal-battle-against-openai-and-meta/"><u>Artistic Alliance: How Sarah Silverman Joins Forces with Peers in Legal Battle Against OpenAI & Meta</u></a></li>
-<li><a href="https://fox-within.techidaily.com/comprehensive-guide-to-restoring-your-samsung-portable-ssd-t5-to-factory-settings-with-safe-data-retrieval-techniques/"><u>Comprehensive Guide to Restoring Your Samsung Portable SSD T5 to Factory Settings with Safe Data Retrieval Techniques</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/enhancing-ai-and-bitcoin-discussions-top-8-gpt-plugins-selection/"><u>Enhancing AI & Bitcoin Discussions: Top 8 GPT Plugins Selection</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/gpt-4-open-to-all-yet-premium-users-reap-6-exclusive-advantages/"><u>GPT-4: Open to All; Yet, Premium Users Reap 6 Exclusive Advantages.</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/in-2024-edit-with-precision-mastery-of-photoshops-eraser/"><u>In 2024, Edit with Precision Mastery of Photoshop's Eraser</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/the-top-8-influences-of-ai-powered-conversational-agents-in-content-generation/"><u>The Top 8 Influences of AI-Powered Conversational Agents in Content Generation</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/uniting-users-with-distinctive-chatbot-experiences/"><u>Uniting Users with Distinctive Chatbot Experiences</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/unlocking-educational-potential-5-uses-of-chatgpt-for-students/"><u>Unlocking Educational Potential: 5 Uses of ChatGPT for Students</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/apples-latest-ai-innovations-from-wwdc-unimpressive-yet-relief-providing-insights-technewsworld/"><u>Apple's Latest AI Innovations From WWDC: Unimpressive Yet Relief Providing Insights | TechNewsWorld</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/beyond-the-physical-keyboard-discovering-why-this-iphone-case-stands-out-expert-reviews-at-zdnet/"><u>Beyond the Physical Keyboard: Discovering Why This iPhone Case Stands Out | Expert Reviews at ZDNet</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/free-video-embedding-techniques-for-online-articles-for-2024/"><u>Free Video Embedding Techniques for Online Articles for 2024</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/inside-apple-vision-pro-pricing-details-key-features-and-user-experience-review-comprehensive-guide/"><u>Inside Apple Vision Pro: Pricing Details, Key Features & User Experience Review - Comprehensive Guide</u></a></li>
+<li><a href="https://discover-community.techidaily.com/les-grands-classes-des-applications-photo-collage-top-5-ideales-pour-ios-et-android/"><u>Les Grands Classes Des Applications Photo-Collage : Top 5 Idéales Pour iOS Et Android</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/memorial-day-sale-save-big-on-the-apple-watch-se-a-top-pick-of-2023-reviews/"><u>Memorial Day Sale: Save Big on the Apple Watch SE - A Top Pick of 2023 Reviews</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/obs-full-screen-glitch-resolution-dropped/"><u>Obs Full Screen Glitch Resolution Dropped</u></a></li>
+<li><a href="https://common-error.techidaily.com/ps4-connection-woes-follow-this-step-by-step-fixers-guide-for-nat-types/"><u>PS4 Connection Woes? Follow This Step by Step Fixer's Guide for NAT Types!</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/say-goodbye-to-an-overflowing-inbox-effortlessly-unveil-the-one-step-hack-for-clear-communication-channels-without-setting-up-rules-or-separate-accounts/"><u>Say Goodbye to an Overflowing Inbox Effortlessly: Unveil the One-Step Hack for Clear Communication Channels without Setting up Rules or Separate Accounts</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/ultimate-guide-to-diagnose-and-repair-driverpowerstatefailure-glitches/"><u>Ultimate Guide to Diagnose and Repair DRIVER_POWER_STATE_FAILURE Glitches</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/44k544og44o844k644gq6kal6ycd44gx55sf5psplus6ycb44gu6kiy6yyy6kgt77yi6auy55s76loq44ks44kk44oj5luy44gn77yj/"><u>スムーズな見逃し生放送の記録術（高画質ガイド付き）</u></a></li>
 </ul></div>
 

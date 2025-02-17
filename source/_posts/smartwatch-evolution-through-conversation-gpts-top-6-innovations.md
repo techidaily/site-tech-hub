@@ -1,7 +1,7 @@
 ---
 title: "Smartwatch Evolution Through Conversation: GPT's Top 6 Innovations"
-date: 2024-08-15T22:09:23.959Z
-updated: 2024-08-16T22:09:23.959Z
+date: 2025-02-14T16:27:09.862Z
+updated: 2025-02-16T21:09:46.332Z
 tags:
   - chatgpt
   - open-ai
@@ -19,6 +19,10 @@ thumbnail: https://thmb.techidaily.com/ffa6265ad1a6a848473605e7aedcfa3ec46ffbe39
 
  The apps are available now via the Play Store and App Store, although you do have to join the waiting list to try out the chatbot functionality if you don't have access already.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## AI-Powered Bing Comes to Mobile
 
  Microsoft has been going all-in on AI recently. The[ChatGPT-enabled version of Bing](https://www.makeuseof.com/microsoft-bing-gets-chatgpt-ai/) caused a storm online as it threatens to[totally change how we search the internet](https://www.makeuseof.com/is-chatgpt-search-engine-threat/) .
@@ -26,6 +30,10 @@ thumbnail: https://thmb.techidaily.com/ffa6265ad1a6a848473605e7aedcfa3ec46ffbe39
  Now, with around two-thirds of all searches taking place on mobile devices, the company has rolled out new versions of its Bing search app and Edge browser for both Android and iOS with the same technology built in.
 
 ![bing and skype with chatgpt enhanced](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/bing-and-skype-with-chatgpt-enhanced.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Q8Feep0Rc0?si=YkPhRxXGvrRRMJtb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Image Credit:[Microsoft](https://blogs.microsoft.com/blog/2023/02/22/the-new-bing-preview-experience-arrives-on-bing-and-edge-mobile-apps-introducing-bing-now-in-skype/)
 
@@ -36,8 +44,9 @@ thumbnail: https://thmb.techidaily.com/ffa6265ad1a6a848473605e7aedcfa3ec46ffbe39
  The chatbot is also built into the Edge browser, where you can access it via the homepage.
 
 <!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713322&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVRadio1.90-300x188.jpg" border="0">OtsAV Radio Webcaster</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Skype Gets AI Features
 
  In addition to those apps, Microsoft has added AI-enhanced Bing support to Skype, the venerable voice and chat app. The idea here is not to get the AI to have conversations on your behalf, but to add similar search capabilities to group messages.
@@ -47,8 +56,9 @@ thumbnail: https://thmb.techidaily.com/ffa6265ad1a6a848473605e7aedcfa3ec46ffbe39
  To access this feature, you simply need to add Bing to your group chats as you would any other contact. It's available worldwide and can respond in over 100 languages.
 
 <!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1596691/17882" target="_top" id="1596691"><img src="//a.impactradius-go.com/display-ad/17882-1596691" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1596691/17882" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## How to Use the New ChatGPT Bing Apps
 
  If you haven't already got access to the new Bing chatbot, you'll have to[join the waitlist](https://www.makeuseof.com/try-bing-ai-powered-search-engine/) before you can start using it. To do this, just install one of the apps and follow the on-screen prompts. Microsoft says it has given access to more than a million users across 169 countries so far, with more added every day.
@@ -60,8 +70,9 @@ thumbnail: https://thmb.techidaily.com/ffa6265ad1a6a848473605e7aedcfa3ec46ffbe39
 **Download:** Skype for[Android](https://www.anrdoezrs.net/links/7251228/type/dlg/sid/UUmuoUeUpU2022079/https://play.google.com/store/apps/details?id=com.skype.raider) |[iOS](https://apps.apple.com/us/app/skype/id304878510) (Free, in-app purchases available)
 
 <!-- affiliate ads begin -->
-<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=28010250&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/336__280a.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Test Out AI Chat on Android and iPhone Today
 
  It was only a matter of time before AI chatbots made the move to mobile. The new version of Bing has certainly shaken up the industry—although it hasn't been without controversy.
@@ -70,14 +81,11 @@ thumbnail: https://thmb.techidaily.com/ffa6265ad1a6a848473605e7aedcfa3ec46ffbe39
 
  And in its mobile form, it is still very much a search tool, so is not something that's going to be replacing Google Assistant, Siri, Bixby, or any other voice assistant any time soon.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -86,4 +94,26 @@ thumbnail: https://thmb.techidaily.com/ffa6265ad1a6a848473605e7aedcfa3ec46ffbe39
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-sure.techidaily.com/024-approved-rhythmic-explorations-the-essential-15-videos-for-musicians/"><u>[New] 2024 Approved Rhythmic Explorations The Essential 15 Videos for Musicians</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/wavwindows-10-windows-11/"><u>「WAV」音声ファイルビットレート変更手順：Windows 10および Windows 11の使用例</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/1-mastering-wmv-video-playback-a-comprehensive-guide-for-android-users/"><u>1. Mastering WMV Video Playback: A Comprehensive Guide for Android Users</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/approved-mastering-youtube-promotion-26-effective-techniques/"><u>2024 Approved Mastering YouTube Promotion 26 Effective Techniques</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/complete-guide-for-recovering-messages-files-on-sony-xperia-1-v-by-fonelab-android-recover-messages/"><u>Complete guide for recovering messages files on Sony Xperia 1 V</u></a></li>
+<li><a href="https://win-answers.techidaily.com/enabling-advanced-system-configuration-using-gpeditmsc-on-windows-home-versions/"><u>Enabling Advanced System Configuration: Using gpedit.msc on Windows Home Versions</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-remove-and-reset-face-id-on-iphone-15-pro-max-by-drfone-ios/"><u>In 2024, How to Remove and Reset Face ID on iPhone 15 Pro Max</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/1726028910748-pcmdsd/"><u>PCMへの変換でDSDの音質低下を防ぐ方法</u></a></li>
+<li><a href="https://discover-forum.techidaily.com/selective-iphone-data-deletion-a-step-by-step-guide/"><u>Selective iPhone Data Deletion: A Step-by-Step Guide</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/1124143-9781934708217-the-egypt-code/"><u>The Egypt Code | Free Book</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/the-ultimate-review-exploring-the-enhanced-performance-and-features-of-the-2tb-wd-sn740-m2-2230-solid-state-drive/"><u>The Ultimate Review: Exploring the Enhanced Performance and Features of the 2TB WD SN740 M.2 2230 Solid-State Drive</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/top-rated-comprehensive-video-transcoder-the-ultimate-tool-for-everyone-latest-version/"><u>Top Rated Comprehensive Video Transcoder: The Ultimate Tool for Everyone – Latest Version!</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/ultimate-guide-to-changing-media-files-to-amr-tips-for-easy-audio-and-video-format-switching/"><u>Ultimate Guide to Changing Media Files to AMR - Tips for Easy Audio and Video Format Switching</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/ultimate-guide-how-to-capture-youtube-audiovisuals-effectively-with-top-grade-audio-downloaders/"><u>Ultimate Guide: How to Capture YouTube Audiovisuals Effectively With Top Grade Audio Downloaders</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/unlock-ig-success-with-expert-insights-on-loop-videos/"><u>Unlock IG Success with Expert Insights on Loop Videos</u></a></li>
+<li><a href="https://games-able.techidaily.com/unveiling-psvr2s-best-add-ons/"><u>Unveiling PSVR2's Best Add-Ons</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/unveiling-the-secrets-of-blackberry-storm-3/"><u>Unveiling the Secrets of BlackBerry Storm 3</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/windows-10-wav/"><u>Windows 10互換: WAVフォーマットに変更せずにオーディオクリップの録音・保存手順</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/youtubeinstagrammov2/"><u>YoutubeやInstagram動画をMOVに簡単に変換するための2つのプロセス解説</u></a></li>
+</ul></div>
 

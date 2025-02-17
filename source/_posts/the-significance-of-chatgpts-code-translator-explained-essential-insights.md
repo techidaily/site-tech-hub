@@ -1,7 +1,7 @@
 ---
 title: The Significance of ChatGPT's Code Translator Explained - Essential Insights
-date: 2024-08-15T22:06:41.274Z
-updated: 2024-08-16T22:06:41.274Z
+date: 2025-02-16T00:30:01.176Z
+updated: 2025-02-16T21:23:31.376Z
 tags:
   - chatgpt
   - open-ai
@@ -18,6 +18,10 @@ thumbnail: https://thmb.techidaily.com/9dc1b7d2e1e187b05acc80cb9c7fb7d37982a5547
  OpenAI’s ChatGPT is arguably the most advanced AI currently freely available to the public. Thanks to the large data subsets it has been trained on, it can do a lot of amazing things, from programming to accounting. But perhaps, one of its most underestimated abilities is its storytelling.
 
  This article will show you how to use ChatGPT’s storytelling prowess to play a text adventure RPG game on the chat. We’ll work you through how to create a prompt to achieve the kind of RPG you want. In the end, we’ll put the finished prompt so you can copy it.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Tell ChatGPT Its Function and the Presentation Rules
 
@@ -74,8 +78,9 @@ thumbnail: https://thmb.techidaily.com/9dc1b7d2e1e187b05acc80cb9c7fb7d37982a5547
  Use a bit of discretion here for your own prompt. We preferred our own prompt to use D&D 5e rules for AC and d20 dice rolls to determine stats. However, you can change the rules to something more to your taste (perhaps, like Pathfinder’s AC system).
 
 ![ChatGPT text-based RPG output showing ability scores and possible commands](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/chatgpt-text-based-rpg-output-showing-ability-scores-and-possible-commands.jpeg)
+
 <!-- affiliate ads begin -->
-<a href="https://propmoneyinc.pxf.io/c/5597632/1803116/14559" target="_top" id="1803116"><img src="//a.impactradius-go.com/display-ad/14559-1803116" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803116/14559" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 > 3\. Start the game with 20/20 for ‘Health’, with 20 being the maximum health. Eating food, drinking water, or sleeping will restore health.
@@ -108,9 +113,6 @@ thumbnail: https://thmb.techidaily.com/9dc1b7d2e1e187b05acc80cb9c7fb7d37982a5547
 
  These ‘gold’ rules help establish the spending mechanic and limit exploitation.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4599952&QTY=1&AFFILIATE=108875&CART=1"><iframe width="864" height="500" src="https://www.youtube.com/embed/jVnfr5HudQw" title="The Latest and Easiest Solution to Remove Kindle DRM on Windows (without Degrading)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>Epubor Ultimate for Mac:Helps you read books anywhere, including the best eBook Converter + eBook DRM Removal functions.</a>
-<!-- affiliate ads end -->
 ## Craft the Story, Setting, and NPCs
 
  How you craft your prompt on ChatGPT will determine what your experience will be like—and the next thing you should consider for your game’s prompt is the setting and story you would like. For instance, we used a world inspired by the Elder Scrolls as the basis of our world in this one.
@@ -130,11 +132,12 @@ thumbnail: https://thmb.techidaily.com/9dc1b7d2e1e187b05acc80cb9c7fb7d37982a5547
 > 5\. Completing a quest adds to the player's XP.
 
 ![Villager asking on the player's welfare in text game dialogue](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/01/villager-asking-on-the-player-s-welfare-in-text-game-dialogue.jpeg)
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2095369/26400" target="_top" id="2095369"><img src="//a.impactradius-go.com/display-ad/26400-2095369" border="0" alt="" width="1024" height="512"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095369/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  You can embellish this section with as many rules and preferences as you like. You can add an overarching plot, implement rules for governing, or even detail NPC clothes and attitudes in this section. But remember to keep it simple because multilayered rules may confuse the AI.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qNrOsjUdRz0?si=xGzhmNmtgxNTsRxN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Add Combat and Magic Rules
 
@@ -177,8 +180,9 @@ And finally, don’t forget to actually start the game:
  As you play, you might have to remind the AI of the rules you’ve laid out. The AI will respond to the same prompt differently, so every user might have a different experience.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484"><img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RvR5PNhspKE?si=uJcMYK9v-_Xq7fAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Using GPT-4 vs. GPT-3.5 to Run Your Game
 
 ![GPT-4 generating texts for a turn-based text RPG](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/gpt-4-generating-texts-for-a-turn-based-text-rpg.jpeg)
@@ -188,8 +192,9 @@ And finally, don’t forget to actually start the game:
  Should you pay the $20 solely for text-based gaming? Realistically, no. Unless you're a big fan of RPGs, it might not be worth the money. Also, GPT-4 has a limit of 50 messages every three hours, so you won't have endless fun, and you'll be returned to GPT-3 in a short while. Some users have also complained that[GPT-4 is slower than GPT3.5](https://www.makeuseof.com/why-is-chatgpt-4-so-slow-compared-to-chatgpt-35/) .
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851655&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## The Complete ChatGPT RPG Prompt
 
  We've combined everything and put it here for you to copy, so you can start your own game immediately.
@@ -288,23 +293,17 @@ And finally, don’t forget to actually start the game:
 
  Once again, don't forget that AI is still an emerging technology and will change as time goes on. Your experience using our prompts may differ significantly from ours.
 
-<!-- affiliate ads begin -->
-<a href="https://proteahair.pxf.io/c/5597632/1983634/23621" target="_top" id="1983634"><img src="//a.impactradius-go.com/display-ad/23621-1983634" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983634/23621" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Is This the Beginning of Open-Ended Gaming?
 
  ChatGPT has revealed that it is possible to have a game that changes with the player without following a pre-defined path or forcing the player to engage in the same NPC conversations. The future of gaming could mean entering your parameters and allowing AI to generate your ideal game without having a team of developers.
 
  You can tap into that future now with ChatGPT and create your own fun-filled adventure text game on the chat. Have fun, but remember that right now, AI is still very limited.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -313,4 +312,21 @@ And finally, don’t forget to actually start the game:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-files.techidaily.com/new-2024-approved-elevating-visuals-with-luminance-hdr-insight/"><u>[New] 2024 Approved Elevating Visuals with Luminance-HDR Insight</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-in-2024-digital-vault-for-internet-streams-a-recording-blueprint/"><u>[New] In 2024, Digital Vault for Internet Streams A Recording Blueprint</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-in-2024-super-camcorders-ranking-15-best-on-the-market/"><u>[New] In 2024, Super Camcorders Ranking #15 Best on the Market</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-android-and-iphones-hottest-social-tools-to-increase-fb-likes-for-2024/"><u>[Updated] Android & iPhone's Hottest Social Tools to Increase FB Likes for 2024</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/approved-streamline-your-youtube-watch-with-no-black-or-white-edges/"><u>2024 Approved Streamline Your YouTube Watch with No Black or White Edges</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/crafting-your-own-anthology-mastering-the-art-of-writing-poetry-with-chatgpt/"><u>Crafting Your Own Anthology: Mastering the Art of Writing Poetry with ChatGPT</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/decoding-the-workings-of-ai-driven-content-synthesis-for-firms/"><u>Decoding the Workings of AI-Driven Content Synthesis for Firms</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/dvd-shrink-dvddvdcprmmp4/"><u>DVD-Shrinkが機能しない場合の解決法: レンタルDVD及び地上波DVD(CPRM)からMP4への転送方法</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/gpt-powered-therapy-ensuring-client-safety/"><u>GPT-Powered Therapy: Ensuring Client Safety</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/gpt-series-faceoff-exploring-the-unique-aspects-of-gpt-4-gpt-4-turbo-and-gpt-4o-models/"><u>GPT-Series Faceoff: Exploring the Unique Aspects of GPT-4, GPT-4 Turbo & GPT-4o Models.</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/how-to-bookmark-and-revisit-your-conversations-with-chatgpt-at-any-time/"><u>How to Bookmark and Revisit Your Conversations with ChatGPT at Any Time</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/privacy-controls-are-they-enough-for-chatgpt/"><u>Privacy Controls: Are They Enough for ChatGPT?</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/utionize-your-videos-first-impression-with-these-makers-for-2024/"><u>Revolutionize Your Video's First Impression with These Makers for 2024</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/revolutionizing-mobile-experiences-in-depth-analysis-of-motorola-one-5g-aces-remarkable-speed-and-power-efficiency/"><u>Revolutionizing Mobile Experiences: In-Depth Analysis of Motorola One 5G Ace's Remarkable Speed and Power Efficiency</u></a></li>
+</ul></div>
 

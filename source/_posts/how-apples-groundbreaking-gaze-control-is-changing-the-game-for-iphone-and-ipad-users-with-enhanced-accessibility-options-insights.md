@@ -1,7 +1,7 @@
 ---
 title: How Apple's Groundbreaking Gaze Control Is Changing the Game for iPhone & iPad Users with Enhanced Accessibility Options | Insights
-date: 2025-02-04T11:55:08.967Z
-updated: 2025-02-06T23:08:03.700Z
+date: 2025-02-15T00:21:00.363Z
+updated: 2025-02-16T17:51:08.387Z
 tags:
   - apple
 categories:
@@ -31,7 +31,7 @@ Read on for a look at some of the new accessibility features coming to Apple har
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### New eye-tracking features
@@ -48,13 +48,13 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 [See all](https://www.zdnet.com/newsletters/)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Apple Music haptics
 
 For those who are deaf or hard of hearing, Apple plans to offer a Taptic Engine feature in Apple Music. When turned on, the feature will use a series of taps, vibrations, and other tactile responses to sync to a song's audio. Apple says the feature will work "across millions of songs in the Apple Music catalog."
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3AGmFrtBLHw?si=VhvpUaXHPBHl6OT6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Addressing motion sickness
 
@@ -65,7 +65,7 @@ Motion sickness in cars can often be the result of a disconnect between what you
 "Using sensors built into iPhone and iPad, Vehicle Motion Cues recognizes when a user is in a moving vehicle and responds accordingly," Apple said. "The feature can be set to show automatically on iPhone, or can be turned on and off in Control Center."
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Understanding speech
@@ -75,7 +75,7 @@ A new feature called Voice Shortcuts will let you "assign custom utterances" tha
 Another feature, Listen for Atypical Speech, will use machine learning to understand your speech patterns and your requests on-device, Apple said. The feature "gives users an option for enhancing speech recognition for a wider range of speech," the company said.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/umvX4ZdWbxk?si=tPXL0-Kzf9SQaY8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4YCkNXJjC3c?si=9Tn8KiqKGTZi1o7E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### New CarPlay features
@@ -85,7 +85,7 @@ Apple's in-car CarPlay software is also getting new accessibility features, incl
 **Also: [iOS and Android owners will now be alerted if an unknown tracker is moving with them](https://www.zdnet.com/article/ios-and-android-owners-will-now-be-alerted-if-an-unknown-tracker-is-moving-with-them/)**
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f-yPCh24EsA?si=3z8FAd_lMZeAjug7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Some other updates
@@ -122,22 +122,18 @@ Beyond those updates, Apple said that it's launching a range of smaller upgrades
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://twitter-videos.techidaily.com/new-in-2024-discovering-the-most-shared-twitvideos-of-the-year/"><u>[New] In 2024, Discovering the Most Shared TwitVideos of the Year</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/updated-in-2024-selecting-the-ultimate-steadicams-for-flawless-dslr-shoots/"><u>[Updated] In 2024, Selecting the Ultimate Steadicams for Flawless DSLR Shoots</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/1726030563270-7/"><u>「オンライン放送動画録画に最適! 私がピックアップした7つのレコーディング機器」</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/44cm44oe44kk44ov44kh44oz44k644gu44ot44oh44kq5lplusd5a2y5oml6acg77ya5pya44kc5yq55p6c55qe44gq5pa55rov44cn/"><u>「マイファンズのビデオ保存手順：最も効果的な方法」</u></a></li>
-<li><a href="https://location-social.techidaily.com/3-things-you-must-know-about-fake-snapchat-location-on-samsung-galaxy-a25-5g-drfone-by-drfone-virtual-android/"><u>3 Things You Must Know about Fake Snapchat Location On Samsung Galaxy A25 5G | Dr.fone</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/1726030383372-3gppmp4/"><u>3GPPファイルからMP4への完全な変換ガイド</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/4mkvmp4/"><u>4効果的なフリーコツ：MKVからMP4への変換ガイド</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/1726028828347-8/"><u>鑑賞のために！今月の一流、中国映像作品専用フリーウェブサイトベスト8選</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/54sh5paz44ko44oh44kj44k44o844gn44or44k944kz44oz44gr5yplusw44kk6l6844kt44gg44ot44oh44kq5pig5yop44gu5yq55p6c55qe44gq57eo6zug5pa55rov/"><u>無料エディターでパソコンに取り込んだビデオ映像の効果的な編集方法</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/alternatives-to-idm-for-youtube-content-extraction-a-comprehensive-guide-on-video-downloading-techniques-and-tools/"><u>Alternatives to IDM for YouTube Content Extraction - A Comprehensive Guide on Video Downloading Techniques and Tools</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/extend-your-workspace-for-less-save-hundreds-with-our-dual-monitor-deal-featuring-the-versatile-teamgee-find-out-how-on-zdnet/"><u>Extend Your Workspace for Less: Save Hundreds with Our Dual Monitor Deal Featuring the Versatile TeamGee - Find Out How on ZDNET</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/flipping-fun-facts-into-memes-with-kinemaster-for-2024/"><u>Flipping Fun Facts Into Memes with KineMaster for 2024</u></a></li>
-<li><a href="https://sound-tweaking.techidaily.com/in-2024-comparative-analysis-of-magix-samplitude-with-other-audio-workstations/"><u>In 2024, Comparative Analysis of MAGIX Samplitude with Other Audio Workstations</u></a></li>
-<li><a href="https://smart-video-editing.techidaily.com/new-video-cropping-made-easy-a-comprehensive-guide-to-using-avidemux-for-2024/"><u>New Video Cropping Made Easy A Comprehensive Guide to Using Avidemux for 2024</u></a></li>
-<li><a href="https://techidaily.com/this-is-how-you-can-recover-deleted-pictures-from-infinix-note-30i-by-fonelab-android-recover-pictures/"><u>This is how you can recover deleted pictures from Infinix Note 30i.</u></a></li>
-<li><a href="https://howto.techidaily.com/vivo-y27-4g-not-connecting-to-wi-fi-12-quick-ways-to-fix-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Vivo Y27 4G Not Connecting to Wi-Fi? 12 Quick Ways to Fix | Dr.fone</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/amv/"><u>スマートフォンAMV動画無制限再生方法</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-snapstrategy-101-crafting-effective-ads-for-biz/"><u>[New] SnapStrategy 101 Crafting Effective Ads for Biz</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-in-2024-unleash-creativity-without-breaking-the-bank-top-9-affordable-editors/"><u>[Updated] In 2024, Unleash Creativity Without Breaking the Bank - Top 9 Affordable Editors</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/10-crucial-updates-in-macos-catalina-1015-security-patches-insights-and-preparation-tips-techguide/"><u>10 Crucial Updates in MacOS Catalina 10.15 Security Patches: Insights & Preparation Tips - TechGuide</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/discover-the-latest-innovations-apples-upcoming-tech-enhancements-for-iphone-ipad-mac-and-more-in-autumn-with-cutting-edge-ai-zdnet/"><u>Discover the Latest Innovations: Apple's Upcoming Tech Enhancements for iPhone, iPad, Mac, & More in Autumn with Cutting-Edge AI | ZDNet</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/effective-strategies-to-retrieve-and-prevent-losing-your-airpods-further-insights/"><u>Effective Strategies to Retrieve and Prevent Losing Your AirPods Further - Insights</u></a></li>
+<li><a href="https://win-online.techidaily.com/guia-pratico-configuracao-do-modo-picture-in-picture-para-melhor-experiencia-video-dicas-detalhadas-e-funcionais/"><u>Guia Prático: Configuração Do Modo Picture-in-Picture Para Melhor Experiência Vídeo - Dicas Detalhadas E Funcionais</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-android-to-apple-how-to-transfer-photos-from-oppo-a1x-5g-to-ipad-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Android to Apple How To Transfer Photos From Oppo A1x 5G to iPad Easily | Dr.fone</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/in-2024-transforming-mundane-interviews-into-memorable-experienrances/"><u>In 2024, Transforming Mundane Interviews Into Memorable Experienrances</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/memorial-day-special-save-big-on-the-apple-watch-se-a-top-pick-of-my-latest-tech-buys-zdnet/"><u>Memorial Day Special: Save Big on the Apple Watch SE - A Top Pick of My Latest Tech Buys | ZDNet</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/the-evolution-of-conversational-ai-7-benefits-with-palm-2-for-googles-bard-system/"><u>The Evolution of Conversational AI: 7 Benefits with PaLM 2 for Google's BARD System</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/top-4-kid-friendly-ipad-models-a-comprehensive-guide-zdnet/"><u>Top 4 Kid-Friendly iPad Models : A Comprehensive Guide | ZDNet</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/top-rated-tablet-enhancements-for-the-latest-ipads-featured-on-zdnet/"><u>Top Rated Tablet Enhancements for the Latest iPads - Featured on ZDNet</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/yahoo-messengers-legacy-explored-uncovering-its-history-and-closure/"><u>Yahoo! Messenger's Legacy Explored: Uncovering Its History and Closure</u></a></li>
 </ul></div>
 

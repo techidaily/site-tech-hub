@@ -1,7 +1,7 @@
 ---
 title: "Save 20%% Today: Top Picks in Travel-Friendly Cell Case & Charger Bundles + Apple Band Deals on ZDNet"
-date: 2025-01-30T18:05:25.880Z
-updated: 2025-02-06T21:32:31.580Z
+date: 2025-02-14T21:06:27.334Z
+updated: 2025-02-16T16:48:32.786Z
 tags:
   - apple
 categories:
@@ -23,6 +23,10 @@ We've gone hands-on with dozens of laptops this year, and scoured the internet f
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Dn-24B6AURY?si=ErES2KWVnintY6h9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## The best laptop deals for Amazon Prime Day 2024
 
@@ -75,10 +79,6 @@ Equipped with an Nvidia GeForce RTX 4080 GPU and a dual mode mini LED display, t
 
 [View now at Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0C3P346B4%2Fref%3Dasc%5Fdf%5FB0C3P346B41727002800000%3Fcreative%3D395261%26creativeASIN%3DB0C3P346B4%26linkCode%3Dasn%26tag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Ca9ce9008-3603-459e-8a58-f4457742ba16%7Cdtp&dtb=1) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Prime Day Chromebook deals
 
 Asus/ZDNET
@@ -87,6 +87,10 @@ Asus/ZDNET
 * [Asus Chromebook Plus CX34 for $432](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FASUS-Chromebook-1920x1080-Processor-CX3402CBA-DH386-WH%2Fdp%2FB0CGJGZZ1L%2Fref%3Dsxin%5F15%5Fpa%5Fsp%5Fsearch%5Fthematic%5Fsspa%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Ca9ce9008-3603-459e-8a58-f4457742ba16%7Cdtp&dtb=1): Asus' stylish CX34 Chromebook Plus comes with a bit more local storage than most Chromebooks (256GB) as well as an ultra-thin form factor and over 10 hours of battery life.
 * [HP Chromebook 14 for $189 (Save $100)](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FHP-Chromebook-Graphics-Keyboard-14a-na0226nr%2Fdp%2FB09SVSBVP1%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Ca9ce9008-3603-459e-8a58-f4457742ba16%7Cdtp&dtb=1): It doesn't get much more budget than this. HP's 14-inch Chromebook comes with just 4GB of RAM, so it's perfect as a backup machine or secondary travel device.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Prime Day MacBook deals
 
 Kyle Kucharski/ZDNET
@@ -94,10 +98,6 @@ Kyle Kucharski/ZDNET
 * [Apple MacBook Air (M2) for $799 (save $200)](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2F2022-Apple-MacBook-Laptop-chip%2Fdp%2FB0B3BVWJ6Y%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Ca9ce9008-3603-459e-8a58-f4457742ba16%7Cdtp&dtb=1): [The MacBook Air (M2)](https://www.zdnet.com/article/m2-macbook-air-zdnets-product-of-the-year/) combines performance and portability. It's one of our favorite laptops at ZDNET and our Product of the Year -- and it's on sale for just $799, the lowest price we've ever seen.
 * [Apple MacBook Air (M3) for $899 (save $200)](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FApple-2024-MacBook-13-inch-Laptop%2Fdp%2FB0CX23V2ZK%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Ca9ce9008-3603-459e-8a58-f4457742ba16%7Cdtp&dtb=1): If you want to purchase one of Apple's latest MacBook Air products, you can save $200 on the [2024 version](https://www.zdnet.com/article/m3-macbook-air-review/), powered by an M3 chip -- the lowest price of the year. Don't forget to apply the coupon.
 * [Apple MacBook Pro (M3) for $1,400 (save $200)](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FApple-MacBook-Laptop-8%E2%80%91core-10%E2%80%91core%2Fdp%2FB0CM5JV268%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Ca9ce9008-3603-459e-8a58-f4457742ba16%7Cdtp&dtb=1): The [MacBook Pro (M3)](https://www.zdnet.com/article/m3-macbook-pro-buying-advice/) is one of the best-performing laptops on the market, and it's $200 off -- make sure you add the coupon offer on the page.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PKZUYice-ws?si=L8iMa9T3h7TMSWdQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Prime Day HP laptop deals
 
@@ -108,7 +108,7 @@ HPZDNET
 * [HP 14 inch Laptop for $349 (Save $120)](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FHP-Generation-i3-1215U-Graphics-14-dq5009nr%2Fdp%2FB0CS3XPZNH%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Ca9ce9008-3603-459e-8a58-f4457742ba16%7Cdtp&dtb=1): This budget laptop features a modest suite of hardware but covers all the basics for an inexpensive but capable and portable machine.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Prime Day Lenovo deals
@@ -127,6 +127,10 @@ Kyle Kucharski/ZDNET
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jf0JvOqiAXc?si=kHEHQGC_PhBv4xij" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## More Prime Day 2024 laptop deals
 
 Kyle Kucharski/ZDNET
@@ -135,23 +139,19 @@ Kyle Kucharski/ZDNET
 * [Microsoft Surface Pro 9 for $2,049 (save $651)](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FMicrosoft-Surface-Tablet-High-Performance-Pre-Installed%2Fdp%2FB0C5MW8R35%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Ca9ce9008-3603-459e-8a58-f4457742ba16%7Cdtp&dtb=1): It doesn't get more ultraportable than Microsoft's Surface Pro series of laptops, and the 13-inch Surface Pro 9 tablet is currently 20% off the regular price for just $2,149\. For that price, you're getting a powerful Intel Core i7 processor, a 1TB SSD, and more than 15 hours of battery life.
 * [Asus VivoBook 16 for $479 (save $120)](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FASUS-VivoBook-Laptop-WUXGA-1920%2Fdp%2FB0BT6NKLQR%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Ca9ce9008-3603-459e-8a58-f4457742ba16%7Cdtp&dtb=1): One of the most versatile and well-rounded laptops on the market is also one of the most affordable. The Vivobook 16 is designed to handle a variety of use cases with ease, and for just $479 you can't go wrong with its 1TB of storage, Windows 11, and solid selection of ports.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## FAQs
 
 ### When is Amazon Prime Day 2024?
 
 Amazon Prime Day officially ran from July 16 to July 17, but sometimes deals continue afterward.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jpdGEJJwMLY?si=eKgXOPpNeYvYKcel" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### What's the best gaming laptop deal on Prime Day?
 
 There are a lot of great gaming laptops on sale right now, but in our opinion, [this deal on the Razer Blade 16](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FRazer-Blade-Gaming-Laptop-4090-13th%2Fdp%2FB0BQP1WCP4%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Ca9ce9008-3603-459e-8a58-f4457742ba16%7Cdtp&dtb=1) is the best. We're talking $1,000 off one of the most high-end gaming laptops on the market, with hardware that is future-proofed to be relevant for years to come. 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Is Amazon Prime Day a good time to buy a laptop?
 
@@ -230,21 +230,22 @@ And the best deals still available from other retailers this week:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-friendly.techidaily.com/new-frame-it-up-right-expert-approved-photo-editing-software-2023/"><u>[New] Frame It Up Right Expert-Approved Photo Editing Software, 2023</u></a></li>
-<li><a href="https://article-posts.techidaily.com/new-jokesterjuxtaposer-for-2024/"><u>[New] JokesterJuxtaposer for 2024</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/new-understanding-your-macs-capabilities-in-big-sur/"><u>[New] Understanding Your Mac's Capabilities in Big Sur</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/updated-innovation-unleashed-new-samsung-ubd-k8500-review/"><u>[Updated] Innovation Unleashed - New Samsung UBD-K8500 Review</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-recording-your-live-feed-without-spending-a-dime-for-2024/"><u>[Updated] Recording Your Live Feed without Spending a Dime for 2024</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/expert-tips-for-deleting-every-interaction-youve-had-with-chatgpt/"><u>Expert Tips for Deleting Every Interaction You've Had with ChatGPT</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/expertly-curated-selection-of-8-must-have-artifice-intelligence-apps-on-mobile-phones/"><u>Expertly Curated Selection of 8 Must-Have Artifice Intelligence Apps on Mobile Phones</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/exploring-the-decline-of-chatgpt-jailbreaks-top-7-factors-behind-their-ineffectiveness/"><u>Exploring the Decline of ChatGPT Jailbreaks: Top 7 Factors Behind Their Ineffectiveness</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-life360-learn-how-everything-works-on-realme-c33-2023-drfone-by-drfone-virtual-android/"><u>In 2024, Life360 Learn How Everything Works On Realme C33 2023 | Dr.fone</u></a></li>
-<li><a href="https://extra-support.techidaily.com/in-2024-step-by-step-guide-to-swap-fins-sounds-on-windows/"><u>In 2024, Step-by-Step Guide to Swap Fins' Sounds on Windows</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/mimicking-your-penmanship-adapting-chatgpt-for-authentic-self-expressive-writing/"><u>Mimicking Your Penmanship: Adapting ChatGPT for Authentic Self-Expressive Writing</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/navigating-10-essential-stages-for-proficient-smm-expertise/"><u>Navigating 10 Essential Stages for Proficient SMM Expertise</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/restoring-visibility-how-to-show-disappeared-apps-on-your-iphone/"><u>Restoring Visibility: How to Show Disappeared Apps on Your iPhone</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/revolutionize-meal-prep-using-chatgpt-discover-7-resourceful-methods/"><u>Revolutionize Meal Prep Using ChatGPT: Discover 7 Resourceful Methods</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/secure-your-conversations-with-duckduckgo-ai-chat-meet-the-alternative-to-chatgpt/"><u>Secure Your Conversations with DuckDuckGo AI Chat - Meet the Alternative to ChatGPT</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/transform-your-ride-with-ai-tips-for-consulting-chatgpt-on-car-upgrades/"><u>Transform Your Ride with AI: Tips for Consulting ChatGPT on Car Upgrades</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-in-2024-unusual-message-content-finding-myself-online/"><u>[New] In 2024, Unusual Message Content Finding Myself Online</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-2024-approved-10-best-asmr-recorders-for-exceptional-audio-quality/"><u>[Updated] 2024 Approved 10 Best ASMR Recorders for Exceptional Audio Quality</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-apex-pcs-the-summit-of-desktop-technology-for-2024/"><u>[Updated] Apex PCs - The Summit of Desktop Technology for 2024</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-how-to-sculpt-the-perfect-youtube-moniker-tips-and-tricks/"><u>[Updated] How to Sculpt the Perfect YouTube Moniker Tips & Tricks</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-your-pathway-to-audio-mastery-download-and-install-vrecorder/"><u>[Updated] Your Pathway to Audio Mastery - Download & Install VRecorder</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/approved-audiovisual-harmony-merging-audio-and-visual-elements-on-youtube/"><u>2024 Approved Audiovisual Harmony Merging Audio and Visual Elements on YouTube</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/boost-your-productivity-on-the-go-expert-picks-of-leading-ipad-apps-to-supercharge-workflow-curated/"><u>Boost Your Productivity on the Go: Expert Picks of Leading iPad Apps to Supercharge Workflow | Curated</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/comprehensive-list-of-apple-watches-upgradable-to-watchos-11-and-exclusions-find-out-your-models-compatibility/"><u>Comprehensive List of Apple Watches Upgradable to WatchOS 11 & Exclusions: Find Out Your Model's Compatibility</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/expert-take-on-iphone-15-top-pick-for-tech-savvy-and-pros-alike-insights/"><u>Expert Take on iPhone 15: Top Pick for Tech Savvy and Pros Alike Insights</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/how-to-record-podcast-remotely-for-2024/"><u>How to Record Podcast Remotely for 2024</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-stop-google-chrome-from-tracking-your-location-on-oppo-a38-drfone-by-drfone-virtual-android/"><u>How to Stop Google Chrome from Tracking Your Location On Oppo A38? | Dr.fone</u></a></li>
+<li><a href="https://driver-download.techidaily.com/lenovo-ideapad-100-find-and-install-the-latest-drivers-for-windows-10-systems-easily/"><u>Lenovo IdeaPad 100 - Find and Install the Latest Drivers for Windows 10 Systems Easily!</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/the-ultimate-selection-of-premium-smartwatches-for-2-surveying-the-best-options-available-featuring-expert-evaluations-and-reviews/"><u>The Ultimate Selection of Premium Smartwatches for 2 Surveying the Best Options Available , Featuring Expert Evaluations & Reviews</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/top-5-essential-airpods-pro-accessories-to-upgrade-your-audio-experience/"><u>Top 5 Essential AirPods Pro Accessories to Upgrade Your Audio Experience</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/top-rated-laptops-a-comprehensive-review-of-apple-dell-and-other-leading-brands/"><u>Top-Rated Laptops : A Comprehensive Review of Apple, Dell, and Other Leading Brands</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/upcoming-tech-news-apples-next-move-with-new-dual-oled-ipad-pro-models-and-a-redesigned-129-inch-air-set-release-insights/"><u>Upcoming Tech News: Apple's Next Move with New Dual OLED iPad Pro Models and a Redesigned 12.9-Inch Air Set Release - Insights</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/whats-new-in-apple-carplay-explore-the-latest-upgrades-unveiled-at-wwdc-2024-by-zdnet-comprehensive-guide/"><u>What’s New in Apple CarPlay? Explore the Latest Upgrades Unveiled at WWDC 202^4 by ZDNET - Comprehensive Guide</u></a></li>
 </ul></div>
 

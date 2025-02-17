@@ -1,7 +1,7 @@
 ---
 title: Sharing the Top Remorse Moment of Upgrading to iOS 18 – A Common Dilemma Discussed on ZDNet
-date: 2025-02-03T03:07:31.465Z
-updated: 2025-02-07T09:13:00.010Z
+date: 2025-02-14T20:13:07.503Z
+updated: 2025-02-16T19:48:14.732Z
 tags:
   - apple
 categories:
@@ -60,7 +60,7 @@ Aside from the inferior Photos app navigation, videos in the Photos app no longe
 "The UX is a huge downgrade. It's so bad that I had to submit feedback to Apple via the feedback app in the beta. Never did one of those when it wasn't a technical bug, just pure user experience frustration," another [Redditor said](https://www.reddit.com/r/apple/comments/1e2jtq5/comment/ld1wsjg/?utm%5Fsource=share&utm%5Fmedium=web3x&utm%5Fname=web3xcss&utm%5Fterm=1&utm%5Fcontent=share%5Fbutton).
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to navigate the iOS 18 Photos app
@@ -109,18 +109,19 @@ I hope a future version of iOS 18 will bring back the Camera Roll or at least to
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://on-screen-recording.techidaily.com/new-2024-approved-essential-skills-for-capturing-soundless-videography/"><u>[New] 2024 Approved Essential Skills for Capturing Soundless Videography</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/new-a-peek-into-the-heart-of-youtubes-video-operations/"><u>[New] A Peek Into the Heart of YouTube's Video Operations</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/n-2024-the-essential-playbook-achieving-peak-video-editing-on-youtube-studio/"><u>[New] In 2024, The Essential Playbook Achieving Peak Video Editing on YouTube Studio</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/updated-download-and-store-linkedin-videos-the-ultimate-list-of-6-essential-apps/"><u>[Updated] Download & Store LinkedIn Videos The Ultimate List of 6 Essential Apps</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/2024-approved-the-visual-archive-top-hd-video-recorders-unveiled/"><u>2024 Approved The Visual Archive Top HD Video Recorders Unveiled</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/can-you-unlock-iphone-8-plus-after-forgetting-the-passcode-drfone-by-drfone-ios/"><u>Can You Unlock iPhone 8 Plus After Forgetting the Passcode? | Dr.fone</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/how-to-track-oppo-a58-4g-location-without-installing-software-drfone-by-drfone-virtual-android/"><u>How to Track Oppo A58 4G Location without Installing Software? | Dr.fone</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/mastering-digital-writing-9-ways-chatgpt-revolutionizes-content-creation/"><u>Mastering Digital Writing: 9 Ways ChatGPT Revolutionizes Content Creation</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/overcoming-machine-learning-illusions-using-6-proven-prompt-techniques/"><u>Overcoming Machine Learning Illusions Using 6 Proven Prompt Techniques</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/snapchats-ai-options-compared-is-myai-or-chatgpt-better-suited-for-you/"><u>Snapchat's AI Options Compared: Is MyAI or ChatGPT Better Suited for You?</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/step-by-step-guide-to-constructing-a-richly-detailed-ai-rpg-using-chatgpt-technology/"><u>Step-by-Step Guide to Constructing a Richly Detailed AI RPG Using ChatGPT Technology</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/top-11-free-apps-to-check-imei-on-honor-x9b-phones-by-drfone-android/"><u>Top 11 Free Apps to Check IMEI on Honor X9b Phones</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/top-imei-unlokers-for-your-realme-narzo-n53-phone-by-drfone-android/"><u>Top IMEI Unlokers for Your Realme Narzo N53 Phone</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-the-key-to-combining-linktree-and-tiktok-biographies-for-2024/"><u>[New] The Key to Combining Linktree and TikTok Biographies for 2024</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-in-2024-simplify-your-content-creation-mobile-friendly-youtube-channel-setup-guide/"><u>[Updated] In 2024, Simplify Your Content Creation Mobile-Friendly YouTube Channel Setup Guide</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/exploring-the-power-5-innovative-ways-to-utilize-chatgpts-programming-translator/"><u>Exploring the Power: 5 Innovative Ways to Utilize ChatGPT's Programming Translator</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/forgot-iphone-passcode-again-unlock-iphone-14-plus-without-passcode-now-by-drfone-ios/"><u>Forgot iPhone Passcode Again? Unlock iPhone 14 Plus Without Passcode Now</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/from-concept-to-execution-python-for-gpt-3/"><u>From Concept to Execution: Python for GPT-3</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-change-netflix-location-to-get-more-country-version-on-huawei-nova-y91-drfone-by-drfone-virtual-android/"><u>How to Change Netflix Location to Get More Country Version On Huawei Nova Y91 | Dr.fone</u></a></li>
+<li><a href="https://discover-dash.techidaily.com/how-to-connect-and-configure-your-computer-with-a-new-ssd/"><u>How to Connect & Configure Your Computer with a New SSD</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-old-call-logs-from-your-samsung-galaxy-s21-fe-5g-2023-by-fonelab-android-recover-call-logs/"><u>How to recover old call logs from your Samsung Galaxy S21 FE 5G (2023)?</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/24-optimize-video-cuts-selective-mac-mp4-slicers/"><u>In 2024, Optimize Video Cuts Selective Mac MP4 Slicers</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/llama-3-vs-gpt-an-in-depth-analysis-of-two-cutting-edge-technologies/"><u>Llama 3 Vs. GPT-^: An In-Depth Analysis of Two Cutting-Edge Technologies</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/siri-vs-chatgpt-understanding-their-unique-functionalities/"><u>Siri Vs. ChatGPT: Understanding Their Unique Functionalities</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/smart-selection-prioritizing-these-7-attributes-in-your-next-ai-chatbot-solution/"><u>Smart Selection: Prioritizing These 7 Attributes in Your Next AI Chatbot Solution</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/ultimate-guideline-for-mobizen-screen-recorder/"><u>Ultimate Guideline for Mobizen Screen Recorder</u></a></li>
+<li><a href="https://win-dash.techidaily.com/update-and-download-amd-ryzen-chipset-drivers-today-step-by-step-tutorial/"><u>Update & Download AMD Ryzen Chipset Drivers Today – Step-by-Step Tutorial</u></a></li>
 </ul></div>
 

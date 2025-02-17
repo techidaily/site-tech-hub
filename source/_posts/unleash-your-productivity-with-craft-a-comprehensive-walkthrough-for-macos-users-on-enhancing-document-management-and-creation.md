@@ -1,7 +1,7 @@
 ---
 title: Unleash Your Productivity with Craft - A Comprehensive Walkthrough for macOS Users on Enhancing Document Management and Creation
-date: 2025-01-04T16:14:36.475Z
-updated: 2025-01-06T17:38:48.608Z
+date: 2025-02-09T16:32:02.389Z
+updated: 2025-02-16T16:32:30.014Z
 tags:
   - apple
 categories:
@@ -27,13 +27,13 @@ So, how do you create this custom Flow? Let me show you. All you'll need to make
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nl0Z0eth1u4?si=0eecOBNfc--51AJO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Create a custom Focus
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 1\. Open System Preferences
@@ -41,7 +41,7 @@ So, how do you create this custom Flow? Let me show you. All you'll need to make
 Click on the Apple menu in the top left corner of your desktop. From the resulting pop-up menu, click System Preferences.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 2\. Access Notifications & Focus
@@ -60,6 +60,10 @@ Once Notifications & Focus is opened, click the Focus tab (**Figure 2**).
 
 Image: Jack Wallen
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 4\. Create the new Focus
 
 Click + at the bottom left corner of the window and select Custom (**Figure 3**).
@@ -76,10 +80,6 @@ Image: Jack Wallen
 
 After naming and selecting a color/icon, click Add to save the new Focus.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 5\. Allowing specific notifications
 
 The next thing to do is to specific contacts or apps that will be allowed when this Focus is enabled. To do that, click + under Allowed Notifications From (**Figure 5**).
@@ -95,7 +95,7 @@ From the pop-up list, select the contact(s) you want to be allowed to interrupt 
 Image: Jack Wallen
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2ipTu54inBo?si=gRegjvtVq5gm_PHo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 6\. Set the Focus to be enabled
@@ -140,20 +140,18 @@ Use this new Focus feature wisely, and it will help you be more productive while
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-share.techidaily.com/updated-in-2024-comprerant-and-reviewed-the-ultimate-list-of-ios-video-edits/"><u>[Updated] In 2024, Compreran't & Reviewed The Ultimate List of iOS Video Edits</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-the-photography-gurus-guide-to-date-stamping/"><u>[Updated] The Photography Guru's Guide to Date Stamping</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/comparative-study-of-premium-video-services-for-2024/"><u>Comparative Study of Premium Video Services for 2024</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/complete-collection-every-movavi-software-offered-by-movavi-unlimited/"><u>Complete Collection: Every Movavi Software Offered by Movavi Unlimited</u></a></li>
-<li><a href="https://windows11.techidaily.com/dodgy-deals-understanding-the-threats-of-low-price-windows-licenses/"><u>Dodgy Deals: Understanding the Threats of Low-Price Windows Licenses</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/enhance-connectivity-leading-wi-fi-expanders-for-a-stronger-signal/"><u>Enhance Connectivity: Leading Wi-Fi Expanders for a Stronger Signal</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/experience-swift-and-reliable-wireless-connection-at-bargain-prices-using-g309-lightspeed-technology/"><u>Experience Swift and Reliable Wireless Connection at Bargain Prices Using G309 LIGHTSPEED Technology</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/navigating-auto-gpt-installation-overcoming-6-frequent-hurdles/"><u>Navigating Auto-GPT Installation: Overcoming 6 Frequent Hurdles</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/pioneering-change-with-conversational-ai-in-medicine/"><u>Pioneering Change with Conversational AI in Medicine</u></a></li>
-<li><a href="https://fox-that.techidaily.com/steps-to-conduct-an-iphone-hardware-test-via-apples-online-remote-service/"><u>Steps to Conduct an iPhone Hardware Test via Apple's Online Remote Service</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/top-5-gpt4-techniques-to-simplify-routine-human-resources-duties/"><u>Top 5 GPT4 Techniques to Simplify Routine Human Resources Duties</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/transforming-online-queries-microsoft-elevates-bing-with-cutting-edge-artificebased-technology/"><u>Transforming Online Queries: Microsoft Elevates Bing with Cutting-Edge Artificebased Technology</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/understanding-ai-constraints-the-7-questions-chatgpt-struggles-with/"><u>Understanding AI Constraints: The 7 Questions ChatGPT Struggles With</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/unleash-creative-potential-using-free-dall-e-3-on-bing-by-microsoft/"><u>Unleash Creative Potential: Using Free DALL-E 3 on Bing by Microsoft</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/unlocking-efficient-website-building-with-chatgpt-four-essential-strategies/"><u>Unlocking Efficient Website Building with ChatGPT: Four Essential Strategies</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-in-2024-mastering-social-media-splitscreen-a-facebook-guide/"><u>[New] In 2024, Mastering Social Media Splitscreen A Facebook Guide</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-restoring-sound-linkage-in-obs-broadcasts/"><u>[New] Restoring Sound Linkage in OBS Broadcasts</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-2024-approved-clear-cut-content-how-to-minimize-unwanted-elements-in-video/"><u>[Updated] 2024 Approved Clear Cut Content How to Minimize Unwanted Elements in Video</u></a></li>
+<li><a href="https://extra-information.techidaily.com/blitz-photo-screening-for-windows-users-for-2024/"><u>Blitz Photo Screening for Windows Users for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/bypass-connectivity-errors-with-your-microsoft-wireless-display-on-the-latest-windows-11-update/"><u>Bypass Connectivity Errors with Your Microsoft Wireless Display on the Latest Windows 11 Update</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/chatgpt-and-fitness-master-the-art-of-creating-impactful-prompts/"><u>ChatGPT and Fitness: Master the Art of Creating Impactful Prompts</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/chatgpt-and-originality-understanding-its-research-methodology/"><u>ChatGPT and Originality: Understanding Its Research Methodology</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/creating-masterpieces-discover-8-creative-prompts-for-dall-e-3/"><u>Creating Masterpieces: Discover 8 Creative Prompts for DALL-E 3</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/deciphering-the-paperclip-maximizer-challenge-insights-into-advanced-artificial-intelligence/"><u>Deciphering the Paperclip Maximizer Challenge: Insights Into Advanced Artificial Intelligence</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/dissecting-5-differences-gpt-4-vs-gpt-35/"><u>Dissecting 5 Differences: GPT-4 Vs. GPT-3.5</u></a></li>
+<li><a href="https://games-able.techidaily.com/ensuring-smooth-mouse-scrolling-action/"><u>Ensuring Smooth Mouse Scrolling Action</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-easy-steps-on-how-to-create-a-new-apple-id-account-on-apple-iphone-xs-by-drfone-ios/"><u>In 2024, Easy Steps on How To Create a New Apple ID Account On Apple iPhone XS</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/1721946667186-the-top-6-gpt-3-addons-you-should-skip-save-your-sanity/"><u>The Top 6 GPT-3 Addons You Should Skip - Save Your Sanity</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Score Your New 2Nd Gen Apple Pencil for Just 95 Dollars! Exclusive Labor Day Offer | CNET Gadgets Deals
-date: 2025-01-05T18:39:30.091Z
-updated: 2025-01-06T21:59:47.128Z
+date: 2025-02-11T00:07:44.216Z
+updated: 2025-02-17T00:19:35.339Z
 tags:
   - apple
 categories:
@@ -34,7 +34,7 @@ By using the Apple Pencil with your iPad (specifically, the iPad Pro 2022 model)
 Get the [Apple Pencil (2nd Gen)](https://goto.walmart.com/c/5597632/565706/9383?sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.walmart.com%2Fip%2FApple-Pencil-2nd-Generation-Pixel-Perfect-Precision-Industry-Leading-Low-Latency-Perfect-Note-Taking-Drawing-Signing-documents-Attaches-Charges-Pairs%2F949679706&subId1=zd-__COM_CLICK_ID__-dtp) with $35 in savings right now if you want to upgrade your iPad stylus. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## When will this deal expire?
@@ -71,22 +71,20 @@ Deals are subject to sell-out or expire at any time, though ZDNET remains commit
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-boxes.techidaily.com/new-2024-approved-elevate-your-video-editing-skills-with-kinemaster-and-10-leading-alternatives/"><u>[New] 2024 Approved Elevate Your Video Editing Skills with KineMaster & 10 Leading Alternatives</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/new-top-15-seamless-instagram-downloaders-uncovered/"><u>[New] Top 15 Seamless Instagram Downloaders Uncovered</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/5-ways-to-track-samsung-galaxy-s23-ultra-without-app-drfone-by-drfone-virtual-android/"><u>5 Ways to Track Samsung Galaxy S23 Ultra without App | Dr.fone</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/corsair-void-mic-troubles-effective-solutions-and-fixes/"><u>Corsair Void Mic Troubles: Effective Solutions and Fixes</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/cross-language-communication-with-chatgpt-tips-and-tricks-for-a-global-experience/"><u>Cross-Language Communication with ChatGPT: Tips and Tricks for a Global Experience</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/deciding-on-top-notch-chatbots-an-in-depth-comparison-of-chatgpt-plus-and-perplexity/"><u>Deciding on Top-Notch Chatbots: An In-Depth Comparison of ChatGPT Plus and Perplexity</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/easy-travel-organization-at-your-fingertps-check-out-these-7-free-ai-itinerary-generators/"><u>Easy Travel Organization at Your Fingertps: Check Out These 7 Free AI Itinerary Generators</u></a></li>
-<li><a href="https://discover-great.techidaily.com/effizientes-klonen-von-crucial-ssds-auf-windows-10-losungen-und-tipps/"><u>Effizientes Klonen Von Crucial SSDs Auf Windows 10 - Lösungen Und Tipps</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/elevate-writing-productivity-leveraging-hix-and-gpt-4-technologies-for-automation/"><u>Elevate Writing Productivity: Leveraging HIX and GPT- 4 Technologies for Automation</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/1036966-9780962929557-emotional-clearing/"><u>Emotional Clearing | Free Book</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/get-started-with-open-source-gpt-4-companion-for-zero-costs-on-windows-systems/"><u>Get Started with Open Source GPT-4 Companion for Zero Costs on Windows Systems</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/in-2024-lens-legends-cutting-edge-camera-choices-1-10/"><u>In 2024, Lens Legends Cutting-Edge Camera Choices #1-10</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/movavi-online-free-file-converter-compatible-with-all-formats/"><u>Movavi Online Free File Converter - Compatible with All Formats</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/navigating-digital-truths-and-lies-how-chatgpt-4-is-revolutionizing-conversations-online/"><u>Navigating Digital Truths and Lies: How ChatGPT-4 Is Revolutionizing Conversations Online</u></a></li>
-<li><a href="https://games-able.techidaily.com/the-future-in-your-pocket-tecnos-latest-unveiling/"><u>The Future in Your Pocket: Tecno’s Latest Unveiling</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/top-10-substitutes-for-chatgpt-enhancing-your-ai-experience/"><u>Top 10 Substitutes for ChatGPT: Enhancing Your AI Experience</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/top-6-unreliable-chatgpt-add-ons-save-yourself-the-hassle/"><u>Top 6 Unreliable ChatGPT Add-Ons: Save Yourself the Hassle</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-the-best-in-storytelling-eight-film-genre-showcase/"><u>[New] The Best in Storytelling Eight Film Genre Showcase</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-seamless-creation-with-xp-movie-maker-features/"><u>[Updated] Seamless Creation with XP Movie Maker Features</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-the-legal-side-to-posting-videos-on-digital-platforms-like-fb/"><u>[Updated] The Legal Side to Posting Videos on Digital Platforms Like FB</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/2024-approved-unlocking-lenovos-full-potential-with-screen-recordings/"><u>2024 Approved Unlocking Lenovo's Full Potential with Screen Recordings</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/apple-reveals-a-batch-of-new-features-for-fall-devices-showcasing-ai-advancements-in-iphone-ipad-and-mac-products-zdnet-insights/"><u>Apple Reveals a Batch of New Features for Fall Devices, Showcasing AI Advancements in iPhone, iPad, and Mac Products | ZDNET Insights</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/can-t-view-mov-movies-content-on-redmi-k70-pro-by-aiseesoft-video-converter-play-mov-on-android/"><u>Can’t view MOV movies content on Redmi K70 Pro</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/discover-how-these-exceptional-iphone-16-traits-make-it-worth-your-upgrade-gadgetguru-insights/"><u>Discover How These Exceptional iPhone 16 Traits Make It Worth Your Upgrade – GadgetGuru Insights</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/get-ahead-with-apple-watch-series-10-step-by-step-pre-order-process-and-top-savings-strategies-zdnet/"><u>Get Ahead with Apple Watch Series 10: Step-by-Step Pre-Order Process & Top Savings Strategies | ZDNET</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/get-exclusive-access-try-the-new-ios-181-preview-with-enhanced-apple-features-zdnet/"><u>Get Exclusive Access: Try the New IOS 18.1 Preview with Enhanced Apple Features | ZDNet</u></a></li>
+<li><a href="https://techidaily.com/how-to-soft-reset-samsung-galaxy-m14-4g-phone-drfone-by-drfone-reset-android-reset-android/"><u>How to Soft Reset Samsung Galaxy M14 4G phone? | Dr.fone</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/in-2024-simplified-techniques-for-crafting-captions-on-fb-videos/"><u>In 2024, Simplified Techniques for Crafting Captions on FB Videos</u></a></li>
+<li><a href="https://games-able.techidaily.com/integrating-hrtf-knowledge-for-strategic-gameplay-in-valorant/"><u>Integrating HRTF Knowledge for Strategic Gameplay in Valorant</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/new-in-2024-audiovisual-mastery-on-a-budget-the-ultimate-list-of-free-audio-mixers/"><u>New In 2024, Audiovisual Mastery on a Budget The Ultimate List of Free Audio Mixers</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/samsung-reasserts-dominance-in-global-smartphone-shipments-surpassing-apple-amidst-rising-competition/"><u>Samsung Reasserts Dominance in Global Smartphone Shipments, Surpassing Apple Amidst Rising Competition</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/troubleshooting-cellular-connectivity-problems-after-ios-1721-upgrade-insights-by-zdnet/"><u>Troubleshooting Cellular Connectivity Problems After iOS 17.2.1 Upgrade | Insights by ZDNET</u></a></li>
 </ul></div>
 

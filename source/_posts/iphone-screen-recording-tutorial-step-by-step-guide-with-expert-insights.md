@@ -1,7 +1,7 @@
 ---
 title: IPhone Screen Recording Tutorial - Step-by-Step Guide with Expert Insights
-date: 2025-01-03T04:46:16.748Z
-updated: 2025-01-07T01:44:32.953Z
+date: 2025-02-11T17:21:03.017Z
+updated: 2025-02-16T23:34:13.563Z
 tags:
   - apple
 categories:
@@ -46,16 +46,16 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## How to record a phone call on iPhone
 
 **What you need**: 
 
 * One [iPhone](https://www.zdnet.com/article/best-iphone/) to host the call, which we recommend putting on speakerphone
 * Another recording device (this could be another iPhone, an [iPad](https://www.zdnet.com/article/best-ipad/), or even an Android device) using Voice Memos or another recording app to record the call
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 1\. Test your Voice Memos app
 
@@ -77,10 +77,6 @@ Now, play the file back and see if the audio is discernible. Make the adjustment
 
 For example, if the sound quality is too low, you may need to speak louder, increase the microphone sensitivity (go to Settings > Sounds & Haptics), or put the speaker closer to your mouth. 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 3\. Check whether you need to inform the other party that you're recording
 
 Always [check](https://www.rev.com/blog/productivity/phone-call-recording-laws-state#:~:text=Eleven%20states%20require%20two%2Dparty,Hampshire%2C%20Pennsylvania%2C%20and%20Washington.) if the state you're recording and residing in is a one-party or all-party state when it comes to recording consent. 
@@ -88,6 +84,10 @@ Always [check](https://www.rev.com/blog/productivity/phone-call-recording-laws-s
 **Also:** [**Every iPhone model that can be updated to Apple's iOS 18 (and which ones can't)**](https://www.zdnet.com/article/every-iphone-model-that-can-be-updated-to-apples-new-ios-18-public-beta-and-which-ones-cant/)
 
 One-party states require only one person on the call -- which would be you -- to consent. An all-party state requires both the person recording and the person(s) being recorded to consent. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 4\. Start recording
 
@@ -109,10 +109,6 @@ Spikes in the red waveform bar indicate a louder sound. A flatter bar indicates 
 
 Screenshot by Radhika Rajkumar/ZDNET
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 5\. End the recording and transfer the file
 
 When the conversation is over or you've got the information you need, end the recording by tapping the red button. 
@@ -125,15 +121,15 @@ Open up sharing options. You can also trim or rename the recording to something 
 
 Screenshot by Radhika Rajkumar/ZDNET
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Other ways to record
 
 Following the steps above is the easiest, most efficient, and most discreet way to record a phone call on your iPhone. If you or a trusted second party don't have another device to spare, here are a few alternatives. 
 
 Note: Many apps that record phone calls likely need to conference into the call before recording begins, which may take a moment and could be detectable by the other person on the call. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Rev Voice Recorder
 
@@ -142,7 +138,7 @@ Rev has a few options depending on what you need. If you want to record phone ca
 Plus, Rev offers AI-supported [transcription](https://www.rev.com/pricing) of your recordings for $0.25 per minute, or you can have a human professionally transcribe your recording for $1.50 per minute. Once you download your file, it will appear as an MP3 file on your device. This is a great option for recording phone calls and narrating screen recordings. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Google Voice
@@ -153,6 +149,10 @@ You can select the device from which you want to initiate a call via the app. Fo
 
 Once everyone is on the call, press the number four (4) on the keypad to start and end the recording. The call will end up in the record menu option after it ends. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Easy Voice Recorder
 
 [Easy Voice Recorder](https://apps.apple.com/us/app/easy-voice-recorder/id1222784166) is another free app that allows you to record high-quality voice memos or recordings to PCM, MP4, or ACC files -- which can then be saved to your iCloud account. The app can't record phone calls hosted by the same device, but it does have quick and easy built-in transcription capability for no extra cost. 
@@ -160,10 +160,6 @@ Once everyone is on the call, press the number four (4) on the keypad to start a
 **Also:** [**How to clear the cache on your iPhone (and why you should)**](https://www.zdnet.com/article/how-to-clear-cache-on-iphone-and-why-you-should/)
 
 As the name suggests, this app is designed for users to be able to whip out their phones and start recording whenever, wherever. If you download the app and use it on an iPad to record, you can drag and drop recordings with the Files or other recording apps for further transcriptions, or to consolidate recordings. 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GyfJUhsz_AY?si=x2HjoLX1B89oEPgZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## FAQs
 
@@ -188,6 +184,10 @@ Unfortunately, no -- at least not yet. Apple itself doesn't have an app, but the
 ## Does screen recording on iPhone record my call?
 
 Screen recording while on an audio or FaceTime call will only record your screen -- it won't capture any audio from you or your phone.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vca--yEhtdo?si=7ijqjyP-oi3LYze1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Does iPhone's Voice Memos have a time limit?
 
@@ -223,22 +223,21 @@ The Voice Memos app can record for an unlimited amount of time as long as you ha
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://tech-hub.techidaily.com/download-zebra-gk420d-driver-quickly-and-easily/"><u>[DOWNLOAD] Zebra GK420d Driver | Quickly & Easily</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/new-2024-approved-essential-frames-from-apples-display-max-length-156/"><u>[New] 2024 Approved Essential Frames From Apple's Display (Max Length 156)</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/new-in-2024-pioneering-techniques-to-transform-your-obs-studio-projects/"><u>[New] In 2024, Pioneering Techniques to Transform Your OBS Studio Projects</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/vering-the-past-best-history-youtubers/"><u>Discovering the Past Best History YouTubers</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/effortless-conversational-engagement-leveraging-the-power-of-chatgpt-api/"><u>Effortless Conversational Engagement: Leveraging the Power of ChatGPT API</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/engaging-spectacle-top-6-video-strategies-that-work/"><u>Engaging Spectacle Top 6 Video Strategies That Work</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/freedomgpt-and-beyond-mastering-open-source-large-language-models-on-your-pc/"><u>FreedomGPT and Beyond: Mastering Open-Source Large Language Models on Your PC</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/how-to-change-infinix-hot-40-pro-lock-screen-clock-in-seconds-by-drfone-android/"><u>How To Change Infinix Hot 40 Pro Lock Screen Clock in Seconds</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/in-2024-cross-social-video-broadcasting-from-twitter-to-snapchat/"><u>In 2024, Cross-Social Video Broadcasting From Twitter, To Snapchat</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/24-elevate-your-video-creation-check-out-the-top-12-flip-cam-gear/"><u>In 2024, Elevate Your Video Creation - Check Out the Top 12 Flip Cam Gear</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/leveraging-ai-how-to-use-chatgpt-for-stress-management/"><u>Leveraging AI: How to Use ChatGPT for Stress Management</u></a></li>
-<li><a href="https://review-topics.techidaily.com/possible-solutions-to-restore-deleted-contacts-from-google-pixel-8-by-fonelab-android-recover-contacts/"><u>Possible solutions to restore deleted contacts from Google Pixel 8.</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/transformative-communication-with-ai-unleashing-lifestyle-potential-through-chatgpt/"><u>Transformative Communication with AI: Unleashing Lifestyle Potential Through ChatGPT</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/understanding-the-data-protection-pitfalls-of-interactive-assistants/"><u>Understanding the Data Protection Pitfalls of Interactive Assistants</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/unlock-full-chatgpt-capabilities-on-pc/"><u>Unlock Full ChatGPT Capabilities on PC</u></a></li>
-<li><a href="https://win-premium.techidaily.com/unveiling-strategies-for-apples-triumph-over-tech-giants-at-the-upcoming-wwdc-event-exclusive-analysis-by-zdnet/"><u>Unveiling Strategies for Apple's Triumph Over Tech Giants at the Upcoming WWDC Event | Exclusive Analysis by ZDNet</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/why-confidentiality-breaks-when-giving-to-ai/"><u>Why Confidentiality Breaks When Giving to AI</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/eading-7-video-streaming-apps-to-enhance-your-youtube-mobile-experience/"><u>[New] Leading 7 Video Streaming Apps to Enhance Your YouTube Mobile Experience</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-phone-speaker-transcriber-voice-logging-iphone-24/"><u>[New] Phone Speaker Transcriber Voice Logging (iPhone '24)</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-the-new-era-of-mac-os-embracing-big-sur/"><u>[Updated] The New Era of Mac OS Embracing Big Sur</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/4-major-reasons-behind-your-chatgpt-disconnection-and-how-you-can-get-back-online/"><u>4 Major Reasons Behind Your ChatGPT Disconnection & How You Can Get Back Online</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/7-next-generation-ai-applications-surpassing-the-capabilities-of-chatgpt-by-openai/"><u>7 Next-Generation AI Applications Surpassing the Capabilities of ChatGPT by OpenAI</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/aiff-to-mp4-movavi/"><u>瀏覽器上免費AIFF to MP4 轉檔: 利用Movavi 變體工具</u></a></li>
+<li><a href="https://solve-luxury.techidaily.com/aomeebakkupuer-crucial-ssd/"><u>AOMEeBakkupuer - プロのCrucial SSDデータバックアップソフトウェア</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/discover-the-ultimate-10-replacements-for-handbrake-smarter-ways-to-transform-your-media-files/"><u>Discover the Ultimate 10 Replacements for HandBrake - Smarter Ways to Transform Your Media Files</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/1721795280481-freelancers-guide-choosing-between-bing-chat-and-chatgpt-top-8-factors/"><u>Freelancer's Guide: Choosing Between Bing Chat and ChatGPT - Top 8 Factors</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/209800372-9781609250294-her-inspiration/"><u>Her Inspiration | Free Book</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-from-oppo-a18-to-any-ios-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data from Oppo A18 to Any iOS Devices | Dr.fone</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/quick-start-guide-to-engaging-with-ios-vr-content/"><u>Quick Start Guide to Engaging with iOS VR Content</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/why-bots-are-winning-the-rise-of-conversational-ai/"><u>Why Bots Are Winning: The Rise of Conversational AI</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/will-ai-outdo-magazine-horoscopes-in-prophetic-accuracy/"><u>Will AI Outdo Magazine Horoscopes in Prophetic Accuracy?</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/winning-job-applications-with-advanced-ai-for-resumes/"><u>Winning Job Applications with Advanced AI for Resumes</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/your-ultimate-ai-glossary-guide-navigating-through-29-significant-concepts-in-tech-speak/"><u>Your Ultimate AI Glossary Guide: Navigating Through 29 Significant Concepts in Tech Speak</u></a></li>
 </ul></div>
 

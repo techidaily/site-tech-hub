@@ -1,7 +1,7 @@
 ---
 title: Will Artificial Intelligence Determine the Fate of Apple's Next Phenomenon, the iPhone 16? | Explored at ZDNET
-date: 2025-01-05T17:24:20.015Z
-updated: 2025-01-07T04:23:35.158Z
+date: 2025-02-15T23:08:36.060Z
+updated: 2025-02-16T20:47:15.837Z
 tags:
   - apple
 categories:
@@ -25,7 +25,7 @@ Ever since, those attributes have defined all smartphones, save for one common s
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qbuund2HKOQ?si=NaGHqIrx8hSL7gWV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### SPECIAL FEATURE
@@ -33,10 +33,6 @@ Ever since, those attributes have defined all smartphones, save for one common s
 [The Next Stage of Mobile Tech Smartphones remain the magical hubs of our digital lives, as we keep welcoming incremental advances like improved cameras, more foldable options, plus increasingly ubiquitous 5G. In 2024, our mobile devices look to wow us all over again -- with on-device AI, Qi2 charging, and all manner of form factors clamoring for our attention. ZDNET brings it all into focus.  Read now](https://www.zdnet.com/collection/the-next-stage-of-mobile-tech/)
 
 But of all the capabilities and components of these amazing and ubiquitous computing devices, it is the smartphone _camera_ that has seen the most extraordinary evolution. Phone cameras made their first appearance during the era when smartphones started becoming practical, everyday devices. Then, these cameras advanced in an App Store-centric world where companies like [Blackmagic Design could create camera apps](https://www.blackmagicdesign.com/products/blackmagiccamera) that redefine how a smartphone camera works. Now, artificial intelligence (AI) and machine learning (ML) are changing the very nature of what a camera can do.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Pre-modern smartphones
 
@@ -65,7 +61,7 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 Another phone -- and my personal device for four years -- was the [Palm Treo 600](https://www.zdnet.com/article/treo-600-debuts-with-new-improvements-and-old-design-flaws/), released in 2003\. This device did a lot, including supporting a camera capable of taking 640x480 resolution images. The Treo didn't have Wi-Fi or Bluetooth, limiting its connectivity to a cable connected to the computer for image downloads. Its big claim to fame was that it could run any of the thousands of PalmOS apps that were available for download. Installing those apps, however, also involved connecting a cable to a computer.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2008: The birth of the modern smartphone
@@ -118,6 +114,10 @@ Apple, too, was focusing on portrait mode photography in 2017, [introducing the 
 
 Overall, these initial machine learning capabilities enhanced overall photo processing, improving aspects like auto-focus, exposure, color balancing, and noise reduction. The integration of machine learning into the Pixel and iPhone's camera systems marked a significant step forward in the quality and capabilities of smartphone photography.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/o-sRtqHdEYY?si=NMTMQVxJsUaoguqh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## AI and machine learning in today's smartphones
 
 If you think about the stages of photography, we had light and shadow, then we had fixed images stored using chemicals (the film stage), then we had magnetic media (still analog), and then the rise of digital cameras and smartphones. In each of those stages, the one common factor was that the camera was meant as a capture device. It didn't do any of the art.
@@ -134,10 +134,6 @@ I asked Bob Caniglia, Blackmagic's director of sales operations, about smartphon
 
 Let's now explore the power that machine learning brings to smartphones. Specifically, I'll talk about the machine learning magic incorporated into flagship phones like the iPhone 15 Pro Max, the Google Pixel 8, the Samsung Galaxy S23, and the OnePlus 11.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5OmJZ4Z8jgk?si=YIoEaPI8geoiFSYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 1\. Image quality
 
 Smartphones are now capable of making substantial enhancements to the quality of images as they are captured in the camera. Here are three examples of machine learning in use in the previously listed flagship phones. 
@@ -151,6 +147,10 @@ This then helps the machine learning algorithms to analyze and adjust parameters
 **Low-light photography and night mode:** Speaking of tough lighting conditions, machine learning provides a powerful assist in low-light photography, where it helps in noise reduction, detail enhancement, and color accuracy. It does this using neural network technology to process multiple exposures, merging them into a single image while enhancing detail and reducing noise. Of course, decisions about what detail to enhance and what noise to reduce is where the AI comes into play.
 
 **HDR processing:** High dynamic range (HDR) processing helps balance the dark and bright areas of an image for an improved dynamic range. Algorithms dynamically adjust the exposure of different regions in a photo, merging multiple exposures for a balanced high dynamic range image, keeping the visual fidelity of the image while allowing for blacker blacks, whiter whites, and other darker and lighter colors to better reflect what the photographer originally aimed to capture.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/h5uImbOWmTg?si=z4kP-R0QbXbBAJTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 2\. Object knowledge
 
@@ -171,6 +171,10 @@ Some early facial recognition applications demonstrated bias. They were using ve
 This technique pits a "generator" algorithm against a "discriminator" algorithm process, where the discriminator provides feedback to the generator to drive improvement. The resulting learned effects, or style transfer processes, mimic the styles of various artists and techniques. This allows users to apply complex artistic styles to their photos, and for the resulting images to appear stylistically relevant. It also has [resulted in lawsuits](https://www.reuters.com/legal/litigation/judge-pares-down-artists-ai-copyright-lawsuit-against-midjourney-stability-ai-2023-10-30/).
 
 **Also: [Generative AI: Just don't call it an 'artist'](https://www.zdnet.com/article/generative-ai-just-dont-call-it-an-artist-say-scholars-in-science-magazine/)** 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6nvb0775GOM?si=peBB_Mo_4zcZFuci" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 3\. Quality-of-life enhancements
 
@@ -193,10 +197,6 @@ Predictive algorithms and object detection models are often used for real-time t
 One thing that's important to note: [Generative AI](https://www.zdnet.com/article/generative-ai-filled-us-with-wonder-in-2023-but-all-magic-comes-with-a-price/) is something that occurs _outside_ of the camera.
 
 As Blackmagic Design's Caniglia said, "There's been an incredible evolution of smartphone camera capabilities in comparison to just a couple of years ago. AI machine learning, especially with the new iPhone 15, has been a big driver. A huge part of that is because Apple has focused on developing technologies that do more with the actual information captured by the camera's sensor rather than a focus on creations of "faux images" via generational AI."
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0nGlyEL5K6Y?si=3KZhTTBvKcPmyS68" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Looking to the future
 
@@ -254,21 +254,15 @@ _You can follow my day-to-day project updates on social media. Be sure to subscr
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-2024-approved-elevate-your-presentations-with-voiceovers/"><u>[New] 2024 Approved Elevate Your Presentations with Voiceovers</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/new-beginning-your-first-fb-giveaway-announcement/"><u>[New] Beginning Your First FB Giveaway Announcement</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/new-in-2024-retro-revelry-on-snapchat-camera-roll-insights/"><u>[New] In 2024, Retro Revelry on Snapchat Camera Roll Insights</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-filmoras-blueprint-for-stellar-youtube-trailers-for-2024/"><u>[Updated] Filmora's Blueprint for Stellar YouTube Trailers for 2024</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/2024-approved-unlock-creative-communication-get-free-voice-effects-today/"><u>2024 Approved Unlock Creative Communication - Get FREE Voice Effects Today</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/boost-your-interview-skills-with-chatgpts-advanced-techniques/"><u>Boost Your Interview Skills with ChatGPT's Advanced Techniques</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/chatgpts-role-in-enhancing-creative-writing-skills-6-techniques-to-try/"><u>ChatGPT's Role in Enhancing Creative Writing Skills: 6 Techniques to Try</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/discovering-ais-roots-an-illustrative-history/"><u>Discovering AI's Roots: An Illustrative History</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/dji-phantom-3-standard-vs-advanced-vs-professional-vs-4k-for-2024/"><u>DJI Phantom 3 Standard Vs Advanced Vs Professional Vs 4K for 2024</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/generative-ai-essentials-an-in-depth-guide-tailored-for-parenting-in-a-digital-age/"><u>Generative AI Essentials: An In-Depth Guide Tailored for Parenting in a Digital Age</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-android-unlock-code-sim-unlock-your-vivo-x90s-phone-and-remove-locked-screen-by-drfone-android/"><u>In 2024, Android Unlock Code Sim Unlock Your Vivo X90S Phone and Remove Locked Screen</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/optimizing-patient-outcomes-with-ai-in-cognitive-therapy/"><u>Optimizing Patient Outcomes with AI in Cognitive Therapy</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/silicon-wit-from-laptops-to-vpns-connectivitys-quirky-tale/"><u>Silicon Wit: From Laptops to VPNs, Connectivity's Quirky Tale</u></a></li>
-<li><a href="https://extra-support.techidaily.com/snapcutsolutions-reviews-extensive-critique-for-2024/"><u>SnapCutSolutions Reviews – Extensive Critique for 2024</u></a></li>
-<li><a href="https://win-bits.techidaily.com/ultimate-guide-expertly-curated-mac-mind-mapping-apps-of-202/"><u>Ultimate Guide: Expertly Curated Mac Mind Mapping Apps of 202</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/unveiling-hugging-face-purpose-and-uses/"><u>Unveiling Hugging Face: Purpose & Uses</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/op-10-histology-streams-for-academics/"><u>[New] Top 10 Histology Streams for Academics</u></a></li>
+<li><a href="https://howto.techidaily.com/calls-on-google-pixel-7a-go-straight-to-voicemail-12-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Calls on Google Pixel 7a Go Straight to Voicemail? 12 Fixes | Dr.fone</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-preparation-to-beat-giovani-in-pokemon-go-for-poco-c65-drfone-by-drfone-virtual-android/"><u>In 2024, Preparation to Beat Giovani in Pokemon Go For Poco C65 | Dr.fone</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/in-2024-the-ultimate-guide-to-finding-instagram-filters-for-no-cost/"><u>In 2024, The Ultimate Guide to Finding Instagram Filters for No Cost</u></a></li>
+<li><a href="https://win-online.techidaily.com/les-meilleurs-outils-de-sauvegarde-disque-sans-frais-decouvrez-les-top-4-solutions/"><u>Les Meilleurs Outils De Sauvegarde Disque Sans Frais: Découvrez Les Top 4 Solutions</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/spotting-bogus-ai-in-conversations-via-gpt-notation/"><u>Spotting Bogus AI in Conversations via GPT Notation</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/step-by-step-tutorial-how-to-obtain-and-install-the-powerful-auto-gpt-tool/"><u>Step-by-Step Tutorial: How to Obtain & Install the Powerful Auto-GPT Tool</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/tailoring-exercise-routines-with-chatgpt-a-guide-for-personal-trainers/"><u>Tailoring Exercise Routines with ChatGPT: A Guide for Personal Trainers</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/the-art-of-trimming-excess-filtering-out-superfluous-gpt-plugins/"><u>The Art of Trimming Excess: Filtering Out Superfluous GPT Plugins</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/zdnets-picks-for-the-ultimate-mac-lineup-of-2024-features-and-reviews/"><u>ZDNet's Picks for the Ultimate Mac Lineup of 2024 - Features & Reviews</u></a></li>
 </ul></div>
 

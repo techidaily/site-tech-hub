@@ -1,7 +1,7 @@
 ---
 title: Mastering Custom ChatBot Development with Self-Data
-date: 2024-08-15T22:05:30.877Z
-updated: 2024-08-16T22:05:30.877Z
+date: 2025-02-12T17:51:38.308Z
+updated: 2025-02-16T23:24:34.903Z
 tags:
   - chatgpt
   - open-ai
@@ -19,6 +19,10 @@ thumbnail: https://thmb.techidaily.com/805e7ed862b37908d5fd3eef7b67791c5d0d0472c
 
  With advancements increasing at an alarming rate, it’s easy to worry that your job may be at risk of automation. Despite the surprising abilities AI programs like ChatGPT have already shown, there are still places where humans can outshine them. Here are three things you can do using Excel that are still out of reach for ChatGPT.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. Using Excel for Long-Term Report Storage and Data Entry
 
  There's hope in a few common tasks for those worried that AI may be coming for their job. Gaining extra competence in Excel’s VBA and the wide world of automated analysis tools can give you a leg up in the job market.
@@ -35,19 +39,12 @@ thumbnail: https://thmb.techidaily.com/805e7ed862b37908d5fd3eef7b67791c5d0d0472c
 
  While building out a single report can be handy, useful trends are more visible over long periods of time. Building dashboards to[visualize data trends](https://www.makeuseof.com/how-to-use-scatter-plot-predict-data-behavior-microsoft-excel/) and raise red flags immediately when things go wrong is still a highly valuable skill.
 
-<!-- affiliate ads begin -->
-<a href="https://checkout.mirillis.com/order/checkout.php?PRODS=4704640&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/547a5a56d43f6d40f9a6a2f76501d013/products/1_mirillis_action_boxshot_store_1x.jpg" border="0">
-	Home Use license is dedicated for personal, non-commercial use only. 
-	If Action! is used for commercial gain or to further any commercial purpose, 
-	a Commercial Use license is required. Multi-license (volume discount) is intended for single 
- 
-	company, user or members of the same household. Action! - screen and game recorder</a>
-<!-- affiliate ads end -->
 ## 2\. Customizable Report Creation in Excel
 
 ![A laptop sitting on a desk showing a data dashboard. There are several graphs showing and some other various data on screen.](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/data-dashboard.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532"><img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  While a single report is simple to create with ChatGPT, a set of data frozen in time isn’t always beneficial. One of the most potent abilities that Excel gives us the ability to create reports that the reader can instantly customize.
@@ -63,13 +60,15 @@ thumbnail: https://thmb.techidaily.com/805e7ed862b37908d5fd3eef7b67791c5d0d0472c
  Make your reports more useful by adding some[simple Excel features](https://www.makeuseof.com/essential-excel-functions/) . Ensure your reports can pull variable timeframes, highlight potential problems automatically, and sanitize data for long-term storage and flexibility.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940312&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=EdMRoNAFi0Q6mP7G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 3\. Easy-to-Use Forms in Excel
 
 ![Man in black suit sitting in front of a computer](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/02/pexels-kampus-production-8353777.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087264/19272" target="_top" id="2087264"><img src="//a.impactradius-go.com/display-ad/19272-2087264" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087264/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Forms are another great Excel option for those looking for value that ChatGPT can’t provide. Entering information manually can be time-consuming and frustrating. Giving end users the option to enter data independently as it arises frees up time and energy better spent analyzing the results.
@@ -81,8 +80,9 @@ thumbnail: https://thmb.techidaily.com/805e7ed862b37908d5fd3eef7b67791c5d0d0472c
  For those looking to blend forms and long-term data storage, looking into different ways to export data from Excel is essential. Learning how to take data from an entry form to a SQL database can help insulate your job and keep your work essential.
 
 <!-- affiliate ads begin -->
-<a href="https://vapordna.pxf.io/c/5597632/1494880/17238" target="_top" id="1494880"><img src="//a.impactradius-go.com/display-ad/17238-1494880" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1494880/17238" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## ChatGPT Isn’t Going to Automate You Out of a Job Yet
 
  Excel has many tasks that are still beyond the range of ChatGPT and its cohort of machine learning-driven knockoffs. With new advancements increasing at an alarming rate, it’s all too easy to worry that automation may be aiming for your job next.
@@ -91,14 +91,11 @@ thumbnail: https://thmb.techidaily.com/805e7ed862b37908d5fd3eef7b67791c5d0d0472c
 
  Learning how to create customizable reports and forms that enable data entry in Excel can help preserve your job. For those concerned that their position may be facing automation, there are still plenty of Excel skills out of AI’s range of ability for the foreseeable future.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -107,4 +104,20 @@ thumbnail: https://thmb.techidaily.com/805e7ed862b37908d5fd3eef7b67791c5d0d0472c
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://tech-hub.techidaily.com/download-zebra-gk420d-driver-quickly-and-easily/"><u>[DOWNLOAD] Zebra GK420d Driver | Quickly & Easily</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-aspect-ratio-preferences-on-facebook-vids/"><u>[New] Aspect Ratio Preferences on Facebook Vids</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-from-standard-to-spectacular-the-transformative-power-of-high-dynamic-range/"><u>2024 Approved From Standard to Spectacular The Transformative Power of High Dynamic Range</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/a-collection-of-trendy-tiktok-backgrounds/"><u>A Collection of Trendy TikTok Backgrounds</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/analyzing-security-in-browser-ai-plugins/"><u>Analyzing Security in Browser AI Plugins</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/effortless-conversational-engagement-leveraging-the-power-of-chatgpt-api/"><u>Effortless Conversational Engagement: Leveraging the Power of ChatGPT API</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/elevate-your-chatbot-experience-with-these-7-query-optimization-tactics/"><u>Elevate Your Chatbot Experience with These 7 Query Optimization Tactics</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/introduction-to-claude-2-purpose-and-practical-use-cases/"><u>Introduction to Claude 2: Purpose and Practical Use Cases</u></a></li>
+<li><a href="https://driver-download.techidaily.com/latest-intel-bluetooth-device-drivers-for-windows-7-quick-and-easy-download/"><u>Latest Intel Bluetooth Device Drivers for Windows 7 – Quick & Easy Download!</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/mastering-meme-magic-for-laughter/"><u>Mastering Meme Magic for Laughter</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/understanding-the-data-protection-pitfalls-of-interactive-assistants/"><u>Understanding the Data Protection Pitfalls of Interactive Assistants</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/unleashing-creativity-with-pythongpt-3-pairings/"><u>Unleashing Creativity with Python/GPT-3 Pairings</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-2024-approved-mavericks-mp4-video-editor-a-comprehensive-guide/"><u>Updated 2024 Approved Mavericks MP4 Video Editor A Comprehensive Guide</u></a></li>
+</ul></div>
 

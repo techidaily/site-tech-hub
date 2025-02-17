@@ -1,7 +1,7 @@
 ---
 title: "Beyond Convenience: Understanding AI's Limitations with 6 Insightful Reasons for Caution"
-date: 2024-08-15T22:06:03.343Z
-updated: 2024-08-16T22:06:03.343Z
+date: 2025-02-11T16:29:55.908Z
+updated: 2025-02-16T22:33:55.757Z
 tags:
   - chatgpt
   - open-ai
@@ -14,6 +14,10 @@ thumbnail: https://thmb.techidaily.com/d9580a0fe0d295d2fe4ac5bc754f7348af6d4884b
 ---
 
 ## Exciting Times for Everyone: GPT-4 Is Now Free; Plus Still Shines with 6 Benefits
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Quick Links
 
@@ -39,14 +43,12 @@ thumbnail: https://thmb.techidaily.com/d9580a0fe0d295d2fe4ac5bc754f7348af6d4884b
  Well, here are some reasons you might want to keep your ChatGPT Plus sub.
 
 <!-- affiliate ads begin -->
-<a href="https://cowinaudio.pxf.io/c/5597632/1116855/13794" target="_top" id="1116855"><img src="//a.impactradius-go.com/display-ad/13794-1116855" border="0" alt="" width="767" height="285"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1116855/13794" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 1 More Access to GPT-4o
 
 ![GPT modes for for ChatGPT Plus](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/screenshot-2024-05-21-at-1-13-53-pm.png)
-<!-- affiliate ads begin -->
-
-<!-- affiliate ads end -->
 
 [GPT-4o](https://www.makeuseof.com/how-gpt-4o-works-is-it-free/) [is OpenAI's latest flagship GPT model](http://www.makeuseof.com/how-gpt-4o-works-is-it-free/) , which it states is twice as fast as GPT-4 Turbo and 50% cheaper (when using APIs). However, Free users are not granted unlimited access to GPT-4o. OpenAI provides Free users with "limited access to GPT-4o."
 
@@ -61,39 +63,36 @@ thumbnail: https://thmb.techidaily.com/d9580a0fe0d295d2fe4ac5bc754f7348af6d4884b
  Benchmarks and tests revealed that GPT-4o may be faster, but GPT-4 Turbo seems more accurate in some categories. It's difficult to confirm the criteria for this and how some of these tests have been executed, but some users have reported better results from GPT-4—especially in mathematical and programming problems. Even OpenAI admits this, and according to its text evaluation results, GPT-4T does better at DROP (​​Discrete Reasoning Over Paragraphs) tests.
 
 ![gpt-40-02_light](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/gpt-40-02_light.png)
-<!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/2016067/18544" target="_top" id="2016067"><img src="//a.impactradius-go.com/display-ad/18544-2016067" border="0" alt="" width="1020" height="380"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2016067/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 [OpenAI](https://openai.com/index/hello-gpt-4o/)
 
  If some arbitrary tests don't convince you, consider the number of extra GPT-4 prompts you'll get from a sub. OpenAI allows 40 messages every three hours on GPT-4T and 80 messages every three hours on GPT-4o, giving you a grand total of 120 messages you can send to the GPT-4s in three hours.
 
-<!-- affiliate ads begin -->
-<span id="1997795">
-					<video width="250" height="250" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/23621-1997795">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:250px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fproteahair.pxf.io%2Fc%2F5597632%2F1997795%2F23621'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997795/23621" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 3 Create Your Own Custom GPT
 
  OpenAI will allow Free users to access the GPT store and use custom GPTs as part of its free package. However, this allowance doesn't extend to the creation of custom GPTs.
 
  You must have a Plus subscription to create custom GPTs. Paying will let you [build a custom GPT with your own data](https://www.makeuseof.com/how-use-chatgpt-my-gpt-bots/) and documents, which can then be shared with friends and colleagues or published freely on the marketplace.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 4 Generate Images With DALL-E
 
 ![chatgpt dalle 3 prompt example](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/chatgpt-dalle-3-prompt-example.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  When OpenAI announced the slew of features coming to ChatGPT's Free tier, they didn't mention direct access to its image generation AI, DALL-E. With DALL-E, you can enter any prompt, and the AI will attempt to create an image from your text. It's pretty useful, and it's easily half the reason why I keep my Plus subscription. Even with access to GPT-4o, Free users cannot generate images from text—all DALL-E capabilities are locked behind the subscription paywall.
 
  We are uncertain how this will translate to Free users' access to the GPT store, seeing as many custom GPTs rely on DALL-E. But it's very likely going to be completely unavailable until you pay.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9ECz3oZ8NrQ?si=86vkwkDJo9HQXpzt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 5  Get Early Access to ChatGPT Voice Mode and the ChatGPT Desktop App
 
@@ -105,15 +104,9 @@ thumbnail: https://thmb.techidaily.com/d9580a0fe0d295d2fe4ac5bc754f7348af6d4884b
 
  OpenAI also introduced us to a ChatGPT desktop in its demo. That is undoubtedly one of the early access features paid users will enjoy, and is first coming to macOS users. There may be more cool features down the line that offer very good value propositions, and paying for Plus is the only way to be among those who use it.
 
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BEditor%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/6d3207fd-9f15-4c21-f0ad-59c68e6a7e2a.png" border="0"></a>
-<!-- affiliate ads end -->
 ## 6  Full Access to Advanced Data Analysis, File Uploads, Vision, and Web Browsing
 
 ![ChatGPT plans on its website](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/screenshot-2024-05-21-at-1-17-24-pm.png)
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=4729507&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/TIU/Nero_TuneItUp_Screen_2.webp" border="0">/a>
-<!-- affiliate ads end -->
 
  Advanced data analysis, file uploads, vision, and web browsing were once features exclusive to OpenAI's paying customers. That has now changed, and all of these are available to Free users but with more limits. The limits include fewer prompts, fewer file uploads, and lower priority access to these services during peak hours.
 
@@ -129,8 +122,6 @@ thumbnail: https://thmb.techidaily.com/d9580a0fe0d295d2fe4ac5bc754f7348af6d4884b
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -138,4 +129,24 @@ thumbnail: https://thmb.techidaily.com/d9580a0fe0d295d2fe4ac5bc754f7348af6d4884b
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-hints.techidaily.com/2024-approved-bestow-photographic-frames-with-outer-radial-smearing/"><u>2024 Approved Bestow Photographic Frames with Outer Radial Smearing</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-perfect-pairing-of-livestream-tech-top-recommendations-for-youtubers/"><u>2024 Approved Perfect Pairing of Livestream Tech Top Recommendations for Youtubers</u></a></li>
+<li><a href="https://extra-information.techidaily.com/assessing-sns-hdr-pro-habits-and-alternative-options/"><u>Assessing SNS HDR Pro’ Habits & Alternative Options</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/begin-your-journey-into-langchain-llm-a-step-by-step-introduction/"><u>Begin Your Journey Into LangChain LLM: A Step-by-Step Introduction</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/chatgpt-vs-notion-ai-the-ultimate-guide-to-selecting-the-best-ai-tool/"><u>ChatGPT Vs. Notion AI: The Ultimate Guide to Selecting the Best AI Tool</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/easy-steps-to-recover-deleted-data-from-samsung-galaxy-xcover-6-pro-tactical-edition-by-fonelab-android-recover-data/"><u>Easy steps to recover deleted data from Samsung Galaxy XCover 6 Pro Tactical Edition</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/elevating-tabletop-roleplay-integrate-chatgpt-for-unforgettable-dandd-experiences/"><u>Elevating Tabletop Roleplay: Integrate ChatGPT for Unforgettable D&D Experiences</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-unlock-honor-play-7t-phone-password-without-factory-reset-by-drfone-android/"><u>How to Unlock Honor Play 7T Phone Password Without Factory Reset?</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-ultimate-guide-to-get-the-meltan-box-pokemon-go-for-oppo-a18-drfone-by-drfone-virtual-android/"><u>In 2024, Ultimate guide to get the meltan box pokemon go For Oppo A18 | Dr.fone</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/mitigating-data-exposure-risks-with-custom-gpts-on-chatgpt-platforms-essential-safety-measures/"><u>Mitigating Data Exposure Risks with Custom GPTs on ChatGPT Platforms: Essential Safety Measures</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/revolutionize-your-ai-experience-with-chatgpts-update-allowing-complete-gpt-model-personalization/"><u>Revolutionize Your AI Experience with ChatGPT’s Update, Allowing Complete GPT Model Personalization</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/solve-this-why-is-my-chatgpt-account-locked-discover-4-key-reasons-and-remedies/"><u>Solve This: Why Is My ChatGPT Account Locked? Discover 4 Key Reasons and Remedies</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/strategies-for-adding-value-youtubes-card-system/"><u>Strategies for Adding Value YouTube's Card System</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/0-funniest-youtube-shorts-video-ideas/"><u>The 10 Funniest YouTube Shorts Video Ideas</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/the-chatgpt-guidebook-for-freelance-writers-seeking-success/"><u>The ChatGPT Guidebook for Freelance Writers Seeking Success</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/top-12-vlogger-friendly-cameras-unveiled-in-2024/"><u>Top 12 Vlogger-Friendly Cameras Unveiled, In 2024</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/top-8-ai-writing-enhancers-for-efficient-content-creation/"><u>Top 8 AI Writing Enhancers for Efficient Content Creation</u></a></li>
+</ul></div>
 

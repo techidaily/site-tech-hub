@@ -1,7 +1,7 @@
 ---
 title: "Prime Day Savings Alert: Discover the Ultimate Top 36 Apple Bargains Still Up for Grabs!"
-date: 2025-01-31T09:51:49.424Z
-updated: 2025-02-07T10:19:15.364Z
+date: 2025-02-09T20:25:17.591Z
+updated: 2025-02-16T23:32:46.464Z
 tags:
   - apple
 categories:
@@ -85,15 +85,15 @@ While the Series 8 isn't the latest and greatest Apple Watch, it's still a great
 
 [View now at Walmart](https://goto.walmart.com/c/5597632/565706/9383?sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.walmart.com%2Fip%2FApple-Watch-Series-8-GPS-Cellular-45mm-Midnight-Aluminum-Case-Sport-Band-S-M-Fitness-Tracker-Blood-Oxygen-ECG-Apps-Always-On-Retina-Display%2F1490655580%3F&subId1=zd-__COM_CLICK_ID__-dtp) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Best refurbished Apple Watch deals of July 2024
 
 * [Apple Watch Series 7](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FApple-Watch-Cellular-Aluminum-Regular%2Fdp%2FB09Q4KVHGB%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C7c7fab62-f4b4-43b8-8c6d-09533977c7db%7Cdtp&dtb=1) (41mm, Clover Sport Band, Renewed): $220 (save $295)
 * [Apple Watch SE](https://goto.walmart.com/c/5597632/565706/9383?sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.walmart.com%2Fip%2FRestored-Apple-Watch-SE-40mm-GPS-Cellular-Gold-Aluminum-Case-Starlight-Sport-Band%2F5031506033%3F&subId1=zd-__COM_CLICK_ID__-dtp) (40mm, Pink Sport Band, Restored): $124 (save $21)
 * [Apple Watch SE](https://goto.walmart.com/c/5597632/565706/9383?sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.walmart.com%2Fip%2FApple-Watch-SE-GPS-Cellular-44mm-Gold-Aluminum-Case-with-Starlight-Sport-Band-Used%2F1620367883%3F&subId1=zd-__COM_CLICK_ID__-dtp) (44mm, GPS, Starlight Sport Band, Used): $125 (save $35)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## How did we choose these deals?
 
@@ -102,26 +102,18 @@ ZDNET only writes about deals we want to buy -- devices and products we desire, 
 We also looked over customer reviews to find out what matters to real people who already own and use the deals we're recommending. Our recommendations may also be based on our own testing -- in addition to extensive research and comparison shopping. The goal is to deliver the most accurate advice to help you shop smarter. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Q8Feep0Rc0?si=YkPhRxXGvrRRMJtb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What is the best Apple watch?
 
 ZDNET's top pick for the [best Apple watch](https://www.zdnet.com/article/best-apple-watch/) is the Apple Watch Ultra 2 since it is lauded by athletes and members of the press as the best Apple Watch ever made thanks to its rugged durability, large and bright display, long battery life, water resistance, and more. It's no surprise it became the flagship model as soon as the Ultra was released last year. 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iPCr_bxZjMQ?si=ubOsoq5umPEXL9xL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Do Apple Watches track my AFib?
 
 Yes, your Apple Watch, as long as it is a Series 6 or newer, can track your AFib, or irregular heartbeat. In fact, The US Food and Drug Administration (FDA) has recently [awarded](https://content.govdelivery.com/accounts/USFDA/bulletins/399d551) medical device development tool (MDDT) status to the Apple Watch's atrial fibrillation (AFib) history tracker. The feature is first piece of digital health technology to earn MDDT status, the FDA said in a statement.
 
 **Also:** [**Your Apple Watch's AFib history could soon be used in clinical studies**](https://www.zdnet.com/article/your-apple-watchs-afib-history-could-soon-be-used-in-clinical-studies/)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Apple Watch SE vs Series 8: Which is the better buy?
 
@@ -130,6 +122,10 @@ If you're buying your first Apple Watch or upgrading from a Series 6 or earlier,
 However, if you want to get in at the lowest price or you're buying a watch for a kid or an elderly family member (for the fall detection and heart rate monitoring, for example) then we'd recommend getting last year's Apple Watch [Series 8](https://www.zdnet.com/article/apple-watch-series-8-review/) over the [Apple Watch SE](https://www.zdnet.com/article/apple-watch-se-2022-vs-apple-watch-se-2020-should-you-upgrade/) because it has more (and better) health sensors and it also has emergency crash detection for accidents.
 
 **Also**: [**Watch Series 8 vs Series 9: Should you upgrade?**](https://www.zdnet.com/article/apple-watch-series-9-vs-apple-watch-series-8/) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## What is the newest Apple Watch?
 
@@ -146,12 +142,16 @@ Apple offers several band options that are included with their watches, some dep
 Other band options include the Ocean Band, Alpine Loop, Milanese Loop, Trail Loop, Solo Loop, Braided Solo Loop, and more. Apple and other retailers offer tons of bands made of differing materials in a multitude of colors and designs as well. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zmXpl6irBYk?si=BXjGpQr6PXFcqhCI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Are there any alternative smartwatches worth considering?
 
 The Apple watch models are not the only options for smart watches, despite their popularity. ZDNET rounded up the [best smartwatch deals](https://www.zdnet.com/article/best-black-friday-and-cyber-monday-smartwatch-deals-still-available/) so you can scope more alternative deals, including the Fitbit Versa 4, Fitbit Luxe, Google Pixel Watch, Samsung Galaxy Watch 6, and more. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## What does "trade-in" mean?
 
@@ -205,21 +205,24 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-screen-grab.techidaily.com/new-in-2024-download-install-and-utilize-obs-effectively-on-a-macpc/"><u>[New] In 2024, Download, Install, and Utilize OBS Effectively on a MacPC</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/n-2024-unveil-your-video-potential-streaming-google-meet-to-youtube-guide/"><u>[New] In 2024, Unveil Your Video Potential Streaming Google Meet to YouTube Guide</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/ed-in-2024-earn-extra-your-guide-to-joining-the-youtube-premium-club/"><u>[Updated] In 2024, Earn Extra Your Guide to Joining the YouTube Premium Club</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/2024-approved-discovering-top-5-fluids-in-virtual-playgrounds/"><u>2024 Approved Discovering Top 5 Fluids in Virtual Playgrounds</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/choosing-between-browser-enabled-chatgpt-and-chatgpt-extensions-optimal-usage-guide/"><u>Choosing Between Browser-Enabled ChatGPT and ChatGPT Extensions: Optimal Usage Guide</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/discover-11-popular-places-to-legally-watch-movies-online/"><u>Discover 11 Popular Places to Legally Watch Movies Online</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/how-to-leverage-chatgpts-custom-instruction-functionality-for-advanced-tasks/"><u>How to Leverage ChatGPT's Custom Instruction Functionality for Advanced Tasks</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/in-2024-a-deep-dive-into-ffmpeg-for-authentic-unaltered-audio-extraction/"><u>In 2024, A Deep Dive Into FFmpeg for Authentic, Unaltered Audio Extraction</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/is-investing-in-exclusive-ai-craftsmanship-worthwhile/"><u>Is Investing in Exclusive AI Craftsmanship Worthwhile?</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/macbook-air-users-must-know-trick-effortlessly-managing-dual-displays/"><u>Macbook Air Users' Must-Know Trick: Effortlessly Managing Dual Displays</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/privacy-advocates-guide-leaving-chatgpt-behind/"><u>Privacy Advocate's Guide - Leaving ChatGPT Behind</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/saving-your-ai-discussions-exporting-data-from-chatgpt/"><u>Saving Your AI Discussions: Exporting Data From ChatGPT</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/step-by-step-guide-implementing-ai-agents-in-your-web-browser-with-agentgpt/"><u>Step-by-Step Guide: Implementing AI Agents in Your Web Browser with AgentGPT</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/the-ultimate-aspect-ratio-checklist-for-editors-and-directors/"><u>The Ultimate Aspect Ratio Checklist for Editors and Directors</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/top-8-benefits-of-integrating-artificial-intelligence-in-education-what-educators-need-to-know/"><u>Top 8 Benefits of Integrating Artificial Intelligence in Education: What Educators Need to Know</u></a></li>
-<li><a href="https://some-tips.techidaily.com/transforming-work-how-ai-agents-represent-a-new-era-of-innovation-and-permanent-shifts-in-employment-insights-from-zdnet/"><u>Transforming Work: How AI Agents Represent a New Era of Innovation and Permanent Shifts in Employment - Insights From ZDNet</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-in-2024-visual-enhancement-expertly-applying-borders-on-social-media-images/"><u>[New] In 2024, Visual Enhancement Expertly Applying Borders on Social Media Images</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-optimize-viewing-the-finest-html5-video-solutions/"><u>2024 Approved Optimize Viewing The Finest HTML5 Video Solutions</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/avoiding-pitfalls-7-critical-considerations-when-choosing-not-to-use-generative-ai-for-chatbots/"><u>Avoiding Pitfalls: 7 Critical Considerations When Choosing Not to Use Generative AI for Chatbots</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/chatgpt-error-handling-addressing-plugin-service-connection-woes-successfully/"><u>ChatGPT Error Handling: Addressing Plugin Service Connection Woes Successfully</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/delving-into-t-series-revenue-generation-on-video-platforms-for-2024/"><u>Delving Into T-Series' Revenue Generation on Video Platforms for 2024</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/downloadupdate-your-surface-device-drivers-with-simple-steps/"><u>Download/Update Your Surface Device Drivers with Simple Steps</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/fixing-windows-11-bluetooth-connectivity-problems-solutions-unveiled/"><u>Fixing Windows 11 Bluetooth Connectivity Problems: Solutions Unveiled</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/from-ideas-to-impressions-writing-with-ais-insight/"><u>From Ideas to Impressions: Writing with AI's Insight</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-old-call-logs-from-your-realme-11-5g-by-fonelab-android-recover-call-logs/"><u>How to recover old call logs from your Realme 11 5G?</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/in-2024-a-compreehed-guide-to-online-identity-youtube-account-setup/"><u>In 2024, A Compreehed Guide to Online Identity YouTube Account Setup</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-network-locked-sim-card-inserted-on-your-motorola-moto-g24-phone-unlock-it-now-by-drfone-android/"><u>In 2024, Network Locked SIM Card Inserted On Your Motorola Moto G24 Phone? Unlock It Now</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/leveraging-poe-path-on-quora-for-ai-insights/"><u>Leveraging POE Path on Quora for AI Insights</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/masterful-notetaking-strategies-using-gpt-technology/"><u>Masterful Notetaking Strategies Using GPT Technology</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/sonic-semantics-melody-enhanced-communication-techniques/"><u>Sonic Semantics: Melody-Enhanced Communication Techniques</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/top-ai-contenders-decoded-is-gpt-n-or-llama-the-ultimate-choice/"><u>Top AI Contenders Decoded: Is GPT-N or Llama the Ultimate Choice?</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/ultimate-techniques-for-designing-captivating-text-adventures-using-chatgpt/"><u>Ultimate Techniques for Designing Captivating Text Adventures Using ChatGPT</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/unleash-creativity-select-top-5-ai-prompt-craftors/"><u>Unleash Creativity: Select Top 5 AI Prompt Craftors</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/vivomove-hr-by-garmin-the-fashionable-smartwatch-perfect-for-your-everyday-activity/"><u>Vivomove HR by Garmin - The Fashionable Smartwatch Perfect for Your Everyday Activity</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/what-you-want-to-know-about-two-factor-authentication-for-icloud-from-your-iphone-14-plus-by-drfone-ios/"><u>What You Want To Know About Two-Factor Authentication for iCloud From your iPhone 14 Plus</u></a></li>
 </ul></div>
 

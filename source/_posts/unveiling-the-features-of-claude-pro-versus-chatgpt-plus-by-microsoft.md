@@ -1,7 +1,7 @@
 ---
 title: Unveiling the Features of Claude Pro Versus ChatGPT Plus by Microsoft
-date: 2024-08-15T22:09:21.142Z
-updated: 2024-08-16T22:09:21.142Z
+date: 2025-02-14T19:24:55.731Z
+updated: 2025-02-16T23:11:36.350Z
 tags:
   - chatgpt
   - open-ai
@@ -36,8 +36,9 @@ thumbnail: https://thmb.techidaily.com/0c48024453358ef6a98b286edd181eb113a17b352
 ![Screenshot of ChatGPT home screen](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/screenshot-of-chatgpt-home-screen.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=2069351&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-24_%282%29.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Comparing the Language Models of Bing Chat and ChatGPT
 
  One of the fundamental differences between the chatbots is the language model they use. Currently, free ChatGPT users are restricted to GPT-3.5, with the much-hyped GPT-4 only available to premium users.
@@ -45,8 +46,9 @@ thumbnail: https://thmb.techidaily.com/0c48024453358ef6a98b286edd181eb113a17b352
  Bing Chat uses the latest version of the language model, GPT-4\. However, there are some[key differences between GPT-4 and GPT-3.5](https://www.makeuseof.com/gpt-4-vs-gpt-35-differences-explained/) :
 
 <!-- affiliate ads begin -->
-<a href="https://mushroom-supplies.sjv.io/c/5597632/1692242/18134" target="_top" id="1692242"><img src="//a.impactradius-go.com/display-ad/18134-1692242" border="0" alt="" width="834" height="592"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1692242/18134" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1rCjQ09iG7s?si=Si1fUBric8MH1VHI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Creativity
 
  Both have levels of creativity that are testimony to the heights that AI has reached. However, creativity is a difficult metric to measure, and the tests we tried showed GPT-3.5 is close to GPT-4 in simple creative tasks.
@@ -58,8 +60,9 @@ For example, below is Bing Chat's effort at a simple limerick.
  As you see from the ChatGPT effort below, both models can construct creative prose remarkably well.
 
 ![Screenshot of ChatGPT Limerick-1](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/screenshot-of-chatgpt-limerick-1.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BOutlook%2BRecovery"><img src="https://www.systoolsgroup.com/box/outlook-recovery.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Safety
@@ -70,9 +73,6 @@ For example, below is Bing Chat's effort at a simple limerick.
 
  The ability to process image data is also a new feature in GPT-4\. However, this feature currently isn't integrated into Bing Chat, so it isn't covered here. The other major difference is the accuracy of the response. This is covered next.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537546&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/7_copy_2_2_hdpro.png" border="0">HD Video Converter Factory Pro</a>
-<!-- affiliate ads end -->
 ## How Accurate Are Bing Chat and ChatGPT
 
  Both platforms go to pains to make users aware that the models may generate responses that contain incorrect information. This is clearly displayed on both interfaces.
@@ -85,16 +85,21 @@ For example, below is Bing Chat's effort at a simple limerick.
 
 ![Screenshot of Plastic Recycling Stats from Bing Chat](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/screenshot-of-plastic-recycling-stats-from-bing-chat.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KaqfZcWg5sE?si=LPmSKk7AFp8VxDFD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  The response supplied figures as well as links to the sources from which the data was retrieved. However, the inclusion of US plastic exports was slightly out of context with the question. We would hesitate to call this a glitch, but it does show AI's tendency to wander off-topic at times.
 
 By contrast, the ChatGPT response was to admit its limitations.
 
 ![Screenshot of ChatGPT response to recycling question](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/screenshot-of-chatgpt-response-to-recycling-question.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=11224199&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/copy_boxshot_lyricvideo.png" border="0">Lyric Video Creator Professional Version</a>
-<!-- affiliate ads end -->
 
  The answer tries to provide estimates and other sources that could be referenced, but there are no hard and fast facts.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Comparing the Interfaces of ChatGPT and Bing Chat
 
@@ -107,20 +112,14 @@ By contrast, the ChatGPT response was to admit its limitations.
  For instance, if you're searching for a list of online resources, Bing Chat provides links to the listed websites, while ChatGPT compiles a similar list of results without links. Furthermore, in Bing Chat, scrolling down to the search section provides a link to pursue your search further.
 
 ![Screenshot of Bing Chat response to education query](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/screenshot-of-bing-chat-response-to-education-query.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633309&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/3_premium-icon.png" border="0"> Take advantage of PREMIUM features for 12 months. 
-Create your texts / logos without any limitation. 
-No attribution required when downloading. 
-No advertising on the website. 
- TextStudio.com  PREMIUM - Yearly Membership</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_dOmuXhsV6Y?si=aT6vgPbDx4ajjvdr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  As you can see, the response included links to the listed websites. Compare this to the ChatGPT response:
 
 ![Screenshot of ChatGPT list of educational websites](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/screenshot-of-chatgpt-list-of-educational-websites.jpg)
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 
 ## Which Is Best: Bing Chat or Chat GPT?
 
@@ -144,14 +143,11 @@ No advertising on the website.
 
  As AI chatbots become more widespread, the differences between these early adopters will only continue to widen. However, by understanding the unique features of each platform, users can choose the chatbot that best suits their needs.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -160,4 +156,26 @@ No advertising on the website.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-cloud.techidaily.com/21-edition-breakdown-analyzing-the-revolution-in-vegas-pro-gaming/"><u>'21 Edition Breakdown – Analyzing the Revolution in Vegas Pro Gaming</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-2024-approved-soundscape-synthesis-studio-mac-basics/"><u>[Updated] 2024 Approved Soundscape Synthesis Studio Mac Basics</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-the-ultimate-guide-to-adding-youtube-media-to-google-slides/"><u>2024 Approved The Ultimate Guide to Adding YouTube Media to Google Slides</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/best-dvd-shrink-substitutes-for-optimal-performance-on-windows-11/"><u>Best DVD Shrink Substitutes for Optimal Performance on Windows 11</u></a></li>
+<li><a href="https://video-capture.techidaily.com/best-value-gaming-peripherals-for-under-100-for-2024/"><u>Best Value Gaming Peripherals for Under $100 for 2024</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/chrome/"><u>Chromeブラウザで簡単にダウンロード可能な動画の方法一覧</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/comparing-audio-quality-the-key-differences-between-aiff-and-wav-formats-plus-effortless-methods-for-transforming-aiff-into-wav/"><u>Comparing Audio Quality: The Key Differences Between AIFF and WAV Formats + Effortless Methods for Transforming AIFF Into WAV</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/complete-tutorial-how-to-install-a-pirates-life-for-me-extension-in-kodi-for-unlimited-movie-and-tv-content/"><u>Complete Tutorial: How to Install A Pirate's Life for Me Extension in Kodi for Unlimited Movie & TV Content</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/dive-into-diverse-languages-with-googles-editor-selection-mondly/"><u>Dive Into Diverse Languages With Google's Editor Selection - Mondly</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/easy-conversion-from-sbv-to-srtxmlvtt-a-comprehensive-guide-for-your-youtube-closed-captions/"><u>Easy Conversion From SBV to SRT/XML/VTT: A Comprehensive Guide for Your YouTube Closed Captions</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/easy-guide-to-transferring-your-dvd-content-onto-apple-tv/"><u>Easy Guide to Transferring Your DVD Content Onto Apple TV</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/easy-tutorial-for-transforming-avchd-video-to-wmv-techniques-for-desktop-and-internet-tools/"><u>Easy Tutorial for Transforming AVCHD Video to WMV: Techniques for Desktop and Internet Tools</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/easy-tutorial-on-transforming-your-videos-for-playback-on-apples-mobile-gadgets-ipadiphoneipod/"><u>Easy Tutorial on Transforming Your Videos for Playback on Apple's Mobile Gadgets (iPad/iPhone/iPod)</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/effortless-bulk-conversion-techniques-for-changing-3gp-videos-into-wmv-on-a-windows-pc/"><u>Effortless Bulk Conversion Techniques for Changing 3GP Videos Into WMV on a Windows PC</u></a></li>
+<li><a href="https://fox-http.techidaily.com/from-muffled-to-clear-the-initial-use-of-fade-in-audition-for-2024/"><u>From Muffled to Clear The Initial Use of Fade in Audition for 2024</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/from-social-media-savant-to-money-maker-on-instagram/"><u>From Social Media Savant to Money Maker on Instagram</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-from-vivo-y100-to-samsung-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data from Vivo Y100 to Samsung Phone | Dr.fone</u></a></li>
+<li><a href="https://fox-access.techidaily.com/in-2024-xsplit-library-downloads-and-critical-perspectives/"><u>In 2024, XSplit Library Downloads and Critical Perspectives</u></a></li>
+<li><a href="https://discover-awesome.techidaily.com/step-by-step-guide-to-transferring-your-amazon-kindle-bookmarks-and-annotations-into-evernote/"><u>Step-by-Step Guide to Transferring Your Amazon Kindle Bookmarks & Annotations Into Evernote</u></a></li>
+</ul></div>
 

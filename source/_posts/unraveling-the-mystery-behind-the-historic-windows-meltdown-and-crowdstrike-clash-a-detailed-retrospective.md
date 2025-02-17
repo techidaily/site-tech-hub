@@ -1,7 +1,7 @@
 ---
 title: Unraveling the Mystery Behind the Historic Windows Meltdown and CrowdStrike Clash - A Detailed Retrospective
-date: 2025-01-03T16:12:56.902Z
-updated: 2025-01-07T03:55:58.621Z
+date: 2025-02-15T17:16:43.667Z
+updated: 2025-02-16T16:35:15.166Z
 tags:
   - apple
 categories:
@@ -33,7 +33,7 @@ In this case, the trusted software developer is a firm called CrowdStrike Holdin
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/e4Nt2xXXtmE?si=CtKwFry4b0AJXnaN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What happened?
@@ -55,7 +55,7 @@ Repairing the damage from a flaw like this is a painfully tedious process that r
 If you know anyone whose job involves administering Windows PCs in a corporate network that uses the CrowdStrike code, you can be confident they are very busy right now, and will be for days to come.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/tkpBmccvJ_Q?si=J7ellPL1G1l8Axi_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## We've seen this movie before
@@ -95,7 +95,7 @@ In the You Can't Make This Up Department… CrowdStrike's founder and CEO, Georg
 What makes the 2024 sequel so much worse is that it also affected Windows-based servers running in the cloud, on Microsoft Azure and on AWS. Just as with the many laptops and desktop PCs that were bricked by this faulty update, the cloud-based servers require time-consuming manual interventions to recover.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## CrowdStrike's QA failed
@@ -125,7 +125,7 @@ As part of its initial response, CrowdStrike says it plans to take additional me
 Meanwhile, the United States House of Representatives Homeland Security Committee plans to call CrowdStrike's CEO up for hearings on what went wrong, and CrowdStrike's Chief Security Officer, Shawn Henry, [posted an apology on LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:7220983915421806592/), admitting "On Friday, we failed you. ... The confidence we built in drips over the years was lost in buckets within hours, and it was a gut punch."
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How much fault should Microsoft shoulder?
@@ -176,24 +176,22 @@ Nonetheless, this incident, which caused many billions of dollars' worth of dama
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-activity-recording.techidaily.com/new-avoiding-common-pitfalls-in-rl-gameplay-recordings-for-2024/"><u>[New] Avoiding Common Pitfalls in RL Gameplay Recordings for 2024</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/imple-steps-making-your-channels-subscription-button-stand-out-for-2024/"><u>[New] Simple Steps Making Your Channel's Subscription Button Stand Out for 2024</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/easy-installation-guide-downloading-the-latest-samsung-printer-drivers-for-windows/"><u>Easy Installation Guide: Downloading the Latest Samsung Printer Drivers for Windows</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/gpt-series-showdown-unveiling-the-distinctive-features-of-gpt-4-gpt-turbo-and-gpt-x-variants/"><u>GPT-Series Showdown: Unveiling the Distinctive Features of GPT-4, GPT-Turbo & GPT-X Variants</u></a></li>
-<li><a href="https://fox-links.techidaily.com/in-2024-capture-vision-add-movie-maker-to-your-win11-media-suite/"><u>In 2024, Capture Vision Add Movie Maker to Your Win11 Media Suite</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-top-imei-unlokers-for-your-infinix-hot-40i-phone-by-drfone-android/"><u>In 2024, Top IMEI Unlokers for Your Infinix Hot 40i Phone</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/mastering-gif-magic-tips-and-tricks-for-creating-captivating-3d-image-rotations/"><u>Mastering GIF Magic: Tips and Tricks for Creating Captivating 3D Image Rotations</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/microsofts-bing-ai-head-to-head-with-chatgpt-understanding-the-10-key-differences/"><u>Microsoft's Bing AI Head-to-Head with ChatGPT: Understanding the 10 Key Differences</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/per-view-value-to-youtube-star-economy-for-2024/"><u>Per-View Value to YouTube Star Economy for 2024</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/places-near-me/"><u>Places Near Me</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/running-chatgpt-with-windows-sdk/"><u>Running ChatGPT with Windows SDK</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/sequential-watchlist-experience-the-legendary-bond-journey/"><u>Sequential Watchlist: Experience the Legendary Bond Journey</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/step-by-step-instructions-harnessing-the-power-of-openais-exclusive-gpt-platform-today/"><u>Step-by-Step Instructions: Harnessing the Power of OpenAI's Exclusive GPT Platform Today</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/step-by-step-tutorial-on-installing-the-latest-kindle-paperwhite-firmware/"><u>Step-by-Step Tutorial on Installing the Latest Kindle Paperwhite Firmware</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/tech-savvy-signups-how-to-join-chatgpt-whatsapp-and-more-with-alternative-verification-methods/"><u>Tech-Savvy Signups: How to Join ChatGPT, WhatsApp and More with Alternative Verification Methods</u></a></li>
-<li><a href="https://techidaily.com/unveiling-the-concept-of-wrapped-bitcoin-exploring-what-is-wbtc/"><u>Unveiling the Concept of Wrapped Bitcoin: Exploring What Is WBTC?</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/videobreuk-afgebroken-professioneel-video-korting-techniek-met-movavi/"><u>Videobreuk Afgebroken: Professioneel Video Korting Techniek Met Movavi</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/worth-every-penny-why-you-should-consider-upgrading-to-chatgpt-plus/"><u>Worth Every Penny: Why You Should Consider Upgrading to ChatGPT Plus</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/write-smarter-not-harder-revolutionize-your-content-creation-with-hix-ai-powered-by-gpt-4/"><u>Write Smarter, Not Harder: Revolutionize Your Content Creation with HIX AI Powered by GPT-4</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/updated-2024-approved-gain-twitter-gifs-for-pc-download-made-simple/"><u>[Updated] 2024 Approved Gain Twitter Gifs for PC - Download Made Simple</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-efficiently-shifting-videos-youtube-to-dailymotion-strategy/"><u>[Updated] Efficiently Shifting Videos YouTube to Dailymotion Strategy</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-in-2024-shorten-videos-for-instagram-a-mac-guide/"><u>[Updated] In 2024, Shorten Videos for Instagram A Mac Guide</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/comparing-chatgpt-and-huggingchat-determining-the-superior-conversation-ai/"><u>Comparing ChatGPT and HuggingChat: Determining the Superior Conversation AI</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/converting-spotify-playlist-selections-for-youtube-music-service/"><u>Converting Spotify Playlist Selections for YouTube Music Service</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/crafting-a-boundless-chatbot-experience-install-and-customize-a-freedomgpt-powered-alternative-on-windows/"><u>Crafting a Boundless Chatbot Experience: Install and Customize a FreedomGPT-Powered Alternative on Windows</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/create-professional-slideshows-effortlessly-using-the-best-ai-presentation-generators/"><u>Create Professional Slideshows Effortlessly Using the Best AI Presentation Generators</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/deciphering-the-divide-differences-between-nlp-and-machine-learning-explained/"><u>Deciphering the Divide: Differences Between NLP and Machine Learning Explained</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/demystifying-generative-ai-how-algorithms-are-learning-to-create/"><u>Demystifying Generative AI: How Algorithms Are Learning To Create</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/detecting-fake-chatgpt-portals-and-protecting-yourself-from-phishing-attempts-online/"><u>Detecting Fake ChatGPT Portals & Protecting Yourself From Phishing Attempts Online</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/discover-privacy-first-conversations-engage-with-chatgpt-and-others-on-duckduckgos-secure-ai-platform/"><u>Discover Privacy-First Conversations: Engage with ChatGPT & Others on DuckDuckGo’s Secure AI Platform</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/dissecting-the-role-and-value-of-snapchats-ai-with-6-reasons/"><u>Dissecting the Role and Value of Snapchat's AI with 6 Reasons</u></a></li>
+<li><a href="https://change-location.techidaily.com/here-are-some-pro-tips-for-pokemon-go-pvp-battles-on-vivo-s17-pro-drfone-by-drfone-virtual-android/"><u>Here are Some Pro Tips for Pokemon Go PvP Battles On Vivo S17 Pro | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-photos-from-oppo-by-fonelab-android-recover-photos/"><u>How to recover deleted photos from Oppo .</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-edit-and-send-fake-location-on-telegram-for-your-lava-blaze-2-pro-in-3-ways-drfone-by-drfone-virtual-android/"><u>In 2024, Edit and Send Fake Location on Telegram For your Lava Blaze 2 Pro in 3 Ways | Dr.fone</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-how-does-the-stardust-trade-cost-in-pokemon-go-on-honor-x50-gt-drfone-by-drfone-virtual-android/"><u>In 2024, How does the stardust trade cost In pokemon go On Honor X50 GT? | Dr.fone</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-new-guide-how-to-check-icloud-activation-lock-status-on-your-iphone-11-pro-by-drfone-ios/"><u>In 2024, New Guide How To Check iCloud Activation Lock Status On Your iPhone 11 Pro</u></a></li>
 </ul></div>
 

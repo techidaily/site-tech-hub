@@ -1,7 +1,7 @@
 ---
 title: "Favorite Phones Spotlighted: The Top Handsets Chosen by ZDNet's Tech Experts"
-date: 2025-01-03T22:39:16.058Z
-updated: 2025-01-06T21:19:20.506Z
+date: 2025-02-15T21:21:14.896Z
+updated: 2025-02-17T00:53:23.592Z
 tags:
   - apple
 categories:
@@ -47,10 +47,6 @@ Cons
 * New design Cameras are impressive Performance Battery life
 
 ## iPhone 12 Pro
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Jason Cipriani and Simon Bisson
 
@@ -110,6 +106,10 @@ Show Expert Take Show less
 
 ## iPhone SE (2020)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Greg Nichols, Aimee Chanthadavong, and David Grober
 
 **Greg Nichols:** I'm stuck in the Apple ecosystem, for better or worse. Mostly for better, and the combo of an aging but reliable MacBook Pro and my humble iPhone SE, a replacement for my last SE (the original!) is really all the computing power I need for reporting and running an on-the-go mobile office from a [sailboat](https://www.zdnet.com/article/sailboat-life-living-and-working-on-the-high-seas-with-kids/) (my usual digs) or the small travel trailer my family and I are currently loping through the Southwest with. For a tech reporter, I guess I'm unusually skeptical about the latest and greatest, and the SE is the best budget phone I can imagine and more than enough for staying connected, posting stories, and taking goofy videos of my kids.
@@ -138,6 +138,10 @@ Cons
 
 ## iPhone 12
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Chris Matyszczyk
 
 **Chris Matyszczyk:** My XR became heavy and cumbersome. It had begun to fade. I saw the 12's blue color and thought it might be fetching. And then an Apple store employee took the time to talk me into the 12, just when I was at my weakest.
@@ -154,14 +158,10 @@ Pros
 Cons 
 * Fast performance New camera features Strong battery life
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## iPhone 11 Pro
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Dn-24B6AURY?si=ErES2KWVnintY6h9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Ed Bott
@@ -190,10 +190,6 @@ Cons
 
 ## Google Pixel 2
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/epKTCSREjhI?si=Ez_hObK1FZrmEE7f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Tony Baer
 
 **Tony Baer:** I like the Pixel because unlike branded phones (e.g., Samsung Galaxy), it has just one operating system, and therefore, just one app for things like photos. This was an endless source of confusion for me during the days with my old Samsung phones: Which photo app did my pictures go in? (Etc., etc. for other bundled apps.) However, the Pixel 2 has one mechanical defect: The charging port is just slightly too large, meaning that when I plug in the charger, I can't always be sure that the phone is getting any juice. For work at home, this is just an inconvenience, but when we go back on the road again, this will be a show stopper. 
@@ -208,10 +204,14 @@ Show less
 
 [View now at Huawei P40 Pro](https://consumer.huawei.com/en/phones/p40-pro/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5FWCFI3f_cs?si=Kt2Onr_E4c616tbH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Huawei P20 Pro
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Federico Guerrini
@@ -227,6 +227,10 @@ Pros
 
 Cons 
 * Excellent photo quality Cool color options Long battery life Loud stereo speakers Wireless charging support
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/djPqRkskaBo?si=O6FEI-KVW0HwN417" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## iPhone XR
 
@@ -252,14 +256,10 @@ Show Expert Take Show less
 
 ###   
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HSFNIAYChbA?si=4TIlsUrYmY5vP2il" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ###   
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## iPhone X
@@ -269,6 +269,10 @@ Show Expert Take Show less
 I have a Moment wide-angle lens and case, which gives me the tech I need for landscape photography. There's a lot of landscape where I live, and picturing it never gets old. I keep looking at the newer iPhones each year, but things like a wider lens and low-light performance aren't hot buttons. I haven't used my Canon DSLR in years. 
 
 **Next phone or dream phone?** iPhone 13 or 14 Pro Max. Folding iPhone? I like a big screen as long as it will fit in a shirt pocket, and Moment makes a case for it. Not sure I'd be up for the extra fiddling a folding iPhone would require, but it would likely replace my iPad Mini. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sn2STvYRVb8?si=Z-XhJJ1Mc-Em5Kqy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ###   
 
@@ -290,6 +294,10 @@ I've always used iPhones. Started with the iPhone 3, and never strayed. I refuse
 
 Show Expert Take Show less 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## iPhone 7 Plus
 
 ### Tiernan Ray
@@ -297,6 +305,10 @@ Show Expert Take Show less
 Purchased in 2016, I've had no reason to upgrade in four years. The thing does a perfectly fine, which is to say, in Apple's case, fairly mediocre job of calling and texting and apps. I never take my phone out of my pocket, usually use it with AirPods, so I don't care about screen size or resolution upgrades. I have an actual digital camera, so I don't care about digital camera upgrades.
 
 **Next phone or dream phone?** Apple Watch Series 13\. It would just be a stylish wireless transceiver for the AirPods. Never worry about leaving the phone somewhere by accident because it's always on the wrist! 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DEqoiNArwjQ?si=oaL_lgnI-RxY5Qy_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## iPhone 6s Plus
 
@@ -312,15 +324,7 @@ Purchased in 2016, I've had no reason to upgrade in four years. The thing does a
 
 **Next phone or dream phone?** I have no idea. I get overwhelmed by the amount of choice. It'll be an iPhone I guess. I'm used to them.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Lumia 1520
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Mary Branscombe
 
@@ -339,10 +343,6 @@ I've been using Samsung's Note 8 for several years now, despite having seen all 
 **Next phone or dream phone?** A 2021 flagship-class phone with an integrated thermal camera. A thermal camera is a great tool for jobs around the house/office and for seeking out wildlife after dark
 
 Show Expert Take Show less 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ###   
 
@@ -376,22 +376,16 @@ Show Expert Take Show less
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://tiktok-videos.techidaily.com/new-2024-approved-mastering-text-in-visuals-the-top-5-tips-for-tiktok-captions/"><u>[New] 2024 Approved Mastering Text in Visuals The Top 5 Tips for TikTok Captions</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-in-2024-quick-click-quality-4-simple-steps-to-take-a-chromebook-screenshot/"><u>[Updated] In 2024, Quick Click Quality 4 Simple Steps to Take a Chromebook Screenshot</u></a></li>
-<li><a href="https://fox-info.techidaily.com/updated-smartest-top-10-free-image-platforms-for-endless-memories/"><u>[Updated] Smartest Top 10 Free Image Platforms for Endless Memories</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/avoid-the-trap-steering-clear-of-6-major-mistakes-with-chatgpt-prompt-creation/"><u>Avoid the Trap: Steering Clear of 6 Major Mistakes with ChatGPT Prompt Creation</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/best-alternatives-to-chatgpt-discover-the-top-7-automatic-coding-platforms/"><u>Best Alternatives to ChatGPT: Discover the Top 7 Automatic Coding Platforms</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/best-anti-tracker-software-for-nokia-130-music-drfone-by-drfone-virtual-android/"><u>Best Anti Tracker Software For Nokia 130 Music | Dr.fone</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/building-your-own-chatai-with-gpt-foundations/"><u>Building Your Own ChatAI with GPT Foundations</u></a></li>
-<li><a href="https://win-premium.techidaily.com/easy-strategies-capturing-and-saving-telegram-video-calls-successfully/"><u>Easy Strategies: Capturing and Saving Telegram Video Calls Successfully</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/24-rethink-your-favorite-films-top-7-replacements/"><u>In 2024, Rethink Your Favorite Films - Top 7 Replacements</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/integrate-smartly-chatgpt-and-its-plugins-guide/"><u>Integrate Smartly: ChatGPT and Its Plugins Guide</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/polyglot-power-expert-techniques-for-operating-chatgpt-in-non-english-languages/"><u>Polyglot Power: Expert Techniques for Operating ChatGPT in Non-English Languages</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/revolutionizing-presentations-7-leading-ai-innovators/"><u>Revolutionizing Presentations: 7 Leading AI Innovators</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/speech-clarity-achieved-by-googles-advanced-conversion/"><u>Speech Clarity Achieved by Google's Advanced Conversion</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/streamline-your-podcasts-effective-editing-tips-for-garageband-users/"><u>Streamline Your Podcasts Effective Editing Tips for GarageBand Users</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/top-7-leading-platforms-for-buying-and-selling-ai-generated-content/"><u>Top 7 Leading Platforms for Buying and Selling AI-Generated Content</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/unlock-the-power-of-numbers-the-ultimate-7-ai-assistants-for-tackling-math-challenges/"><u>Unlock the Power of Numbers: The Ultimate 7 AI Assistants for Tackling Math Challenges</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/unveiling-the-practicality-of-chatgpt-with-these-amazing-7-applications/"><u>Unveiling the Practicality of ChatGPT with These Amazing 7 Applications</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-in-2024-the-technological-leap-in-home-camcorders-and-live-feeds/"><u>[New] In 2024, The Technological Leap in Home Camcorders and Live Feeds</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-online-beat-detectors-you-should-try-now-online-and-free-for-2024/"><u>[New] Online Beat Detectors You Should Try Now [Online & Free] for 2024</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-cross-play-exclusivity-guide-in-apex-legends-games/"><u>[Updated] Cross-Play Exclusivity Guide in Apex Legends Games</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-mastering-google-meet-easy-backdrop-swap-for-pc-and-phones/"><u>[Updated] Mastering Google Meet Easy Backdrop Swap for PC & Phones</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/5-creative-uses-of-auto-gpt-technology/"><u>5 Creative Uses of Auto-GPT Technology</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/7-key-factors-that-make-artificial-intelligence-chatbots-unsuitable-alternatives-for-content-creators/"><u>7 Key Factors That Make Artificial Intelligence Chatbots Unsuitable Alternatives for Content Creators</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/a-new-era-of-job-seeking-exploring-these-6-benefits-of-chatgpt-use/"><u>A New Era of Job Seeking: Exploring These 6 Benefits of ChatGPT Use</u></a></li>
+<li><a href="https://fake-location.techidaily.com/all-must-knows-to-use-fake-gps-go-location-spoofer-on-infinix-hot-40i-drfone-by-drfone-virtual-android/"><u>All Must-Knows to Use Fake GPS GO Location Spoofer On Infinix Hot 40i | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/audio-disruption-in-win-10-rectified/"><u>Audio Disruption in Win 10 Rectified</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/utilizing-chatgpt-to-support-cognitive-behavioral-therapy-techniques/"><u>Utilizing ChatGPT to Support Cognitive Behavioral Therapy Techniques</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/why-distrust-in-artificial-intelligence-isnt-extreme/"><u>Why Distrust in Artificial Intelligence Isn't Extreme</u></a></li>
 </ul></div>
 

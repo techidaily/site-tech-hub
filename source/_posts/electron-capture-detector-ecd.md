@@ -1,7 +1,7 @@
 ---
 title: "Electron Capture Detector (ECD):"
-date: 2025-02-06T04:55:17.424Z
-updated: 2025-02-07T10:49:56.963Z
+date: 2025-02-09T21:48:07.622Z
+updated: 2025-02-16T18:54:58.806Z
 tags:
   - apple
 categories:
@@ -29,10 +29,6 @@ You'll find the necessary setting in the Control Center section of your Settings
 
 Michael Gariffo
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/j5gTm5KxtQ0?si=onF1rBS2nEM5nLGg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 1\. Open your Settings app and find "Control Center"
 
 Apple added a quick, easy way to record your screen with [iOS 14 in 2020](https://www.zdnet.com/article/apple-launches-ios-14-aims-for-siri-overhaul-better-app-organization/), but you'll need to enable it before you can use it. To do this, open your Settings app and find Control Center (as seen above in the red rectangle).
@@ -40,10 +36,6 @@ Apple added a quick, easy way to record your screen with [iOS 14 in 2020](https:
 This is the Screen Recording option we'll be adding to Control Center
 
 Michael Gariffo
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 2\. Add the Screen Recording button to your Control Center
 
@@ -56,7 +48,7 @@ This is the screen recording button we'll use to start the recording.
 Michael Gariffo
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/tkpBmccvJ_Q?si=J7ellPL1G1l8Axi_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 3\. Open your Control Center
@@ -69,6 +61,10 @@ While recording, your Screen Recording button will look like this (minus the red
 
 Michael Gariffo
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 4\. Begin screen recording
 
 When you're ready to begin recording, tap the Screen Recording button. This starts a 3-second countdown. At the end of it, the recording will begin. This countdown time can be used to close the Control Center and get back to the true subject of your Screen Recording before the video capture actually begins. 
@@ -79,6 +75,10 @@ Your clock will look like this as long as Screen Recording is active.
 
 Michael Gariffo
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Step 5: Record
 
 This is when you'll want to complete whatever task it is you wanted to screen record. Once you've finished recording your task, move on to the final step below.
@@ -88,7 +88,7 @@ This is the confirmation box that will appear when you stop your recording.
 Michael Gariffo
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6nvb0775GOM?si=peBB_Mo_4zcZFuci" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 5\. End your recording
@@ -105,10 +105,6 @@ In both cases, the recording you just produced will immediately be saved to your
 
 It captures everything that goes on across your entire iPhone screen, as well as any sound produced by the iPhone itself while it's recording. This includes any actions you perform, any full-screen videos, and any audio you play via websites, apps, etc. 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RCYs8keh-Vs?si=uDC28-9yh-k6HLj4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Can I add narration to my captured videos?
 
 Unfortunately, the built-in iPhone tool for recording your screen doesn't support capturing narration or any input from your cameras while active. There are, however, free third-party solutions that can be downloaded from Apple's App Store that do support things like narration, an integrated face cam or rear camera feed, and more. We've rounded up three of the most well-reviewed options below: 
@@ -116,6 +112,10 @@ Unfortunately, the built-in iPhone tool for recording your screen doesn't suppor
 * [Techsmith Capture](https://apps.apple.com/us/app/techsmith-capture/id1266321056) \- A straightforward screen recorder app that works almost identically to the built-in process, but supports adding real-time narration using the iPhone's built-in microphones.
 * [RecordIt!](https://apps.apple.com/us/app/record-it-screen-recorder/id1245356545) \- A slightly more complex option that also allows for real-time narration or post-capture editing. It also supports face cam captures, so you can record your screen and yourself at the same time.
 * [Screen Recorder +](https://apps.apple.com/us/app/screen-recorder/id1380506650) \- A similar option to RecordIt!, Screen Recorder + touts its ability to start up in just one second, for those spur-of-the-moment captures.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How can I share my captured video?
 
@@ -153,20 +153,24 @@ Be aware that some apps, particularly email and messaging apps that don't rely o
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-capture.techidaily.com/new-2024-approved-accelerated-8-screencap-solutions/"><u>[New] 2024 Approved Accelerated 8 Screencap Solutions</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-elite-gamers-capturing-solutions/"><u>[Updated] 2024 Approved Elite Gamers' Capturing Solutions</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-in-2024-download-premium-video-covers-free-fast-and-easy/"><u>[Updated] In 2024, Download Premium Video Covers - Free, Fast & Easy!</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/bridging-the-gap-with-palm-2-for-superior-bard-ai/"><u>Bridging the Gap with PaLM 2 for Superior Bard AI</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/corporate-espionage-in-gaming-world/"><u>Corporate Espionage in Gaming World</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/enhancing-creativity-harnessing-ais-power-in-content-development/"><u>Enhancing Creativity: Harnessing AI's Power in Content Development</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/essential-mac-screen-recorders-top-10-free-list-for-2024/"><u>Essential Mac Screen Recorders – Top 10 FREE List for 2024</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/excel-mastery-unraveled-where-chatgpt-lags/"><u>Excel Mastery Unraveled: Where ChatGPT Lags</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/free-and-affordable-video-editing-software-for-2024/"><u>Free and Affordable Video Editing Software for 2024</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/googles-gemini-ai-is-here-but-is-it-better-than-chatgpt/"><u>Google's Gemini AI Is Here, but Is It Better Than ChatGPT?</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-photos-from-honor-magic-6-pro-to-new-android-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Photos from Honor Magic 6 Pro to New Android? | Dr.fone</u></a></li>
-<li><a href="https://program-issues.techidaily.com/solving-dolby-atmos-issues-a-guide-for-windows-11-and-windows-10-users/"><u>Solving Dolby Atmos Issues: A Guide for Windows 11 & Windows 10 Users</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/the-mechanics-behind-electric-motorcycle-operation-explained/"><u>The Mechanics Behind Electric Motorcycle Operation Explained</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/ultimate-webcam-apps-compatible-with-oovoo-and-manycam-enhance-your-video-calls/"><u>Ultimate Webcam Apps Compatible with ooVoo & ManyCam: Enhance Your Video Calls</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/unleashing-innovation-with-chatgpt-techniques-to-enhance-creative-workflows/"><u>Unleashing Innovation with ChatGPT: Techniques to Enhance Creative Workflows</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-masterclass-constructing-mc-village-houses-for-2024/"><u>[New] Masterclass Constructing MC Village Houses for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-fun-flair-for-text-memes-with-easy-genrator/"><u>[Updated] Fun Flair for Text Memes with Easy Gen'rator</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-how-to-add-stickers-to-instagram-story-and-post-for-2024/"><u>[Updated] How to Add Stickers to Instagram Story and Post for 2024</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-polar-performances-ultimate-beijing-olympics-scoop/"><u>[Updated] Polar Performances Ultimate Beijing Olympics Scoop</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/discover-the-key-enhancements-of-ipados-18-revealed-at-apples-wwdc-2024-and-compatible-devices-list/"><u>Discover the Key Enhancements of iPadOS 18 Revealed at Apple's WWDC 2024 and Compatible Devices List</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/hot-new-rumor-all-iphone-16-models-could-include-exclusive-15-pro-perks-the-latest-insights/"><u>Hot New Rumor: All iPhone 16 Models Could Include Exclusive 15 Pro Perks - The Latest Insights</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-identify-some-outdated-hardware-drivers-with-windows-device-manager-on-windows-1110-by-drivereasy-guide/"><u>How to identify some outdated hardware drivers with Windows Device Manager on Windows 11/10</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/in-2024-analyzing-aurora-hdrs-impact-on-visual-experience/"><u>In 2024, Analyzing Aurora HDR's Impact on Visual Experience</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-where-is-the-best-place-to-catch-dratini-on-oneplus-open-drfone-by-drfone-virtual-android/"><u>In 2024, Where Is the Best Place to Catch Dratini On OnePlus Open | Dr.fone</u></a></li>
+<li><a href="https://driver-download.techidaily.com/install-the-latest-bluetooth-driver-compatible-software-for-windows-1178/"><u>Install the Latest Bluetooth Driver: Compatible Software for Windows 11/7/8</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/installing-the-new-ios-cups-software-on-iphone-right-now-heres-how-but-should-you-really-do-it/"><u>Installing the New IOS Cups Software on iPhone Right Now? Here's How (But Should You Really Do It)?</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/ios-16-could-introduce-built-in-hearing-support-for-airpods-pro-eliminating-the-requirement-for-physical-modifications/"><u>IOS 16 Could Introduce Built-In Hearing Support for AirPods Pro, Eliminating the Requirement for Physical Modifications</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210003876-9780486846798-living-love/"><u>Living Love | Free Book</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/maximizing-productivity-with-essential-ipad-tools-expert-recommendations-for-workflow-optimization-featured/"><u>Maximizing Productivity with Essential iPad Tools: Expert Recommendations for Workflow Optimization | Featured</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/save-big-on-the-latest-ipad-now-for-just-199-exclusive-sneak-peek-of-amazons-labor-day-offers-covered/"><u>Save Big on the Latest iPad Now for Just $199 - Exclusive Sneak Peek of Amazon's Labor Day Offers Covered .</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/secure-your-apple-watch-series-10-today-exclusive-99-pre-order-deal-at-best-buy-learn-the-steps-with-our-guide/"><u>Secure Your Apple Watch Series 10 Today: Exclusive $99 Pre-Order Deal at Best Buy! Learn the Steps with Our Guide</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/top-5-kid-friendly-ipad-picks-expert-reviews-and-comparison/"><u>Top 5 Kid-Friendly iPad Picks : Expert Reviews & Comparison</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/ultimate-guide-to-choosing-the-perfect-iphone-16-and-16-pro-case-in-202amoji/"><u>Ultimate Guide to Choosing the Perfect iPhone 16 and 16 Pro Case in 202Amoji</u></a></li>
+<li><a href="https://driver-download.techidaily.com/upgrade-your-audiophile-setup-with-free-gigabyte-audio-drivers-download-now/"><u>Upgrade Your Audiophile Setup with Free Gigabyte Audio Drivers - Download Now</u></a></li>
 </ul></div>
 

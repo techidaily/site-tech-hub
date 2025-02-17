@@ -1,7 +1,7 @@
 ---
 title: "Augmented Intelligence: Core Enhancements in GPT-5"
-date: 2024-08-15T22:06:43.440Z
-updated: 2024-08-16T22:06:43.440Z
+date: 2025-02-10T23:11:38.760Z
+updated: 2025-02-16T21:07:44.997Z
 tags:
   - chatgpt
   - open-ai
@@ -14,6 +14,10 @@ thumbnail: https://thmb.techidaily.com/61cd3f9de3e328bf4fd572ae53f8d259727451f01
 ---
 
 ## Entertainment Meets Intelligence – Top 6 Games You Can Enjoy on ChatGPT
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eMEJvwMM0vk?si=EQF_jo_4u9v5iJ_C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Quick Links
 
@@ -43,8 +47,9 @@ Close
  Murder Mystery Mayhem is good fun, with the location and murderer changing round by round, and each suspect has new alibis and evidence to reveal. The changes keep it feeling fresh, and one game played through to the end can keep you engaged and seeking the truth for well over an hour. (Don't forget, you don't have to play it all at once!)
 
 <!-- affiliate ads begin -->
-<a href="https://tokenmetrics.sjv.io/c/5597632/1864921/20702" target="_top" id="1864921"><img src="//a.impactradius-go.com/display-ad/20702-1864921" border="0" alt="" width="1251" height="1042"/></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 2.[Oregon Trail](https://chat.openai.com/g/g-ijJRJgWHp-oregon-trail)
 
  Dying of dysentery has become a longstanding meme from the original Oregon Trail game, but you can now relive that horrifying experience in ChatGPT. The Oregan Trail custom GPT brings one of the first edu-games (not_the_ first, mind!) to ChatGPT... where you can suffer through the wilderness all over again.
@@ -56,8 +61,9 @@ Close
  It's a basic version of the classic game, but it's engaging enough. The custom GPT's scripting doesn't allow you to go off-piste and, say, rob the local convenience store for supplies (nor did the original), but it's certainly a lot easier without so many setbacks constantly upending and destroying your party. It's a much easier version, that's for sure.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2097467/26400?prodsku=B700" target="_top" id="2097467"><img src="//a.impactradius-go.com/display-ad/26400-2097467" border="0" alt="" width="640" height="640"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097467/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nWu29cqFjZA?si=TNZyCbPq68PQ0JIb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 3.[Poker](https://chat.openai.com/g/g-lHyTLJaCX-poker)
 
  From the potential death and horror of the Oregon Trail to something a little more relaxing: Poker. You play against the AI in this Poker custom GPT, starting with 10,000 credits, and play standard five-card Texas hold'em until someone's credits run out.
@@ -66,9 +72,6 @@ Close
 
  My only major gripe about this poker game is that ChatGPT seems to mimic your choices, such as check, raise, and so on, which can make the game predictable (or at least less random).
 
-<!-- affiliate ads begin -->
-<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254549&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/8_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
-<!-- affiliate ads end -->
 ## 4.[Console GPT](https://chat.openai.com/g/g-3p94K4Djb-console-gpt)
 
  Now, this is a cool idea of how a custom GPT can span multiple types of input to create a custom game with a unique storyline.
@@ -76,9 +79,6 @@ Close
  When you first boot Console GPT, you meet the message "BOOT UP AND INSERT GAME." But you don't have a game cartridge to boot yet. Instead, you have to head to the[Console GPT Glif page](https://glif.app/@fab1an/glifs/clotu9ul2002vl90fh6cmpjw0) , which is a custom AI art tool that will create your "cartridge."
 
 ![cyber syndicate cartridge ai image](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/cyber-syndicate-cartridge-ai-image.jpg)
-<!-- affiliate ads begin -->
-<a href="https://propmoneyinc.pxf.io/c/5597632/1803115/14559" target="_top" id="1803115"><img src="//a.impactradius-go.com/display-ad/14559-1803115" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803115/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Input the type of game you want in the text box, select**Glif It!** , and watch as your creation comes to life. I went with "retro-futurism crime lord" and was presented with "Cyber Syndicate," a game where you "navigate a neon-soaked, cyberpunk metropolis teeming with high-tech heists and digital espionage," with a goal of becoming the ultimate syndicate leader.
 
@@ -91,8 +91,9 @@ Close
  The narrative flow is a bit shaky, and Console GPT could use some extra commands to remember other parts of the story, but it's good fun for a while. For example, one moment, I was a lone operative in a bar, and the next, I was planning a heist in a room with the rest of my assembled team.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537546&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/7_copy_2_2_hdpro.png" border="0">HD Video Converter Factory Pro</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 5.[Cookie Clicker](http://chat.openai.com/g/g-g0b22bvqB-cookie-clicker)
 
  Not content with card games, custom cartridge adventures, or adventuring? Why not give a custom GPT idle game a try instead?
@@ -106,8 +107,9 @@ Close
  Still, if you're into idle games and want to try something different, it could be worth a try.
 
 <!-- affiliate ads begin -->
-<a href="https://mushroom-supplies.sjv.io/c/5597632/1692242/18134" target="_top" id="1692242"><img src="//a.impactradius-go.com/display-ad/18134-1692242" border="0" alt="" width="834" height="592"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1692242/18134" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 6.[Cute Little Zombies](https://chat.openai.com/g/g-CEON6aFtV-cute-little-zombies-a-text-adventure-game)
 
 [Adventure Inked](https://adventureinked.wixsite.com/gpts/) has developed more than 200 ChatGPT text adventure games, so there are far too many to list here. Cute Little Zombies is a perfect example of why its text adventures are great, giving you a heap of different scenarios to play through, all with cute little AI-generated images to help build the story out.
@@ -122,14 +124,11 @@ Close
 
  ChatGPT's games are entertaining, and custom GPT games can add an extra dimension with some clever designs, but that limit means you'll always have more fun with a regular game instead.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -138,4 +137,23 @@ Close
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-cloud.techidaily.com/new-silent-sounds-elegant-dimming-in-garageband-projects/"><u>[New] Silent Sounds Elegant Dimming in Garageband Projects</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-in-2024-top-15-activities-for-podcast-enthusiasts/"><u>[Updated] In 2024, Top 15 Activities for Podcast Enthusiasts</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-understanding-the-technicalities-of-fb-360-streaming-for-2024/"><u>[Updated] Understanding the Technicalities of FB 360 Streaming for 2024</u></a></li>
+<li><a href="https://fox-access.techidaily.com/2024-approved-cutting-edge-8-lens-modifications-for-webcams/"><u>2024 Approved Cutting-Edge 8 Lens Modifications for Webcams</u></a></li>
+<li><a href="https://solve-hot.techidaily.com/1728476693304-windows-10/"><u>長時間旋轉不止 Windows 10 開機進度欄原因及妥善管理方式 - 深入分析</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/boosting-earnings-through-side-job-options-like-chatgpt-diy-pc-construction-guide-and-nostalgic-handheld-game-systems/"><u>Boosting Earnings Through Side Job Options Like ChatGPT, DIY PC Construction Guide, and Nostalgic Handheld Game Systems</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/building-better-emotional-skills-utilizing-chatgpt-for-personal-growth/"><u>Building Better Emotional Skills: Utilizing ChatGPT for Personal Growth</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/chatgpt-tactics-to-optimize-your-daily-routine-and-save-time/"><u>ChatGPT Tactics to Optimize Your Daily Routine and Save Time</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/essential-tips-for-quickly-fixing-common-auto-gpt-installation-hiccucks/"><u>Essential Tips for Quickly Fixing Common Auto-GPT Installation Hiccucks</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/re-the-10-most-influential-makeup-personalities-online/"><u>Explore the 10 Most Influential Makeup Personalities Online</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/in-2024-bidding-adieu-to-instagram-your-complete-deletion-manual/"><u>In 2024, Bidding Adieu to Instagram Your Complete Deletion Manual</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/in-2024-doubled-surface-capture-method/"><u>In 2024, Doubled Surface Capture Method</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/optimizing-your-health-outcomes-how-chatgpt-can-help-you-set-and-achieve-fitness-milestones/"><u>Optimizing Your Health Outcomes: How ChatGPT Can Help You Set and Achieve Fitness Milestones</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/transforming-pressure-into-peace-a-guide-to-using-chatgpt-for-stress-management/"><u>Transforming Pressure Into Peace: A Guide to Using ChatGPT for Stress Management</u></a></li>
+<li><a href="https://howto.techidaily.com/troubleshooting-guide-how-to-fix-an-unresponsive-infinix-hot-30i-screen-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Troubleshooting Guide How to Fix an Unresponsive Infinix Hot 30i Screen | Dr.fone</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/unveiling-the-secrets-of-ai-content-detection-via-gptzero/"><u>Unveiling the Secrets of AI Content Detection via GPTZero</u></a></li>
+</ul></div>
 

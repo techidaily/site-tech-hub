@@ -1,7 +1,7 @@
 ---
 title: Can Advanced AI Systems Like ChatGPT Create Humor that Truly Entertains Us?
-date: 2024-08-15T22:05:56.666Z
-updated: 2024-08-16T22:05:56.666Z
+date: 2025-02-09T23:59:51.550Z
+updated: 2025-02-16T20:04:39.886Z
 tags:
   - chatgpt
   - open-ai
@@ -33,9 +33,6 @@ thumbnail: https://thmb.techidaily.com/fdc872e52961baec6923b458dbd6d98e67f3ed40f
 
  Now that we know all about HuggingChat, let's see how it stacks up against ChatGPT.
 
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826"><img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## HuggingChat vs. ChatGPT: How Do They Compare?
 
  Let's start by comparing how to access the tools. ChatGPT first, although it is possible to[use ChatGPT without an account](https://www.makeuseof.com/ways-to-use-chatgpt-without-openai-account/) , accessing the tool directly will require an[OpenAI account](https://auth0.openai.com/u/signup/identifier?state=hKFo2SBJYnBoZTVIMkdqWVZDVmgxRjVVYXhhc2tnaDhmN1U4VaFur3VuaXZlcnNhbC1sb2dpbqN0aWTZIDd3aGZkd2QxOG91WmJFV3BBdEN3TXhWVF9UdWRwOEUzo2NpZNkgVGRKSWNiZTE2V29USHROOTVueXl3aDVFNHlPbzZJdEc) . Once you have set this up, the tool is free to use (unless you[upgrade to ChatGPT Pro](https://www.makeuseof.com/how-to-use-gpt4/) ).
@@ -50,9 +47,6 @@ thumbnail: https://thmb.techidaily.com/fdc872e52961baec6923b458dbd6d98e67f3ed40f
 
  Next, we will look at other metrics and capabilities and compare the responses.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729642&QTY=1&AFFILIATE=108875&CART=1">Advanced Find and Replace for Google Sheets, Lifetime subscription</a>
-<!-- affiliate ads end -->
 ## Large Language Models (LLMs)
 
  The beating heart of any AI chatbot is the LLM. These are the underlying datasets used to generate human-like responses to prompts. Each tool uses a different LLM, as described below.
@@ -65,9 +59,9 @@ thumbnail: https://thmb.techidaily.com/fdc872e52961baec6923b458dbd6d98e67f3ed40f
 As you can see, HuggingChat answered this easily.
 
 ![Screenshot of HuggingChat answering baseball question](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/screenshot-of-huggingchat-answering-baseball-question.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4610657&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2024/06/emeditor_chat_ai.png" border="0">
-EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code editor, CSV editor, and large file viewer for Windows. Both native 64-bit and 32-bit builds are available, and moreover, the 64-bit includes separate builds for SSE2 (128-bit), AVX-2 (256-bit), and AVX-512 (512-bit) instruction sets. New versions support AI-assisted writing.</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Whereas, ChatGPT appears to believe that 2022 lies in the future!
@@ -75,8 +69,9 @@ Whereas, ChatGPT appears to believe that 2022 lies in the future!
 ![Screenshot of ChatGPT answering baseball question](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/screenshot-of-chatgpt-answering-baseball-question.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600114&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Mac： Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HaM818fFKXQ?si=ZZLA4lFSHSgCpSE0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Summarizing Articles
 
  You can use URLs to "force" both tools to access more current data. We tested this ability by asking them to summarize a MakeUseOf article on[remotely accessing Android phones](https://www.makeuseof.com/tag/can-i-control-a-phone-with-my-computer-android/) . In the first instance, we provided the URL.
@@ -84,36 +79,35 @@ Whereas, ChatGPT appears to believe that 2022 lies in the future!
  Both tools managed this with the ChatGPT response edging it in quality as it summarized the tools mentioned in the article.
 
 ![Screenshot of ChatGPt summary with URL of article](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/screenshot-of-chatgpt-summary-with-url-of-article.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=33729450&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
-<!-- affiliate ads end -->
 
  The HuggingChat response wasn't bad but lacked some of the detail covered by ChatGPT.
 
 ![Screenshot of HuggingChat summarzing MUO article-1](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/screenshot-of-huggingchat-summarzing-muo-article-1.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  To test this ability further, we asked a similar question without entering the URL and using an article that was only published (it was "[What Are IPFS Phishing Attacks](https://www.makeuseof.com/what-are-ipfs-phishing-attacks-and-how-to-avoid-them) ," for reference). Again, both tools managed this admirably, as the images demonstrate.
 
 This was ChatGPT's effort:
 
 ![Screenshot of ChatGPT referencing an article without a URL](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/screenshot-of-chatgpt-referencing-an-article-without-a-url.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633309&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/3_premium-icon.png" border="0"> Take advantage of PREMIUM features for 12 months. 
-Create your texts / logos without any limitation. 
-No attribution required when downloading. 
-No advertising on the website. 
- TextStudio.com  PREMIUM - Yearly Membership</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 HuggingChat's summary looked like this:
 
 ![Screenshot of HuggingChat summarizing article without a URL](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/screenshot-of-huggingchat-summarizing-article-without-a-url.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  There isn't much difference between the two tools here, so let's see how they compare when we test them for creativity.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4621764&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.x-mirage.com/x-mirage/img/page-home.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## HuggingChat vs. ChatGPT: How Do They Compare Creatively?
 
  Although surrounded by controversy, the ability to create creative works is perhaps one of the most useful aspects of AI chatbots. However, we will sidestep the moral and ethical implications and put the tools head-to-head in a creative clash of the chatbots.
@@ -123,15 +117,16 @@ HuggingChat's summary looked like this:
  We asked both to compose a two-verse love song based on Romeo and Juliet. This was ChatGPT's response:
 
 ![Screenshot of ChatGPT lovesong](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/screenshot-of-chatgpt-lovesong.jpg)
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075471/7443" target="_top" id="2075471"><img src="//a.impactradius-go.com/display-ad/7443-2075471" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075471/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 And this was HuggingChat's.
 
 ![Screenshot HuggingChat love song](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/screenshot-huggingchat-love-song.jpg)
 
 Shakespeare himself would be impressed with both of these!
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Security and Privacy
 
@@ -165,14 +160,11 @@ Shakespeare himself would be impressed with both of these!
 
  What these show us is that AI has reached a point of critical momentum. Tools such as HuggingChat and ChatGPT will continue to develop and improve, and no doubt, many others will follow.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -181,4 +173,24 @@ Shakespeare himself would be impressed with both of these!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-techniques.techidaily.com/updated-everything-you-need-to-know-about-3d-lut-creator/"><u>[Updated] Everything You Need to Know About 3D LUT Creator</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-in-2024-key-techniques-for-assessing-youtube-engagement-and-profitability/"><u>[Updated] In 2024, Key Techniques for Assessing YouTube Engagement and Profitability</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-master-class-accessing-elite-visual-content-without-expense/"><u>[Updated] Master Class Accessing Elite Visual Content Without Expense</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/basic-vs-enhanced-chatgpt-for-your-online-discussions/"><u>Basic Vs. Enhanced ChatGPT for Your Online Discussions</u></a></li>
+<li><a href="https://win-blog.techidaily.com/1723009534522-cyberpunk-2077-stability-improved-say-goodbye-to-game-freezing/"><u>Cyberpunk 2077 Stability Improved: Say Goodbye to Game Freezing!</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/dive-into-chatgpts-enhancement-registrations-step-by-step/"><u>Dive Into ChatGPT's Enhancement Registrations Step-by-Step</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/essential-learning-managing-incremental-sound-gain/"><u>Essential Learning Managing Incremental Sound Gain</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/exploring-6-ios-features-that-make-gpt-better-here/"><u>Exploring 6 iOS Features That Make GPT Better Here</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-location-on-facebook-dating-for-your-xiaomi-civi-3-disney-100th-anniversary-edition-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Location On Facebook Dating for your Xiaomi Civi 3 Disney 100th Anniversary Edition | Dr.fone</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/in-2024-thriving-in-digital-discussions-essential-strategies-for-proficient-zoom-chats/"><u>In 2024, Thriving in Digital Discussions Essential Strategies for Proficient ZOOM Chats</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/instagram-reel-rhythms-choreographing-audio-with-visuals/"><u>Instagram Reel Rhythms Choreographing Audio with Visuals</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/is-chatgpt-a-trusted-source-unpacking-its-propensity-for-truth-or-lies/"><u>Is ChatGPT a Trusted Source? Unpacking Its Propensity for Truth or Lies</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/jokesters-of-java-ai-and-its-quest-for-chuckles/"><u>Jokesters of Java: AI and Its Quest for Chuckles</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/unlocking-potential-key-advances-expected-in-the-next-iteration-of-gpt-evolution/"><u>Unlocking Potential: Key Advances Expected in the Next Iteration of GPT-Evolution</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/-masterclass-crafting-youtube-trailers-using-filmora-for-2024/"><u>Video Masterclass Crafting YouTube Trailers Using Filmora for 2024</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/who-wins-the-tech-talk-comparing-gpt-and-bing-ai/"><u>Who Wins the Tech Talk: Comparing GPT & Bing AI?</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/why-learn-chatgpt-6-key-points-for-job-seekers-and-professionals/"><u>Why Learn ChatGPT: 6 Key Points for Job Seekers and Professionals</u></a></li>
+</ul></div>
 

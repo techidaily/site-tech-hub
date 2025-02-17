@@ -1,7 +1,7 @@
 ---
 title: How to Perform a Firmware Upgrade for Your Apple Studio Display (Tips and Tricks by ZDNet)
-date: 2025-02-02T00:45:55.634Z
-updated: 2025-02-07T05:13:25.981Z
+date: 2025-02-15T22:14:21.965Z
+updated: 2025-02-16T20:38:35.198Z
 tags:
   - apple
 categories:
@@ -33,10 +33,6 @@ If you're going to be one of those people, read on.
 
 You don't want to mess up this transfer, because not only could you lose data, but the next person could end up being unable to use the iPhone you sold or gave them. Follow these steps for a successful result for both of you. 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fHWdQw1gRyI?si=ve9wZnPupiooLThG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##  1\. Update
 
 Before you even think about wiping your old iPhone, there are some things that you should do. I'm going to assume that you're selling an iPhone that's still being supported and is capable of [running iOS 15](https://www.zdnet.com/article/here-are-8-ios-15-features-you-need-to-know-about/). 
@@ -57,9 +53,17 @@ These are the iPhones that can run iOS 15:
 
 If your iPhone is one of these and is not running the latest version of iOS 15, then I recommend upgrading to the latest release to get the best experience. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3C51hzX46eY?si=o5qiDSkT7mXUGm3F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  2\. Look out for apps that need additional handholding during a transfer
 
 Next, some apps -- specifically banking apps in my experience -- prefer it if you deactivate or deauthorize them on the old iPhone before moving to a new handset. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### read this
 
@@ -72,7 +76,7 @@ I'd definitely check any banking and financial apps for any special process invo
 **Also:** [**The 5 best payment apps (Venmo isn't your only option)**](https://www.zdnet.com/article/best-payment-app/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  3\. Protect your data
@@ -87,10 +91,6 @@ Don't have enough iCloud space? Don't worry! Apple will let you borrow some [tem
 
 **Also:** [**Here's a hidden way to increase your iCloud storage**](https://www.zdnet.com/article/the-secret-hidden-way-you-can-double-apples-maximum-2tb-icloud-storage-limit/)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/g6xXIR_Uh1A?si=TMXzklPEY50MUM05" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##  4\. Get ready for the transfer
 
 Apple has made the transfer process pretty straightforward. 
@@ -104,10 +104,6 @@ Tap **Get Started** to begin the process of backing up your iPhone and getting r
 Apple has made transferring to a new iPhone easy.
 
 Screenshot/Adrian Kingsley-Hughes
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6nvb0775GOM?si=peBB_Mo_4zcZFuci" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  5\. Wiping the old iPhone
 
@@ -136,6 +132,10 @@ Remember, once you start this process, there's no going back!
 
 **Also:** [**iOS 15 privacy and security checklist**](https://www.zdnet.com/article/ios-15-ultimate-privacy-and-security/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### See also
 
 * [6 things you can do to give your devices a spring cleaning](https://www.zdnet.com/article/6-things-you-can-do-to-give-your-devices-a-spring-cleaning/)
@@ -144,7 +144,7 @@ Remember, once you start this process, there's no going back!
 * [How to clean a mechanical keyboard](https://www.zdnet.com/article/how-to-clean-a-mechanical-keyboard/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ME5-sAQJVE4?si=ZfcvJSnhQevWtjI0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  6\. Spring-clean your iPhone
@@ -187,20 +187,16 @@ Now you can relax and enjoy your [new iPhone](https://www.zdnet.com/article/here
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-recording.techidaily.com/new-in-2024-innovative-strategies-for-maximizing-your-facebook-videos/"><u>[New] In 2024, Innovative Strategies for Maximizing Your Facebook Videos</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/ed-2024-approved-arena-of-games-100plus-channel-spectrums-galore/"><u>[Updated] 2024 Approved Arena of Games 100+ Channel Spectrums Galore</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-2024-approved-iphone-users-learn-simple-screen-recording-now/"><u>[Updated] 2024 Approved Iphone Users, Learn Simple Screen Recording Now</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/avoiding-chatgpt-impostors-tips-for-recognizing-authentic-versions-in-the-app-store/"><u>Avoiding ChatGPT Impostors: Tips for Recognizing Authentic Versions in the App Store</u></a></li>
-<li><a href="https://fox-zero.techidaily.com/como-copiar-la-tabla-mbr-entre-discos-diferentes-incluidos-ssd-y-usb-en-sistema-operativo-windows/"><u>Cómo Copiar La Tabla MBR Entre Discos Diferentes, Incluidos SSD Y USB, en Sistema Operativo Windows</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/discover-chatgpts-funniest-and-funnier-games/"><u>Discover ChatGPT's Funniest & Funnier Games</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/ensuring-smooth-exchange-correcting-chatgpt-and-service-errors/"><u>Ensuring Smooth Exchange: Correcting ChatGPT and Service Errors</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/human-interpretation-vs-machine-generated-summary-clarity/"><u>Human Interpretation Vs. Machine-Generated Summary Clarity</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-guide-to-cost-free-text-animations-onlineoff/"><u>In 2024, Guide to Cost-Free Text Animations (Online/Off)</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/in-2024-leading-edge-speech-recognition-tools/"><u>In 2024, Leading Edge Speech Recognition Tools</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/is-netflixs-price-tag-justified-heres-why-it-might-be/"><u>Is Netflix's Price Tag Justified? Here’s Why It Might Be</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/mitigating-shortfall-of-physical-storage-space-on-vmware-systems/"><u>Mitigating Shortfall of Physical Storage Space on VMware Systems</u></a></li>
-<li><a href="https://data-safeguard.techidaily.com/save-damaged-pictures-best-practices-for-repairing-broken-jpegs-with-proven-tools/"><u>Save Damaged Pictures: Best Practices for Repairing Broken JPEGs with Proven Tools</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/separating-the-sincere-from-the-synthetic-in-machine-learning-outputs/"><u>Separating the Sincere From the Synthetic in Machine Learning Outputs</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/the-art-of-sentiment-can-computers-understand-love-fear/"><u>The Art of Sentiment: Can Computers Understand Love, Fear?</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-2024-approved-innovate-and-excel-at-fb-ads-unleash-the-potential-of-no-cost-tools/"><u>[New] 2024 Approved Innovate & Excel at FB Ads – Unleash the Potential of No-Cost Tools</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-2024-approved-guide-switching-on-windows-11s-dynamic-hdr-mode/"><u>[Updated] 2024 Approved Guide Switching on Windows 11'S Dynamic HDR Mode</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-the-ultimate-resource-guide-for-refining-on-screen-text-in-videos/"><u>2024 Approved The Ultimate Resource Guide for Refining On-Screen Text in Videos</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/ai-integration-with-apples-new-m4-processors-set-to-revolutionize-mac-computers-release-timeline-revealed/"><u>AI Integration with Apple's New M4 Processors Set to Revolutionize Mac Computers: Release Timeline Revealed</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/find-the-ultimate-apple-device-iphone-and-ipad-vpn-solutions-in-depth-comparisons-and-expert-analysis/"><u>Find the Ultimate Apple Device (iPhone & iPad) VPN Solutions: In-Depth Comparisons and Expert Analysis</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/innovative-breakthroughs-apple-eyes-ai-integration-in-domestic-robots-spotlighting-two-promising-gadgets-coverage/"><u>Innovative Breakthroughs: Apple Eyes AI Integration in Domestic Robots, Spotlighting Two Promising Gadgets Coverage</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/step-by-step-tutorial-for-ios-devotees-how-to-refresh-the-firmware-on-an-apple-studio-display/"><u>Step-by-Step Tutorial for iOS Devotees: How to Refresh the Firmware on an Apple Studio Display</u></a></li>
+<li><a href="https://fox-http.techidaily.com/the-perfect-setup-for-travel-storytelling/"><u>The Perfect Setup for Travel Storytelling</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/the-ultimate-guide-to-book-trailers-you-wont-miss/"><u>The Ultimate Guide to Book Trailers You Won't Miss</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/top-amazing-discounts-on-amazon-august-2024-specials-unveiled-by-zdnet/"><u>Top Amazing Discounts on Amazon - August 2024 Specials Unveiled by ZDNet</u></a></li>
+<li><a href="https://techidaily.com/use-device-manager-to-reinstall-your-hardware-drivers-in-windows-1110-by-drivereasy-guide/"><u>Use Device Manager to reinstall your hardware drivers in Windows 11/10</u></a></li>
 </ul></div>
 

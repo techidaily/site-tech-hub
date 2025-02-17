@@ -1,7 +1,7 @@
 ---
 title: "Affordable Performance: Build Your Own Compact System With ASRock's DeskMate X600 and Full-Sized GPU - Exclusive to the Chinese Market"
-date: 2024-08-15T22:05:05.732Z
-updated: 2024-08-16T22:05:05.732Z
+date: 2025-02-13T00:39:07.394Z
+updated: 2025-02-16T18:04:24.083Z
 tags:
   - desktop
 categories:
@@ -29,6 +29,10 @@ For just $59, musicians now have a new option for a purpose-built musical comput
 
  When it comes to specialized hardware like this (or retro PC hardware in general), "necessity is the mother of invention" and "limitations foster creativity." It would be interesting to see some rudimentary arcade or DOS game ports on this machine— a dual-core 250 MHz microcontroller may not sound like a lot today, but in the 80s, even 16 MHz was considered cutting-edge.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -37,14 +41,11 @@ For just $59, musicians now have a new option for a purpose-built musical comput
 
  By submitting your information you agree to the[Terms & Conditions](https://futureplc.com/terms-conditions/) and[Privacy Policy](https://futureplc.com/privacy-policy/) and are aged 16 or over.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -53,8 +54,24 @@ For just $59, musicians now have a new option for a purpose-built musical comput
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-web.techidaily.com/024-approved-effortless-offline-viewing-how-to-save-youtube-videos-for-iphoneipad/"><u>[New] 2024 Approved Effortless Offline Viewing How to Save YouTube Videos for iPhone/iPad</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-the-gentle-art-of-reducing-audio-amplitude-in-logic-pro-for-2024/"><u>[New] The Gentle Art of Reducing Audio Amplitude in Logic Pro for 2024</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-unlock-creativity-essential-green-screen-techniques-for-2024/"><u>[Updated] Unlock Creativity Essential Green Screen Techniques for 2024</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/a-guide-samsung-galaxy-xcover-7-wireless-and-wired-screen-mirroring-drfone-by-drfone-android/"><u>A Guide Samsung Galaxy XCover 7 Wireless and Wired Screen Mirroring | Dr.fone</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/boost-your-interview-skills-with-chatgpts-advanced-techniques/"><u>Boost Your Interview Skills with ChatGPT's Advanced Techniques</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/chatgpts-role-in-enhancing-creative-writing-skills-6-techniques-to-try/"><u>ChatGPT's Role in Enhancing Creative Writing Skills: 6 Techniques to Try</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/cutting-edge-content-creation-mastering-how-to-trim-videos-in-real-time-on-vimeo-for-2024/"><u>Cutting-Edge Content Creation Mastering How to Trim Videos in Real Time on Vimeo for 2024</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/discovering-ais-roots-an-illustrative-history/"><u>Discovering AI's Roots: An Illustrative History</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/generative-ai-essentials-an-in-depth-guide-tailored-for-parenting-in-a-digital-age/"><u>Generative AI Essentials: An In-Depth Guide Tailored for Parenting in a Digital Age</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/macosdvdwinx-dvd-ripper/"><u>MacOS用DVDコピーソフト、WinX DVD Ripperのよくあるお問い合わせ質問解答</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/optimizing-patient-outcomes-with-ai-in-cognitive-therapy/"><u>Optimizing Patient Outcomes with AI in Cognitive Therapy</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/silicon-wit-from-laptops-to-vpns-connectivitys-quirky-tale/"><u>Silicon Wit: From Laptops to VPNs, Connectivity's Quirky Tale</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/speedy-guide-to-correcting-the-audio-malfunction-test-tone-failure/"><u>Speedy Guide to Correcting the 'Audio Malfunction - Test Tone Failure'</u></a></li>
+<li><a href="https://app-tips.techidaily.com/the-definitive-guide-to-ai-watermarking-solutions-revealed-on-zdnet/"><u>The Definitive Guide to AI Watermarking Solutions - Revealed on ZDNet</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/unlocking-potential-with-openai-api-a-users-handbook-to-infinite-creativity/"><u>Unlocking Potential with OpenAI API - A User's Handbook to Infinite Creativity</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/unveiling-hugging-face-purpose-and-uses/"><u>Unveiling Hugging Face: Purpose & Uses</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/al-vanguards-the-leading-ladies-of-gaming/"><u>Virtual Vanguards The Leading Ladies of Gaming</u></a></li>
+</ul></div>
 
-
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DBanner%2B728x90"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/2e76fe6a-3010-1b37-7846-f34ff9c6b4ca.png" border="0"></a>
-<!-- affiliate ads end -->

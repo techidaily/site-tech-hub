@@ -1,7 +1,7 @@
 ---
 title: "Essential Insights: Understanding the Top 3 Privacy Threats Linked to Chatbots"
-date: 2024-08-15T22:09:04.977Z
-updated: 2024-08-16T22:09:04.977Z
+date: 2025-02-12T21:24:38.806Z
+updated: 2025-02-16T16:08:05.935Z
 tags:
   - chatgpt
   - open-ai
@@ -31,29 +31,17 @@ thumbnail: https://thmb.techidaily.com/f60c71115611cc9fe9bdefefd0669c874b252cd45
 
 [Various factors affect chatbot accuracy](https://www.makeuseof.com/test-factors-ai-chatbots-accuracy/) , such as comprehension and contextual memory. If you plan on subscribing to a chatbot service, try the free version first. Chatbots like ChatGPT and Perplexity have free versions that you can use to get an idea of accuracy. If the free version is good, the odds are that the paid version is even better.
 
-<!-- affiliate ads begin -->
-<span id="1993652">
-					<video width="720" height="300" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 2\. Security and Data Privacy
 
 ![Man holding phone using ChatGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/man-holding-phone-using-chatgpt.jpg)
-<!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35504869&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/1_FR-200-1.png" border="0">Glarysoft File Recovery Pro Annually -  Helps to recover your lost file/data, even permanently deleted data. 
-</a>
-<!-- affiliate ads end -->
 
  While many people are beginning to use AI tools, we're still in largely uncharted territory. It's hard to predict how AI will affect society and how we will deal with it. There are also concerns that chatbots like[ChatGPT represent a privacy risk](https://www.makeuseof.com/chatgpt-privacy-risk/) . For example, ChatGPT developer OpenAI has stated that they review your ChatGPT conversations to further its training.
 
  It is uncertain how much data they're actually collecting and what they plan to do with it in the long term. The best you can do is ensure the service you're subscribing to has good privacy policies and you're not sharing personal data or private information with any generative AI chatbot.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KF793jv1LIc?si=fJOogQJ2f8JUfTzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 3\. Contextual Understanding
 
@@ -67,13 +55,14 @@ thumbnail: https://thmb.techidaily.com/f60c71115611cc9fe9bdefefd0669c874b252cd45
 
 ![Laptop screen showing computer codes](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/laptop-screen-showing-computer-codes.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Most AI chatbots are trained on a limited knowledge base. They have information cutoffs, meaning they can't access information released beyond a certain date. This is a well-known issue with ChatGPT, which is trained on data up to September 2021.
 
  Access to the internet is an obvious fix to this problem. Microsoft's[Bing is now powered by AI](https://www.makeuseof.com/more-likely-to-use-bing-now-powered-by-ai/) , meaning Bing AI Chat also has access to the web and can access relevant and updated information without any limits.[ChatGPT Plus also has this feature in the form of plugins](https://www.makeuseof.com/how-install-and-use-chatgpt-plugins/) , but you'll have to upgrade from the free version if you want to use them.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=174416&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.easygifanimator.net/images/gif-animator.png" border="0">Easy GIF Animator is a powerful animated GIF editor and the top tool for creating animated pictures, banners, buttons and GIF videos. You get extensive animation editing features, animation effects, unmatched image quality and optimization for the web. No other GIF animation software matches our features and ease of use, that's why Easy GIF Animator is so popular.</a>
-<!-- affiliate ads end -->
 ## 5\. Language Model
 
  The biggest difference between AI chatbots is the[type of large language model (LLM)](https://www.makeuseof.com/what-are-large-langauge-models-how-do-they-work/) they use. For example, the free version of Perplexity uses GPT-3, while the paid version gives you access to GPT-4\. The situation is similar in the case of ChatGPT. Some chatbots, such as Bard, use Google's PaLM 2 LLM, with others use Meta's Llama or one of its many variants.
@@ -81,13 +70,15 @@ thumbnail: https://thmb.techidaily.com/f60c71115611cc9fe9bdefefd0669c874b252cd45
  Currently, most AI chatbots appear to use GPT-3 or GPT-4.[While GPT-3 is quite capable, GPT-4 is much better](https://www.makeuseof.com/gpt-4-vs-gpt-35-differences-explained) . The latter is better at understanding longer prompts, has better contextual understanding, and is trained on a larger dataset.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4572700&QTY=1&AFFILIATE=108875&CART=1"><img src="	https://www.tubedigger.com/wp-content/uploads/2020/08/tubedigger-software-new.png" border="0">TubeDigger - online video downloader from mostly any site</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kZVDkvMZvP4?si=xAugrCf-Ud6EMMpm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 6\. Multilingual Support
 
 ![Cell phone screens with Hello in different languages](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/cell-phone-screens-with-hello-in-different-languages.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://natural-cycles.sjv.io/c/5597632/2072199/17885" target="_top" id="2072199"><img src="//a.impactradius-go.com/display-ad/17885-2072199" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072199/17885" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fJlICvacgJY?si=jNeijBVj7ia4ammA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  One of the best AI chatbot features is the ability to converse in different languages. You can type in almost any language; most AI chatbots will respond in the same tongue. However, not all AI chatbots can do this. For example, while Perplexity AI can understand most languages, it still defaults to responding to English. Fortunately, you can specify the language you want.
@@ -96,27 +87,25 @@ thumbnail: https://thmb.techidaily.com/f60c71115611cc9fe9bdefefd0669c874b252cd45
 
  Multilingual support shouldn't be an issue as AI chatbots continue to improve. However, you should still try out a potential AI chatbot to ensure its translation features are up to par.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425"><img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 7\. Cost and Plans
 
  Most AI chatbots have a free version and a premium version with advanced features. For example, ChatGPT's free version works great, but upgrading to Plus gives you access to GPT-4 and plugins. Similarly, Perplexity is free, but upgrading to Perplexity Pro gives you more GPT-4 uses and access to the file upload feature.
 
  You'll have to consider carefully whether the paid AI chatbot versions are worth it. Usually, the features are great for the price, but it depends on how much use you will get out of them. Remember that the paid versions also tend to be faster than the free ones. Paying for faster responses should be a no-brainer if your workflow involves time-sensitive projects.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Should You Care About Paid Chatbot Services?
 
  While paid AI chatbot services are great, the free versions are often good enough. In fact, they're almost too good. GPT-3 or GPT-3.5 is enough for most people, meaning upgrading to GPT-4 might not be worth it for everyone. However, it's still worth it if you need more detailed and faster responses.
-
 
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -125,4 +114,22 @@ thumbnail: https://thmb.techidaily.com/f60c71115611cc9fe9bdefefd0669c874b252cd45
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://twitter-videos.techidaily.com/new-in-2024-bypassing-channels-tweets-on-whatsapp/"><u>[New] In 2024, Bypassing Channels Tweets on WhatsApp</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-recording-your-live-stream-with-hp-laptops-webcam-for-2024/"><u>[Updated] Recording Your Live Stream with HP Laptop's Webcam for 2024</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/easy-top-5-tools-for-seamless-combining-of-flac-audio-files/"><u>Easy Top 5 Tools for Seamless Combining of FLAC Audio Files</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/effortless-dvd-to-computer-conversion-tips-for-secure-data-moving/"><u>Effortless DVD-to-Computer Conversion Tips for Secure Data Moving</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/effortless-mp4-screen-capturing-software-create-videos-with-perfect-record-quality/"><u>Effortless MP4 Screen Capturing Software – Create Videos with Perfect Record Quality</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/exploring-audio-editing-with-ape-essential-tips-for-opening-and-manipulating-ape-files-using-an-ape-player/"><u>Exploring Audio Editing with APE: Essential Tips for Opening & Manipulating APE Files Using an APE Player</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/exploring-the-limitations-and-drawbacks-of-microsofts-windows-phone-7-platform/"><u>Exploring the Limitations and Drawbacks of Microsoft's Windows Phone #7 Platform</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/free-methods-to-download-music-in-mp3-format-from-open-graph-audio-files/"><u>Free Methods to Download Music in MP3 Format From Open Graph Audio Files</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/free-vs-premium-a-comprehensive-guide-to-avi-video-converter-factory-and-pro/"><u>Free Vs. Premium: A Comprehensive Guide to AVI Video Converter Factory & Pro</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/in-2024-curated-index-of-leading-vector-art-and-illustration-pages/"><u>In 2024, Curated Index of Leading Vector Art and Illustration Pages</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-unlock-apple-id-activation-lock-on-apple-iphone-xr-by-drfone-ios/"><u>In 2024, How to Unlock Apple ID Activation Lock On Apple iPhone XR?</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/no-pay-all-gain-the-fcp-freedom-guide/"><u>No Pay, All Gain The FCP Freedom Guide</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/prime-retro-elements-reviving-classic-vhs-tricks-for-2024/"><u>Prime Retro Elements Reviving Classic VHS Tricks for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/professional-writers-meet-your-new-ai-allies/"><u>Professional Writers, Meet Your New AI Allies</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/troubleshooting-cannot-be-opened-developer-unverified-issues-in-macos/"><u>Troubleshooting 'Cannot Be Opened, Developer Unverified' Issues in macOS</u></a></li>
+</ul></div>
 

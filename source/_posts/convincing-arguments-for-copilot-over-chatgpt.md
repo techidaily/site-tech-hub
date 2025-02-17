@@ -1,7 +1,7 @@
 ---
 title: Convincing Arguments for CoPilot Over ChatGPT
-date: 2024-08-15T22:08:46.168Z
-updated: 2024-08-16T22:08:46.168Z
+date: 2025-02-15T00:32:28.174Z
+updated: 2025-02-16T23:41:28.354Z
 tags:
   - chatgpt
   - open-ai
@@ -17,9 +17,17 @@ thumbnail: https://thmb.techidaily.com/60c0536f1fc5d6831a20d36d45e0ac93bc7d119ca
 
  With AI chatbots becoming mainstream, companies are locking their most powerful features behind subscription paywalls. However, some companies allow free users to do more things than others. As such, if you'd like to give GPT-4 Turbo a try, using Microsoft's Copilot tool is the best way to do it.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What Is GPT-4 Turbo?
 
 ![gpt-4 logo on smartphone screen](https://thmb.techidaily.com/9332c7608a3b7c0a804f93bd3e8889a390304fedee62792e7be872d16bace959.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Image Credit: Tada Images/[Shutterstock](https://www.shutterstock.com/image-photo/portland-usa-mar-15-2023-webpage-2275173419)
 
@@ -29,23 +37,17 @@ thumbnail: https://thmb.techidaily.com/60c0536f1fc5d6831a20d36d45e0ac93bc7d119ca
 
  Right now, the best way to use GPT-4 Turbo for free is via Microsoft Copilot. It may seem weird that you have to go through Microsoft instead of OpenAI, but the two companies have a really close relationship. As such, it's not unusual to see OpenAI's features appear within Microsoft's AI assistants.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901369&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix 4K - Software based live production. vMix 4K includes everything in vMix HD plus 4K support, PTZ control, External/Fullscreen output, 4 Virtual Outputs, 1 Replay, 4 vMix Call, and 2 Recorders. 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
-<!-- affiliate ads end -->
 ## How to Use GPT-4 Turbo for Free With Microsoft Copilot
 
  To get started with GPT-4 Turbo, just boot up Copilot and start talking with it. At the time of writing, Copilot will use GPT-4 Turbo by default when talking to a user on the free tier. Paid users can go back to previous models if they wish, but you don't need to worry about that if you just want to use the latest and greatest model.
 
 <!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BEditor%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/6d3207fd-9f15-4c21-f0ad-59c68e6a7e2a.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Hpne0zPsZwU?si=yN5QDsG_WLb_Y3u-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### How to Use GPT-4 Turbo for Free on Windows 10 and 11
 
 ![Copilot prompt on Windows 11](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/copilot-prompt-on-windows-11.jpg)
-<!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=38709260&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (2-PC)  Free upgrade. No monthly fees ever. </a>
-<!-- affiliate ads end -->
 
  If you're a Windows 10 or 11 user, there's a very good chance you have a Copilot button on your taskbar. To get started with GPT-4 Turbo, just click this button and begin chatting with the chatbot when it appears.
 
@@ -54,22 +56,21 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 ### How to Use GPT-4 Turbo for Free on Other Devices
 
 ![microsoft copilot answering question jan 2024](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/microsoft-copilot-answering-question-jan-2024.jpg)
-<!-- affiliate ads begin -->
-<a href="https://lightailing.sjv.io/c/5597632/1725213/17190" target="_top" id="1725213"><img src="//a.impactradius-go.com/display-ad/17190-1725213" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1725213/17190" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  If you don't have a Copilot button yet or use a different operating system, you can still use the[Copilot website](https://copilot.microsoft.com/) . Open it up, start talking, and it will automatically use GPT-4 Turbo to parse your prompts.
 
  If you're on mobile, you can download the[Copilot app for Android](https://www.anrdoezrs.net/links/7251228/type/dlg/sid/UUmuoUeUpU2032122/https://play.google.com/store/apps/details?id=com.microsoft.copilot&hl=en&gl=US) or[iOS](https://apps.apple.com/us/app/microsoft-copilot/id6472538445) . The app has a toggle when you open it that enables or disables GPT-4\. It may not be the Turbo version, but it should still be powerful enough to handle your queries.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/300__250banner.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## How to Get the Most Out of GPT-4 Turbo
 
 ![GPT 4 graphic with digital patterns](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/gpt-4-graphic-with-digital-patterns.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537546&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/7_copy_2_2_hdpro.png" border="0">HD Video Converter Factory Pro</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  GPT-4 Turbo is very powerful, but it's only as good as what you feed it. Here are a few tips to get the most out of GPT-4 Turbo and Copilot.
@@ -80,14 +81,11 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 
  GPT-4 Turbo is a very powerful tool, and fortunately, you don't have to pay a cent to use it. Now you know how to use the popular chatbot model for free, whether you're on a Windows PC or otherwise.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -96,4 +94,24 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-recording.techidaily.com/new-in-2024-enhancing-user-engagement-through-fb-slideshows/"><u>[New] In 2024, Enhancing User Engagement Through FB Slideshows</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/1726029285852-ps3/"><u>「PS3」ビデオコンバート：ゲーム機向け動画変換方法とヒント</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/1-download-juice-wrlds-latest-tracks-a-step-by-step-guide/"><u>1. 'Download Juice Wrld's Latest Tracks: A Step-by-Step Guide'</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/1-hassle-free-flv-to-dvd-conversion-a-gratis-guide/"><u>1. Hassle-Free Flv to DVD Conversion: A Gratis Guide</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/2024-approved-unlocking-insta-stardom-15-effortless-steps-towards-rapid-and-sustained-fame/"><u>2024 Approved Unlocking Insta Stardom 15 Effortless Steps Towards Rapid and Sustained Fame</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/bridging-gap-integrating-zoom-into-your-gmail-setup-for-2024/"><u>Bridging Gap Integrating Zoom Into Your Gmail Setup for 2024</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/1726029915715-dvd/"><u>DVDコンテンツを携帯電話に移動するために必要な合法的手段と完全ガイド</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/encoding-large-datasets-how-3d-printed-holograms-use-ordinary-plastics-for-secure-storage-of-keys-and-addresses-up-to-576-bits/"><u>Encoding Large Datasets: How 3D-Printed Holograms Use Ordinary Plastics for Secure Storage of Keys & Addresses (Up to 576 Bits)</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/in-2024-unpacking-obss-full-spectrum-of-video-capturing-tools/"><u>In 2024, Unpacking OBS's Full Spectrum of Video Capturing Tools</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/mastering-the-fix-for-ntdlldll-system-crashes-on-modern-windows-operating-systems/"><u>Mastering the Fix for ntdll.dll System Crashes on Modern Windows Operating Systems</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/1726028300427-mp4/"><u>MP4フォーマット動画を最適化し、自由度高い回転・反転機能実装方法</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/new-conquering-complex-audioscapes-a-no-nonsense-guide-to-effective-track-combination-in-premiere-pro-for-2024/"><u>New Conquering Complex Audioscapes A No-Nonsense Guide to Effective Track Combination in Premiere Pro for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/steam-account-discovery-guide/"><u>Steam Account Discovery Guide</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/top-10-best-spy-watches-for-your-oppo-k11-5g-drfone-by-drfone-virtual-android/"><u>Top 10 Best Spy Watches For your Oppo K11 5G | Dr.fone</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/unavailable-microsoft-teams-recordings-discover-effective-remedies/"><u>Unavailable Microsoft Teams Recordings? Discover Effective Remedies!</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/1726028936401-webm-wav/"><u>WebM から WAV への音質保持オプション付き変換ガイド</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/youtube-windows-1011/"><u>YouTube動画の保存方法: Windows 10/11用ガイド</u></a></li>
+</ul></div>
 

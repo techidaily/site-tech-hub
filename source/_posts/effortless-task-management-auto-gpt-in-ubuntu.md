@@ -1,7 +1,7 @@
 ---
 title: "Effortless Task Management: Auto-GPT in Ubuntu"
-date: 2024-08-15T22:04:46.834Z
-updated: 2024-08-16T22:04:46.834Z
+date: 2025-02-15T19:54:13.266Z
+updated: 2025-02-16T18:22:28.860Z
 tags:
   - chatgpt
   - open-ai
@@ -28,9 +28,6 @@ thumbnail: https://thmb.techidaily.com/ea89a230d5248951ccf36441dc9714dd3928003aa
 ## What Is Auto-GPT?
 
 ![Woman working on a laptop with a cup of coffee](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/laptop-on-desk.jpg)
-<!-- affiliate ads begin -->
-<a href="https://bluetties.sjv.io/c/5597632/2039292/17094" target="_top" id="2039292"><img src="//a.impactradius-go.com/display-ad/17094-2039292" border="0" alt="BLUETTI NEW LAUNCH AC240" width="954" height="1020"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2039292/17094" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Auto-GPT is an automation AI model that uses GPT-3.5 or GPT-4 to complete tasks independently. In other words, Auto-GPT can develop its own prompts and answer autonomously to complete an objective.[Auto-GPT differs from ChatGPT](https://www.makeuseof.com/what-is-auto-gpt-how-differ-from-chatgpt/) because it doesn't need a human agent to prompt it every step of the way.
 
@@ -38,10 +35,6 @@ thumbnail: https://thmb.techidaily.com/ea89a230d5248951ccf36441dc9714dd3928003aa
 
  Basically, Auto-GPT is like your personal assistant that can automate most of your tasks, and there are already several[practical ways you can put Auto-GPT to use](https://www.makeuseof.com/ways-you-can-use-auto-gpt/) .
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=39694080&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/nbr/fire/Screenshot_1red_gb.jpg" border="0">Nero Burning ROM:
-The ultimate burning program for all your needs!</a>
-<!-- affiliate ads end -->
 ## How Do You Access Auto-GPT on Your PC?
 
 ![A grey laptop and a phone on a table](https://thmb.techidaily.com/21f134ff6252e8b65e4072cbcc9d1f7716bea3abeb6dec26820e9ae291c1ae1c.jpg)
@@ -57,30 +50,38 @@ Here is a step-by-step guide on how to install Auto-GPT on your PC:
 4. Search for the ".env" file in the folder, right-click it, and select**Open with Notepad.**
 5. Visit your OpenAI account, and on the top right of your screen, click**Personal** and select**View** **API keys** . This should take you to the[OpenAI API keys page](https://platform.openai.com/account/api-keys) while you're signed in.  
 ![OpenAI home page showing Personal section with View API keys](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/openai-home-page.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-writer-free-word-processor-1x.3d9c80d.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
-<!-- affiliate ads end -->
 6. Copy your secret API keys from Open AI. If you don't have API keys, click on**Create new secret key** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![Screenshot showing blurred out OpenAI API keys](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/api-keys.jpg)
 7. Replace the "your-openai-api-key" text in the ".env.template" file with the API keys.  
 ![A notepad showing blurred out OpenAI key](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/notepad.jpg)
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698827&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3REpage-newmainscreenshot.png" border="0">DEX 3 RE is Easy-To-Use DJ Mixing Software for MAC and Windows Designed for Today's Versatile DJ. 
-
- Mix from your own library of music, iTunes or use the Pulselocker subsciprtion service for in-app access to over 44 million songs. Use with over 85 supported DJ controllers or mix with a keyboard and mouse.  
-
- DEX 3 RE is everything you need without the clutter - the perfect 2-deck mixing software solution for mobile DJs or hard-core hobbiests.  
- PCDJ DEX 3 RE (DJ Software for Win & MAC - Product Activation For 3 Machines)</a>
-<!-- affiliate ads end -->
 8. Create a free account on[pinecone.io](https://www.pinecone.io/) . Once you've signed in to your account, select**API Keys** and click**Create API Key** . However, it's not mandatory you use pinecone.io to install Auto-GPT—if you're put on a waiting list, you can skip to step 12.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 9. After naming and creating the new API key on Pinecone, copy the**Key Value** and paste it to replace "your-pinecone-api-key—this is on the third line under "PINECONE" on the ".env" file you've opened using Notepad.
 10. On the pinecone.io account, copy the details under**Environment** and paste it on the ".env." file next to PINECONE\_ENV—it should replace "your-pinecone-region".  
 ![A screenshot showing blurred Pinecone API key on Notepad](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/pinecone.jpg)
 11. Save the ".env" file.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vPGg53vbOsk?si=CkSEN5HFPS7vDuAa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 12. Right-click the Auto-GPT folder and select**Open in Terminal** .  
 ![Open AutoGPT environment](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/10-open-terminal.jpg)
 13. After you've opened the Terminal, enter "pip install -r requirements.txt" to automatically download and install the necessary libraries for Auto-GPT.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6X24fPKs6AE?si=YtQy-8zy7GifgfA7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![Pip install requirements](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/11-pip-install-requirements.jpg)
 14. Launch Auto-GPT on your computer by executing the following command: "python -m autogpt".  
 ![AutoGPT installation success](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/weldom.jpg)
@@ -97,9 +98,6 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 ## How Do You Access Auto-GPT on Your Browser?
 
 ![A screenshot of Agent GPT with name and goal defined. ](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/agent-gpt.png)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940317&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
-<!-- affiliate ads end -->
 
  If accessing Auto-GPT on your PC is too complicated, especially if you're unfamiliar with the Windows Terminal, you can still access it on your browser using AgentGPT. It could also be a safer option if you're concerned about privacy on your PC.
 
@@ -113,14 +111,12 @@ Here is a step-by-step guide on how to install Auto-GPT on your PC:
 Once it's done, you can copy or save the information.
 
 <!-- affiliate ads begin -->
-<a href="https://bluettide.pxf.io/c/5597632/2042332/17092" target="_top" id="2042332"><img src="//a.impactradius-go.com/display-ad/17092-2042332" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="960" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042332/17092" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OdlXe5RELW0?si=Iz1H1QnLQVw-Eu3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Auto-GPT 3.5 API vs. Auto-GPT 4 API
 
 ![Art of an AI robot](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/03/rup-ai-chatgpt4.jpg)
-<!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713322&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVRadio1.90-300x188.jpg" border="0">OtsAV Radio Webcaster</a>
-<!-- affiliate ads end -->
 
  If you've subscribed to ChatGPT-4, you can access the GPT-4 API. But if you're using the free version of ChatGPT, you will be limited to GPT-3.5 API. What's the difference between using GPT-3.5 and GPT-4 to access Auto-GPT?
 
@@ -136,6 +132,10 @@ Once it's done, you can copy or save the information.
 
 ![AutoGPT downloading file](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/3-recipe-generator.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ME5-sAQJVE4?si=ZfcvJSnhQevWtjI0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  In retrospect, Auto-GPT with either GPT-3.5 or GPT-4 API can automate some of your tasks with simple defined goals. Of course, Auto-GPT with GPT-4 API has the edge over GPT-3.5 because it's more accurate and better at making sense of images. Here are the[key differences between GPT-4 and GPT 3.5 explained](https://www.makeuseof.com/gpt-4-vs-gpt-35-differences-explained) .
 
 ## Is It Worth Using Auto-GPT Without GPT-4?
@@ -143,15 +143,17 @@ Once it's done, you can copy or save the information.
  Even though Auto-GPT with GPT-4 API performs better than Auto-GPT-3.5, you can still use Auto-GPT 3.5 to complete tasks autonomously. For example, I prompted Auto-GPT with GPT-3.5 API to search the internet for the best laptops on the market and give me a report with pros and cons.
 
 ![auto-gpt with gpt 3.5 output example](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/auto-gpt-with-gpt-3-5-output-example.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://vapordna.pxf.io/c/5597632/1496243/17238" target="_top" id="1496243"><img src="//a.impactradius-go.com/display-ad/17238-1496243" border="0" alt="" width="1000" height="1221"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1496243/17238" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Similarly, I prompted Auto-GPT with GPT-4 API with the same goals, and it gave me a report.
 
 ![auto-gpt with gpt 4 output example](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/auto-gpt-with-gpt-4-output-example.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2337838&QTY=1&AFFILIATE=108875&CART=1"><iframe width="640" height="390" src="https://www.youtube.com/embed/rzZwphIv4RM" title="APFill - Ink and Toner Coverage Calculator" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Based on the results, we can deduce that Auto-GPT is still a useful tool without GPT-4 API. In fact, Auto-GPT-3.5 tokens are way cheaper than GPT-4 tokens. Here is what you need to know about the[ChatGPT token limit](https://www.makeuseof.com/what-is-chatgpt-token-limit-can-you-exceed-it/) .
@@ -162,22 +164,15 @@ Once it's done, you can copy or save the information.
 
  Besides that, Auto-GPT's developers acknowledge that Auto-GPT is experimental and may not be ideal for real-world situations.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=36506229&QTY=1&AFFILIATE=108875&CART=1"><video width="100%" height="" class="rounded-t-md shadow-lg relative z-20" controls="" autoplay="" loop="" muted="" playsinline="" webkit-playinginline="">
-<source type="video/mp4" src="https://aidaform.com/images/videos/aidaform-welcome-site.mp4"><source type="video/webm" src="https://aidaform.com/images/videos/aidaform-welcome-site.webm"></video></a>
-<!-- affiliate ads end -->
 ## Auto-GPT Is a Game Changer
 
  Auto-GPT is the closest thing we have to artificial general intelligence, consideringit'ss an AI agent that can perform most tasks autonomously with just a few prompts.It'ss also easy to set up, and you can use it with GPT-3.5 or GPT-4\. However, Auto-GPT has its flaws, and it requires a human to verify the information after autonomously completing the tasks.
-
 
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -186,4 +181,20 @@ Once it's done, you can copy or save the information.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-video-files.techidaily.com/new-navigating-melody-rights-on-instagram-a-full-breakdown-for-2024/"><u>[New] Navigating Melody Rights on Instagram A Full Breakdown for 2024</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-2024-approved-boosting-viewer-interest-with-optimal-video-thumbnail-sizes/"><u>[Updated] 2024 Approved Boosting Viewer Interest with Optimal Video Thumbnail Sizes</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-screen-saga-a-thousand-stories-one-channel-at-a-time/"><u>[Updated] Screen Saga A Thousand Stories, One Channel at a Time</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/free-youtube-to-mp3-converters-you-should-know-onlinewinmac-for-2024/"><u>Best Free YouTube to MP3 Converters You Should Know [Online/Win/Mac] for 2024</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/customizing-chatgpt-for-specific-needs-an-in-depth-creation-guide/"><u>Customizing ChatGPT for Specific Needs: An In-Depth Creation Guide</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/in-2024-capturing-the-essence-of-facetime-on-facebook/"><u>In 2024, Capturing the Essence of FaceTime on Facebook</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-honoring-creativity-ultimate-otu-collection/"><u>In 2024, Honoring Creativity Ultimate OTU Collection</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-wireless-methods-to-mirrorapple-iphone-xs-and-ipad-to-fire-stick-with-ease-drfone-by-drfone-ios/"><u>In 2024, Wireless Methods to MirrorApple iPhone XS & iPad to Fire Stick With Ease | Dr.fone</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/secure-and-save-every-exchange-the-ultimate-tutorial-on-storing-chatgpt-dialogues/"><u>Secure and Save Every Exchange: The Ultimate Tutorial on Storing ChatGPT Dialogues</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/the-latest-in-interconnect-technology-introducing-copperlink-by-pci-sig-for-future-proof-pcie-5-and-6-links-with-gen7-on-the-horizon/"><u>The Latest in Interconnect Technology: Introducing CopperLink by PCI-SIG for Future-Proof PCIe 5 and 6 Links, with Gen7 on the Horizon</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/the-ultimate-list-of-ai-powered-chrome-extensions-for-better-task-management/"><u>The Ultimate List of AI-Powered Chrome Extensions for Better Task Management</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/toms-tech-insights-a-deeper-dive-into-hardware/"><u>Tom's Tech Insights: A Deeper Dive Into Hardware</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/ultimate-guide-on-apple-iphone-6s-icloud-activation-lock-bypass-by-drfone-ios/"><u>Ultimate Guide on Apple iPhone 6s iCloud Activation Lock Bypass</u></a></li>
+</ul></div>
 

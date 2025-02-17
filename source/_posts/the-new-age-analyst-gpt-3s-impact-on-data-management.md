@@ -1,7 +1,7 @@
 ---
 title: "The New Age Analyst: GPT-3's Impact on Data Management"
-date: 2024-08-15T22:06:31.620Z
-updated: 2024-08-16T22:06:31.620Z
+date: 2025-02-15T21:21:33.565Z
+updated: 2025-02-16T23:02:13.392Z
 tags:
   - chatgpt
   - open-ai
@@ -33,17 +33,10 @@ False news can be categorized into three types:
 
  How will the law address the propagation of fake news through generative AI? Who will be held responsible for spreading false information—the users, developers, or the tools themselves?
 
-<!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713324&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVTV1.90-300x188.jpg" border="0">OtsAV TV Webcaster</a>
-<!-- affiliate ads end -->
 ## 4 Ways Generative AI Can Be Used to Spread Disinformation
 
  To stay safe online, everyone needs to understand the risks of generative AI in spreading disinformation, as it comes in many different forms. Here are a few ways it can be used to manipulate people.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152810&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/842ca578342915ccb8ae069595ba7233/products/copy_bootit-ss1_178x139.jpg" border="0">The BootIt Collection covers multi-booting, partitioning, and disk imaging on traditional PC's using the standard BIOS and  newer PC's using UEFI.   The collection includes BootIt Bare Metal (BIBM) for standard BIOS systems and BootIt UEFI (BIU) for UEFI system. 
-</a>
-<!-- affiliate ads end -->
 ### 1\. Generating Fake Content Online
 
  Creating fake content using generative AI is a common strategy employed by those who spread false news. They use popular generative AI tools like ChatGPT, DALL-E, Bard, Midjourney, and others to produce various types of content. For example,[ChatGPT can help content creators in many ways](https://www.makeuseof.com/how-chatgpt-can-help-content-creators/) . But it can also generate social media posts or news articles that may deceive people.
@@ -54,11 +47,16 @@ Here's the fictitious article that ChatGPT came up with:
 
 ![ChatGPT created a fictitious news article about corruption charges against Joe Biden](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/chatgpt-3.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Surprisingly, the output was highly persuasive. It included the names and statements of authoritative figures to make the article more convincing. This shows how anyone can use such tools to generate false news and easily spread it online.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532"><img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UcplMvRBulA?si=iBonbwDS1v7RAlHK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### 2\. Using Chatbots to Influence People's Opinions
 
  Chatbots that rely on generative AI models can employ various tactics to influence people's opinions, including:
@@ -79,8 +77,9 @@ Here's the fictitious article that ChatGPT came up with:
  It's crucial, then, to be able to[identify videos created by deepfakes](https://www.makeuseof.com/how-can-you-tell-video-deepfake/) and distinguish them from originals.
 
 <!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1872496/14483" target="_top" id="1872496"><img src="//a.impactradius-go.com/display-ad/14483-1872496" border="0" alt="" width="750" height="625"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872496/14483" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### 4\. Cloning Human Voices
 
  Generative AI, along with deepfake technology, enables the manipulation of someone's speech. Deepfake technology is advancing rapidly and offers a variety of tools that can replicate anyone's voice. This allows malicious individuals to impersonate others and deceive unsuspecting individuals. One such example is[the use of deepfake music](https://www.makeuseof.com/what-is-deepfake-ai-music/) .
@@ -90,8 +89,9 @@ Here's the fictitious article that ChatGPT came up with:
  Scammers may use deepfake voices to impersonate your loved ones and call you, pretending to be in distress. With synthetic audio that sounds convincing, they could urge you to send money urgently, leading you to become a victim of their scams. An incident reported by[The Washington Post](https://www.washingtonpost.com/technology/2023/03/05/ai-voice-scam/) in March 2023 exemplifies this issue: scammers used deepfake voices to convince people that their grandsons were in jail and needed money...
 
 <!-- affiliate ads begin -->
-<a href="https://modlily.sjv.io/c/5597632/2072819/17059" target="_top" id="2072819"><img src="//a.impactradius-go.com/display-ad/17059-2072819" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072819/17059" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## How to Spot AI-Spread Disinformation
 
  Combating the spread of disinformation facilitated by AI is a pressing issue in today's world. So how can you spot false information that's been made by AI?
@@ -104,24 +104,20 @@ Here's the fictitious article that ChatGPT came up with:
  By following these steps, you can identify and protect yourself from AI-driven misinformation.
 
 <!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296685&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2022/video-pp/ScreenshotSlider/Nero-Video-Advanced-editing.JPG" border="0">Simple and intuitive video editing
-🎬 Nero Video:
-The powerful video editing program for your Windows PC</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Beware of Disinformation Spread by AI
 
  Generative software has played a crucial role in advancing AI. Still, they can also be a significant source of disinformation in society. These affordable tools have enabled anyone to create different types of content using sophisticated AI models; their ability to generate content in large quantities and incorporate deepfakes makes them even more dangerous.
 
  It's important that you're aware of the challenges of disinformation in the AI era. Understanding how AI can be used to spread fake news is the first step towards protecting yourself from misinformation.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -130,4 +126,24 @@ The powerful video editing program for your Windows PC</a>
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-content.techidaily.com/2024-approved-melody-mix-up-how-to-tune-your-facebook-videos-with-songs/"><u>2024 Approved Melody Mix-Up How to Tune Your Facebook Videos with Songs</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/2024-approved-sustaining-a-dynamic-facebook-experience/"><u>2024 Approved Sustaining a Dynamic Facebook Experience</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/can-ai-language-model-chatgpt-be-the-brain-of-your-smart-home/"><u>Can AI Language Model ChatGPT Be the Brain of Your Smart Home?</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/comparing-giants-in-conversation-top-10-distinctions-between-chatgpt-and-microsofts-bing-bot/"><u>Comparing Giants in Conversation: Top 10 Distinctions Between ChatGPT and Microsoft's Bing Bot</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/comprehensive-overview-exploring-features-of-the-openai-api-and-endless-possibilities/"><u>Comprehensive Overview: Exploring Features of the OpenAI API & Endless Possibilities</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/easily-unlock-your-realme-narzo-60x-5g-device-sim-by-drfone-android/"><u>Easily Unlock Your Realme Narzo 60x 5G Device SIM</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/effortless-data-management-enhance-excel-functionality-with-chatgpt-assistance/"><u>Effortless Data Management: Enhance Excel Functionality with ChatGPT Assistance</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/elevate-your-video-recordings-tips-for-mov-files-on-windows-10-for-2024/"><u>Elevate Your Video Recordings Tips for MoV Files on Windows 10 for 2024</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-full-guide-to-bypass-huawei-nova-y91-frp-by-drfone-android/"><u>In 2024, Full Guide to Bypass Huawei Nova Y91 FRP</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-find-ispoofer-pro-activation-key-on-oneplus-open-drfone-by-drfone-virtual-android/"><u>In 2024, How to Find iSpoofer Pro Activation Key On OnePlus Open? | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-top-4-ways-to-trace-motorola-moto-g34-5g-location-drfone-by-drfone-virtual-android/"><u>In 2024, Top 4 Ways to Trace Motorola Moto G34 5G Location | Dr.fone</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/joke-generation-by-ai-can-it-trigger-our-humor-circuits/"><u>Joke Generation by AI: Can It Trigger Our Humor Circuits?</u></a></li>
+<li><a href="https://video-capture.techidaily.com/step-by-step-guide-transforming-mp4-videos-into-flv-format/"><u>Step-by-Step Guide: Transforming MP4 Videos Into FLV Format</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/the-ultimate-guide-to-professional-note-taking-with-chatgpt-tools/"><u>The Ultimate Guide to Professional Note-Taking with ChatGPT Tools</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/understanding-gpt4all-the-revolutionary-tool-explained/"><u>Understanding GPT4All - The Revolutionary Tool Explained</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/whos-on-the-other-end-understanding-conversations-in-the-virtual-space-through-dead-internet-theory/"><u>Who's on the Other End?: Understanding Conversations in the Virtual Space Through Dead Internet Theory</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/win11-printer-woes-solutions-here/"><u>Win11 Printer Woes? Solutions Here</u></a></li>
+</ul></div>
 

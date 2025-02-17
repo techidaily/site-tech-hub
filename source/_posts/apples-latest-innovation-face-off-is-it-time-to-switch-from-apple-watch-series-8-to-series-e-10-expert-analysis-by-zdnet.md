@@ -1,7 +1,7 @@
 ---
 title: "Apple's Latest Innovation Face-Off: Is It Time to Switch From Apple Watch Series 8 to Series E 10? | Expert Analysis by ZDNET"
-date: 2025-02-02T11:45:20.357Z
-updated: 2025-02-07T11:05:15.593Z
+date: 2025-02-09T23:14:28.912Z
+updated: 2025-02-16T21:58:11.504Z
 tags:
   - apple
 categories:
@@ -71,15 +71,15 @@ But should you splurge on Apple's newest mid-range wearable? Is it time for an u
 
 Kerry Wan/ZDNET
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vEYkX2NJgZw?si=IaHqlqJcYipwUOht" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## You should buy the Apple Watch Series 10 if...
 
 ### 1\. You want a thinner design or larger watch sizes
 
 For the first time since the Watch Series 7 in 2021, the Apple Watch has had a facelift. The new Series 10 has a thinner overall profile and features larger faces and more rounded edges. Choose from a 42mm or 46mm display and enjoy a wearable lighter than the previous Series 9\. So, if you've been avoiding an Apple Watch because you've wanted a slimmer profile or larger face, here's your chance. 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3C51hzX46eY?si=o5qiDSkT7mXUGm3F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 2\. You'd benefit from sleep apnea tracking
 
@@ -90,7 +90,7 @@ Sleep tracking is all the rage in tech (seriously, ZDNET readers [frequently pur
 Brand new for the Series 10, sleep apnea tracking is now built-in and there's a host of other features, such as [depth gauge](https://www.zdnet.com/article/apple-watch-series-9-vs-series-10-which-smartwatch-is-right-for-you/), for sports like snorkeling and diving.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ITtcSWvS8bo?si=4M4BfMgaabrW6148" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 3\. You're looking for something future-proof
@@ -104,7 +104,7 @@ The Watch Series 10 is the newest Apple Watch you can buy. History suggests it w
 Not only does the Watch Series 10 offer new features like sleep apnea detection, temperature sensing, and a depth gauge, but it's also designed to maximize [WatchOS 11](https://www.zdnet.com/article/every-apple-watch-that-will-get-watchos-11-and-which-models-wont-be-supported/) and benefits from a seamless integration with Apple's latest [iPhone 16 models](https://www.zdnet.com/article/every-iphone-16-model-compared-which-new-iphone-should-you-buy/), which run on [iOS 18](https://www.zdnet.com/article/every-iphone-model-that-will-be-updated-to-apples-ios-18-and-which-ones-wont/). 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LaGNHfAT92w?si=bvHo1iYK2JBIPtRo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 4\. It's time to upgrade
@@ -119,12 +119,16 @@ If you want top functions and maximum longevity, the new Watch Series 10 is the 
 
 [Buy the Apple Watch Series 10 View now at Apple](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-watch%2Fapple-watch&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## You should buy the Apple Watch Series 8 if...
 
 Jason Hiner/ZDNET
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 1\. You want an affordable option
@@ -140,10 +144,6 @@ While the [Series 9](https://www.zdnet.com/article/apple-watch-series-9-review/)
 A major reason you may be interested in the Series 8, even though it's now a few years old, is the blood oxygen feature. Since the blood oxygen sensor [was banned](https://www.zdnet.com/article/apple-removes-blood-oxygen-sensor-from-new-watches-what-does-this-mean-for-current-users/) for the Series 9, Ultra 2, and as expected, the Series 10, no newer Apple Watch model offers the same capabilities. This situation means the Series 8 is the best option if you're looking for an Apple Watch equipped with blood oxygen sensing. 
 
 [Buy the Apple Watch Series 8 View now at Target](https://shop-links.co/link/?url=https%3A%2F%2Fwww.target.com%2Fp%2Frefurbished-apple-watch-series-8-gps-41mm-midnight-aluminum-case-with-midnight-sport-band-m-l-2022-8th-generation-target-certified-refurbished%2F-%2FA-89776439%3F&publisher_slug=itechdaily19598&exclusive=1)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Alternatives to consider
 
@@ -179,24 +179,24 @@ A major reason you may be interested in the Series 8, even though it's now a few
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-info.techidaily.com/new-in-2024-design-your-brand-free-logo-templates-and-personalization/"><u>[New] In 2024, Design Your Brand Free Logo Templates & Personalization</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-easy-steam-recordings-with-team-fortress-2s-latest-update/"><u>[Updated] Easy Steam Recordings with Team Fortress 2'S Latest Update</u></a></li>
-<li><a href="https://article-posts.techidaily.com/updated-in-2024-from-shaky-to-steady-selecting-the-best-gimbals-for-your-drones/"><u>[Updated] In 2024, From Shaky to Steady Selecting the Best Gimbals for Your Drones</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/updated-the-stagnation-of-ideas-in-contemporary-vr/"><u>[Updated] The Stagnation of Ideas in Contemporary VR</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/2024-approved-secure-steps-for-skyrocketing-video-engagement-a-million-wins-strategy/"><u>2024 Approved Secure Steps for Skyrocketing Video Engagement A Million Wins Strategy</u></a></li>
-<li><a href="https://change-location.techidaily.com/catch-or-beat-sleeping-snorlax-on-pokemon-go-for-xiaomi-redmi-note-12t-pro-drfone-by-drfone-virtual-android/"><u>Catch or Beat Sleeping Snorlax on Pokemon Go For Xiaomi Redmi Note 12T Pro | Dr.fone</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/chatgpt-upgrades-unveiled-enroll-now-for-the-cutting-edge-plugin-platform/"><u>ChatGPT Upgrades Unveiled: Enroll Now for the Cutting-Edge Plugin Platform!</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/comprehensive-guide-linking-chatgpt-with-whatsapp-for-improved-support-solutions/"><u>Comprehensive Guide: Linking ChatGPT with WhatsApp for Improved Support Solutions</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/elevated-exchanges-the-pros-and-cons-of-chatgpt-upgrade/"><u>Elevated Exchanges: The Pros and Cons of ChatGPT Upgrade</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/engaging-with-gpt-4-on-current-chatgpt-platforms/"><u>Engaging With GPT-4 on Current ChatGPT Platforms</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/envisioned-kingdoms-through-conversational-algorithms/"><u>Envisioned Kingdoms Through Conversational Algorithms</u></a></li>
-<li><a href="https://facebook.techidaily.com/hacked-out-restore-your-social-media-secrets/"><u>Hacked Out! Restore Your Social Media Secrets</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/how-chatgpts-current-data-accessibility-impacts-us-all/"><u>How ChatGPT's Current Data Accessibility Impacts Us All</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/how-to-guard-your-sensitive-data-with-chatgpt-for-professional-purposes/"><u>How to Guard Your Sensitive Data with ChatGPT for Professional Purposes</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-reset-a-locked-itel-a60s-phone-by-drfone-android/"><u>In 2024, How to Reset a Locked Itel A60s Phone</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/seeing-gpt-work-the-everyday-usage-breakdown/"><u>Seeing GPT Work: The Everyday Usage Breakdown</u></a></li>
-<li><a href="https://discover-fantastic.techidaily.com/ultimate-how-to-syncing-songs-between-pc-and-iphone-8-for-hassle-free-listening/"><u>Ultimate How-To: Syncing Songs Between PC and iPhone 8 for Hassle-Free Listening</u></a></li>
-<li><a href="https://some-tips.techidaily.com/unveiling-nvidias-strategy-a-peek-inside-their-gpu-drivers-now-open-sourced-insights-from-zdnet/"><u>Unveiling NVIDIA's Strategy: A Peek Inside Their GPU Drivers Now Open-Sourced - Insights From ZDNet</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/why-ai-cant-critique-own-outputs/"><u>Why AI Can't Critique Own Outputs</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/2024-approved-capture-the-moment-innovative-approaches-to-live-video-download/"><u>2024 Approved Capture the Moment Innovative Approaches to Live Video Download</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/2024-approved-deciphering-facebooks-iconic-blue-emoji-usage-in-messages/"><u>2024 Approved Deciphering Facebook's Iconic Blue Emoji Usage in Messages</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/2024-approved-discover-the-finest-top-10-affordable-drawers-on-mac/"><u>2024 Approved Discover the Finest Top 10 Affordable Drawers on Mac</u></a></li>
+<li><a href="https://techtrends.techidaily.com/adjusting-your-amazon-kindle-paperwhites-clock-a-step-by-step-guide/"><u>Adjusting Your Amazon Kindle Paperwhite's Clock: A Step-by-Step Guide</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/affordable-alternative-how-cheap-xr-glasses-beat-apples-pricey-offering-and-ended-my-tech-regret/"><u>Affordable Alternative: How Cheap XR Glasses Beat Apple's Pricey Offering and Ended My Tech Regret</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/amazon-goes-big-with-low-cost-tech-deals-secure-an-ipad-for-just-199-dollars-this-labor-day-exclusive-scoop-from-zdnet/"><u>Amazon Goes Big with Low-Cost Tech Deals: Secure an iPad for Just 199 Dollars This Labor Day – Exclusive Scoop From ZDNET</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/apple-discontinues-apple-pay-later-program-developing-new-alternative-zdnet-report/"><u>Apple Discontinues Apple Pay Later Program; Developing New Alternative - ZDNet Report</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/beyond-apple-discover-the-best-rechargeable-airtag-compatible-with-iphones-featured-review/"><u>Beyond Apple: Discover the Best Rechargeable AirTag Compatible With iPhones | Featured Review</u></a></li>
+<li><a href="https://windows11.techidaily.com/breaking-down-barriers-to-maximize-windows-ram/"><u>Breaking Down Barriers to Maximize Windows' RAM</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/capturing-the-essence-cinematic-techniques-at-their-best/"><u>Capturing the Essence Cinematic Techniques at Their Best</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/discover-the-hidden-smart-home-mode-on-your-mac-and-ipad-do-you-need-to-know-about-this/"><u>Discover the Hidden 'Smart Home Mode' On Your Mac & iPad: Do You Need to Know About This?</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/experts-top-tablet-selections-of-2024-thoroughly-tested-comprehensive-insights-zdnet/"><u>Experts' Top Tablet Selections of 2024: Thoroughly Tested, Comprehensive Insights | ZDNet</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/how-apple-revolutionizes-sound-with-new-airpods-upgrades-explore-the-four-key-improvements-unveiled/"><u>How Apple Revolutionizes Sound with New AirPods Upgrades – Explore the Four Key Improvements Unveiled</u></a></li>
+<li><a href="https://fox-http.techidaily.com/in-2024-prime-free-enhancement-tool-for-pics-onlineapp/"><u>In 2024, Prime Free Enhancement Tool for Pics Online/App</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-pushing-boundaries-exploring-iphone-xs-unique-lens-tech/"><u>In 2024, Pushing Boundaries Exploring iPhone X's Unique Lens Tech</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/in-depth-analysis-of-netgears-powerline-ac1200-aesthetics-vs-performance/"><u>In-Depth Analysis of Netgear's Powerline AC1200: Aesthetics vs Performance</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/mac-studios-unique-feature-that-influences-my-decision-over-upgrading-to-a-fall-release-of-the-m4-mac-mini-perspectives/"><u>Mac Studio’s Unique Feature that Influences My Decision over Upgrading to a Fall Release of the M4 Mac Mini Perspectives</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/spotting-a-stealthy-tracker-how-to-check-for-hidden-airtags-around-you/"><u>Spotting a Stealthy Tracker: How to Check for Hidden AirTags Around You</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/top-13-complimentary-hddssd-diagnostic-software-of-july-2024/"><u>Top 13 Complimentary HDD/SSD Diagnostic Software of July 2024</u></a></li>
 </ul></div>
 

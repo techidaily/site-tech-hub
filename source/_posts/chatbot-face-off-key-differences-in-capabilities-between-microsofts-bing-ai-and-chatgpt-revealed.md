@@ -1,7 +1,7 @@
 ---
 title: "Chatbot Face-Off: Key Differences in Capabilities Between Microsoft's Bing AI & ChatGPT Revealed"
-date: 2024-08-15T22:08:48.437Z
-updated: 2024-08-16T22:08:48.437Z
+date: 2025-02-15T16:03:25.476Z
+updated: 2025-02-16T17:28:33.014Z
 tags:
   - chatgpt
   - open-ai
@@ -19,11 +19,19 @@ thumbnail: https://thmb.techidaily.com/876e753e27077574ad25291cd756f73dd324e0088
 
  However, Claude AI, a chatbot built by AI startup Anthropic, shows qualities of a chatbot that can dethrone ChatGPT. A considerable number of users are already saying Claude is the better option. But is this the case? Let’s take both chatbots for a spin.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## ChatGPT vs. Claude AI: Common-Sense and Logical Reasoning
 
  There's an intriguing contrast when working with AI chatbots. On one hand, they can whiz through complex tasks that humans may labor over for days to solve. On the other hand, they sometimes grapple with elementary problems that require just a bit of common-sense or logical reasoning. So, we tested both ChatGPT and Claude AI to see which AI chatbot was better at common sense and logical reasoning tasks.
 
 ![logical and commonsense problem](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/logical-and-commonsense-problem.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_dOmuXhsV6Y?si=aT6vgPbDx4ajjvdr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  ChatGPT broke up the problem into bits and solved it on the first attempt. Claude AI also had a go at it and solved the problem as well, but with a different approach.
 
@@ -32,6 +40,10 @@ thumbnail: https://thmb.techidaily.com/876e753e27077574ad25291cd756f73dd324e0088
  For the first task, both chatbots were able to crack the problem. So, we moved on to a different kind of problem. We tasked both chatbots with answering a trick question.
 
 ![ChatGPT Answers Trick Question-1](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/chatgpt-answers-trick-question-1.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  ChatGPT was able to immediately spot the trick--you can't bury survivors because they aren't dead. Claude AI, on the other hand, seemed to understand that it was a trick question but failed to spot the most common-sense issue that you don't bury survivors.
 
@@ -42,6 +54,10 @@ thumbnail: https://thmb.techidaily.com/876e753e27077574ad25291cd756f73dd324e0088
  On this task, we give it to ChatGPT, but we can't totally rule out Claude AI's approach. For our final task on this metric, we asked both chatbots how many apples would be left on an apple tree after five and 10 days respectively if we started with 10 apples and five of them got sliced while still on the tree. ChatGPT said there'd still be 10 apples left.
 
 ![ChatGPT birds commonsense logic](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/chatgpt-birds-commonsense-logic.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Claude AI, on the other hand, gave a more common-sense response by recognizing that the five sliced apples are likely to rot.
 
@@ -56,30 +72,22 @@ thumbnail: https://thmb.techidaily.com/876e753e27077574ad25291cd756f73dd324e0088
  Essentially, math proficiency is a core metric of artificial intelligence. So, between ChatGPT and Claude AI, which chatbot is more proficient in math? We tasked both chatbots with solving a twisty math productivity problem. We started with Claude AI, and the chatbot cracked the problem.
 
 ![Claude AI solves maths problem on productivity](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/claude-ai-solves-maths-problem-on-productivity.jpg)
-<!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1047974&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-04_%281%29.jpg" border="0"></a>
-<!-- affiliate ads end -->
 
 ChatGPT also cracked the problem as well.
 
 ![ChatGPT solves maths problem on productivity](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/chatgpt-solves-maths-problem-on-productivity.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=194977&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrfactory/images/screensaver-software.png" border="0">Screensaver Factory, Create stunning professional screensavers within minutes. Create screensavers for yourself, for marketing or unlimited royalty-free commercial distribution. Make screensavers from images, video and swf flash, add background music and smooth sprite and transition effects. Screensaver Factory is very easy to use, and it enables you to make self-installing screensaver files and CDs for easy setup and distribution. Screensaver Factory is the most advanced software of its kind.</a>
-<!-- affiliate ads end -->
 
  Moving on, we asked both chatbots to solve**8/a-1 = 20/3a-1** , a fairly straightforward math problem with a surprisingly high failure rate among AI chatbots. ChatGPT was able to solve it, providing a correct answer of**\-3** at the first attempt.
 
 ![ChatGPT solves a math problem](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/chatgpt-solves-a-math-problem.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=28010250&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/336__280a.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Claude AI failed at the first attempt, but when we prompted it to solve the problem step by step (which forces it to think through every step of its logic) it was able to crack it.
 
 ![Claude AI solves a math problem step-by-step](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/claude-ai-solves-a-math-problem-step-by-step.jpg)
-<!-- affiliate ads begin -->
-<a href="https://atezr.pxf.io/c/5597632/2018605/18496" target="_top" id="2018605"><img src="//a.impactradius-go.com/display-ad/18496-2018605" border="0" alt="" width="798" height="807"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2018605/18496" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  We tried a few more math problems. While both chatbots got it right on the first try in some cases, in several instances, Claude AI needed a second or third attempt to provide the right response. In terms of math skills, we'll give the crown to ChatGPT.
 
@@ -92,10 +100,6 @@ ChatGPT also cracked the problem as well.
  So, we asked both ChatGPT and Claude AI to "write a rhyming rap about growing cucumbers as a farmer and becoming a millionaire from it." ChatGPT went first, and as expected, it produced some exciting lyrics.
 
 ![ChatGPT composes a rap lyrics](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/chatgpt-composes-a-rap-lyrics.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4599951&QTY=1&AFFILIATE=108875&CART=1"><iframe width="864" height="500" src="https://www.youtube.com/embed/jVnfr5HudQw" title="The Latest and Easiest Solution to Remove Kindle DRM on Windows (without Degrading)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-Epubor Ultimate for Win：Helps you read books anywhere, including the best eBook Converter + eBook DRM Removal functions.</a>
-<!-- affiliate ads end -->
 
  We then fed the same prompt to Claude AI, and it gave it a fair shot as well.
 
@@ -114,9 +118,6 @@ Epubor Ultimate for Win：Helps you read books anywhere, including the best eBoo
  ​​​​​​That said, we put both chatbots on two coding tasks. We asked ChatGPT and Claude AI to write functional code for a to-do list app. Starting with ChatGPT, the AI chatbot was able to deliver a functional to-do list app on the first attempt. We copy-pasted and ran it on a browser, and it worked perfectly without errors. Here's the output on a browser.
 
 ![to-do list app by ChatGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/to-do-list-app-by-chatgpt.jpg)
-<!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Elite.png" border="0"></a>
-<!-- affiliate ads end -->
 
  Moving on to Claude AI, the chatbot wrote clearly intelligible code. The structure and logic all seemed fine. Unfortunately, despite repeated attempts, Claude AI kept missing some critical logic to make the code actually run on a browser. It's a fail on this one.
 
@@ -124,24 +125,29 @@ Epubor Ultimate for Win：Helps you read books anywhere, including the best eBoo
 
 ![Claude AI analyzing multiple PHP files](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/claude-ai-analyzing-multiple-php-files.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mMYEK2gtY5c?si=ytxNz_JHZkTrwb4b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Surprisingly, ChatGPT, despite seemingly having superior coding skills, failed at this despite repeated attempts. Claude AI, on the other hand, was able to analyze the code proficiently while identifying the right places that needed to be edited to achieve the desired results.
 
  Of course, this was not an isolated case, we repeated it with several other code files, but ChatGPT stumbled and stalled on the majority of cases while Claude AI kept delivering impressive results. In terms of coding skills, the winner is not entirely straightforward.
 
  ChatGPT is clearly significantly better at writing new code and can manage complex code with impressive proficiency. However, Claude AI is significantly better at analyzing large code bases. So, if you're looking to write code for some new idea you have, ChatGPT is the tool to turn to. If you want to analyze or make sense of a code base with thousands of lines across several files, then we would definitely recommend Claude AI.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/793ViIxl4tI?si=DDBkjPlPX5bZ-f1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Claude AI Is a Potent Competitor on the Block
 
  Claude AI represents a potent competition for ChatGPT--one that can compete with and potentially surpass ChatGPT someday. Given Claude is a relatively new AI model, it is enviable that it can take on ChatGPT the way it currently does. Claude AI's emergence and the quality it offers proof that the competition is heating up.
-
 
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -150,4 +156,24 @@ Epubor Ultimate for Win：Helps you read books anywhere, including the best eBoo
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-captivating-subscription-making-an-animated-button-for-youtube-with-filmora/"><u>[New] 2024 Approved Captivating Subscription Making an Animated Button for YouTube with Filmora</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-enhance-real-time-periscope-broadcasting-for-2024/"><u>[New] Enhance Real-Time Periscope Broadcasting for 2024</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-step-by-step-guide-to-the-best-iphone-virtual-reality-gaming-for-2024/"><u>[New] Step-by-Step Guide to the Best iPhone Virtual Reality Gaming for 2024</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-in-2024-unveiling-youtubes-features-adding-images-to-videos/"><u>[Updated] In 2024, Unveiling YouTube's Features Adding Images to Videos</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-forgotten-the-voicemail-password-of-nokia-g22-try-these-fixes-by-drfone-android/"><u>In 2024, Forgotten The Voicemail Password Of Nokia G22? Try These Fixes</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/in-depth-look-at-the-6tb-capacity-and-sturdy-design-of-my-passport-by-western-digital/"><u>In-Depth Look at the 6TB Capacity and Sturdy Design of My Passport by Western Digital</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/lenovo-monochrome-mishaps-resolved/"><u>Lenovo Monochrome Mishaps Resolved</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/mpeg-audio-layer-iiiac-3advanced-audio-codingaac/"><u>MPEG Audio Layer III（AC-3）とAdvanced Audio Coding（AAC）の比較分析</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/mtsm2ts/"><u>MTS/M2TSビデオを簡単に音楽クリップに変換するコツ</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/nec-laptop-how-to-screen-record/"><u>NEC Laptop: 簡単ガイド - How To Screen Record</u></a></li>
+<li><a href="https://win11.techidaily.com/overcome-save-failed-win-1011-tips-and-tricks/"><u>Overcome Save Failed: Win 10/11 Tips & Tricks</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/quick-and-effective-methods-to-transform-wmv-files-into-mp4-format-windows-macos-or-web-based-options/"><u>Quick & Effective Methods to Transform WMV Files Into MP4 Format: Windows, MacOS, or Web-Based Options</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/simple-tutorial-transforming-videos-into-vintage-film-style-using-windows-tools/"><u>Simple Tutorial: Transforming Videos Into Vintage Film Style Using Windows Tools</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/solving-fraps-display-problems-on-windows-a-comprehensive-solution-for-gamers/"><u>Solving FRAPS Display Problems on Windows #: A Comprehensive Solution for Gamers</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/speedy-solutions-for-switching-your-m4v-videos-over-to-mkv-format-efficiently/"><u>Speedy Solutions for Switching Your M4V Videos Over to MKV Format Efficiently</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/step-by-step-solutions-for-resolving-track-extraction-failures-in-windows-media-player/"><u>Step-by-Step Solutions for Resolving Track Extraction Failures in Windows Media Player</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/unveiling-the-top-5-pioneering-tools-for-crafting-ideal-ai-prompts-across-various-ai-applications/"><u>Unveiling the Top 5 Pioneering Tools for Crafting Ideal AI Prompts Across Various AI Applications</u></a></li>
+</ul></div>
 

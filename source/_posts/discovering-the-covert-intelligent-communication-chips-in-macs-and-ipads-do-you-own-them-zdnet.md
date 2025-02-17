@@ -1,7 +1,7 @@
 ---
 title: Discovering the Covert Intelligent Communication Chips in Macs and iPads - Do You Own Them? | ZDNET
-date: 2025-02-03T10:28:22.426Z
-updated: 2025-02-07T09:52:24.738Z
+date: 2025-02-13T20:11:52.039Z
+updated: 2025-02-16T21:02:22.955Z
 tags:
   - apple
 categories:
@@ -28,7 +28,15 @@ If you want to follow along, you'll need to install the iOS 18 public beta on an
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to customize your iPhone's new Control Center with iOS 18
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fo4lNZ84x9Q?si=WdcYPZp-9VJnZEnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 1\. Access Control Center
 
@@ -37,7 +45,7 @@ To display Control Center, swipe down from the top-right corner of the screen. Y
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UCqHbpxQGP4?si=XGkajFHdqyoKNAFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sn2STvYRVb8?si=Z-XhJJ1Mc-Em5Kqy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Move the available controls
@@ -48,19 +56,11 @@ Screenshot by Lance Whitney/ZDNET
 
 **Also: [Every iPhone model that can be updated to Apple's iOS 18 (and which ones can't)](https://www.zdnet.com/article/every-iphone-model-that-can-be-updated-to-apples-ios-18-and-which-ones-cant/)**
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 3\. Resize a control
 
 After tapping the plus icon, some controls sport a gray curved handle in the lower-right corner. This means you can resize the control's icon. Drag the handle and move it up, down, or diagonally. Release it when the icon is the size you wish.
 
 Screenshot by Lance Whitney/ZDNET
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 4\. Delete a control
 
@@ -69,7 +69,7 @@ Next, you can directly delete a control you don't need or want. With the icons i
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/umvX4ZdWbxk?si=tPXL0-Kzf9SQaY8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 5\. Add a control to an existing screen
@@ -87,7 +87,7 @@ If the current screens are already filled with icons, you can set up additional 
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KaqfZcWg5sE?si=LPmSKk7AFp8VxDFD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 7\. Power down from Control Center
@@ -126,22 +126,19 @@ Screenshot by Lance Whitney/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://desktop-recording.techidaily.com/new-electorate-engagement-empowerment-best-gaming-selections/"><u>[New] Electorate Engagement Empowerment Best Gaming Selections</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-harnessing-the-full-spectrum-of-creativity-with-luts-in-video-editing/"><u>[New] Harnessing the Full Spectrum of Creativity with LUTs in Video Editing</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/1716069981133-new-in-2024-best-linux-screen-capture-software-ranked/"><u>[New] In 2024, Best Linux Screen Capture Software Ranked!</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/new-the-science-of-naming-your-podcast-for-success/"><u>[New] The Science of Naming Your Podcast for Success</u></a></li>
-<li><a href="https://blog-min.techidaily.com/6-ways-to-transfer-contacts-from-vivo-y100a-to-iphone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>6 Ways To Transfer Contacts From Vivo Y100A to iPhone | Dr.fone</u></a></li>
-<li><a href="https://solve-manuals.techidaily.com/9-libres-y-gratuitos-de-insercion-de-texto-en-videos-una-guia-completa/"><u>9 Libres Y Gratuitos De Inserción De Texto en Videos: Una Guía Completa</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/can-chatgpt-mix-up-a-perfectly-balanced-drink/"><u>Can ChatGPT Mix Up a Perfectly Balanced Drink?</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/decoding-claude-pro-insights-on-its-capabilities-versus-chatgpt-plus-by-microsoft/"><u>Decoding Claude Pro: Insights on Its Capabilities Versus ChatGPT Plus by Microsoft</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/heartstrings-hooked-by-high-tech-hearts/"><u>Heartstrings Hooked by High-Tech Hearts</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/how-chatgpt-claimed-its-spot-at-the-pinnacle-the-five-key-reasons-for-its-rapid-growth/"><u>How ChatGPT Claimed Its Spot at the Pinnacle: The Five Key Reasons for Its Rapid Growth</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/maximize-your-efficiency-with-these-4-tips-using-chatgpt-for-better-time-management/"><u>Maximize Your Efficiency with These 4 Tips: Using ChatGPT for Better Time Management</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/talent-showcase-whos-the-top-generative-chatbot-winner/"><u>Talent Showcase: Who's the Top Generative Chatbot Winner?</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/the-ultimate-showdown-in-conversational-ai-google-bard-against-bing-chat-who-takes-the-crown/"><u>The Ultimate Showdown in Conversational AI - Google Bard Against Bing Chat, Who Takes the Crown?</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/unlock-the-power-of-ai-in-search-how-to-sign-up-for-bing/"><u>Unlock the Power of AI in Search - How to Sign Up for Bing</u></a></li>
-<li><a href="https://fox-that.techidaily.com/usb-c-alert-issues-fixing-liquid-detected-inside-for-iphone-owners/"><u>USB-C Alert Issues: Fixing 'Liquid Detected Inside' For iPhone Owners</u></a></li>
-<li><a href="https://video-ai-editor.techidaily.com/video-stabilization-on-a-budget-8-free-online-tools-to-get-you-started/"><u>Video Stabilization on a Budget 8 Free Online Tools to Get You Started</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/virtual-world-bliss-an-lg-360-vr-reveal/"><u>Virtual World Bliss An LG 360 VR Reveal</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-set-up-a-dynamic-fb-cover/"><u>[Updated] Set Up a Dynamic FB Cover</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ing-brand-voice-via-micro-business-videos/"><u>Building Brand Voice via Micro-Business Videos</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/essential-guide-when-and-how-to-successfully-reboot-your-apple-airpods-tech-insights/"><u>Essential Guide: When & How To Successfully Reboot Your Apple AirPods | Tech Insights</u></a></li>
+<li><a href="https://article-files.techidaily.com/full-spectrum-review-google-podcasts-app-explained/"><u>Full Spectrum Review Google Podcasts App Explained</u></a></li>
+<li><a href="https://win-latest.techidaily.com/how-to-fix-the-audio-device-missing-issue-tips-from-yl-computing/"><u>How to Fix the 'Audio Device Missing' Issue: Tips From YL Computing</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/introducing-apples-cutting-edge-artificial-intelligence-transforming-siri-with-advanced-insight-into-your-home-interface-zdnet/"><u>Introducing Apple’s Cutting-Edge Artificial Intelligence: Transforming Siri with Advanced Insight Into Your Home Interface | ZDNet</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/ipads-new-release-hit-a-snag-unveiling-the-major-oversight-and-solutions-from-apple-zdnet/"><u>IPad's New Release Hit a Snag: Unveiling the Major Oversight and Solutions From Apple (ZDNet)</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/macos-keychain-unlocking-techniques-a-step-by-step-guide/"><u>MacOS Keychain Unlocking Techniques: A Step-by-Step Guide</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/maximize-your-macs-performance-with-these-expertly-selected-optimization-tools-featured/"><u>Maximize Your Mac's Performance with These Expertly-Selected Optimization Tools | Featured</u></a></li>
+<li><a href="https://review-topics.techidaily.com/remove-google-frp-lock-on-oneplus-ace-2-by-drfone-android-unlock-remove-google-frp/"><u>Remove Google FRP Lock on OnePlus Ace 2</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/the-blueprint-for-on-screen-dialogues-for-2024/"><u>The Blueprint for On-Screen Dialogues for 2024</u></a></li>
+<li><a href="https://techidaily.com/things-you-dont-know-about-infinix-note-30-vip-racing-edition-reset-code-drfone-by-drfone-reset-android-reset-android/"><u>Things You Dont Know About Infinix Note 30 VIP Racing Edition Reset Code | Dr.fone</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/1723964471029-top-redux-masterpieces-of-2016-were-accepting-entries-now/"><u>Top Redux Masterpieces of 2016 - We're Accepting Entries Now</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unlocking-new-features-apple-watch-series-9-introduces-double-tap-functionality-explore-the-possibilities/"><u>Unlocking New Features: Apple Watch Series 9 Introduces Double-Tap Functionality - Explore the Possibilities!</u></a></li>
 </ul></div>
 

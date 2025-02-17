@@ -1,7 +1,7 @@
 ---
 title: Unveiling the Top 4 New iPadOS 16.x Enhancements From Apple's WWDC 2024 and Their Compatible iPad Models - Insights by ZDNet
-date: 2024-10-24T17:01:29.689Z
-updated: 2024-10-27T18:03:46.603Z
+date: 2025-02-09T21:51:32.764Z
+updated: 2025-02-16T20:48:19.401Z
 tags:
   - apple
 categories:
@@ -26,13 +26,14 @@ This year, Apple upgraded each of its operating systems significantly, introduci
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jpdGEJJwMLY?si=eKgXOPpNeYvYKcel" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## The best iPadOS 18 features announced at WWDC
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2027195/19272" target="_top" id="2027195">
-  <img src="//a.impactradius-go.com/display-ad/19272-2027195" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027195/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. Apple Intelligence on the iPad
@@ -69,6 +70,10 @@ Until now, iPad users looking for a calculator had to download third-party apps 
 
 A built-in Calculator app eliminates the need to download a third-party app and allows Apple to leverage the iPad's larger screen to offer complex calculations and advanced visualizations. This feature enables everyday users, like students, to use the iPad more effectively for math and science queries. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 3\. An intuitive Notes app
 
 The Notes app for iPad also has been redesigned, with Smart Script in Notes for users with an Apple Pencil. Smart Script lets users handwrite with the Apple Pencil and spell-checks on the go as the user writes. Smart Script also works to streamline handwriting as it straightens lines and makes notes more legible in your handwriting.
@@ -76,19 +81,6 @@ The Notes app for iPad also has been redesigned, with Smart Script in Notes for 
 **Also: [iPad Pro (2024) review: Apple's most advanced tablet is no MacBook, and I'm okay with that](https://www.zdnet.com/article/ipad-pro-2024-review/)**
 
 Smart Script in Notes also lets users erase portions of notes by scratching them out. This feature also draws from the Calculator on iPad, letting users make calculations and graphs like they would in the Calculator. 
-
-<!-- affiliate ads begin -->
-<span id="1983575">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983575.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983575">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983575.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983575%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983575/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 4\. A Passwords app
 
@@ -101,10 +93,7 @@ Apple is making the new Passwords app available for iOS and iPadOS, giving users
 As a longtime LastPass user and Keychain disdainer, I look forward to testing this app and enjoying centralized password management with an enhanced user interface. I expect the Passwords app for iPad will greatly improve security for many users, making the access and management of passwords more convenient. 
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134218/18498" target="_top" id="2134218">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134218" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134218/18498" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What we didn't get: An 'always on' display
@@ -130,10 +119,7 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 [See all](https://www.zdnet.com/newsletters/)
 
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014850/22899" target="_top" id="2014850">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014850" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014850/22899" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Which iPads will support iPadOS 18?
@@ -177,19 +163,20 @@ Here are the iPad models that will be updated to iPadOS 18 when available:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://twitter-videos.techidaily.com/new-2024-approved-quick-guide-to-video-cross-upload-twitter-and-tumblr/"><u>[New] 2024 Approved Quick Guide to Video Cross-Upload Twitter & Tumblr</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/new-a-step-by-step-guide-to-mp4-and-beyond-vlc-conversions-for-2024/"><u>[New] A Step-by-Step Guide to MP4 and Beyond VLC Conversions for 2024</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/ed-2024-approved-channel-name-wizardry-brainstorm-and-create/"><u>[Updated] 2024 Approved Channel Name Wizardry Brainstorm & Create!</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-capturing-the-essence-of-sims-gaming-for-2024/"><u>[Updated] Capturing the Essence of Sims Gaming for 2024</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/2024-approved-is-an-m1-macbook-air-smarter-and-faster-for-editing/"><u>2024 Approved Is an M1 MacBook Air Smarter and Faster for Editing?</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/artificial-intelligence-bridging-the-gap-between-imagination-and-reality-in-8-methods/"><u>Artificial Intelligence: Bridging the Gap Between Imagination & Reality in 8 Methods</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/boosting-ai-with-vector-database-technology/"><u>Boosting AI with Vector Database Technology</u></a></li>
-<li><a href="https://facebook.techidaily.com/dismantling-hurdles-in-your-social-network/"><u>Dismantling Hurdles in Your Social Network</u></a></li>
-<li><a href="https://driver-download.techidaily.com/how-to-get-the-latest-konica-minolta-drivers-quick-and-simple-steps/"><u>How to Get the Latest Konica Minolta Drivers – Quick and Simple Steps</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/how-to-unlock-vivo-y200e-5g-pin-codepattern-lockpassword-by-drfone-android/"><u>How to Unlock Vivo Y200e 5G PIN Code/Pattern Lock/Password</u></a></li>
-<li><a href="https://fox-that.techidaily.com/immediate-fixes-for-non-responsive-predictive-emojis-on-iphonesipads/"><u>Immediate Fixes for Non-Responsive Predictive Emojis on iPhones/iPads</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/mislead-no-more-recognize-real-and-rigged-chatgpt-apps/"><u>Mislead No More: Recognize Real and Rigged ChatGPT Apps!</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/new-era-mercedes-elevates-conversation-with-gpt-in-cars/"><u>New Era: Mercedes Elevates Conversation with GPT in Cars</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/unpacking-italys-decision-for-swiftly-banning-chatgpt-without-delay/"><u>Unpacking Italy's Decision for Swiftly Banning ChatGPT Without Delay</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-2024-approved-professional-tips-for-efficient-screen-casting-in-meet/"><u>[New] 2024 Approved Professional Tips for Efficient Screen Casting in Meet</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-convert-instagram-vids-to-mp4-optimal-methods-and-results/"><u>[New] Convert Instagram Vids to MP4 Optimal Methods & Results</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-in-2024-vantage-point-critique/"><u>[New] In 2024, Vantage Point Critique</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-2024-approved-az-screen-recorder-review-series/"><u>[Updated] 2024 Approved AZ Screen Recorder Review Series</u></a></li>
+<li><a href="https://win-dash.techidaily.com/download-linksys-wrt3200-tu-n900-drivers-fast-and-simple-installation/"><u>Download Linksys WRT3200-TU N900 Drivers - Fast and Simple Installation</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/essential-7-aspects-how-to-select-a-superior-ai-chatbot-solution/"><u>Essential 7 Aspects: How to Select a Superior AI Chatbot Solution</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/essential-errors-to-escape-while-crafting-content-with-chatgpt/"><u>Essential Errors to Escape While Crafting Content with ChatGPT</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/experience-intelligent-query-processing-access-bings-latest-ai-powered-mobile-search-for-both-android-and-ios-users/"><u>Experience Intelligent Query Processing: Access Bing's Latest AI-Powered Mobile Search for Both Android & iOS Users</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/exploring-the-reality-of-prompt-engineering-key-aspects-and-opportunities/"><u>Exploring the Reality of Prompt Engineering: Key Aspects and Opportunities</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/gpt-planning-superior-dietary-choices/"><u>GPT: Planning Superior Dietary Choices</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/guide-setting-up-a-free-and-open-chatgpt-clone-on-your-windows-pc-using-freedomgpt/"><u>Guide: Setting Up a Free and Open ChatGPT Clone on Your Windows PC Using FreedomGPT</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/hts-into-youtubes-economic-model-for-content-makers-for-2024/"><u>Insights Into YouTube's Economic Model for Content Makers for 2024</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/mastering-content-strategy-after-the-facebook-revamp-for-2024/"><u>Mastering Content Strategy After the Facebook Revamp for 2024</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/savings-alert-secure-an-8tb-samsung-t5-external-ssd-deal-with-a-36-discount-on-amazon/"><u>Savings Alert: Secure an 8TB Samsung T5 External SSD Deal with a 36% Discount on Amazon</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/top-solutions-for-when-your-desktop-speakers-fail-to-function/"><u>Top Solutions for When Your Desktop Speakers Fail to Function</u></a></li>
 </ul></div>
 

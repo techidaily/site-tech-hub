@@ -1,7 +1,7 @@
 ---
 title: "Unveiling Claude AI: Discover Its Benefits for Your Business"
-date: 2024-08-15T22:07:05.938Z
-updated: 2024-08-16T22:07:05.938Z
+date: 2025-02-14T17:41:32.285Z
+updated: 2025-02-16T17:41:39.511Z
 tags:
   - chatgpt
   - open-ai
@@ -14,6 +14,10 @@ thumbnail: https://thmb.techidaily.com/678fddf7ae4566a62c5d9f963bb3c78467acea0fb
 ---
 
 ## Boost Your Wellbeing: Discover 8 Must-Have GPT Tools for Fitness Success
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/djPqRkskaBo?si=O6FEI-KVW0HwN417" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Quick Links
 
@@ -33,9 +37,6 @@ thumbnail: https://thmb.techidaily.com/678fddf7ae4566a62c5d9f963bb3c78467acea0fb
 
  On March 19, 2024,[OpenAI disabled ChatGPT Plugin](https://help.openai.com/en/articles/8988022-winding-down-the-chatgpt-plugins-beta) conversations and completely removed them on April 9, 2024\. ChatGPT Plugins were removed because much of their functionality can be found in[custom GPTs and the GPT Store](https://www.makeuseof.com/how-to-use-chatgpt-custom-gpt-store/) .
 
-<!-- affiliate ads begin -->
-<a href="https://turbotech.pxf.io/c/5597632/1450763/17212" target="_top" id="1450763"><img src="//a.impactradius-go.com/display-ad/17212-1450763" border="0" alt="" width="2560" height="1440"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1450763/17212" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 1\. Planfit
 
 [Planfit](https://www.planfit.ai/) is an established online platform that helps people to design personalized workout routines tailored to individual needs and circumstances. The plugin, therefore, is an extension of the company that leverages AI to enhance the accuracy of workout prescriptions. It's like a virtual personal trainer supporting your fitness journey.
@@ -43,9 +44,6 @@ thumbnail: https://thmb.techidaily.com/678fddf7ae4566a62c5d9f963bb3c78467acea0fb
  To use Planfit effectively, you'll first provide it with some basic details about yourself, such as age, sex, height, weight, which muscle you wish to focus on, and where you'll be working out. The plugin uses your data to develop a custom workout plan that meets your needs and helps you achieve your fitness goals.
 
 ![Screenshot of Planfit at work](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/planfit.jpg)
-<!-- affiliate ads begin -->
-<a href="https://newchic.sjv.io/c/5597632/1659704/14420" target="_top" id="1659704"><img src="//a.impactradius-go.com/display-ad/14420-1659704" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1659704/14420" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  We asked the plugin to tailor a workout plan for gaining 10 pounds of muscle. Above is a section of the generated workout plan. The plugin offers personalized workout routines like other[health and fitness apps](https://www.makeuseof.com/best-beginner-workout-apps-fitness-newbies/) .
 
@@ -56,11 +54,12 @@ thumbnail: https://thmb.techidaily.com/678fddf7ae4566a62c5d9f963bb3c78467acea0fb
  Calorie Coach is rather straight to the point. Simply tell it what you've eaten, and it will spew out a summary of what you've consumed in terms of calories, carbohydrates, fats, and proteins. It even draws a ring graph for better illustration.
 
 ![Screenshot of Calorie Coach at work](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/calorie-coach.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152835&QTY=1&AFFILIATE=108875&CART=1"><img src="https://download.terabyteunlimited.com/banners/ad_800x450_d.jpg" border="0"></a>
-<!-- affiliate ads end -->
 
  We asked it to list the nutritional composition of 2 servings of noodles and three sausages, and it gave us the answer above.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6X24fPKs6AE?si=YtQy-8zy7GifgfA7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 3\. Workout Generator
 
@@ -69,8 +68,9 @@ thumbnail: https://thmb.techidaily.com/678fddf7ae4566a62c5d9f963bb3c78467acea0fb
  Simply describe your body type, sex, age, and what you want to achieve from your workout. The plugin will create a routine you can start following. The workout plan is brief and comes with links to instructional videos and an image illustration of each form of workout.
 
 ![Screenshot of Workout Generator working](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/workout-generator.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=27889512&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/728__90.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hZsnjxeSh1U?si=hZIfzQPDNX5KtOCg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Above is a screenshot of a workout routine provided by the plugin.
@@ -82,8 +82,9 @@ Above is a screenshot of a workout routine provided by the plugin.
  You can mention the ingredients you need and ask the plugin to order them, or you can start by creating a meal plan. ChatGPT will devise a plan and summon the plugin to add the items to a cart on the e-commerce website. It will then provide a link to check out.
 
 ![Screenshot of Instacart at work](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/instacart.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2095385/26400" target="_top" id="2095385"><img src="//a.impactradius-go.com/display-ad/26400-2095385" border="0" alt="" width="1024" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095385/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  We instructed ChatGPT to create a meal plan for a vegetarian family of four. Instacart plugin added the ingredients to the cart and shared a link for instant checkout.
@@ -95,16 +96,13 @@ Above is a screenshot of a workout routine provided by the plugin.
  Simply ask it for your zodiac sign if you are unaware. You can then instruct it to provide a daily, weekly, or monthly horoscope. An example of a prompt would be; I was born on 10th Jan. Can I get my daily horoscope? The plugin will provide a personalized horoscope to start your day well.
 
 ![Screenshot of Horoscopes at work](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/horoscopes.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901410&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix Pro - Software based live production. vMix Pro includes everything in vMix 4K plus 8 channels of Replay and 8 vMix Call 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
-<!-- affiliate ads end -->
 
  As illustrated above, we prompted the plugin to give us a daily horoscope. If interested, you can include the plugin with your[astrology apps](https://www.makeuseof.com/best-astrology-apps/) collection to keep up with your horoscopes.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-platform-ui-1280@1x.avif" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rBnnLFJbvr4?si=LlHYrYlOBp7NLMec" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 6\. Testosterone Meals
 
  Testosterone level regulation is important, especially for men, and this tool can help. The Testosterone Meals plugin is designed to help elevate testosterone levels through a diet tailored to your specific needs. It recommends the exact meals for people seeking to optimize their hormonal health.
@@ -122,10 +120,6 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
  To use the plugin effectively, just provide details of any drinks, beverages, or pure water you have during your day. The plugin will ask you to connect your Google account to the online dashboard to track your water intake. Your daily intake goal is 2000ml by default, but you can change that. If interested, here's another way to[track your water intake using your iPhone](https://www.makeuseof.com/how-to-log-water-intake-on-iphone/) .
 
 ![Screenshot of Water Tracker working](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/water-tracker.jpg)
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296985&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9cea886b9f44a3c2df1163730ab64994/products/copy_nero_burning_rom_cart.png" border="0">
-</a>
-<!-- affiliate ads end -->
 
  As shown above, we gave the plugin sample data and asked it to recommend the amount of water we need to reach the daily goal.
 
@@ -139,18 +133,19 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 
  As shown above, We asked the tool to give us some tasty vegan snack recommendations.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Enhance Your Fitness Journey With AI
 
  Whether you plan to lose weight, stay hydrated, or maintain a healthy, mindful lifestyle, these ChatGPT plugins can be instrumental in helping you achieve your goal. You also don't have to follow generally-prescribed diets or workout routines anymore. You can have them customized to fit your preferences and needs. Whichever way you look at it, there's no reasonable excuse for avoiding healthy living with these powerful tools at your disposal.
-
 
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -159,4 +154,16 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-docs.techidaily.com/ed-pioneering-online-video-secrets-for-youtubes-spherical-livestreaming-techniques-for-2024/"><u>[Updated] Pioneering Online Video Secrets for YouTube's Spherical Livestreaming Techniques for 2024</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/assessing-the-potential-upsides-and-downsides-for-writers-using-chatgpt-technology/"><u>Assessing the Potential Upsides & Downsides for Writers Using ChatGPT Technology</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/assistive-algorithms-for-algebra-problems/"><u>Assistive Algorithms for Algebra Problems</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/core-principles-youtubes-social-contract-for-2024/"><u>Core Principles YouTube's Social Contract for 2024</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/decoding-onboard-ai-how-localized-machine-learning-transforms-devices/"><u>Decoding Onboard AI: How Localized Machine Learning Transforms Devices</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/job-success-secret-6-compelling-reasons-why-every-worker-should-embrace-chatgpt/"><u>Job Success Secret: 6 Compelling Reasons Why Every Worker Should Embrace ChatGPT</u></a></li>
+<li><a href="https://facebook.techidaily.com/locating-those-shunned-from-your-facebook-network/"><u>Locating Those Shunned From Your Facebook Network</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/quick-fixes-for-common-file-explorer-issues-in-windows-11/"><u>Quick Fixes for Common File Explorer Issues in Windows 11</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/unlocking-efficiency-in-video-editing-with-these-top-10-apps/"><u>Unlocking Efficiency in Video Editing with These Top 10 Apps</u></a></li>
+</ul></div>
 

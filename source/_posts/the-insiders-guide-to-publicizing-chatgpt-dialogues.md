@@ -1,7 +1,7 @@
 ---
 title: The Insider's Guide to Publicizing ChatGPT Dialogues
-date: 2024-08-15T22:05:25.461Z
-updated: 2024-08-16T22:05:25.461Z
+date: 2025-02-11T22:04:12.017Z
+updated: 2025-02-16T16:58:13.092Z
 tags:
   - chatgpt
   - open-ai
@@ -31,6 +31,10 @@ thumbnail: https://thmb.techidaily.com/cd939fa7a6d55f7872fb793de3dd6a0a1cf42f10f
 
  The cybercriminals used a Facebook page impersonating OpenAI, complete with official ChatGPT logos, to redirect unsuspecting users to the malicious site.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 2\. openai-pc-pro.online
 
  The experts at CRIL also discovered an unidentified malware strain being distributed through the domain “openai-pc-pro.online,” a malicious domain posing as the official ChatGPT website.
@@ -39,9 +43,6 @@ thumbnail: https://thmb.techidaily.com/cd939fa7a6d55f7872fb793de3dd6a0a1cf42f10f
 
  The suspicious domain directs users to a fake OpenAI website resembling the official one. The site features a “DOWNLOAD FOR WINDOWS” button, which, when clicked, downloads an executable file containing data-stealing malware.
 
-<!-- affiliate ads begin -->
-<a href="https://ship7com.pxf.io/c/5597632/1509856/17634" target="_top" id="1509856"><img src="//a.impactradius-go.com/display-ad/17634-1509856" border="0" alt="" width="730" height="383"/></a>
-<!-- affiliate ads end -->
 ## 3\. chat-gpt-pc.online
 
  ChatGPT AI, the fake ChatGPT Facebook page, also features posts that include links to “chat-gpt-pc.online,” another domain that redirects users to a malicious ChatGPT-themed website.
@@ -50,41 +51,38 @@ thumbnail: https://thmb.techidaily.com/cd939fa7a6d55f7872fb793de3dd6a0a1cf42f10f
 
  The domain “chatgpt-go.online” leads users to a website that’s a clone of the official ChatGPT website. The copy-pasted site, however, swaps the “TRY CHATGPT” button link with malicious links containing Lumma Stealer. The domain also hosts different kinds of malicious files, including clipper malware and Aurora stealer.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 5\. pay.chatgptftw.com
 
 ![pay.chatgptftw.com's payment page](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/pay-chatgptftw-com.jpg)
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DBanner%2B728x90"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/2e76fe6a-3010-1b37-7846-f34ff9c6b4ca.png" border="0"></a>
-<!-- affiliate ads end -->
 
  Cybercriminals also use ChatGPT-themed payment pages for financial fraud. For example, on the domain “pay.chatgptftw.com,” Cyble came across a page designed to steal credit card details. This webpage poses as a genuine payment page for ChatGPT Plus.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9hsPbiic0O8?si=58mZ2Cu6wicQfsUP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 6\. ChatGPT1
 
  The Cyble report highlights another malware app that uses the ChatGPT icon. The malicious app, “ChatGPT1,” is an SMS billing fraud app downloaded as chatGPT1.apk. It operates discreetly, subscribing users to premium services without their consent.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4559731&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.neowise.com/images/nd-ss-w200.jpg" border="0">NeoDownloader - Fast and fully automatic image/video/music downloader. </a>
-<!-- affiliate ads end -->
 ## 7\. AI Photo
 
  “AI Photo” is another app that uses the ChatGPT icon, but is malicious in intent. This app was found to harbor the SpyNote malware, capable of stealing device files, contact lists, call logs, and text messages.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2201613&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macdvdripperpro.com/images/devices-3.png" border="0"></a>
-<!-- affiliate ads end -->
 ## 8\. Meterpreter Posing as “SuperGPT” App
 
 ![The official SuperGPT's install page on Google Play](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/supergpt.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://martinic.evyy.net/c/5597632/1422856/4482" target="_top" id="1422856"><img src="//a.impactradius-go.com/display-ad/4482-1422856" border="0" alt="" width="580" height="309"/></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rBnnLFJbvr4?si=LlHYrYlOBp7NLMec" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  SuperGPT is an AI assistant app built on ChatGPT. However, researchers from Unit 42 uncovered a malicious APK sample posing as the app. This fake “SuperGPT” is a Meterpreter Trojan, [a RAT that enables remote access](https://www.makeuseof.com/android-remote-access-trojan/) of Android devices.
 
-<!-- affiliate ads begin -->
-<a href="https://homestyler.sjv.io/c/5597632/2044747/22993" target="_top" id="2044747"><img src="//a.impactradius-go.com/display-ad/22993-2044747" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2044747/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 9\. Trojan-PSW.Win64.Fobo
 
  Kaspersky researchers discovered that cybercriminals were using a fake ChatGPT desktop client for Windows to distribute a stealer Trojan. The Trojan, dubbed Trojan-PSW.Win64.Fobo, if installed on the user’s computer, can steal account details stored in various browsers, including Chrome, Edge, Firefox, and Brave.
@@ -94,6 +92,10 @@ thumbnail: https://thmb.techidaily.com/cd939fa7a6d55f7872fb793de3dd6a0a1cf42f10f
  If you click the link, you’ll be redirected to a website that prompts you to download ChatGPT for Windows. Clicking on the button will download an archive containing an executable file.
 
  Upon extracting the archive and running the file, you may or may not receive an installation failure message. In either case, the Trojan is installed.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/g6xXIR_Uh1A?si=TMXzklPEY50MUM05" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Protect Yourself From Malicious ChatGPT-Themed Apps
 
@@ -107,14 +109,11 @@ thumbnail: https://thmb.techidaily.com/cd939fa7a6d55f7872fb793de3dd6a0a1cf42f10f
 
  Here’s a list of malicious ChatGPT-themed domains and apps that you need to be aware of.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -123,4 +122,26 @@ thumbnail: https://thmb.techidaily.com/cd939fa7a6d55f7872fb793de3dd6a0a1cf42f10f
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-links.techidaily.com/new-elevating-your-iphone-photos-through-hdr-methods-for-2024/"><u>[New] Elevating Your iPhone Photos Through HDR Methods for 2024</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-enhance-igtv-posts-with-best-video-edit-apps/"><u>[New] Enhance IGTV Posts with Best Video Edit Apps</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-deception-navigating-false-subscriber-sells-for-2024/"><u>[Updated] Deception Navigating False Subscriber Sells for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-journey-into-the-art-of-long-exposure-a-comprehensive-guide-to-gopro-timelapses-for-2024/"><u>[Updated] Journey Into the Art of Long-Exposure A Comprehensive Guide to GoPro Timelapses for 2024</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-meme-masterpiece-wave/"><u>[Updated] Meme Masterpiece Wave</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-the-journey-of-a-youtube-video-from-creation-to-live-streaming/"><u>[Updated] The Journey of a YouTube Video From Creation to Live Streaming</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/a-step-by-step-guide-on-web-ping-techniques/"><u>A Step-by-Step Guide on Web Ping Techniques</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/edit-functionality-newly-added-to-dall-e-3-however-user-experience-still-needs-enhancement/"><u>Edit Functionality Newly Added to DALL-E 3; However, User Experience Still Needs Enhancement</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/eliminating-recurring-printer-crashes-in-windows-systems/"><u>Eliminating Recurring Printer Crashes in Windows Systems</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/exploring-rights-and-regulations-the-landscape-of-copyright-in-the-world-of-ai-creations/"><u>Exploring Rights and Regulations: The Landscape of Copyright in the World of AI Creations</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/from-digital-whisperer-to-wordsmith-how-chatgpt-can-aid-in-writing-poems/"><u>From Digital Whisperer to Wordsmith: How ChatGPT Can Aid in Writing Poems</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/huggingchat-simplified-no-license-required-community-powered-counterpart/"><u>HuggingChat Simplified: No License Required, Community-Powered Counterpart</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/24-maximize-engagement-the-top-14-youtube-gaming-video-strategies/"><u>In 2024, Maximize Engagement The Top 14 YouTube Gaming Video Strategies</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/revive-the-mic-on-your-oculus-rift-s-without-delay-pro-techniques/"><u>Revive the Mic on Your Oculus Rift S Without Delay - Pro Techniques</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/set-up-llama-2-on-your-device-a-comprehensive-tutorial/"><u>Set Up Llama 2 on Your Device: A Comprehensive Tutorial</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/streamline-your-communications-5-premium-ai-tools-to-effortlessly-draft-professional-emails-with-chatgpt-assistance-and-summarize-messages/"><u>Streamline Your Communications: 5 Premium AI Tools to Effortlessly Draft Professional Emails with ChatGPT Assistance & Summarize Messages</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/tips-and-tricks-for-crafting-top-notch-social-media-posts-using-chatgpt/"><u>Tips and Tricks for Crafting Top-Notch Social Media Posts Using ChatGPT</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/unleashing-potential-the-impact-of-gpt-4s-arrival-on-the-diy-sectors-future/"><u>Unleashing Potential: The Impact of GPT-4's Arrival on the DIY Sector’s Future</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/worried-about-your-data-with-chatgpt-learn-the-steps-to-securely-disable-it/"><u>Worried About Your Data with ChatGPT? Learn the Steps to Securely Disable It</u></a></li>
+</ul></div>
 

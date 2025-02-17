@@ -1,7 +1,7 @@
 ---
 title: "Memorial Day Special: Save Big on the Apple Watch SE - A Top Pick of My Latest Tech Buys | ZDNet"
-date: 2025-01-02T18:33:01.357Z
-updated: 2025-01-07T03:31:18.080Z
+date: 2025-02-11T00:03:48.792Z
+updated: 2025-02-16T21:59:21.497Z
 tags:
   - apple
 categories:
@@ -42,7 +42,7 @@ During Black Friday sales, I upgraded from the Series 3 Apple Watch to the 40mm 
 Grab the [Apple Watch SE (2nd Gen)](https://goto.walmart.com/c/5597632/565706/9383?sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.walmart.com%2Fip%2FApple-Watch-SE-2nd-Gen-GPS-40mm-Starlight-Aluminum-Case-Sport-Band-S-M-Fitness-Sleep-Tracker-Crash-Detection-Heart-Rate-Monitor%2F5033741510%3F&subId1=zd-__COM_CLICK_ID__-dtp) now and upgrade your or a loved one's smartwatch setup this summer. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/e4Nt2xXXtmE?si=CtKwFry4b0AJXnaN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## When will this deal expire?
@@ -89,24 +89,21 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://desktop-recording.techidaily.com/updated-2024-approved-tech-tutorial-record-on-hangouts/"><u>[Updated] 2024 Approved Tech Tutorial Record on Hangouts</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/approved-essential-8-linux-software-for-editors/"><u>2024 Approved Essential 8 Linux Software for Editors</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/2024-approved-precision-capture-with-videoleaps-zoom-feature/"><u>2024 Approved Precision Capture with Videoleap's Zoom Feature</u></a></li>
-<li><a href="https://fox-tips.techidaily.com/discordwindows-1087/"><u>恢复被删除的Discord照片：为Windows 10、8和7用户提供解决方案（两种不同方法）</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/a-comprehensive-review-of-offworld-trading-company-mastering-the-art-of-digital-domination/"><u>A Comprehensive Review of Offworld Trading Company: Mastering the Art of Digital Domination</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/boosting-efficiency-implementing-chatgpt-for-advanced-functions-in-microsoft-excel/"><u>Boosting Efficiency: Implementing ChatGPT for Advanced Functions in Microsoft Excel</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/decoding-the-importance-of-the-chatgpt-code-interpreter-in-ai-development/"><u>Decoding the Importance of the ChatGPT Code Interpreter in AI Development</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/evaluating-differences-how-google-palm-2-stacks-up-against-openais-gpt-4/"><u>Evaluating Differences: How Google PaLM 2 Stacks Up Against OpenAI's GPT-4</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/freelancers-ai-assistant-showdown-which-language-tool-prevails/"><u>Freelancer's AI Assistant Showdown: Which Language Tool Prevails?</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/getting-started-with-langchain-llm-the-ultimate-starter-kit/"><u>Getting Started with LangChain LLM: The Ultimate Starter Kit</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/how-to-safely-extract-conversation-records-from-chatgpt-best-practices/"><u>How to Safely Extract Conversation Records From ChatGPT: Best Practices</u></a></li>
-<li><a href="https://extra-information.techidaily.com/in-2024-affordable-cloud-vaulting-mass-file-saving-made-cheap/"><u>In 2024, Affordable Cloud Vaulting Mass File Saving Made Cheap</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/in-2024-the-essential-handheld-guide-to-youtube-production/"><u>In 2024, The Essential Handheld Guide to YouTube Production</u></a></li>
-<li><a href="https://discover-advanced.techidaily.com/marlin-equity-partners-fuels-abbyys-accelerated-expansion-investment-strategy/"><u>Marlin Equity Partners Fuels ABBYY's Accelerated Expansion Investment Strategy</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/meet-your-new-co-pilot-mercedes-benz-equips-cars-with-advanced-ai-chatgpt-voice-controls/"><u>Meet Your New Co-Pilot: Mercedes-Benz Equips Cars with Advanced AI, ChatGPT Voice Controls</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/reinvent-your-day-at-work-with-the-power-of-ai-gpt-companion/"><u>Reinvent Your Day at Work with the Power of AI, GPT Companion</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/snapchats-own-brainchild-my-ai-versus-the-renowned-chatgpt-making-the-best-choice/"><u>Snapchat's Own Brainchild, My AI versus the Renowned ChatGPT: Making the Best Choice</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/steps-for-turning-off-speaking-directions-on-a-samsung-smart-tv/"><u>Steps for Turning Off Speaking Directions on a Samsung Smart TV</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/unlock-smart-note-management-via-mematic/"><u>Unlock Smart Note Management via Mematic</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-2024-approved-advanced-lighting-strategies-for-superior-iphone-photos/"><u>[New] 2024 Approved Advanced Lighting Strategies for Superior iPhone Photos</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/024-approved-real-time-viewership-counter-systems/"><u>[New] 2024 Approved Real-Time Viewership Counter Systems</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-visionary-artisan-merging-sights-and-sounds/"><u>[Updated] Visionary Artisan Merging Sights and Sounds</u></a></li>
+<li><a href="https://ios-location-track.techidaily.com/3-ways-to-track-apple-iphone-14-pro-max-without-them-knowing-drfone-by-drfone-virtual-ios/"><u>3 Ways to Track Apple iPhone 14 Pro Max without Them Knowing | Dr.fone</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/a-deep-dive-into-the-prevailing-challenges-of-openais-chatgpt-technology/"><u>A Deep Dive Into the Prevailing Challenges of OpenAI's ChatGPT Technology</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/disable-screen-lock-on-oneplus-open-by-drfone-android-unlock-android-unlock/"><u>Disable screen lock on OnePlus Open</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/1722156253483-discover-7-outstanding-chrome-plugins-to-elevate-your-chatgpt-experience-online/"><u>Discover 7 Outstanding Chrome Plugins to Elevate Your ChatGPT Experience Online</u></a></li>
+<li><a href="https://games-able.techidaily.com/gamers-guide-6-essentials-before-purchasing-ps5/"><u>Gamers' Guide: 6 Essentials Before Purchasing PS5</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/generative-ais-role-in-content-innovation-industry-insights/"><u>Generative AI's Role in Content Innovation: Industry Insights</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-check-distance-and-radius-on-google-maps-for-your-infinix-zero-30-5g-drfone-by-drfone-virtual-android/"><u>How to Check Distance and Radius on Google Maps For your Infinix Zero 30 5G | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-what-is-fake-gps-location-pro-and-is-it-good-on-apple-iphone-6-plus-drfone-by-drfone-virtual-ios/"><u>In 2024, What is Fake GPS Location Pro and Is It Good On Apple iPhone 6 Plus? | Dr.fone</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/unleashing-creativity-how-chatgpts-new-feature-enables-fully-tailored-gpt-model-generation/"><u>Unleashing Creativity: How ChatGPT’s New Feature Enables Fully Tailored GPT Model Generation</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/unlock-the-mystery-affordable-mobile-tech-overcoming-ransomware-hurdles-and-ai-powered-podcasting/"><u>Unlock the Mystery: Affordable Mobile Tech, Overcoming Ransomware Hurdles & AI-Powered Podcasting!</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/voicing-the-future-of-conversational-ai-openai-empowers-chatgpt-to-reply-audibly/"><u>Voicing the Future of Conversational AI: OpenAI Empowers ChatGPT to Reply Audibly</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/what-is-gptbot-and-how-did-websites-react-by-blocking-it/"><u>What Is GPTBot and How Did Websites React by Blocking It?</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/why-teachers-can-benefit-from-ai-integration-unveiling-the-8-reasons-for-optimism-not-fear/"><u>Why Teachers Can Benefit From AI Integration - Unveiling the 8 Reasons for Optimism, Not Fear</u></a></li>
 </ul></div>
 

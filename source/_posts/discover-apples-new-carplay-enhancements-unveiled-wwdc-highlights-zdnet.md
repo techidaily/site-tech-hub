@@ -1,7 +1,7 @@
 ---
 title: Discover Apple's New CarPlay Enhancements Unveiled WWDC Highlights | ZDNet
-date: 2024-10-25T16:31:39.488Z
-updated: 2024-10-27T17:45:49.623Z
+date: 2025-02-10T23:00:59.173Z
+updated: 2025-02-16T20:46:23.857Z
 tags:
   - apple
 categories:
@@ -26,14 +26,11 @@ This year, Apple upgraded each of its operating systems significantly, introduci
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-## The best iPadOS 18 features announced at WWDC
-
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139113/17108" target="_top" id="2139113">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139113" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139113/17108" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UCqHbpxQGP4?si=XGkajFHdqyoKNAFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+## The best iPadOS 18 features announced at WWDC
 
 ## 1\. Apple Intelligence on the iPad
 
@@ -55,6 +52,10 @@ iPad users can also leverage [generative AI](https://www.zdnet.com/article/what-
 
 Other new Apple Intelligence features on the iPad include redesigning the Photos app, enhanced Siri with gesture control via AirPods Pro, and more. These features will give iPad users a more intuitive tablet with better hands-free control and multitasking capabilities. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9hsPbiic0O8?si=58mZ2Cu6wicQfsUP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 2\. A built-in Calculator for iPad
 
 During WWDC, Apple announced that the Calculator app finally will be included as a native app with iPadOS 18\. It will also get a redesign, as the Mac Calculator will now resemble the iPhone app, with round buttons instead of square ones, and will feature new capabilities with Apple Pencil integrations.
@@ -69,6 +70,10 @@ Until now, iPad users looking for a calculator had to download third-party apps 
 
 A built-in Calculator app eliminates the need to download a third-party app and allows Apple to leverage the iPad's larger screen to offer complex calculations and advanced visualizations. This feature enables everyday users, like students, to use the iPad more effectively for math and science queries. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 3\. An intuitive Notes app
 
 The Notes app for iPad also has been redesigned, with Smart Script in Notes for users with an Apple Pencil. Smart Script lets users handwrite with the Apple Pencil and spell-checks on the go as the user writes. Smart Script also works to streamline handwriting as it straightens lines and makes notes more legible in your handwriting.
@@ -78,10 +83,7 @@ The Notes app for iPad also has been redesigned, with Smart Script in Notes for 
 Smart Script in Notes also lets users erase portions of notes by scratching them out. This feature also draws from the Calculator on iPad, letting users make calculations and graphs like they would in the Calculator. 
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1013424/11832" target="_top" id="1013424">
-  <img src="//a.impactradius-go.com/display-ad/11832-1013424" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1013424/11832" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4\. A Passwords app
@@ -93,13 +95,6 @@ Apple has used the iCloud Keychain for years now, a way to store passwords and l
 Apple is making the new Passwords app available for iOS and iPadOS, giving users a more user-friendly way to access, edit, share, and autofill their passwords. Instead of digging through the iPad's Settings to find the iCloud Keychain, users will have a separate app called Passwords, which works much like LastPass and 1Password. 
 
 As a longtime LastPass user and Keychain disdainer, I look forward to testing this app and enjoying centralized password management with an enhanced user interface. I expect the Passwords app for iPad will greatly improve security for many users, making the access and management of passwords more convenient. 
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135365/19272" target="_top" id="2135365">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135365" border="0" alt="https://techidaily.com" width="125" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135365/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## What we didn't get: An 'always on' display
 
@@ -124,10 +119,7 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 [See all](https://www.zdnet.com/newsletters/)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Which iPads will support iPadOS 18?
@@ -171,17 +163,21 @@ Here are the iPad models that will be updated to iPadOS 18 when available:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://twitter-videos.techidaily.com/new-in-2024-navigating-twitters-aspect-ratio-policies/"><u>[New] In 2024, Navigating Twitter's Aspect Ratio Policies</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/new-top-5-ps1-emulation-software-on-modern-computers/"><u>[New] Top 5 PS1 Emulation Software on Modern Computers</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/updated-2024-approved-pro-android-pixel-perfect-techniques/"><u>[Updated] 2024 Approved Pro Android Pixel Perfect Techniques</u></a></li>
-<li><a href="https://extra-support.techidaily.com/updated-push-boundaries-in-image-editing-expert-distortion-techniques/"><u>[Updated] Push Boundaries in Image Editing Expert Distortion Techniques</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/discover-the-best-free-windows-screen-recorder-tools-1-5-for-2024/"><u>Discover the Best Free Windows Screen Recorder Tools #1-5 for 2024</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/discovering-best-in-class-live-church-broadcast/"><u>Discovering Best-in-Class Live Church Broadcast</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/how-do-devices-learn-and-process-information-locally/"><u>How Do Devices Learn and Process Information Locally?</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/rapid-remedies-for-blue-screen-of-death-due-to-faulty-system-settings/"><u>Rapid Remedies for 'Blue Screen of Death' Due to Faulty System Settings</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/smartwatch-evolution-through-conversation-gpts-top-6-innovations/"><u>Smartwatch Evolution Through Conversation: GPT's Top 6 Innovations</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/the-key-aspects-you-shouldnt-ignore-while-choosing-a-health-and-activity-monitor/"><u>The Key Aspects You Shouldn't Ignore While Choosing a Health and Activity Monitor</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/transform-your-enterprise-the-5-artificial-intelligence-resources-for-savvy-business-owners/"><u>Transform Your Enterprise: The 5 Artificial Intelligence Resources for Savvy Business Owners</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/unveiling-the-features-of-claude-pro-versus-chatgpt-plus-by-microsoft/"><u>Unveiling the Features of Claude Pro Versus ChatGPT Plus by Microsoft</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-2024-approved-chasing-the-cause-of-frozen-photobooth-videos/"><u>[New] 2024 Approved Chasing the Cause of Frozen Photobooth Videos</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-decoding-the-best-free-video-apps-for-os-multiplicity-for-2024/"><u>[New] Decoding the Best Free Video Apps for OS Multiplicity for 2024</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-superrich-streamers-of-the-world-for-2024/"><u>[Updated] Superrich Streamers of the World for 2024</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/approved-guide-to-structuring-youtube-content-with-separate-chapters/"><u>2024 Approved Guide to Structuring YouTube Content with Separate Chapters</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/elevate-ai-dialogue-with-the-premier-chrome-extension-for-smart-simple-chatgpt-prompts/"><u>Elevate AI Dialogue with the Premier Chrome Extension for Smart, Simple ChatGPT Prompts</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/empower-your-studies-5-uses-of-chatgpt-for-students/"><u>Empower Your Studies: 5 Uses of ChatGPT for Students</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/enabling-unrestricted-gpt-on-windows-systems/"><u>Enabling Unrestricted GPT on Windows Systems</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/examining-the-prestige-of-chatgpt-premium/"><u>Examining the Prestige of ChatGPT Premium</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/exploring-chatgpts-ability-in-mathematics-assistance/"><u>Exploring ChatGPT's Ability in Mathematics Assistance</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/first-steps-in-spanish-numerals/"><u>First Steps in Spanish Numerals</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/google-bard-vs-chatgpt-an-in-depth-comparison/"><u>Google Bard vs ChatGPT: An In-Depth Comparison</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/gpt-5-release-forecast-when-can-we-anticipate-its-debut/"><u>GPT-5 Release Forecast – When Can We Anticipate Its Debut?</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-5-most-effective-methods-to-unlock-iphone-7-in-lost-mode-by-drfone-ios/"><u>In 2024, 5 Most Effective Methods to Unlock iPhone 7 in Lost Mode</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/in-2024-mac-recording-hub-essential-insights/"><u>In 2024, Mac Recording Hub Essential Insights</u></a></li>
+<li><a href="https://fox-access.techidaily.com/in-2024-virtual-world-warfare-understanding-meta-and-omniverse-differences/"><u>In 2024, Virtual World Warfare Understanding Meta and Omniverse Differences</u></a></li>
+<li><a href="https://win11.techidaily.com/realignment-of-windows-11-default-search-settings/"><u>Realignment of Windows 11 Default Search Settings</u></a></li>
 </ul></div>
 

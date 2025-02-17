@@ -1,7 +1,7 @@
 ---
 title: Why the Wheel Turns Slow for ChatGPT-4 Compared to 3.5?
-date: 2024-08-15T22:06:53.974Z
-updated: 2024-08-16T22:06:53.974Z
+date: 2025-02-12T16:08:37.654Z
+updated: 2025-02-16T22:01:37.790Z
 tags:
   - chatgpt
   - open-ai
@@ -14,6 +14,10 @@ thumbnail: https://thmb.techidaily.com/45fa216ed9179ff239c54a97ced9b6daebc95dcdc
 ---
 
 ## How to Surpass the Standard ChatGPT? Discover 10 Custom GPTs
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Quick Links
 
@@ -38,16 +42,25 @@ thumbnail: https://thmb.techidaily.com/45fa216ed9179ff239c54a97ced9b6daebc95dcdc
 
  So, here are the best custom GPTs that actually make ChatGPT a better tool for any situation.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1 [Diagrams: Show Me](https://chat.openai.com/g/g-5QhhdsfDj-diagrams-show-me)
 
  The Diagrams: Show Me GPT plugin quickly visualizes all kinds of information in diagrams. You can use this add-on to view promotion paths at companies you want to work for, and it’s also handy if you need general flow charts (for example, we asked Diagrams: Show Me to outline the process from freelancing to running an agency).
 
 ![The Diagrams: Show Me Custom GPT in Action](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/screenshot-2024-04-08-at-10-49-15.png)
+
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087394/7443" target="_top" id="2087394"><img src="//a.impactradius-go.com/display-ad/7443-2087394" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087394/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Once you’ve created an initial prototype, you can make adjustments by giving the GPT new instructions. Alternatively, you can edit the image with code instead if you know how to. You can use Diagrams: Show Me to[optimize productivity with workflow diagrams](https://www.makeuseof.com/optimize-productivity-with-workflow-diagram/) for your personal and work projects.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/r_wWybMqZEM?si=0nPjCQDLS2MCaQbG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 2 [Canva](https://chat.openai.com/g/g-alKfVrz9K-canva)
 
@@ -56,32 +69,18 @@ thumbnail: https://thmb.techidaily.com/45fa216ed9179ff239c54a97ced9b6daebc95dcdc
  When you use the Canva custom GPT, you may notice that some of the text in your visuals overlay other boxes. Fortunately, when you click on a design prototype, the GPT will redirect you to the Canva app. Here, you can make any edits you feel are necessary—such as resizing text and adding new images.
 
 ![The Canva Custom GPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/screenshot-2024-04-08-at-10-53-02.png)
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BOST%2BRecovery"><img src="https://www.systoolsgroup.com/box/ost-recovery.png" border="0"></a>
-<!-- affiliate ads end -->
 
  If you want to level up your Canva projects, consider reading[how to use Canva’s Magic Studio for your designs](https://www.makeuseof.com/canva-magic-studio-how-to-edit-designs/) .
 
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BPDF%2BUnlocker"><img src="https://www.systoolsgroup.com/box/pdf-unlocker.png" border="0"></a>
-<!-- affiliate ads end -->
 ## 3 [Presentation Slides](https://chat.openai.com/g/g-0gFt7qej4-presentation-slides)
 
  Creating slides that are informative and engaging is crucial in workspaces and when studying. However, deciding how to lay out your slides can be challenging. The Presentation Slides GPT plugin is designed to help minimize the manual work.
 
 ![The Presentation Slides Custom GPT offering advice on how to outline a presentation](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/screenshot-2024-04-08-at-11-01-04.png)
-<!-- affiliate ads begin -->
-<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254762&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/11_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
-<!-- affiliate ads end -->
 
  You can ask Presentation Slides to outline your presentation, meaning that you can take what you like and adapt everything in your preferred presentation creator later. Besides organizing information, presentation slides can guide you in designing a layout that fits your project theme.
 
 ![Tips for designing a presentation offered by the Presentation Slides custom GPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/screenshot-2024-04-08-at-11-00-54.png)
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296685&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2022/video-pp/ScreenshotSlider/Nero-Video-Advanced-editing.JPG" border="0">Simple and intuitive video editing
-🎬 Nero Video:
-The powerful video editing program for your Windows PC</a>
-<!-- affiliate ads end -->
 
  The Presentation Slides GPT offers advice on keeping your audiences engaged during your presentation. When you’re ready to compile everything, consider using[the best tools that use AI to make presentations for you](https://www.makeuseof.com/tools-use-ai-to-make-presentation/) .
 
@@ -96,8 +95,9 @@ The powerful video editing program for your Windows PC</a>
  Although Math Solver is good for understanding how to solve mathematical problems, you shouldn’t use it to cheat on your homework or exams. In fact, there are many[ways that you should not use ChatGPT as a student](https://www.makeuseof.com/chatgpt-not-use-student/) —such as relying on the program to write essays for you.
 
 <!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398453/3022" target="_top" id="398453"><img src="//a.impactradius-go.com/display-ad/3022-398453" border="0" alt="www.sentrypc.com" width="580" height="400"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398453/3022" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jnITUsxMz5s?si=ohwRVH6eWhVnC6Xf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 5 [Travel Guide](https://chat.openai.com/g/g-E7eSRUHy6-travel-guide)
 
  Do you have a big upcoming trip, or are you simply researching potential adventures? Consider using the Travel Guide GPT plugin to help you gather essential information and plan your itinerary.
@@ -111,9 +111,9 @@ The powerful video editing program for your Windows PC</a>
  If you’re interested in a unique adventure, consider reading these[inspiring travel blogs of adventurers who trek the world on foot](https://www.makeuseof.com/inspiring-travel-blogs-adventurers-trek-the-world-on-foot/) .
 
 ![Budget travel tips provided by the Travel Guide Custom GPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/screenshot-2024-04-08-at-11-15-08.png)
+
 <!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=39694080&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/nbr/fire/Screenshot_1red_gb.jpg" border="0">Nero Burning ROM:
-The ultimate burning program for all your needs!</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 6 [Scholar GPT](https://chat.openai.com/g/g-kZ0eYXlJe-scholar-gpt)
@@ -121,9 +121,6 @@ The ultimate burning program for all your needs!</a>
  Academic research is a strenuous process regardless of your experience, but AI tools can help you streamline the process and provide more context. Scholar GPT is one of those. With this GPT, you can upload research paper PDFs and links to receive analysis.
 
 ![The Scholar GPT plugin analyzing a research paper](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/screenshot-2024-04-08-at-11-25-26.png)
-<!-- affiliate ads begin -->
-<a href="https://bluetties.sjv.io/c/5597632/2039292/17094" target="_top" id="2039292"><img src="//a.impactradius-go.com/display-ad/17094-2039292" border="0" alt="BLUETTI NEW LAUNCH AC240" width="954" height="1020"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2039292/17094" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Scholar GPT can analyze text from reputable websites, including Google Scholar and PubMed. Besides analyzing research papers, you can also ask the tool to give you the latest news in your industry. If you’d prefer to use research websites directly, start by checking out these[expert Google Scholar search tips](https://www.makeuseof.com/google-scholar-search-tips/) .
 
@@ -140,8 +137,9 @@ The ultimate burning program for all your needs!</a>
  Prompt Professor can also provide tips on the golden rules of prompting. Moreover, if you’re new, you can get general advice on how to write a good prompt. If you want a headstart,[there are several AI prompt generators you can also try](https://www.makeuseof.com/best-ai-prompt-generators-for-any-ai-tool/) .
 
 ![Room for improvement offered by the Prompt Professor custom GPT ](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/screenshot-2024-04-08-at-11-31-26.png)
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851691&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 8 [Code Tutor](https://chat.openai.com/g/g-HxPrv1p8v-code-tutor)
@@ -150,11 +148,12 @@ The ultimate burning program for all your needs!</a>
 
 ![The Code Tutor Custom GPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/screenshot-2024-04-08-at-11-36-50.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Code Tutor can also help users with topics they may have for homework. The GPT often asks you to provide further context for every prompt you send, which helps it give you a more accurate answer.
 
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2086436/19576" target="_top" id="2086436"><img src="//a.impactradius-go.com/display-ad/19576-2086436" border="0" alt="" width="1500" height="400"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2086436/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 9 [Gym, Fitness, & Training Assistant by Rogan Keel](https://chat.openai.com/g/g-QdyESXhOY-gym-fitness-exercise-training-assistant)
 
  Walking into the gym for the first time can be incredibly daunting, especially if you know little or nothing about fitness. Creating a program is also difficult; I still vividly remember spending hours on bodybuilding forums when I first began training in 2014\. Fortunately, getting the information you need is much easier these days—and Rogan Keel’s Gym, Fitness, & Training Assistant is a helpful custom GPT for new gym-goers.
@@ -162,21 +161,15 @@ The ultimate burning program for all your needs!</a>
  To use this GPT more effectively, make sure you give it as much information as possible. For example, I gave it my story of what my health condition was like when I first wanted to go to the gym and mentioned dietary requirements. You should also mention how many days you’d like to exercise per week. After giving the assistant all the required information, you’ll get an overview of your diet and exercise regimen.
 
 ![An overview provided by the Gym, Fitness, & Training Planner custom GPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/screenshot-2024-04-08-at-11-44-47.png)
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087264/19272" target="_top" id="2087264"><img src="//a.impactradius-go.com/display-ad/19272-2087264" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087264/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Below the overview, you’ll find further details of your training plan. If you want to keep everything handy, you can also request a PDF. There are plenty of other[online sources for workout programs](https://www.makeuseof.com/best-online-sources-workout-programs/) where you can also get further help with your fitness journey.
 
 ![Gym, Fitness, & Training Planner GPT workout plan created](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/screenshot-2024-04-08-at-11-45-08.png)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633309&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/3_premium-icon.png" border="0"> Take advantage of PREMIUM features for 12 months. 
-Create your texts / logos without any limitation. 
-No attribution required when downloading. 
-No advertising on the website. 
- TextStudio.com  PREMIUM - Yearly Membership</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 10 [Resume by jobbright.ai](https://chat.openai.com/g/g-MrgKnTZbc-resume)
 
  Are you looking for a new job or to change your career? If so, you’ll find several custom GPTs to help you on your search—including jobbright.ai’s version. When you upload your resume, the GPT will first extract the information from what you send. Then, after confirming that everything is accurate, you’ll get a feedback table with scores and comments on what you did well and could improve. Moreover, you get bulleted tips for enhancing your resume.
@@ -187,14 +180,11 @@ No advertising on the website.
 
  Regardless of whether you want a new job or need to plan a big trip, ChatGPT has several custom GPTs that’ll help you achieve your desired results. The quality of your answers depends on how good your prompts are, but you can also find custom GPTs to help you in that respect. Go to Explore GPTs in ChatGPT to find these and several others.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -203,4 +193,24 @@ No advertising on the website.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-lab.techidaily.com/024-approved-online-income-tally-for-youtube-stars/"><u>[New] 2024 Approved Online Income Tally for YouTube Stars</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/new-blueprint-for-stellar-tiktok-campaigns-and-social-media-conquests-for-2024/"><u>[New] Blueprint for Stellar TikTok Campaigns and Social Media Conquests for 2024</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/n-2024-deciphering-how-to-find-my-youtube-comments-posts/"><u>[New] In 2024, Deciphering How To Find My YouTube Comments Posts</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-relish-the-unplugged-adventure-with-our-best-offline-ipad-and-iphone-games-for-2024/"><u>[New] Relish the Unplugged Adventure with Our Best Offline iPad & iPhone Games for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-flipping-photo-lightness-for-an-alternate-look/"><u>2024 Approved Flipping Photo Lightness for an Alternate Look</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/content-strategy-game-changers-leveraging-ai-technology-to-enhance-writing-workflows/"><u>Content Strategy Game-Changers: Leveraging AI Technology to Enhance Writing Workflows</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/gpt-4-vs-gpt-35-unveiled-analyzing-their-five-main-differences/"><u>GPT-4 Vs. GPT-3.5 Unveiled: Analyzing Their Five Main Differences</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-fake-the-location-to-get-around-the-mlb-blackouts-on-samsung-galaxy-f04-drfone-by-drfone-virtual-android/"><u>In 2024, Fake the Location to Get Around the MLB Blackouts on Samsung Galaxy F04 | Dr.fone</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/in-2024-unveiling-secrets-to-pristine-bg-removal-techniques-in-figma/"><u>In 2024, Unveiling Secrets to Pristine BG Removal Techniques in Figma</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/innovative-uses-of-chatgpt-wolframalpha-fusion-tools/"><u>Innovative Uses of ChatGPT-WolframAlpha Fusion Tools</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/mastering-ai-communication-on-quora-how-poe-tools-open-doors-to-llms-and-advanced-chatbots/"><u>Mastering AI Communication on Quora – How Poe Tools Open Doors to LLMs & Advanced Chatbots</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/navigating-the-world-of-chatgpt-exploits-insights-for-smart-usage/"><u>Navigating the World of ChatGPT Exploits - Insights for Smart Usage</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/playstation-vrs-coming-stars-predicted-top-5-titles-to-track/"><u>PlayStation VR's Coming Stars Predicted Top 5 Titles to Track</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/sculpt-personalized-language-agents/"><u>Sculpt Personalized Language Agents</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/the-ultimate-tutorial-combining-chatgpt-with/"><u>The Ultimate Tutorial: Combining ChatGPT With</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/troubleshooting-made-easy-for-i2c-hid-device-connection-errors/"><u>Troubleshooting Made Easy for I2C HID Device Connection Errors</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/unearthing-hidden-ai-advantages-top-5-unused-chatgpt-features/"><u>Unearthing Hidden AI Advantages: Top 5 Unused ChatGPT Features</u></a></li>
+</ul></div>
 

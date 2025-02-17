@@ -1,7 +1,7 @@
 ---
 title: Easy Guide to Activating Slack Alerts on Apple Watch - Tips
-date: 2025-02-01T14:08:13.673Z
-updated: 2025-02-07T00:00:01.034Z
+date: 2025-02-15T22:48:35.381Z
+updated: 2025-02-17T00:50:22.881Z
 tags:
   - apple
 categories:
@@ -44,13 +44,13 @@ Here's how.
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3C51hzX46eY?si=o5qiDSkT7mXUGm3F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to enable Slack notifications on your Apple Watch
 
 **What you'll need:** Have the latest versions of iOS and watchOS installed on your iPhone and Apple Watch, respectively. 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 1\. Install the Slack app on your iPhone
 
@@ -58,13 +58,13 @@ There is no dedicated Slack app for the Apple Watch, but there is an iPhone app.
 
 Once it's installed, go ahead and log into your various Slack channels. Get those setup and working as you like before configuring the app for notifications.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 2\. Set up Slack notifications in the system settings
 
 Let's make sure iOS is set up to allow Slack notifications. Go to the main Settings app and on the main settings screen, scroll all the way down to Slack. It's a long scroll past many other apps. Tap into Slack.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##   
 
@@ -76,13 +76,13 @@ Now, back out to the top of the Settings app and tap the red Notifications icon.
 
 Screenshot by David Gewirtz/ZDNET
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 3\. Set up Slack notifications in the Slack app
 
 Next, open the Slack app. Tap your profile image in the upper right corner of the screen. Then tap Notifications.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##   
 
@@ -101,10 +101,6 @@ Next, tap Notify Me on Mobile. This will give you a few options.
 Screenshot by David Gewirtz/ZDNET
 
 Set it to "Always, even when I'm active". That way, you'll always get notifications, no matter what you're doing (unless you have Do Not Disturb turned on).
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 4\. Set your notification schedule
 
@@ -126,12 +122,16 @@ So, make sure you set the Start and End times that fit with your schedule.
 
 Recommendation to Slack: Where you put the "Every day" option in that setting, add the times as well (e.g., "Every day 8 a.m. - 11 p.m."). That way, it's clear to users what they might need to change. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 5\. Enable Slack notifications in the Watch app
 
 We're almost done configuring notifications. Open the Watch app and scroll down to Notifications. Then scroll down to Slack and make sure it's turned on.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RvR5PNhspKE?si=uJcMYK9v-_Xq7fAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OdlXe5RELW0?si=Iz1H1QnLQVw-Eu3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##   
@@ -179,21 +179,24 @@ _You can follow my day-to-day project updates on social media. Be sure to subscr
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-helps.techidaily.com/new-unlock-social-media-success-a-comprehensive-10-step-plan/"><u>[New] Unlock Social Media Success A Comprehensive 10-Step Plan</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-complete-evaluation-of-camstudio-screen-recorder/"><u>[Updated] Complete Evaluation of CamStudio Screen Recorder</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/updated-in-2024-itop-screen-recorder-review/"><u>[Updated] In 2024, ITop Screen Recorder Review</u></a></li>
-<li><a href="https://discover-fantastic.techidaily.com/choosing-your-shield-an-in-depth-look-at-hitman-pro-and-malwarebytes-security-solutions/"><u>Choosing Your Shield: An In-Depth Look at Hitman Pro and Malwarebytes Security Solutions</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/discover-the-5-key-ai-technologies-for-todays-business-owners/"><u>Discover the 5 Key AI Technologies for Today's Business Owners</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/elevating-experience-why-the-chatgpt-app-triumphs-over-its-web-counterpart/"><u>Elevating Experience: Why the ChatGPT App Triumphs Over Its Web Counterpart</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/expert-opinion-unveiling-the-elegance-and-flexibility-of-the-dell-xps-13-7390-ultrabook-review/"><u>Expert Opinion: Unveiling the Elegance and Flexibility of the Dell XPS 13 (7390) Ultrabook Review</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/getting-started-with-chatgpt-a-guide-to-registering-and-using-new-plugin-options/"><u>Getting Started with ChatGPT: A Guide to Registering and Using New Plugin Options</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/in-2024-achieving-youtube-mastery-with-effective-use-of-creator-studio-tools/"><u>In 2024, Achieving YouTube Mastery with Effective Use of Creator Studio Tools</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/mastering-chatgpt-a-step-by-step-guide-to-leveraging-its-api/"><u>Mastering ChatGPT: A Step-by-Step Guide to Leveraging Its API</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/mastering-nutritional-planning-a-step-by-step-guide-with-chatgpt/"><u>Mastering Nutritional Planning: A Step-by-Step Guide with ChatGPT</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/maximizing-your-mobile-experience-mastering-the-chatgpt-widget-on-android-devices/"><u>Maximizing Your Mobile Experience: Mastering the ChatGPT Widget on Android Devices</u></a></li>
-<li><a href="https://fox-zaraz.techidaily.com/page-unavailable-http-404-error-encountered/"><u>Page Unavailable: HTTP 404 Error Encountered</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/steps-to-prevent-auto-play-on-apple-music-streams/"><u>Steps to Prevent Auto-Play on Apple Music Streams</u></a></li>
-<li><a href="https://windows11.techidaily.com/tackling-unstartable-speech-to-text-on-windows-systems/"><u>Tackling Unstartable Speech to Text on Windows Systems</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/the-future-of-digital-dialogue-mastering-the-art-of-custom-chatgpt-instructions/"><u>The Future of Digital Dialogue: Mastering the Art of Custom ChatGPT Instructions</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-2024-approved-the-ultimate-gaming-escape-lgs-virtual-reality-journey/"><u>[New] 2024 Approved The Ultimate Gaming Escape LG's Virtual Reality Journey</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-adding-depth-with-customized-facebook-slideshows/"><u>[Updated] Adding Depth with Customized Facebook Slideshows</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/1-apple-unveils-groundbreaking-purchase-system-for-the-upcoming-february-release-of-vision-pro-insights-from-zdnet/"><u>1. Apple Unveils Groundbreaking Purchase System for the Upcoming February Release of Vision Pro – Insights From ZDNet</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/advancing-siri-with-apples-latest-ai-major-upgrades-on-the-horizon-insights-from-zdnet/"><u>Advancing Siri with Apple’s Latest AI: Major Upgrades on the Horizon - Insights From ZDNet</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/bridging-platforms-effortlessly-shift-your-memories-from-google-photos-to-icloud-perfectly-explained/"><u>Bridging Platforms: Effortlessly Shift Your Memories From Google Photos to iCloud, Perfectly Explained</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/enhance-your-meta-quest-3-adventure-with-exclusive-access-to-apples-cutting-edge-3d-spatial-videos-detailed-tutorial/"><u>Enhance Your Meta Quest 3 Adventure with Exclusive Access to Apple’s Cutting-Edge 3D Spatial Videos | Detailed Tutorial</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/experts-picks-for-the-most-stylish-and-durable-apple-watch-bands-of-202-cuisine-in-depth-analysis-zdnet-insights/"><u>Experts' Picks for the Most Stylish and Durable Apple Watch Bands of 202 Cuisine: In-Depth Analysis | ZDNET Insights</u></a></li>
+<li><a href="https://video-capture.techidaily.com/farm-fanatics-forecast-future-of-virtual-harvesting-for-2024/"><u>Farm Fanatics’ Forecast Future of Virtual Harvesting for 2024</u></a></li>
+<li><a href="https://windows11.techidaily.com/fixes-for-stumbling-windows-discord-search-bar/"><u>Fixes for Stumbling Windows Discord Search Bar</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/flac-aviflacmovavi/"><u>FLAC格式自動化 - AVI到FLAC無成本轉換解決方案：Movavi</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/grateful-goodbyes-affordable-premium-video-endings-for-2024/"><u>Grateful Goodbyes Affordable, Premium Video Endings for 2024</u></a></li>
+<li><a href="https://fox-that.techidaily.com/handling-ios-restoration-problems-overcoming-error-4013-with-ease/"><u>Handling iOS Restoration Problems: Overcoming Error 4013 with Ease</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/how-my-perfect-match-the-apple-watch-ultra-2-landed-in-my-cart-with-a-sweet-labor-day-discount-explore-why-at-zdnet/"><u>How My Perfect Match, The Apple Watch Ultra 2, Landed in My Cart with a Sweet Labor Day Discount - Explore Why at ZDNet!</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-fix-locked-apple-id-from-apple-iphone-xs-max-by-drfone-ios/"><u>How to Fix Locked Apple ID from Apple iPhone XS Max</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-recommendation-best-websites-for-downloading-snapchat-ringtone/"><u>In 2024, Recommendation Best Websites For Downloading Snapchat Ringtone</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/mobile-device-assessment-strategies-unveiling-our-approach/"><u>Mobile Device Assessment Strategies : Unveiling Our Approach</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/samsung-leads-with-galaxy-ai-as-google-faces-regulatory-setback-in-global-tech-rankings/"><u>Samsung Leads with Galaxy AI as Google Faces Regulatory Setback in Global Tech Rankings</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/unveiling-marital-affection-quotients-the-apple-vision-pro-selling-experience-as-discussed/"><u>Unveiling Marital Affection Quotients: The Apple Vision Pro Selling Experience as Discussed</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/zooming-into-clarity-a-blueprint-for-crisp-screenshots-for-2024/"><u>Zooming Into Clarity A Blueprint for Crisp Screenshots for 2024</u></a></li>
 </ul></div>
 

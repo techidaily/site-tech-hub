@@ -1,7 +1,7 @@
 ---
 title: "Pixel 9 Pro XL vs iPhone 15 Pro: A Detailed Camera Comparison Reveals the Victor & an Unexpected Outcome - ZDNet's In-Depth Analysis"
-date: 2025-01-05T23:35:19.021Z
-updated: 2025-01-07T04:42:37.153Z
+date: 2025-02-14T22:18:58.477Z
+updated: 2025-02-16T22:29:45.639Z
 tags:
   - apple
 categories:
@@ -33,7 +33,7 @@ The Google Pixel 9 Pro and 9 Pro XL come equipped with a 50MP primary camera, a 
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Pixel gets skin tones right
@@ -81,7 +81,7 @@ I use the ultrawide camera to take architecture shots or group photos. While I d
 I would prefer the iPhone shot for this particular image, but I can see myself using the wider FoV and fisheye effect on the Pixel 9 Pro when I'm traveling. The Google phone also fared better in low light with the ultrawide camera. That being said, the colors were consistent across three lenses on both phones.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vPGg53vbOsk?si=CkSEN5HFPS7vDuAa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## A clear winner in night time
@@ -111,7 +111,7 @@ The iPhone 15 Pro holds up well in indoor and artificial lighting conditions but
 The iPhone 15 Pro shot looks bad, despite the dog not moving, while the Pixel 9 Pro XL was able to capture the subject when it was about to move by the time the shutter was processed. I would pick the new Google phone for night shots unless the iPhone 16 Pro comes with better Night Mode algorithms. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Pixel 9 Pro XL gets good at selfies
@@ -125,7 +125,7 @@ I like the selfie shooter on the iPhone 15 Pro and have found it better than And
 I like the Pixel 9 Pro XL selfie here but the iPhone was able to get more details around the hair. But you can see areas around my forehead and cheeks where the highlights are blown out. However, both look social media worthy and I'm impressed by the selfie camera on the Pixel 9 Pro. It does a better job than the iPhone when the light source is behind you.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Pixel 9 Pro XL vs iPhone 15 Pro camera: Which one is better?
@@ -170,18 +170,18 @@ I expect the iPhone 16 Pro to do better in the aspects where the iPhone 15 Pro l
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-access.techidaily.com/new-2024-approved-mkv-decoding-best-apps-for-mac/"><u>[New] 2024 Approved MKV Decoding Best Apps for Mac</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/new-2024-approved-rapid-recording-audio-in-action/"><u>[New] 2024 Approved Rapid Recording Audio in Action</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/tep-by-step-guide-to-youtube-video-enhancement-with-wmm-for-2024/"><u>[New] Step-by-Step Guide to YouTube Video Enhancement with WMM for 2024</u></a></li>
-<li><a href="https://article-posts.techidaily.com/2024-approved-elevate-your-virtual-presence-choose-from-these-7-devices/"><u>2024 Approved Elevate Your Virtual Presence Choose From These 7 Devices</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/exploring-chatgpts-text-capacity-overcoming-input-size-restrictions/"><u>Exploring ChatGPT's Text Capacity: Overcoming Input Size Restrictions</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/exploring-the-benefits-of-using-claude-ai-an-in-depth-guide/"><u>Exploring the Benefits of Using Claude AI: An In-Depth Guide</u></a></li>
-<li><a href="https://techidaily.com/hard-resetting-an-htc-u23-pro-device-made-easy-drfone-by-drfone-reset-android-reset-android/"><u>Hard Resetting an HTC U23 Pro Device Made Easy | Dr.fone</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/how-reliable-is-vpn-for-interacting-with-chatgpt-online/"><u>How Reliable Is VPN for Interacting with ChatGPT Online?</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/how-to-mirror-pc-screen-to-xiaomi-redmi-note-12r-phones-drfone-by-drfone-android/"><u>How to Mirror PC Screen to Xiaomi Redmi Note 12R Phones? | Dr.fone</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/is-chatgpt-capable-of-advancing-by-analyzing-conversations-with-people/"><u>Is ChatGPT Capable of Advancing by Analyzing Conversations With People?</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/master-the-market-how-chatgpt-enhances-your-crypto-trading-experience/"><u>Master the Market: How ChatGPT Enhances Your Crypto Trading Experience</u></a></li>
-<li><a href="https://fake-location.techidaily.com/prank-your-friends-easy-ways-to-fake-and-share-google-maps-location-on-apple-iphone-13-mini-drfone-by-drfone-virtual-ios/"><u>Prank Your Friends! Easy Ways to Fake and Share Google Maps Location On Apple iPhone 13 mini | Dr.fone</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/transforming-timepieces-top-6-innovative-uses-of-chatgpt-in-smartwatch-technology/"><u>Transforming Timepieces: Top 6 Innovative Uses of ChatGPT in Smartwatch Technology</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-improve-real-time-periscope-performance-for-2024/"><u>[Updated] Improve Real-Time Periscope Performance for 2024</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/before-buying-your-next-dash-cam-here-are-the-9-things-you-need-to-know/"><u>Before Buying Your Next Dash Cam - Here Are the 9 Things You Need To Know</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/conquer-loneliness-through-engaging-in-chatgpt-interaction/"><u>Conquer Loneliness Through Engaging in ChatGPT Interaction</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/decrypting-the-secrets-mobile-device-held-hostage-at-50-insights-into-ransomware-and-ai-powered-writing-on-our-show/"><u>Decrypting the Secrets: Mobile Device Held Hostage at $50 - Insights Into Ransomware & AI-Powered Writing on Our Show</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/defend-your-works-of-art-from-ai-theft-with-nightshade-techniques/"><u>Defend Your Works of Art From AI Theft with Nightshade Techniques</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/demystifying-generative-artifice-intelligence-ai-explained/"><u>Demystifying Generative Artifice Intelligence (AI) Explained</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/discover-how-to-utilize-8-versatile-gpts-instantly-for-enhanced-task-automation/"><u>Discover How to Utilize 8 Versatile GPTs Instantly for Enhanced Task Automation</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/flashcapture-quick-image-hold-manual-for-2024/"><u>FlashCapture Quick Image Hold Manual for 2024</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-reset-your-iphone-12-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Reset Your iPhone 12? | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-complete-guide-on-unlocking-apple-iphone-13-with-a-broken-screen-drfone-by-drfone-ios/"><u>In 2024, Complete Guide on Unlocking Apple iPhone 13 with a Broken Screen? | Dr.fone</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-why-does-the-pokemon-go-battle-league-not-available-on-lava-yuva-2-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Why does the pokemon go battle league not available On Lava Yuva 2 Pro | Dr.fone</u></a></li>
+<li><a href="https://network-issues.techidaily.com/reactivating-supported-status-of-non-compliant-freesync/"><u>Reactivating Supported Status of Non-Compliant FreeSync</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/ultimate-durability-showdown-how-our-4k-tested-laptop-outperforms-the-dell-latitude/"><u>Ultimate Durability Showdown: How Our $4K Tested Laptop Outperforms the Dell Latitude!</u></a></li>
 </ul></div>
 

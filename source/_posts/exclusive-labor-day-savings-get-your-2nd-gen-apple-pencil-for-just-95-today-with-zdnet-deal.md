@@ -1,7 +1,7 @@
 ---
 title: Exclusive Labor Day Savings! Get Your 2Nd Gen Apple Pencil for Just $95 Today with ZDNET Deal
-date: 2025-02-01T07:43:02.895Z
-updated: 2025-02-07T08:05:46.463Z
+date: 2025-02-13T22:48:46.966Z
+updated: 2025-02-16T19:57:18.771Z
 tags:
   - apple
 categories:
@@ -34,7 +34,7 @@ By using the Apple Pencil with your iPad (specifically, the iPad Pro 2022 model)
 Get the [Apple Pencil (2nd Gen)](https://goto.walmart.com/c/5597632/565706/9383?sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.walmart.com%2Fip%2FApple-Pencil-2nd-Generation-Pixel-Perfect-Precision-Industry-Leading-Low-Latency-Perfect-Note-Taking-Drawing-Signing-documents-Attaches-Charges-Pairs%2F949679706&subId1=zd-__COM_CLICK_ID__-dtp) with $35 in savings right now if you want to upgrade your iPad stylus. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## When will this deal expire?
@@ -71,22 +71,18 @@ Deals are subject to sell-out or expire at any time, though ZDNET remains commit
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-screen-grab.techidaily.com/new-in-2024-dynamic-duels-in-digital-realms-the-ultimate-top-10-list/"><u>[New] In 2024, Dynamic Duels in Digital Realms The Ultimate Top-10 List</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/ed-2024-approved-your-path-to-youtube-stardom-3-strategies-for-captivating-reaction-videos/"><u>[Updated] 2024 Approved Your Path to YouTube Stardom 3 Strategies for Captivating Reaction Videos</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-streamline-your-twitch-live-recordings-today/"><u>[Updated] Streamline Your Twitch Live Recordings Today</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-harmony-in-sounds-legally-downloaded-meditation-chants-and-more/"><u>2024 Approved Harmony in Sounds Legally Downloaded Meditation Chants & More</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/android-users-setting-up-your-voicegpt/"><u>Android Users: Setting Up Your VoiceGPT</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/boosting-organization-skills-using-chatgpt-a-4-step-guide/"><u>Boosting Organization Skills Using ChatGPT – A 4-Step Guide</u></a></li>
-<li><a href="https://video-capture.techidaily.com/capturing-gaming-sessions-pick-between-obs-or-shadowplay-for-2024/"><u>Capturing Gaming Sessions Pick Between OBS or ShadowPlay for 2024</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/dall-e-3-enhanced-with-new-editing-features-room-for-improvement/"><u>DALL-E 3 Enhanced with New Editing Features: Room for Improvement</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/enhance-your-privacy-with-duckduckgos-intelligent-chatbot-experience-including-chatgpt/"><u>Enhance Your Privacy with DuckDuckGo's Intelligent Chatbot Experience, Including ChatGPT</u></a></li>
-<li><a href="https://win-able.techidaily.com/god-of-war-game-fixes-insufficient-memory-error-problem/"><u>God of War Game Fixes 'Insufficient Memory Error' Problem</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/how-to-track-nokia-c210-location-without-installing-software-drfone-by-drfone-virtual-android/"><u>How to Track Nokia C210 Location without Installing Software? | Dr.fone</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/how-to-unlock-a-network-locked-nokia-c32-phone-by-drfone-android/"><u>How to Unlock a Network Locked Nokia C32 Phone?</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/maximizing-efficiency-leveraging-chatgpt-for-enhanced-workflow-strategies/"><u>Maximizing Efficiency: Leveraging ChatGPT for Enhanced Workflow Strategies</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/samsung-galaxy-chromebook-pro-series-a-comprehensive-review/"><u>Samsung Galaxy Chromebook Pro Series - A Comprehensive Review</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/top-4-ai-detection-applications-essential-resources-for-educators-and-managers/"><u>Top 4 AI Detection Applications: Essential Resources for Educators and Managers</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/transform-your-job-search-craft-a-winning-resume-using-chatgpt/"><u>Transform Your Job Search: Craft a Winning Resume Using ChatGPT</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/unleash-your-creative-potential-with-these-4-ai-storytellers/"><u>Unleash Your Creative Potential with These 4 AI Storytellers</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ro-tools-pro-results-elevating-video-quality-in-youtube-editing/"><u>[New] Pro Tools, Pro Results Elevating Video Quality in YouTube Editing</u></a></li>
+<li><a href="https://article-files.techidaily.com/2024-approved-free-eco-templates-for-video-creation/"><u>2024 Approved Free Eco Templates for Video Creation</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-the-best-professional-template-pack-for-premiere-pro/"><u>2024 Approved The Best Professional Template Pack for Premiere Pro</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-top-7-hydro-resistant-camcorders-explored/"><u>2024 Approved Top 7 Hydro-Resistant Camcorders Explored</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/blend-in-with-the-background-hide-taskbars-language-bar-win11/"><u>Blend in with the Background: Hide Taskbar's Language Bar, Win11</u></a></li>
+<li><a href="https://some-tips.techidaily.com/discovering-your-contacts-gpg-keys-with-mozilla-thunderbird-a-step-by-step-guide/"><u>Discovering Your Contacts' GPG Keys with Mozilla Thunderbird: A Step-by-Step Guide</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/expert-take-on-iphone-15-pros-explained-and-the-unwavering-recommendation-for-tech-enthusiasts-zdnet/"><u>Expert Take on iPhone 15: Pros Explained and the Unwavering Recommendation for Tech Enthusiasts | ZDNet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/how-to-safeguard-against-identity-theft-by-securing-your-mobile-line/"><u>How to Safeguard Against Identity Theft by Securing Your Mobile Line</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/pros-and-cons-of-googles-pixel-vs-apple-in-the-wearable-arena-making-sense-of-the-pixel-watch-vs-apple-watch-series-veer-a-side-by-side-evaluation-gadgetflo11/"><u>Pros & Cons of Google's Pixel Vs. Apple in the Wearable Arena - Making Sense of the Pixel Watch Vs. Apple Watch Series Veer: A Side-By-Side Evaluation | GadgetFlow</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/section-2a-explanation-of-tipping-bucket-scales/"><u>Section 2A: Explanation of Tipping-Bucket Scales</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/top-11-must-have-windows-and-macos-applications-expert-recommendations-from-zdnet/"><u>Top 11 Must-Have Windows & macOS Applications - Expert Recommendations From ZDNet</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/understanding-investment-needs-on-youtube/"><u>Understanding Investment Needs on YouTube</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/why-im-continuously-choosing-the-apple-watch-series-7-over-upcoming-series-10/"><u>Why I'm Continuously Choosing the Apple Watch Series 7 Over Upcoming Series 10</u></a></li>
 </ul></div>
 

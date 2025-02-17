@@ -1,7 +1,7 @@
 ---
 title: "Advancing AI Frontiers with Apple: Discover How New Models Are Changing the Game | Detailed Analysis"
-date: 2025-01-05T22:37:13.763Z
-updated: 2025-01-07T02:16:09.495Z
+date: 2025-02-13T18:48:41.577Z
+updated: 2025-02-16T16:20:02.015Z
 tags:
   - apple
 categories:
@@ -49,7 +49,7 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fo4lNZ84x9Q?si=WdcYPZp-9VJnZEnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## A trained charm offensive
@@ -83,7 +83,7 @@ She began to play a demonstration video that, dare I confess, is quite moving.
 The fact that someone else can see (a digital version of) your eyes is a touchingly humane feature, even if imperfect. But the simple gesturing and the apparent power of that gesturing is, even on video, quite something.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/o-sRtqHdEYY?si=NMTMQVxJsUaoguqh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Suddenly, it's all business
@@ -125,7 +125,7 @@ I asked if she thought this would become the new way of living, where people wan
 (Well, not quite all the apps. Netflix and YouTube [aren't there](https://www.zdnet.com/article/what-apps-will-be-on-apple-vision-pro-not-these-two-major-ones/).)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GFHH14XlFCk?si=2HcjQbDx5eG0ZQAt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Was I sold? Not quite yet
@@ -191,16 +191,21 @@ I asked the female store employee whether she'd be able to try one on before the
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-glue.techidaily.com/updated-2024-approved-integrating-sounds-and-music-into-your-instagram-videos/"><u>[Updated] 2024 Approved Integrating Sounds and Music Into Your Instagram Videos</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-2024-approved-navigating-the-art-of-live-stream-archiving-for-tv-series/"><u>[Updated] 2024 Approved Navigating the Art of Live Stream Archiving for TV Series</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/from-canvas-to-ledger-the-ultimate-list-of-nft-engines-for-artists-for-2024/"><u>From Canvas to Ledger The Ultimate List of NFT Engines for Artists for 2024</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/how-do-you-play-mp4-files-on-xiaomi-13t-pro-by-aiseesoft-video-converter-play-mp4-on-android/"><u>How do you play MP4 files on Xiaomi 13T Pro?</u></a></li>
-<li><a href="https://win11.techidaily.com/how-to-optimize-your-startup-programs-in-windows-11-for-improved-performance/"><u>How to Optimize Your Startup Programs in Windows 11 for Improved Performance</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/maitrisez-la-transformation-audio-sur-votre-pc-convertir-facilement-des-fichiers-mp4-en-mp3-avec-notre-outil-convertisseur-gratuitement-integre-a-windows-1013/"><u>Maîtrisez La Transformation Audio Sur Votre PC : Convertir Facilement Des Fichiers MP4 en MP3 Avec Notre Outil Convertisseur Gratuitement Intégré À Windows 10</u></a></li>
-<li><a href="https://win-guides.techidaily.com/sharing-digital-books-easily-made-with-flipbuilder-comprehensive-tips/"><u>Sharing Digital Books Easily Made with FlipBuilder – Comprehensive Tips</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/stepping-into-the-field-a-guide-to-starting-your-journey-as-a-prompt-engineer/"><u>Stepping Into the Field: A Guide to Starting Your Journey as a Prompt Engineer</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/the-etiquette-of-interacting-with-ai-is-politeness-a-must-for-chatgpt-alexa-and-siri/"><u>The Etiquette of Interacting With AI: Is Politeness a Must for ChatGPT, Alexa & Siri?</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/the-new-frontier-of-ai-chatgpt-for-your-android-device/"><u>The New Frontier of AI: ChatGPT for Your Android Device</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/uncovering-next-must-watch-with-chatgpts-suggestions/"><u>Uncovering Next Must-Watch with ChatGPT's Suggestions</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-ideal-microphones-for-precision-in-4k-video-and-sound-recording/"><u>[New] Ideal Microphones for Precision in 4K Video & Sound Recording</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-in-2024-ultimate-online-collaboration-conjurer/"><u>[New] In 2024, Ultimate Online Collaboration Conjurer</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-the-art-of-leading-lines-in-iphone-visual-storytelling/"><u>[New] The Art of Leading Lines in iPhone Visual Storytelling</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-turning-tails-into-heads-android-video-editing/"><u>[New] Turning Tails Into Heads Android Video Editing</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-seamless-storytelling-with-on-screen-annotations-and-timestamps-for-2024/"><u>[Updated] Seamless Storytelling with On-Screen Annotations & Timestamps for 2024</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/apple-discontinues-apple-pay-later-paving-way-for-a-new-alternative-insights/"><u>Apple Discontinues Apple Pay Later, Paving Way for a New Alternative: Insights</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/apple-greenlights-refurbishment-authorized-reuse-of-components-in-selected-iphone-fixes/"><u>Apple Greenlights Refurbishment: Authorized Reuse of Components in Selected iPhone Fixes</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/downloading-ios-18-a-comprehensive-guide-on-compatibility-and-installation-steps-for-your-iphone-model/"><u>Downloading IOS 18: A Comprehensive Guide on Compatibility and Installation Steps for Your iPhone Model</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/future-of-siri-looks-brighter-as-apple-plans-major-upgrades-for-intelligence-exclusive-on-zdnet/"><u>Future of Siri Looks Brighter as Apple Plans Major Upgrades for Intelligence | Exclusive on ZDNET</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-manage-widget-notifications-on-windows-11/"><u>How to Manage Widget Notifications on Windows 11</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/how-to-unlock-t-mobile-iphone-13-mini-online-without-sim-card-by-drfone-ios/"><u>How to Unlock T-Mobile iPhone 13 mini online without SIM Card?</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-expert-tips-for-ios-downloading-podcasts-on-iphone/"><u>In 2024, Expert Tips for iOS Downloading Podcasts on iPhone</u></a></li>
+<li><a href="https://article-helps.techidaily.com/in-2024-toolwiz-app-unveiled-a-critical-examination-of-its-functionality/"><u>In 2024, Toolwiz App Unveiled A Critical Examination of Its Functionality</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/macos-15-sequoia-beta-now-available-for-download-get-the-latest-features-on-macbook-and-desktop-zdnet/"><u>MacOS 15 'Sequoia' Beta Now Available for Download – Get the Latest Features on MacBook & Desktop | ZDNET</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/smartwatch-showdown-in-depth-comparison-between-googles-pixel-watch-and-apples-latest-apple-watch-series-n/"><u>Smartwatch Showdown: In-Depth Comparison Between Google's Pixel Watch and Apple's Latest Apple Watch Series N</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/ultimate-list-of-leading-wireless-chargers-in-depth-analysis-and-ratings/"><u>Ultimate List of Leading Wireless Chargers : In-Depth Analysis and Ratings</u></a></li>
 </ul></div>
 

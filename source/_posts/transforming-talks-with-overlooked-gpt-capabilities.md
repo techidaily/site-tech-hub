@@ -1,7 +1,7 @@
 ---
 title: Transforming Talks with Overlooked GPT Capabilities
-date: 2024-08-15T22:09:26.166Z
-updated: 2024-08-16T22:09:26.166Z
+date: 2025-02-11T22:35:32.797Z
+updated: 2025-02-16T19:43:10.322Z
 tags:
   - chatgpt
   - open-ai
@@ -40,11 +40,16 @@ thumbnail: https://thmb.techidaily.com/03446fa7c6c4437cc78cf994a5cd500e9e19b7398
  The suspicious domain directs users to a fake OpenAI website resembling the official one. The site features a “DOWNLOAD FOR WINDOWS” button, which, when clicked, downloads an executable file containing data-stealing malware.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087394/7443" target="_top" id="2087394"><img src="//a.impactradius-go.com/display-ad/7443-2087394" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087394/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 3\. chat-gpt-pc.online
 
  ChatGPT AI, the fake ChatGPT Facebook page, also features posts that include links to “chat-gpt-pc.online,” another domain that redirects users to a malicious ChatGPT-themed website.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 4\. chatgpt-go.online
 
@@ -53,39 +58,35 @@ thumbnail: https://thmb.techidaily.com/03446fa7c6c4437cc78cf994a5cd500e9e19b7398
 ## 5\. pay.chatgptftw.com
 
 ![pay.chatgptftw.com's payment page](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/pay-chatgptftw-com.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793234/19578" target="_top" id="1793234"><img src="//a.impactradius-go.com/display-ad/19578-1793234" border="0" alt="" width="678" height="452"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793234/19578" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Cybercriminals also use ChatGPT-themed payment pages for financial fraud. For example, on the domain “pay.chatgptftw.com,” Cyble came across a page designed to steal credit card details. This webpage poses as a genuine payment page for ChatGPT Plus.
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657397/16446" target="_top" id="1657397"><img src="//a.impactradius-go.com/display-ad/16446-1657397" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657397/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 6\. ChatGPT1
 
  The Cyble report highlights another malware app that uses the ChatGPT icon. The malicious app, “ChatGPT1,” is an SMS billing fraud app downloaded as chatGPT1.apk. It operates discreetly, subscribing users to premium services without their consent.
 
-<!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002162&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/1_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (1 PC) Free upgrade. No monthly fees ever. 
-</a>
-<!-- affiliate ads end -->
 ## 7\. AI Photo
 
  “AI Photo” is another app that uses the ChatGPT icon, but is malicious in intent. This app was found to harbor the SpyNote malware, capable of stealing device files, contact lists, call logs, and text messages.
 
 <!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42570605&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/usbXcopy/Nero_USB_x_copy_Screen_2.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4YCkNXJjC3c?si=9Tn8KiqKGTZi1o7E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 8\. Meterpreter Posing as “SuperGPT” App
 
 ![The official SuperGPT's install page on Google Play](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/09/supergpt.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bofw6eJA7Bg?si=HM2gKZGH4L1otw3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  SuperGPT is an AI assistant app built on ChatGPT. However, researchers from Unit 42 uncovered a malicious APK sample posing as the app. This fake “SuperGPT” is a Meterpreter Trojan, [a RAT that enables remote access](https://www.makeuseof.com/android-remote-access-trojan/) of Android devices.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4742929&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/boxshot(2).png" border="0">Kanto Player Professional</a>
-<!-- affiliate ads end -->
 ## 9\. Trojan-PSW.Win64.Fobo
 
  Kaspersky researchers discovered that cybercriminals were using a fake ChatGPT desktop client for Windows to distribute a stealer Trojan. The Trojan, dubbed Trojan-PSW.Win64.Fobo, if installed on the user’s computer, can steal account details stored in various browsers, including Chrome, Edge, Firefox, and Brave.
@@ -108,14 +109,11 @@ thumbnail: https://thmb.techidaily.com/03446fa7c6c4437cc78cf994a5cd500e9e19b7398
 
  Here’s a list of malicious ChatGPT-themed domains and apps that you need to be aware of.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -124,4 +122,24 @@ thumbnail: https://thmb.techidaily.com/03446fa7c6c4437cc78cf994a5cd500e9e19b7398
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-clips.techidaily.com/new-avoiding-instagrams-false-facade-for-a-solid-stature-for-2024/"><u>[New] Avoiding Instagram's False Facade for a Solid Stature for 2024</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-in-2024-dacast-review-and-alternatives/"><u>[New] In 2024, DaCast Review and Alternatives</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-in-2024-the-basics-of-capturing-switch-gaming-moments/"><u>[New] In 2024, The Basics of Capturing Switch Gaming Moments</u></a></li>
+<li><a href="https://fox-links.techidaily.com/2024-approved-clearshot-video-amplifier-cross-device-compatible/"><u>2024 Approved ClearShot Video Amplifier - Cross-Device Compatible</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/biscuit-broadcast-expert-review-of-frosty-film-recorder/"><u>Biscuit Broadcast Expert Review of Frosty Film Recorder</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/detailed-look-into-the-lg-bp350ayering-and-user-experience-for-2024/"><u>Detailed Look Into the LG BP350'ayering and User Experience for 2024</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/master-the-art-of-sharing-gaming-moments-xboxfb-livestream-for-2024/"><u>Master the Art of Sharing Gaming Moments Xbox/FB Livestream for 2024</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/overcome-iphones-obstacles-with-these-chatgpt-fixes/"><u>Overcome iPhone's Obstacles with These ChatGPT Fixes</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/perfect-your-youtube-experience-add-timestamps-efficiently/"><u>Perfect Your YouTube Experience Add Timestamps Efficiently</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/quick-and-simple-techniques-for-applying-a-watermark-on-your-youtube-videos/"><u>Quick & Simple Techniques for Applying a Watermark on Your YouTube Videos</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/rapid-conversion-techniques-turning-dvds-into-itunes-ready-files-with-ease/"><u>Rapid Conversion Techniques: Turning DVDs Into iTunes-Ready Files with Ease</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/retro-stream-surfing-how-to-view-previous-live-sessions-on-twitch/"><u>Retro Stream Surfing: How to View Previous Live Sessions on Twitch</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/save-money-on-video-conversion-transform-vimeo-clips-to-mp4-using-free-tools-5-uncomplicated-techniques/"><u>Save Money on Video Conversion: Transform Vimeo Clips to MP4 Using Free Tools - 5 Uncomplicated Techniques</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/seamless-techniques-for-extracting-videos-from-your-dvds/"><u>Seamless Techniques for Extracting Videos From Your DVDs</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/simple-guide-to-converting-mts-video-format-to-mov-on-your-windows-computer/"><u>Simple Guide to Converting MTS Video Format to MOV on Your Windows Computer</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/slashing-your-webm-file-size-the-ultimate-guide-to-faster-loading-and-free-optimization-tools/"><u>Slashing Your WebM File Size: The Ultimate Guide to Faster Loading and Free Optimization Tools</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/step-by-step-guide-transforming-f4v-video-format-into-mp4/"><u>Step-by-Step Guide: Transforming F4V Video Format Into MP4</u></a></li>
+</ul></div>
 
