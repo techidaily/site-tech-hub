@@ -1,7 +1,7 @@
 ---
 title: Diagnosing and Repairing Your Logitech C922 HD Streaming Camera Problems
-date: 2024-08-15T20:10:46.581Z
-updated: 2024-08-16T20:10:46.581Z
+date: 2025-02-26T17:40:54.011Z
+updated: 2025-03-05T17:57:28.256Z
 tags:
   - win11
   - win10
@@ -44,9 +44,6 @@ If you confirm the power switch is on, go on and try the methods.
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453719/17020" target="_top" id="1453719"><img src="//a.impactradius-go.com/display-ad/17020-1453719" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453719/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Method 1: Remove the unifying receiver and batteries for 5 seconds
 
  To fix the Logitech wireless mouse stopped working issue, the easiest method is to remove the unifying receiver and batteries for about 5 seconds. You may be wondering why this would work. Removing and re-inserting the device would allow the device to restart and allow the computer to re-recognize the device.
@@ -71,14 +68,8 @@ If you confirm the power switch is on, go on and try the methods.
 5. Select your Logitech mouse with the arrow key, and hit the**Enter** key to open its**Properties** .
 6. Hit the**Tab** key 3 times, then the**right arrow** key to select**Drivers** . Hit the**Tab** key until you locate the**Uninstall Device** button. Hit**Enter** to select it.  
 ![](https://www.drivereasy.com/wp-content/uploads/2024/06/image-13.png)
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475"><img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 7. Hit Enter to confirm the driver uninstall.  
 ![](https://www.drivereasy.com/wp-content/uploads/2024/06/image-14.png)
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296740&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/biu/Nero_BackItUp_Screen_2.webp" border="0"></a>
-<!-- affiliate ads end -->
 8. Restart your computer and check to see if the problem is resolved.
 
 If the mouse still doesn’t work, go to Method 3.
@@ -96,18 +87,6 @@ If the mouse still doesn’t work, go to Method 3.
 1. **[Download](https://tools.techidaily.com/drivereasy/download/)**  and**install** Driver Easy.
 2. Run Driver Easy and click the**Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://www.drivereasy.com/wp-content/uploads/2020/10/6_0_scan-now.jpg)
-<!-- affiliate ads begin -->
-<span id="1997795">
-					<video width="250" height="250" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/23621-1997795">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:250px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fproteahair.pxf.io%2Fc%2F5597632%2F1997795%2F23621'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997795/23621" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 3. Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system.  
 
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with **full support**  and a **30-day money-back**  guarantee. You’ll be prompted to upgrade when you click Update All. If you’re not ready to buy the Pro version, Driver Easy offers a 7-day free trial which includes access to all the Pro features such as high-speed download and one-click install. You won’t be charged anything until your 7-day trial has ended.)  
@@ -118,9 +97,6 @@ If the problem continues to occur, go to Method 4.
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4631722&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2023/05/frontpage2-2048x588.webp" border="0">EmEditor Professional (Lifetime License, non-store app)</a>
-<!-- affiliate ads end -->
 ## Method 4: Change USB port
 
  If the USB hub can’t provide enough power to the mouse, the problem can occur. To fix the Logitech wireless mouse not working issue, you can try to connect the unifying receiver to the computer via another USB port.
@@ -133,9 +109,6 @@ If the problem cannot be resolved, go to Method 5.
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=32667153&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.coolmuster.com/uploads/image/20201228/feature02.png" border="0"></a>
-<!-- affiliate ads end -->
 ## Method 5: Test the receiver on another computer
 
  A defective receiver can cause the Logitech wireless mouse not to work. To find out if the receiver is the cause, you can test it on another computer.
@@ -154,9 +127,6 @@ Here’s how to test the receiver on another computer:
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726807&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, Lifetime subscription</a>
-<!-- affiliate ads end -->
 ## Method 6: Replace the batteries
 
  The wireless mouse relies on AA alkaline batteries for power. If the batteries are having problems, your Logitech wireless mouse won’t have enough power to perform.
@@ -175,9 +145,6 @@ If this method doesn’t work for you, go to Method 8.
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4727541&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/copy_copy_forexrobotronbox.gif" border="0">Forex Robotron Gold Package</a>
-<!-- affiliate ads end -->
 ## Method 8: Try the mouse on a different computer
 
  Try the mouse on a different computer. This will help determine if the mouse is dead.
@@ -194,8 +161,6 @@ If this method doesn’t work for you, go to Method 8.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -203,4 +168,16 @@ If this method doesn’t work for you, go to Method 8.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-video-files.techidaily.com/new-2024-approved-leveraging-hashtags-and-mentions/"><u>[New] 2024 Approved Leveraging Hashtags and Mentions</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-the-ultimate-comparison-adobe-storage-vs-non-adobe-options/"><u>[New] The Ultimate Comparison Adobe Storage Vs. Non-Adobe Options</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-can-i-use-itools-gpx-file-to-catch-the-rare-pokemon-on-google-pixel-fold-drfone-by-drfone-virtual-android/"><u>In 2024, Can I use iTools gpx file to catch the rare Pokemon On Google Pixel Fold | Dr.fone</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/streamlining-your-web-experience-by-deploying-ai-agents-via-agentgpt-in-chromefirefox/"><u>Streamlining Your Web Experience by Deploying AI Agents via AgentGPT in Chrome/Firefox</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/the-ai-muse-crafting-captivating-poems-with-guidance-from-chatgpt/"><u>The AI Muse: Crafting Captivating Poems with Guidance From ChatGPT</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/the-boundaries-of-ai-comprehension-insights-into-chatgptebilities/"><u>The Boundaries of AI Comprehension: Insights Into ChatGPT'ebilities</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/the-writers-assistant-explore-9-functionalities-of-chatgpt-for-novel-creation/"><u>The Writer's Assistant: Explore 9 Functionalities of ChatGPT for Novel Creation</u></a></li>
+<li><a href="https://games-able.techidaily.com/unveiling-offscreen-patterns-on-xbox-sx-a-4-step-guide/"><u>Unveiling Offscreen Patterns on Xbox S/X: A 4-Step Guide</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/unveiling-speed-vs-style-a-comprehensive-guide-to-tp-link-av200n-powerline-adapter/"><u>Unveiling Speed Vs. Style: A Comprehensive Guide to TP-Link AV200n Powerline Adapter</u></a></li>
+</ul></div>
 

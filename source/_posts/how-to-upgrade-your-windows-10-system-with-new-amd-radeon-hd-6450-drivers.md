@@ -1,7 +1,7 @@
 ---
 title: How to Upgrade Your Windows 10 System with New AMD Radeon HD 6450 Drivers
-date: 2024-08-15T20:09:57.231Z
-updated: 2024-08-16T20:09:57.231Z
+date: 2025-03-01T19:03:03.388Z
+updated: 2025-03-05T18:29:49.682Z
 tags:
   - win11
   - win10
@@ -66,9 +66,6 @@ thumbnail: https://thmb.techidaily.com/9b682067d65f5ab52932cb43774adc7ed3c1ad880
 
  9) Then whole process could take some time, and your PC will restart a couple of times in between. Make sure you don’t turn off your PC during the process.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2095385/26400" target="_top" id="2095385"><img src="//a.impactradius-go.com/display-ad/26400-2095385" border="0" alt="" width="1024" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095385/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## **Option Two: Use Media Creation Tool to Create Installation Media (USB flash drive, DVD, or ISO files)**
 
 **Note** : If you are to install Windows 10 on a PC running Windows XP or Vista, or you are to create a new copy of Windows 10, so as to perform a clean installation, or reinstall Windows 10.  
@@ -76,16 +73,10 @@ thumbnail: https://thmb.techidaily.com/9b682067d65f5ab52932cb43774adc7ed3c1ad880
  1) Go to the Get Windows 10 download[**website**](https://www.microsoft.com/en-gb/software-download/windows10) , then download the Download Tool by clicking pressing the blue button.
   
 ![](https://images.drivereasy.com/wp-content/uploads/2016/11/img_5832bcb6321f9-1024x488.jpg)
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=4729507&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/TIU/Nero_TuneItUp_Screen_2.webp" border="0">/a>
-<!-- affiliate ads end -->
 
  2) Double click the**MediaCreationTool.exe** file to run the installation of it. If prompted by UAC, just click**Yes** .
   
 ![](https://images.drivereasy.com/wp-content/uploads/2016/11/mediacreationtool-exe-installation-media-tool.png)
-<!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398453/3022" target="_top" id="398453"><img src="//a.impactradius-go.com/display-ad/3022-398453" border="0" alt="www.sentrypc.com" width="580" height="400"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398453/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  3) Click**Accept** .
   
@@ -98,24 +89,14 @@ thumbnail: https://thmb.techidaily.com/9b682067d65f5ab52932cb43774adc7ed3c1ad880
  5) If you leave the box**Use the recommended options for this PC** checked, your language, edition and architecture settings will remain the same as your current PC. So, uncheck the option, then fill in your own preference settings. Then press**Next** to continue.
   
 ![](https://images.drivereasy.com/wp-content/uploads/2016/11/use-the-recommended-options-for-this-pc.png)
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068416/7443" target="_top" id="2068416"><img src="//a.impactradius-go.com/display-ad/7443-2068416" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068416/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  6) Choose**USB flash drive** , and then click**Next** . If you want to**burn the ISO file to a DVD later** , you can choose the second option instead. We will go with USB flash drive.
   
 ![](https://images.drivereasy.com/wp-content/uploads/2016/11/usb-flash-drive.png)
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698998&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/MacBook_Pro_lyrx-withsinger-tv.png" border="0">LYRX is an easy-to-use karaoke software with the professional features karaoke hosts need to perform with precision. LYRX is karaoke show hosting software that supports all standard karaoke file types as well as HD video formats, and it’s truly fun to use. 
-LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
-<!-- affiliate ads end -->
 
  7) Now plug in your USB flash drive, then choose the flash drive you have and click**Next** .
   
 ![](https://images.drivereasy.com/wp-content/uploads/2016/11/next-select-a-usb-flash-drive.png)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4599952&QTY=1&AFFILIATE=108875&CART=1"><iframe width="864" height="500" src="https://www.youtube.com/embed/jVnfr5HudQw" title="The Latest and Easiest Solution to Remove Kindle DRM on Windows (without Degrading)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>Epubor Ultimate for Mac:Helps you read books anywhere, including the best eBook Converter + eBook DRM Removal functions.</a>
-<!-- affiliate ads end -->
   
  8) Windows 10 will now begin to download. The speed of which will be determined by the Internet speed that you have.
   
@@ -137,8 +118,6 @@ LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -146,4 +125,26 @@ LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-footage.techidaily.com/new-beef-up-your-cgi-with-these-8-online-repositories-of-free-green-screens-and-clips-for-2024/"><u>[New] Beef up Your CGI with These 8 Online Repositories of FREE Green Screens and Clips for 2024</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-integrated-camera-use-photos-and-videos-on-one-phone-for-2024/"><u>[New] Integrated Camera Use Photos and Videos on One Phone for 2024</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/2024-approved-efficiently-add-your-own-look-to-youtube-shorts-via-simple-steps/"><u>2024 Approved Efficiently Add Your Own Look to YouTube Shorts via Simple Steps</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/approved-the-creme-de-la-creme-leading-makeup-personalities/"><u>2024 Approved The Crème De La Crème Leading Makeup Personalities</u></a></li>
+<li><a href="https://win-answers.techidaily.com/avoid-crashing-during-your-races-optimizing-forza-horizon-4-for-windows-users/"><u>Avoid Crashing During Your Races: Optimizing Forza Horizon 4 for Windows Users</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/boost-conversation-quality-top-7-strategies-for-enhancing-chatgpt-interactions/"><u>Boost Conversation Quality: Top 7 Strategies for Enhancing ChatGPT Interactions</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/building-detailed-customer-archetypes-using-chatgpt-to-improve-interaction-quality/"><u>Building Detailed Customer Archetypes Using ChatGPT to Improve Interaction Quality</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/chatgpts-intelligence-is-it-declining-or-stable-according-to-openai/"><u>ChatGPT's Intelligence: Is It Declining or Stable According to OpenAI?</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/crafting-your-cv-with-ai-mastering-the-art-of-using-chatgpt/"><u>Crafting Your CV with AI: Mastering the Art of Using ChatGPT</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/creating-an-immersive-text-based-rpg-experience-with-chatgpt/"><u>Creating an Immersive Text-Based RPG Experience with ChatGPT</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/dall-e-3-updates-integration-of-edit-tools-still-requires-perfecting/"><u>DALL-E 3 Updates: Integration of Edit Tools, Still Requires Perfecting</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/decoding-the-methodology-behind-artificial-intelligence-prompt-injection-exploits/"><u>Decoding the Methodology Behind Artificial Intelligence Prompt Injection Exploits</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/demystifying-ai-black-boxes-an-insight-into-their-functioning-in-machine-learning-models/"><u>Demystifying 'AI Black Boxes': An Insight Into Their Functioning in Machine Learning Models</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/dont-trust-me-ask-a-professional-why-chatgpt-falls-short-in-medicine/"><u>Don't Trust Me, Ask a Professional: Why ChatGPT Falls Short in Medicine</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/free-online-converter-convert-emfwav-files-into-3gp-format-with-movavi/"><u>Free Online Converter: Convert EMF/WAV Files Into 3GP Format with Movavi</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/in-2024-early-bird-winners-youtubes-quick-favorites/"><u>In 2024, Early Bird Winners Youtube's Quick Favorites</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/24-understanding-youtube-post-upload-process/"><u>In 2024, Understanding YouTube Post-Upload Process</u></a></li>
+<li><a href="https://win11.techidaily.com/unlock-night-vision-painting-in-ms-paint-darkness/"><u>Unlock Night Vision: Painting in MS Paint Darkness</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/unveiling-clearer-imagery-instagrams-video-cropping-secrets-for-2024/"><u>Unveiling Clearer Imagery Instagram's Video Cropping Secrets for 2024</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Is the iPhone E16 Not Worth It? Exploring Apple's Intelligence Features with ZDNET Analysis
-date: 2025-02-10T16:49:32.369Z
-updated: 2025-02-16T16:09:37.929Z
+date: 2025-03-03T18:33:11.772Z
+updated: 2025-03-05T19:07:17.691Z
 tags:
   - apple
 categories:
@@ -19,10 +19,6 @@ Matthew Miller/ZDNET
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ###  ZDNET's key takeaways
 
@@ -83,10 +79,6 @@ My biggest challenge now is memorizing all the shortcuts I've created, but the a
 
 Clicks is available for the two iPhone 14 Pro models and all four models of the iPhone 15\. Availability of the various colors varies, so check back on the website if you don't see the one you want. I would love to hear which shortcuts you created and find the most useful, so leave a comment below.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qbuund2HKOQ?si=NaGHqIrx8hSL7gWV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##  ZDNET's buying advice
 
 The original iPhone launched when there were still phones with physical QWERTY keyboards, and now thanks to Clicks we are coming full circle with some well-designed analog functionality. Lots of lessons have been learned in the process, and the folks at Clicks truly brought their expertise and attention to detail with the design and build of the [Clicks Keyboard](https://www.clicks.tech/products/clicks-for-iphone-15?variant=48427566793019). It is now an essential accessory for me, and I continue to figure out ways to make it better on a regular basis.
@@ -123,17 +115,17 @@ If you miss the physical keyboard on devices like the Blackberry, this accessory
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-skills.techidaily.com/updated-megadatasky-affordable-space-for-big-files/"><u>[Updated] MegaDataSky - Affordable Space for Big Files</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/10-easy-to-use-frp-bypass-tools-for-unlocking-google-accounts-on-motorola-g24-power-by-drfone-android/"><u>10 Easy-to-Use FRP Bypass Tools for Unlocking Google Accounts On Motorola G24 Power</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/2024s-elite-iphones-unveiled-in-depth-expert-evaluations-and-rankings-zdnet/"><u>2024'S Elite iPhones Unveiled: In-Depth Expert Evaluations and Rankings | ZDNET</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/download-instructions-for-the-intel-wireless-ac-7260-device-driver-made-simple/"><u>Download Instructions for the Intel Wireless AC ^7260 Device Driver Made Simple</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/easy-steps-for-troubleshooting-iphones-how-to-get-inout-of-devices-recovery-state/"><u>Easy Steps for Troubleshooting iPhones: How to Get In/Out of Device's Recovery State</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/get-ahead-of-tech-trends-secure-your-apple-watch-series-10-before-release-plus-top-tips-for-discount-savings-zdnet/"><u>Get Ahead of Tech Trends: Secure Your Apple Watch Series 10 Before Release + Top Tips for Discount Savings | ZDNet</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/in-2024-easy-to-use-apps-for-idevice-screen-capturing/"><u>In 2024, Easy-to-Use Apps for iDevice Screen Capturing</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/in-2024-winning-strategies-for-win-11s-crashy-photos-app/"><u>In 2024, Winning Strategies for Win 11'S Crashy Photos App</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/maximize-productivity-and-adventure-wearing-state-of-the-art-xr-glasses-see-whats-new-in-our-latest-upgrades-recommendations-by-zdnet/"><u>Maximize Productivity and Adventure Wearing State-of-the-Art XR Glasses - See What's New in Our Latest Upgrades | Recommendations by ZDNET</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/seamlessly-syncing-apple-music-with-youtube-music-the-ultimate-transfer-strategy-for-subscribers-insights-from-zdnet/"><u>Seamlessly Syncing Apple Music with YouTube Music: The Ultimate Transfer Strategy for Subscribers - Insights From ZDNet</u></a></li>
-<li><a href="https://location-social.techidaily.com/set-your-preferred-job-location-on-linkedin-app-of-your-oppo-a79-5g-drfone-by-drfone-virtual-android/"><u>Set Your Preferred Job Location on LinkedIn App of your Oppo A79 5G | Dr.fone</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/1727787201089-top-rated-magsafe-accessories-comprehensive-reviews-by-tech-experts-zdnet/"><u>Top-Rated MagSafe Accessories : Comprehensive Reviews by Tech Experts - ZDNet</u></a></li>
+<li><a href="https://extra-information.techidaily.com/new-ace-voice-changer-apps-for-your-mobile-device/"><u>[New] Ace Voice-Changer Apps for Your Mobile Device</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-impact-of-visual-client-reviews-on-business-image/"><u>[New] Impact of Visual Client Reviews on Business Image</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-2024-approved-creative-conceptions-selecting-the-finest-10-free-macdrawers/"><u>[Updated] 2024 Approved Creative Conceptions Selecting the Finest 10 FREE MacDrawers</u></a></li>
+<li><a href="https://howto.techidaily.com/8-ultimate-fixes-for-google-play-your-nokia-130-music-isnt-compatible-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>8 Ultimate Fixes for Google Play Your Nokia 130 Music Isnt Compatible | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/best-android-data-recovery-retrieve-lost-photos-from-sony-xperia-10-v-by-fonelab-android-recover-photos/"><u>Best Android Data Recovery - Retrieve Lost Photos from Sony Xperia 10 V.</u></a></li>
+<li><a href="https://video-capture.techidaily.com/in-2024-comprehensive-skype-screencasting-with-obs/"><u>In 2024, Comprehensive Skype Screencasting with OBS</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-unlock-icloud-activation-lock-and-icloud-account-from-iphone-12-by-drfone-ios/"><u>In 2024, How to Unlock iCloud Activation Lock and iCloud Account From iPhone 12?</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/mac-users-guide-mastering-chatgpt-integration-and-usage/"><u>Mac Users Guide: Mastering ChatGPT Integration and Usage</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/maintaining-privacy-techniques-to-avoid-chatgpt-from-remembering-our-dialogues/"><u>Maintaining Privacy: Techniques to Avoid ChatGPT From Remembering Our Dialogues</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/master-the-art-of-text-based-roleplay-games-using-chatgpt-for-enhanced-user-experience/"><u>Master the Art of Text-Based Roleplay Games Using ChatGPT for Enhanced User Experience</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/microsoft-integrates-artificial-intelligence-into-bing-anticipated-outcomes/"><u>Microsoft Integrates Artificial Intelligence Into Bing: Anticipated Outcomes</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/the-essence-of-online-video-success-keywords-on-youtube-for-2024/"><u>The Essence of Online Video Success Keywords on YouTube for 2024</u></a></li>
 </ul></div>
 

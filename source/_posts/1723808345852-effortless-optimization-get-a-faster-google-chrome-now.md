@@ -1,7 +1,7 @@
 ---
 title: "Effortless Optimization: Get a Faster Google Chrome Now"
-date: 2024-08-15T20:08:50.821Z
-updated: 2024-08-16T20:08:50.821Z
+date: 2025-03-04T16:42:09.992Z
+updated: 2025-03-05T16:42:32.256Z
 tags:
   - win11
   - win10
@@ -81,9 +81,6 @@ a) get it through your Windows computer:
  Open a command prompt window, then type**ipconfig** and press Enter. Default Gateway from the result shows your router’s IP address.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/img_5c331742ed51d.jpg)
-<!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1872456/14483" target="_top" id="1872456"><img src="//a.impactradius-go.com/display-ad/14483-1872456" border="0" alt="" width="500" height="375"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872456/14483" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  b) get it through your Mac computer:Open Network in System Preferences, you’ll see your **router’s IP** there.
 
@@ -95,9 +92,6 @@ a) get it through your Windows computer:
  You may access the window that looks like this one:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/img_5c3327633bb2e.jpg)
-<!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002580&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/3_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF 2-Year Plan</a>
-<!-- affiliate ads end -->
 
  5)**Connect your Xbox One to the configured Wi-Fi router** .(Skip this step if your Xbox One has been already connected to the router.)
 
@@ -108,9 +102,6 @@ a) get it through your Windows computer:
 5-2) Click Network, then click Network settings on the right pane.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_599fd828a1cb4.png)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1">Power Tools add-on for Google Sheets, 12-month subscription</a>
-<!-- affiliate ads end -->
 
  5-3) Click Set up wireless network. Then proceed to follow the on-screen instructions to configure your Xbox One to connect to use the router.
 
@@ -130,24 +121,15 @@ a) get it through your Windows computer:
  a-1) Open Control Panel > Network and Sharing Center, then click Change adapter settings.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/img_5c3322be6ce67.jpg)
-<!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4535075&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/GU-500_672.png" border="0">Glary Utilities PRO -  Premium all-in-one utility to clean, speed up, maintain and protect your PC</a>
-<!-- affiliate ads end -->
 
  a-2) Right-click on your VPN to select Properties. Under the ‘Sharing’ tab, make sure ‘Allow other network users to connect through this computer’s internet connection’ is selected.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/img_5c3323106f846.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4572700&QTY=1&AFFILIATE=108875&CART=1"><img src="	https://www.tubedigger.com/wp-content/uploads/2020/08/tubedigger-software-new.png" border="0">TubeDigger - online video downloader from mostly any site</a>
-<!-- affiliate ads end -->
 
  b) If you’re using a**Mac computer** , go with the followings:  
  b-1) Go to System Preferences > Sharing. Then Select Internet Sharing.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/img_5c3323c40498f.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4550420&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/pic/f_02.jpg" border="0">PearlMountain Image Converter</a>
-<!-- affiliate ads end -->
 
  b-2) Select Wi-Fi from the drop-down menu of ‘Share your connection from’ and make sure Ethernet is ticked on from the ‘To computers using’ list. Then check the box to the left of Internet Sharing.
 
@@ -185,8 +167,6 @@ Enjoy playing Xbox One games!
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -194,4 +174,24 @@ Enjoy playing Xbox One games!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-glue.techidaily.com/new-rhythmic-resonance-the-ultimate-site-list-for-downloads-for-2024/"><u>[New] Rhythmic Resonance The Ultimate Site List for Downloads for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-generating-an-auto-subscribe-link-for-youtube/"><u>[Updated] In 2024, Generating an Auto-Subscribe Link for YouTube</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-sierras-premier-picks-1-to-5-editing-applications-reviewed/"><u>[Updated] Sierra's Premier Picks #1 to #5 Editing Applications Reviewed</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/approved-youtube-for-filmmakers-revolutionizing-visual-storytelling/"><u>2024 Approved Youtube for Filmmakers Revolutionizing Visual Storytelling</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/freeing-gpt-use-without-openai-accounts/"><u>Freeing GPT Use without OpenAI Accounts</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/guide-how-to-erase-your-presence-from-chatgpt/"><u>Guide: How to Erase Your Presence From ChatGPT</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/how-chatgpt-can-support-cognitive-behavioral-therapy-sessions/"><u>How ChatGPT Can Support Cognitive-Behavioral Therapy Sessions</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/how-does-predictive-ai-anticipate-future-trends-exploring-core-concepts/"><u>How Does Predictive AI Anticipate Future Trends? Exploring Core Concepts</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-change-gps-location-on-infinix-hot-30i-easily-and-safely-drfone-by-drfone-virtual-android/"><u>How to Change GPS Location on Infinix Hot 30i Easily & Safely | Dr.fone</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/how-to-safely-switch-protonvpns-login-credentials-and-identify-authentic-chatgpt-windows-software/"><u>How to Safely Switch ProtonVPN's Login Credentials & Identify Authentic ChatGPT Windows Software</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/how-to-stop-chatgpt-from-saving-your-conversations/"><u>How to Stop ChatGPT From Saving Your Conversations</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/inside-look-the-complete-breakdown-of-apples-ai-advancements-unveiled-at-wwdc-2024/"><u>Inside Look: The Complete Breakdown of Apple's AI Advancements Unveiled at WWDC 2024</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/is-microsofts-chatgpt-down-find-out-with-these-5-quick-checks/"><u>Is Microsoft's ChatGPT Down? Find Out With These 5 Quick Checks</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/new-essential-sound-editing-apps-for-mobile-iphone-and-ipad-edition-2023-edition/"><u>New Essential Sound Editing Apps for Mobile IPhone & iPad Edition, 2023 Edition</u></a></li>
+<li><a href="https://win-forum.techidaily.com/the-big-four-of-digital-connectivity-unveiling-facebook-twitter-instagram-youtube/"><u>The Big Four of Digital Connectivity: Unveiling Facebook, Twitter, Instagram, YouTube</u></a></li>
+<li><a href="https://win-exclusive.techidaily.com/windows-10-vmwindows-11/"><u>Windows 10 VMからWindows 11へのスムーズなアップグレード手順</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/zdnet-highlights-top-5-innovations-in-5g-and-edge-technology-poised-to-shape-our-future/"><u>ZDNet Highlights Top 5 Innovations in 5G and Edge Technology Poised to Shape Our Future</u></a></li>
+</ul></div>
 

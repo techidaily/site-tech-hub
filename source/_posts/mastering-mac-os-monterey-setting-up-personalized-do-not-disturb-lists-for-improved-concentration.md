@@ -1,7 +1,7 @@
 ---
 title: "Mastering Mac OS MONTEREY: Setting Up Personalized Do Not Disturb Lists for Improved Concentration"
-date: 2025-02-13T20:33:31.134Z
-updated: 2025-02-16T17:48:26.094Z
+date: 2025-03-03T19:41:34.654Z
+updated: 2025-03-05T16:39:06.102Z
 tags:
   - apple
 categories:
@@ -26,23 +26,11 @@ So, how do you create this custom Flow? Let me show you. All you'll need to make
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Create a custom Focus
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Wy0uYNNdMDM?si=5ir7EHlr0CkpcYOT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 1\. Open System Preferences
 
 Click on the Apple menu in the top left corner of your desktop. From the resulting pop-up menu, click System Preferences.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 2\. Access Notifications & Focus
 
@@ -52,10 +40,6 @@ In the System Preferences window (**Figure 1**), click Notifications & Focus.
 
 Image: Jack Wallen
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 3\. Open the Focus tab
 
 Once Notifications & Focus is opened, click the Focus tab (**Figure 2**).
@@ -63,10 +47,6 @@ Once Notifications & Focus is opened, click the Focus tab (**Figure 2**).
 **Figure 2:** You'll find a single pre-configured Focus for Do Not Disturb already available.
 
 Image: Jack Wallen
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 4\. Create the new Focus
 
@@ -140,22 +120,17 @@ Use this new Focus feature wisely, and it will help you be more productive while
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-blue.techidaily.com/updated-2024-approved-mastering-the-art-of-design-10-secrets-for-podcast-imagery/"><u>[Updated] 2024 Approved Mastering the Art of Design 10 Secrets for Podcast Imagery</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/ed-in-2024-stabilize-your-lens-no-trips-only-tricks/"><u>[Updated] In 2024, Stabilize Your Lens No Trips, Only Tricks</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/ed-incorporating-brand-identity-adding-logos-to-youtube-videos/"><u>[Updated] Incorporating Brand Identity Adding Logos to YouTube Videos</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/10-best-webcams-a-buyers-guide/"><u>10 Best Webcams | A Buyer’s Guide</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/apples-approach-to-sideloaded-applications-on-iphone-fees-and-rigorous-reviews-unveiled-analysis/"><u>Apple's Approach to Sideloaded Applications on iPhone: Fees and Rigorous Reviews Unveiled | Analysis</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/apples-strategic-leap-in-artificial-intelligence-exploring-the-functionality-of-its-new-models-as-featured-by-zdnet/"><u>Apple's Strategic Leap in Artificial Intelligence: Exploring the Functionality of Its New Models, as Featured by ZDNet</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/challenging-apples-upgrade-pressure-my-journey-in-resisting-the-iphone-refresh-cycle-insights/"><u>Challenging Apple's Upgrade Pressure: My Journey in Resisting the iPhone Refresh Cycle Insights</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/chatgpt-secrets-for-developing-persuasive-business-proposals-that-close-deals/"><u>ChatGPT Secrets for Developing Persuasive Business Proposals That Close Deals</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/memorial-day-sale-save-big-on-the-apple-watch-se-a-review-of-my-top-tech-buy/"><u>Memorial Day Sale: Save Big on the Apple Watch SE - A Review of My Top Tech Buy</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/new-in-2024-unleash-your-creativity-a-comprehensive-guide-to-using-wax-for-free-video-editing/"><u>New In 2024, Unleash Your Creativity A Comprehensive Guide to Using Wax for Free Video Editing</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/shorten-videos-for-instagram-a-mac-guide/"><u>Shorten Videos for Instagram A Mac Guide</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/starting-off-determining-your-creative-passion-for-2024/"><u>Starting Off Determining Your Creative Passion for 2024</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/top-current-savings-on-amazon-august-2024-exclusive-offers/"><u>Top Current Savings on Amazon - August 2024 Exclusive Offers</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/top-rated-headphones-on-sale-in-march-2024-exclusive-offers/"><u>Top Rated Headphones on Sale in March 2024: Exclusive Offers</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/top-ranking-magsafe-wallets-comprehensive-reviews-by-tech-experts-gizmotech/"><u>Top-Ranking MagSafe Wallets : Comprehensive Reviews by Tech Experts | GizmoTech</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/top-rated-keyboards-of-2024-featured-and-evaluated-by-tech-gurus-insights/"><u>Top-Rated Keyboards of 2024 Featured & Evaluated by Tech Gurus Insights</u></a></li>
-<li><a href="https://windows11.techidaily.com/win11s-unnecessary-filler-heres-how-to-tackle-it/"><u>Win11's Unnecessary Filler? Here’s How To Tackle It</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/rom-fandom-to-fame-gamers-livestream-success-strategies/"><u>[New] From Fandom to Fame Gamers' Livestream Success Strategies</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-in-2024-unlocking-the-power-of-imagery-in-podcast-art/"><u>[New] In 2024, Unlocking the Power of Imagery in Podcast Art</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/updated-beginners-blueprint-to-blend-brighten-and-balance/"><u>[Updated] Beginner's Blueprint to Blend, Brighten & Balance</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-glow-up-guide-3-masterful-instagram-highlight-tricks-for-2024/"><u>[Updated] Glow-Up Guide 3 Masterful Instagram Highlight Tricks for 2024</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-instagram-film-to-mp3-conversion-tactics-for-2024/"><u>[Updated] Instagram Film to MP3 Conversion Tactics for 2024</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/exploring-the-bert-model-a-deep-dive-into-nlp-innovations-beyond-gpt/"><u>Exploring the BERT Model: A Deep Dive Into NLP Innovations Beyond GPT</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/exploring-the-capabilities-of-shap-e-in-explainable-ai-by-openai/"><u>Exploring the Capabilities of Shap-E in Explainable AI by OpenAI</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/exploring-the-origins-tracing-back-the-birth-of-artifice-intelligence/"><u>Exploring the Origins: Tracing Back the Birth of Artifice Intelligence</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/future-of-employment-can-chatgpt-and-similar-technologies-replace-your-job/"><u>Future of Employment: Can ChatGPT and Similar Technologies Replace Your Job?</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/future-of-work-the-impact-of-generative-ai-on-job-landscape/"><u>Future of Work: The Impact of Generative AI on Job Landscape</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-remove-a-previously-synced-google-account-from-your-oppo-reno-9a-by-drfone-android/"><u>How to Remove a Previously Synced Google Account from Your Oppo Reno 9A</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/the-2019-evolution-of-vegaspro-for-2024/"><u>The 2019 Evolution of VegasPro for 2024</u></a></li>
 </ul></div>
 

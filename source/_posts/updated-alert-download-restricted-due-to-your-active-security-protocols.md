@@ -1,7 +1,7 @@
 ---
 title: "Updated Alert: Download Restricted Due To Your Active Security Protocols"
-date: 2024-08-15T20:12:08.710Z
-updated: 2024-08-16T20:12:08.710Z
+date: 2025-03-02T19:39:06.179Z
+updated: 2025-03-05T16:50:03.219Z
 tags:
   - win11
   - win10
@@ -39,9 +39,6 @@ thumbnail: https://thmb.techidaily.com/24c0edcba484cab644836ae0bb31bb9d7220262ab
 
  4) Wait for the troubleshooting process to finish. Then follow its instructions to try and fix your Arc mouse not working problem.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4531356&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8fdd149fcaa7058caccc9c4ad5b0d89a/products/tss-box.JPG" border="0">The Tube Sites Submitter is a fast and efficient tool for anyone who needs to upload videos quickly, easily and automatically to hundreds of tube sites in mere minutes . </a>
-<!-- affiliate ads end -->
 ## **Fix 2: Modify Power Management Settings**
 
 **NOTE** : The following method works only on Bluetooth Arch mouse.
@@ -49,9 +46,6 @@ thumbnail: https://thmb.techidaily.com/24c0edcba484cab644836ae0bb31bb9d7220262ab
  1) Press**Windows key** and**X** at the same time, then choose**Device Manager** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/04/img_58f6e1d72d8f0.png)
-<!-- affiliate ads begin -->
-<a href="https://store.advancedwebranking.com/order/checkout.php?PRODS=4715051&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/14edc6ebfdae2e23bbed83d67f50e983/products/33_awr%20logo.png" border="0"></a>
-<!-- affiliate ads end -->
 
 2) Expand the category **Mice and other pointing devices** .
 
@@ -60,23 +54,13 @@ thumbnail: https://thmb.techidaily.com/24c0edcba484cab644836ae0bb31bb9d7220262ab
  3) Right click the device name and choose**Properties.**
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/04/img_58f6e3d5bf031.jpg)
-<!-- affiliate ads begin -->
-<a href="https://lightailing.sjv.io/c/5597632/1725213/17190" target="_top" id="1725213"><img src="//a.impactradius-go.com/display-ad/17190-1725213" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1725213/17190" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  4) Go to**Power Management** tab, and make sure the**Allow the computer to turn off his device to save power** option is**unchecked** and then click**OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/09/allow-the-computer-to-turn-off-his-device-to-save-power.png)
-<!-- affiliate ads begin -->
-<a href="https://engwe.pxf.io/c/5597632/2093504/25579" target="_top" id="2093504"><img src="//a.impactradius-go.com/display-ad/25579-2093504" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2093504/25579" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 5) Reboot your computer. See if this problem occurs again.
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296985&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9cea886b9f44a3c2df1163730ab64994/products/copy_nero_burning_rom_cart.png" border="0">
-</a>
-<!-- affiliate ads end -->
 ## **Fix 3: Update Your Mouse Driver**
 
  When it comes to updating mouse driver, you can always choose from download and update drivers by yourself or do it automatically.
@@ -92,9 +76,6 @@ thumbnail: https://thmb.techidaily.com/24c0edcba484cab644836ae0bb31bb9d7220262ab
  2) Run Driver Easy and click**Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/05/Driver-Easy-Scan.jpg)
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BEditor%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/6d3207fd-9f15-4c21-f0ad-59c68e6a7e2a.png" border="0"></a>
-<!-- affiliate ads end -->
 
  3) Click the**Update** button next to a flagged driver to automatically download and install the correct version of this driver (you can do this with the FREE version).
 
@@ -121,8 +102,6 @@ thumbnail: https://thmb.techidaily.com/24c0edcba484cab644836ae0bb31bb9d7220262ab
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -130,4 +109,26 @@ thumbnail: https://thmb.techidaily.com/24c0edcba484cab644836ae0bb31bb9d7220262ab
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-easy-to-use-games-recorders-ranked-no-1-10/"><u>[New] Easy-to-Use Games Recorders Ranked No. 1-10</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-in-2024-quick-guide-to-troubleshoot-instagram-videos/"><u>[New] In 2024, Quick Guide to Troubleshoot Instagram Videos</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-in-2024-from-front-to-back-a-step-by-step-guide-to-angled-photography-on-social-platforms/"><u>[Updated] In 2024, From Front to Back A Step-by-Step Guide to Angled Photography on Social Platforms</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/does-samsung-galaxy-a25-5g-has-native-mov-support-by-aiseesoft-video-converter-play-mov-on-android/"><u>Does Samsung Galaxy A25 5G has native MOV support?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/effortless-transfer-and-itunes-drm-stripping-tips-for-your-favorite-mood-boosting-content/"><u>Effortless Transfer and iTunes DRM Stripping Tips for Your Favorite Mood-Boosting Content</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/hassle-free-bavarder-launch-on-linux-systems/"><u>Hassle-Free Bavarder Launch on Linux Systems</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/insights-how-artificial-intelligence-is-transforming-developers-work-methods/"><u>Insights: How Artificial Intelligence Is Transforming Developer's Work Methods</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/leveraging-chatgpt-for-high-quality-user-persona-generation-techniques/"><u>Leveraging ChatGPT for High-Quality User Persona Generation Techniques</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/mastering-chatgpt-prompts-avoid-these-6-critical-errors-for-optimal-results/"><u>Mastering ChatGPT Prompts: Avoid These 6 Critical Errors for Optimal Results</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/mastering-personalized-instructions-five-key-techniques-for-chatgpt-success/"><u>Mastering Personalized Instructions: Five Key Techniques for ChatGPT Success</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/navigating-the-future-of-ai-ethics-and-regulation-with-insights-from-openais-top-executive/"><u>Navigating the Future of AI Ethics and Regulation with Insights From OpenAI’s Top Executive</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/navigating-the-pitfalls-of-bingchatgpt-token-schemes-a-guide-to-recognizing-fraudulent-cryptocurrencies/"><u>Navigating the Pitfalls of BingChatGPT Token Schemes: A Guide to Recognizing Fraudulent Cryptocurrencies</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/new-horizons-in-conversational-ai-chatgpts-exciting-latest-developments-revealed/"><u>New Horizons in Conversational AI: ChatGPT's Exciting Latest Developments Revealed!</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/no-real-chatgpt-client-exists-for-windows-dont-fall-victim-to-malware-disguised-alternatives/"><u>No Real ChatGPT Client Exists for Windows; Don't Fall Victim to Malware-Disguised Alternatives!</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/not-on-board-with-waiting-for-chatgpt-embrace-this-superb-free-open-source-solution-now/"><u>Not on Board with Waiting for ChatGPT? Embrace This Superb Free, Open-Source Solution Now</u></a></li>
+<li><a href="https://driver-error.techidaily.com/nvidia-detection-problem-in-win-oses/"><u>Nvidia Detection Problem in WIN OSes</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/egies-for-full-time-workers-who-create-videos/"><u>Strategies for Full-Time Workers Who Create Videos</u></a></li>
+<li><a href="https://win11.techidaily.com/taskbar-transformation-in-windows-history-1985-2023/"><u>Taskbar Transformation in Windows History (1985-2023)</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/the-blueprint-for-thriving-on-instagrams-crowd-for-2024/"><u>The Blueprint for Thriving on Instagram's Crowd for 2024</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Effortless Steps to Snapping Screenshot on Your Desktop
-date: 2024-08-15T20:10:49.869Z
-updated: 2024-08-16T20:10:49.869Z
+date: 2025-02-28T16:26:18.427Z
+updated: 2025-03-05T17:05:38.793Z
 tags:
   - win11
   - win10
@@ -23,9 +23,6 @@ Want to show your Windows screen to your friends on chat windows like Slack? Wan
 2. [Screenshot your single active window](https://tools.techidaily.com/drivereasy/download/)
 3. [Screenshot any part of your screen](https://tools.techidaily.com/drivereasy/download/)
 
-<!-- affiliate ads begin -->
-<a href="https://natural-cycles.sjv.io/c/5597632/2072200/17885" target="_top" id="2072200"><img src="//a.impactradius-go.com/display-ad/17885-2072200" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072200/17885" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Way 1: Screenshot your full screen
 
  If you want to screenshot your full screen, the most recommended way is to **press the PrtSc key**  on your keyboard. The PrtSc key allows you to **capture your full screen** on all versions of Windows.  1) Let your Windows display the screen you want to screenshot.  2) On your keyboard (usually on the first right line), press the **PrtSc** key. This key  may show as **Print Screen** , **PrtScn** , **PrtScr**  varying from different keyboards.
@@ -41,30 +38,15 @@ Want to show your Windows screen to your friends on chat windows like Slack? Wan
 ### Pro tip
 
  If you’re using Windows 8 or Windows 10, and you want to save your Windows screenshot, you can do that much faster. **Here’s how:**  Let Windows shows the screen you want to save, then on your keyboard, press the **Windows logo key** ![](https://images.drivereasy.com/wp-content/uploads/2018/04/img_5adee6ae232d5.png) and **PrtSc**  key at the same time. Your Windows screen will then be saved as an image automatically. You can find the image in the Screenshots folder of Pictures: ![](https://images.drivereasy.com/wp-content/uploads/2018/04/folder.png)
-<!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=14095146&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8b6cc3ee5ec407721ce3bf5ff4c0f56b/PRO_BUY_728x90-EN.jpg" border="0"></a>
-<!-- affiliate ads end -->
 
-<!-- affiliate ads begin -->
-<a href="https://cowinaudio.pxf.io/c/5597632/1116855/13794" target="_top" id="1116855"><img src="//a.impactradius-go.com/display-ad/13794-1116855" border="0" alt="" width="767" height="285"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1116855/13794" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Way 2: Screenshot your single active window
 
  If you just would like to screenshot your current active window instead of a full screen, it’s also easy to do:  Go to any window you want to print, then press **Alt** and **PrtSc**  at the same time on your keyboard. Now you have the screenshot of your active window on your clipboard. ![](https://images.drivereasy.com/wp-content/uploads/2018/04/Snap17.png)  Now you can paste the picture on your chat windows or on Paint to save it by pressing the **Ctrl** and **V** keys at the same time.
-<!-- affiliate ads begin -->
-<a href="https://lightailing.sjv.io/c/5597632/1725213/17190" target="_top" id="1725213"><img src="//a.impactradius-go.com/display-ad/17190-1725213" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1725213/17190" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Way 3: Screenshot any part of your screen
 
  If you like to share just a part of your screen, use the built-in Snipping Tool on Windows. Here’s how:  1) Go to the window you want to screenshot. 2) Type **snipping**  in the search box from the Start menu. Then click **Snipping Tool** on the top. ![](https://images.drivereasy.com/wp-content/uploads/2018/04/snipping-tool.png)  3) You should then see the small Snipping Tool window. Click **N** **ew** . ![](https://images.drivereasy.com/wp-content/uploads/2018/04/New.png)  4) Use the pop-up ![](https://images.drivereasy.com/wp-content/uploads/2018/04/pasted-image-0.png)  to capture any part of your screen you want to share or save.  5) The screen you capture will then show on the Snipping Tool window.  You can directly paste it on your chat windows or save it on Snipping tool via **File > Save as…**
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=22741618&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.diskpart.com/resource/images/index/dp-index-img-banner-people@2x.png" border="0">Easy and Safe Partition Software & Hard Disk Manager</a>
-<!-- affiliate ads end -->
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2201613&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macdvdripperpro.com/images/devices-3.png" border="0"></a>
-<!-- affiliate ads end -->
 ## Pro tip
 
  If you’re using Windows 10, there’s a new feature — **Delay**  on Snipping Tool allowing you to go to the screen you want to capture after you click the **N** **ew** icon within the time you set. ![](https://images.drivereasy.com/wp-content/uploads/2018/04/Delay.png)  Voila! So easy to screenshot on Windows. Don’t hesitate to post your comment for any question or, if you have any other amazing tip to take a screenshot, time to share with us. Thanks in advance.
@@ -77,8 +59,6 @@ Want to show your Windows screen to your friends on chat windows like Slack? Wan
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -86,4 +66,19 @@ Want to show your Windows screen to your friends on chat windows like Slack? Wan
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-share.techidaily.com/new-in-2024-crafting-a-narrative-template-for-online-educational-videos/"><u>[New] In 2024, Crafting a Narrative Template for Online Educational Videos</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-premium-stabilizers-iphone-android-and-professional-choices-1-10/"><u>[Updated] Premium Stabilizers IPhone, Android, and Professional Choices #1-10</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-the-elite-club-of-youtubes-favorite-shorter-videos-for-2024/"><u>[Updated] The Elite Club of YouTube's Favorite Shorter Videos for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-top-10-innovative-ai-based-podcast-name-generators/"><u>[Updated] Top 10 Innovative AI-Based Podcast Name Generators</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/beware-these-5-dangers-navigating-chatgpt-safely-and-smartly/"><u>Beware These 5 Dangers: Navigating ChatGPT Safely and Smartly</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/boost-your-excel-skills-using-chatgpt-for-a-hassle-free-experience/"><u>Boost Your Excel Skills Using ChatGPT for a Hassle-Free Experience</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/breaking-barriers-connect-with-chatgpt-from-anywhere/"><u>Breaking Barriers: Connect with ChatGPT From Anywhere</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/can-ai-enable-real-time-smart-home-adjustments/"><u>Can AI Enable Real-Time Smart Home Adjustments?</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/can-artificial-intelligence-be-funny-exploring-chatgpts-ability-to-create-humor/"><u>Can Artificial Intelligence Be Funny? Exploring ChatGPT's Ability to Create Humor</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-best-3-software-to-transfer-files-tofrom-your-vivo-y100a-via-a-usb-cable-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Best 3 Software to Transfer Files to/from Your Vivo Y100A via a USB Cable | Dr.fone</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/installing-logitech-t630-driver-on-your-windows-laptop-windows-7810/"><u>Installing Logitech T630 Driver on Your Windows Laptop (Windows 7/8/10)</u></a></li>
+<li><a href="https://techtrends.techidaily.com/unveiling-a-revolutionary-all-in-one-charging-solution-for-ios-enthusiasts-as-featured/"><u>Unveiling a Revolutionary All-in-One Charging Solution for iOS Enthusiasts, as Featured</u></a></li>
+</ul></div>
 

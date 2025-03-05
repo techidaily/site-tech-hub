@@ -1,7 +1,7 @@
 ---
 title: "Ultimate Guide to Supercharged Productivity: Tools and Strategies That Transform Daily Workflow Wisdom"
-date: 2025-02-10T17:53:18.909Z
-updated: 2025-02-17T00:21:37.051Z
+date: 2025-03-03T16:17:25.321Z
+updated: 2025-03-05T17:49:45.783Z
 tags:
   - apple
 categories:
@@ -24,10 +24,6 @@ Before I take you through both the tools and my "process," let me point out that
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### See also
 
 [The 6 best to-do list apps: Get organized What is the best to-do list app? Any.do! But ZDNet reviewed all the top picks to help you organize and liberate your life.  Read now](https://www.zdnet.com/article/best-to-do-list-app/)
@@ -35,10 +31,6 @@ Before I take you through both the tools and my "process," let me point out that
 Today, I coordinate with teams, rather than manage them. I have students rather than employees. I research projects rather than launch products. My daily productivity flow reflects the changes in career as I've evolved from founder to advisor, manager to professor, and publisher to columnist. 
 
 I use a tremendous number of tools for my projects, and they often change from project to project. But what I'm going to discuss here are the tools I use on a daily basis to manage my "flow". 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c-BHGGIC0zE?si=FzUQKZa-bx8OlKuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## What do I mean by my flow?
 
@@ -120,10 +112,6 @@ Part of my morning flow is posting to the social networks. Unfortunately, this h
 
 But Facebook broke that. Facebook no longer allows tools like Buffer and [Hootsuite](https://hootsuite.com/) to to post to personal Facebook pages. I've spent years building up my personal Facebook page following and don't want to start a corporate page (or orphan all my followers), so when Facebook broke auto-posting, it hurt. Now, I hand post to Twitter and then do it again on Facebook. LinkedIn gets a lot less attention, and, frankly, I post less frequently. 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Featured reviews
 
 * [One of the best smart thermostats I've tested is not made by Ecobee or Amazon](https://www.zdnet.com/article/one-of-the-best-smart-thermostats-ive-tested-is-not-made-by-ecobee-or-amazon/)
@@ -138,10 +126,6 @@ Rinse, wash, repeat.
 I'm relatively holistic about my morning reading process. I do it until I'm bored or hungry, or feel like switching gears and moving on to managing my email and schedule. 
 
 The key point to all of this is that ever since I moved to this Pocket-read-post-archive cycle for my daily reading, my productivity and flexibility has gone up tremendously. I'm getting more done, and the quality of the process is far more pleasant. I'm no longer tied to my desktop browser, because all of these tools work on all my devices. 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Connecting and scheduling
 
@@ -188,10 +172,6 @@ By the way, this is also a great way to think about users, which I initially was
 
 Here's another little trick I use: I get a lot of feature requests (which I call "cool feature ideas") from the plugin users. The go into [the bug tracking system I manage in Notion](https://www.zdnet.com/article/notion-app-review/).
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Nl0Z0eth1u4?si=0eecOBNfc--51AJO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## To-doing my to-do list
 
 By this point, I'm usually most of the way through the morning. My email has been processed and actions have been moved to my to-do list and schedule items to my calendar. I've done a considerable amount of reading, and I'm up to speed on the various issues I'm responsible for following. I've graded students and supported users (and added any bugs or key follow-up items to my to-do list). 
@@ -221,10 +201,6 @@ Notion is also available on Android and iOS as well as web platforms, so once ag
 I've set up a bunch of Notion pages and all the items that "should be on the list" but aren't actionable this week or next go onto a Notion. I regularly dig into those pages, particularly when I'm working on a corresponding project, and pull items from the page and assign them to Todoist -- but only if I intend to work on them right away, that week. 
 
 That, by the way, is the entire key to keeping your to-do list under control. If you actually intend to do an item within a reasonably short period of time, put it on your to-do list. If you expect to do it someday, it's not a to-do list item, not an actionable item, and you should write them on another list somewhere. I use Trello for that. 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### **ZDNET** Recommends
 
@@ -275,16 +251,21 @@ _You can follow my day-to-day project updates on social media. Be sure to follow
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/new-audio-enhancement-for-online-video-creators-for-2024/"><u>[New] Audio Enhancement for Online Video Creators for 2024</u></a></li>
-<li><a href="https://fox-http.techidaily.com/new-polar-prowess-highlighting-the-elite-of-snowboard-cross-winter-games/"><u>[New] Polar Prowess Highlighting the Elite of Snowboard Cross, Winter Games</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/new-screenshot-expertise-checker/"><u>[New] ScreenShot Expertise Checker</u></a></li>
-<li><a href="https://article-tips.techidaily.com/updated-in-2024-vida-unveiled-a-gateway-to-professional-video-craftsmanship/"><u>[Updated] In 2024, Vida Unveiled A Gateway to Professional Video Craftsmanship</u></a></li>
-<li><a href="https://win-web.techidaily.com/7windows-11-23h2/"><u>7効果的な手順でWindows 11 バージョン23H2のインストール中に発生する一般的なエラーを解決</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/boosting-dungeons-and-dragons-adventures-with-chatgpt-expert-strategies/"><u>Boosting Dungeons & Dragons Adventures with ChatGPT: Expert Strategies</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/directing-car-alterations-with-gpt-involvement/"><u>Directing Car Alterations with GPT Involvement</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/gpt-4o-brings-gpt-4-to-everyone-and-this-is-how-it-works/"><u>GPT-4o Brings GPT-4 to Everyone, and This Is How It Works</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/how-proficient-is-chatgpt-at-making-drinks/"><u>How Proficient Is ChatGPT at Making Drinks?</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/in-2024-seamless-igtv-and-fb-sharing-guide/"><u>In 2024, Seamless IGTV and FB Sharing Guide</u></a></li>
-<li><a href="https://driver-download.techidaily.com/quick-setup-tutorials-for-brother-mfc7360n-drivers-on-windows-1187-get-your-perfect-printouts/"><u>Quick Setup Tutorials for Brother MFC7360N Drivers on Windows 11/8/7: Get Your Perfect Printouts!</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-2024-approved-overcoming-shyness-in-the-spotlight-top-video-blogger-fears/"><u>[Updated] 2024 Approved Overcoming Shyness in the Spotlight Top Video Blogger Fears</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-expert-iphone-camera-settings-simplified/"><u>[Updated] Expert iPhone Camera Settings Simplified</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-skys-best-hd-pics-top-website-guide/"><u>[Updated] Sky's Best HD Pics Top Website Guide</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/conversing-cars-into-customization-masterpieces-via-chatgpt/"><u>Conversing Cars Into Customization Masterpieces via ChatGPT</u></a></li>
+<li><a href="https://discover-awesome.techidaily.com/corrupt-driver-file-solutions-and-tips-by-experts-at-yl-software/"><u>Corrupt Driver File Solutions & Tips by Experts at YL Software</u></a></li>
+<li><a href="https://fox-access.techidaily.com/crafting-clear-accessible-podcast-xml-files-for-listeners/"><u>Crafting Clear, Accessible Podcast XML Files for Listeners</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/deep-learning-for-chatbot-conversational-mimicry/"><u>Deep Learning for Chatbot Conversational Mimicry</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/demystifying-transfer-learning-within-ai-technologies-what-you-need-to-know/"><u>Demystifying Transfer Learning Within AI Technologies: What You Need to Know</u></a></li>
+<li><a href="https://win11.techidaily.com/disabling-nonessential-services-a-guide-to-safer-windows-11-management/"><u>Disabling Nonessential Services: A Guide to Safer Windows 11 Management</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/discover-the-ultimate-ai-powered-note-taking-tools-the-leading-six-picks/"><u>Discover the Ultimate AI-Powered Note-Taking Tools: The Leading Six Picks</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/effortless-integration-of-chatgpt-into-your-linux-environment/"><u>Effortless Integration of ChatGPT Into Your Linux Environment</u></a></li>
+<li><a href="https://common-error.techidaily.com/enhanced-fixes-when-system-resources-are-overstretched/"><u>Enhanced Fixes When System Resources Are Overstretched</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/experience-more-for-less-diving-into-the-features-of-caixuns-cost-effective-4k-75-inch-android-tv/"><u>Experience More for Less: Diving Into the Features of Caixun’s Cost-Effective 4K 75-Inch Android TV</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/gaining-an-edge-in-the-marketplace-with-ai-companion-gpt/"><u>Gaining an Edge in the Marketplace with AI Companion, GPT</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/googles-gemini-initiative-unveiling-the-mystery-behind-its-current-objectives/"><u>Google's Gemini Initiative: Unveiling the Mystery Behind Its Current Objectives</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-here-are-some-of-the-best-pokemon-discord-servers-to-join-on-vivo-v27e-drfone-by-drfone-virtual-android/"><u>In 2024, Here are Some of the Best Pokemon Discord Servers to Join On Vivo V27e | Dr.fone</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Customizing & Streamlining Your MacOS Sonoma Menu Bar - Expert Tips
-date: 2025-02-10T00:05:26.589Z
-updated: 2025-02-16T17:07:47.425Z
+date: 2025-02-27T17:07:12.504Z
+updated: 2025-03-05T17:35:08.352Z
 tags:
   - apple
 categories:
@@ -28,25 +28,13 @@ Those sneaky little earbuds can walk away from us, but luckily the AirPods have 
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## How to find your lost AirPods
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 1\. Set up Find My ASAP
 
 Nina Raemont/ZDNET
 
 First and foremost, set up Find My. Find My, one of the native apps on your iPhone and iPad, will become your best friend when you begin a search for lost devices like AirPods or Apple Watches. Note: You'll want to set up Find My as soon as possible, because you can't locate your AirPods through Find My _after_ you've lost them. If your AirPods are already set up on Find My, go to the next step. 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/umvX4ZdWbxk?si=tPXL0-Kzf9SQaY8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 2\. Open Find My
 
@@ -60,17 +48,9 @@ Nina Raemont/ZDNET
 
 Click the Play Sound feature to locate your earbuds. You'll hear a ringing sound near you. It's important to know that at least one of the two earbuds must be out of its charging case or it won't play a sound. You can play sound for the left and right earbuds by tapping L or R. Once you've found them, you can hit stop. 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Will this work if I've lost my AirPods while they're in the charging case?
 
 If you've lost your AirPods while they're in the charging case, it gets harder to locate them on Find My.The Find My map will show the most recent location where the case was last opened, but won't be updated to their current location if they've been moved since they were last used.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Can you locate AirPods that aren't online?
 
@@ -106,15 +86,16 @@ Unfortunately, no. They need to be online and connected to Find My to easily loc
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://desktop-recording.techidaily.com/updated-achieving-clear-dialogue-in-google-hangouts-for-2024/"><u>[Updated] Achieving Clear Dialogue in Google Hangouts for 2024</u></a></li>
-<li><a href="https://windows11.techidaily.com/converting-ical-data-for-smooth-windows-11-use/"><u>Converting iCal Data for Smooth Windows 11 Use</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-hassle-free-ways-to-remove-frp-lock-from-meizu-21-phones-withwithout-a-pc-by-drfone-android/"><u>In 2024, Hassle-Free Ways to Remove FRP Lock from Meizu 21 Phones with/without a PC</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-top-apps-and-online-tools-to-track-tecno-camon-20-phone-withwithout-imei-number-by-drfone-android/"><u>In 2024, Top Apps and Online Tools To Track Tecno Camon 20 Phone With/Without IMEI Number</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/in-2024-which-pokemon-can-evolve-with-a-moon-stone-for-realme-narzo-60x-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Which Pokémon can Evolve with a Moon Stone For Realme Narzo 60x 5G? | Dr.fone</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/potential-overhaul-on-the-horizon-for-apples-economy-series-se-timepiece-insider-scoop-tech-news-today/"><u>Potential Overhaul on the Horizon for Apple's Economy Series SE Timepiece - Insider Scoop | Tech News Today</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/209846367-9781911134183-quareia-the-adept/"><u>Quareia The Adept | Free Book</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/stop-spam-on-your-iphone-now-master-these-3-simple-strategies-to-secure-your-messages-insider-tips/"><u>STOP SPAM ON YOUR IPHONE NOW! Master These 3 Simple Strategies to Secure Your Messages Insider Tips</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/this-title-emphasizes-immediate-access-and-provides-a-guide-which-is-what-users-may-be-looking-for-it-also-includes-keywords-like-macos-15-sequoia-preview-a75/"><u>This Title Emphasizes Immediate Access and Provides a Guide, Which Is What Users May Be Looking For. It Also Includes Keywords Like macOS 15 Sequoia, Preview, and Free Download to Improve SEO Rankings on Google Search Engine.</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/why-you-should-embrace-the-latest-apple-innovations-with-iphone-16-unveiling-zdnets-select-top-4-features/"><u>Why You Should Embrace the Latest Apple Innovations with iPhone 16 - Unveiling ZDNet's Select Top 4 Features</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-discover-the-world-from-above-xiaomis-4k-flight-diary/"><u>[New] Discover the World From Above - Xiaomi's 4K Flight Diary</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-in-2024-essential-tips-convert-and-download-vimeo-hd-to-mp4/"><u>[New] In 2024, Essential Tips Convert and Download Vimeo HD to MP4</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-unveiling-costless-creativity-a-deep-dive-into-best-luts/"><u>[New] Unveiling Costless Creativity A Deep Dive Into Best LUTs</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-unveiling-the-best-lipos-a-drone-buyers-bible/"><u>[New] Unveiling the Best LiPos - A Drone Buyer's Bible</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-2024-approved-understanding-igs-evolution-reels-vs-stories/"><u>[Updated] 2024 Approved Understanding IG's Evolution Reels vs Stories</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/leveraging-the-limitless-an-overview-of-openais-api-potential/"><u>Leveraging the Limitless: An Overview of OpenAI’s API Potential</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/master-your-jotting-game-with-these-6-leading-ai-notes-applications/"><u>Master Your Jotting Game with These 6 Leading AI Notes Applications</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/navigating-the-nightshade-method-for-artwork-defense-against-ai/"><u>Navigating the Nightshade Method for Artwork Defense Against AI</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/protect-your-system-why-ai-generated-windows-11-codes-are-not-recommended/"><u>Protect Your System: Why AI-Generated Windows 11 Codes Are Not Recommended</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/the-ultimate-guide-to-pc-components-by-toms-hardware-authority/"><u>The Ultimate Guide to PC Components by Tom's Hardware Authority</u></a></li>
+<li><a href="https://common-error.techidaily.com/windows-10-maintenance-made-easy-with-resetrefresh-options/"><u>Windows 10 Maintenance Made Easy with Reset/Refresh Options</u></a></li>
 </ul></div>
 

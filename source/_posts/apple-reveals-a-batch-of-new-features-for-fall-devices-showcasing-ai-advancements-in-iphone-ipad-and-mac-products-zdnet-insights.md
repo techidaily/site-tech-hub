@@ -1,7 +1,7 @@
 ---
 title: Apple Reveals a Batch of New Features for Fall Devices, Showcasing AI Advancements in iPhone, iPad, and Mac Products | ZDNET Insights
-date: 2025-02-10T00:45:24.773Z
-updated: 2025-02-16T21:04:10.118Z
+date: 2025-02-26T17:10:24.426Z
+updated: 2025-03-05T16:23:13.877Z
 tags:
   - apple
 categories:
@@ -38,10 +38,6 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/sn2STvYRVb8?si=Z-XhJJ1Mc-Em5Kqy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Apple Intelligence (AI)
 
 Maria Diaz/ZDNET
@@ -63,10 +59,6 @@ Maria Diaz/ZDNET
 * Apple Intelligence will also upgrade the Photos app with a new **clean-up tool** that removes unwanted objects. **Search in videos** allows users to easily find specific snippets of content, and users can create **Memories** on-demand, using text to edit and organize photos into movies.
 * In the Notes app, users can **record and transcribe audio**, which Apple Intelligence will generate a text summary of. This experience is also available in the Notes phone app.
 * Apple Intelligence is free on iOS 18, iPadOS 18, and MacOS Sequoia, and will be available to try in English only this summer.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Partnership with OpenAI
 
@@ -93,10 +85,6 @@ Adam Breeden/ZDNET
 * The Messages app now supports [**Rich Communication Services (RCS).**](https://www.zdnet.com/article/apple-is-finally-adding-rcs-to-the-iphone-and-i-couldnt-be-more-excited/)
 * The **Safari app** was upgraded to include key information about a webpage. You can read more about the Safari upgrades under the MacOS section of this article.
 * The **Calendar app** can now pull from the Reminders app for a more seamless schedule overview.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RCYs8keh-Vs?si=uDC28-9yh-k6HLj4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## WatchOS 11
 
@@ -133,10 +121,6 @@ Adam Breeden/ZDNET
 * The **AI summarization** tool will live in Safari to help users process content like web pages and articles more efficiently. Safari will also assist users in discovering more helpful information about a page they are browsing when relevant, such as directions.
 * Apple also launched a new **Viewer experience**, which does for video what Reader does for text.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## VisionOS 2
 
 Jason Hiner/ZDNET
@@ -161,10 +145,6 @@ Jason Hiner/ZDNET
 * AirPods Pro are getting **Voice Isolation** to enhance call quality in noisier environments.
 * With the new **Siri Interactions**, users can now **nod or shake their head** "yes" or "no" when responding to Siri.
 * Apple is also releasing a **Personalized Spatial Audio API** for game developers to build around the AirPods' audio technology.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## tvOS 18
 
@@ -210,22 +190,21 @@ Screenshot by Nina Raemont/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-lessons.techidaily.com/new-capturing-dynamic-range-in-iphone-shots/"><u>[New] Capturing Dynamic Range in iPhone Shots</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-10-best-free-video-conferencing-with-screen-sharing-for-2024/"><u>[Updated] 10 Best Free Video Conferencing With Screen Sharing for 2024</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-in-2024-express-yourself-incorporating-emojis-into-yt-feedback/"><u>[Updated] In 2024, Express Yourself Incorporating Emojis Into YT Feedback</u></a></li>
-<li><a href="https://video-capture.techidaily.com/updated-in-2024-from-idea-to-reality-examining-mycams-video-recorder-performance/"><u>[Updated] In 2024, From Idea to Reality Examining MyCam’s Video Recorder Performance</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/approved-channel-creation-chronicles-the-ultimate-beauty-blogging-start-up/"><u>2024 Approved Channel Creation Chronicles The Ultimate Beauty Blogging Start-Up</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/avoiding-the-threat-of-fraudgpt-tips-for-personal-cybersecurity-protection/"><u>Avoiding the Threat of FraudGPT: Tips for Personal Cybersecurity Protection</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/creating-custom-workout-plans-gpts-safe-approach/"><u>Creating Custom Workout Plans: GPT's Safe Approach</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/expert-recommended-screen-capturing-apps-for-mac-for-2024/"><u>Expert-Recommended Screen Capturing Apps for Mac for 2024</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/exploring-the-impact-of-ai-chatbot-content-filtering-what-do-you-need-to-know/"><u>Exploring the Impact of AI Chatbot Content Filtering: What Do You Need to Know?</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/exploring-the-limits-commands-and-queries-that-puzzle-chatgpt/"><u>Exploring the Limits: Commands and Queries That Puzzle ChatGPT</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/forge-bonds-faster-with-ai-love-assistant/"><u>Forge Bonds Faster with AI Love Assistant</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-android-unlock-code-sim-unlock-your-xiaomi-redmi-note-13-pro-5g-phone-and-remove-locked-screen-by-drfone-android/"><u>In 2024, Android Unlock Code Sim Unlock Your Xiaomi Redmi Note 13 Pro 5G Phone and Remove Locked Screen</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/subwoofer-dilemma-solved-get-rid-of-the-irritating-audio-hum-once-and-for-all/"><u>Subwoofer Dilemma Solved? Get Rid of the Irritating Audio Hum Once and For All!</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/the-evolution-of-social-media-scams-navigating-the-risks-on-twitter-and-exploring-metas-authentication-leap-with-chatgpt-4-revealed/"><u>The Evolution of Social Media Scams: Navigating the Risks on Twitter and Exploring Meta's Authentication Leap with ChatGPT-4 Revealed</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/unleash-your-online-potential-with-perplexity-ai-the-ultimate-yet-untapped-google-search-enhancer/"><u>Unleash Your Online Potential with Perplexity AI - The Ultimate, Yet Untapped Google Search Enhancer</u></a></li>
-<li><a href="https://fox-access.techidaily.com/wirecast-critique-and-comparisons-for-2024/"><u>WireCast Critique & Comparisons for 2024</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/workplace-shift-will-ai-overtake-jobs/"><u>Workplace Shift: Will AI Overtake Jobs?</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-inside-look-polaroids-bold-move-into-action-camera-tech/"><u>[New] Inside Look Polaroid's Bold Move Into Action Camera Tech</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-in-2024-instagram-blocking-made-simple/"><u>[Updated] In 2024, Instagram Blocking Made Simple</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-perfecting-video-frames-for-instagram-shares/"><u>[Updated] Perfecting Video Frames for Instagram Shares</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-step-by-step-guide-to-changing-photo-genders-from-theory-to-practice/"><u>[Updated] Step-by-Step Guide to Changing Photo Genders From Theory to Practice</u></a></li>
+<li><a href="https://article-files.techidaily.com/exploring-open-source-options-is-vlc-bound-to-beat-mpc-for-2024/"><u>Exploring Open-Source Options Is VLC Bound to Beat MPC for 2024</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/how-to-stealthily-stream-youtube-via-phones-autoplay/"><u>How to Stealthily Stream YouTube via Phone's Autoplay</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/introducing-adatas-bespoke-invader-x-pro-features-unique-sidesweeping-glass-panel-and-integrated-5-lcd-display/"><u>Introducing AData's Bespoke Invader X Pro: Features Unique Sidesweeping Glass Panel & Integrated 5 LCD Display</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/navigating-the-speedwave-top-5-reasons-for-gpts-explosion/"><u>Navigating the Speedwave: Top 5 Reasons for GPT's Explosion</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/navigating-through-openais-features-the-complete-user-manual-for-innovative-solutions/"><u>Navigating Through OpenAI's Features: The Complete User Manual for Innovative Solutions</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/revolutionizing-home-improvement-with-gpt-4s-breakthrough-in-ai-technology/"><u>Revolutionizing Home Improvement with GPT-4's Breakthrough in AI Technology</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/should-you-switch-to-copilot-pro-from-copilot-find-out-the-distinct-advantages-here/"><u>Should You Switch to Copilot Pro From Copilot? Find Out the Distinct Advantages Here</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/social-media-titans-face-off-will-the-next-leader-be-likes-over-tiktok-in-2024/"><u>Social Media Titans Face-Off Will the Next Leader Be Likes over TikTok, In 2024</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/streamline-workflow-integrating-microsoft-copilot-into-macos/"><u>Streamline Workflow: Integrating Microsoft Copilot Into macOS</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/the-essence-of-claude-3-what-it-does-and-how-to-use-it/"><u>The Essence of Claude 3 – What It Does & How to Use It</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/the-power-of-codegpt-can-this-ai-system-truly-master-the-art-of-programming/"><u>The Power of CodeGPT - Can This AI System Truly Master the Art of Programming?</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/top-11-best-online-facebook-cover-photo-makers-for-2024/"><u>Top 11 Best Online Facebook Cover Photo Makers for 2024</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Tutorial: Adding the Netflix Addon on Your Kodi Device"
-date: 2024-08-15T20:11:14.962Z
-updated: 2024-08-16T20:11:14.962Z
+date: 2025-02-27T17:40:02.828Z
+updated: 2025-03-05T17:46:50.477Z
 tags:
   - win11
   - win10
@@ -19,9 +19,6 @@ Want to**connect your laptop to a TV using an HDMI cable** ? It’s easy. In thi
 
 ## How do I connect my laptop to the TV with HDMI
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ### Step 1
 
  Power on your laptop and TV (both with HDMI ports) and prepare an HDMI cable.
@@ -31,22 +28,13 @@ Want to**connect your laptop to a TV using an HDMI cable** ? It’s easy. In thi
  Plug the HDMI cable into both your laptop’s and TV’s HDMI ports.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/2-38.jpg)
-<!-- affiliate ads begin -->
-<a href="https://bluettieu.pxf.io/c/5597632/2042323/17091" target="_top" id="2042323"><img src="//a.impactradius-go.com/display-ad/17091-2042323" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="3840" height="1600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042323/17091" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4550420&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/pic/f_02.jpg" border="0">PearlMountain Image Converter</a>
-<!-- affiliate ads end -->
 ### Step 3
 
  Now you may see your TV with a blue screen showing a No signal message. Press the**INPUT** or**SOURCE** button on your TV remote. Then use the Arrow icon to choose**HDMI 1** on your TV screen.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/3-36.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475"><img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Step 4
 
 Tada! You may see the same screen with your laptop on the TV.
@@ -68,9 +56,6 @@ Tada! You may see the same screen with your laptop on the TV.
  4) Click**Adjust resolution** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/6-26.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=22741618&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.diskpart.com/resource/images/index/dp-index-img-banner-people@2x.png" border="0">Easy and Safe Partition Software & Hard Disk Manager</a>
-<!-- affiliate ads end -->
 
  5) Select**TV** from Display drop-down list.
 
@@ -79,16 +64,9 @@ Tada! You may see the same screen with your laptop on the TV.
  6) Change the Resolution to earn a best view on TV screen. Then click OK to save your settings.  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/8-18.jpg)
-<!-- affiliate ads begin -->
-<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=38658749&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/pa_500.png" border="0">ZoneAlarm Pro Antivirus + Firewall NextGen</a>
-<!-- affiliate ads end -->
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=39694080&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/nbr/fire/Screenshot_1red_gb.jpg" border="0">Nero Burning ROM:
-The ultimate burning program for all your needs!</a>
-<!-- affiliate ads end -->
 ## What if there’s no sound from TV speakers?
 
  If you can’t hear the audio from your TV, make sure the sound isn’t muted, and that the volume is set properly both on your laptop and TV.
@@ -98,16 +76,10 @@ In addition, set your HDMI audio output device as the default device.
  1) Right-click on the sound icon at the bottom right on your laptop’s screen. Then click**Playback devices** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/9-17.jpg)
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075461/7443" target="_top" id="2075461"><img src="//a.impactradius-go.com/display-ad/7443-2075461" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075461/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  2) Highlight your HDMI audio output device and click**Set Default** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/05/10-11.jpg)
-<!-- affiliate ads begin -->
-<a href="https://arkmc.pxf.io/c/5597632/427477/5172" target="_top" id="427477"><img src="//a.impactradius-go.com/display-ad/5172-427477" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/427477/5172" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **NOTE:** If you cannot see your HDMI audio output device, right-click on the blank area of and tick on**Show Disabled Devices** .
 
@@ -133,8 +105,6 @@ Any questions please feel free to leave a comment below, thanks.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -142,4 +112,24 @@ Any questions please feel free to leave a comment below, thanks.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-helps.techidaily.com/updated-2024-approved-how-to-create-gif-format-outros/"><u>[Updated] 2024 Approved How To Create GIF Format Outros</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-the-best-free-cloud-based-video-editing-tools-for-2024/"><u>[Updated] The Best Free, Cloud-Based Video Editing Tools for 2024</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/1715860667691-2024-approved-maximizing-ipad-audio-record-best-tips/"><u>2024 Approved Maximizing iPad Audio Record Best Tips!</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/4-typical-slip-ups-when-deploying-chatgpt-for-articles/"><u>4 Typical Slip-Ups When Deploying ChatGPT for Articles</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/a-comprehensive-look-at-selecting-the-ideal-chatbot-assistance/"><u>A Comprehensive Look at Selecting the Ideal Chatbot Assistance</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/ace-the-first-impression-create-professional-cover-letters-with-help-from-chatgpt/"><u>Ace the First Impression: Create Professional Cover Letters With Help From ChatGPT</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/ai-code-champions-which-bot-wins-in-coding-chatgpt-or-gemini/"><u>AI Code Champions - Which Bot Wins in Coding, ChatGPT or Gemini?</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/avoid-unauthorized-access-exposing-the-9-counterfeit-chatgpt-viruses-at-risk-of-data-theft/"><u>Avoid Unauthorized Access: Exposing the 9 Counterfeit ChatGPT Viruses at Risk of Data Theft</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/beating-the-chatgpt-at-capacity-hurdle-in-windows-computers/"><u>Beating the 'ChatGPT at Capacity' Hurdle in Windows Computers</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/best-of-both-worlds-exclusive-11-bridge-camera-guide-for-2024/"><u>Best of Both Worlds Exclusive 11 Bridge Camera Guide for 2024</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-fix-pokemon-go-route-not-working-on-vivo-y02t-drfone-by-drfone-virtual-android/"><u>How to Fix Pokemon Go Route Not Working On Vivo Y02T? | Dr.fone</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-the-best-ispoofer-alternative-to-try-on-infinix-gt-10-pro-drfone-by-drfone-virtual-android/"><u>In 2024, The Best iSpoofer Alternative to Try On Infinix GT 10 Pro | Dr.fone</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/1722189405435-mastering-chatgpt-interaction-read-digest-and-summarize-pdfs-with-ease/"><u>Mastering ChatGPT Interaction: Read, Digest, and Summarize PDFs with Ease!</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/superior-5-android-screenshot-and-video-tools-reviewed/"><u>Superior 5 Android Screenshot and Video Tools Reviewed</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/unlocking-creative-potential-chatgpts-impact-on-audio-design/"><u>Unlocking Creative Potential: ChatGPT's Impact on Audio Design</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/what-does-generative-ai-mean-comprehensive-explainer/"><u>What Does Generative AI Mean? Comprehensive Explainer</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/why-choose-claude-unlocking-potential-through-advanced-ai/"><u>Why Choose Claude? Unlocking Potential Through Advanced AI</u></a></li>
+</ul></div>
 

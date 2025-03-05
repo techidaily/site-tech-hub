@@ -1,7 +1,7 @@
 ---
 title: "Snapchat Vs. Bing AI Duel: Exploring Eight Key Contrasts in a Skype Arena"
-date: 2024-08-15T22:03:40.174Z
-updated: 2024-08-16T22:03:40.174Z
+date: 2025-03-04T17:31:06.267Z
+updated: 2025-03-05T18:27:03.157Z
 tags:
   - chatgpt
   - open-ai
@@ -51,32 +51,17 @@ Close
 
 Close
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42570605&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/usbXcopy/Nero_USB_x_copy_Screen_2.png" border="0"></a>
-<!-- affiliate ads end -->
 ## Can ChatGPT Solve Geometry and Trigonometry Problems?
 
  Seeing as ChatGPT was able to solve arithmetic and algebra problems without error, the challenge proceeded with a few problems in geometry and trigonometry. Despite being faced with a few topics in trig—including the Pythagorean theorem, inscribed angles, and the directrix of a parabola—GPT-4 solved all problems accurately.
 
 ![asking chatgpt to solve for the hypotenuse of a triangle](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/geometry-1.jpg)
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087407/7443" target="_top" id="2087407"><img src="//a.impactradius-go.com/display-ad/7443-2087407" border="0" alt="" width="600" height="500"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087407/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![asking chatgpt to solve for an angle given a three sided shape inscribed within a triangle](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/geometry-2.jpg)
-<!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398457/3022" target="_top" id="398457"><img src="//a.impactradius-go.com/display-ad/3022-398457" border="0" alt="www.sentrypc.com" width="980" height="120"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398457/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![chatgpt makes a mistake in the inscribed angle problem after being asked for an explanation](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/geometry-3.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=33729450&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
-<!-- affiliate ads end -->
 
 ![chatgpt solves for the equation of a parabola given the focus and vertex](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/geometry-4.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940312&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
-<!-- affiliate ads end -->
 
 Close
 
@@ -91,9 +76,6 @@ Close
 ![chatgpt solves for x given a cosine equation where 16 times the cosine of 12 times x plus eight equals negative eight](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/trig-1.jpg)
 
 ![chatgpt solves for the amplitude of a waveform given the minimum value and midpoint of an equation](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/trig-2.jpg)
-<!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1892108/21290" target="_top" id="1892108"><img src="//a.impactradius-go.com/display-ad/21290-1892108" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892108/21290" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![chatgpt solves for the cosine and sine of the interior angle of a right triangle](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/trig-3.jpg)
 
@@ -112,16 +94,10 @@ Close
  ChatGPT originally offered the correct solution for the derivative g'(1) given that g(x) was the inverse function of f(x), but it quickly amended its answer to be incorrect when given a vague rejection instead of standing by its solution.
 
 ![chatgpt solves for the limit of an equation correctly](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/calc-1.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152835&QTY=1&AFFILIATE=108875&CART=1"><img src="https://download.terabyteunlimited.com/banners/ad_800x450_d.jpg" border="0"></a>
-<!-- affiliate ads end -->
 
 ![chatgpt solves for the value of the derivative of an inverse function](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/calc-2.jpg)
 
 ![chatgpt offers a correct answer for the derivative of an inverse of a function](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/calc-3.jpg)
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2095385/26400" target="_top" id="2095385"><img src="//a.impactradius-go.com/display-ad/26400-2095385" border="0" alt="" width="1024" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095385/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![chatgpt gives an incorrect answer after being told its original correct answer was erroneous](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/calc-4.jpg)
 
@@ -148,14 +124,11 @@ Close
 
  Rather put the AI-powered chatbot to other uses? There are plenty of creative ways to use ChatGPT as well.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -164,4 +137,23 @@ Close
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-files.techidaily.com/new-2024-approved-techniques-for-blurring-and-excising-picture-borders/"><u>[New] 2024 Approved Techniques for Blurring and Excising Picture Borders</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/updated-innovating-your-way-through-tiktok-the-power-of-templated-content-for-2024/"><u>[Updated] Innovating Your Way Through TikTok The Power of Templated Content for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-unlock-reddit-potentials-stepwise-procedures-for-sharing/"><u>[Updated] Unlock Reddit Potentials Stepwise Procedures for Sharing</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-exclusive-insight-into-low-cost-footage-websites/"><u>2024 Approved Exclusive Insight Into Low-Cost Footage Websites</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-the-guide-to-softening-volume-levels-on-lumafusion/"><u>2024 Approved The Guide to Softening Volume Levels on Lumafusion</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/6-insights-the-profound-impact-of-snapchats-ai/"><u>6 Insights: The Profound Impact of Snapchat's AI</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/7-compelling-justifications-for-snapchat-ais-significance/"><u>7 Compelling Justifications for Snapchat AI's Significance</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/8-key-ways-artificebrale-intelligenz-blurs-boundaries-between-fact-and-fiction/"><u>8 Key Ways Artificebrale Intelligenz Blurs Boundaries Between Fact and Fiction</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/a-deep-dive-into-the-employment-lands-market-for-prompt-crafting/"><u>A Deep Dive Into the Employment Lands Market for Prompt Crafting</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/affordably-secure-your-phone-understand-ransomware-and-meet-ai-ally-chatgpt-in-our-exclusive-talk/"><u>Affordably Secure Your Phone: Understand Ransomware & Meet AI Ally ChatGPT in Our Exclusive Talk!</u></a></li>
+<li><a href="https://ai-live-streaming.techidaily.com/elevate-fathers-day-gifting-with-an-immersive-ibuypower-computer-experience/"><u>Elevate Father’s Day Gifting with an Immersive iBUYPOWER Computer Experience</u></a></li>
+<li><a href="https://fox-triigers.techidaily.com/guide-complet-comment-configurer-limportationexportation-dune-virtualisation-vmware-esxi/"><u>Guide Complet : Comment Configurer L'Importation/Exportation D'une Virtualisation VMware ESXi</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-unlock-nokia-phone-without-password-by-drfone-android/"><u>How To Unlock Nokia Phone Without Password?</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/ultimate-mc-village-dwellings-guide-for-2024/"><u>Ultimate MC Village Dwellings Guide for 2024</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/utilizing-chatgpt-as-your-go-to-grammar-checking-tool-a-possibility/"><u>Utilizing ChatGPT as Your Go-To Grammar Checking Tool: A Possibility?</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/why-you-shouldnt-trust-chatgpt-to-summarize-your-text/"><u>Why You Shouldn't Trust ChatGPT to Summarize Your Text</u></a></li>
+</ul></div>
 

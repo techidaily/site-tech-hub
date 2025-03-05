@@ -1,7 +1,7 @@
 ---
 title: Mastering a Clean Inbox in One Easy Step – Say Goodbye to Clutter Without Extra Emails!
-date: 2025-02-12T23:14:43.546Z
-updated: 2025-02-16T16:16:57.902Z
+date: 2025-03-01T16:41:18.737Z
+updated: 2025-03-05T17:13:06.012Z
 tags:
   - apple
 categories:
@@ -32,10 +32,6 @@ It all works thanks to _aliases,_ a feature that's built into most modern email 
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/h5uImbOWmTg?si=z4kP-R0QbXbBAJTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## The magic of email aliases
 
 An alias is an alternate email address that's linked to your main account. Messages addressed to an alias go to your inbox, right alongside messages sent to your primary address. But because they're _not_ using your regular email address, you can set up your email client to perform custom actions using those aliases.
@@ -64,10 +60,6 @@ Don't confuse aliases with forwarded accounts, which allow you to send and recei
 
 The following instructions apply to personal accounts you manage yourself. If you have a commercial email account (through Microsoft 365 or Google Workspace, for example), you can have aliases for your account using your organization's custom domain, but you'll need an administrator's help to set up those aliases.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## How to create an alias using Gmail
 
 Although it's the world's most popular email service, Gmail's implementation of aliases is surprisingly limited. To create an alias, you start with your primary address and then modify it by adding a plus sign at the end and then adding some extra text. If your address is example@gmail.com, you can use example+news@gmail.com, example+family@gmail.com, etc.
@@ -75,10 +67,6 @@ Although it's the world's most popular email service, Gmail's implementation of 
 **Also: [Running out of Gmail storage? How to get another 15GB for free](https://www.zdnet.com/article/running-out-of-gmail-storage-how-to-get-another-15gb-for-free/)**
 
 The problem with this sort of alias is that it doesn't keep an unscrupulous sender from seeing your primary address, so be cautious when using it with untrusted correspondents.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## How to create an alias using Outlook.com
 
@@ -90,10 +78,6 @@ To get started, go to <https://account.microsoft.com>, sign in with your Microso
 
 You can add new aliases at any time (up to the limit of 10) or remove an existing alias from the Account Aliases page described earlier.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## How to create an alias using your Apple ID
 
 If you own an iPhone, iPad, or MacBook, you can use that device to create up to three email aliases that go to an address associated with your Apple ID. This feature is called [Hide My Email](https://support.apple.com/guide/icloud/what-are-email-aliases-in-icloud-mail-mm074af79454/1.0/icloud/1.0), and it uses the iCloud domain as its forwarding mechanism.
@@ -103,10 +87,6 @@ The one catch is that each alias uses an auto-generated name that can be less th
 **Also: [You can easily move your photos from Google Photos to iCloud Photos. Here's how](https://www.zdnet.com/article/you-can-now-easily-move-your-photos-from-google-photos-to-icloud-photos-heres-how/)**
 
 To create an iCloud alias on an iOS device, open Settings, tap your account name, then tap iCloud > Hide My Email. (On a MacBook, use the Apple menu to open System Settings, where you'll find the Hide My Email option.) Tap Create New Address and follow the prompts to add a label and an optional note. Use the Forward To button to select where you want to receive email sent to that alias.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jnITUsxMz5s?si=ohwRVH6eWhVnC6Xf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Other alias options
 
@@ -146,19 +126,22 @@ You can also use privacy add-ins that include email-masking features. [NordPass 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-video-capture.techidaily.com/updated-3-ways-to-record-lectures-on-mac-for-2024/"><u>[Updated] 3 Ways to Record Lectures on Mac for 2024</u></a></li>
-<li><a href="https://article-files.techidaily.com/updated-ideal-8-desktop-images-to-personalize-your-mbp/"><u>[Updated] Ideal 8 Desktop Images to Personalize Your MBP</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-change-oneplus-nord-ce-3-5g-lock-screen-clock-in-seconds-by-drfone-android/"><u>In 2024, How To Change OnePlus Nord CE 3 5G Lock Screen Clock in Seconds</u></a></li>
-<li><a href="https://article-tips.techidaily.com/in-2024-poptoons-ultimate-insight-24-annual/"><u>In 2024, PopToons Ultimate Insight '24 Annual</u></a></li>
-<li><a href="https://windows11.techidaily.com/keyboardmouse-wake-issues-in-windows-11/"><u>Keyboard/Mouse Wake Issues in Windows 11</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/mastering-chatgpt-a-guide-to-the-five-most-effective-user-commands/"><u>Mastering ChatGPT: A Guide to the Five Most Effective User Commands</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/navigating-the-advantages-the-role-of-usechatgpts-co-pilot/"><u>Navigating the Advantages: The Role of UseChatGPT's Co-Pilot</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/seamless-integration-guide-connecting-chatgpt-and-whatsapp-to-upgrade-your-support-system/"><u>Seamless Integration Guide: Connecting ChatGPT and WhatsApp to Upgrade Your Support System</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/solution-overcoming-issues-with-launching-minecraft-on-a-windows-pc/"><u>Solution: Overcoming Issues with Launching Minecraft on a Windows PC</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/the-ultimate-list-of-premier-educational-websites-offering-quality-courses-online/"><u>The Ultimate List of Premier Educational Websites Offering Quality Courses Online</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/transform-your-windows-computer-with-an-easy-to-install-free-clone-of-the-latest-ai-conversationalist-gpt4all/"><u>Transform Your Windows Computer with an Easy-to-Install Free Clone of the Latest AI Conversationalist, GPT4All!</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/unraveling-the-mechanics-of-generative-ai-for-enhanced-search-capabilities-and-key-players/"><u>Unraveling the Mechanics of Generative AI for Enhanced Search Capabilities and Key Players</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/using-nightshade-plants-for-defense-keeping-your-art-safe-from-ai-algorithms/"><u>Using Nightshade Plants for Defense: Keeping Your Art Safe From AI Algorithms</u></a></li>
-<li><a href="https://techidaily.com/xiaomi-redmi-note-13-proplus-5g-music-recovery-recover-deleted-music-from-xiaomi-redmi-note-13-proplus-5g-by-fonelab-android-recover-music/"><u>Xiaomi Redmi Note 13 Pro+ 5G Music Recovery - Recover Deleted Music from Xiaomi Redmi Note 13 Pro+ 5G</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-elevate-your-aspects-a-beginner-cookbook-for-asmr-filmmaking-for-2024/"><u>[Updated] Elevate Your Aspects A Beginner' Cookbook for ASMR Filmmaking for 2024</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-in-2024-enthusiastic-exchanges-chatting-with-your-subscribers/"><u>[Updated] In 2024, Enthusiastic Exchanges Chatting With Your Subscribers</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-recording-lenovo-fast-and-fuss-free-tips-for-2024/"><u>[Updated] Recording Lenovo Fast and Fuss-Free Tips for 2024</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/5-serious-risks-why-you-should-avoid-medical-advice-from-chatgpt/"><u>5 Serious Risks: Why You Should Avoid Medical Advice From ChatGPT</u></a></li>
+<li><a href="https://android-frp.techidaily.com/addrom-bypass-an-android-tool-to-unlock-frp-lock-screen-for-your-motorola-edge-40-by-drfone-android/"><u>AddROM Bypass An Android Tool to Unlock FRP Lock Screen For your Motorola Edge 40</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/bing-brings-cutting-edge-ai-to-your-fingertips-for-improved-iphone-and-android-searches/"><u>Bing Brings Cutting-Edge AI to Your Fingertips for Improved iPhone & Android Searches</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/boost-productivity-a-step-by-nstep-tutorial-on-linking-chatgpt-to-your-office-suite-documents/"><u>Boost Productivity: A Step-by-nStep Tutorial on Linking ChatGPT to Your Office Suite Documents</u></a></li>
+<li><a href="https://some-tips.techidaily.com/boost-your-vr-experience-on-a-budget-the-revolutionary-50-meta-quest-3-adapter-for-glass-wearers-discover-more/"><u>Boost Your VR Experience on a Budget: The Revolutionary $50 Meta Quest 3 Adapter for Glass Wearers - Discover More »</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/border-techniques-for-enhanced-instagram-pictures/"><u>Border Techniques for Enhanced Instagram Pictures</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-5-techniques-to-transfer-data-from-xiaomi-14-pro-to-iphone-15141312-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Techniques to Transfer Data from Xiaomi 14 Pro to iPhone 15/14/13/12 | Dr.fone</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-the-key-to-spreading-online-jokes-fast/"><u>In 2024, The Key to Spreading Online Jokes Fast</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/unlocking-free-usage-top-5-strategies-to-leverage-chatgpt-without-signing-up/"><u>Unlocking Free Usage: Top 5 Strategies to Leverage ChatGPT without Signing Up</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/unveiling-chatgpts-native-tools/"><u>Unveiling ChatGPT’s Native Tools</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/unveiling-the-distinctions-nlp-vs-machine-learning-explained/"><u>Unveiling the Distinctions: NLP Vs. Machine Learning Explained</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/visual-delight-expertly-ranked-top-8k-televisions-reviewed/"><u>Visual Delight Expertly Ranked Top 8K Televisions Reviewed</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/what-sets-googles-new-palm-2-large-language-model-apart-from-previous-versions/"><u>What Sets Google's New PaLM 2 Large Language Model Apart From Previous Versions?</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/winning-the-focus-battle-how-these-8-chatgpt-cues-tame-distractions/"><u>Winning the Focus Battle: How These 8 ChatGPT Cues Tame Distractions</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Discovering the Covert Intelligent Communication Chips in Macs and iPads - Do You Own Them? | ZDNET
-date: 2025-02-13T20:11:52.039Z
-updated: 2025-02-16T21:02:22.955Z
+date: 2025-02-26T16:36:01.195Z
+updated: 2025-03-05T16:58:15.097Z
 tags:
   - apple
 categories:
@@ -28,25 +28,13 @@ If you want to follow along, you'll need to install the iOS 18 public beta on an
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## How to customize your iPhone's new Control Center with iOS 18
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fo4lNZ84x9Q?si=WdcYPZp-9VJnZEnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 1\. Access Control Center
 
 To display Control Center, swipe down from the top-right corner of the screen. You'll notice that Control Center is now separated into three different screens. The first screen displays the core controls, the second screen shows the audio player and related settings, and the third has connectivity options. Swipe up or down to move from one screen to another, or tap one of the three icons on the right to jump to a specific one.
 
 Screenshot by Lance Whitney/ZDNET
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/sn2STvYRVb8?si=Z-XhJJ1Mc-Em5Kqy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 2\. Move the available controls
 
@@ -68,10 +56,6 @@ Next, you can directly delete a control you don't need or want. With the icons i
 
 Screenshot by Lance Whitney/ZDNET
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/umvX4ZdWbxk?si=tPXL0-Kzf9SQaY8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 5\. Add a control to an existing screen
 
 You can easily add a control to any screen that has available space. Pick a screen with some empty space at the bottom. After tapping the plus icon, tap the command for "Add a Control." Browse the screens of accessible controls until you find the one you want to add. You can also look for a specific control by name through the Search field at the top. Tap the control, and it should appear in the available space, where you can move or resize it if you wish.
@@ -85,10 +69,6 @@ Screenshot by Lance Whitney/ZDNET
 If the current screens are already filled with icons, you can set up additional screens to hold more controls. Swipe down to the last screen, which shouldn't have any free space. Tap the plus icon and then tap "Add a Control." Again, browse or search for the control you wish to add. Tap that control, and it should appear in a new screen. You can continue adding more controls to the new screen this way. You can create as many as 15 screens, though you'll probably want to stop before you reach that number.
 
 Screenshot by Lance Whitney/ZDNET
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KaqfZcWg5sE?si=LPmSKk7AFp8VxDFD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 7\. Power down from Control Center
 
@@ -126,19 +106,21 @@ Screenshot by Lance Whitney/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-clips.techidaily.com/updated-set-up-a-dynamic-fb-cover/"><u>[Updated] Set Up a Dynamic FB Cover</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/ing-brand-voice-via-micro-business-videos/"><u>Building Brand Voice via Micro-Business Videos</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/essential-guide-when-and-how-to-successfully-reboot-your-apple-airpods-tech-insights/"><u>Essential Guide: When & How To Successfully Reboot Your Apple AirPods | Tech Insights</u></a></li>
-<li><a href="https://article-files.techidaily.com/full-spectrum-review-google-podcasts-app-explained/"><u>Full Spectrum Review Google Podcasts App Explained</u></a></li>
-<li><a href="https://win-latest.techidaily.com/how-to-fix-the-audio-device-missing-issue-tips-from-yl-computing/"><u>How to Fix the 'Audio Device Missing' Issue: Tips From YL Computing</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/introducing-apples-cutting-edge-artificial-intelligence-transforming-siri-with-advanced-insight-into-your-home-interface-zdnet/"><u>Introducing Apple’s Cutting-Edge Artificial Intelligence: Transforming Siri with Advanced Insight Into Your Home Interface | ZDNet</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/ipads-new-release-hit-a-snag-unveiling-the-major-oversight-and-solutions-from-apple-zdnet/"><u>IPad's New Release Hit a Snag: Unveiling the Major Oversight and Solutions From Apple (ZDNet)</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/macos-keychain-unlocking-techniques-a-step-by-step-guide/"><u>MacOS Keychain Unlocking Techniques: A Step-by-Step Guide</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/maximize-your-macs-performance-with-these-expertly-selected-optimization-tools-featured/"><u>Maximize Your Mac's Performance with These Expertly-Selected Optimization Tools | Featured</u></a></li>
-<li><a href="https://review-topics.techidaily.com/remove-google-frp-lock-on-oneplus-ace-2-by-drfone-android-unlock-remove-google-frp/"><u>Remove Google FRP Lock on OnePlus Ace 2</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/the-blueprint-for-on-screen-dialogues-for-2024/"><u>The Blueprint for On-Screen Dialogues for 2024</u></a></li>
-<li><a href="https://techidaily.com/things-you-dont-know-about-infinix-note-30-vip-racing-edition-reset-code-drfone-by-drfone-reset-android-reset-android/"><u>Things You Dont Know About Infinix Note 30 VIP Racing Edition Reset Code | Dr.fone</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/1723964471029-top-redux-masterpieces-of-2016-were-accepting-entries-now/"><u>Top Redux Masterpieces of 2016 - We're Accepting Entries Now</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/unlocking-new-features-apple-watch-series-9-introduces-double-tap-functionality-explore-the-possibilities/"><u>Unlocking New Features: Apple Watch Series 9 Introduces Double-Tap Functionality - Explore the Possibilities!</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-harness-the-power-of-youtubes-movie-maker-for-professionals/"><u>[New] In 2024, Harness the Power of YouTube's Movie Maker for Professionals</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-maximizing-video-visibility-on-youtube-through-lighting/"><u>[New] Maximizing Video Visibility on YouTube Through Lighting</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-2024-approved-choosing-the-right-video-sharing-platform-tiktok-vs-youtubes-shorts/"><u>[Updated] 2024 Approved Choosing the Right Video Sharing Platform TikTok vs YouTubes' Shorts?</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-exploring-alternatives-to-magixs-acid-pro/"><u>[Updated] Exploring Alternatives to Magix's ACID Pro</u></a></li>
+<li><a href="https://blog-min.techidaily.com/best-3-software-to-transfer-files-tofrom-your-honor-90-pro-via-a-usb-cable-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Best 3 Software to Transfer Files to/from Your Honor 90 Pro via a USB Cable | Dr.fone</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/decoding-electric-cars-a-comparison-of-bevs-phevs-hybrids-and-fcevs/"><u>Decoding Electric Cars: A Comparison of BEVs, PHEVs, Hybrids & FCEVs</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/music-maestro-uploading-beats-to-your-youtube/"><u>Music Maestro Uploading Beats to Your YouTube</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/myai-vs-bing-chat-comparison-top-8-distinctive-features-in-snapchat-and-skype/"><u>MyAI Vs. Bing Chat Comparison: Top 8 Distinctive Features in Snapchat and Skype</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/navigating-ethical-workplace-use-scenarios-where-ai-can-cause-issues/"><u>Navigating Ethical Workplace Use: Scenarios Where AI Can Cause Issues</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/new-fixed-version-printing-whole-documents/"><u>New Fixed Version: Printing Whole Documents</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/quick-method-for-changing-dall-e-3s-webp-designs-into-jpg-or-png-files/"><u>Quick Method for Changing DALL-E 3'S WebP Designs Into JPG or PNG Files</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/redefine-digital-conversation-explore-critical-updates-in-gpt/"><u>Redefine Digital Conversation: Explore Critical Updates in GPT</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/reevaluating-unnecessary-additions-for-chatgpt/"><u>Reevaluating Unnecessary Additions for ChatGPT</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/snagit-screen-recording-a-guide/"><u>Snagit Screen Recording A Guide</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/snapchat-and-skype-meet-their-matches-an-ai-review/"><u>Snapchat and Skype Meet Their Matches: An AI Review</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/stay-safe-from-data-theft-expose-these-9-sham-malware-apps-masquerading-as-chatgpt-enhancements/"><u>Stay Safe From Data Theft: Expose These 9 Sham Malware Apps Masquerading as ChatGPT Enhancements</u></a></li>
 </ul></div>
 

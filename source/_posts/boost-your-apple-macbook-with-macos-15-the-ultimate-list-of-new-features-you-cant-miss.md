@@ -1,7 +1,7 @@
 ---
 title: "Boost Your Apple MacBook with MacOS 15: The Ultimate List of New Features You Can't Miss"
-date: 2025-02-14T17:49:54.489Z
-updated: 2025-02-16T17:46:25.684Z
+date: 2025-03-04T16:52:25.422Z
+updated: 2025-03-05T19:26:05.019Z
 tags:
   - apple
 categories:
@@ -38,10 +38,6 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 1\. Apple Intelligence
 
 Screenshot by Nina Raemont
@@ -56,10 +52,6 @@ Apple's approach to AI is markedly different from that of its competitors, howev
 
 This lets Apple disengage from the chaotic rat race to a degree, positioning itself as the careful, more ethical actor when it comes to AI, particularly in light of [recent debilitating security concerns](https://www.zdnet.com/article/after-brutal-critiques-microsoft-recall-will-get-these-major-privacy-and-security-changes/) from Microsoft's Recall feature, which is delaying the release of a host of its new [Copilot+ PCs](https://www.zdnet.com/article/every-copilot-pc-microsoft-just-announced-to-take-on-apples-m3-macbooks/).
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 2\. Continuity
 
 Screenshot by Nina Raemont
@@ -71,10 +63,6 @@ The new Continuity app links your Mac to your iPhone in a fully comprehensive wa
 The app also streamlines your devices by bringing your iPhone's notifications straight to the Mac, allowing you to pull up the corresponding app onto the laptop. If you're worried about privacy while using your phone on your laptop, your phone's screen actually remains locked and turned off, even while you're using the phone remotely.   
   
 Alternatively, the new standby mode on the iPhone displays a host of at-a-glance (but un-interactable) data like a clock and calendar while you're using the Continuity app on the Mac. 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 3\. Siri 2.0
 
@@ -110,10 +98,6 @@ Safari will see a host of improvements powered by AI functionality, including an
 
 Apple demoed Safari's machine learning capability to automatically detect relevant information on a webpage, including things like quick links, directions, and quick summaries with logistical information like phone numbers and addresses. 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 6\. Standalone Passwords app
 
 Screenshot by Nina Raemont
@@ -123,10 +107,6 @@ Aligning with Apple's positioning of its AI features as secure and trustworthy, 
 **Also: [Forget LastPass: Apple unveils 'Passwords' manager app at WWDC 2024](https://www.zdnet.com/article/forget-lastpass-apple-unveils-passwords-manager-app-at-wwdc-2024/)**
 
 This standalone app is an extension of the existing iCloud Keychain, and seeks to simplify password storage by employing Face ID and Touch ID alongside character-string passwords. Much of it is designed to work automatically and seamlessly in an effort to solve what is a huge UX headache that everyone has experienced at one point or another. 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 7\. Gaming
 
@@ -162,16 +142,24 @@ Apple wants to create a "unified gaming platform" across the iPhone, iPad, and M
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-help.techidaily.com/2024-approved-techniques-for-successfully-incorporating-a-streaming-youtube-playlist/"><u>2024 Approved Techniques for Successfully Incorporating a Streaming YouTube Playlist</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/apple-enhances-icloud-support-on-windows-discover-the-latest-updates-and-improvements-zdnet/"><u>Apple Enhances iCloud Support on Windows: Discover the Latest Updates and Improvements - ZDNet</u></a></li>
-<li><a href="https://facebook.techidaily.com/are-online-dislikes-harmful-or-helpful/"><u>Are Online 'Dislikes' Harmful or Helpful?</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/discover-apples-latest-enhancements-the-most-exciting-new-carplay-innovations-unveiled-at-wwdc-202n-tech-news/"><u>Discover Apple's Latest Enhancements: The Most Exciting New CarPlay Innovations Unveiled at WWDC 202N - Tech News</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/esrs-innovative-new-qi2-magsafe-battery-charger-enhanced-cryoboost-technology-promises-swift-and-heat-free-iphone-experience-review/"><u>ESR's Innovative New Qi2 MagSafe Battery Charger: Enhanced CryoBoost Technology Promises Swift and Heat-Free iPhone eXperience Review</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/how-apple-became-the-pioneer-of-ultimate-viewing-experiences-with-vision-pro-insights-from-zdnet/"><u>How Apple Became the Pioneer of Ultimate Viewing Experiences with Vision Pro – Insights From ZDNet</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-to-change-netflix-location-to-get-more-country-version-on-oppo-a1x-5g-drfone-by-drfone-virtual-android/"><u>How to Change Netflix Location to Get More Country Version On Oppo A1x 5G | Dr.fone</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/limited-time-alert-get-your-hands-on-apples-affordable-series-9-best-price-ever-recorded-shop-now-after-prime-day-frenzy-ends-zdnet-insights/"><u>Limited Time Alert: Get Your Hands on Apple's Affordable Series 9, Best Price Ever Recorded - Shop Now After Prime Day Frenzy Ends | ZDNet Insights</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/revitalizing-photos-stellars-repair-software-debuts/"><u>Revitalizing Photos: Stellar's Repair Software Debuts</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/still-on-sale-the-ultimate-list-of-top-deals-for-the-october-prime-day-2024-at-best-buy-featured-by-zdnet/"><u>Still on Sale! The Ultimate List of Top Deals for the October Prime Day 2024 at Best Buy - Featured by ZDNet</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/the-9-tech-items-every-student-needs-for-school/"><u>The 9 Tech Items Every Student Needs for School</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-in-2024-equality-and-innovation-an-easeus-analysis/"><u>[New] In 2024, Equality and Innovation - An EaseUS Analysis</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-in-2024-streamline-the-conversion-vimeo-videos-to-mp3-files/"><u>[New] In 2024, Streamline the Conversion Vimeo Videos to MP3 Files</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-in-2024-hdr-technology-demystified-with-a-look-at-aurora/"><u>[Updated] In 2024, HDR Technology Demystified with a Look at Aurora</u></a></li>
+<li><a href="https://win-dash.techidaily.com/easy-guide-to-downloading-and-installing-epson-xp-310-driver-update/"><u>Easy Guide to Downloading and Installing Epson XP 310 Driver Update</u></a></li>
+<li><a href="https://win-exceptional.techidaily.com/enhance-performance-by-turning-off-unnecessary-browser-extensions-tips-from-yl-computing/"><u>Enhance Performance by Turning Off Unnecessary Browser Extensions - Tips From YL Computing</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-a-detailed-vpna-fake-gps-location-free-review-on-honor-magic-5-lite-drfone-by-drfone-virtual-android/"><u>In 2024, A Detailed VPNa Fake GPS Location Free Review On Honor Magic 5 Lite | Dr.fone</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/preparation-to-beat-giovani-in-pokemon-go-for-lenovo-thinkphone-drfone-by-drfone-virtual-android/"><u>Preparation to Beat Giovani in Pokemon Go For Lenovo ThinkPhone | Dr.fone</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/quickcapturewin-instant-screenshots-for-pcs-for-2024/"><u>QuickCaptureWin Instant Screenshots for PCs for 2024</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/step-by-step-using-chatgpt-for-your-youtube-video-drafts/"><u>Step by Step: Using ChatGPT for Your YouTube Video Drafts</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/step-by-step-tutorial-transforming-dall-e-3s-webp-outputs-into-jpg-and-png-images/"><u>Step-by-Step Tutorial: Transforming DALL-E 3'S WebP Outputs Into JPG and PNG Images</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/streamlined-linux-installation-of-bavarder-chatgpt/"><u>Streamlined Linux Installation of Bavarder ChatGPT</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/the-classroom-evolution-embracing-artificinas-in-education-top-8-ways/"><u>The Classroom Evolution: Embracing Artificinas in Education (Top 8 Ways)</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/the-importance-of-being-civil-communicating-respectfully-with-ai-voices-including-chatgpt-alexa-and-siri/"><u>The Importance of Being Civil: Communicating Respectfully with AI Voices Including ChatGPT, Alexa, & Siri</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/the-ultimate-guide-to-top-5-expertly-curated-ai-course-rankings/"><u>The Ultimate Guide to Top 5 Expertly Curated AI Course Rankings</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/the-xml-file-crash-course-for-fcpx-editors-for-2024/"><u>The XML File Crash Course for FCPX Editors for 2024</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/tips-for-top-notetakers-using-chatgpt/"><u>Tips for Top Notetakers Using ChatGPT</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/unlock-exclusive-pixel-n-deal-at-only-100-a-step-by-step-guide-to-snagging-your-high-end-phone-on-budget/"><u>Unlock Exclusive Pixel N Deal at Only $100: A Step-by-Step Guide to Snagging Your High-End Phone on Budget!</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/unlock-superior-performance-the-9-key-advantages-of-choosing-chatgpt-plus/"><u>Unlock Superior Performance: The 9 Key Advantages of Choosing ChatGPT Plus</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/unlocking-access-how-to-register-for-services-sans-phone/"><u>Unlocking Access: How to Register for Services Sans Phone</u></a></li>
 </ul></div>
 

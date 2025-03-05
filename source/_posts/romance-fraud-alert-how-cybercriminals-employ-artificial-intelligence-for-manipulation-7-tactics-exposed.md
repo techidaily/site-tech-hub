@@ -1,7 +1,7 @@
 ---
 title: "Romance Fraud Alert: How Cybercriminals Employ Artificial Intelligence for Manipulation – 7 Tactics Exposed"
-date: 2024-08-15T22:01:50.551Z
-updated: 2024-08-16T22:01:50.551Z
+date: 2025-03-02T16:51:18.822Z
+updated: 2025-03-05T16:05:58.340Z
 tags:
   - chatgpt
   - open-ai
@@ -33,9 +33,6 @@ False news can be categorized into three types:
 
  How will the law address the propagation of fake news through generative AI? Who will be held responsible for spreading false information—the users, developers, or the tools themselves?
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082535/7443" target="_top" id="2082535"><img src="//a.impactradius-go.com/display-ad/7443-2082535" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082535/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 4 Ways Generative AI Can Be Used to Spread Disinformation
 
  To stay safe online, everyone needs to understand the risks of generative AI in spreading disinformation, as it comes in many different forms. Here are a few ways it can be used to manipulate people.
@@ -49,15 +46,9 @@ False news can be categorized into three types:
 Here's the fictitious article that ChatGPT came up with:
 
 ![ChatGPT created a fictitious news article about corruption charges against Joe Biden](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/chatgpt-3.jpg)
-<!-- affiliate ads begin -->
-<a href="https://ship7com.pxf.io/c/5597632/1509856/17634" target="_top" id="1509856"><img src="//a.impactradius-go.com/display-ad/17634-1509856" border="0" alt="" width="730" height="383"/></a>
-<!-- affiliate ads end -->
 
  Surprisingly, the output was highly persuasive. It included the names and statements of authoritative figures to make the article more convincing. This shows how anyone can use such tools to generate false news and easily spread it online.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4665597&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pcclean.io/wp-content/uploads/2018/03/winutilities-box-130521.png" border="0">WinUtilities Pro</a>
-<!-- affiliate ads end -->
 ### 2\. Using Chatbots to Influence People's Opinions
 
  Chatbots that rely on generative AI models can employ various tactics to influence people's opinions, including:
@@ -69,9 +60,6 @@ Here's the fictitious article that ChatGPT came up with:
 
  These examples all illustrate how chatbots can be utilized to mislead people.
 
-<!-- affiliate ads begin -->
-
-<!-- affiliate ads end -->
 ### 3\. Creating AI DeepFakes
 
  Someone can use deepfakes to create false videos of an individual saying or doing things they never did. They can use such tools for social engineering or running smear campaigns against others. Moreover, in today's meme culture, deepfakes can serve as tools for cyberbullying on social media.
@@ -80,9 +68,6 @@ Here's the fictitious article that ChatGPT came up with:
 
  It's crucial, then, to be able to[identify videos created by deepfakes](https://www.makeuseof.com/how-can-you-tell-video-deepfake/) and distinguish them from originals.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ### 4\. Cloning Human Voices
 
  Generative AI, along with deepfake technology, enables the manipulation of someone's speech. Deepfake technology is advancing rapidly and offers a variety of tools that can replicate anyone's voice. This allows malicious individuals to impersonate others and deceive unsuspecting individuals. One such example is[the use of deepfake music](https://www.makeuseof.com/what-is-deepfake-ai-music/) .
@@ -102,23 +87,17 @@ Here's the fictitious article that ChatGPT came up with:
 
  By following these steps, you can identify and protect yourself from AI-driven misinformation.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-platform-ui-1280@1x.avif" border="0"></a>
-<!-- affiliate ads end -->
 ## Beware of Disinformation Spread by AI
 
  Generative software has played a crucial role in advancing AI. Still, they can also be a significant source of disinformation in society. These affordable tools have enabled anyone to create different types of content using sophisticated AI models; their ability to generate content in large quantities and incorporate deepfakes makes them even more dangerous.
 
  It's important that you're aware of the challenges of disinformation in the AI era. Understanding how AI can be used to spread fake news is the first step towards protecting yourself from misinformation.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -127,4 +106,20 @@ Here's the fictitious article that ChatGPT came up with:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-sure.techidaily.com/024-approved-sci-ed-hacks-top-youtube-experts-to-elevate-learning/"><u>[New] 2024 Approved Sci-Ed Hacks Top YouTube Experts to Elevate Learning</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/new-2024-approved-streamlining-your-video-collection-converting-mp4-with-vlc/"><u>[New] 2024 Approved Streamlining Your Video Collection Converting MP4 with VLC</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/asy-access-best-free-youtube-subtitle-extractors-for-2024/"><u>[New] Easy Access Best Free YouTube Subtitle Extractors for 2024</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-in-2024-top-picks-user-friendly-software-for-new-game-recorders-and-editors/"><u>[New] In 2024, Top Picks User-Friendly Software for New Game Recorders & Editors</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-the-ultimate-guide-to-boosting-views-on-tiktok-unboxings/"><u>2024 Approved The Ultimate Guide to Boosting Views on TikTok Unboxings</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/discovering-chatgpt-copilot-unveiling-its-functions-and-capabilities/"><u>Discovering ChatGPT Copilot: Unveiling Its Functions & Capabilities</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/do-user-dialogues-influence-chatgpts-knowledge-growth/"><u>Do User Dialogues Influence ChatGPT's Knowledge Growth?</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/empower-your-browsing-experience-with-agentgpt-agents/"><u>Empower Your Browsing Experience with AgentGPT Agents</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/ensuring-online-security-for-young-users-a-guide-to-using-chatgpt-responsibly/"><u>Ensuring Online Security for Young Users - A Guide to Using ChatGPT Responsibly</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/exploring-the-evolution-of-ai-linguistic-models-differentiating-gpt-4-gpt-4turbo-and-phi/"><u>Exploring the Evolution of AI Linguistic Models: Differentiating GPT-4, GPT-4Turbo & Phi</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/future-trends-in-generative-ai-and-chatbots-what-innovations-lie-beneath/"><u>Future Trends in Generative AI and Chatbots: What Innovations Lie Beneath?</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-leave-a-life360-group-on-realme-v30-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>How To Leave a Life360 Group On Realme V30 Without Anyone Knowing? | Dr.fone</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/planning-your-getaway-made-easy-with-these-7-free-chatgpt-aided-apps/"><u>Planning Your Getaway Made Easy with These ☑️ 7 Free ChatGPT Aided Apps</u></a></li>
+</ul></div>
 

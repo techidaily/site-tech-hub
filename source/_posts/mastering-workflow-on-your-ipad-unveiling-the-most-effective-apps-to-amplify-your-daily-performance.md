@@ -1,7 +1,7 @@
 ---
 title: "Mastering Workflow on Your iPad: Unveiling the Most Effective Apps to Amplify Your Daily Performance"
-date: 2025-02-11T17:39:36.846Z
-updated: 2025-02-16T20:22:54.614Z
+date: 2025-02-26T17:33:38.667Z
+updated: 2025-03-05T17:11:29.126Z
 tags:
   - apple
 categories:
@@ -44,10 +44,6 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## A crushing upset
 
 Somehow, though, Apple managed to get many, many people negatively worked up about one aspect of its launch.
@@ -74,10 +70,6 @@ Adam Singer, VP of marketing at billboard measurement company AdQuick, [offered 
 
 The Wall Street Journal's Katie Deighton [felt similarly distressed](https://twitter.com/dollydeighton/status/1788176047134876101?s=43&t=1QeKgm6aFAVhMUF6f9rEKA): "This ad perfectly encapsulates the insight that people think technology is killing everything we ever found joy in. And then presents that as a good thing. I haven't seen such a visceral backlash to a spot in a long time."
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## The role of TikTok?
 
 You may be wondering how this could have happened. Clearly, it was an attempt to do something different from the norm. There's also, however, the extremely strong likelihood that the creatives involved were invoking a TikTok trend that's all about crushing everyday objects.
@@ -93,10 +85,6 @@ Still, it would be quite odd if someone at Apple -- or, indeed, its ad agency --
 It's even odder that Apple would release an ad that makes the company come across as a technological Big Brother, crushing all before it. If there's one company that knows about [Big Brother in ads](https://www.youtube.com/watch?v=VtvjbmoDx-I), it's Apple.
 
 Occasionally, though, a sort of groupthink can take over between the creatives and client executives if they think an idea is somehow "cool."
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jf0JvOqiAXc?si=kHEHQGC_PhBv4xij" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Sorry, why is thin so good?
 
@@ -146,17 +134,16 @@ And make us like them.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-sure.techidaily.com/he-faces-to-watch-top-cosmetic-creatives-for-2024/"><u>[New] The Faces to Watch Top Cosmetic Creatives for 2024</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/updated-2024-approved-dual-realities-decoded-meta-and-omni-explored/"><u>[Updated] 2024 Approved Dual Realities Decoded Meta and Omni Explored</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-wealthy-web-showrunners/"><u>[Updated] Wealthy Web Showrunners</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/experience-enhanced-performance-with-your-new-macbook-top-macos-15-innovations-unveiled-on-zdnet/"><u>Experience Enhanced Performance with Your New MacBook: Top MacOS 15 Innovations Unveiled on ZDNet</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/in-2024-customize-your-video-to-fit-seamlessly-in-instagram/"><u>In 2024, Customize Your Video to Fit Seamlessly in Instagram</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-here-are-some-pro-tips-for-pokemon-go-pvp-battles-on-motorola-g24-power-drfone-by-drfone-virtual-android/"><u>In 2024, Here are Some Pro Tips for Pokemon Go PvP Battles On Motorola G24 Power | Dr.fone</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/in-2024-screen-sleeves-on-sony-a6400-block-video-playback/"><u>In 2024, Screen Sleeves on Sony A6400 Block Video Playback</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/iphone-protection-myths-debunked-the-absolute-need-for-a-reliable-case-even-without-prior-usage-zdnet-insights/"><u>IPhone # Protection Myths Debunked: The Absolute Need for a Reliable Case Even Without Prior Usage | ZDNET Insights</u></a></li>
-<li><a href="https://discover-advanced.techidaily.com/personal-data-protection-with-amazon-s3-two-cost-free-strategies-unveiled/"><u>Personal Data Protection with Amazon S3: Two Cost-Free Strategies Unveiled</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/the-sleek-new-kid-on-the-block-exploring-lgs-lightweight-gram-pro-17-now-on-sale-for-a-limited-time-in-october-insights/"><u>The Sleek New Kid on the Block: Exploring LG's Lightweight Gram Pro 17, Now on Sale for a Limited Time in October – Insights</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/top-rated-budget-friendly-tablets-of-2024-comprehensive-analysis-and-reviews-by-tech-experts/"><u>Top-Rated Budget-Friendly Tablets of 2024: Comprehensive Analysis & Reviews by Tech Experts</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/unveiling-the-iphone-16s-most-innovative-features-why-you-should-consider-switching-to-apples-latest-tech-marvel-expert-review/"><u>Unveiling the iPhone 16'S Most Innovative Features: Why You Should Consider Switching to Apple's Latest Tech Marvel | Expert Review</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-culminating-sound-merging-music-with-vimeo-media-assets/"><u>[New] Culminating Sound Merging Music with Vimeo Media Assets</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-the-ultimate-list-of-premier-youtube-cosmetics-experts/"><u>[New] The Ultimate List of Premier YouTube Cosmetics Experts</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-the-ultimate-guide-to-selecting-peak-frames-per-second-for-slow-motion-cinema/"><u>2024 Approved The Ultimate Guide to Selecting Peak Frames Per Second For Slow-Motion Cinema</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/comprehensive-analysis-of-the-amazonbasics-7-port-usb-30-expansion-cable/"><u>Comprehensive Analysis of the AmazonBasics 7-Port USB 3.0 Expansion Cable</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-from-itel-a05s-to-blackberry-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data from Itel A05s to BlackBerry | Dr.fone</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/taking-flight-with-blade-an-expert-look-at-the-blh4100-120s-ready-to-fly-rc-helicopter-for-outdoors/"><u>Taking Flight with Blade: An Expert Look at the BLH4100 120S Ready To Fly RC Helicopter for Outdoors</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/the-power-of-language-models-decoding-how-gpt-4-drives-performance-for-7-leading-apps/"><u>The Power of Language Models: Decoding How GPT-4 Drives Performance for 7 Leading Apps</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/the-quest-for-authenticity-differentiating-fake-from-genuine-ai-outputs/"><u>The Quest for Authenticity: Differentiating Fake From Genuine AI Outputs</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/the-rise-of-chatbots-do-platforms-like-chatgpt-pose-a-threat-to-conventional-search-engines/"><u>The Rise of Chatbots: Do Platforms Like ChatGPT Pose a Threat to Conventional Search Engines?</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/top-10-chatgpt-powered-pdf-tools-to-boost-your-productivity/"><u>Top 10 ChatGPT-Powered PDF Tools to Boost Your Productivity</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/ultimate-memelife-top-meme-creator-tool-download-for-2024/"><u>Ultimate Memelife Top Meme Creator Tool Download for 2024</u></a></li>
 </ul></div>
 

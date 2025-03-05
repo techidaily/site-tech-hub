@@ -1,7 +1,7 @@
 ---
 title: Revamping GPT with Custom 10 Tactics
-date: 2024-08-15T22:01:54.857Z
-updated: 2024-08-16T22:01:54.857Z
+date: 2025-03-03T19:23:22.978Z
+updated: 2025-03-05T19:16:06.377Z
 tags:
   - chatgpt
   - open-ai
@@ -56,9 +56,6 @@ thumbnail: https://thmb.techidaily.com/cd4be73ff3428dfa24ba60958875da0e80b94cf66
  However, I wanted to get further information that wasn't included. So, I asked for hotel recommendations within a customized budget:
 
 ![An expanded answer with ChatGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/screenshot-2024-04-08-at-13-11-12.png)
-<!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793233/19578" target="_top" id="1793233"><img src="//a.impactradius-go.com/display-ad/19578-1793233" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793233/19578" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  As a general rule of thumb, ask as many questions as you feel necessary to get all the information you're looking for. You may also want to determine[whether premium AI prompts are worth the money](https://www.makeuseof.com/should-you-buy-ai-prompts/) .
 
@@ -70,9 +67,6 @@ thumbnail: https://thmb.techidaily.com/cd4be73ff3428dfa24ba60958875da0e80b94cf66
 
  Besides mentioning what hasn't worked for you when prompting in the past, you may also wish to outline anything that has not worked with what you're trying to do. For example, if you're putting together a new workout regimen, you may want to talk about which foods you've noticed you have a negative reaction to before.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082529/7443" target="_top" id="2082529"><img src="//a.impactradius-go.com/display-ad/7443-2082529" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082529/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 4 Don't Make Your AI Multitask
 
 ![chatgpt logo and message on smartphone feature](https://thmb.techidaily.com/7dd47039b908f15adfac56204ff22ad7becb8a002a35f04201c966ce7066b460.jpg)
@@ -85,9 +79,6 @@ thumbnail: https://thmb.techidaily.com/cd4be73ff3428dfa24ba60958875da0e80b94cf66
 
  Once you've received one prompt's results, you can move on to the next one until you're happy with everything. Doing things this way might seem more time-consuming, but[single-tasking often improves productivity](https://www.makeuseof.com/master-single-tasking-using-technology-improve-productivity/) , and it's the same for your AI, too.
 
-<!-- affiliate ads begin -->
-<a href="https://godlikehost.sjv.io/c/5597632/1920054/21774" target="_top" id="1920054"><img src="//a.impactradius-go.com/display-ad/21774-1920054" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920054/21774" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 5 Tell Your AI Tool What You Don't Want in Your Answer
 
  Do you remember in our first point when we told you to be as specific as possible? This also means you should let your AI tool know what you don't want in your answers. While generative AI can produce some pretty cool results, it can't guess everything for you.
@@ -98,13 +89,6 @@ thumbnail: https://thmb.techidaily.com/cd4be73ff3428dfa24ba60958875da0e80b94cf66
 
  Sometimes, your AI tool will give you multiple options in your answers. You can then choose whichever one works best for you.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633281&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/2_premium-icon.png" border="0"> Take advantage of PREMIUM features. 
-Create your texts / logos without any limitation. 
-No attribution required when downloading. 
-No advertising on the website. 
- TextStudio.com  PREMIUM - Monthly Membership</a>
-<!-- affiliate ads end -->
 ## 6 Upload Images or Files (if Available)
 
  Uploading images or files will often make your AI prompts much more effective. For example, if you want to[create a one-page resume with AI](https://www.makeuseof.com/create-one-page-resume/) , it's worth uploading an existing PDF and getting feedback. You can use several plugins to get better responses, especially if you use ChatGPT. One example is[Resume by jobbright.ai](https://chat.openai.com/g/g-MrgKnTZbc-resume) .
@@ -113,9 +97,6 @@ No advertising on the website.
 
 [Some AI tools can even answer questions from your PDFs](https://www.makeuseof.com/ai-tools-answer-pdf/) if you want to get more clarity.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4572700&QTY=1&AFFILIATE=108875&CART=1"><img src="	https://www.tubedigger.com/wp-content/uploads/2020/08/tubedigger-software-new.png" border="0">TubeDigger - online video downloader from mostly any site</a>
-<!-- affiliate ads end -->
 ## 7 Mention Where You Want to Use Your Prompt Answers
 
  Sometimes, the results your AI prompts generate won't be useful for the place you want to use them. For example, if you want to create a post for Instagram, you probably don't want your tool to provide huge bodies of text. On the other hand, you might want something more formal if you're going to[improve your LinkedIn profile with AI](https://www.makeuseof.com/linkedin-how-to-improve-profile-with-ai/) .
@@ -123,20 +104,14 @@ No advertising on the website.
  If you use the information from your AI prompt online, it's worth specifically mentioning where you'll use it. That way, you won't need to edit your results as much.
 
 ![A LinkedIn post generated with ChatGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/04/screenshot-2024-04-08-at-13-54-04.png)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729320&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/2_iDeviceMessageBox.png" border="0"></a>
-<!-- affiliate ads end -->
 
  AI prompting takes some time to become competent with, and you'll need to adjust how you type depending on the tool you use and the information you wish to extract. The good news, however, is that you normally only need small tweaks to make your prompts deliver better results. Having read this guide, you should now be in a much better place to prompt more efficiently.
-
 
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -145,4 +120,22 @@ No advertising on the website.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-techniques.techidaily.com/new-gold-standard-groups-peak-podcasts-from-googloud/"><u>[New] Gold Standard Groups Peak Podcasts From GooGloud</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/n-2024-shielding-your-media-what-does-unlisted-mean-in-youtube/"><u>[New] In 2024, Shielding Your Media What Does Unlisted Mean in YouTube?</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-webcamwizardry-techniquesforperfectrecordings-for-2024/"><u>[Updated] WebCamWizardry TechniquesForPerfectRecordings for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-selecting-superior-free-online-srt-translation-services-tips-and-tricks/"><u>2024 Approved Selecting Superior Free Online SRT Translation Services Tips & Tricks</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/chuckle-and-sob-with-these-top-10-instagram-meme-collectives/"><u>Chuckle & Sob with These Top 10 Instagram Meme Collectives</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/uide-screen-capture-and-sound-from-youtube-for-2024/"><u>DIY Guide Screen Capture & Sound From YouTube for 2024</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/eliminate-unwanted-screen-elements-during-cam-record/"><u>Eliminate Unwanted Screen Elements During Cam Record</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-the-complete-picture-youtubes-quick-clips/"><u>In 2024, The Complete Picture YouTube's Quick Clips</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/the-newest-player-in-ai-chatter-googles-bard-poses-serious-competition-for-chatgpt/"><u>The Newest Player in AI Chatter: Google's Bard Poses Serious Competition for ChatGPT</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/the-push-for-regulatory-measures-in-ai-perspectives-from-openais-top-dog/"><u>The Push for Regulatory Measures in AI - Perspectives From OpenAI's Top Dog</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/the-role-of-ai-in-advancing-or-deteriorating-mental-health-care-services/"><u>The Role of AI in Advancing or Deteriorating Mental Health Care Services</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/top-4-bot-detection-applications-essential-for-educators-professors-and-managers/"><u>Top 4 Bot Detection Applications: Essential for Educators, Professors & Managers</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/top-5-artificial-intelligence-tools-boosting-creative-writing-ideas/"><u>Top 5 Artificial Intelligence Tools Boosting Creative Writing Ideas</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/top-6-innovative-uses-for-the-chatgpt-coding-companion/"><u>Top 6 Innovative Uses for the ChatGPT Coding Companion</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/top-7-excellent-substitutes-for-the-chatgpt-mobile-application-by-openai/"><u>Top 7 Excellent Substitutes for the ChatGPT Mobile Application by OpenAI</u></a></li>
+</ul></div>
 

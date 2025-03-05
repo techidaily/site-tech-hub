@@ -1,7 +1,7 @@
 ---
 title: "March Release Anticipated: Exploring the Potential Launch of Apple's Upcoming MacBook Air, iPad Pro & iPad Air - Insights From ZDNet"
-date: 2025-02-09T20:30:02.251Z
-updated: 2025-02-16T23:30:29.748Z
+date: 2025-02-28T16:06:30.344Z
+updated: 2025-03-05T19:38:41.687Z
 tags:
   - apple
 categories:
@@ -60,10 +60,6 @@ Maria Diaz/ZDNET
 * In the Notes app, users can **record and transcribe audio**, which Apple Intelligence will generate a text summary of. This experience is also available in the Notes phone app.
 * Apple Intelligence is free on iOS 18, iPadOS 18, and MacOS Sequoia, and will be available to try in English only this summer.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Partnership with OpenAI
 
 Jason Hiner/ZDNET
@@ -104,10 +100,6 @@ Adam Breeden/ZDNET
 * **Check In** is available on Apple Watch, even during workouts, to help users stay safe. **Translate** is also coming to Apple Watch so users can translate text right from their wrists.
 * Another notable change is that the **double tap gesture** can be used to scroll through apps.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ITtcSWvS8bo?si=4M4BfMgaabrW6148" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## iPadOS 18
 
 Adam Breeden/ZDNET
@@ -117,10 +109,6 @@ Adam Breeden/ZDNET
 * In a long-awaited release, iPads will now have a **[calculator app](https://www.zdnet.com/article/after-14-years-apple-expected-to-unveil-the-ipad-app-weve-all-been-waiting-for-at-wwdc/)** for the first time, complete with the same interface as the one currently found on iPhones. Plus, users can use it with the Apple Pencil through a new **Math Notes** experience, which allows users to write expressions that the calculator app will solve for them once they type the equal sign, in their own handwriting,
 * Handwriting in Notes also got an upgrade with **Smart** **Script**, which refines users' writing to make it more legible while keeping the authenticity of the user's handwriting style. The feature can also match copied and pasted text to the user's handwriting. Typed text was also enhanced, with five new highlight colors and the ability to toggle sections under headings or subheadings.
 * iPadOS 18 supports **screen-sharing via SharePlay** and the same Control Center customizations, Photos app upgrades, Safari updates, and emoji Tapbacks found in **iOS 18.**
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UoBCgLTmznE?si=MXXiGsd2qpd_DrzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## MacOS 15 (Sequoia)
 
@@ -150,10 +138,6 @@ Jason Hiner/ZDNET
 * Users can **cast content** from their iPhone, iPad, or Mac to the Vision Pro using AirPlay.
 * Apple is also making the Vision Pro available in more countries starting June 28\. You can see the full list [here](https://www.apple.com/newsroom/2024/06/apple-vision-pro-arrives-in-new-countries-and-regions-beginning-june-28/).
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## AirPods
 
 Jason Hiner/ZDNET
@@ -161,10 +145,6 @@ Jason Hiner/ZDNET
 * AirPods Pro are getting **Voice Isolation** to enhance call quality in noisier environments.
 * With the new **Siri Interactions**, users can now **nod or shake their head** "yes" or "no" when responding to Siri.
 * Apple is also releasing a **Personalized Spatial Audio API** for game developers to build around the AirPods' audio technology.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fJlICvacgJY?si=jNeijBVj7ia4ammA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## tvOS 18
 
@@ -210,24 +190,20 @@ Screenshot by Nina Raemont/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-tips.techidaily.com/n-2024-how-to-easily-disableremove-youtube-shorts-permanently/"><u>[New] In 2024, How to Easily Disable/Remove YouTube Shorts Permanently?</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/new-navigating-the-essentials-of-av1-coders/"><u>[New] Navigating the Essentials of AV1 Coders</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/outubes-essential-view-total-to-secure-income/"><u>[New] YouTube's Essential View Total to Secure Income</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-in-2024-top-3-ipad-voice-logging-strategies/"><u>[Updated] In 2024, Top 3 iPad Voice Logging Strategies</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/affordable-high-quality-tablets-for-2n4-professional-evaluations-and-rankings-zdnet/"><u>Affordable High-Quality Tablets for 2N4: Professional Evaluations and Rankings | ZDNet</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/choosing-the-right-apple-notebook-macbook-air-vs-macbook-pro-key-differences-and-selection-guide/"><u>Choosing the Right Apple Notebook: MacBook Air Vs. MacBook Pro – Key Differences and Selection Guide</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/enjoy-24-discount-on-airpods-pro-2-the-latest-edition-with-built-in-hearing-aid-functionality-exclusively-on-zdnet/"><u>Enjoy 24% Discount on AirPods Pro 2 - The Latest Edition with Built-In Hearing Aid Functionality, Exclusively on ZDNET!</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/estrategia-paso-a-paso-para-instalar-y-usar-el-software-de-grabacion-de-dvd-con-winxdvd/"><u>Estrategia Paso a Paso Para Instalar Y Usar El Software De Grabación De DVD Con WinXDVD</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/exclusive-list-over-35-unbeatable-tablet-deals-still-going-on-for-amazon-prime-day-2ebd-your-ultimate-source-from-zdnet/"><u>Exclusive List: Over 35 Unbeatable Tablet Deals Still Going on for Amazon Prime Day 2Ebd | Your Ultimate Source From ZDNet</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-reset-a-tecno-spark-10c-phone-that-is-locked-by-drfone-android/"><u>In 2024, How to Reset a Tecno Spark 10C Phone that is Locked?</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/innovative-morse-input-for-laptops-precise-closure-techniques-needed-to-prevent-screen-or-hinge-damage-no-party-favors-included/"><u>Innovative Morse Input for Laptops: Precise Closure Techniques Needed to Prevent Screen or Hinge Damage - No Party Favors Included!</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/mastering-cross-device-cooperation-in-apple-pages-using-icloud-expert-strategies/"><u>Mastering Cross-Device Cooperation in Apple Pages Using iCloud: Expert Strategies</u></a></li>
-<li><a href="https://windows11.techidaily.com/ramping-up-vram-in-windows-a-comprehensive-guide-for-gaming/"><u>Ramping Up VRAM in Windows - A Comprehensive Guide for Gaming</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/revolutionary-photo-editing-unleashed-by-apples-latest-artificial-intelligence-update-utilizing-text-prompts-get-the-full-guide-digital-trends/"><u>Revolutionary Photo Editing Unleashed by Apple's Latest Artificial Intelligence Update Utilizing Text Prompts – Get the Full Guide | Digital Trends</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/top-6-benefits-of-owning-an-apple-watch-insights-from-a-leading-tech-guru/"><u>Top 6 Benefits of Owning an Apple Watch: Insights From a Leading Tech Guru</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/top-rated-ipad-models-featuring-comprehensive-reviews-by-tech-experts-insights/"><u>Top-Rated iPad Models Featuring Comprehensive Reviews by Tech Experts - Insights</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/transform-everyday-alerts-into-signature-sounds-with-android-tips-for-2024/"><u>Transform Everyday Alerts Into Signature Sounds with Android Tips for 2024</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/ultimate-guide-to-the-most-innovative-airtag-wallets-in-202-the-best-airtag-wallets-of-2024-expert-tested/"><u>Ultimate Guide to the Most Innovative AirTag Wallets in 202 The Best AirTag Wallets of 2024: Expert Tested</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/unveiling-apples-strongest-phone-shield-how-durability-meets-innovative-security-in-the-latest-case-design/"><u>Unveiling Apple's Strongest Phone Shield - How Durability Meets Innovative Security in the Latest Case Design</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/n-2024-elevate-video-production-the-audio-edition-on-youtube/"><u>[New] In 2024, Elevate Video Production The Audio Edition on YouTube</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-iphonedesktops-top-8-video-transformation-tools/"><u>[New] IPhone/Desktop's Top 8 Video Transformation Tools</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/captivating-viewers-with-visuals-picture-upload-tips/"><u>Captivating Viewers with Visuals Picture Upload Tips</u></a></li>
+<li><a href="https://fox-tips.techidaily.com/come-recuperare-i-promemoria-sul-tuo-iphone-in-un-clic/"><u>Come Recuperare I Promemoria Sul Tuo iPhone in Un Clic</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/embarking-on-the-journey-with-magix-studio-max-2024-update/"><u>Embarking on the Journey with Magix Studio Max 2024 Update</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/exploring-chatgpt-an-introduction-to-generative-ais-capabilities/"><u>Exploring ChatGPT: An Introduction to Generative AI's Capabilities</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/exploring-significant-limitations-of-openais-chatgpt-technology/"><u>Exploring Significant Limitations of OpenAI's ChatGPT Technology</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/exploring-the-drawbacks-the-9-critical-concerns-of-using-artificial-intelligence-as-a-psychotherapist-substitute/"><u>Exploring the Drawbacks: The 9 Critical Concerns of Using Artificial Intelligence as a Psychotherapist Substitute</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/freeze-the-action-find-these-top-9-gif-recipes-on-windows-pc-for-2024/"><u>Freeze the Action! Find These Top 9 GIF Recipes on Windows PC for 2024</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/from-words-to-wisdom-distinguishing-natural-language-processing-from-machine-learning/"><u>From Words to Wisdom: Distinguishing Natural Language Processing From Machine Learning</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/gpt-vs-bert-explained-key-features-and-functionality-of-top-languages-models/"><u>GPT Vs. BERT Explained: Key Features & Functionality of Top Languages Models</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/gpts-prophecy-versus-magazine-zodiac-readings/"><u>GPT's Prophecy Versus Magazine Zodiac Readings</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-a-complete-guide-to-oem-unlocking-on-honor-play-8t-by-drfone-android/"><u>In 2024, A Complete Guide To OEM Unlocking on Honor Play 8T</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/in-2024-does-tecno-camon-30-pro-5g-have-find-my-friends-drfone-by-drfone-virtual-android/"><u>In 2024, Does Tecno Camon 30 Pro 5G Have Find My Friends? | Dr.fone</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/teacher-friendly-video-capture-options-reviewed/"><u>Teacher-Friendly Video Capture Options Reviewed</u></a></li>
 </ul></div>
 

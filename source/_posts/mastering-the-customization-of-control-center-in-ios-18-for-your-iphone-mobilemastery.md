@@ -1,7 +1,7 @@
 ---
 title: Mastering the Customization of Control Center in iOS 18 for Your iPhone | MobileMastery
-date: 2025-02-15T16:14:07.114Z
-updated: 2025-02-16T22:04:41.984Z
+date: 2025-02-28T16:13:41.219Z
+updated: 2025-03-05T19:28:49.500Z
 tags:
   - apple
 categories:
@@ -28,25 +28,13 @@ If you want to follow along, you'll need to install the iOS 18 public beta on an
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## How to customize your iPhone's new Control Center with iOS 18
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 1\. Access Control Center
 
 To display Control Center, swipe down from the top-right corner of the screen. You'll notice that Control Center is now separated into three different screens. The first screen displays the core controls, the second screen shows the audio player and related settings, and the third has connectivity options. Swipe up or down to move from one screen to another, or tap one of the three icons on the right to jump to a specific one.
 
 Screenshot by Lance Whitney/ZDNET
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bofw6eJA7Bg?si=HM2gKZGH4L1otw3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 2\. Move the available controls
 
@@ -55,10 +43,6 @@ You can move any of the current controls on the first screen. To start, tap the 
 Screenshot by Lance Whitney/ZDNET
 
 **Also: [Every iPhone model that can be updated to Apple's iOS 18 (and which ones can't)](https://www.zdnet.com/article/every-iphone-model-that-can-be-updated-to-apples-ios-18-and-which-ones-cant/)**
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/j5gTm5KxtQ0?si=onF1rBS2nEM5nLGg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 3\. Resize a control
 
@@ -85,10 +69,6 @@ Screenshot by Lance Whitney/ZDNET
 If the current screens are already filled with icons, you can set up additional screens to hold more controls. Swipe down to the last screen, which shouldn't have any free space. Tap the plus icon and then tap "Add a Control." Again, browse or search for the control you wish to add. Tap that control, and it should appear in a new screen. You can continue adding more controls to the new screen this way. You can create as many as 15 screens, though you'll probably want to stop before you reach that number.
 
 Screenshot by Lance Whitney/ZDNET
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 7\. Power down from Control Center
 
@@ -126,18 +106,21 @@ Screenshot by Lance Whitney/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-access.techidaily.com/new-2024-approved-pushing-the-boundaries-of-fb-video-speed/"><u>[New] 2024 Approved Pushing the Boundaries of FB Video Speed</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/new-a-deep-dive-into-recmasters-video-capturing-technology-for-2024/"><u>[New] A Deep Dive Into Recmaster's Video Capturing Technology for 2024</u></a></li>
-<li><a href="https://article-files.techidaily.com/new-win-over-with-these-8-best-free-high-quality-3d-video-apps/"><u>[New] Win Over with These 8 Best Free, High-Quality 3D Video Apps</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/2024-approved-unlocking-hidden-potential-how-to-use-video-filters-on-zoom/"><u>2024 Approved Unlocking Hidden Potential How To Use Video Filters on Zoom</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/cancel-apple-music-effortlessly-no-itunes-required/"><u>Cancel Apple Music Effortlessly - No iTunes Required!</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/how-to-use-pokemon-go-joystick-on-nokia-g310-drfone-by-drfone-virtual-android/"><u>How to use Pokemon Go Joystick on Nokia G310? | Dr.fone</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/in-2024-finding-the-right-balance-essential-points-for-lens-shopping/"><u>In 2024, Finding the Right Balance Essential Points for Lens Shopping</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-do-honor-magic-6-lite-screen-sharing-drfone-by-drfone-android/"><u>In 2024, How To Do Honor Magic 6 Lite Screen Sharing | Dr.fone</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/in-2024-image-integration-seamless-video-content-creation/"><u>In 2024, Image Integration Seamless Video Content Creation</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/non-apple-top-rechargeable-wallet-airtags-a-must-have-accessory-spotted/"><u>Non-Apple, Top Rechargeable Wallet AirTags: A Must-Have Accessory Spotted</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/seamlessly-transfer-your-images-a-step-by-step-guide-from-google-photos-to-icloud-techtips/"><u>Seamlessly Transfer Your Images: A Step-by-Step Guide From Google Photos to iCloud - TechTips</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/top-3-essential-gadgets-to-maintain-your-iphone-13s-pristine-appearance-tips/"><u>Top 3 Essential Gadgets to Maintain Your iPhone 13'S Pristine Appearance - Tips</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/unlocking-new-potential-how-integrating-googles-gemini-enhances-ios-functionality-on-iphones/"><u>Unlocking New Potential: How Integrating Google's Gemini Enhances iOS Functionality on iPhones</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-in-2024-step-up-your-auditory-game-how-to-add-ringtones-and-sounds-that-stand-out-on-android/"><u>[New] In 2024, Step Up Your Auditory Game How to Add Ringtones & Sounds that Stand Out on Android</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/approved-counteract-fake-views-boosting-genuine-audience-size/"><u>2024 Approved Counteract Fake Views Boosting Genuine Audience Size</u></a></li>
+<li><a href="https://win-popular.techidaily.com/aomei-backup-your-trusted-partner-in-data-protection/"><u>AOMEI Backup: Your Trusted Partner in Data Protection</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/huge-savings-alert-secure-your-easter-deals-with-65-off-plus-exclusive-code-based-discounts/"><u>Huge Savings Alert: Secure Your Easter Deals with 65% OFF + Exclusive Code-Based Discounts!</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-unlock-lava-blaze-2-5g-pattern-lock-if-forgotten-6-ways-by-drfone-android/"><u>In 2024, How to Unlock Lava Blaze 2 5G Pattern Lock if Forgotten? 6 Ways</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/the-rise-in-chatgpt-security-breaches-uncovering-the-culprits-objectives/"><u>The Rise in ChatGPT Security Breaches: Uncovering the Culprits' Objectives</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/the-ultimate-solution-to-bypass-region-lockouts-connect-with-chatgpt-internationally-via-chatgpt-everywhere/"><u>The Ultimate Solution to Bypass Region Lockouts: Connect with ChatGPT Internationally via ChatGPT Everywhere</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/tips-and-tricks-enhancing-your-rpg-campaigns-using-ai-powered-assistant-chatgpt/"><u>Tips & Tricks: Enhancing Your RPG Campaigns Using AI-Powered Assistant, ChatGPT</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/top-4-ai-detection-software-solutions-for-educators-and-managers-checking-gpt-authenticity/"><u>Top 4 AI Detection Software Solutions for Educators & Managers Checking GPT Authenticity</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/top-7-creative-uses-of-chatgpt-in-the-kitchen/"><u>Top 7 Creative Uses of ChatGPT in the Kitchen</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/traversing-codegpt-an-ai-that-could-change-software-development/"><u>Traversing CodeGPT: An AI That Could Change Software Development</u></a></li>
+<li><a href="https://driver-install.techidaily.com/ultra-mini-desktop-that-mirrors-laptop-aesthetics-houses-beefy-core-i9-cpu-and-nvidias-mobile-gaming-power/"><u>Ultra Mini Desktop That Mirrors Laptop Aesthetics - Houses Beefy Core I9 CPU and NVIDIA's Mobile Gaming Power</u></a></li>
+<li><a href="https://win-extraordinary.techidaily.com/understanding-one-pager-documents-in-seo-key-concepts-and-effective-strategies/"><u>Understanding One-Pager Documents in SEO: Key Concepts & Effective Strategies</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/unlock-apple-iphone-6s-plus-with-forgotten-passcode-different-methods-you-can-try-drfone-by-drfone-ios/"><u>Unlock Apple iPhone 6s Plus With Forgotten Passcode Different Methods You Can Try | Dr.fone</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/unlocking-new-potentials-in-google-bard-with-palm-2-enhancements/"><u>Unlocking New Potentials in Google Bard with PaLM 2 Enhancements</u></a></li>
+<li><a href="https://ai-live-streaming.techidaily.com/updated-talkshoplive-reviews-and-pro-tips-is-this-the-live-commerce-tool-you-need/"><u>Updated Talkshoplive Reviews & Pro Tips Is This the Live Commerce Tool You Need?</u></a></li>
 </ul></div>
 

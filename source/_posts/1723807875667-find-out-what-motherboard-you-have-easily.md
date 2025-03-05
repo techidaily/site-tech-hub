@@ -1,7 +1,7 @@
 ---
 title: Find Out What Motherboard You Have Easily!
-date: 2024-08-15T20:10:32.188Z
-updated: 2024-08-16T20:10:32.188Z
+date: 2025-02-26T18:43:31.365Z
+updated: 2025-03-05T18:38:35.607Z
 tags:
   - win11
   - win10
@@ -25,32 +25,14 @@ If you see an error message popping up when you plug in your USB device saying t
 
 Part 1:[**What is USB selective suspend?**](https://tools.techidaily.com/drivereasy/download/)Part 2:[**Should I disable it or enable it?**](https://tools.techidaily.com/drivereasy/download/)Part 3: **[If I want to disable it, how can I do that?](https://tools.techidaily.com/drivereasy/download/)** Part 4:[**What to do if my USB device is still not recognized?**](https://tools.techidaily.com/drivereasy/download/)
 
-<!-- affiliate ads begin -->
-<a href="https://mindmanager.sjv.io/c/5597632/1787667/20231" target="_top" id="1787667"><img src="//a.impactradius-go.com/display-ad/20231-1787667" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1787667/20231" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part 1: What is USB selective suspend?
 
 **The tl;dr version**: it prevents your computer from using too much unnecessary power by putting certain USB port(s) in a low-power state, i.e. the suspend state. USB selective suspend feature only works when you have USB devices connected to your computer, and that you have the most recent correct drivers for your USB ports. (Not sure if you have the most recent correct USB device drivers? Use[**Driver Easy Free**](https://tools.techidaily.com/drivereasy/download/)to find out! 😉 ) USB devices such as webcams, printers, and scanners are not in active use every minute of the day. To reduce the overall power consumption, especially if you’re a laptop or tablet user, Windows will automatically put a certain USB port that is not in use in a low-power state. This is one of the ways how Windows avoid data loss and driver corruption in devices such as external hard drives. That said, you’ll have more power available from idle external devices, and your actively in use USB devices won’t be affected. This is where the “selective” comes. It comes really handy for laptop and tablet users, especially when you don’t have a charger plugged in. Not to worry that your idle keyboard and mouse device will be suspended, because if you have enabled Wake from Keyboard/Mouse option in BIOS settings, which is usually the case with most of the computers, these two basic devices are filtered out. Such being the case, if Windows detects that none of your USB devices are in active use, it will first suspend accordant USB ports, and then go to the sleep or hibernate mode, to reduce your power consumption. In other words, if some of your USB ports are not suspended, your Windows is not likely to be able to go to the sleep or hibernate mode. Because some of your devices keep running somewhere.
 
-<!-- affiliate ads begin -->
-<span id="1993650">
-					<video width="720" height="300" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part 2: Should I disable USB selective suspend or enable it?
 
 You should choose to leave it enable or disable it as per your own needs.
 
-<!-- affiliate ads begin -->
-<a href="https://godlikehost.sjv.io/c/5597632/1920054/21774" target="_top" id="1920054"><img src="//a.impactradius-go.com/display-ad/21774-1920054" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920054/21774" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Why should I enable it?
 
 As mentioned, the USB selective suspend is really handy for laptop and tablet users in that it saves you power from unnecessary USB devices. So if you have not experienced any problems with your external USB devices on your laptop or tablet, you should leave it be.
@@ -60,24 +42,14 @@ As mentioned, the USB selective suspend is really handy for laptop and tablet us
 If you run into_**USB device not recognized**_problem, always have the charger plugged in your computer, or you are on a full-power required USB device at all times, you should disable this feature.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a3a425938f75.png)
-<!-- affiliate ads begin -->
-<a href="https://modlily.sjv.io/c/5597632/2072819/17059" target="_top" id="2072819"><img src="//a.impactradius-go.com/display-ad/17059-2072819" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072819/17059" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Frankly speaking, the USB selective suspend feature is not entirely helpful for desktop users, since desktops are always plugging into the power cord. But it won’t hurt either just to leave it at the enable state.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698998&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/MacBook_Pro_lyrx-withsinger-tv.png" border="0">LYRX is an easy-to-use karaoke software with the professional features karaoke hosts need to perform with precision. LYRX is karaoke show hosting software that supports all standard karaoke file types as well as HD video formats, and it’s truly fun to use. 
-LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
-<!-- affiliate ads end -->
 ## Part 3: If I want to disable it, how can I do that?
 
 **NOTE**: The screenshots here are shown in Windows 10, but all the operations apply to Windows 7 and Windows 8 as well. If you have to disable the USB selective suspend feature because it’s affecting how you use your USB devices, here is how you can do it: 1) On your keyboard, press the**Windows logo key**and**S**at the same time, type in the search box **power plan**  and click **Choose a power plan**.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a377758f2bdc.png)
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2084396/18498" target="_top" id="2084396"><img src="//a.impactradius-go.com/display-ad/18498-2084396" border="0" alt="" width="1920" height="700"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084396/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 2) Click **Change plan settings**  next to the plan option you’re having now.
 
@@ -106,9 +78,6 @@ LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
 3) Click the **Update**  button next to the flagged drivers to automatically download and install the correct versions (you can do this with the **FREE** version). Or click **Update All** to automatically download and install the correct version of _all_  the drivers that are missing or out of date on your system. (This requires the [**Pro**](https://tools.techidaily.com/drivereasy/download/) version which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a3a478d09cbf.jpg)
-<!-- affiliate ads begin -->
-<a href="https://turbotech.pxf.io/c/5597632/1450763/17212" target="_top" id="1450763"><img src="//a.impactradius-go.com/display-ad/17212-1450763" border="0" alt="" width="2560" height="1440"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1450763/17212" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 * [USB](https://tools.techidaily.com/drivereasy/download/)
 
@@ -118,8 +87,6 @@ LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -127,4 +94,24 @@ LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://remote-screen-capture.techidaily.com/2024-approved-premier-productions-first-impression/"><u>2024 Approved Premier Productions First Impression</u></a></li>
+<li><a href="https://location-social.techidaily.com/4-most-known-ways-to-find-someone-on-tinder-for-samsung-galaxy-s23-by-name-drfone-by-drfone-virtual-android/"><u>4 Most-Known Ways to Find Someone on Tinder For Samsung Galaxy S23 by Name | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/beyond-high-res-embracing-consoles-gameplay/"><u>Beyond High Res: Embracing Consoles' Gameplay</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/chrome-plugin-mimicking-chatgpt-compromises-facebook-usernames-and-passwords/"><u>Chrome Plugin Mimicking ChatGPT Compromises Facebook Usernames and Passwords</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/crack-the-ransomware-code-for-just-050-mobile-strategies-and-chatgpt-insights-shared-in-our-exclusive-podcast/"><u>Crack the Ransomware Code for Just $0.50 - Mobile Strategies & ChatGPT Insights Shared in Our Exclusive Podcast!</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/decoding-truthgpt-coin-understanding-its-value-and-potential-risks-to-avoid-frauds/"><u>Decoding TruthGPT Coin: Understanding Its Value and Potential Risks to Avoid Frauds</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/delving-into-functionality-the-process-behind-7-leading-gpt-4-enhanced-applications/"><u>Delving Into Functionality: The Process Behind 7 Leading GPT-4 Enhanced Applications</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/discover-the-untapped-power-of-chatgpt-essential-5-features-youre-missing-out-on/"><u>Discover the Untapped Power of ChatGPT: Essential 5 Features You're Missing Out On</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/effective-strategies-for-successful-ai-prompts-7-essential-techniques/"><u>Effective Strategies for Successful AI Prompts - 7 Essential Techniques</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/erasing-the-footprints-of-previous-gpt-interactions/"><u>Erasing the Footprints of Previous GPT Interactions</u></a></li>
+<li><a href="https://windows11.techidaily.com/essential-strategies-for-winning-back-defective-windows-apps/"><u>Essential Strategies for Winning Back Defective Windows Apps</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/examining-the-cybersecurity-of-chatbot-technology/"><u>Examining the Cybersecurity of Chatbot Technology</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/peak-activity-on-instagram-finding-the-perfect-moment/"><u>Peak Activity on Instagram Finding the Perfect Moment</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/the-ls-showdown-tech-titans-clashing-in-real-time-for-2024/"><u>The LS Showdown Tech Titans Clashing in Real Time for 2024</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/top-cloud-storages-essential-choices-for-you-for-2024/"><u>Top Cloud Storages Essential Choices for You for 2024</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/ultimate-guide-to-buying-a-tough-laptop-insider-info/"><u>Ultimate Guide to Buying a Tough Laptop – Insider Info</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/winxvideo-ai-the-ultimate-solution-for-high-quality-screen-camera-and-microphone-capturing-software/"><u>WinxVideo AI: The Ultimate Solution for High-Quality Screen, Camera, and Microphone Capturing Software</u></a></li>
+</ul></div>
 

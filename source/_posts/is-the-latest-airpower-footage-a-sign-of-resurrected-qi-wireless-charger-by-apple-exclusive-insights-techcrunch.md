@@ -1,7 +1,7 @@
 ---
 title: Is the Latest AirPower Footage a Sign of Resurrected Qi Wireless Charger by Apple? Exclusive Insights | TechCrunch
-date: 2025-02-15T17:26:15.902Z
-updated: 2025-02-16T20:46:46.925Z
+date: 2025-03-04T16:18:20.526Z
+updated: 2025-03-05T18:37:07.387Z
 tags:
   - apple
 categories:
@@ -30,10 +30,6 @@ What do I believe Apple needs to reveal -- or, at least, set in motion -- this m
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 1\. Develop a clear on-device strategy for generative AI and invest in AI-driven developer tools
 
 Apple needs a robust strategy for integrating [gen AI](https://www.zdnet.com/article/what-is-generative-ai-and-why-is-it-so-popular-heres-everything-you-need-to-know/) across its devices. Embedding a small language model into MacOS, iOS, iPadOS, and VisionOS will enable real-time processing, improved responsiveness, and increased privacy by keeping more data on-device. Apple should also provide robust APIs to seamlessly utilize on-device, edge, and cloud processing for natural language understanding and computer vision tasks. 
@@ -51,10 +47,6 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
  Subscribe
 
 [See all](https://www.zdnet.com/newsletters/)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 2\. Leverage ethical AI and privacy as a competitive advantage
 
@@ -90,10 +82,6 @@ To meet the growing demand for fast application response times, I believe Apple 
 
 Additionally, Apple could collaborate with cloud-based AI providers to manage complex AI tasks in the cloud when necessary. Combining edge and cloud resources, this hybrid approach would create a robust and scalable AI infrastructure that supports real-time AI applications such as augmented reality, language translation, and advanced data analytics.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 5\. Enhance proactive assistance and personalization
 
 Apple's AI should proactively anticipate user needs and provide personalized experiences across its ecosystem. AI can analyze calendar events, habitual purchases, and traffic conditions to offer contextual reminders, like leaving early for appointments or suggesting groceries. Personalized briefings on Apple Watch could include weather updates, news summaries, traffic alerts, and schedule highlights.
@@ -103,10 +91,6 @@ Apple's AI should proactively anticipate user needs and provide personalized exp
 AI can enhance contextual awareness by integrating with sensors and data sources on Apple devices. For example, starting a workout on Fitness+ could prompt AI to suggest a matching Apple Music playlist, monitor health metrics in real-time with Apple Watch, and provide motivational prompts. AI can analyze user behavior to offer smart recommendations for content, activities, and products, acting as a personal assistant attuned to individual tastes.
 
 Proactive health and wellness features could remind users to take medication via the Health app, suggest wellness tips based on activity levels tracked by Apple Watch, and offer mental health support through mindfulness reminders. Personalized routines on Apple devices, like HomePod adjusting lighting based on daily habits, will enhance user experiences.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 6\. Ensure AI shines across all products and services
 
@@ -123,10 +107,6 @@ For Apple TV, AI could improve content discovery by recommending shows based on 
 Leveraging AI to enhance HomeKit's capabilities is essential, especially since HomeKit isn't a market leader in home automation. AI can offer smarter home automation by predicting user behavior to automate lights, thermostat settings, and security systems. 
 
 Integrating AI across all devices ensures a seamless user experience. Preferences and data from one device would then inform recommendations on another, creating a unified ecosystem.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UCqHbpxQGP4?si=XGkajFHdqyoKNAFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## How Apple wins the generative AI race
 
@@ -170,22 +150,16 @@ For consumers, the AI race is about trust, user experience, and integrating adva
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-web.techidaily.com/apping-into-trending-topics-for-videography-ideas-via-google-for-2024/"><u>[New] Tapping Into Trending Topics for Videography Ideas via Google for 2024</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/ed-in-2024-leading-youtube-influencers-the-elite-top-ten-list/"><u>[Updated] In 2024, Leading YouTube Influencers The Elite Top Ten List</u></a></li>
-<li><a href="https://fox-http.techidaily.com/2024-approved-the-ultimate-combo-for-your-yi-4k-adventures/"><u>2024 Approved The Ultimate Combo for Your YI 4K Adventures</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/demystifying-ai-asset-ownership-claims/"><u>Demystifying AI Asset Ownership Claims</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/digital-identity-crisis-averted-understanding-new-threats-on-twitter-metas-badge-of-honor-and-the-power-of-chatgpt-narrative-explained/"><u>Digital Identity Crisis Averted? Understanding New Threats on Twitter, Meta's Badge of Honor, and the Power of ChatGPT-Narrative Explained</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/enhancing-job-search-with-smart-chatgpt-use/"><u>Enhancing Job Search with Smart ChatGPT Use</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/exploring-the-boundaries-the-role-of-the-turing-test-in-ai-progress-and-its-potential-defeat/"><u>Exploring the Boundaries: The Role of the Turing Test in AI Progress and Its Potential Defeat</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/fast-norsk-fluency-daily-ten-minute-boosts/"><u>Fast Norsk Fluency - Daily Ten-Minute Boosts!</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/how-realme-11-pro-mirror-screen-to-pc-drfone-by-drfone-android/"><u>How Realme 11 Pro Mirror Screen to PC? | Dr.fone</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/how-to-enhance-typing-speed-by-fixing-a-lazy-keyboard-quickly/"><u>How to Enhance Typing Speed by Fixing a Lazy Keyboard Quickly</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-4-solution-to-get-rid-of-pokemon-fail-to-detect-location-on-infinix-hot-30i-drfone-by-drfone-virtual-android/"><u>In 2024, 4 solution to get rid of pokemon fail to detect location On Infinix Hot 30i | Dr.fone</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/insight-into-why-openais-head-pushes-for-greater-control-over-artificnial-intelligence/"><u>Insight Into Why OpenAI's Head Pushes for Greater Control Over Artificnial Intelligence</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/navigating-new-neural-networks-which-tech-takes-preference/"><u>Navigating New Neural Networks: Which Tech Takes Preference?</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/setting-up-voice-assistant-chatgpt-for-android-a-step-by-step-guide/"><u>Setting Up Voice Assistant ChatGPT for Android: A Step-by-Step Guide</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/the-importance-of-regulatory-measures-in-ai-perspectives-from-the-head-of-openai/"><u>The Importance of Regulatory Measures in AI: Perspectives From the Head of OpenAI</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/tips-to-improve-your-gopros-power-sustainability/"><u>Tips to Improve Your GoPro's Power Sustainability</u></a></li>
-<li><a href="https://blog-min.techidaily.com/top-10-methods-effortlessly-transform-videos-into-gifs-across-devices-and-websites/"><u>Top 10 Methods: Effortlessly Transform Videos Into GIFs Across Devices & Websites</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-2024-approved-temporary-pause-image-save-guide/"><u>[New] 2024 Approved Temporary Pause Image Save Guide</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-underwater-worlds-unseen-pro-tips-for-capturing-vivid-gopro-footage-underwater/"><u>[Updated] Underwater Worlds Unseen Pro Tips for Capturing Vivid GoPro Footage Underwater</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/2024-approved-monitor-selection-mastery-ultrawide-versus-uhd-4k/"><u>2024 Approved Monitor Selection Mastery UltraWide Versus UHD 4K</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-transfer-contacts-from-realme-11-5g-to-iphone-xs11-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Contacts from Realme 11 5G to iPhone XS/11 | Dr.fone</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/in-2024-step-by-step-incorporating-new-fonts-into-after-effects/"><u>In 2024, Step-by-Step Incorporating New Fonts Into After Effects</u></a></li>
+<li><a href="https://article-helps.techidaily.com/public-perceptions-unveiling-vllo-realities/"><u>Public Perceptions Unveiling VLLO Realities</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/step-by-step-guide-to-chatgpt-plugin-registration/"><u>Step-by-Step Guide to ChatGPT Plugin Registration</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/the-dos-and-donts-of-using-chatgpt-as-a-freelance-writer/"><u>The Do’s and Don’ts of Using ChatGPT as a Freelance Writer</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/the-polyglot-approach-to-ai-leveraging-chatgpt-effectively-in-non-english-languages/"><u>The Polyglot Approach to AI: Leveraging ChatGPT Effectively in Non-English Languages</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/the-unnoticed-artifacts-by-chatgpt/"><u>The Unnoticed Artifacts by ChatGPT</u></a></li>
+<li><a href="https://techidaily.com/three-methods-to-recover-lost-data-on-vivo-v30-by-fonelab-android-recover-data/"><u>Three methods to recover lost data on Vivo V30</u></a></li>
 </ul></div>
 

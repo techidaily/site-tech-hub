@@ -1,7 +1,7 @@
 ---
 title: "Save 20%% Today: Top Picks in Travel-Friendly Cell Case & Charger Bundles + Apple Band Deals on ZDNet"
-date: 2025-02-14T21:06:27.334Z
-updated: 2025-02-16T16:48:32.786Z
+date: 2025-03-03T19:44:58.793Z
+updated: 2025-03-05T19:05:11.431Z
 tags:
   - apple
 categories:
@@ -23,10 +23,6 @@ We've gone hands-on with dozens of laptops this year, and scoured the internet f
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Dn-24B6AURY?si=ErES2KWVnintY6h9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## The best laptop deals for Amazon Prime Day 2024
 
@@ -87,10 +83,6 @@ Asus/ZDNET
 * [Asus Chromebook Plus CX34 for $432](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FASUS-Chromebook-1920x1080-Processor-CX3402CBA-DH386-WH%2Fdp%2FB0CGJGZZ1L%2Fref%3Dsxin%5F15%5Fpa%5Fsp%5Fsearch%5Fthematic%5Fsspa%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Ca9ce9008-3603-459e-8a58-f4457742ba16%7Cdtp&dtb=1): Asus' stylish CX34 Chromebook Plus comes with a bit more local storage than most Chromebooks (256GB) as well as an ultra-thin form factor and over 10 hours of battery life.
 * [HP Chromebook 14 for $189 (Save $100)](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FHP-Chromebook-Graphics-Keyboard-14a-na0226nr%2Fdp%2FB09SVSBVP1%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Ca9ce9008-3603-459e-8a58-f4457742ba16%7Cdtp&dtb=1): It doesn't get much more budget than this. HP's 14-inch Chromebook comes with just 4GB of RAM, so it's perfect as a backup machine or secondary travel device.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Prime Day MacBook deals
 
 Kyle Kucharski/ZDNET
@@ -106,10 +98,6 @@ HPZDNET
 * [HP Envy x360 2-in-1 for $845 (save $50)](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FHP-2-1-Touch-Screen-i7-16GB%2Fdp%2FB0CZ37N6DL%2Fref%3Dsr%5F1%5F3%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Ca9ce9008-3603-459e-8a58-f4457742ba16%7Cdtp&dtb=1): We recently had a chance to go [hands-on with HP's newest version of the Envy x360 2-in-1](https://www.zdnet.com/article/ive-tested-dozens-of-2-in-1-laptops-this-one-hits-all-the-right-marks/), and praised the laptop for its gorgeous display and all-around optimization. If that laptop looked interesting to you, but you want to save some money, the previous version is on sale on Amazon for just $845 for the 16GB, 2TB version.
 * [HP Victus 15.6-inch laptop for $599 (Save $100)](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FHP-Display-i5-12450H-Dedicated-15-fa1029nr%2Fdp%2FB0CVNJ7LLN%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Ca9ce9008-3603-459e-8a58-f4457742ba16%7Cdtp&dtb=1): This is a great price for a 15-inch laptop designed for cloud gaming and light creative work. It's got an Nvidia GeForce RTX 2050 dedicated graphics card and a144Hz Full-HD display.
 * [HP 14 inch Laptop for $349 (Save $120)](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FHP-Generation-i3-1215U-Graphics-14-dq5009nr%2Fdp%2FB0CS3XPZNH%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Ca9ce9008-3603-459e-8a58-f4457742ba16%7Cdtp&dtb=1): This budget laptop features a modest suite of hardware but covers all the basics for an inexpensive but capable and portable machine.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Prime Day Lenovo deals
 
@@ -127,10 +115,6 @@ Kyle Kucharski/ZDNET
 
 ---
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jf0JvOqiAXc?si=kHEHQGC_PhBv4xij" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## More Prime Day 2024 laptop deals
 
 Kyle Kucharski/ZDNET
@@ -144,10 +128,6 @@ Kyle Kucharski/ZDNET
 ### When is Amazon Prime Day 2024?
 
 Amazon Prime Day officially ran from July 16 to July 17, but sometimes deals continue afterward.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jpdGEJJwMLY?si=eKgXOPpNeYvYKcel" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### What's the best gaming laptop deal on Prime Day?
 
@@ -230,22 +210,24 @@ And the best deals still available from other retailers this week:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-clips.techidaily.com/new-in-2024-unusual-message-content-finding-myself-online/"><u>[New] In 2024, Unusual Message Content Finding Myself Online</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-2024-approved-10-best-asmr-recorders-for-exceptional-audio-quality/"><u>[Updated] 2024 Approved 10 Best ASMR Recorders for Exceptional Audio Quality</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/updated-apex-pcs-the-summit-of-desktop-technology-for-2024/"><u>[Updated] Apex PCs - The Summit of Desktop Technology for 2024</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/ed-how-to-sculpt-the-perfect-youtube-moniker-tips-and-tricks/"><u>[Updated] How to Sculpt the Perfect YouTube Moniker Tips & Tricks</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-your-pathway-to-audio-mastery-download-and-install-vrecorder/"><u>[Updated] Your Pathway to Audio Mastery - Download & Install VRecorder</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/approved-audiovisual-harmony-merging-audio-and-visual-elements-on-youtube/"><u>2024 Approved Audiovisual Harmony Merging Audio and Visual Elements on YouTube</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/boost-your-productivity-on-the-go-expert-picks-of-leading-ipad-apps-to-supercharge-workflow-curated/"><u>Boost Your Productivity on the Go: Expert Picks of Leading iPad Apps to Supercharge Workflow | Curated</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/comprehensive-list-of-apple-watches-upgradable-to-watchos-11-and-exclusions-find-out-your-models-compatibility/"><u>Comprehensive List of Apple Watches Upgradable to WatchOS 11 & Exclusions: Find Out Your Model's Compatibility</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/expert-take-on-iphone-15-top-pick-for-tech-savvy-and-pros-alike-insights/"><u>Expert Take on iPhone 15: Top Pick for Tech Savvy and Pros Alike Insights</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/how-to-record-podcast-remotely-for-2024/"><u>How to Record Podcast Remotely for 2024</u></a></li>
-<li><a href="https://change-location.techidaily.com/how-to-stop-google-chrome-from-tracking-your-location-on-oppo-a38-drfone-by-drfone-virtual-android/"><u>How to Stop Google Chrome from Tracking Your Location On Oppo A38? | Dr.fone</u></a></li>
-<li><a href="https://driver-download.techidaily.com/lenovo-ideapad-100-find-and-install-the-latest-drivers-for-windows-10-systems-easily/"><u>Lenovo IdeaPad 100 - Find and Install the Latest Drivers for Windows 10 Systems Easily!</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/the-ultimate-selection-of-premium-smartwatches-for-2-surveying-the-best-options-available-featuring-expert-evaluations-and-reviews/"><u>The Ultimate Selection of Premium Smartwatches for 2 Surveying the Best Options Available , Featuring Expert Evaluations & Reviews</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/top-5-essential-airpods-pro-accessories-to-upgrade-your-audio-experience/"><u>Top 5 Essential AirPods Pro Accessories to Upgrade Your Audio Experience</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/top-rated-laptops-a-comprehensive-review-of-apple-dell-and-other-leading-brands/"><u>Top-Rated Laptops : A Comprehensive Review of Apple, Dell, and Other Leading Brands</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/upcoming-tech-news-apples-next-move-with-new-dual-oled-ipad-pro-models-and-a-redesigned-129-inch-air-set-release-insights/"><u>Upcoming Tech News: Apple's Next Move with New Dual OLED iPad Pro Models and a Redesigned 12.9-Inch Air Set Release - Insights</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/whats-new-in-apple-carplay-explore-the-latest-upgrades-unveiled-at-wwdc-2024-by-zdnet-comprehensive-guide/"><u>What’s New in Apple CarPlay? Explore the Latest Upgrades Unveiled at WWDC 202^4 by ZDNET - Comprehensive Guide</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-2024-approved-a-comprehensive-approach-to-documenting-google-meet-discussions/"><u>[New] 2024 Approved A Comprehensive Approach to Documenting Google Meet Discussions</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-2024-approved-ultimate-action-cams-in-dynamic-scenes/"><u>[New] 2024 Approved Ultimate Action Cams in Dynamic Scenes</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/-streamlined-system-for-scrutinizing-youtube-subscriber-profits-3-step-guide-for-2024/"><u>[New] A Streamlined System for Scrutinizing YouTube Subscriber Profits 3-Step Guide for 2024</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-data-collection-and-analysis/"><u>[Updated] Data Collection and Analysis</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-solutions-for-hidden-youtube-shorts-thumbnail-problems/"><u>2024 Approved Solutions for Hidden YouTube Shorts Thumbnail Problems</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/2024-approved-the-art-of-virtual-exploration-a-tactical-approach/"><u>2024 Approved The Art of Virtual Exploration A Tactical Approach</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/comparing-top-generative-ais-chatgpt-vs-bing-chat/"><u>Comparing Top Generative AIs: ChatGPT Vs. Bing Chat</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/connect-easily-to-messaging-apps-enroll-in-chatgpt-telegram-without-using-your-number/"><u>Connect Easily to Messaging Apps: Enroll in ChatGPT, Telegram Without Using Your Number</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/conquer-spreadsheets-mastering-the-combination-of-excel-and-chatgpt/"><u>Conquer Spreadsheets: Mastering the Combination of Excel & ChatGPT</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/crucial-considerations-when-selecting-a-conversational-ai-service-7-tips-for-success/"><u>Crucial Considerations When Selecting a Conversational AI Service: 7 Tips for Success</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/deciphering-nvidias-custom-ai-framework-who-can-access-it-and-why-you-should/"><u>Deciphering NVIDIA's Custom AI Framework – Who Can Access It and Why You Should</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/diy-dialogue-dynamics-building-custom-conversational-bots/"><u>DIY Dialogue Dynamics: Building Custom Conversational Bots</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/elevate-your-dating-game-the-impact-of-ai-companionship-via-chatgpt/"><u>Elevate Your Dating Game: The Impact of AI Companionship via ChatGPT</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/entrepreneurs-guide-navigating-through-essential-ai-applications/"><u>Entrepreneur's Guide: Navigating Through Essential AI Applications</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/essentials-unpacked-functioning-of-gpt4all/"><u>Essentials Unpacked: Functioning of GPT4All</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/in-2024-conquer-audio-production-a-comprehensible-guide-to-podcast-editing/"><u>In 2024, Conquer Audio Production A Comprehensible Guide to Podcast Editing</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/resolve-bcm20n45a0-driver-conflicts-effortlessly-with-our-expert-tips/"><u>Resolve Bcm20n45a0 Driver Conflicts Effortlessly with Our Expert Tips</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/voice-controlled-chatgpt-now-available-in-mercedes-benz-cars/"><u>Voice-Controlled ChatGPT Now Available in Mercedes-Benz Cars</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/-rule-the-top-10-youtube-stars-amongst-genders-for-2024/"><u>Women Rule The Top 10 YouTube Stars Amongst Genders for 2024</u></a></li>
 </ul></div>
 

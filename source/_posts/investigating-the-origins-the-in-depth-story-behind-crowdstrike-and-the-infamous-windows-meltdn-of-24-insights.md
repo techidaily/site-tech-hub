@@ -1,7 +1,7 @@
 ---
 title: "Investigating the Origins: The In-Depth Story Behind CrowdStrike and the Infamous Windows Meltdn of '24 | Insights"
-date: 2025-02-12T16:33:14.091Z
-updated: 2025-02-16T18:06:04.062Z
+date: 2025-03-03T18:32:16.174Z
+updated: 2025-03-05T17:15:25.618Z
 tags:
   - apple
 categories:
@@ -32,10 +32,6 @@ In this case, the trusted software developer is a firm called CrowdStrike Holdin
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## What happened?
 
 CrowdStrike, which sells security software designed to keep systems safe from external attacks, pushed a faulty ["sensor configuration update"](https://www.crowdstrike.com/blog/falcon-update-for-windows-hosts-technical-details/) to the millions of PCs worldwide running its Falcon Sensor software. That update was, according to CrowdStrike, a "Channel File" whose function was to identify newly observed, malicious activity by cyberattackers.
@@ -53,10 +49,6 @@ Three additional instances of the IPC Template Type were deployed between April 
 Repairing the damage from a flaw like this is a painfully tedious process that requires manually rebooting every affected PC into the Windows Recovery Environment and then deleting the defective file from the PC using the old-school command line interface. If the PC in question has its system drive protected by Microsoft's BitLocker encryption software, as virtually all business PCs do, the fix requires one extra step: entering a unique 48-character BitLocker recovery key to gain access to the drive and allow the removal of the faulty CrowdStrike driver.
 
 If you know anyone whose job involves administering Windows PCs in a corporate network that uses the CrowdStrike code, you can be confident they are very busy right now, and will be for days to come.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## We've seen this movie before
 
@@ -94,10 +86,6 @@ In the You Can't Make This Up Department… CrowdStrike's founder and CEO, Georg
 
 What makes the 2024 sequel so much worse is that it also affected Windows-based servers running in the cloud, on Microsoft Azure and on AWS. Just as with the many laptops and desktop PCs that were bricked by this faulty update, the cloud-based servers require time-consuming manual interventions to recover.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## CrowdStrike's QA failed
 
 Surprisingly, this isn't CrowdStrike's first faulty Falcon sensor update this year.
@@ -123,10 +111,6 @@ Given recent events, some of those customers might be wondering whether that "br
 As part of its initial response, CrowdStrike says it plans to take additional measures to improve "software resiliency and testing." More importantly, it plans to implement a "staggered deployment strategy ... in which updates are gradually deployed to larger portions of the sensor base, starting with a canary deployment." The company also committed to provide customers with "greater control over the delivery of Rapid Response Content updates by allowing granular selection of when and where these updates are deployed."
 
 Meanwhile, the United States House of Representatives Homeland Security Committee plans to call CrowdStrike's CEO up for hearings on what went wrong, and CrowdStrike's Chief Security Officer, Shawn Henry, [posted an apology on LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:7220983915421806592/), admitting "On Friday, we failed you. ... The confidence we built in drips over the years was lost in buckets within hours, and it was a gut punch."
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## How much fault should Microsoft shoulder?
 
@@ -176,19 +160,24 @@ Nonetheless, this incident, which caused many billions of dollars' worth of dama
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-direct.techidaily.com/new-streamline-storytelling-with-inshots-transition-features-for-2024/"><u>[New] Streamline Storytelling with Inshot's Transition Features for 2024</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/updated-piceditorpro-assessment-complete-review/"><u>[Updated] PicEditorPro Assessment – Complete Review</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/updated-unleashing-shareability-secrets-of-trending-on-fb-for-2024/"><u>[Updated] Unleashing Shareability Secrets of Trending on Fb for 2024</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/2024-approved-capturing-stunning-hdr-portraits-step-by-step-instructions/"><u>2024 Approved Capturing Stunning HDR Portraits Step-by-Step Instructions</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/discover-apples-fall-lineup-innovative-ai-infused-upgrades-coming-to-iphone-ipad-and-mac-full-expose-by-zdnet/"><u>Discover Apple's Fall Lineup: Innovative AI-Infused Upgrades Coming to iPhone, iPad, and Mac - Full Exposé by ZDNet</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/exclusive-pick-for-the-ultimate-stylus-tablet-of-216plus372-in-depth-analysis-and-expert-ratings-gizmosphere/"><u>Exclusive Pick for the Ultimate Stylus Tablet of 2^16+3(7/2): In-Depth Analysis and Expert Ratings | GizmoSphere</u></a></li>
-<li><a href="https://article-posts.techidaily.com/gradient-goes-night-premieres-trick/"><u>Gradient Goes Night Premiere's Trick</u></a></li>
-<li><a href="https://discover-exceptional.techidaily.com/how-to-embed-a-brand-logo-directly-on-the-main-web-page-with-flipbuilder-complete-guide/"><u>How To Embed A Brand Logo Directly On The Main Web Page With FlipBuilder - Complete Guide</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/how-to-successfully-bypass-icloud-activation-lock-on-iphone-7-plus-by-drfone-ios/"><u>How to Successfully Bypass iCloud Activation Lock on iPhone 7 Plus</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-fix-oem-unlock-missing-on-xiaomi-13-ultra-by-drfone-android/"><u>In 2024, How To Fix OEM Unlock Missing on Xiaomi 13 Ultra?</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/inside-apples-next-move-diving-into-artificial-intelligence-with-future-home-robotics/"><u>Inside Apple's Next Move: Diving Into Artificial Intelligence with Future Home Robotics</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/install-ios-16-preview-on-your-iphone-today-essential-guide-and-considerations/"><u>Install IOS 16 Preview on Your iPhone Today – Essential Guide & Considerations</u></a></li>
-<li><a href="https://win-dash.techidaily.com/roccat-mousedeck-installer-where-to-find-and-download-the-latest-version/"><u>Roccat Mousedeck Installer: Where to Find and Download the Latest Version</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/top-4-kid-friendly-ipads-expert-reviews-and-buying-guide-zdnet/"><u>Top 4 Kid-Friendly iPads : Expert Reviews & Buying Guide (ZDNet)</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ial-up-the-impact-with-50-free-branding-graphics/"><u>[New] Dial Up the Impact with 50 FREE Branding Graphics</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-storytelling-mastery-scriptwriting-secrets-revealed/"><u>[New] Storytelling Mastery Scriptwriting Secrets Revealed</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/easy-troubleshooting-techniques-for-i2c-peripheral-interfaces-and-their-drivers/"><u>Easy Troubleshooting Techniques for I2C Peripheral Interfaces and Their Drivers</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/exploring-ais-potential-with-prompt-engineering-careers/"><u>Exploring AI's Potential with Prompt Engineering Careers</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/exploring-artificial-intelligence-simulating-talks-between-humans-and-chatbots/"><u>Exploring Artificial Intelligence: Simulating Talks Between Humans and Chatbots</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/exploring-beyond-gpt-4s-freedom-6-compelling-reasons-to-continue-using-chatgpt-plus/"><u>Exploring Beyond GPT-4's Freedom: 6 Compelling Reasons to Continue Using ChatGPT Plus</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/exploring-the-implications-of-chatgpt-on-personal-data-security-is-it-a-concern/"><u>Exploring the Implications of ChatGPT on Personal Data Security - Is It a Concern?</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/gpt-versus-bing-battle-of-the-top-tier-ai-communicators/"><u>GPT Versus Bing: Battle of the Top-Tier AI Communicators</u></a></li>
+<li><a href="https://win-fantastic.techidaily.com/guide-simple-et-facile-configurer-des-operations-de-sauvegarde-sous-windows-881/"><u>Guide Simple Et Facile : Configurer Des Opérations De Sauvegarde Sous Windows 8/8.1</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/guide-to-unlocking-chatgpts-new-browser-functionality-and-extension-support/"><u>Guide to Unlocking ChatGPT’s New Browser Functionality and Extension Support</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/how-chatgpts-use-of-current-data-impacts-people-worldwide/"><u>How ChatGPT's Use of Current Data Impacts People Worldwide</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-3-ways-to-fake-gps-without-root-on-realme-c53-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Ways to Fake GPS Without Root On Realme C53 | Dr.fone</u></a></li>
+<li><a href="https://ios-location-track.techidaily.com/in-2024-solutions-to-spy-on-apple-iphone-xr-with-and-without-jailbreak-drfone-by-drfone-virtual-ios/"><u>In 2024, Solutions to Spy on Apple iPhone XR with and without jailbreak | Dr.fone</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/innovative-solutions-for-loneliness-embracing-chatgpt/"><u>Innovative Solutions for Loneliness: Embracing ChatGPT</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/insights-on-the-cancelled-two-faced-journey-a-comprehensive-review/"><u>Insights on the Cancelled 'Two Faced Journey': A Comprehensive Review</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/intelligent-aid-6-ways-to-improve-home-task-execution/"><u>Intelligent Aid: 6 Ways to Improve Home Task Execution</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/premier-sound-pivot-for-podcast-masters/"><u>Premier Sound Pivot for Podcast Masters</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/scrutinizing-how-content-makers-get-paid-from-youtube-shorts-videos/"><u>Scrutinizing How Content Makers Get Paid From YouTube Shorts Videos</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/vob-video-editing-on-a-budget-top-5-free-options-for-2024/"><u>VOB Video Editing on a Budget Top 5 Free Options for 2024</u></a></li>
 </ul></div>
 

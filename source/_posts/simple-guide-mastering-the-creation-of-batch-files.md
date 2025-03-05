@@ -1,7 +1,7 @@
 ---
 title: "Simple Guide: Mastering the Creation of Batch Files"
-date: 2024-08-15T20:09:20.328Z
-updated: 2024-08-16T20:09:20.328Z
+date: 2025-02-27T17:23:43.333Z
+updated: 2025-03-05T16:15:57.342Z
 tags:
   - win11
   - win10
@@ -35,9 +35,6 @@ Here’s how you can do it:
 
 1. a) If you’re using**Windows 10** , one your keyboard, press the**Windows logo key** and**I** at the same time to open the Settings window; Then select**System** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bc841fc50433.jpg) b) If you’re using**Windows 7** or**8** ,**right-click** on the blank area of your desktop, then select**Screen resolution** .
-<!-- affiliate ads begin -->
-<a href="https://propmoneyinc.pxf.io/c/5597632/1803116/14559" target="_top" id="1803116"><img src="//a.impactradius-go.com/display-ad/14559-1803116" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803116/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 2. Set**Orientation** to the option you want from the drop-down menu:  
 
 **Landscape** — the normal screen you see  
@@ -54,9 +51,6 @@ Here’s how you can do it:
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398457/3022" target="_top" id="398457"><img src="//a.impactradius-go.com/display-ad/3022-398457" border="0" alt="www.sentrypc.com" width="980" height="120"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398457/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Method 2: Flip your computer screen in NVIDIA Control Panel
 
  If you’re using**NVIDIA graphics card** , you can also flip your computer screen in**NVIDIA Control Panel** on your Windows computer.
@@ -74,15 +68,9 @@ Follow these steps to do it:
 
  2) If you use dual or multiple monitors, select the monitor before changing the orientation.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bc8455019b8f.jpg)
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/863039/11832" target="_top" id="863039"><img src="//a.impactradius-go.com/display-ad/11832-863039" border="0" alt="" width="300" height="250"/></a>
-<!-- affiliate ads end -->
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4728277&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/1_iDeviceMessageBox.png" border="0"></a>
-<!-- affiliate ads end -->
 ### Method 3: Try these Hot Keys
 
  If you’re using the**5th Generation Intel Processor or the previous** , there’re Hot Keys you can use to flip your computer screen.
@@ -92,13 +80,7 @@ Follow these steps to do it:
 1. On your keyboard, press the**Windows logo key** and**R** at the same time to invoke the**Run** box.
 2. Type**control** and press**Enter** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bc84627896f2.png)
-<!-- affiliate ads begin -->
-<a href="https://ancheer.sjv.io/c/5597632/1657301/17326" target="_top" id="1657301"><img src="//a.impactradius-go.com/display-ad/17326-1657301" border="0" alt="" width="1920" height="933"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657301/17326" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 3. Click**System** when**View by Large icons** selected.![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bc84656e6c56.jpg)
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087407/7443" target="_top" id="2087407"><img src="//a.impactradius-go.com/display-ad/7443-2087407" border="0" alt="" width="600" height="500"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087407/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 4. You should then see the information of your Processor. The generation is**the number right after the ix-** . For example, my computer processor is:![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bc846824fb6c.jpg) Then the generation of my computer processor is**4th** .
 
  If your Intel Processor is**5th or any previous** , and you’re**using Intel graphics card** , then you can try the hotkeys below to flip your computer screen.
@@ -124,8 +106,6 @@ Follow these steps to do it:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -133,4 +113,20 @@ Follow these steps to do it:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-guidance.techidaily.com/updated-top-tier-eyeball-enticer-author/"><u>[Updated] Top-Tier Eyeball Enticer Author</u></a></li>
+<li><a href="https://location-fake.techidaily.com/10-best-fake-gps-location-spoofers-for-lava-blaze-curve-5g-drfone-by-drfone-virtual-android/"><u>10 Best Fake GPS Location Spoofers for Lava Blaze Curve 5G | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/head-to-head-comparison-unveiling-samsung-galaxy-s22-and-s22plus-against-apples-iphone-13-expert-review/"><u>Head-to-Head Comparison: Unveiling Samsung Galaxy S22 & S22+ Against Apple's iPhone 13 | Expert Review</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/how-to-bypass-realme-gt-5-240w-s-lock-screen-pattern-pin-or-password-by-drfone-android-unlock-android-unlock/"><u>How to bypass Realme GT 5 (240W)’s lock screen pattern, PIN or password</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-change-your-oppo-a78-5g-location-on-life360-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>How to Change Your Oppo A78 5G Location on life360 Without Anyone Knowing? | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-full-guide-to-fix-itoolab-anygo-not-working-on-lava-yuva-3-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Full Guide to Fix iToolab AnyGO Not Working On Lava Yuva 3 Pro | Dr.fone</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-the-top-5-android-apps-that-use-fingerprint-sensor-to-lock-your-apps-on-poco-c50-by-drfone-android/"><u>In 2024, The Top 5 Android Apps That Use Fingerprint Sensor to Lock Your Apps On Poco C50</u></a></li>
+<li><a href="https://win-blog.techidaily.com/optimizing-gameplay-performance-for-avatars-pandora-world/"><u>Optimizing Gameplay Performance for Avatar's Pandora World</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/revolutionize-your-ai-experience-with-chatgpts-latest-update-for-personalized-gpt-models/"><u>Revolutionize Your AI Experience with ChatGPT's Latest Update for Personalized GPT Models</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/step-by-step-process-to-revamp-your-youtube-audio-tracks/"><u>Step-by-Step Process to Revamp Your YouTube Audio Tracks</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/steps-to-spot-and-stop-phishing-on-chatgpt-sites/"><u>Steps to Spot and Stop Phishing on ChatGPT Sites</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/the-great-debate-of-natural-language-processing-distinguishing-features-of-gpt-versus-bert/"><u>The Great Debate of Natural Language Processing: Distinguishing Features of GPT Versus BERT</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/the-invisible-library-strategies-for-safeguarding-your-chatgpt-exchanges/"><u>The Invisible Library: Strategies for Safeguarding Your ChatGPT Exchanges</u></a></li>
+</ul></div>
 

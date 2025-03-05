@@ -1,7 +1,7 @@
 ---
 title: Simple Techniques to Reach Your PC's Control Center on Windows ([V]7) Instantly
-date: 2024-08-15T20:11:57.049Z
-updated: 2024-08-16T20:11:57.049Z
+date: 2025-03-02T16:17:26.486Z
+updated: 2025-03-05T17:30:01.705Z
 tags:
   - win11
   - win10
@@ -26,9 +26,6 @@ What operating system is running on your phone?
 * [**iOS**](https://tools.techidaily.com/drivereasy/download/)
 * [**Android**](https://tools.techidaily.com/drivereasy/download/)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4728277&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/1_iDeviceMessageBox.png" border="0"></a>
-<!-- affiliate ads end -->
 ### iOS (iPhone users)
 
 #### To block unwanted calls in iOS
@@ -39,9 +36,6 @@ What operating system is running on your phone?
 4. Scroll to the bottom of your screen, then tap**Block this Caller** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-662.png)
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2092236/16384" target="_top" id="2092236"><img src="//a.impactradius-go.com/display-ad/16384-2092236" border="0" alt="" width="1920" height="329"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2092236/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 #### To unblock phone numbers
 
@@ -52,17 +46,11 @@ What operating system is running on your phone?
 2) Go to**Settings** \>**Phone** \>**Call Blocking & Identification** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-669.png)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3546200&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.binteko.com/sites/default/files/banner01_468x60a.gif" border="0"></a>
-<!-- affiliate ads end -->
 
  3) Tap**Edit** on the upper-tight corner,then tap**the minus icon** next to the phone number you want to unblock. Tap**Unblock** to unblock this phone number.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/block-calls-on-iPhone-1.png)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BGmail%2BBackup"><img src="https://www.systoolsgroup.com/box/gmail-backup.png" border="0"></a>
-<!-- affiliate ads end -->
 ### Android
 
 #### To block unwanted calls in Android
@@ -73,9 +61,6 @@ What operating system is running on your phone?
 4. Tap**Block** to confirm.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/block-calls-on-Android-phone.png)
-<!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Elite.png" border="0"></a>
-<!-- affiliate ads end -->
 
 #### To unblock phone numbers
 
@@ -84,10 +69,6 @@ You can follow the steps below to unblock a phone number:
  1) In your**Phone** app, tap**the menu icon** on the upper-right corner and select**Settings** . Then tap**Blocked numbers** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-681.png)
-<!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/Affiliates_300x250px_valentinesday.png" border="0"></a>
-<!-- affiliate ads end -->
 
  2) Tap**the delete icon** next to the phone number to unblock it. Then tap**UNBLOCK** to confirm.
 
@@ -104,8 +85,6 @@ You can follow the steps below to unblock a phone number:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -113,4 +92,24 @@ You can follow the steps below to unblock a phone number:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-activity-recording.techidaily.com/new-2024-approved-cross-device-synchronization-aligning-zoom-with-calendar-events/"><u>[New] 2024 Approved Cross-Device Synchronization Aligning Zoom with Calendar Events</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-2024-approved-in-depth-analysis-of-green-screen-technology-in-kinemaster/"><u>[New] 2024 Approved In-Depth Analysis of Green Screen Technology in Kinemaster</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-2024-approved-navigating-the-world-of-screen-capture-with-bandicam/"><u>[New] 2024 Approved Navigating the World of Screen Capture with Bandicam</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-clear-the-chaos-edit-and-cull-your-bulky-tiktok-collections/"><u>[New] Clear the Chaos Edit & Cull Your Bulky TikTok Collections</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-in-2024-comprehensive-directory-of-inexpensive-stock-images/"><u>[New] In 2024, Comprehensive Directory of Inexpensive Stock Images</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-in-2024-top-10-music-videos-on-facebook-how-to-make-a-facebook-song-video/"><u>[Updated] In 2024, Top 10 Music Videos on Facebook | How to Make A Facebook Song Video?</u></a></li>
+<li><a href="https://win11.techidaily.com/eliminating-wsl-2s-errortoomanypatterns-a-step-by-step-solution/"><u>Eliminating WSL 2'S ERROR_TOO_MANY_PATTERNS: A Step-by-Step Solution</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/new-audiovisual-allure-designing-engaging-podcast-covers-that-echo-across-platforms-for-2024/"><u>New Audiovisual Allure Designing Engaging Podcast Covers that Echo Across Platforms for 2024</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/new-what-is-ai-voice-over-wondershare-virbo-glossary/"><u>New What Is AI Voice Over? | Wondershare Virbo Glossary</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/top-3-key-oversights-with-ml-algorithms/"><u>Top 3 Key Oversights with ML Algorithms</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/top-7-incredible-chatgpt-browser-add-ons-enhancing-your-ai-queries-and-responses-on-google/"><u>Top 7 Incredible ChatGPT Browser Add-Ons: Enhancing Your AI Queries & Responses on Google</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/transform-your-storytelling-with-chatgpt-crafting-immersive-rpg-experiences-via-interactive-dialogues/"><u>Transform Your Storytelling with ChatGPT: Crafting Immersive RPG Experiences via Interactive Dialogues</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/understanding-the-bert-nlp-framework-a-comparison-with-gpt-models/"><u>Understanding the BERT NLP Framework: A Comparison with GPT Models</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/understanding-the-mystery-of-ai-black-boxes-functions-and-mechanisms/"><u>Understanding the Mystery of AI Black Boxes: Functions & Mechanisms</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/unleash-productivity-explore-the-top-6-chatgpt-modules-integrated-in-visual-studio-code/"><u>Unleash Productivity: Explore the Top 6 ChatGPT Modules Integrated in Visual Studio Code</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/unlock-the-potential-of-auto-gpt-with-these-8-strategic-applications/"><u>Unlock the Potential of Auto-GPT with These 8 Strategic Applications</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/unpacking-emotional-intelligence-in-machine-learning/"><u>Unpacking Emotional Intelligence in Machine Learning</u></a></li>
+</ul></div>
 

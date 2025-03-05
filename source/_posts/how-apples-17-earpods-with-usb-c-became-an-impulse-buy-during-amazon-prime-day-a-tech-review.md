@@ -1,7 +1,7 @@
 ---
 title: How Apple's $17 EarPods With USB-C Became an Impulse Buy During Amazon Prime Day - A Tech Review
-date: 2025-02-13T00:31:28.736Z
-updated: 2025-02-16T18:42:30.702Z
+date: 2025-02-26T19:31:09.499Z
+updated: 2025-03-05T16:12:02.831Z
 tags:
   - apple
 categories:
@@ -30,10 +30,6 @@ For one, wired earbuds don't need to be charged; you just plug them into a phone
 Secondly, the microphone quality on Apple's wired EarPods is some of the best I've heard. For video meetings, phone calls, and even voice recording, the EarPods' microphone is on par with lavaliers that cost significantly more. I've used these to record several video scripts for ZDNET's social media channels, and it blows my mind every time I hear how crisp the audio comes out.
 
 It should come as no surprise that I quickly bought another pair of USB-C [Apple EarPods](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FApple-EarPods-Headphones-Built-Control%2Fdp%2FB0CHXC5ZDX%3Fth%3D1%26tag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cd1727d25-62fd-44c1-aba8-20b881a32385%7Cdtp&dtb=1) when they finally went on sale this morning. You can bet I'll be bringing them along for more plane rides and commutes throughout the summer.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## When will this deal expire?
 
@@ -71,22 +67,20 @@ Deals are subject to sell out or expire at any time, though ZDNET remains commit
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-zero.techidaily.com/avigating-through-top-10-youtube-mp3-extractors-for-2024/"><u>[New] Navigating Through Top 10 YouTube Mp3 Extractors for 2024</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-in-2024-fastforward-lingertap-recording/"><u>[Updated] In 2024, FastForward LingerTap Recording</u></a></li>
-<li><a href="https://article-tips.techidaily.com/updated-panasonic-hx-a1-wearable-action-camera-review/"><u>[Updated] Panasonic HX-A1 Wearable Action Camera Review</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/discover-the-amazing-features-of-craft-on-your-macos-a-step-by-step-usage-tutorial/"><u>Discover the Amazing Features of Craft on Your macOS – A Step-by-Step Usage Tutorial.</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/in-2024-quick-start-making-your-own-sports-highlight-film/"><u>In 2024, Quick Start Making Your Own Sports Highlight Film</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-three-ways-to-sim-unlock-motorola-moto-g-stylus-2023-by-drfone-android/"><u>In 2024, Three Ways to Sim Unlock Motorola Moto G Stylus (2023)</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-top-apps-and-online-tools-to-track-vivo-y100-5g-phone-withwithout-imei-number-by-drfone-android/"><u>In 2024, Top Apps and Online Tools To Track Vivo Y100 5G Phone With/Without IMEI Number</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/iphone-16-now-features-advanced-image-recognition-technology-mirroring-google-lens-capabilities-insights-for-tech-enthusiasts-techspot/"><u>IPhone 16 Now Features Advanced Image Recognition Technology, Mirroring Google Lens Capabilities - Insights for Tech Enthusiasts | TechSpot</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/iphone-showdown-iphone-1er-vs-iphone-14-pro-max-deciding-on-your-best-bet-expert-review-reviews/"><u>IPhone Showdown: IPhone 1Er vs iPhone 14 Pro Max – Deciding on Your Best Bet [Expert Review] Reviews</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/mastering-ios-16-top-5-indispensable-features-for-enhanced-iphone-experience-discover-and-utilize-them-effortlessly/"><u>Mastering iOS 16: Top 5 Indispensable Features for Enhanced iPhone Experience - Discover and Utilize Them Effortlessly</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/navigating-powertoys-for-efficient-file-locking/"><u>Navigating PowerToys for Efficient File Locking</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/own-the-latest-from-apples-wwdc-today-discover-top-picks-and-preorder-details-exclusive-guide/"><u>Own the Latest From Apple's WWDC Today! Discover Top Picks and Preorder Details Exclusive Guide</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/pro-mobile-showdown-google-pixel-e-vs-apple-iphone-13-expert-review-and-buying-guide/"><u>Pro Mobile Showdown: Google Pixel E vs Apple iPhone 13 | Expert Review and Buying Guide</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/resolved-amd-gpu-missing-in-windows-11-setup/"><u>Resolved: AMD GPU Missing in Windows 11 Setup</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/the-path-to-perfection-editing-numbers-on-tiktok-for-2024/"><u>The Path to Perfection Editing Numbers on TikTok for 2024</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/top-rated-iphone-friendly-smart-lock-elegant-design-meets-advanced-security/"><u>Top-Rated iPhone-Friendly Smart Lock: Elegant Design Meets Advanced Security</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/top-rated-iphones-professional-reviews-and-comparisons/"><u>Top-Rated iPhones : Professional Reviews & Comparisons</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-seamless-tweeting-expert-video-conversion-software/"><u>[New] Seamless Tweeting Expert Video Conversion Software</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-unlock-your-youtube-potential-idea-generation-guide/"><u>[New] Unlock Your YouTube Potential Idea Generation Guide</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-in-2024-step-by-step-guide-to-flawless-zoom-screen-sharing/"><u>[Updated] In 2024, Step-by-Step Guide to Flawless Zoom Screen Sharing</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/3-solutions-to-hard-reset-itel-p55plus-phone-using-pc-drfone-by-drfone-reset-android-reset-android/"><u>3 Solutions to Hard Reset Itel P55+ Phone Using PC | Dr.fone</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/ace-the-interview-with-chatgpt-your-secret-weapon-to-land-that-dream-position/"><u>Ace the Interview with ChatGPT: Your Secret Weapon to Land that Dream Position</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/best-and-free-substitutes-to-openais-sora-a-comprehensive-list-of-6-options/"><u>Best and Free Substitutes to OpenAI's Sora: A Comprehensive List of 6 Options</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/best-practices-for-leveraging-chatgpt-in-mental-health-coaching-with-confidentiality-and-care/"><u>Best Practices for Leveraging ChatGPT in Mental Health Coaching with Confidentiality and Care</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/exploring-the-ins-and-outs-of-quantum-hdr-for-2024/"><u>Exploring the Ins and Outs of Quantum HDR for 2024</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/from-page-to-screen-crafting-jujutsu-kaisen-stories-on-tiktok/"><u>From Page to Screen Crafting Jujutsu Kaisen Stories on TikTok</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-get-your-laptops-usb-mouse-working-again-step-by-step-fixes/"><u>How to Get Your Laptop's USB Mouse Working Again – Step by Step Fixes</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/in-2024-4-ways-to-transfer-contacts-from-apple-iphone-14-pro-max-to-iphone-quickly-drfone-by-drfone-transfer-from-ios/"><u>In 2024, 4 Ways to Transfer Contacts from Apple iPhone 14 Pro Max to iPhone Quickly | Dr.fone</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/1721933286629-simplify-your-interaction-with-chatgpt-discover-the-ultimate-chrome-add-on/"><u>Simplify Your Interaction with ChatGPT: Discover the Ultimate Chrome Add-On</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/virtual-companionship-using-chatgpt-to-connect-people/"><u>Virtual Companionship: Using ChatGPT to Connect People</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/why-choose-claude-over-chatgpt-unveiling-4-benefits-for-users-and-developers/"><u>Why Choose Claude Over ChatGPT? Unveiling 4 Benefits for Users and Developers</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/why-content-writers-shouldnt-over-depend-on-ai-chatbot-assistance-8-key-points-explained/"><u>Why Content Writers Shouldn't Over-Depend on AI Chatbot Assistance – 8 Key Points Explained</u></a></li>
 </ul></div>
 

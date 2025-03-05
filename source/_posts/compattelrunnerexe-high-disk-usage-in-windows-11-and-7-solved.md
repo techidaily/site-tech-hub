@@ -1,7 +1,7 @@
 ---
 title: CompatTelRunner.exe High Disk Usage in Windows 11 & 7 [Solved]
-date: 2024-08-15T20:11:36.280Z
-updated: 2024-08-16T20:11:36.280Z
+date: 2025-03-01T17:29:14.330Z
+updated: 2025-03-05T17:43:11.082Z
 tags:
   - win11
   - win10
@@ -28,10 +28,6 @@ thumbnail: https://thmb.techidaily.com/84a67b265f596974e97bfdda7a90a26dbf8d262c8
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002162&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/1_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (1 PC) Free upgrade. No monthly fees ever. 
-</a>
-<!-- affiliate ads end -->
 ### Fix 1: Turn off color filters in Windows Settings
 
  If your screen suddenly turns black and white when you’re using your Windows 10 PC, especially when you’re copying files using the shortcut key **Ctrl** +**C** , you may accidentally trigger the**color filters** feature by pressing its shortcut key (**The Windows logo key** +**Ctrl** +**C** ). Follow the instructions below to turn off color filters:
@@ -40,26 +36,11 @@ thumbnail: https://thmb.techidaily.com/84a67b265f596974e97bfdda7a90a26dbf8d262c8
 
 1. On your keyboard, press**the Windows logo key** and type**color filter** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/Snap335.png)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718730&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_vMixCallScreenshot1-large.jpg" border="0">vMix HD - Software based live production. vMix HD includes everything in vMix Basic HD plus 1000 inputs, Video List, 4 Overlay Channels, and 1 vMix Call 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
-<!-- affiliate ads end -->
 2. In the pop-up window,**turn off** the toggle under**Use color filters** . Then**uncheck** the box next to**Allow the shortcut key to toggle filter on or off** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/Snap336.png)
-<!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002580&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/3_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF 2-Year Plan</a>
-<!-- affiliate ads end -->
 
  Your display on your Windows 10 PC should be back to normal after you turn off the color filters feature.
 
-<!-- affiliate ads begin -->
-<h3 id="200610"><a href="https://sentrypc.7eer.net/c/5597632/200610/3022">Parental Control Software</a></h3>
-<span class="text-ad-content">
-	#1 Rated Parental Control Software.<br/>
-	Monitor & Control all PC Activity!<br/>
-		<cite style="color:green">sentrypc.com/parental-controls/</cite>
-	</span><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/200610/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Bonus tip: Update your graphics driver
 
  If turning off color filters doesn’t resolve this issue. Don’t worry! You may also run into this issue if there is something wrong with your graphics driver. Try updating your graphics driver to see if you can resolve this issue. By updating your graphics driver, you can also avoid many unexpected display issues and boost your game performance!
@@ -75,15 +56,9 @@ There are two ways to update your graphics driver: **manually**  and **automatic
 1. **[Download](https://tools.techidaily.com/drivereasy/download/)**  and install Driver Easy.
 2. Run Driver Easy and click **Scan Now**  . Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/Snap182.png)
-<!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1872496/14483" target="_top" id="1872496"><img src="//a.impactradius-go.com/display-ad/14483-1872496" border="0" alt="" width="750" height="625"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872496/14483" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 3. Click **Update**  next to your graphics card to automatically download the correct version of its driver, then you can install it manually. Or click **Update All**  to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click **Update All.**  You get **full support** and a **30-day money back** guarantee  ).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/Snap183.png)
-<!-- affiliate ads begin -->
-<a href="https://checkout.devart.com/order/checkout.php?PRODS=5023555&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/45b430710ad04765a6afd58d9d9fafca/products/dotConnect_O.png" border="0">dotConnect for Oracle is an ADO.NET data provider for Oracle with Entity Framework Support.</a>
-<!-- affiliate ads end -->
 
  You can do it for free if you like, but it’s partly manual.
 
@@ -99,8 +74,6 @@ There are two ways to update your graphics driver: **manually**  and **automatic
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -108,4 +81,23 @@ There are two ways to update your graphics driver: **manually**  and **automatic
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-record-videos.techidaily.com/new-mastering-outro-techniques-for-videos/"><u>[New] Mastering Outro Techniques for Videos</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-revolutionizing-content-with-square-shapes-for-social-media-gains/"><u>[New] Revolutionizing Content with Square Shapes for Social Media Gains</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-in-2024-recover-lost-photos-on-snapchat/"><u>[Updated] In 2024, Recover Lost Photos on Snapchat</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-practical-tips-to-store-your-favorite-instagram-reels/"><u>[Updated] Practical Tips to Store Your Favorite Instagram Reels</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-restore-lost-airdrop-functionality-with-easy-solutions-for-iosmacos/"><u>[Updated] Restore Lost Airdrop Functionality with Easy Solutions for iOS/macOS</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/8-safe-and-effective-methods-to-unlock-your-iphone-12-mini-without-a-passcode-by-drfone-ios/"><u>8 Safe and Effective Methods to Unlock Your iPhone 12 mini Without a Passcode</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/guide-to-wipe-your-chathistory-on-gpt/"><u>Guide to Wipe Your ChatHistory on GPT</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/harness-the-power-of-ai-chatgpts-role-in-video-scriptwriting/"><u>Harness the Power of AI: ChatGPT's Role in Video Scriptwriting</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/how-does-googles-pioneering-palm-2-transform-large-language-models-in-the-tech-industry/"><u>How Does Google's Pioneering PaLM 2 Transform Large Language Models in the Tech Industry?</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/how-i-leveraged-chatgpt-for-crafting-engaging-podcast-content/"><u>How I Leveraged ChatGPT for Crafting Engaging Podcast Content</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/identifying-and-defending-yourself-against-fraudgpt-the-notorious-phishing-ai/"><u>Identifying and Defending Yourself Against FraudGPT, the Notorious Phishing AI</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/innovating-interaction-tomorrows-ai-evolution/"><u>Innovating Interaction: Tomorrow's AI Evolution</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/innovative-approach-engage-chatgpt-to-support-your-automobile-modification-endeavors/"><u>Innovative Approach: Engage ChatGPT to Support Your Automobile Modification Endeavors</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/mastering-drone-image-shake-reduction/"><u>Mastering Drone Image Shake Reduction</u></a></li>
+<li><a href="https://win-forum.techidaily.com/mastering-networking-on-giants-of-digital-age-facebook-twitter-instagram-and-youtub/"><u>Mastering Networking on Giants of Digital Age: Facebook, Twitter, Instagram & YouTub</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/step-by-step-solution-for-clearing-up-outriders-sound-interruptions/"><u>Step-by-Step Solution for Clearing Up Outriders' Sound Interruptions</u></a></li>
+</ul></div>
 

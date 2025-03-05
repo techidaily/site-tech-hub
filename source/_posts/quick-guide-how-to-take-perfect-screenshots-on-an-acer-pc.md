@@ -1,7 +1,7 @@
 ---
 title: "Quick Guide: How to Take Perfect Screenshots on an Acer PC"
-date: 2024-08-15T20:10:01.476Z
-updated: 2024-08-16T20:10:01.476Z
+date: 2025-02-27T16:27:28.043Z
+updated: 2025-03-05T17:45:16.489Z
 tags:
   - win11
   - win10
@@ -55,9 +55,6 @@ The answer is, no.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_5975bf68b4ff6.png)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726960&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/forexrobotronbox.gif" border="0">Forex Robotron Basic Package</a>
-<!-- affiliate ads end -->
 ## **2\. Use DISM Tool**
 
 **DISM**  stands for Deployment Image & Servicing Management. It is a tool that allows you to make changes to Windows features, packages, drivers, and international settings. In this case, we will use it to help us clean up our WinSxS folder.
@@ -67,9 +64,6 @@ The answer is, no.
  1) On your keyboard, press **Windows logo key**   and **X**   at the same time, then choose **Command Prompt (Admin)** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_5975c1bb42138.png)
-<!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4691139&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/SU-200-1.png" border="0">Software Update Pro - Check and update software installed on your computer. </a>
-<!-- affiliate ads end -->
 
  When prompted with the UAC, hit **Yes** to continue.
 
@@ -80,16 +74,10 @@ Dism.exe /online /Cleanup-Image /StartComponentCleanup
  This command helps you clean up files when your system is not in use.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_5975c1fc428ac.png)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2019/10/Project-Manager-version-3-1600x900-768x419.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
-<!-- affiliate ads end -->
 
  3) Check for possible typo. Then hit**Enter** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_5975c4b394177.png)
-<!-- affiliate ads begin -->
-<a href="https://uperfect.sjv.io/c/5597632/1246754/15155" target="_top" id="1246754"><img src="//a.impactradius-go.com/display-ad/15155-1246754" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1246754/15155" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  4) In the same DISM window, type in or copy and paste in the following command:
 
@@ -98,16 +86,10 @@ Dism.exe /online /Cleanup-Image /StartComponentCleanup /ResetBase
  This command helps you remove all superseded versions of every component in the component store.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_5975c546794f7.png)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4713565&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Mac： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
-<!-- affiliate ads end -->
 
  5) Make sure you have made no typo and hit**Enter** . Wait for it to finish.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/07/img_5975c55d520c4.png)
-<!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1095219&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-20_%281%29.jpg" border="0"></a>
-<!-- affiliate ads end -->
 
  6) Still in the same window, type in or copy and paste in the following command:
 
@@ -133,8 +115,6 @@ Hope your problem solved!
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -142,4 +122,26 @@ Hope your problem solved!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-docs.techidaily.com/ed-in-2024-sound-to-word-converter-for-videos/"><u>[Updated] In 2024, Sound to Word Converter for Videos</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/2024-approved-step-by-step-walkthrough-of-instagram-story-screening/"><u>2024 Approved Step-by-Step Walkthrough of Instagram Story Screening</u></a></li>
+<li><a href="https://app-tips.techidaily.com/becoming-an-effective-tech-team-leader-by-understanding-the-core-business-strategies-for-success-on-zdnet/"><u>Becoming an Effective Tech Team Leader by Understanding the Core Business | Strategies for Success on ZDNet</u></a></li>
+<li><a href="https://win11.techidaily.com/beyond-manual-inputs-embracing-ai-in-windows-operations/"><u>Beyond Manual Inputs: Embracing AI in Windows Operations</u></a></li>
+<li><a href="https://video-capture.techidaily.com/discover-the-ultimate-5-gaming-webcam-winners-for-streaming/"><u>Discover the Ultimate 5 Gaming Webcam Winners for Streaming</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-teleport-your-gps-location-on-oppo-find-x6-pro-drfone-by-drfone-virtual-android/"><u>How To Teleport Your GPS Location On Oppo Find X6 Pro? | Dr.fone</u></a></li>
+<li><a href="https://video-capture.techidaily.com/in-2024-rx-heritage-bundle/"><u>In 2024, RX Heritage Bundle</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/petcube-cam-review/"><u>Petcube Cam Review</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/seeking-financial-insights-are-ai-platforms-like-chatgpt-and-bard-credible-advisors/"><u>Seeking Financial Insights: Are AI Platforms Like ChatGPT and Bard Credible Advisors?</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/step-by-step-guide-saving-and-transferring-your-conversations-with-chatgpt/"><u>Step-by-Step Guide: Saving and Transferring Your Conversations with ChatGPT</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/the-5-pitfalls-of-relying-on-chatgpt-for-insights-into-the-world-of-crypto-trading/"><u>The 5 Pitfalls of Relying on ChatGPT for Insights Into the World of Crypto Trading</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/the-best-ispoofer-alternative-to-try-on-honor-x9a-drfone-by-drfone-virtual-android/"><u>The Best iSpoofer Alternative to Try On Honor X9a | Dr.fone</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/the-pioneering-project-by-elon-musk/"><u>The Pioneering Project by Elon Musk</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/the-ultimate-ai-debate-which-leads-chatgpt-plus-or-perplexity-comparing-top-chatbots-for-your-needs/"><u>The Ultimate AI Debate: Which Leads - ChatGPT Plus or Perplexity? Comparing Top Chatbots for Your Needs</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/tie-breaking-bard-vs-bing-whos-best/"><u>Tie-Breaking: Bard Vs. Bing – Who’s Best?</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/top-8-limitations-of-using-ai-chatbots-for-content-creation/"><u>Top 8 Limitations of Using AI Chatbots for Content Creation</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/top-9-benefits-of-switching-to-chatgpt-plus-today/"><u>Top 9 Benefits of Switching to ChatGPT Plus Today</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/unlock-the-full-potential-of-chatgpt-on-your-smartphone-strategies-for-android-and-ios-apps/"><u>Unlock the Full Potential of ChatGPT on Your Smartphone: Strategies for Android and iOS Apps</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/your-essential-guide-to-the-top-8-complimentary-roku-channels-for-2n2024/"><u>Your Essential Guide to the Top 8 Complimentary Roku Channels for 2N2024</u></a></li>
+</ul></div>
 

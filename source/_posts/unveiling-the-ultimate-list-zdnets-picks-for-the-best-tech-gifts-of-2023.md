@@ -1,7 +1,7 @@
 ---
 title: "Unveiling the Ultimate List: ZDNet's Picks for the Best Tech Gifts of 2023!"
-date: 2025-02-16T00:28:50.287Z
-updated: 2025-02-16T18:04:38.731Z
+date: 2025-02-26T17:56:41.782Z
+updated: 2025-03-05T18:58:35.074Z
 tags:
   - apple
 categories:
@@ -26,17 +26,9 @@ But which features will actually have the most impact on iPhone enthusiasts? Wha
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 1\. The 5x zoom comes to the Pro
 
 When Apple first released the [iPhone 15](https://www.zdnet.com/article/iphone-15-plus-review/) series, it only gave the 5x tetraprism zoom lens to the Max Pro. This time around, both the 16 Pro and the 16 Pro Max are getting the high-end zoom capability. This choice means the camera is essentially the same on the 16 Pro and 16 Pro Max, leaving other features to differentiate the two models. 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 2\. The camera control
 
@@ -52,10 +44,6 @@ The camera control button is available on all iPhone 16 models, but it's when pa
 
 [Not everyone is a fan](https://www.zdnet.com/article/i-want-to-be-excited-about-the-iphone-16s-new-camera-button-but-cant-for-now/) of the new camera button, however, as this shift from software to hardware will likely come with usability growing pains and mistakenly-accessed features.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/sn2STvYRVb8?si=Z-XhJJ1Mc-Em5Kqy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 3\. Siri's much-needed makeover
 
 The iOS 18 beta running on iPhone 15 Pro.
@@ -70,10 +58,6 @@ Well, the time has finally come. Apple unveiled a ton of new functionality for S
 
 Beyond Siri, we have [Visual Intelligence](https://www.zdnet.com/article/apple-adds-visual-intelligence-its-answer-to-google-lens-to-the-iphone-16-camera/), which allows multi-modal AI via the camera, similar to what we've seen across other AI models this year. Apple Intelligence will start with a live beta in October in the US, with additional countries in December, and additional languages next year. 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 4\. Upgraded chipset for the AI age
 
 Screenshot by Kayla Solino/ZDNET
@@ -85,10 +69,6 @@ The 3mm technology has smaller, more efficient transistors, and constitutes a bi
 **Also: [6 reasons why iOS 18 makes the iPhone 16 a must-upgrade for me](https://www.zdnet.com/article/6-reasons-why-ios-18-makes-the-iphone-16-a-must-upgrade-for-me/)**
 
 Even with AI's demanding memory requirements, having this much memory on the iPhone is a bonus for overall performance, particularly multitasking and starting up apps. 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 5\. The biggest iPhones yet
 
@@ -124,15 +104,16 @@ The iPhone 16 Pro and Pro Max are the largest iPhones ever, with 6.3 and 6.9-inc
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-share.techidaily.com/new-audiences-in-motion-analyzers-for-2024/"><u>[New] Audiences in Motion Analyzers for 2024</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/updated-demystifying-srt-file-creation-post-export-in-premiere-for-2024/"><u>[Updated] Demystifying SRT File Creation Post-Export in Premiere for 2024</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/2024-approved-free-windows-screen-capture-top-5-applications-reviewed/"><u>2024 Approved Free Windows Screen Capture Top 5 Applications Reviewed</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/affordable-and-powerful-discover-the-best-value-in-smartphones-with-iphone-14-plus-and-its-long-lasting-battery-why-you-cant-resist-this-deal/"><u>Affordable & Powerful: Discover the Best Value in Smartphones with iPhone 14 Plus and Its Long-Lasting Battery – Why You Can't Resist This Deal!</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/ensuring-privacy-and-security-unveiling-apples-techniques-for-protecting-your-ai-processed-cloud-data/"><u>Ensuring Privacy and Security: Unveiling Apple's Techniques for Protecting Your AI Processed Cloud Data</u></a></li>
-<li><a href="https://extra-information.techidaily.com/inside-the-evolved-sony-bdp-s6700-world/"><u>Inside the Evolved Sony BDP-S6700 World</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/iphone-shot-success-adopt-these-10-key-photographic-rules/"><u>IPhone Shot Success Adopt These 10 Key Photographic Rules</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/mastering-android-device-manager-the-ultimate-guide-to-unlocking-your-xiaomi-mix-fold-3-device-by-drfone-android/"><u>Mastering Android Device Manager The Ultimate Guide to Unlocking Your Xiaomi Mix Fold 3 Device</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/samsung-reclaims-lead-in-global-smartphone-shipments-surpassing-apple-rival-manufacturer-closes-gap/"><u>Samsung Reclaims Lead in Global Smartphone Shipments, Surpassing Apple; Rival Manufacturer Closes Gap</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/top-rated-compact-tablets-comprehensive-testing-and-reviews-by-tech-experts-insight/"><u>Top-Rated Compact Tablets : Comprehensive Testing & Reviews by Tech Experts Insight</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-2024-approved-evening-enchantments-in-motion-reviewing-childrens-narrative-videos/"><u>[New] 2024 Approved Evening Enchantments in Motion Reviewing Children's Narrative Videos</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/n-2024-converting-your-favourite-tracks-bridging-spotify-with-youtube-music/"><u>[New] In 2024, Converting Your Favourite Tracks Bridging Spotify with YouTube Music</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-premium-free-facebook-media-craftsman-suite-for-2024/"><u>[New] Premium Free Facebook Media Craftsman Suite for 2024</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/discount-hunting-for-chinese-made-vr-devices-for-2024/"><u>Discount Hunting for Chinese-Made VR Devices for 2024</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/how-to-start-using-the-advanced-ai-driven-microsoft-bing-engine/"><u>How to Start Using the Advanced, AI-Driven Microsoft Bing Engine</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/identifying-bing-chatgpts-fraudulent-cryptocurrency-coins-detection-tips/"><u>Identifying Bing ChatGPT's Fraudulent Cryptocurrency Coins - Detection Tips</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/in-depth-look-all-the-new-ai-features-apple-unravelled-at-worldwide-developers-conference-2024/"><u>In-Depth Look: All the New AI Features Apple Unravelled at Worldwide Developers Conference 2024</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/inclusivity-in-ai-how-gpt-4-becomes-universal/"><u>Inclusivity in AI: How GPT-4 Becomes Universal</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/innovative-ai-powered-platforms-engage-and-analyze-your-pdfs-and-texts/"><u>Innovative AI-Powered Platforms: Engage and Analyze Your PDFs and Texts</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/updated-free-mp4-video-editing-solutions-the-top-10-options/"><u>Updated Free MP4 Video Editing Solutions The Top 10 Options</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/updated-top-10-premium-platforms-for-high-definition-video-wallpaper-acquisition-for-2024/"><u>Updated Top 10 Premium Platforms for High-Definition Video Wallpaper Acquisition for 2024</u></a></li>
 </ul></div>
 

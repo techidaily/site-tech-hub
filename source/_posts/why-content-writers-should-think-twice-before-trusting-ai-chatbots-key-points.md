@@ -1,7 +1,7 @@
 ---
 title: Why Content Writers Should Think Twice Before Trusting AI Chatbots – Key Points
-date: 2024-08-15T22:02:04.692Z
-updated: 2024-08-16T22:02:04.692Z
+date: 2025-03-04T18:43:45.793Z
+updated: 2025-03-05T17:06:12.513Z
 tags:
   - chatgpt
   - open-ai
@@ -35,9 +35,6 @@ thumbnail: https://thmb.techidaily.com/250f73dd4b9929867a630f9b8f32aa45e2b59d5ca
 
 **Download:** WebChatGPT for[Chrome](https://chrome.google.com/webstore/detail/chatgpt-advanced/lpfemeioodjbpieminkklglpmhlngfcn) |[Firefox](https://addons.mozilla.org/en-US/firefox/addon/web-chatgpt/) (Free)
 
-<!-- affiliate ads begin -->
-<a href="https://godlikehost.sjv.io/c/5597632/1920047/21774" target="_top" id="1920047"><img src="//a.impactradius-go.com/display-ad/21774-1920047" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920047/21774" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 2\. ChatGPT Prompt Genius
 
  ChatGPT can seem magical when you see screenshots of some of the answers it gives people. But those screenshots don't show the prompts users have typed to make ChatGPT better. Like[learning the best Google search operators](https://www.makeuseof.com/tag/best-google-search-tips-pdf/) , you need to know how to frame the right prompts for ChatGPT. And this extension can help.
@@ -68,10 +65,6 @@ thumbnail: https://thmb.techidaily.com/250f73dd4b9929867a630f9b8f32aa45e2b59d5ca
 
 **Download:** ChatGPT Writer for[Chrome](https://chrome.google.com/webstore/detail/chatgpt-writer-write-mail/pdnenlnelpdomajfejgapbdpmjkfpjkp/) (Free)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-writer-free-word-processor-1x.3d9c80d.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
-<!-- affiliate ads end -->
 ## 4\. YouTube Summary With ChatGPT
 
  YouTube creators have the option to add a transcript of their full video or not. As a user, you have no control over this. Many times, all you want is a transcript to quickly browse through what the video is going to say so that you can know if it's worth your time.
@@ -81,9 +74,6 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
  Click any timestamp to be taken to that moment in the video. If you're already midway through the video, you can jump to the current time in the transcript. And you can copy-paste the transcript anywhere.
 
 ![using the 'transcript and summary box' from youtube summary extension](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/youtube-summary-extension.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851691&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 
  The extension also has a button to view an AI-generated summary of the video. Clicking this takes you to ChatGPT, with the transcript already typed in the prompt. All you have to do now is prompt ChatGPT to summarize the text, and you'll get an instant summary.
 
@@ -91,9 +81,6 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 
 **Download:** YouTube Summary With ChatGPT for[Chrome](https://chrome.google.com/webstore/detail/youtube-summary-with-chat/nmmicjeknamkfloonkhhcjmomieiodli) |[Safari](https://apps.apple.com/us/app/glasp-social-web-highlighter/id1605690124) (Free)
 
-<!-- affiliate ads begin -->
-<a href="https://boody-eco-wear.pxf.io/c/5597632/1572622/13846" target="_top" id="1572622"><img src="//a.impactradius-go.com/display-ad/13846-1572622" border="0" alt="" width="1000" height="1298"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1572622/13846" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 5\. Talk-to-ChatGPT
 
  ChatGPT is currently a text-only AI app where the prompts and the answers are written. But Google Chrome offers some excellent voice commands and text-to-speech features. Talk-to-ChatGPT bridges this gap to let you issue prompts by talking to your computer and having the ChatGPT answers read aloud by AI.
@@ -115,9 +102,6 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 ## 7\. Perplexity AI
 
 ![query answers by perplexity ai extension](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/perplexity-ai.jpg)
-<!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=39655089&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/wa/01_WA_728x90.jpg" border="0"></a>
-<!-- affiliate ads end -->
 
  The decentralization of information and knowledge has done much good in recent years. But, like anything in tech, it carries an ugly side to it, too. The rise of fake news and misinformation, for instance, is one of its biggest unwanted by-products.
 
@@ -127,23 +111,17 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 
 **Download:** Perplexity AI for[Chrome](https://chrome.google.com/webstore/detail/perplexity-ai-companion/hlgbcneanomplepojfcnclggenpcoldo) (Free)
 
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2048972/16384" target="_top" id="2048972"><img src="//a.impactradius-go.com/display-ad/16384-2048972" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048972/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## ChatGPT Is Awesome, But Be Realistic…
 
  With these extensions including search results in ChatGPT, showing you how to use the right prompts, and using AI to improve YouTube or Gmail, you might think it's time to offload a majority of your work to ChatGPT. But take a breath.
 
  Yes, the AI capabilities are amazing compared to what has existed before this, but ChatGPT isn't ready for prime-time yet. It still has a long way to go and depends largely upon the user keying in the right prompts. The data that it bases its answers on can also leave a lot to be desired in certain cases. For now, feel free to use it, but don't rely wholly on it, and take those results with a pinch of salt.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -152,4 +130,24 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://desktop-recording.techidaily.com/new-in-2024-the-pros-guide-to-iphone-voice-memos-and-more/"><u>[New] In 2024, The Pro's Guide to iPhone Voice Memos and More</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-2024-approved-snapchats-money-making-opportunities-exposed/"><u>[Updated] 2024 Approved Snapchat's Money-Making Opportunities Exposed</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-flip-clips-android-reversal-technique/"><u>2024 Approved Flip Clips Android Reversal Technique</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-3-effective-methods-to-fake-gps-location-on-android-for-your-xiaomi-civi-3-disney-100th-anniversary-edition-drfone-by-drfone-virtual/"><u>In 2024, 3 Effective Methods to Fake GPS location on Android For your Xiaomi Civi 3 Disney 100th Anniversary Edition | Dr.fone</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/in-2024-pixels-perfection-leading-online-photo-correction-tech/"><u>In 2024, Pixels Perfection Leading Online Photo Correction Tech</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/24-strategies-to-increase-views-via-thumbnails/"><u>In 2024, Strategies to Increase Views via Thumbnails</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/key-fact-4-molecular-ion-peak-often-the-tallest-peak-in-the-spectrum-it-corresponds-to-the-molec/"><u>Key Fact #4: Molecular Ion Peak - Often the Tallest Peak in the Spectrum; It Corresponds to the Molec</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ts-of-sending-short-videos-to-youtube-tech-for-mobile-and-laptops/"><u>Secrets of Sending Short Videos to YouTube - Tech for Mobile & Laptops</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/security-of-extensions-for-chatgpt-platforms/"><u>Security of Extensions for ChatGPT Platforms?</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/sky-high-planning-no-cost-choose-among-7-ai-travel-helpers/"><u>Sky High Planning, No Cost – Choose Among 7 AI Travel Helpers</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/staying-on-top-of-your-game-6-benefits-of-using-chatgpt-plus-amidst-gpt-4s-free-release/"><u>Staying On Top of Your Game: 6 Benefits of Using ChatGPT Plus Amidst GPT-4's Free Release!</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/step-by-step-guide-using-gpt-4-on-chatgpt-now/"><u>Step-by-Step Guide: Using GPT-4 on ChatGPT Now</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/the-future-is-now-how-ai-powered-assistants-such-as-chatgpt-are-reshaping-smartwatches/"><u>The Future Is Now: How AI-Powered Assistants Such as ChatGPT Are Reshaping Smartwatches</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/the-tech-enthusiasts-playbook-side-job-opportunities-with-chatgpt-and-diy-pc-tips-for-gamers-and-builders-alike/"><u>The Tech Enthusiast's Playbook: Side Job Opportunities with ChatGPT & DIY PC Tips for Gamers and Builders Alike</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/the-ultimate-guide-to-elevating-your-lifestyle-through-chatgpt/"><u>The Ultimate Guide to Elevating Your Lifestyle Through ChatGPT</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/the-ultimate-guide-to-navigating-openais-exclusive-custom-gpt-offerings-today/"><u>The Ultimate Guide to Navigating OpenAI’s Exclusive Custom GPT Offerings Today</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/top-10-visionaries-their-views-on-artificial-intelligence/"><u>Top 10 Visionaries: Their Views on Artificial Intelligence</u></a></li>
+</ul></div>
 

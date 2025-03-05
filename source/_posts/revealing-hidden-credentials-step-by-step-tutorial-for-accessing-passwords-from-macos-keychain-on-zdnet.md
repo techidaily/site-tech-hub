@@ -1,7 +1,7 @@
 ---
 title: "Revealing Hidden Credentials: Step-by-Step Tutorial for Accessing Passwords From macOS Keychain on ZDNet"
-date: 2025-02-10T22:50:49.637Z
-updated: 2025-02-16T23:31:07.915Z
+date: 2025-03-03T19:13:10.334Z
+updated: 2025-03-05T16:43:52.564Z
 tags:
   - apple
 categories:
@@ -30,15 +30,7 @@ And that, Dear Reader, we will accomplish after much option-flicking, headset-we
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/VxFUhesNCKo?si=Ti0ui6DXYP12sjSs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## How to watch Apple spatial videos on the Meta Quest 3
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### What you'll need to get started
 
@@ -55,10 +47,6 @@ In theory, you could get away with running the four provided sample spatial vide
 **Also: [Get the latest Quest 3 updates early: Here's how to enable Meta's Public Test Feed](https://www.zdnet.com/article/get-the-latest-quest-3-updates-early-heres-how-to-enable-metas-public-test-feed/)**
 
 Now that you've gathered your prerequisites, let's move some videos. 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  Seriously, RTFM
 
@@ -96,10 +84,6 @@ As the Facebook poster and I both found out, when Meta says, "If you have an iPh
 
 Next, I tried it with my wife's iPhone 15 Pro Max. Things went better.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##  Uploading spatial videos from your iPhone
 
 I took a few minutes to bind my wife's iPhone 15 Pro Max to the Quest 3\. Once that was done, the missing upload icon was no longer missing: 
@@ -113,10 +97,6 @@ Screenshots by David Gewirtz/ZDNET
 Once I tapped upload, the images were processed and presumably converted for use on the Quest. Although I haven't been able to get confirmation, I'm guessing the reason we couldn't upload the videos from another iPhone model is that the Meta app is taking advantage of a spatial video API only available on the iPhone 15 Pro and Pro Max. 
 
 In any case, it worked. Within a few minutes, the videos were on my Meta Quest 3\. 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  Playing spatial videos on the Meta Quest 3
 
@@ -186,22 +166,19 @@ _You can follow my day-to-day project updates on social media. Be sure to subscr
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-videos.techidaily.com/new-2024-approved-exclusive-guide-turning-fb-videos-into-mp4-and-hd/"><u>[New] 2024 Approved Exclusive Guide Turning FB Videos Into MP4 & HD</u></a></li>
-<li><a href="https://video-capture.techidaily.com/new-inside-camstudios-updated-screen-recorder-techniques-for-2024/"><u>[New] Inside CamStudio's Updated Screen Recorder Techniques for 2024</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/ed-2024-approved-the-mechanics-of-producing-engaging-mukbang-content/"><u>[Updated] 2024 Approved The Mechanics of Producing Engaging Mukbang Content</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-in-2024-the-key-to-successful-large-scale-instagram-videos/"><u>[Updated] In 2024, The Key to Successful Large-Scale Instagram Videos</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/2024-approved-directing-youtube-media-to-your-facebook-profile-and-feed/"><u>2024 Approved Directing YouTube Media to Your Facebook Profile and Feed</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/data-to-discussion-craft-your-own-conversational-ai/"><u>Data to Discussion: Craft Your Own Conversational AI</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/discover-the-ultimate-9-chatbot-extensions-for-instant-results/"><u>Discover the Ultimate 9 Chatbot Extensions for Instant Results</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/exploring-alternatives-seven-compelling-reasons-to-steer-clear-of-generative-ai-in-message-services/"><u>Exploring Alternatives: Seven Compelling Reasons to Steer Clear of Generative AI in Message Services</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/how-to-harness-the-potential-of-gpt-4-and-make-cutting-edge-ai-available-to-everyone/"><u>How to Harness the Potential of GPT-4 and Make Cutting-Edge AI Available to Everyone</u></a></li>
-<li><a href="https://techidaily.com/how-to-repair-apple-iphone-6s-plus-system-issues-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Repair Apple iPhone 6s Plus System Issues? | Dr.fone</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/24-transforming-spaces-with-channels-top-10-online-tools-revealed/"><u>In 2024, Transforming Spaces with Channels Top 10 Online Tools Revealed</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-will-the-ipogo-get-you-banned-and-how-to-solve-it-on-huawei-p60-drfone-by-drfone-virtual-android/"><u>In 2024, Will the iPogo Get You Banned and How to Solve It On Huawei P60 | Dr.fone</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/mastering-the-integration-a-beginners-guide-to-using-gpt-3-in-python/"><u>Mastering the Integration: A Beginner's Guide to Using GPT-3 in Python</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/tap-into-ai-for-exceptional-interview-performance/"><u>Tap Into AI for Exceptional Interview Performance</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/the-influence-of-artificial-intelligence-on-future-game-development-an-analysis/"><u>The Influence of Artificial Intelligence on Future Game Development: An Analysis</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/top-7-queries-beyond-chatgpts-reach-limits-of-ai-understanding/"><u>Top 7 Queries Beyond ChatGPT's Reach: Limits of AI Understanding</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/uncovering-old-footage-iphone-video-reversal-guide/"><u>Uncovering Old Footage IPhone Video Reversal Guide</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-green-screen-essentials-from-novice-to-skilled-visual-effects-artist-for-2024/"><u>[New] Green Screen Essentials From Novice to Skilled Visual Effects Artist for 2024</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-in-2024-clearing-your-browsers-watched-videos/"><u>[New] In 2024, Clearing Your Browser's Watched Videos</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/2024-approved-smiles-and-laughs-app-download/"><u>2024 Approved Smiles & Laughs App Download</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/action-camera-bargains-selecting-top-6-for-under-100-costs/"><u>Action Camera Bargains Selecting Top 6 for Under $100 Costs</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/complete-guide-for-recovering-pictures-files-on-asus-rog-phone-8-pro-by-fonelab-android-recover-pictures/"><u>Complete guide for recovering pictures files on Asus ROG Phone 8 Pro.</u></a></li>
+<li><a href="https://article-helps.techidaily.com/hot-oculus-vr-games-that-everyones-playing/"><u>Hot Oculus VR Games That Everyone's Playing</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-maximum-fps-impacting-low-motion-sequences/"><u>In 2024, Maximum FPS Impacting Low-Motion Sequences</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/navigating-generative-tech-with-parenthood/"><u>Navigating Generative Tech with Parenthood</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/navigating-through-gpt-3s-custom-instruction-mechanism/"><u>Navigating Through GPT-3’s Custom Instruction Mechanism</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/paving-the-path-for-auto-gpt-installation/"><u>Paving the Path for Auto-GPT Installation</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/peak-performance-structuring-effective-ai-dialogue/"><u>Peak Performance: Structuring Effective AI Dialogue</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/recognizing-the-phenomenon-of-ai-dreaming-a-guide-to-detecting-ai-hallucinations/"><u>Recognizing the Phenomenon of AI Dreaming: A Guide to Detecting AI Hallucinations</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/swipe-for-success-the-art-of-flipping-videos-on-instagram-for-2024/"><u>Swipe for Success The Art of Flipping Videos on Instagram for 2024</u></a></li>
+<li><a href="https://media-tips.techidaily.com/the-ultimate-guide-to-7-leading-converters-from-m4a-files-to-quality-wav-on-pcs-and-macs/"><u>The Ultimate Guide to 7 Leading Converters From M4A Files to Quality WAV on PCs & Macs</u></a></li>
 </ul></div>
 

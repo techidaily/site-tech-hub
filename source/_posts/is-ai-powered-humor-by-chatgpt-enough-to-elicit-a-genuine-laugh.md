@@ -1,7 +1,7 @@
 ---
 title: Is AI-Powered Humor by ChatGPT Enough to Elicit a Genuine Laugh?
-date: 2024-08-15T22:02:57.160Z
-updated: 2024-08-16T22:02:57.160Z
+date: 2025-02-26T18:18:45.090Z
+updated: 2025-03-05T16:23:29.810Z
 tags:
   - chatgpt
   - open-ai
@@ -21,18 +21,6 @@ thumbnail: https://thmb.techidaily.com/238e2de8d5663845563adee13d68f244664dc4975
 * [How to Install and Configure ChatGPT Desktop Application](https://www.makeuseof.com/cant-wait-for-the-chatgpt-desktop-app-try-this-open-source-alternative-instead/#how-to-install-and-configure-chatgpt-desktop-application)
 * [When Is the Official ChatGPT Desktop Version Launching?](https://www.makeuseof.com/cant-wait-for-the-chatgpt-desktop-app-try-this-open-source-alternative-instead/#when-is-the-official-chatgpt-desktop-version-launching)
 
-<!-- affiliate ads begin -->
-<span id="1993650">
-					<video width="720" height="300" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Key Takeaways
 
 * OpenAI is releasing a ChatGPT desktop version, starting with macOS and later for Windows.
@@ -45,9 +33,6 @@ thumbnail: https://thmb.techidaily.com/238e2de8d5663845563adee13d68f244664dc4975
 
  But if you can't wait—like me!—you can try a free, open-source version instead.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2019/10/Project-Manager-version-3-1600x900-768x419.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
-<!-- affiliate ads end -->
 ## What Is the Open-Source ChatGPT Desktop Application?
 
  ChatGPT users have long wanted a desktop version. The world's leading generative AI chatbot works great in a browser, but sometimes, a desktop app is more convenient.
@@ -59,21 +44,12 @@ thumbnail: https://thmb.techidaily.com/238e2de8d5663845563adee13d68f244664dc4975
  Developer[Lencx's open source ChatGPT](https://github.com/lencx/ChatGPT) gives you the option to try a desktop version right now, without waiting. It's a website wrapper that runs on Windows, macOS, and Linux, so it's a little basic, but it replicates the functionality of the website, and does a really good job, too.
 
 ![chatgpt open source desktop version login](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/chatgpt-open-source-desktop-version-login.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=19080710&QTY=1&AFFILIATE=108875&CART=1"><img src="https://smart-seo-tool.com/images/SmartSEOAuditorBox.png" border="0"></a>
-<!-- affiliate ads end -->
 
  The project's development is currently paused as the official desktop versions are coming soon. The developer says, "I am currently looking for some differentiating features to develop version 2.0." Still, the latest version, V1.1.0, works fine at the time of writing.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=12730965&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/w5/03_WBSX5_728x90_red_CTA.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## How to Install and Configure ChatGPT Desktop Application
 
 ![chatgpt open source desktop version home page](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/chatgpt-open-source-desktop-version-home-page.jpg)
-<!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1047974&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-04_%281%29.jpg" border="0"></a>
-<!-- affiliate ads end -->
 
 1. Head to the open-source[ChatGPT Desktop Application download page](https://github.com/lencx/ChatGPT/releases/tag/v1.1.0) . The latest version at the time of writing is V1.1.0, but you can check for a newer version.
 2. Download the applicable version for your operating system, then install it as per your operating system.
@@ -82,9 +58,6 @@ thumbnail: https://thmb.techidaily.com/238e2de8d5663845563adee13d68f244664dc4975
  Then, just sign in to ChatGPT as you usually would. All of your previous chats will be waiting for you, and you can choose from GPT-4, GPT-4o, DALL-E, and so on.
 
 ![chatgpt open source desktop version makeuseof search result](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/05/chatgpt-open-source-desktop-version-makeuseof-search-result.jpg)
-<!-- affiliate ads begin -->
-<a href="https://store.advancedwebranking.com/order/checkout.php?PRODS=4715051&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/14edc6ebfdae2e23bbed83d67f50e983/products/33_awr%20logo.png" border="0"></a>
-<!-- affiliate ads end -->
 
 ## When Is the Official ChatGPT Desktop Version Launching?
 
@@ -94,14 +67,11 @@ thumbnail: https://thmb.techidaily.com/238e2de8d5663845563adee13d68f244664dc4975
 
  Still, if you can't wait, you can give this open-source ChatGPT desktop version a try instead.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -110,4 +80,22 @@ thumbnail: https://thmb.techidaily.com/238e2de8d5663845563adee13d68f244664dc4975
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://vimeo-videos.techidaily.com/new-in-2024-direct-downloading-of-audio-content-from-vimeo-videos/"><u>[New] In 2024, Direct Downloading of Audio Content From Vimeo Videos</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-2024-approved-essential-9-mic-recorder-selections-for-online-use-in-23/"><u>[Updated] 2024 Approved Essential 9 Mic Recorder Selections for Online Use in '23</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-cross-reality-shopping-experiences-for-2024/"><u>[Updated] Cross-Reality Shopping Experiences for 2024</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-discover-your-top-10-choice-of-editors-for-youtube-short-videos-for-2024/"><u>[Updated] Discover Your Top 10 Choice of Editors for YouTube Short Videos for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-penning-powerful-stories-with-a-camera-lens/"><u>[Updated] Penning Powerful Stories with a Camera Lens</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/5-critical-shortcomings-of-using-chatgpt-for-crypto-studies/"><u>5 Critical Shortcomings of Using ChatGPT for Crypto Studies</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/6-key-benefits-of-opting-for-the-chatgpt-mobile-app-instead-of-browsing-the-website/"><u>6 Key Benefits of Opting for the ChatGPT Mobile App Instead of Browsing the Website</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/advantages-of-microsoft-copilot-over-chatgpt-the-top-4-features-you-should-consider/"><u>Advantages of Microsoft Copilot Over ChatGPT - The Top 4 Features You Should Consider</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/ais-impact-on-software-development/"><u>AI's Impact on Software Development</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/beginners-guide-to-auto-gpt-deployment-in-the-linux-environment/"><u>Beginners' Guide to Auto-GPT Deployment in the Linux Environment</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/1722066810907-discover-the-ultimate-9-chatbot-plug-ins-for-seamless-chatgpt-integration-today/"><u>Discover the Ultimate 9 Chatbot Plug-Ins for Seamless ChatGPT Integration Today</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/harnessing-color-grading-with-luts-in-premiere-for-2024/"><u>Harnessing Color Grading with LUTs in Premiere for 2024</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-screen-mirroring-realme-v30-to-pc-drfone-by-drfone-android/"><u>In 2024, How to Screen Mirroring Realme V30 to PC? | Dr.fone</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/innovative-solutions-for-your-ultimate-3d-viewing-needs/"><u>Innovative Solutions for Your Ultimate 3D Viewing Needs</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/1721763925354-places-near-me/"><u>Places Near Me:</u></a></li>
+</ul></div>
 

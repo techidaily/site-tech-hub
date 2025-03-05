@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting Guide: How to Get Oculus Software Installed on Windows 11 or 10 Systems"
-date: 2024-08-15T20:10:18.197Z
-updated: 2024-08-16T20:10:18.197Z
+date: 2025-03-04T19:21:42.779Z
+updated: 2025-03-05T18:15:44.523Z
 tags:
   - win11
   - win10
@@ -51,31 +51,19 @@ But if you can’t open the file (it is corrupted or you don’t save it anywher
 
 **9)** The file will show you the content that has been backed up. You can use it to recover your document.
 
-<!-- affiliate ads begin -->
-<a href="https://caperobbin.sjv.io/c/5597632/2006123/18460" target="_top" id="2006123"><img src="//a.impactradius-go.com/display-ad/18460-2006123" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006123/18460" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Method 2: Recover from previous versions
 
  _(This method will only work if your computer have backed up your Word document or the folder that contains them or if you have created a system restore point. Otherwise you should skip this method and try the tips below.[**The tip at the bottom**](https://tools.techidaily.com/drivereasy/download/) will show how to automatically back up your documents in order to enable the previous versions feature.)_Windows can save the previous versions of your files or folders. These previous versions come from the backups or the system restore points you have created. You can recover your files in a folder by restoring the folder to a previous version before your document corrupted or disappeared. To use previous versions to recover your documents:**1)** Right click the folder you want to recover and select**Restore previous versions**.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/10/img_59f8238ac54eb.jpg)
-<!-- affiliate ads begin -->
-<a href="https://imp.i110150.net/c/5597632/924299/11305" target="_top" id="924299"><img src="//a.impactradius-go.com/display-ad/11305-924299" border="0" alt="" width="520" height="100"/></a>
-<!-- affiliate ads end -->
 
 **2)** Select a previous version from the list. Then click the**Restore**button.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/10/img_59f7f673cc468.png)
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475"><img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **3)** After the system restore you folder, a window will pop up showing you the location of your folder.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/10/img_59f7f7769689d.png)
-<!-- affiliate ads begin -->
-<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=36245101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/zang_box_trust.png" border="0">ZoneAlarm Extreme Security NextGen</a>
-<!-- affiliate ads end -->
 
 **4)** Open the folder and you can see the document in this folder has been restored to a previous version. Open it and see how many contents this has recovered.
 
@@ -83,15 +71,9 @@ But if you can’t open the file (it is corrupted or you don’t save it anywher
 
 If you don’t have any backup copy of your Word document, the most effective way to recover your document is to perform data recovery. You need to do this with the help of third-party software or an expert. There are a lot of data recovery software on the Internet, paid or free. You can do some research and test with several programs to find out the one that really works for you. But please note that you should be able to run the tool directly without installation (this helps you protect your deleted documents from being overwritten). Or you can find a data recovery specialist to recover your Word documents. Search on the Internet for the data recovery service providers near you. Be extra careful about the reputation and reliability of service provider. The data recovery service better at these is more likely to save your documents.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2019/10/Project-Manager-version-3-1600x900-768x419.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
-<!-- affiliate ads end -->
 ## Final tip: Back up your files regularly
 
 It is still possible that your Word documents are missing or corrupt some day. You should back up your Word documents in advance to prevent yourself from getting into big trouble like this. To back up your files, you can routinely copy and paste them to your USB flash drive or external hard drive. But, instead of doing this manually, you can ask your Windows system can back up your files automatically. There are some differences between backing up your files on Windows 10 and on Windows 7\. The following steps will show you the different processes on these systems. If you are using**Windows 7**:**1)**Click the**Start**button at the lower left corner of your screen. Then click**Control Panel**.![](https://images.drivereasy.com/wp-content/uploads/2017/10/img_59edb64de0911.jpg) **2)** Under**View by**, click**Large icons**.![](https://images.drivereasy.com/wp-content/uploads/2017/10/img_59edb6e26b70a.jpg) **3)**Click**Backup and Restore**.![](https://images.drivereasy.com/wp-content/uploads/2017/10/img_59edb7192b08b.jpg) **4)** Click**Set up backup**.![](https://images.drivereasy.com/wp-content/uploads/2017/10/img_59edb796a67b6.jpg) **5)** Select a backup destination. (You can save it on **a partition of your hard drive**or on your**USB flash drive**or**external hard drive**. You can also save it to another computer on the same network by clicking the**Save on a network**button. It’s better for you to choose a destination other than your hard drive in case it fails.) After that, click**Next**.![](https://images.drivereasy.com/wp-content/uploads/2017/10/img_59edbb5cecef7.jpg) **6)**Click the option button of**Let me choose** (this allows you to choose what to back up manually). Then click**Next**.![](https://images.drivereasy.com/wp-content/uploads/2017/10/img_59edbd337d399.jpg) **7)**Choose what you want to back up and whether you want to include a system image (this requires larger storage space). Then click**Next**.![](https://images.drivereasy.com/wp-content/uploads/2017/10/img_59edbda6df21f.jpg) **8)** Click**Change schedule**to change the back up schedule if you are not satisfied with it. Then click**Save settings and run backup**.![](https://images.drivereasy.com/wp-content/uploads/2017/10/img_59edbe5c7c029.jpg) **9)** Your system will automatically run the backup for you.![](https://images.drivereasy.com/wp-content/uploads/2017/10/img_59edbfcd8413e.jpg)To back up your files on**Windows 10**, you should turn on a feature called**File History**. To do so:**1)** Select the**Start**button at the lower left corner of your screen. Then click the**Settings**icon.![](https://images.drivereasy.com/wp-content/uploads/2017/10/img_59edc15a8c889.png) **2)**Select**Update & Security**.![](https://images.drivereasy.com/wp-content/uploads/2017/10/img_59edc2e084454.png) **3)** Select**Backup**. Then click**More options**.![](https://images.drivereasy.com/wp-content/uploads/2017/10/img_59edc322c7cee.jpg) **4)** Click**See advanced settings**.![](https://images.drivereasy.com/wp-content/uploads/2017/10/img_59edc35927405.png) **5)**Click**Select drive**in the left paneto select where you want to save your backup.![](https://images.drivereasy.com/wp-content/uploads/2017/10/img_59eea722a8862.png) **6)**Select a drive from the list to store your backup. (Your system disallows you to save your backup on the hard drive where the system is installed. It is recommended that you choose to save on your**USB flash drive**or**external hard drive**. If you want back up a file on a**another computer on the same network**, click**Add network location**.) After that, click**OK**.![](https://images.drivereasy.com/wp-content/uploads/2017/10/img_59edc5379b716.png)File History is now turned on. It will automatically save copies of your files to the designated location.![](https://images.drivereasy.com/wp-content/uploads/2017/10/img_59edc5bd46507.png)If you want to change the settings of backup, go back to the backup settings window and click**More options**.![](https://images.drivereasy.com/wp-content/uploads/2017/10/img_59edc6337d321.jpg)You can configure the Backup options, such as when and what you want to back up.![](https://images.drivereasy.com/wp-content/uploads/2017/10/img_59edc6b452853.png)When you turn on the back up features, your computer will routinely back up your files for you. These backup copies can one day save your life when you lose your Word documents or other important files.
-<!-- affiliate ads begin -->
-<a href="https://vapordna.pxf.io/c/5597632/1496243/17238" target="_top" id="1496243"><img src="//a.impactradius-go.com/display-ad/17238-1496243" border="0" alt="" width="1000" height="1221"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1496243/17238" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 * [data recovery](https://tools.techidaily.com/drivereasy/download/)
 * [Windows](https://tools.techidaily.com/drivereasy/download/)
@@ -103,8 +85,6 @@ It is still possible that your Word documents are missing or corrupt some day. Y
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -112,4 +92,22 @@ It is still possible that your Word documents are missing or corrupt some day. Y
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-skills.techidaily.com/new-understanding-the-role-and-impact-of-b-roll-in-editing/"><u>[New] Understanding the Role and Impact of B Roll in Editing</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-twitters-entry-points-creating-an-account/"><u>[Updated] Twitters' Entry Points Creating an Account</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/updated-whatsapp-video-integration-for-twitter-content/"><u>[Updated] WhatsApp Video Integration for Twitter Content</u></a></li>
+<li><a href="https://fox-http.techidaily.com/2024-approved-cross-promotion-partnerships-with-brands-on-youtube/"><u>2024 Approved Cross-Promotion Partnerships with Brands on YouTube</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/productivity-made-simple-the-best-ai-powered-pdf-tools/"><u>Productivity Made Simple: The Best AI-Powered PDF Tools</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/protect-your-privacy-tips-for-concealing-chatgpt-interactions-instantly/"><u>Protect Your Privacy: Tips for Concealing ChatGPT Interactions Instantly</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/public-and-private-ais-unpacked-usage-spectrum-analysis/"><u>Public and Private AIs Unpacked: Usage Spectrum Analysis</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/revolutionize-your-internet-experience-with-these-7-must-have-chatgpt-extensions-for-enhanced-browsing-interactions/"><u>Revolutionize Your Internet Experience with These 7 Must-Have ChatGPT Extensions for Enhanced Browsing Interactions!</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/revolutionizing-sites-how-machine-learning-alters-online-presence/"><u>Revolutionizing Sites: How Machine Learning Alters Online Presence</u></a></li>
+<li><a href="https://win-trending.techidaily.com/smooth-transition-essentials-6-key-steps-for-moving-contacts-to-a-fresh-iphone-device/"><u>Smooth Transition Essentials: 6 Key Steps for Moving Contacts to a Fresh iPhone Device</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/speak-now-ask-anyth-market-research-expert-on-how-businesses-can-use-chatbots-in-customer-service-to-enhance-brand-experience-and-reduce-costs/"><u>Speak Now, Ask Anyth Market Research Expert on How Businesses Can Use Chatbots in Customer Service to Enhance Brand Experience and Reduce Costs</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/step-by-step-tutorial-on-distributing-chatgpt-dialogue-links/"><u>Step-by-Step Tutorial on Distributing ChatGPT Dialogue Links</u></a></li>
+<li><a href="https://fake-location.techidaily.com/the-best-8-vpn-hardware-devices-reviewed-on-samsung-galaxy-z-fold-5-drfone-by-drfone-virtual-android/"><u>The Best 8 VPN Hardware Devices Reviewed On Samsung Galaxy Z Fold 5 | Dr.fone</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/tips-and-tricks-to-decrease-cpu-usage-efficiently-in-windows/"><u>Tips and Tricks to Decrease CPU Usage Efficiently in Windows</u></a></li>
+<li><a href="https://fox-that.techidaily.com/troubleshoot-and-repair-missing-ringtones-for-smsmms-alerts-in-ios-15plus/"><u>Troubleshoot and Repair Missing Ringtones for SMS/MMS Alerts in iOS 15+</u></a></li>
+</ul></div>
 

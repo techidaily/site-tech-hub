@@ -1,7 +1,7 @@
 ---
 title: Troubleshooting Cellular Connectivity Problems After iOS 17.2.1 Upgrade | Insights by ZDNET
-date: 2025-02-13T19:26:10.777Z
-updated: 2025-02-16T21:58:30.579Z
+date: 2025-03-01T19:37:49.906Z
+updated: 2025-03-05T19:18:33.196Z
 tags:
   - apple
 categories:
@@ -59,10 +59,6 @@ Aside from the inferior Photos app navigation, videos in the Photos app no longe
 
 "The UX is a huge downgrade. It's so bad that I had to submit feedback to Apple via the feedback app in the beta. Never did one of those when it wasn't a technical bug, just pure user experience frustration," another [Redditor said](https://www.reddit.com/r/apple/comments/1e2jtq5/comment/ld1wsjg/?utm%5Fsource=share&utm%5Fmedium=web3x&utm%5Fname=web3xcss&utm%5Fterm=1&utm%5Fcontent=share%5Fbutton).
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## How to navigate the iOS 18 Photos app
 
 Maria Diaz/ZDNET
@@ -109,20 +105,14 @@ I hope a future version of iOS 18 will bring back the Camera Roll or at least to
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-tips.techidaily.com/ed-statistical-sweep-illuminating-youtubes-data-diversity-2e17/"><u>[Updated] Statistical Sweep! Illuminating YouTube's Data Diversity (2E17)</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/are-there-any-known-security-vulnerabilities-in-chatgpt/"><u>Are There Any Known Security Vulnerabilities in ChatGPT?</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/from-disparate-pixels-constructing-splendid-imagery-weaves-for-2024/"><u>From Disparate Pixels Constructing Splendid Imagery Weaves for 2024</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/future-of-language-models-4-exciting-advances-we-hope-for-gpt-5/"><u>Future of Language Models: 4 Exciting Advances We Hope for GPT-5</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/nteed-method-to-keep-youtube-shorts-out-of-sight/"><u>Guaranteed Method to Keep YouTube Shorts Out of Sight</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-get-back-lost-photos-from-moto-g24-by-fonelab-android-recover-photos/"><u>How to get back lost photos from Moto G24.</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/24-the-ultimate-checklist-before-choosing-youtube-tv/"><u>In 2024, The Ultimate Checklist Before Choosing YouTube TV</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/investigating-chatgpts-defense-against-hacking/"><u>Investigating ChatGPT's Defense Against Hacking</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/nlp-vs-ml-understanding-key-distinctions/"><u>NLP vs ML: Understanding Key Distinctions</u></a></li>
-<li><a href="https://program-issues.techidaily.com/no-more-crashes-in-terraria-top-fixes-for-players-to-try-now/"><u>No More Crashes in Terraria – Top Fixes for Players to Try Now!</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/painting-a-new-world-ai-illustration-through-chatgpt/"><u>Painting a New World: AI Illustration Through ChatGPT</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/revolutionize-your-gaming-by-recording-on-win10-for-2024/"><u>Revolutionize Your Gaming by Recording on Win10 for 2024</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/step-into-the-world-of-bug-hunting-get-a-payday-at-openai/"><u>Step Into the World of Bug Hunting; Get a Payday at OpenAI</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/the-potential-risks-and-rewards-is-chatgpt-a-threat-to-googles-supremacy/"><u>The Potential Risks and Rewards: Is ChatGPT a Threat to Google's Supremacy?</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/unbeatable-black-friday-bargain-snag-the-hp-envy-x360-with-a-stunning-40-discount-just-499-on-zdnet/"><u>Unbeatable Black Friday Bargain! Snag the HP Envy X360 with a Stunning 40% Discount - Just $499 on ZDNet</u></a></li>
+<li><a href="https://extra-information.techidaily.com/updated-an-easy-nft-creation-pathway-for-starters/"><u>[Updated] An Easy NFT Creation Pathway For Starters</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-mastering-ram-management-in-minecraft/"><u>[Updated] Mastering RAM Management in Minecraft</u></a></li>
+<li><a href="https://article-files.techidaily.com/funimate-unlocked-a-complete-experience-for-2024/"><u>Funimate Unlocked A Complete Experience for 2024</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/how-might-digital-intelligence-secure-safety-in-remote-wilderness-settings/"><u>How Might Digital Intelligence Secure Safety In Remote Wilderness Settings?</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/24-elevate-your-content-with-effective-video-seo/"><u>In 2024, Elevate Your Content with Effective Video SEO</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/innovative-npc-designs-in-dandd-via-chatgpt-and-dall-e-integration/"><u>Innovative NPC Designs in D&D via ChatGPT and DALL-E Integration</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/is-it-worth-it-to-upgrade-from-copilot-to-copilot-pro-a-comprehensive-breakdown/"><u>Is It Worth It to Upgrade From Copilot to Copilot Pro? A Comprehensive Breakdown</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/making-business-simpler-with-chatgpts-advanced-assistance/"><u>Making Business Simpler with ChatGPT's Advanced Assistance</u></a></li>
+<li><a href="https://games-able.techidaily.com/resurrect-your-ps4-gamepad-with-efficient-fixes-for-controller-issues/"><u>Resurrect Your PS4 Gamepad with Efficient Fixes for Controller Issues</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "In The Ring with Top Tier Laptops: Comparing Samsung Galaxy Book 3Ultra Vs. Apple's MacBook Pro | Expert Insights From ZDNet"
-date: 2025-02-15T16:15:12.000Z
-updated: 2025-02-16T21:50:25.786Z
+date: 2025-03-04T18:30:16.290Z
+updated: 2025-03-05T16:00:25.479Z
 tags:
   - apple
 categories:
@@ -25,10 +25,6 @@ We'll compare the specs of the [Galaxy Book 3 Ultra](https://shop-links.co/link/
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/grbt-5VvbuI?si=qnoirlmljslpqcQj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  Specifications
 
@@ -65,10 +61,6 @@ Samsung realized this and included benefits like the options to use a [Galaxy Ta
 
 If you've already got a Galaxy smartphone or tablet, there are definitely practical benefits to functionality that you'll receive by opting for this model. 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ###  2\. You expect to do any gaming
 
 Macs have never matched their Windows-based counterparts when it comes to gaming. Despite the massive boost in power provided by Apple's M2 Pro and Max chips, this remains true. Of course there's the issue that a handful of gaming titles are available for MacOS, almost none of which are new or AAA games. But an equally big problem is MacBooks' lack of discrete GPUs. The Galaxy Book 3 Ultra, on the other hand, has options for an [Nvidia RTX 4050 or 4070 GPU](https://www.zdnet.com/article/nvidia-unveils-its-latest-studio-laptop-series-which-showcases-its-fastest-most-powerful-gpu-chip/), either of which should offer frame rates that are playable to exceptional for almost any title. 
@@ -88,10 +80,6 @@ The other factor is Apple's switch to its own silicon. When Apple was using Inte
 The most recent, M2 Pro or Max-powered refresh of the venerable 16-inch MacBook Pro.
 
 Apple
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ###  1\. You, or your family, are committed to Apple's ecosystem
 
@@ -116,10 +104,6 @@ It's an issue that can chafe at times, but it's also one that has led many, myse
 
 Apple's M1 generation of chips was already more than enough power for most photo editors, and even a large chunk of video editors, including those working in 4K+ formats. Now, with the advent of M2 Pro and M2 Max options, the 16-inch MacBook Pro is like an entire production studio unto itself, especially when combined with the ample variety of RAM and storage configurations now available for both chips and a full-fledged HDMI port, as well as three DisplayPort-capable Thunderbolt ports. 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ###  3\. You need a ton of RAM or storage
 
 The maximum amount of memory and storage you can configure a Galaxy Book 3 Ultra with are 32GB and 1TB, respectively. While these are plenty for the average user, a content creator might fill that storage quickly with 8K video, while the RAM limitation might strain processing times within their workflow. The MacBook Pro, however, can be configured with as much as 96GB of RAM and 8TB of storage. That's triple the memory and eight times the storage of its competitor. Of course, such a maxed-out beast would be expensive, but the option remains for the most demanding laptop users who actually need all of that memory and space. 
@@ -127,10 +111,6 @@ The maximum amount of memory and storage you can configure a Galaxy Book 3 Ultra
 **Also: [Apple's new MacBook Pro with M2 Pro chip is a compelling package](https://www.zdnet.com/article/apples-new-macbook-pro-with-m2-pro-chip-is-a-compelling-package/)**
 
 [Buy the 16-inch Apple MacBook Pro $2,499 at Apple](https://apple.sjv.io/c/159047/435031/7613?&sharedId=zdnet&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-mac%2Fmacbook-pro%2F16-inch&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  Alternatives to consider
 
@@ -185,18 +165,21 @@ Absolutely must have a 16-inch laptop? Lenovo's ThinkPad Z16 is among the most p
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-capture.techidaily.com/new-innovation-in-viewing-top-5-webcams-recommended-for-gamers/"><u>[New] Innovation in Viewing Top 5 Webcams Recommended for Gamers</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-premium-app-list-androids-best-video-and-image-capture-for-2024/"><u>[Updated] Premium App List Android's Best Video & Image Capture for 2024</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/conversion-video-descendre-de-4k-a-1080p-pour-pc-et-mac-sous-windows/"><u>Conversion Vidéo : Descendre De 4K À 1080P Pour PC Et Mac Sous Windows #</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/exploring-the-impact-of-tandem-oled-technology-in-ipad-pro-on-next-gen-display-innovations-insights/"><u>Exploring the Impact of Tandem OLED Technology in iPad Pro on Next-Gen Display Innovations: Insights</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/exploring-the-latest-wonders-of-visionos-2-revealed-at-apples-wwdc-a-closer-look-at-innovations-and-curiosities/"><u>Exploring the Latest Wonders of VisionOS 2 Revealed at Apple's WWDC - A Closer Look at Innovations and Curiosities</u></a></li>
-<li><a href="https://article-helps.techidaily.com/glow-enhanced-video-a-right-move-for-hdr-crafting-in-2024/"><u>Glow-Enhanced Video A Right Move for HDR Crafting, In 2024</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/how-apples-latest-mac-mini-with-m2-chip-drops-to-record-low-price-of-479-the-inside-scoop-on-tech-deals-by-zdnet/"><u>How Apple's Latest Mac Mini With M2 Chip Drops to Record Low Price of $479 | The Inside Scoop on Tech Deals by ZDNET</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/ipad-showdown-choosing-between-the-m1-and-m2-models-the-ultimate-guide-zdnet-tech-reviews/"><u>IPad Showdown: Choosing Between the M1 and M2 Models - The Ultimate Guide | ZDNet Tech Reviews</u></a></li>
-<li><a href="https://common-error.techidaily.com/mastering-wireless-connectivity-issues-how-to-enable-when-its-off/"><u>Mastering Wireless Connectivity Issues: How to Enable When It's Off</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/solve-windows-11-no-sound-step-by-step-troubleshooting-tips-and-solutions/"><u>Solve 'Windows 11 No Sound' - Step-by-Step Troubleshooting Tips and Solutions</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/the-comprehensive-guide-to-screenshot-excellence-for-2024/"><u>The Comprehensive Guide to Screenshot Excellence for 2024</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/top-rated-magsafe-wallet-options-comprehensive-reviews-by-professionals-tech-insights-from-zdnet/"><u>Top Rated MagSafe Wallet Options : Comprehensive Reviews by Professionals - Tech Insights From ZDNet</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/why-you-should-skip-out-on-these-4-latest-apple-gadgets-expert-advice-by-zdnet/"><u>Why You Should Skip Out on These 4 Latest Apple Gadgets: Expert Advice by ZDNet</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/18-next-level-sales-management-applications-beyond-gpts-realm/"><u>18 Next-Level Sales Management Applications Beyond GPT's Realm</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/a-comprehensive-guide-to-claude-pro-and-its-relationship-with-microsofts-chatgpt-plus/"><u>A Comprehensive Guide to Claude Pro and Its Relationship with Microsoft’s ChatGPT Plus</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/a-step-by-step-approach-to-chatgpt-with-iphones-siri/"><u>A Step-by-Step Approach to ChatGPT with iPhone's Siri</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/ai-and-the-quest-for-textual-awareness-investigating-why-chatgpt-fails-to-detect-its-own-prose/"><u>AI and the Quest for Textual Awareness: Investigating Why ChatGPT Fails to Detect Its Own Prose</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/ai-date-coach-chatgpt-for-romance/"><u>AI Date Coach: ChatGPT for Romance</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/ai-driven-paperclip-maximization-exploring-new-possibilities/"><u>AI-Driven Paperclip Maximization: Exploring New Possibilities</u></a></li>
+<li><a href="https://video-capture.techidaily.com/expert-picks-premium-costless-screencasting-apps-reviewed/"><u>Expert Picks Premium, Costless Screencasting Apps Reviewed</u></a></li>
+<li><a href="https://games-able.techidaily.com/find-the-ultimate-tv-bargains-for-labor-day-2024-a-curated-list-of-exceptional-deals-and-promotions-zdnet/"><u>Find the Ultimate TV Bargains for Labor Day 2024: A Curated List of Exceptional Deals and Promotions (ZDNET)</u></a></li>
+<li><a href="https://article-tips.techidaily.com/in-2024-advanced-editing-tips-remove-the-unnecessary-picture-border/"><u>In 2024, Advanced Editing Tips Remove the Unnecessary Picture Border</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/in-2024-conquer-joining-on-tiktok-with-confidence-and-flair/"><u>In 2024, Conquer Joining on TikTok with Confidence and Flair</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/is-gsm-flasher-adb-legit-full-review-to-bypass-your-vivo-y78-5g-phone-frp-lock-by-drfone-android/"><u>Is GSM Flasher ADB Legit? Full Review To Bypass Your Vivo Y78 5G Phone FRP Lock</u></a></li>
+<li><a href="https://techtrends.techidaily.com/mac-security-how-to-locate-and-retrieve-your-stored-login-information-safely/"><u>Mac Security: How to Locate and Retrieve Your Stored Login Information Safely</u></a></li>
+<li><a href="https://location-social.techidaily.com/simple-and-effective-ways-to-change-your-country-on-youtube-app-of-your-poco-c51-drfone-by-drfone-virtual-android/"><u>Simple and Effective Ways to Change Your Country on YouTube App Of your Poco C51 | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/unmatched-console-chronicle-tools/"><u>Unmatched Console Chronicle Tools</u></a></li>
+<li><a href="https://change-location.techidaily.com/what-pokemon-evolve-with-a-dawn-stone-for-xiaomi-redmi-note-12-5g-drfone-by-drfone-virtual-android/"><u>What Pokémon Evolve with A Dawn Stone For Xiaomi Redmi Note 12 5G? | Dr.fone</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/which-is-superior-for-software-development-github-copilot-or-chatgpt-face-off/"><u>Which Is Superior for Software Development? GitHub Copilot or ChatGPT Face-Off</u></a></li>
 </ul></div>
 

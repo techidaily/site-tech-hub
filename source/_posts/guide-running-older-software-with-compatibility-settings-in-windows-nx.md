@@ -1,7 +1,7 @@
 ---
 title: "Guide: Running Older Software with Compatibility Settings in Windows nX"
-date: 2024-08-15T20:12:36.036Z
-updated: 2024-08-16T20:12:36.036Z
+date: 2025-02-28T16:52:49.393Z
+updated: 2025-03-05T16:43:49.959Z
 tags:
   - win11
   - win10
@@ -56,40 +56,22 @@ OR
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453720/17020" target="_top" id="1453720"><img src="//a.impactradius-go.com/display-ad/17020-1453720" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453720/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Method 2: Disable the onboard graphics card in Device Manager
 
  You can change your default graphics driver to the NVIDIA graphics card all the time. This can resolve the problem but may lower your battery life for consuming more power.
 
 1. Run the NVIDIA Control Panel.
 2. Choose the**High-performance NVIDIA processor** in the drop-down menu and then click**Apply** .![](https://images.drivereasy.com/wp-content/uploads/2019/07/n1.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726960&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/forexrobotronbox.gif" border="0">Forex Robotron Basic Package</a>
-<!-- affiliate ads end -->
 3. Press the**Windows logo key + R** to open the Run box.
 4. Type “devmgmt.msc” and press**Enter** .![](https://images.drivereasy.com/wp-content/uploads/2019/07/device-manager.jpg)
-<!-- affiliate ads begin -->
-<a href="https://turtlebeacheu.sjv.io/c/5597632/1996818/23722" target="_top" id="1996818"><img src="//a.impactradius-go.com/display-ad/23722-1996818" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1996818/23722" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 5. Open the Display adapters and right-click on your integrated graphics card.
 6. Click**Disable device** and then click**Yes** in the pop-up window.![](https://images.drivereasy.com/wp-content/uploads/2019/07/n2.jpg)
-<!-- affiliate ads begin -->
-<a href="https://store.iobit.com/order/checkout.php?PRODS=4596923&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_468X60.png" border="0"></a>
-<!-- affiliate ads end -->
 7. Reboot your computer and check whether it solves your problem.
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2084396/18498" target="_top" id="2084396"><img src="//a.impactradius-go.com/display-ad/18498-2084396" border="0" alt="" width="1920" height="700"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084396/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Method 3: Restart the NVIDIA Control Panel Process
 
 1. Press the**Ctrl + Shift + Esc** key together to open the Task Manager.
 2. In the Processes tab, right-click on the NVIDIA Control Panel and choose**End task** .![](https://images.drivereasy.com/wp-content/uploads/2019/07/n4.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2067133&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/gcb/banScrn.jpg" border="0">Greeting Card Builder</a>
-<!-- affiliate ads end -->
 3. Restart the NVIDIA Control Panel and check whether it has other settings or not.
 
  We hope you find the above information helpful. And if you have any ideas, suggestions, or questions, feel free to leave a comment below.
@@ -102,8 +84,6 @@ OR
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -111,4 +91,20 @@ OR
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://eaxpv-info.techidaily.com/new-flash-share-sharing-playlists-in-a-snap-for-2024/"><u>[New] Flash-Share Sharing Playlists in a Snap for 2024</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-reimagine-the-way-you-take-notes-with-mematic/"><u>[New] Reimagine the Way You Take Notes with Mematic</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-2024-approved-confronting-giants-picking-your-powerhouse-t5-or-sjcam-s6/"><u>[Updated] 2024 Approved Confronting Giants Picking Your Powerhouse - T5 or SJCAM S6</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/3-methods-to-mirror-motorola-edge-40-neo-to-roku-drfone-by-drfone-android/"><u>3 Methods to Mirror Motorola Edge 40 Neo to Roku | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/become-a-directive-design-whiz-the-top-7-online-helpful-apps/"><u>Become a Directive Design Whiz: The Top 7 Online Helpful Apps</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/diagnosing-and-repairing-missing-xinput1n3dll-files-in-gaming-controllers/"><u>Diagnosing and Repairing Missing xinput1_n_3.dll Files in Gaming Controllers</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/is-your-information-safe-with-chatgpt-assessing-its-credibility-and-trustworthiness/"><u>Is Your Information Safe with ChatGPT? Assessing Its Credibility and Trustworthiness</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/leverage-chatgpt-power-10-essential-methods-for-securing-a-job-on-linkedin/"><u>Leverage ChatGPT Power: 10 Essential Methods for Securing a Job on LinkedIn</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/leveraging-ai-for-education-discover-5-ways-to-use-chatgpt-at-school/"><u>Leveraging AI for Education: Discover 5 Ways to Use ChatGPT at School</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/maximize-output-discover-the-top-8-smart-ai-extensions-for-google-chrome/"><u>Maximize Output: Discover the Top 8 Smart AI Extensions for Google Chrome</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/overcoming-lg-monitor-connectivity-challenges-across-multiple-windows-platforms/"><u>Overcoming LG Monitor Connectivity Challenges Across Multiple Windows Platforms</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/secrets-of-the-pocket-acquiring-no-pay-images/"><u>Secrets of the Pocket Acquiring No-Pay Images</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/startup-success-on-youtubing-free-beginner-courses-for-2024/"><u>Startup Success on YouTubing Free Beginner Courses for 2024</u></a></li>
+</ul></div>
 

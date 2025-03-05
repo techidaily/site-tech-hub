@@ -1,7 +1,7 @@
 ---
 title: Sharing the Top Remorse Moment of Upgrading to iOS 18 – A Common Dilemma Discussed on ZDNet
-date: 2025-02-14T20:13:07.503Z
-updated: 2025-02-16T19:48:14.732Z
+date: 2025-03-01T19:43:35.188Z
+updated: 2025-03-05T17:17:30.424Z
 tags:
   - apple
 categories:
@@ -59,10 +59,6 @@ Aside from the inferior Photos app navigation, videos in the Photos app no longe
 
 "The UX is a huge downgrade. It's so bad that I had to submit feedback to Apple via the feedback app in the beta. Never did one of those when it wasn't a technical bug, just pure user experience frustration," another [Redditor said](https://www.reddit.com/r/apple/comments/1e2jtq5/comment/ld1wsjg/?utm%5Fsource=share&utm%5Fmedium=web3x&utm%5Fname=web3xcss&utm%5Fterm=1&utm%5Fcontent=share%5Fbutton).
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## How to navigate the iOS 18 Photos app
 
 Maria Diaz/ZDNET
@@ -109,19 +105,18 @@ I hope a future version of iOS 18 will bring back the Camera Roll or at least to
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-files.techidaily.com/new-the-key-to-combining-linktree-and-tiktok-biographies-for-2024/"><u>[New] The Key to Combining Linktree and TikTok Biographies for 2024</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/ed-in-2024-simplify-your-content-creation-mobile-friendly-youtube-channel-setup-guide/"><u>[Updated] In 2024, Simplify Your Content Creation Mobile-Friendly YouTube Channel Setup Guide</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/exploring-the-power-5-innovative-ways-to-utilize-chatgpts-programming-translator/"><u>Exploring the Power: 5 Innovative Ways to Utilize ChatGPT's Programming Translator</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/forgot-iphone-passcode-again-unlock-iphone-14-plus-without-passcode-now-by-drfone-ios/"><u>Forgot iPhone Passcode Again? Unlock iPhone 14 Plus Without Passcode Now</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/from-concept-to-execution-python-for-gpt-3/"><u>From Concept to Execution: Python for GPT-3</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-to-change-netflix-location-to-get-more-country-version-on-huawei-nova-y91-drfone-by-drfone-virtual-android/"><u>How to Change Netflix Location to Get More Country Version On Huawei Nova Y91 | Dr.fone</u></a></li>
-<li><a href="https://discover-dash.techidaily.com/how-to-connect-and-configure-your-computer-with-a-new-ssd/"><u>How to Connect & Configure Your Computer with a New SSD</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-recover-old-call-logs-from-your-samsung-galaxy-s21-fe-5g-2023-by-fonelab-android-recover-call-logs/"><u>How to recover old call logs from your Samsung Galaxy S21 FE 5G (2023)?</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/24-optimize-video-cuts-selective-mac-mp4-slicers/"><u>In 2024, Optimize Video Cuts Selective Mac MP4 Slicers</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/llama-3-vs-gpt-an-in-depth-analysis-of-two-cutting-edge-technologies/"><u>Llama 3 Vs. GPT-^: An In-Depth Analysis of Two Cutting-Edge Technologies</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/siri-vs-chatgpt-understanding-their-unique-functionalities/"><u>Siri Vs. ChatGPT: Understanding Their Unique Functionalities</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/smart-selection-prioritizing-these-7-attributes-in-your-next-ai-chatbot-solution/"><u>Smart Selection: Prioritizing These 7 Attributes in Your Next AI Chatbot Solution</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/ultimate-guideline-for-mobizen-screen-recorder/"><u>Ultimate Guideline for Mobizen Screen Recorder</u></a></li>
-<li><a href="https://win-dash.techidaily.com/update-and-download-amd-ryzen-chipset-drivers-today-step-by-step-tutorial/"><u>Update & Download AMD Ryzen Chipset Drivers Today – Step-by-Step Tutorial</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-in-2024-winning-conversations-top-20-marketing-terms-explained/"><u>[Updated] In 2024, Winning Conversations Top 20 Marketing Terms Explained</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/approved-from-script-to-screen-the-compreeved-guide-to-youtube-video-edits/"><u>2024 Approved From Script to Screen The Compreeved Guide to YouTube Video Edits</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/dominate-online-chatter-secrets-to-buzz-creating-for-2024/"><u>Dominate Online Chatter Secrets to Buzz-Creating for 2024</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/drone-review-parrots-advanced-ar-model-20/"><u>Drone Review Parrot's Advanced AR Model 2.0</u></a></li>
+<li><a href="https://win-ratings.techidaily.com/leading-free-software-to-remove-unwanted-duplicates-from-your-pc-images-on-windows-111087/"><u>Leading Free Software to Remove Unwanted Duplicates From Your PC Images on Windows (11/10/8/7)</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/1722115686621-mastering-recipes-easier-than-ever-with-chatgpt-discover-how/"><u>Mastering Recipes Easier than Ever with ChatGPT, Discover How!</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/new-filmora-13-free-trial-download-experience-video-editing/"><u>New Filmora 13 Free Trial Download Experience Video Editing</u></a></li>
+<li><a href="https://win-community.techidaily.com/seamless-samsung-phone-compatibility-convert-and-watch-videos-without-costs/"><u>Seamless Samsung Phone Compatibility - Convert and Watch Videos Without Costs!</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/step-by-step-tutorial-how-to-dislike-all-songs-on-spotify-effortlessly/"><u>Step-by-Step Tutorial: How to Dislike All Songs on Spotify Effortlessly</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/the-best-ispoofer-alternative-to-try-on-zte-nubia-flip-5g-drfone-by-drfone-virtual-android/"><u>The Best iSpoofer Alternative to Try On ZTE Nubia Flip 5G | Dr.fone</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/1722153102801-the-ultimate-guide-to-7-zero-cost-ai-and-chatgpt-travel-assistants-plan-your-journey-in-an-instant/"><u>The Ultimate Guide to 7 Zero-Cost AI and ChatGPT Travel Assistants: Plan Your Journey in an Instant</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/what-makes-huggingchat-stand-out-learn-about-the-cost-free-alternative-to-chatgpt/"><u>What Makes HuggingChat Stand Out? Learn About the Cost-Free Alternative to ChatGPT</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/worth-the-price-tag-the-value-of-premium-ai-prompt-creation/"><u>Worth the Price Tag: The Value of Premium AI Prompt Creation</u></a></li>
 </ul></div>
 

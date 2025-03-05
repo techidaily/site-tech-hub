@@ -1,7 +1,7 @@
 ---
 title: "Maximize Gameplay Fluidity in Elder Scrolls Online: Comprehve Solutions to Enhance Frame Rate & Play Smoother"
-date: 2024-08-15T20:09:15.028Z
-updated: 2024-08-16T20:09:15.028Z
+date: 2025-03-01T17:30:36.444Z
+updated: 2025-03-05T16:52:39.381Z
 tags:
   - win11
   - win10
@@ -50,9 +50,6 @@ To do so:
 
  The next time you start your Windows 10 system, the items you disabled won’t start automatically.
 
-<!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453719/17020" target="_top" id="1453719"><img src="//a.impactradius-go.com/display-ad/17020-1453719" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453719/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Method 2: Configure your power plan
 
  You can’t release the full power of your Windows 10 system if you’re using a energy saving power plan. To optimize your device, you should check your power settings and change your power plan for better performance. Here’s how to do it.
@@ -60,9 +57,6 @@ To do so:
 **1)** Right click the**Start** button in the lower left corner of your screen, then click**Power Options** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b2a25d5dd9a1.jpg)
-<!-- affiliate ads begin -->
-<iframe id="iframe_672" src="//a.impactradius-go.com/gen-ad-code/5597632/1959812/17834/" width="720" height="300" scrolling="no" frameborder="0" marginheight="0" marginwidth="0"></iframe>
-<!-- affiliate ads end -->
 
 **2)** Click**Additional power settings** .
 
@@ -89,9 +83,6 @@ To do so:
 **3)** Click**Check for updates** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b2a2e1292ffc.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4531356&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8fdd149fcaa7058caccc9c4ad5b0d89a/products/tss-box.JPG" border="0">The Tube Sites Submitter is a fast and efficient tool for anyone who needs to upload videos quickly, easily and automatically to hundreds of tube sites in mere minutes . </a>
-<!-- affiliate ads end -->
 
 **4)** Wait for Windows Update to update your operating system.
 
@@ -106,16 +97,10 @@ To do so:
 **2)** Run **Driver Easy** and click the **Scan Now** button. **Driver Easy**  will then scan your computer and detect any problem drivers.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b1a66b4a3dfe.jpg)
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=22889392&QTY=1&AFFILIATE=108875&CART=1"><img src="http://webstatic.nero.com/nero2015-com-wAssets/img/affiliate/media/banner728-90eng.jpg" border="0"></a>
-<!-- affiliate ads end -->
 
 **3)**  Click the **Update**  button next to_each device_ to download the latest and correct driver for it, then you can manually install the driver. You can also click the **Update All**  button at the bottom right to automatically update all outdated or missing drivers on your computer (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  — you will be prompted to upgrade when you click Update All).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b2090df306fe.jpg)
-<!-- affiliate ads begin -->
-<a href="https://caperobbin.sjv.io/c/5597632/2006123/18460" target="_top" id="2006123"><img src="//a.impactradius-go.com/display-ad/18460-2006123" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006123/18460" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  You can do it for free if you like, but it’s partly manual.
 
@@ -134,9 +119,6 @@ To do so:
 **2)** Click**Advanced options** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b3eea6be5120.jpg)
-<!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1678785/12108" target="_top" id="1678785"><img src="//a.impactradius-go.com/display-ad/12108-1678785" border="0" alt="" width="300" height="250"/></a>
-<!-- affiliate ads end -->
 
 **3)** Turn on**Pause updates** .
 
@@ -144,10 +126,6 @@ To do so:
 
  Windows Update will be paused for up to 35 days. And after you resume it, you’ll only be able to re-pause it after you install the latest updates.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718730&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_vMixCallScreenshot1-large.jpg" border="0">vMix HD - Software based live production. vMix HD includes everything in vMix Basic HD plus 1000 inputs, Video List, 4 Overlay Channels, and 1 vMix Call 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
-<!-- affiliate ads end -->
 ### Method 5: Disable your visual effects
 
  Windows 10 has a lot of fancy visual effects, but they sometimes consume a large amount of system resources. If you don’t need those effects, you should disable them to make your computer run faster.
@@ -157,17 +135,10 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 **2)** Type “_sysdm.cpl_ ” and press**Enter** on your keyboard.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b2a342a037e9.png)
-<!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=38709260&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (2-PC)  Free upgrade. No monthly fees ever. </a>
-<!-- affiliate ads end -->
 
 **3)** Click the**Advanced** tab, then click**Settings** in the_Performance_ section.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b2a355c28e29.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-spreadsheet-free-excel-editor-online-offline-1x.93e269d.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
-<!-- affiliate ads end -->
 
 **4)** Click**Adjust for best performance** , then click**OK** .
 
@@ -177,9 +148,6 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 
  You’ve successfully turned off the visual effects of your Windows 10 system.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2014/02/Project-Manager-3D-Models-4-800x800.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
-<!-- affiliate ads end -->
 ### Method 6: Upgrade your computer hardware
 
  Hardware component upgrade is always the most effective optimization method, if you have enough budget. The following are the components you should consider upgrading first:
@@ -195,8 +163,6 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -204,4 +170,20 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-2024-approved-expert-recommendations-high-quality-mac-video-grabber-tools/"><u>[Updated] 2024 Approved Expert Recommendations High-Quality Mac Video Grabber Tools</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-optimal-mac-animation-storer-for-2024/"><u>[Updated] Optimal Mac Animation Storer for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-perfect-pairing-of-podcast-apps-and-android-top-6-recommendations/"><u>[Updated] Perfect Pairing of Podcast Apps & Android Top 6 Recommendations</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/best-amazon-prime-day-savings-in-october-2024-exclusive-deals-and-discounts-guide/"><u>Best Amazon Prime Day Savings in October 2024 - Exclusive Deals & Discounts Guide</u></a></li>
+<li><a href="https://techtrends.techidaily.com/best-internet-setup-highest-quality-cable-modems-and-routers-of-202n4/"><u>Best Internet Setup: Highest-Quality Cable Modems & Routers of 202N4</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/crafting-the-perfect-cover-letter-tips-and-tricks-from-chatgpt/"><u>Crafting the Perfect Cover Letter: Tips and Tricks From ChatGPT</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/cyber-threats-on-rise-hackers-pursuit-of-ai-conversations/"><u>Cyber Threats on Rise: Hackers' Pursuit of AI Conversations</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/discourse-dissection-unveiling-the-ai-dialogue-divide-between-gpt-and-bingbot/"><u>Discourse Dissection: Unveiling the AI Dialogue Divide Between GPT and BingBot</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/discover-key-ai-technologies-revolutionizing-commerce-and-management/"><u>Discover Key AI Technologies Revolutionizing Commerce and Management</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/discover-the-best-7-ai-driven-tools-for-tackling-difficult-mathematics-with-ease/"><u>Discover the Best 7 AI-Driven Tools for Tackling Difficult Mathematics with Ease</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/dynamic-duo-of-dialogue-for-podcasters/"><u>Dynamic Duo of Dialogue For Podcasters</u></a></li>
+<li><a href="https://location-social.techidaily.com/simple-and-effective-ways-to-change-your-country-on-youtube-app-of-your-poco-x6-pro-drfone-by-drfone-virtual-android/"><u>Simple and Effective Ways to Change Your Country on YouTube App Of your Poco X6 Pro | Dr.fone</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/top-7-fond-memories-of-the-dial-up-era-why-we-cant-help-but-remember/"><u>Top 7 Fond Memories of the Dial-Up Era: Why We Can't Help but Remember</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: The Next Big Thing for Apple Vision Pro? Innovative Respiratory Health Tracking on the Horizon
-date: 2025-02-11T16:47:58.837Z
-updated: 2025-02-16T20:07:31.722Z
+date: 2025-03-04T19:50:32.763Z
+updated: 2025-03-05T18:35:44.650Z
 tags:
   - apple
 categories:
@@ -28,19 +28,11 @@ If anything, the latest iOS 18.1 betas with Apple Intelligence features have bee
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## The annual upgrade ritual
 
 Every year, my wife and I eagerly await the release of the new iPhones. Being part of [Apple's Upgrade Program](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fiphone%2Fiphone-upgrade-program&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp), we return our devices, reset our loan with Citizens Bank, and acquire the latest model. Over the past few years, I have opted for the [Pro Max](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2Fiphone-15-pro%2F&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp), and my wife has chosen the [base model](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2Fiphone-15%2F&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp). The expected annual improvements have been incremental but appreciated. 
 
 Despite the buzz around the [iPhone 16's new features](https://www.zdnet.com/article/im-an-android-user-but-these-three-iphone-16-features-would-win-me-over/) and the integration of Apple Intelligence, however, several concerns dampen my enthusiasm for upgrading this year.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Apple Intelligence: A significant, yet incomplete, leap forward
 
@@ -66,10 +58,6 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 [See all](https://www.zdnet.com/newsletters/)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## New hardware leaks: what to expect from the iPhone 16
 
 Earlier, I discussed how older -- as well as current generation -- iOS devices [aren't powerful enough to handle on-device Generative AI tasks](https://www.zdnet.com/article/the-expensive-reason-why-apples-upcoming-ai-features-arent-coming-to-your-older-iphone/). The [base iPhone 15](https://www.zdnet.com/article/iphone-15-plus-review/), which has only 6GB of RAM, would struggle to meet the demands of Apple Intelligence as it evolves and becomes more integrated into iOS, core Apple applications, and developer applications. Older iPhones have [6GB of RAM or less](https://iosref.com/ram-processor), and are not eligible to run Apple Intelligence in current iOS 18.1 builds. 
@@ -86,10 +74,6 @@ Interestingly, despite these hardware upgrades, Apple appears to be keeping pric
 
 Despite these upgrades, the iPhone 16 may still face challenges due to design cycles that didn't fully account for the scope of Apple Intelligence's capabilities. As a result, users may experience suboptimal performance and a less seamless user experience, especially as more AI features roll out in subsequent updates.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Why you shouldn't buy the iPhone 16 for Apple Intelligence
 
 Besides memory concerns, AI processing demands a lot of power and additional computing resources. Without significant advancements in battery and power management technology, users might have to charge their phones more often. This can lead to increased battery drain, reduced battery lifespan, and potential performance issues. The extra processing power needed to run on-device LLMs could strain the CPU, causing the device to heat up and affecting its overall performance and reliability.
@@ -97,10 +81,6 @@ Besides memory concerns, AI processing demands a lot of power and additional com
 **Also: [How iOS 18 changes the way you charge your iPhone](https://www.zdnet.com/article/how-ios-18-changes-the-way-you-charge-your-iphone/)**
 
 For these reasons, I see the iPhone 16 (and potentially even the iPhone 17) as a transitional product in Apple's journey toward on-device AI. 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## How Apple Intelligence will likely evolve
 
@@ -158,24 +138,18 @@ _This article was originally published on June 28, 2024, and updated on August 2
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-the-ultimate-guide-to-preserving-itunes-content-for-2024/"><u>[New] The Ultimate Guide to Preserving iTunes Content for 2024</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-in-2024-androids-screen-shutter-select-the-best-eight-free-tools/"><u>[Updated] In 2024, Android's Screen Shutter - Select the Best Eight Free Tools</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/best-practices-for-rl-video-editing-and-post-processing/"><u>Best Practices for RL Video Editing and Post-Processing</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/download-and-deploy-llama-2-an-easy-to-follow-manual/"><u>Download & Deploy Llama 2: An Easy-to-Follow Manual</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/el-sistema-muscular-en-espanol-descubrimiento-desde-el-brazo-a-las-unas/"><u>El Sistema Muscular en Español: Descubrimiento Desde El Brazo A Las Uñas</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/fitness-blueprint-structuring-goals-with-gpt-expertise/"><u>Fitness Blueprint: Structuring Goals with GPT Expertise</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/from-tech-savvy-to-profitable-leveraging-chatgpt-tasks-diy-computer-construction-tips-and-classic-portable-systems/"><u>From Tech Savvy to Profitable: Leveraging ChatGPT Tasks, DIY Computer Construction Tips & Classic Portable Systems</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/generative-ai-face-off-unveiling-the-superiority-of-chatgpt-or-bing-chat/"><u>Generative AI Face-Off: Unveiling the Superiority of ChatGPT or Bing Chat</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/how-to-fix-unfortunately-contacts-has-stopped-error-on-tecno-spark-10c-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix Unfortunately, Contacts Has Stopped Error on Tecno Spark 10C | Dr.fone</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/legal-landscape-of-ai-in-the-eu-consequences-for-platforms-like-chatgpt/"><u>Legal Landscape of AI in the EU: Consequences for Platforms Like ChatGPT</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/limits-of-ai-top-7-ineligible-queries/"><u>Limits of AI: Top 7 Ineligible Queries</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/mastering-microsofts-ai-enhanced-bing-tool-for-android-devices/"><u>Mastering Microsoft's AI-Enhanced Bing Tool for Android Devices</u></a></li>
-<li><a href="https://fox-that.techidaily.com/overcome-iphone-voice-mail-problems-with-these-9-proven-strategies/"><u>Overcome iPhone Voice Mail Problems with These 9 Proven Strategies</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/revolutionizing-data-centers-micron-releases-ddr5-8800-memory-modules-compatible-with-intel-xeon-6/"><u>Revolutionizing Data Centers: Micron Releases DDR5-8800 Memory Modules Compatible with Intel Xeon 6</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/seamless-integration-of-chatgpt-into-android-and-ios-systems/"><u>Seamless Integration of ChatGPT Into Android and iOS Systems</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/sonic-stories-weaving-sound-into-insta-vids-for-2024/"><u>Sonic Stories Weaving Sound Into Insta Vids for 2024</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/tailoring-chatgpt-for-global-language-diversity/"><u>Tailoring ChatGPT for Global Language Diversity</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/the-race-for-excellence-in-solid-state-drives-unveiling-performance-secrets-of-lexars-elite-sl500-and-sl600-series-with-exceptional-20g-transfer-rates/"><u>The Race for Excellence in Solid State Drives: Unveiling Performance Secrets of Lexar's Elite SL500 and SL600 Series with Exceptional 20G Transfer Rates</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/top-5-ai-innovations-business-leaders-need-to-be-aware-of/"><u>Top 5 AI Innovations Business Leaders Need To Be Aware Of</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ttract-more-viewers-crafting-impressive-youtube-description-with-custom-templates-for-2024/"><u>[New] Attract More Viewers Crafting Impressive Youtube Description with Custom Templates for 2024</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/levate-your-youtube-channel-perfecting-video-scriptwriting-skills-for-2024/"><u>[New] Elevate Your YouTube Channel Perfecting Video Scriptwriting Skills for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-first-row-leisure-10-alternatives-to-sports/"><u>[Updated] First Row Leisure 10 Alternatives to Sports</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/exploring-the-essential-role-of-chatgpts-programming-translator-in-ai-development/"><u>Exploring the Essential Role of ChatGPT's Programming Translator in AI Development</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/exploring-the-newly-integrated-editor-for-dall-e-3-improvement-required/"><u>Exploring the Newly Integrated Editor for DALL-E 3 - Improvement Required</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/exploring-the-turing-test-possibilities-of-overcoming-human-level-ai/"><u>Exploring the Turing Test: Possibilities of Overcoming Human-Level AI</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/get-a-jump-on-innovation-8-gpt-models-you-can-implement-without-delay/"><u>Get a Jump on Innovation: 8 GPT Models You Can Implement Without Delay</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/gpt-4-demystified-in-verified-social-circles-by-meta/"><u>GPT-4 Demystified in Verified Social Circles by Meta</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/how-does-chatgpts-use-of-recent-data-impact-all-users/"><u>How Does ChatGPT's Use of Recent Data Impact All Users?</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-can-nokia-c12mirror-share-to-pc-drfone-by-drfone-android/"><u>In 2024, How Can Nokia C12Mirror Share to PC? | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-from-oppo-reno-8t-5g-to-other-android-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data from Oppo Reno 8T 5G to Other Android Devices? | Dr.fone</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/troubleshooting-steps-resolving-non-typing-keyboards/"><u>Troubleshooting Steps: Resolving Non-Typing Keyboards</u></a></li>
+<li><a href="https://extra-information.techidaily.com/voice-yourself-audio-recording-on-windows-10/"><u>Voice Yourself Audio Recording on Windows 10</u></a></li>
 </ul></div>
 

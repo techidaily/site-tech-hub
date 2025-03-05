@@ -1,7 +1,7 @@
 ---
 title: "Electron Capture Detector (ECD):"
-date: 2025-02-09T21:48:07.622Z
-updated: 2025-02-16T18:54:58.806Z
+date: 2025-02-26T18:34:47.818Z
+updated: 2025-03-05T18:57:23.293Z
 tags:
   - apple
 categories:
@@ -47,10 +47,6 @@ This is the screen recording button we'll use to start the recording.
 
 Michael Gariffo
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 3\. Open your Control Center
 
 Next, you'll want to open Control Center. This can be done from your home screen, or from within the vast majority of iPhone apps. For iPhones without a physical Home Button, you can access it by swiping down from the top-right corner of the display. 
@@ -60,10 +56,6 @@ For iPhones with a physical Home Button, you can access it by swiping up from th
 While recording, your Screen Recording button will look like this (minus the red circle we added)
 
 Michael Gariffo
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 4\. Begin screen recording
 
@@ -75,10 +67,6 @@ Your clock will look like this as long as Screen Recording is active.
 
 Michael Gariffo
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Step 5: Record
 
 This is when you'll want to complete whatever task it is you wanted to screen record. Once you've finished recording your task, move on to the final step below.
@@ -86,10 +74,6 @@ This is when you'll want to complete whatever task it is you wanted to screen re
 This is the confirmation box that will appear when you stop your recording. 
 
 Michael Gariffo
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 5\. End your recording
 
@@ -112,10 +96,6 @@ Unfortunately, the built-in iPhone tool for recording your screen doesn't suppor
 * [Techsmith Capture](https://apps.apple.com/us/app/techsmith-capture/id1266321056) \- A straightforward screen recorder app that works almost identically to the built-in process, but supports adding real-time narration using the iPhone's built-in microphones.
 * [RecordIt!](https://apps.apple.com/us/app/record-it-screen-recorder/id1245356545) \- A slightly more complex option that also allows for real-time narration or post-capture editing. It also supports face cam captures, so you can record your screen and yourself at the same time.
 * [Screen Recorder +](https://apps.apple.com/us/app/screen-recorder/id1380506650) \- A similar option to RecordIt!, Screen Recorder + touts its ability to start up in just one second, for those spur-of-the-moment captures.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## How can I share my captured video?
 
@@ -153,24 +133,24 @@ Be aware that some apps, particularly email and messaging apps that don't rely o
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-capture.techidaily.com/new-masterclass-constructing-mc-village-houses-for-2024/"><u>[New] Masterclass Constructing MC Village Houses for 2024</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/updated-fun-flair-for-text-memes-with-easy-genrator/"><u>[Updated] Fun Flair for Text Memes with Easy Gen'rator</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-how-to-add-stickers-to-instagram-story-and-post-for-2024/"><u>[Updated] How to Add Stickers to Instagram Story and Post for 2024</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/updated-polar-performances-ultimate-beijing-olympics-scoop/"><u>[Updated] Polar Performances Ultimate Beijing Olympics Scoop</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/discover-the-key-enhancements-of-ipados-18-revealed-at-apples-wwdc-2024-and-compatible-devices-list/"><u>Discover the Key Enhancements of iPadOS 18 Revealed at Apple's WWDC 2024 and Compatible Devices List</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/hot-new-rumor-all-iphone-16-models-could-include-exclusive-15-pro-perks-the-latest-insights/"><u>Hot New Rumor: All iPhone 16 Models Could Include Exclusive 15 Pro Perks - The Latest Insights</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-identify-some-outdated-hardware-drivers-with-windows-device-manager-on-windows-1110-by-drivereasy-guide/"><u>How to identify some outdated hardware drivers with Windows Device Manager on Windows 11/10</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/in-2024-analyzing-aurora-hdrs-impact-on-visual-experience/"><u>In 2024, Analyzing Aurora HDR's Impact on Visual Experience</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-where-is-the-best-place-to-catch-dratini-on-oneplus-open-drfone-by-drfone-virtual-android/"><u>In 2024, Where Is the Best Place to Catch Dratini On OnePlus Open | Dr.fone</u></a></li>
-<li><a href="https://driver-download.techidaily.com/install-the-latest-bluetooth-driver-compatible-software-for-windows-1178/"><u>Install the Latest Bluetooth Driver: Compatible Software for Windows 11/7/8</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/installing-the-new-ios-cups-software-on-iphone-right-now-heres-how-but-should-you-really-do-it/"><u>Installing the New IOS Cups Software on iPhone Right Now? Here's How (But Should You Really Do It)?</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/ios-16-could-introduce-built-in-hearing-support-for-airpods-pro-eliminating-the-requirement-for-physical-modifications/"><u>IOS 16 Could Introduce Built-In Hearing Support for AirPods Pro, Eliminating the Requirement for Physical Modifications</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/210003876-9780486846798-living-love/"><u>Living Love | Free Book</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/maximizing-productivity-with-essential-ipad-tools-expert-recommendations-for-workflow-optimization-featured/"><u>Maximizing Productivity with Essential iPad Tools: Expert Recommendations for Workflow Optimization | Featured</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/save-big-on-the-latest-ipad-now-for-just-199-exclusive-sneak-peek-of-amazons-labor-day-offers-covered/"><u>Save Big on the Latest iPad Now for Just $199 - Exclusive Sneak Peek of Amazon's Labor Day Offers Covered .</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/secure-your-apple-watch-series-10-today-exclusive-99-pre-order-deal-at-best-buy-learn-the-steps-with-our-guide/"><u>Secure Your Apple Watch Series 10 Today: Exclusive $99 Pre-Order Deal at Best Buy! Learn the Steps with Our Guide</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/top-5-kid-friendly-ipad-picks-expert-reviews-and-comparison/"><u>Top 5 Kid-Friendly iPad Picks : Expert Reviews & Comparison</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/ultimate-guide-to-choosing-the-perfect-iphone-16-and-16-pro-case-in-202amoji/"><u>Ultimate Guide to Choosing the Perfect iPhone 16 and 16 Pro Case in 202Amoji</u></a></li>
-<li><a href="https://driver-download.techidaily.com/upgrade-your-audiophile-setup-with-free-gigabyte-audio-drivers-download-now/"><u>Upgrade Your Audiophile Setup with Free Gigabyte Audio Drivers - Download Now</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-ig-upgrade-starts-here-top-tools-for-follower-growth-for-2024/"><u>[New] IG Upgrade Starts Here Top Tools for Follower Growth for 2024</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-in-2024-broadcasting-battleground-who-are-the-champions-obs-or-twitch-studio/"><u>[New] In 2024, Broadcasting Battleground Who Are the Champions, OBS or Twitch Studio?</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-2024-approved-your-step-by-step-roadmap-for-instagrams-latest-feature-sharing-gifs/"><u>[Updated] 2024 Approved Your Step-by-Step Roadmap for Instagram's Latest Feature - Sharing GIFs</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/a-freelancers-guide-to-optimizing-chatgpt-in-your-writing-projects/"><u>A Freelancer’s Guide to Optimizing ChatGPT in Your Writing Projects</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/a-step-by-step-guide-to-empower-your-spreadsheets-using-chatgpt-and-google-sheets-synergy/"><u>A Step-by-Step Guide to Empower Your Spreadsheets Using ChatGPT & Google Sheets Synergy</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/1722124800989-genuine-vs-faux-chatbots-detect-and-protect-your-data/"><u>Genuine Vs. Faux ChatBots: Detect and Protect Your Data</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/in-2024-a-comprehensive-quick-start-to-mastering-video-editing-win11s-movie-maker/"><u>In 2024, A Comprehensive Quick Start to Mastering Video Editing Win11's Movie Maker</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-how-to-get-and-use-pokemon-go-promo-codes-on-vivo-y28-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Get and Use Pokemon Go Promo Codes On Vivo Y28 5G | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-overview-of-the-best-oneplus-nord-ce-3-5g-screen-mirroring-app-drfone-by-drfone-android/"><u>In 2024, Overview of the Best OnePlus Nord CE 3 5G Screen Mirroring App | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/navigating-through-the-creation-hurdle-of-windows-error-30005/"><u>Navigating Through the Creation Hurdle of Windows Error 30005</u></a></li>
+<li><a href="https://win-answers.techidaily.com/revamped-bioshock-2-remaster-version-resolved-issues-and-optimized-gameplay/"><u>Revamped Bioshock 2 Remaster Version – Resolved Issues and Optimized Gameplay</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/simplify-written-workflows-with-advanced-hix-ai-and-gpt-4-solutions/"><u>Simplify Written Workflows with Advanced HIX AI and GPT- 4 Solutions</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/understanding-ai-chatbot-filtering-impacts-on-user-experience/"><u>Understanding AI Chatbot Filtering: Impacts on User Experience</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/understanding-cyber-risks-can-you-count-on-chatgpt-for-safe-interactions/"><u>Understanding Cyber Risks: Can You Count on ChatGPT for Safe Interactions?</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/understanding-generative-ai-technologies-used-by-top-companies-today/"><u>Understanding Generative AI Technologies Used by Top Companies Today</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/unlimited-ai-potential-with-no-charge-five-ways-to-use-gpt-4-for-free/"><u>Unlimited AI Potential with No Charge: Five Ways to Use GPT-4 for Free</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/unlocking-creativity-in-freelancing-with-chatgpts-six-methods/"><u>Unlocking Creativity in Freelancing with ChatGPT's Six Methods</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/unveiling-the-best-ways-to-refine-your-chatgpt-interactions/"><u>Unveiling the Best Ways to Refine Your ChatGPT Interactions</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/upcoming-redesign-of-your-uber-application-essential-insights-revealed-by-zdnet/"><u>Upcoming Redesign of Your Uber Application: Essential Insights Revealed by ZDNet</u></a></li>
 </ul></div>
 

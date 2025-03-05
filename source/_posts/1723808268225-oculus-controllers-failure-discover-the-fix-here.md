@@ -1,7 +1,7 @@
 ---
 title: Oculus Controllers Failure? Discover the Fix Here
-date: 2024-08-15T20:10:36.419Z
-updated: 2024-08-16T20:10:36.419Z
+date: 2025-02-27T16:36:01.358Z
+updated: 2025-03-05T18:16:35.462Z
 tags:
   - win11
   - win10
@@ -44,17 +44,11 @@ thumbnail: https://thmb.techidaily.com/dd74ca01dbc641b737d0316c96d8a2db1900c3240
 
 1. In the Windows search box, type**service** and select**Services** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/oculus-service.jpg)
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2084399/18498" target="_top" id="2084399"><img src="//a.impactradius-go.com/display-ad/18498-2084399" border="0" alt="" width="1125" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084399/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 2. Right-click**Oculus VR Runtime Service** and click**Restart** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/oculus-runtime-service.jpg)
 
  Once it’s done, restart your Oculus app to see if the controller works. If not, move on to the next method below.
 
-<!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453720/17020" target="_top" id="1453720"><img src="//a.impactradius-go.com/display-ad/17020-1453720" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453720/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 2 – Turn off USB selective suspend
 
  USB selective suspend is a Windows feature that puts certain USB ports in the suspend state to save your computer from using unnecessary power. However, it might cause your Oculus VR rig to stop working randomly.
@@ -69,21 +63,11 @@ To disable USB power saving, follow the steps below:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/1-3.jpg)
 4. Double-click **USB selective suspend setting** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/1-4.jpg)
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BOST%2BRecovery"><img src="https://www.systoolsgroup.com/box/ost-recovery.png" border="0"></a>
-<!-- affiliate ads end -->
 5. Select **Disabled** from the drop-down menu next to Setting. Then click**OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/disable-usb-selective-suspend-setting.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718730&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_vMixCallScreenshot1-large.jpg" border="0">vMix HD - Software based live production. vMix HD includes everything in vMix Basic HD plus 1000 inputs, Video List, 4 Overlay Channels, and 1 vMix Call 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
-<!-- affiliate ads end -->
 
 See if the issue gets fixed. If not, check out the next solution below.
 
-<!-- affiliate ads begin -->
-
-<!-- affiliate ads end -->
 ### Fix 3 – Disable conflicting software
 
  The Oculus controller not working problem is likely to occur if you have multiple programs running in the background and they’re conflicting with your Oculus app. To see if that’s the cause, simply shut down all the unnecessary applications.
@@ -93,15 +77,9 @@ See if the issue gets fixed. If not, check out the next solution below.
 2. Right-click any apps you’re not using and click**End task** .  
  Don’t end any program that you’re not familiar with. It may be critical for the functioning of your computer.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/ta-3.jpg)
-<!-- affiliate ads begin -->
-<a href="https://arkmc.pxf.io/c/5597632/427477/5172" target="_top" id="427477"><img src="//a.impactradius-go.com/display-ad/5172-427477" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/427477/5172" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Test whether your Oculus controller does the job. If not, continue to the next solution.
 
-<!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/2016067/18544" target="_top" id="2016067"><img src="//a.impactradius-go.com/display-ad/18544-2016067" border="0" alt="" width="1020" height="380"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2016067/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 4 – Repair the Oculus app
 
  According to some reports, the improper installation of the Oculus app can lead to the malfunctioning of your VR rigs. Fortunately, it’s not hard to repair this issue.
@@ -112,9 +90,6 @@ See if the issue gets fixed. If not, check out the next solution below.
 
  It may take a few minutes for the repair to complete. Then relaunch the Oculus app to see whether your controller goes back to normal. If not, there is one more fix to try.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4621764&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.x-mirage.com/x-mirage/img/page-home.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ### Fix 5 – Update your device drivers
 
  Drivers matter a lot to the performance of your devices. To keep your VR rig up and running and gain the most smooth experience with Oculus Rift, Rift S or Quest, you should install the latest device drivers on your computer all the time.
@@ -152,8 +127,6 @@ There are mainly two ways to update the drivers for your Oculus devices:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -161,4 +134,17 @@ There are mainly two ways to update the drivers for your Oculus devices:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-direct.techidaily.com/updated-in-2024-significant-tenets-of-interactive-storytelling/"><u>[Updated] In 2024, Significant Tenets of Interactive Storytelling</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-secrets-to-smoothly-resolving-youtube-short-issues/"><u>[Updated] Secrets to Smoothly Resolving YouTube Short Issues</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/guide-to-mirror-your-lava-yuva-2-pro-to-other-android-devices-drfone-by-drfone-android/"><u>Guide to Mirror Your Lava Yuva 2 Pro to Other Android devices | Dr.fone</u></a></li>
+<li><a href="https://win-data.techidaily.com/how-to-download-and-save-the-way-of-the-master-in-multiple-video-file-types/"><u>How to Download and Save 'The Way of the Master' In Multiple Video File Types</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-do-vivo-v27-pro-screen-sharing-drfone-by-drfone-android/"><u>In 2024, How To Do Vivo V27 Pro Screen Sharing | Dr.fone</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-inside-look-the-best-youtube-makeup-artists-of-today/"><u>In 2024, Inside Look The Best YouTube Makeup Artists of Today</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/mastery-unleashed-board-games-and-visual-creation-through-my-bots-techniques/"><u>Mastery Unleashed: Board Games & Visual Creation Through My Bots Techniques</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/navigating-post-altman-era-at-openai-and-what-lies-ahead-for-chatgpt-technology/"><u>Navigating Post-Altman Era at OpenAI and What Lies Ahead for ChatGPT Technology</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/preventing-unauthorized-data-access-by-adaptive-ai/"><u>Preventing Unauthorized Data Access by Adaptive AI</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/protecting-your-information-the-risks-of-using-personalized-chatgpt-models/"><u>Protecting Your Information: The Risks of Using Personalized ChatGPT Models</u></a></li>
+</ul></div>
 

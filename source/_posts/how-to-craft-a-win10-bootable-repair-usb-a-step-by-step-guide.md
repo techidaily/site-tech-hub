@@ -1,7 +1,7 @@
 ---
 title: "How to Craft a Win10 Bootable Repair USB: A Step-by-Step Guide"
-date: 2024-08-15T20:12:40.360Z
-updated: 2024-08-16T20:12:40.360Z
+date: 2025-02-26T16:05:58.410Z
+updated: 2025-03-05T17:11:15.864Z
 tags:
   - win11
   - win10
@@ -38,14 +38,8 @@ In this post, you’ll learn:
 1. On your keyboard, hold down the**Windows logo key** , then press**R** to bring up a**Run** box.
 2. Type**dxdiag** and click**OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b7e5bf785418.png)
-<!-- affiliate ads begin -->
-<a href="https://parisrhonecom.sjv.io/c/5597632/1896607/21553" target="_top" id="1896607"><img src="//a.impactradius-go.com/display-ad/21553-1896607" border="0" alt="" width="750" height="422"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1896607/21553" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 3. You’ll then see the DirectX version of your computer. Check if it’s the latest one with the below table.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b7e5c7b546da.jpg)
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068411/7443" target="_top" id="2068411"><img src="//a.impactradius-go.com/display-ad/7443-2068411" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068411/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Here are the latest DirectX versions matching with the Windows system (6/30/2024 updated):
 
@@ -59,16 +53,10 @@ In this post, you’ll learn:
 
  If your DirectX is the latest one, great! You also get the latest Direct3D on your computer. If the DirectX version on your computer isn’t the latest one, follow**Step 2** to check for Windows Update.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4576829&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9e740b84bb48a64dde25061566299467/products/copy_1_jp_box_big.png" border="0">Jet Profiler for MySQL, Enterprise Version： Jet Profiler for MySQL is real-time query performance and diagnostics tool for the MySQL database server. Its detailed query information, graphical interface and ease of use makes this a great tool for finding performance bottlenecks in your MySQL databases. </a>
-<!-- affiliate ads end -->
 ### Step 2\. Check for updates for your computer’s system
 
 1. On your keyboard, press the**Windows logo key** . Type**check for updates** . Then click**Check for updates** from the list of results.  
 ![](https://www.drivereasy.com/wp-content/uploads/2017/07/win11-search-bar-check-for-updates.jpg)
-<!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398453/3022" target="_top" id="398453"><img src="//a.impactradius-go.com/display-ad/3022-398453" border="0" alt="www.sentrypc.com" width="580" height="400"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398453/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 2. Click**Check for updates** .  
 ![](https://www.drivereasy.com/wp-content/uploads/2021/07/win11-check-for-updates.png)
 
@@ -85,17 +73,11 @@ In this post, you’ll learn:
  Click the**Download** button, then run the execution file and follow the on-screen instructions to install the installer.
 
 ![](https://www.drivereasy.com/wp-content/uploads/2024/06/runtime-directx.png)
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2048963/16384" target="_top" id="2048963"><img src="//a.impactradius-go.com/display-ad/16384-2048963" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048963/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Then download DirectX Redist from here: [https://www.microsoft.com/en-us/download/details.aspx?id=8109](https://www.microsoft.com/en-us/download/details.aspx?id=8109) . After the download, double-click the downloaded file and extract it to wherever you prefer. When the file is extracted, double-click the **DXSetup** file to run the DirectX files installation.
 
 ![](https://www.drivereasy.com/wp-content/uploads/2024/06/dxsetup.png)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4712430&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c404a5adbf90e09631678b13b05d9d7a/products/dlnow_256.png" border="0">DLNow Video Downloader</a>
-<!-- affiliate ads end -->
 ## How do I fix the Direct3D related error?
 
  If you’ve had the Direct3D error, like**Failed to initialize Direct3D** ,**Direct3D Acceleration not available** , you’ll need to**update your graphics card driver** besides installing the latest DirectX;
@@ -128,8 +110,6 @@ In this post, you’ll learn:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -137,4 +117,16 @@ In this post, you’ll learn:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-recording.techidaily.com/new-in-2024-active-screen-capture-pro-does-it-reign-supreme/"><u>[New] In 2024, Active Screen Capture Pro Does It Reign Supreme?</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-in-2024-ultimate-rotation-video-setup/"><u>[New] In 2024, Ultimate Rotation Video Setup</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/facil-criacao-de-loopes-de-video-tecnicas-com-o-movavi-video-editor/"><u>Fácil Criação De Loopes De Vídeo: Técnicas Com O Movavi Video Editor</u></a></li>
+<li><a href="https://video-capture.techidaily.com/in-2024-pedal-power-parade-of-playtime/"><u>In 2024, Pedal Power Parade of Playtime</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/1722010915433-top-contenders-in-llm-showdown-bard-chatgpt-and-offline-alpaca-battle-it-out/"><u>Top Contenders in LLM Showdown: Bard, ChatGPT and Offline Alpaca Battle It Out</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/understanding-and-articulating-ru-alphabets/"><u>Understanding and Articulating RU Alphabets</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/what-sets-claude-pro-apart-from-the-advanced-capabilities-of-chatgpt-plus/"><u>What Sets Claude Pro Apart From the Advanced Capabilities of ChatGPT Plus?</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/whats-next-after-gpt-4-predicting-the-arrival-and-launch-date-of-gpt-5/"><u>What's Next After GPT-4: Predicting the Arrival and Launch Date of GPT-5</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/which-large-language-model-reigns-supreme-a-comparison-of-bard-chatgpt-and-offline-alpaca-for-optimal-performance/"><u>Which Large Language Model Reigns Supreme? A Comparison of Bard, ChatGPT, and Offline Alpaca for Optimal Performance</u></a></li>
+</ul></div>
 

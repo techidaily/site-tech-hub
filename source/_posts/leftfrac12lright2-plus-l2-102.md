@@ -1,7 +1,7 @@
 ---
 title: \\[ \\Left(\\frac{1}{2}l\\right)^2 + L^2 = 10^2 \\
-date: 2025-02-11T16:13:42.633Z
-updated: 2025-02-16T20:09:40.218Z
+date: 2025-03-02T19:17:07.632Z
+updated: 2025-03-05T16:23:25.851Z
 tags:
   - apple
 categories:
@@ -24,10 +24,6 @@ While the Pixel 6 Pro at time of release was only $100 cheaper ($899) than the $
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##  Specifications
 
 | **Google Pixel 6 Pro** | **iPhone 13 Pro**                                                                                                                                                            |                                                                                                                                                                                                                                                                                                                                                             |
@@ -45,17 +41,9 @@ While the Pixel 6 Pro at time of release was only $100 cheaper ($899) than the $
 | Colors                 | Cloudy White, Sorta Sunny, Stormy Black                                                                                                                                      | Alpine Green, Silver, Gold, Graphite, Sierra Blue                                                                                                                                                                                                                                                                                                           |
 | Price                  | [Starting at $899](https://www.anrdoezrs.net/links/9041660/type/dlg/sid/zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp/https://store.google.com/product/pixel%5F6%5Fpro?hl=en-US&pli=1) | [Starting at $999](https://apple.sjv.io/c/159047/435031/7613?&sharedId=zdnet&u=https%3A%2F%2Fwww.apple.com%2Fiphone-13-pro%2Fkey-features%2F%3Fafid%3Dp238%257CsNQZDFTnQ-dc%5Fmtid%5F20925d2q39172%5Fpcrid%5F588006468460%5Fpgrid%5F126654828229%5F%26cid%3Dwwa-us-kwgo-iphone--slid---Brand-iphone13pro-avail-&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp) |
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3AGmFrtBLHw?si=VhvpUaXHPBHl6OT6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  You should buy the Google Pixel 6 Pro if…
 
@@ -75,10 +63,6 @@ While Apple's iPhones have made significant improvements to battery life since t
 
 CNET
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ###  3\. You want a sleek, innovative design
 
 While the iPhone 13 Pro stuck to its traditional, stainless-steel design, only adding a larger camera bump, Google's design broke creative boundaries, especially when compared to previous Pixel generations. Featuring a camera bar that stretches across the back, the Pixel camera doesn't take up half of your phone like that of the iPhone 13 Pro. The bar slightly protrudes from the back glass -- about 3mm from the surface -- which keeps the whole device wobble-free when laid flat. 
@@ -88,10 +72,6 @@ With a Gorilla Glass Victus rear and a curved aluminum-edged frame, the Pixel 6 
 Lastly, the Pixel 6 Pro runs on the latest Android 12 software, with Android 13 on the horizon. With improved theme capabilities, new adaptive widgets, and a slew of Android perks, the Pixel software is both pleasing to the eye and practical. 
 
 [Buy the Google Pixel 6 Pro $418.88 at Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB09HYR2NC8%2Fref%3Dasc%5Fdf%5FB09HYR2NC81727521200000%3Fcreative%3D395261%26creativeASIN%3DB09HYR2NC8%26linkCode%3Dasn%26tag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C7e5b1293-c7f0-4074-bebc-aa1278013569%7Cdtp&dtb=1)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  You should buy the iPhone 13 Pro if...
 
@@ -153,20 +133,21 @@ This support extends to the many physical Apple storefronts, equipped with custo
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-links.techidaily.com/updated-2024-approved-step-by-step-guide-to-dimming-audio-with-logic-pro/"><u>[Updated] 2024 Approved Step-by-Step Guide to Dimming Audio with Logic Pro</u></a></li>
-<li><a href="https://article-helps.techidaily.com/2024-approved-digitizing-memories-from-stillness-to-movement/"><u>2024 Approved Digitizing Memories From Stillness to Movement</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/210817344-9781401976460-a-time-for-grace/"><u>A Time for Grace | Free Book</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/amazing-bargain-alert-grab-apples-iphone-15-pro-max-at-just-a-penny-exclusive-amazon-offer-explained/"><u>Amazing Bargain Alert: Grab Apple's iPhone 15 Pro Max at Just a Penny - Exclusive Amazon Offer Explained!</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/apple-vision-pro-elevates-my-fav-tv-show-viewing-a-tale-of-joy-strangeness-and-exhaustion-coverage-by-zdnet/"><u>Apple Vision Pro Elevates My Fav TV Show Viewing - A Tale of Joy, Strangeness & Exhaustion | Coverage by ZDNet</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/discover-4-irresistible-motivations-for-grabbing-apples-latest-ipad-air-a-comprehensive-review/"><u>Discover 4 Irresistible Motivations for Grabbing Apple's Latest iPad Air: A Comprehensive Review</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/guide-sending-and-receiving-imessages-using-windows-tips-from-zdnet/"><u>Guide: Sending & Receiving iMessages Using Windows - Tips From ZDNet</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-looking-for-a-location-changer-on-vivo-y28-5g-look-no-further-drfone-by-drfone-virtual-android/"><u>In 2024, Looking For A Location Changer On Vivo Y28 5G? Look No Further | Dr.fone</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/in-2024-premium-accelerated-photo-browser-for-windows/"><u>In 2024, Premium Accelerated Photo Browser for Windows</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/navigating-assassins-creed-valhallas-unlaunched-status-solutions-for-impatient-gamers/"><u>Navigating Assassin's Creed Valhalla's Unlaunched Status: Solutions for Impatient Gamers.</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/revamping-your-iphone-a-step-by-step-guide-to-personalizing-the-ios-18-control-center-insights-from-zdnet/"><u>Revamping Your iPhone: A Step-by-Step Guide to Personalizing the iOS 18 Control Center - Insights From ZDNet</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/samsung-galaxy-s23-and-iphone-14-face-off-deciding-which-smartphone-reigns-supreme-in-the-tech-world-expert-analysis-by-zdnet/"><u>Samsung Galaxy S23 and iPhone 14 Face-Off: Deciding Which Smartphone Reigns Supreme in the Tech World | Expert Analysis by ZDNet</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/superbackground-cleanup-suite/"><u>SuperBackground Cleanup Suite</u></a></li>
-<li><a href="https://ios-location-track.techidaily.com/top-5-tracking-apps-to-track-apple-iphone-12-pro-max-without-them-knowing-drfone-by-drfone-virtual-ios/"><u>Top 5 Tracking Apps to Track Apple iPhone 12 Pro Max without Them Knowing | Dr.fone</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/top-ranking-ipad-models-comprehensive-reviews-by-tech-experts/"><u>Top-Ranking iPad Models - Comprehensive Reviews by Tech Experts</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-2024-approved-how-to-record-edit-and-produce-high-quality-webcam-videos/"><u>[New] 2024 Approved How to Record, Edit and Produce High-Quality Webcam Videos</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-unlocking-growth-medical-ad-tricks-on-social-media/"><u>[New] Unlocking Growth Medical Ad Tricks on Social Media</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/decode-ai-talk-29-must-know-words-in-artificial-intelligence/"><u>Decode AI Talk: 29 Must-Know Words in Artificial Intelligence</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/decoding-ai-communication-strategies-chatbots-utilize-to-engage-in-conversations-like-humans/"><u>Decoding AI Communication: Strategies Chatbots Utilize to Engage in Conversations Like Humans</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/dell-2330d-and-2330dn-monochrome-laser-printer-firmware-upgrade/"><u>Dell 2330D & 2330DN Monochrome Laser Printer Firmware Upgrade</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/detailed-analysis-by-tom-on-latest-computer-hardware-innovations/"><u>Detailed Analysis by Tom on Latest Computer Hardware Innovations</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/digital-discourse-and-politeness-with-voice-activated-technology/"><u>Digital Discourse and Politeness with Voice-Activated Technology</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/direct-ai-access-from-anywhere-browser-edition-using-agentgpt/"><u>Direct AI Access From Anywhere – Browser Edition, Using AgentGPT</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/discover-the-leading-open-source-ai-applications-for-professional-photo-generation/"><u>Discover the Leading Open Source AI Applications for Professional Photo Generation</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/exploring-emotion-recognition-in-artificial-intelligence-systems/"><u>Exploring Emotion Recognition in Artificial Intelligence Systems</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/fix-faults-in-your-computer-using-chatgpt-assistance/"><u>Fix Faults in Your Computer Using ChatGPT Assistance</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/guide-to-reconnecting-overcoming-offline-print-spooler/"><u>Guide to Reconnecting: Overcoming Offline Print Spooler</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/harnessing-iphone-downloads-top-podcast-strategies/"><u>Harnessing iPhone Downloads Top Podcast Strategies</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/mastering-the-art-of-srt-postings-a-guide-for-platform-specific-strategies/"><u>Mastering the Art of SRT Postings A Guide for Platform-Specific Strategies</u></a></li>
+<li><a href="https://techtrends.techidaily.com/update-your-desktop-zoom-meetings-windows-and-macos-compatible-instructions/"><u>Update Your Desktop Zoom Meetings – Windows & macOS Compatible Instructions</u></a></li>
+<li><a href="https://techidaily.com/your-complete-guide-to-reset-samsung-galaxy-s24-ultra-drfone-by-drfone-reset-android-reset-android/"><u>Your Complete Guide To Reset Samsung Galaxy S24 Ultra | Dr.fone</u></a></li>
 </ul></div>
 

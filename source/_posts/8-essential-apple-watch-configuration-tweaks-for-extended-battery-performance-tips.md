@@ -1,7 +1,7 @@
 ---
 title: 8 Essential Apple Watch Configuration Tweaks for Extended Battery Performance - Tips
-date: 2025-02-12T17:56:25.362Z
-updated: 2025-02-16T17:56:08.958Z
+date: 2025-02-27T17:43:57.991Z
+updated: 2025-03-05T17:17:46.767Z
 tags:
   - apple
 categories:
@@ -35,10 +35,6 @@ Even with a healthy battery life in my device, I'm not sure when the problem ori
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 1\. Turn off the always-on display
 
@@ -80,10 +76,6 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 
 [See all](https://www.zdnet.com/newsletters/)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 5\. Turn off irregular heart rate notifications
 
 With some of the newest Apple Watches, Apple includes a feature that can alert you when your heart rate is beating in irregular intervals and alert you when it may be atrial fibrillation. While that's nice to have for tracking your health over time, it means the heart rate sensor is constantly on collecting your heart rate, which isn't good for battery life.
@@ -98,10 +90,6 @@ When a notification comes in, it not only plays a "ding!" to alert you, it also 
 
 **Also:** [**Your Apple Watch is getting an upgrade - here are the best features in WatchOS 11**](https://www.zdnet.com/article/your-apple-watch-is-getting-an-upgrade-here-are-the-best-features-in-watchos-11/)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/e4Nt2xXXtmE?si=CtKwFry4b0AJXnaN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 7\. Turn off Siri
 
 Ah, Siri. Many people swear by the voice assistant and use it daily to do things like check the weather, start a timer (or two), play some music, or start a workout. But if you're like me (and, presumably, many others), you don't touch Siri at all on your Apple Watch, and it's just sitting there wasting your battery, constantly listening to hear that magical phrase "Hey, Siri." In other words, you should turn it off.
@@ -110,19 +98,11 @@ Ah, Siri. Many people swear by the voice assistant and use it daily to do things
 
 Adrian Kingsley-Hughes/ZDNET
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 8\. Factory reset your Apple Watch (a.k.a. the last resort)
 
 I've heard from many folks who have faced issues with battery life on the Apple Watch that it's best to do a complete factory reset. Full disclosure: it's not going to work for everyone, but if you've exhausted every option on your Apple Watch to extend battery life, the battery is still healthy, and you don't want to upgrade, your best bet is to reset it and start from scratch. That way, you can set up your watch and, along the way, spot the app or service that drains your battery the most. It may also help clean up some of the system bloat in watchOS 10 that's led to poor efficiency on your watch.
 
 **How to:** Go to Settings > General > Reset on your Apple Watch, then choose "Erase All Content and Settings." You won't have to disable Find My or get rid of your cellular plan since you'll be setting it up with your iPhone again, but if you want to get rid of absolutely everything, make sure you disable Find My and dump your cellular plan during the process.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## How we test smartwatches
 
@@ -165,24 +145,22 @@ For a deeper look at our testing process, check out our comprehensive [smartwatc
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-tips.techidaily.com/024-approved-effortless-transformation-of-your-youtube-content-into-webm/"><u>[New] 2024 Approved Effortless Transformation of Your YouTube Content Into WebM</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-getting-the-most-out-of-live-sports-on-youtube-tv-for-2024/"><u>[Updated] Getting the Most Out of Live Sports on YouTube TV for 2024</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-solving-iphone-xs-identity-crisis-fixing-face-id-failures-for-2024/"><u>[Updated] Solving iPhone X's Identity Crisis Fixing Face ID Failures for 2024</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/2024-approved-architects-crafting-fantasy-realms-for-marvel/"><u>2024 Approved Architects Crafting Fantasy Realms for Marvel</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/2024-approved-best-cameras-for-pixel-art-animation/"><u>2024 Approved Best Cameras for Pixel Art Animation</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/2024-approved-cutting-edge-techniques-for-capturing-stellar-interviews-on-idevices/"><u>2024 Approved Cutting-Edge Techniques for Capturing Stellar Interviews on iDevices</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/affordable-action-camera-choices-top-6-under-100-for-2024/"><u>Affordable ACTION Camera Choices – Top 6 Under $100 for 2024</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/amazons-hottest-deals-of-august-2o24-find-the-best-bargains/"><u>Amazon's Hottest Deals of August 2O24: Find the Best Bargains</u></a></li>
-<li><a href="https://howto.techidaily.com/cellular-network-not-available-for-voice-calls-on-oppo-f25-pro-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Cellular Network Not Available for Voice Calls On Oppo F25 Pro 5G | Dr.fone</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/early-birds-advantage-on-apple-vision-pro-begin-your-journey-with-testflight-a-step-by-step-tutorial/"><u>Early Bird's Advantage on Apple Vision Pro: Begin Your Journey with TestFlight - A Step-by-Step Tutorial</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/establishing-multiple-network-nodes-on-macos-for-enhanced-connectivity-options/"><u>Establishing Multiple Network Nodes on macOS for Enhanced Connectivity Options</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/experience-the-next-level-of-smartwatch-mastery-with-the-new-apple-watch-ultra-2-unbeatable-features-and-a-special-labor-day-discount/"><u>Experience the Next-Level of Smartwatch Mastery with the New Apple Watch Ultra 2 – Unbeatable Features and a Special Labor Day Discount !</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/get-started-with-macos-15-sequoia-early-access-for-mac-users-a-complete-walkthrough-digital-trends/"><u>Get Started with macOS 15 Sequoia Early Access for Mac Users: A Complete Walkthrough | Digital Trends</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/how-apples-upcoming-non-flashy-ai-innovation-could-change-everything-this-years-wwdc/"><u>How Apple's Upcoming Non-Flashy AI Innovation Could Change Everything This Year's WWDC</u></a></li>
-<li><a href="https://change-location.techidaily.com/how-to-watch-hulu-outside-us-on-samsung-galaxy-s21-fe-5g-2023-drfone-by-drfone-virtual-android/"><u>How to Watch Hulu Outside US On Samsung Galaxy S21 FE 5G (2023) | Dr.fone</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/in-2024-navigating-the-smm-landscape-key-steps-to-success/"><u>In 2024, Navigating the SMM Landscape Key Steps to Success</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/migrating-whatsapp-messages-from-android-to-iphone-a-step-by-step-guide/"><u>Migrating WhatsApp Messages From Android to iPhone: A Step-by-Step Guide</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/upcoming-release-detailed-guide-on-when-and-how-to-pre-order-next-generation-airpods-insights/"><u>Upcoming Release: Detailed Guide on When & How to Pre-Order Next Generation AirPods - Insights</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/upgrading-to-the-new-era-of-smartphones-detailed-comparison-between-iphone-16-pro-and-iphone-14-pro/"><u>Upgrading to the New Era of Smartphones: Detailed Comparison Between iPhone 16 Pro and iPhone 14 Pro</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/new-crafting-captivating-edu-videos-essential-techniques-and-tips-for-youtube-success/"><u>[New] Crafting Captivating Edu-Videos Essential Techniques and Tips for YouTube Success</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-frost-your-view-freezing-desktop-on-pcs/"><u>[New] Frost Your View Freezing Desktop on PCs</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-in-2024-income-growth-in-gaming-videos/"><u>[Updated] In 2024, Income Growth in Gaming Videos</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-premium-android-vr3d-player-selection/"><u>2024 Approved Premium Android VR/3D Player Selection</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/ai-and-alcoholic-beverages-the-capabilities-of-chatgpt-for-cocktail-creation/"><u>AI and Alcoholic Beverages: The Capabilities of ChatGPT for Cocktail Creation</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/barricade-web-from-robotic-crawlers/"><u>Barricade Web From Robotic Crawlers</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/building-fantasy-universes-using-the-power-of-chatgpt/"><u>Building Fantasy Universes Using the Power of ChatGPT</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/can-conversational-ai-such-as-chatgpt-reshape-the-future-of-medicine/"><u>Can Conversational AI Such as ChatGPT Reshape the Future of Medicine?</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/chatgpt-as-a-creative-ally-for-aspiring-video-game-writers-six-methods-to-excel/"><u>ChatGPT as a Creative Ally for Aspiring Video Game Writers: Six Methods to Excel</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/chatgpt-as-your-personalized-streaming-guide-how-it-works/"><u>ChatGPT as Your Personalized Streaming Guide - How It Works?</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/chatgpt-is-listening-start-a-dialogue/"><u>ChatGPT Is Listening – Start a Dialogue</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/chatgpt-malfunctioning-on-your-iphone-discover-these-9-fixes-right-now/"><u>ChatGPT Malfunctioning on Your iPhone? Discover These 9 Fixes Right Now!</u></a></li>
+<li><a href="https://windows11.techidaily.com/fine-tuning-fn-keys-windows-10-and-11-techniques/"><u>Fine-Tuning FN Keys: Windows 10 and 11 Techniques</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-fine-tuning-soundtracks-with-garageband-expertise/"><u>In 2024, Fine-Tuning Soundtracks with GarageBand Expertise</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-show-wi-fi-password-on-lava-yuva-2-pro-by-drfone-android/"><u>In 2024, How to Show Wi-Fi Password on Lava Yuva 2 Pro</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-the-most-useful-tips-for-pokemon-go-ultra-league-on-realme-narzo-n55-drfone-by-drfone-virtual-android/"><u>In 2024, The Most Useful Tips for Pokemon Go Ultra League On Realme Narzo N55 | Dr.fone</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/updated-2024-approved-free-and-easy-video-stabilization-our-favorite-online-tools/"><u>Updated 2024 Approved Free and Easy Video Stabilization Our Favorite Online Tools</u></a></li>
 </ul></div>
 

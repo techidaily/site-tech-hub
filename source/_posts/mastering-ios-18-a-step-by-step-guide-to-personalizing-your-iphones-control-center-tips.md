@@ -1,7 +1,7 @@
 ---
 title: "Mastering iOS 18: A Step-by-Step Guide to Personalizing Your iPhone's Control Center - Tips"
-date: 2025-02-15T00:29:06.473Z
-updated: 2025-02-16T19:47:26.107Z
+date: 2025-02-27T18:39:53.934Z
+updated: 2025-03-05T16:30:16.391Z
 tags:
   - apple
 categories:
@@ -28,15 +28,7 @@ If you want to follow along, you'll need to install the iOS 18 public beta on an
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## How to customize your iPhone's new Control Center with iOS 18
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 1\. Access Control Center
 
@@ -52,19 +44,11 @@ Screenshot by Lance Whitney/ZDNET
 
 **Also: [Every iPhone model that can be updated to Apple's iOS 18 (and which ones can't)](https://www.zdnet.com/article/every-iphone-model-that-can-be-updated-to-apples-ios-18-and-which-ones-cant/)**
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 3\. Resize a control
 
 After tapping the plus icon, some controls sport a gray curved handle in the lower-right corner. This means you can resize the control's icon. Drag the handle and move it up, down, or diagonally. Release it when the icon is the size you wish.
 
 Screenshot by Lance Whitney/ZDNET
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LaGNHfAT92w?si=bvHo1iYK2JBIPtRo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 4\. Delete a control
 
@@ -79,10 +63,6 @@ You can easily add a control to any screen that has available space. Pick a scre
 Screenshot by Lance Whitney/ZDNET
 
 **Also: [I did not expect this iOS 18 feature announced at WWDC to be my favorite (and it's not AI)](https://www.zdnet.com/article/i-did-not-expect-this-ios-18-feature-announced-at-wwdc-to-be-my-favorite-and-its-not-ai/)**
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1rCjQ09iG7s?si=Si1fUBric8MH1VHI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 6\. Add a control to a new screen
 
@@ -126,18 +106,19 @@ Screenshot by Lance Whitney/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://digital-screen-recording.techidaily.com/new-best-practices-to-avoid-missed-frames-during-video-capture/"><u>[New] Best Practices to Avoid Missed Frames During Video Capture</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-hands-on-tips-for-masterful-video-edits-with-youtube-studio/"><u>[New] In 2024, Hands-On Tips for Masterful Video Edits with YouTube Studio</u></a></li>
-<li><a href="https://fox-info.techidaily.com/updated-2024-approved-navigating-new-frontiers-metaverses-vs-omniverse/"><u>[Updated] 2024 Approved Navigating New Frontiers Metaverses Vs. Omniverse</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-the-ultimate-guide-to-mac-based-sound-capture-in-audacity/"><u>[Updated] The Ultimate Guide to Mac-Based Sound Capture in Audacity</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/boost-your-productivity-with-swift-the-power-of-macos-spotlight-suggestions-unveiled/"><u>Boost Your Productivity with Swift: The Power of macOS Spotlight Suggestions Unveiled</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/how-to-leverage-chatgpts-features-for-free-a-5-step-guide/"><u>How to Leverage ChatGPT's Features for Free – A 5-Step Guide</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/how-to-quickly-fix-bluetooth-not-working-on-vivo-y100i-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Quickly Fix Bluetooth Not Working on Vivo Y100i | Dr.fone</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/how-to-score-a-free-upgraded-macbook-air-m3-at-best-buy-exclusive-trick-revealed-gadgetguru/"><u>How to Score a Free Upgraded MacBook Air M3 at Best Buy - Exclusive Trick Revealed | GadgetGuru</u></a></li>
-<li><a href="https://fox-http.techidaily.com/in-2024-bsplayer-9-pro-top-choice-for-streaming/"><u>In 2024, BSPlayer 9 Pro Top Choice for Streaming</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/maximize-battery-life-esr-unveils-its-latest-qi2-magsafe-series-offering-rapid-charge-for-iphones-x-with-cool-technology-zdnet/"><u>Maximize Battery Life: ESR Unveils Its Latest Qi2 MagSafe Series, Offering Rapid Charge for iPhones X with Cool Technology - ZDNet</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/revolutionize-your-workspace-get-a-dual-purpose-macbook-stand-and-port-hub-for-only-102-on-zdnets-limited-sale/"><u>Revolutionize Your Workspace: Get a Dual-Purpose MacBook Stand and Port Hub for Only $102 on ZDNet's Limited Sale!</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/revolutionizing-the-iphone-experience-how-apples-adoption-of-gemini-enhances-usability-tech-analysis-by-zdnet/"><u>Revolutionizing the iPhone Experience: How Apple's Adoption of Gemini Enhances Usability | Tech Analysis by ZDNET</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/zdnets-curated-list-of-premium-magsafe-wallets-in-2e24-in-depth-testing-and-analysis-unveiled/"><u>ZDNet's Curated List of Premium MagSafe Wallets in 2E24: In-Depth Testing and Analysis Unveiled</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-in-2024-achieving-professional-streams-with-obs-android-style/"><u>[New] In 2024, Achieving Professional Streams with OBS, Android Style</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-sightsphere-scrutiny-summary/"><u>[Updated] SightSphere Scrutiny Summary</u></a></li>
+<li><a href="https://win-dash.techidaily.com/easy-guide-to-downloading-logitech-drivers-for-windows-efficient-and-user-friendly/"><u>Easy Guide to Downloading Logitech Drivers for Windows - Efficient & User-Friendly</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-install-and-update-device-drivers-manually-in-windows-1110-by-drivereasy-guide/"><u>How to install and update device drivers manually in Windows 11/10</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/hp-officejet-pro-6978-driver-solutions-expert-tips-and-tricks/"><u>HP OfficeJet Pro 6978 Driver Solutions: Expert Tips and Tricks</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-the-essentials-of-high-quality-audio-interfaces-in-podcasting/"><u>In 2024, The Essentials of High-Quality Audio Interfaces in Podcasting</u></a></li>
+<li><a href="https://common-error.techidaily.com/master-the-trick-of-handling-persistent-restarts-on-your-windows-10-device/"><u>Master the Trick of Handling Persistent Restarts on Your Windows 10 Device</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/navigating-lifes-strains-with-ease-leveraging-chatgpt-as-your-stress-solution/"><u>Navigating Life's Strains with Ease: Leveraging ChatGPT as Your Stress Solution</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/perfecting-artificial-intelligence-choose-the-best-5-tools/"><u>Perfecting Artificial Intelligence: Choose the Best 5 Tools</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/rediscover-past-dialogues-with-chatgpt-techniques-for-retrieving-lost-history/"><u>Rediscover Past Dialogues with ChatGPT: Techniques for Retrieving Lost History</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/share-and-keep-record-of-all-your-interactions-using-these-powerful-chatgpt-extensions/"><u>Share and Keep Record of All Your Interactions Using These Powerful ChatGPT Extensions!</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/should-we-treat-smart-speakers-such-as-chatgpt-alexa-and-siri-with-politeness/"><u>Should We Treat Smart Speakers Such as ChatGPT, Alexa, and Siri With Politeness?</u></a></li>
+<li><a href="https://techtrends.techidaily.com/speak-up-with-ios-a-step-by-step-guide-to-sending-recorded-voice-calls-from-iphone/"><u>Speak Up with iOS: A Step-by-Step Guide to Sending Recorded Voice Calls From iPhone</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/tech-tips-shielding-your-web-pages-against-openai-crawler-activity/"><u>Tech Tips: Shielding Your Web Pages Against OpenAI Crawler Activity</u></a></li>
 </ul></div>
 

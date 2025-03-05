@@ -1,7 +1,7 @@
 ---
 title: "Insider Reveals Apple's Development of Affordable AR Spectacles: A Game Changer in Visual Tech"
-date: 2025-02-09T17:12:43.746Z
-updated: 2025-02-16T22:06:07.080Z
+date: 2025-03-03T16:20:27.244Z
+updated: 2025-03-05T18:51:08.873Z
 tags:
   - apple
 categories:
@@ -38,17 +38,9 @@ Training Load is also coming in WatchOS 11, allowing you to keep track of the st
 
 Serious athletes will likely be drawn to these features since this is the first time Apple has shipped recovery and strain tracking on its watches. But plenty of casual users may also find these features useful when in the process of adopting healthier habits.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 2\. Pause your rings
 
 Ever get sick one day or just need a break, but you're concerned about not keeping your streak to close your Apple Watch's rings? Now, you don't have to worry about missing out on the day's progress. In WatchOS 11, Apple is giving you the ability to pause your rings for a day, week, month, or longer until you're ready to get back in the game.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RCYs8keh-Vs?si=uDC28-9yh-k6HLj4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 3\. Better support for pregnancy
 
@@ -76,10 +68,6 @@ The Photos face is one of the most popular faces on the Apple Watch, given its h
 
 Your watch will use machine learning to analyze your photo library and find the best snaps to use as a watch face based on aesthetics, composition, and facial expressions. Apple's algorithm will then optimize the image for the watch face and add depth effects, different colored backgrounds, fonts, and more. You can customize it on your own to your heart's content, plus get treated to a new look every time you raise your wrist.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2En1CHbiYwA?si=jZKzTr9EIT2ShjGK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 6\. Double Tap now works with any app
 
 One of the biggest complaints with the [Apple Watch Series 9](https://www.zdnet.com/article/apple-watch-series-9-review/) and [Ultra 2](https://www.zdnet.com/article/i-spent-a-week-with-the-apple-watch-ultra-2-and-heres-what-stood-out-the-most/) was how limited Double Tap was. Up until now, the feature has only worked in select apps that supported scrolling by tapping your fingers. But now, it's expanding to all apps and third-party apps with WatchOS 11\. Apple will also roll out the Double Tap API, which will let developers implement the feature in their apps.
@@ -98,17 +86,9 @@ Move over, Venmo. Also in iOS 18, Apple is bringing Tap to Cash to WatchOS 11\. 
 
 **Also: [How to use 'Tap to Cash' to send money in iOS 18](https://www.zdnet.com/article/how-to-use-tap-to-cash-to-send-money-in-ios-18/)**
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 9\. Translate on the fly
 
 Apple is adding the Translate app to WatchOS 11, allowing you to translate in any of 20 supported languages. Previously, the app was available only on the iPhone and iPad. When you're traveling abroad where a supported language is spoken, it'll automatically pop up in your watch's Smart Stack. Otherwise, choose the target and source languages and speak the words you want to be translated. Tap the Play button, and the translation plays through your watch's internal speaker.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 10\. Improved workout tracking for GPS-specific workouts
 
@@ -152,18 +132,24 @@ Right now, [WatchOS 11 is available as a public beta](https://www.zdnet.com/arti
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-tips.techidaily.com/024-approved-enhance-visibility-a-comprehensive-guide-to-video-tagging/"><u>[New] 2024 Approved Enhance Visibility A Comprehensive Guide to Video Tagging</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/our-life-your-legacy-youtube-videos-that-matter-for-2024/"><u>[New] Your Life, Your Legacy YouTube Videos That Matter. For 2024</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/capture-the-action-easy-steps-for-overwatch-players-for-2024/"><u>Capture the Action Easy Steps for Overwatch Players for 2024</u></a></li>
-<li><a href="https://techidaily.com/cookiebot-enabled-enhance-your-websites-performance/"><u>Cookiebot-Enabled: Enhance Your Website's Performance</u></a></li>
-<li><a href="https://driver-download.techidaily.com/easy-installation-of-updated-hp-laserjet-p1102dw-printing-software-for-windows-users/"><u>Easy Installation of Updated HP LaserJet P1102dw Printing Software for Windows Users</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/exploring-the-possibilities-how-apples-future-plans-include-a-household-robotic-aide/"><u>Exploring the Possibilities: How Apple's Future Plans Include a Household Robotic Aide</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/in-2024-enhancing-collaboration-whiteboard-tactics-for-all-zoom-users/"><u>In 2024, Enhancing Collaboration Whiteboard Tactics for All Zoom Users</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/mastering-the-new-features-of-ios-18-enhancing-and-tweaking-your-iphones-control-panel/"><u>Mastering the New Features of iOS 18: Enhancing and Tweaking Your iPhone's Control Panel</u></a></li>
-<li><a href="https://extra-information.techidaily.com/mastering-tiktok-videos-editing-hacks-revealed/"><u>Mastering TikTok Videos Editing Hacks Revealed</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/the-top-3-new-iphone-16-innovations-that-will-make-you-want-to-switch-right-now-insights/"><u>The Top 3 New iPhone 16 Innovations That Will Make You Want to Switch Right Now! - Insights</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/top-apple-watch-bargains-in-july-2024-exclusive-offers-featured-by-zdnet/"><u>Top Apple Watch Bargains in July 2024 - Exclusive Offers Featured by ZDNet</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/top-phones-recommended-tech-experts-what-they-truly-prefer-and-why/"><u>Top Phones Recommended Tech Experts: What They Truly Prefer and Why</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/unlocking-the-secrets-of-affordable-tunes-a-guide-to-getting-student-discounts-on-apple-music-insights-from-zdnet/"><u>Unlocking the Secrets of Affordable Tunes: A Guide to Getting Student Discounts on Apple Music - Insights From ZDNet</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-2024-approved-seamless-integration-transferring-snapchat-images-directly/"><u>[New] 2024 Approved Seamless Integration Transferring Snapchat Images Directly</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-2024-approved-social-media-fusion-tweet-facebook-connectivity/"><u>[New] 2024 Approved Social Media Fusion Tweet-Facebook Connectivity</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/treamline-your-youtube-watch-with-no-black-or-white-edges-for-2024/"><u>[New] Streamline Your YouTube Watch with No Black or White Edges for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-the-essential-guide-from-twitter-videos-to-high-quality-mp3-soundtracks/"><u>[New] The Essential Guide From Twitter Videos to High-Quality MP3 Soundtracks</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-elevating-your-earning-game-with-youtube-monetization-strategies-for-2024/"><u>[Updated] Elevating Your Earning Game with YouTube Monetization Strategies for 2024</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/imovie-on-mac-comprehensive-tutorial-for-converting-and-importing-mkv-videos/"><u>IMovie on Mac: Comprehensive Tutorial for Converting and Importing MKV Videos</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-google-vs-others-a-comparison-in-ar-stickers/"><u>In 2024, Google Vs. Others A Comparison in AR Stickers</u></a></li>
+<li><a href="https://ai-video.techidaily.com/new-2024-approved-best-10-free-video-translators-to-mitigate-translation-risks/"><u>New 2024 Approved Best 10 Free Video Translators to Mitigate Translation Risks</u></a></li>
+<li><a href="https://techidaily.com/troubleshooting-tips-for-cddvd-device-malfunctions-and-overcoming-error-39/"><u>Troubleshooting Tips for CD/DVD Device Malfunctions and Overcoming Error 39</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/trustworthy-techniques-for-apple-ai-app-discovery/"><u>Trustworthy Techniques for Apple AI App Discovery</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/uncover-the-bigger-picture-beyond-ai-generated-synopses/"><u>Uncover the Bigger Picture Beyond AI-Generated Synopses</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/understanding-and-utilizing-openais-shapley-explanations-for-machine-learning-insights/"><u>Understanding and Utilizing OpenAI's Shapley Explanations for Machine Learning Insights</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/understanding-chatgpt-and-unleashing-the-power-of-generative-artific/"><u>Understanding ChatGPT & Unleashing the Power of Generative Artific</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/unleashing-video-potential-mastering-script-craft-with-chatgpt/"><u>Unleashing Video Potential: Mastering Script Craft with ChatGPT</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/unlock-the-secrets-of-detective-games-play-four-advanced-ai-powered-mysteries-online/"><u>Unlock the Secrets of Detective Games: Play Four Advanced AI-Powered Mysteries Online</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/unlocking-the-power-of-artificial-intelligence-in-imagery-with-chatgpt/"><u>Unlocking the Power of Artificial Intelligence in Imagery with ChatGPT</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/unveiling-ais-roots-tracing-the-inception-moment-in-its-timeline/"><u>Unveiling AI's Roots - Tracing the Inception Moment in Its Timeline</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/unveiling-claude-3-capabilities-functions-and-uses-explained/"><u>Unveiling Claude 3 Capabilities: Functions & Uses Explained</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1723209469688-windows-10-touchpad-not-scrolling-heres-how-to-solve-it/"><u>Windows 10 Touchpad Not Scrolling? Here’s How to Solve It</u></a></li>
 </ul></div>
 

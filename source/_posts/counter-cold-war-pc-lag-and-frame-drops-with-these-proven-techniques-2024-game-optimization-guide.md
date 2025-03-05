@@ -1,7 +1,7 @@
 ---
 title: Counter Cold War PC Lag and Frame Drops with These Proven Techniques - 2024 Game Optimization Guide
-date: 2024-08-15T20:11:39.510Z
-updated: 2024-08-16T20:11:39.510Z
+date: 2025-03-02T18:39:10.619Z
+updated: 2025-03-05T17:52:55.123Z
 tags:
   - win11
   - win10
@@ -59,9 +59,6 @@ Below are the minimum hardware requirements for Windows 10:
 
  Once you get ready for upgrading to Windows 10, follow the step-by-step guide to download and install Windows 10 on your Window s 7 computer.
 
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DBanner%2B728x90"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/2e76fe6a-3010-1b37-7846-f34ff9c6b4ca.png" border="0"></a>
-<!-- affiliate ads end -->
 ### Part 1: Create Windows 10 installation media
 
  You’ll need a blank USB flash drive with at least 8GB of space to store the Windows 10 installation file.
@@ -71,22 +68,9 @@ Below are the minimum hardware requirements for Windows 10:
 3. Click**Download tool now** .![](https://images.drivereasy.com/wp-content/uploads/2019/05/2019-05-15_16-53-33.png)
 4. Double-click the downloaded file. Then click**Yes** when prompted by User Account Control.
 5. Click**Accept** to agree the license terms.![](https://images.drivereasy.com/wp-content/uploads/2019/05/2019-05-14_10-21-04.png)
-<!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713324&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVTV1.90-300x188.jpg" border="0">OtsAV TV Webcaster</a>
-<!-- affiliate ads end -->
 6. You’ll then see the What do you want to do page. Select **Create installation media(USB flash drive, DVD, or ISO file) for another PC** .![](https://images.drivereasy.com/wp-content/uploads/2019/05/2019-05-14_10-22-56.png)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40085955&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f702defbc67edb455949f46babab0c18/products/2_logo9.png" border="0">FX PRO (Gold Robot + Silver Robot(Basic Package))</a>
-<!-- affiliate ads end -->
 7. Click**Next** if you accept to use the recommended options. If you want to change the option, unselect Use the recommended options for this PC, then set your preferred options and click Next to proceed.![](https://images.drivereasy.com/wp-content/uploads/2019/05/2019-05-14_10-23-51.png)
-<!-- affiliate ads begin -->
-<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254762&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/11_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
-<!-- affiliate ads end -->
 8. Click**Next** with the default selected option USB flash drive on the Choose which media to use page. Tick USB flash drive if it’s not selected.![](https://images.drivereasy.com/wp-content/uploads/2019/05/2019-05-14_10-25-38.png)
-<!-- affiliate ads begin -->
-<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4610657&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2024/06/emeditor_chat_ai.png" border="0">
-EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code editor, CSV editor, and large file viewer for Windows. Both native 64-bit and 32-bit builds are available, and moreover, the 64-bit includes separate builds for SSE2 (128-bit), AVX-2 (256-bit), and AVX-512 (512-bit) instruction sets. New versions support AI-assisted writing.</a>
-<!-- affiliate ads end -->
 9. Select your USB drive from the list, then click**Next** .![](https://images.drivereasy.com/wp-content/uploads/2019/05/2019-05-14_10-31-10-1.png)
 10. It’ll then start downloading Windows 10 ISO file and creating Windows 10 media onto your USB drive. The process may last around 10 minutes. Click Finish on the Your USB flash drive is ready page.![](https://images.drivereasy.com/wp-content/uploads/2019/05/2019-05-14_10-44-54.png)
 
@@ -100,38 +84,19 @@ EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code e
 2. Press the**right arrow key** to select the**Boot** pane.![](https://images.drivereasy.com/wp-content/uploads/2019/05/2019-05-14_11-13-04.png)
 3. Under the Boot pane, find your USB flash drive’s section, it may be**Removable Devices** ,**USB HDD** or something like that. Change the section to the top of the boot order list.  
  If you have different USB devices connected to your computer, make sure your USB flash drive is listed 1st of the section.![](https://images.drivereasy.com/wp-content/uploads/2019/05/2019-05-14_11-13-04.png)
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087264/19272" target="_top" id="2087264"><img src="//a.impactradius-go.com/display-ad/19272-2087264" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087264/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 4. Press**F10** to save your setting and exit BIOS. Then press**Enter** with Yes selected.![](https://images.drivereasy.com/wp-content/uploads/2019/05/2019-05-14_11-18-23.png)
 5. Your computer will restart and boot from your USB flash drive.
 6. Set the language, time format and keyboard method, then click**Next** .![](https://images.drivereasy.com/wp-content/uploads/2019/05/2019-05-14_16-45-31.png)
-<!-- affiliate ads begin -->
-<a href="https://turtlebeachus.sjv.io/c/5597632/1988416/23719" target="_top" id="1988416"><img src="//a.impactradius-go.com/display-ad/23719-1988416" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1988416/23719" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 7. Click Install now.![](https://images.drivereasy.com/wp-content/uploads/2019/05/2019-05-14_16-47-24.png)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718728&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/vMixCallScreenshot1-large.jpg" border="0"> vMix Basic HD - Software based live production. vMix Basic HD includes 4 inputs, 3 cameras, streaming, recording, playlist. 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
-<!-- affiliate ads end -->
 8. Enter your product key.![](https://images.drivereasy.com/wp-content/uploads/2019/05/2019-05-15_17-46-59.png)
-<!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958374/18409" target="_top" id="1958374"><img src="//a.impactradius-go.com/display-ad/18409-1958374" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958374/18409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 9. Choose the**Windows 10 edition** according to your product key type. Then click**Next** .![](https://images.drivereasy.com/wp-content/uploads/2019/05/2019-05-14_16-50-39.png)
 10. Tick on**I accept the license terms** . Then click**Next** .![](https://images.drivereasy.com/wp-content/uploads/2019/05/2019-05-14_16-53-53.png)
-<!-- affiliate ads begin -->
-<a href="https://vapordna.pxf.io/c/5597632/1496243/17238" target="_top" id="1496243"><img src="//a.impactradius-go.com/display-ad/17238-1496243" border="0" alt="" width="1000" height="1221"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1496243/17238" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 11. Click**Custom: Install Windows only(advanced)** .![](https://images.drivereasy.com/wp-content/uploads/2019/05/2019-05-14_16-54-30.png)
 12. Select the drive which you plan to install the system. Then click**Next** .![](https://images.drivereasy.com/wp-content/uploads/2019/05/2019-05-14_16-55-53.png)  
  Windows should then start to be installing onto your computer.  
  Important: Remove your USB flash drive when you see the Windows needs to restart to continue page.![](https://images.drivereasy.com/wp-content/uploads/2019/05/2019-05-14_17-01-19.png)  
  Till now, the Windows 10 is almost installed on your computer.
 13. Follow the on-screen OOBE(Out-of-Box-Experience) instructions to set up Windows 10 on your computer. The setup includes but not only like Cortana and region settings.![](https://images.drivereasy.com/wp-content/uploads/2019/05/2019-05-14_17-06-33.png)
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407"><img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  After the basic setup, your Windows 7 computer has successfully upgraded to Windows 10\. You’re able to download your frequent using apps and start enjoying Windows 10.
 
@@ -146,9 +111,6 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
  To update your drivers with Driver Easy, just click the**Scan Now** button, then when it lists the drivers you need to update, click**Update** . The correct drivers will be downloaded, and you can install them –**either manually** through Windows or all automatically with[Driver Easy Pro](https://tools.techidaily.com/drivereasy/download/) .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-463.png)
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399"><img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ---
 
@@ -160,8 +122,6 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -169,4 +129,23 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-techniques.techidaily.com/new-finns-fortune-flux-earnings-examination/"><u>[New] Finn's Fortune Flux Earnings Examination</u></a></li>
+<li><a href="https://win-answers.techidaily.com/solved-war-thunder-keeps-crashing-2024-tips/"><u>[Solved] War Thunder Keeps Crashing | 2024 Tips</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/boundaries-of-ai-the-unanswerable-list/"><u>Boundaries of AI: The Unanswerable List</u></a></li>
+<li><a href="https://fox-tips.techidaily.com/easy-steps-to-retrieve-deleted-documents-on-your-windows-11-pc/"><u>Easy Steps to Retrieve Deleted Documents on Your Windows 11 PC</u></a></li>
+<li><a href="https://article-posts.techidaily.com/in-2024-7-essential-tips-for-flawless-underwater-filming/"><u>In 2024, 7 Essential Tips for Flawless Underwater Filming</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-unlock-sim-card-on-samsung-galaxy-a14-4g-online-without-jailbreak-by-drfone-android/"><u>In 2024, How to Unlock SIM Card on Samsung Galaxy A14 4G online without jailbreak</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/in-2024-iphone-image-editing-learn-to-change-resolution/"><u>In 2024, IPhone Image Editing Learn to Change Resolution</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/premier-imagery-unboxing-analysis-for-2024/"><u>Premier Imagery Unboxing Analysis for 2024</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/transform-your-workflow-explore-8-effective-ways-to-utilize-auto-gpt/"><u>Transform Your Workflow: Explore 8 Effective Ways to Utilize Auto-GPT</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/understanding-llama-2-usage-features-and-benefits/"><u>Understanding Llama 2: Usage, Features, and Benefits</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/understanding-the-distinctions-siri-vs-chatgpt-unveiled/"><u>Understanding the Distinctions: Siri Vs. ChatGPT Unveiled</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/unheard-truth-talk-to-chatgpt-now/"><u>Unheard Truth: Talk to ChatGPT Now!</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/unlock-language-diversity-using-chatgpt-as-a-translation-workhorse/"><u>Unlock Language Diversity: Using ChatGPT as a Translation Workhorse</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/unlock-your-culinary-potential-with-chatgpts-cooking-hints-and-tricks/"><u>Unlock Your Culinary Potential with ChatGPT's Cooking Hints & Tricks</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/unpacking-financial-advice-via-emojis-activisions-digital-vulnerability-and-ai-driven-employment-concerns/"><u>Unpacking Financial Advice via Emojis, Activision's Digital Vulnerability and AI-Driven Employment Concerns</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/winx-dvd-player-tutorial-a-step-by-step-installation-and-usage-manual/"><u>WinX DVD Player Tutorial: A Step-by-Step Installation & Usage Manual</u></a></li>
+</ul></div>
 
